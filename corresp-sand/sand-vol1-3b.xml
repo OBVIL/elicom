@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <placeName>Bagnères</placeName>
+                    <date when="1825-08-28" >28 août 1825.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MÊME</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>Bagnères</placeName>
+                        <date>28 août 1825.</date>
+                    </dateline>
+                    <salute>Ma chère petite maman,</salute>
+                </opener>
+                <p>A LA MÊME</p>
+                <p>Bagnères. 28 août 1825.</p>
+                <p>J'ai reçu votre aimable lettre à"Cauterets, ei je i'. Le baron Dudevant, b~au-péredeGeorgeSand.</p>
+                <p>n'ai pu y répondre tout de suite pour mille raisons. La première, c'est que Maurice venait d'être sérieusement malade, ce qui m'avait donné beaucoup d'inquiétude et d'embarras.</p>
+                <p>Il est parfaitement guéri depuis quelques jours .que nous sommes ici et que nous avons retrouvé le soleil et la chaleur. H a repris tout à fait appétit, sommeil, gaieté et embonpoint. Aussitôt qu'il a été 'hors de danger, j'ai profité de sa convalescence pour courir lesmontagnes de Cauterets et de Saint-Sauveur, que je n'avais pas eu le temps de voir. Je n'ai donc pas eu une journée à moi pour écrire à qui que ce soit; tout le monde m'en veut et je m'en veux à moi-. même. Mais, après avoir fait, presque tous les jours, &lt;Ies courses de huit, dix, douze et quatorze lieues à cheval, j'étais tellement fatiguée, que je ne songeais qu'à dormir, encore' quand Maurice me te permet-. tait. Aussi j'ai été fort souffrante de la poitrine, et j'ai eu des toux épouvantables mais je ne me suis point arrêtée à ces misères, et, en continuant des .exercices violents, j'ai retrouvé ma santé et un appétit qui effraye nos compagnons de voyage les plus voraces.</p>
+                <p>Je suis dans un tel enthousiasme des Pyrénées, que je ne vais plus rêver et parler, toute ma vie, que montagnes, torrents, grottes et précipices. Vous connaissez ce beau pays, mais pas si bien que moi, j'en ~uis sûre; car beaucoup des merveilles que j'ai vues, .sont enfouies dans des chaînes de montagnes où les</p>
+                <p>voitures et même les chevaux n'ont jamais pu pénétrer. li faut marcher à pic des heures entières dans des gravats qui s'écroulent à tout instant, et sur des roches aiguës où on laisse ses souliers et partie de ses pieds.</p>
+                <p>A Cauterets, on a une manière de gravir les rochers fort commode. Deux hommes vous portent sur une chaise attachée à un brancard, et sautent ainsi de roche en roche au-dessus de précipices sans fond, avec une adresse, un aplomb et une promptitude qui vous rassurent pleinement et vous font braver tous les dangers; mais, comme ils sentent le bouc d'une lieue et que très souvent on meurt de froid après une ou deux heures de l'après-midi, surtout au haut des montagnes, j'aimais mieux marcher. Je sautais comme eux d'une pierre à l'autre, tombant souvent et me meurtrissant les jambes, riant quand même de mes désastres et de ma maladresse.</p>
+                <p>Au reste, je ne suis pas la seule femme qui fasse des actes de courage. Il semble que le séjour des Pyrénées inspire de l'audace aux plus timides, car les compagnes de mes expéditions en faisaient autant. Nous avons été à la fameuse cascade de Gavarnie, qui est la merveille des Pyrénées. Elle tombe d'un rocher de douze cents toises de haut, taillé à pic comme une muraille. Près de la cascade, on voit un pont de neige, qu'à moins de toucher, on ne peut croire l'ouvrage de la nature; l'arche, qui a dix ou douze pieds de haut, est parfaitement faite et t.</p>
+                <p>on croit voir des coups de truelle sur du plâtre. Plusieurs des personnes qui étaient avec nous (car on est toujours fort nombreux dans ces excursions) s'en sont retournées, convaincues qu'elles. venaient de voir un ouvrage de maçonnerie: Pour arriver à ce prodige, et pour en revenir, nous avons fait douze lieues à cheval.sur un-sentier de trois pieds. de large, au bord d'un précipice qu'en certains endroits on appelle l'échelle, et dont on ne voit, pas le fond. Ce n'est pourtant pas là ce qu'il y a de plus dangereux; car les chevaux y sont accoutumés et passent à une ligne du bord, sans broncher. Ce qui m'étonne bien davantage dans ces chevaux.de montagne, c'est leur aplomb sur des escaliers de rochers qui ne présentent à leurs pieds que des pointes tranchantes et polies.</p>
+                <p>J'en avais un fort laid, comme ils le sont. tous, mais à qui j'ai fait faire des choses qu'on n'exigerait que d'une chèvre galopant toujours dans'Ies endroits les plus. effrayants, sans glissser, ni. faire un. seul faux pas, et sautant do, roche en roche en descendant. J'avoue que je ne supposais pas que cela.fut possible et que je ne me serais jamais cru le courage de me fier à lui avant que j'eusse (éprouvé ses moyens. Nous avons été hier à six..lieues d'ici à.cheval, pour visiter les grottes de.'Lourdes..Nous: sommes entrés à-. plat ventre dans celle du Loup. Quand, on s~est bien fatigué pour arriver à.un.trou d'un pied de. haut, quh ressemble à, la, retraite, d'un, blaireau, j'avoue que~</p>
+                <p>l'on se sent un peu découragé. J'étais avec mon mari et deux autres jeunes gens avec qui nous nous étions liées à Cauterets et que nous avons retrouvés à Bagnères, ainsi qu'une grande partie de notre aimable et nombreuse société~bordelaise. Nous avons eu le courage de nous enfoncer dans cette tanière, et, au bout d'une minute, nous, nous sommes trouvés dans un endroit beaucoup plus spacieux, c'est-à-dire que nous pouvions nous tenir debout sans chapeau et que nos épaules n'étaient qu'un peu froissées à droite et à gauche.</p>
+                <p>Après avoir fait cent cinquante pas dans cette agréable position, tenant chacun une lumière et étant bottes et souliers, pour ne pas glisser sur le marbre mouillé et raboteux, nous sommes arrivés au puits naturel, que nous n'avons pas vu, malgré tous nos flambeaux, parce que le roc disparaît tout à coup sous les pieds, et l'on ne trouve plus qu'une grotte si obscure et si. élevée, qu'on ne distingue ni. le haut ni le fond.</p>
+                <p>Nos guides arrachèrent des roches avec. beaucoup d'effort et les lancèrent dans l'obscurité; c'est alors que nous. jugeâmes de la profondeur du gouffre le bruit de la pierre frappant le roc fut comme un coup de canon, et, retombant dans l'eau comme un coup. de tonnerre, y causa une agitation épouvantable. Nous entendîmes pendant quatre minutes l'énorme masse d'eau ébranlée, frapper le roc avec une fureur et un bruit effrayant qu'on aurait pu prendre tantôt</p>
+                <p>pour le travail de fauxmonnayeurs, tantôt pour les voix rauques et bruyantes des brigands. Ce bruit, qui nart des entrailles de la terre.~joint à l'obscurité et à tout ce que l'intérieur d'une caverne a de sinistre, aurait pu glacer des coeurs moins aguerris que les nôtres. »</p>
+                <p>Mais nous avions joué à Gavarnie avec les crânes des templiers, nous avions passé sur; le pont de neige quand nos guides nous criaient qu'il allait s'écrouler. La grotte du Loup n'était qu'un jeu d'enfant. Nous y passâmes près d'une heure, et nous revînmes chargés de fragments des pierres que nous avions lancées dans le gouffre. Ces pierres, que je vous montrerai, sont toutes remplies de parcelles de fer et de plomb qui brillent comme des paillettes. En sortant. de la grotte du Loup, nous entrâmes dans las Esp~MC~M. Notre savant cousin, M. Defos', ~ous dira que ce nom patois vient du latin. Nous trouvâmes l'entrée de ces grottes admirable; j'étais seule en avant, je fus ravie de me trouver dans ~ine salle magnifique soutenue par d'énormes masses de rochers qu'on aurait pris pour des piliers d'architecture gothique, le plus beau pay~ du monde, le. torrent d'un bleu d'azur, les prairies d'un vert éclatant, un premier cercle de montagnes couvertes de bois épais, et un second, à l'horizon, d'un bleu tendre qui se confondait avec le ciel, toute cette belle t. Cousin éloigné de George Sand.</p>
+                <p>nature éclairée par le soleil couchant, vue.du haut d'une montagne, au travers de ces noires arcades de rochers, derrière moi la sombre ouverture des grottes j'étais transportée.</p>
+                <p>Je parcourus ainsi deux ou trois de .ces péristyles, communiquant les uns aux autres par des portiques cent fois plus imposants et plus majestueux que tout ce que feront les efforts des hommes.</p>
+                <p>Nos ,compagnons arrivèrent et nous nous enfonçâmes encore dans les détours d'un labyrinthe étroit et humide, nous aperçûmes au-dessus de nos têtes une salle magnifique, où notre guide ne se souciait guère de nous conduire. Nous le forçâmes de nous mener à ce second étage. Ces messieurs se déchaussèrent et grimpèrent assez adroitement; pour moi, j'entrepris l'escalade.</p>
+                <p>Je passai sans frayeur sur le taillant d'un marbre glissant, au-dessous duquel était une profonde excavation. Mais quand il fallut enjamber sur un trou que l'obscurité rendait très effrayant, n'ayant aucun appui ni pour mes pieds, ni pour mes mains, glissant de tous côtés, je sentis mon courage chanceler.. Je riais, mais j'avoue que j'avais peur. Mon mari m'attacha deux ou trois foulards autour du corps et me soutint ainsi pendant que les autres me tiraient par les mains. Je ne sais ce que devinrent mes jambes pendant ce temps-là. Quand je fus en haut, je m'assurai que mes mains (dont je souffre encore) n'étaient pas restées dans les leurs, et je fus payée</p>
+                <p>de mes efforts par l'admiration que j'éprouvai. La descente ne fut pas moins périlleuse, et le guide nous dit, en. sortant, qu'il avait depuis bien des années conduit des étrangers aux JEspe~MC~M, mais qu'aucune femme n'avait gravi le second étage. Nous nous amusâmes beaucoup à ses dépens en lui reprochant de ne pas balayer assez souvent les appartements dont il avait l'inspection.</p>
+                <p>Nous rentrâmes à Lourdes dans un état de. saleté impossible à décrire je remontai à cheval avec mon mari, et, nos jeunes gens prenant la route de Bordeaux, nous prîmes tous deux celle de Bagnères.Nous eûmes, pendant dix lieues, une pluie à verse et nous sommes rentrés ici à dix heures du soir, trempés jusqu'aux os et mourant de faim. Nous ne nous en portons que mieux aujourd'hui.</p>
+                <p>Nous sommes dans l'enchantement de deux chevaux arabes que nous: avons achetés, et qui seront les plus beaux que l'on ait jamais vus au bois de Boulogne.</p>
+                <p>Voilà une lettre éternelle, ma chère maman;.mais vous me demandez. des détails et. je vous obéis avec d'autant plus. de plaisir que je cause avecvous. Clotitde m'en demande aussi; mais je.n'ai guère le temps de lui écrire aujourd'hui, et demain recommencent mes courses. Veuillez l'embrasser pour moi, lui faire lire cette lettre si eUe.peut. l'amuser, et lui dire que, dans huit à dix jours, je serai. chez, mon. beau-père et j'aurai le loisir. de lui écrire.</p>
+                <p>Adressez-moi donc de vos nouvelles chez lui, près. de Nérac (Lot-et-Garonne)..J'en attends avec impatience, je suis si loin, si loin de vous e* de tous les miens! Adieu, ma chère maman. Maurice est gentil à croquer! Casimir se repose, dans ces courses dont je vous parle, de celles qu'il a faites sans moi à Cauterets; il a été à la chasse sur les Dlus -hautes montagnes, il a tué des aigles, des perdrix blanches et des isards ou chamois, dont il vous fera voir les dépouilles; pour moi, je vous porte du cristal de roche. Je vous porterais du barège de Barèges même, s'il était un peu moins gros et moins laid.</p>
+                <closer>
+                    <salute>Adieu, chère maman; je vous embrasse de tout. mon cœur.</salute>
+                    <signed>
+                        <name>
+                           Veuillez, quand, vous lui écrirez, embrasser mille fois ma. soeur pour moi, lui dire que je suis bien loin de l'oublier; que cette lettre que je vous écris et une à mon frère sont les seules que j'aie. eu le temps d'écrire aux Pyrénées, mais que, quand je serai à Gui)lery~ je lui écrirai tout de suite. Nous comptons y rester jusqu'au mois de janvier; de là, aller passer le carnaval à Bordeaux, et.enfin retourner avec le printemps à Nohant, où nous vous attendrons avec ma.tante.,
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

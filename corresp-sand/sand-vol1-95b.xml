@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1835-11-09">9 novembre 1835</date>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Guéroult Adolphe (1810-1872)">A MONSIEUR ADOLPHE GUÉROULT</persName>
+                    <placeName>La Châtre</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Nôhant,l''no&lt;embret835."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A M. ADOLPHE GUËROULT. A P.ARtS.</p>
+                <p>La CMtre. 9 novembre l!i3S.</p>
+                <p>Mon cher enfant,</p>
+                <p>J'ai à répondre à deux lettres de vous et je veux le</p>
+                <p>~a~re avant de me mettre au travail car j'ai un roman arrangé dans ma tête. Dussiez-vous dire que je fais mes embarras, vous n'entendrez pas plus parler demoi, d'ici à deux ou trois mois, que si j'étais morte. J'ai écrit les premières pages hier, et je suis dans. le coup de feu. Vous connaissez cela. Pour toutes. choses, il y a un beau moment, c'est te commencement. C'est peut-être à. cause de cela que je suis si. républicaine, et vous si peu saint-simonien. Quoi qu'iH en sott, allez votre train, si vous croyez que ce soit Ia&lt; bonne voie. Nous voulons tous le bien et nous aiïonst</p>
+                <p>-au même but par des moyens différents. Nous nous disputons toujours, parce que chacun croit avoir plus d'esprit que son voisin, et se console d'aller fort mal, en voyant que les autres ne vont pas mieux: triste consolation, en vérité, qui fait beaucoup de mal à notre époque. Toute cette guerre à coups d'épingle que se fait l'amour-propre des uns et des autres n'avance à rien; tout au contraire. Si tout ce qui a de bonnes vues et de bons sentiments s'accueillait avec tolérance, on ferait le double d'ouvrage.</p>
+                <p>Vous ne pouvez nier, mon cher Marius ~Mturnes, que je n'aie plus de bonne foi que vous. Vous abîmez nos républicains de la tête aux pieds, et moi, je ne cesse d'aimer vos saint-simoniens et de tes placer au-dessus de tout.</p>
+                <p>Je me défends même d'une chose, c'est d'aimer les républicains avec excès. J'aime ceux qui se trouvent .être mes amis, et j'examine les autres par curiosité, ou je les accueille par savoir-vivre et politesse. Cela ne fait rien au principe.</p>
+                <p>'Robespierre était diablement saint-simonien. Il était pour l'exécution prompte et violente du système. Vous êtes pour la marche lente etévangétique. Eh bien, chacun devrait être républicain à la manière de Robespierre, ou saint-simonien à la manière d'Enfantin, selon son tempérament. Les uns saperaient, les autres bâtiraient. Soyez sûr que cela viendra, qu'il y aura entre vous et nous une étroite alliance et que vous ne .~rez rien sans nous.</p>
+                <p>Vous savez comment s'est établi le c.hristianisme, c'est-à-dire fort mal, même dans ce qu'on appelle son meilleur temps. Il était dans un si beau désaccord avec les mœurs, qu'en son nom, on commettait les crimes et on nourrissait les sentiments les plusoppo~s à son institution et à son esprit. Douze corps d'arruée_, commandés par les douze apôtres, eussent, je ci-ois, mieux valu que Paul répétant cette lâcheté &lt;: Rendes à César, etc.</p>
+                <p>Faites à votre idée, si vous croyez bien faire en louvoyant, et si votre conscience est en paix. Moquezvous des reproches que je fais à votre tiédeur croissante, comme je me moque des railleries que vous adressez à mon récent enthousiasme. Je crois que vous vous trompez cependant, et que l'amour df l'égalité a été la seule chose qui n'ait pas varié en moi depuis que j'existe. Je n'ai jamais pu accepter de maître.</p>
+                <p>A propos, mon procès marche, il est en bon train.. Le baron ne plaide pas, il demande de l'argent et beaucoup. Je lui en donne, on le condamne à me laisser tranquille et tout va bien. Quant à ce qu'on en pensera à Paris, cela m'occupe aussi peu que de ce qu'on pense en Chine de Gustave Planche. L'opinion est une prostituée qu'il faut mener à grands coups de pied quand on a raison. Il ne faut jamais se soumettre à des avanies pour obtenir des salutations et des courbettes en public. Je voudrais bien vous voir digérer des menaces et des coupsf</p>
+                <p>'Allons donc Il faudrait que tout votre sang y passât, ou celui de votre provocateur.</p>
+                <p>Croyez-vous que je n'aie pas de dignité personnelle à défendre parce que je suis femme? Allons donc, encore! Souvenez-vous d'avoir prêché l'anranchissement de la femme.</p>
+                <p>Nous ne savons pas faire des armes, et on ne nous permet pas de provoquer nos maris en duel; on a bien raison, ils nous tueraient, ce qui leur ferait trop déplaisir.</p>
+                <p>Mais nous avons la ressource de crier bien haut, d'invoquer trois imbéciles en robe noire, qui font semblant de rendre la justice, et qui, en vertu de cer.taine bonté de législation envers les esclaves menacée de mort, daignent nous dire « On vous permet de ne plus aimer monsieur votre maître, et, si la maison est à vous, de le mettre dehors. B</p>
+                <p>Malgré tout ce que je vous dis là, par bonté pour monsieur mon époux, je fais tenir l'affaire aussi secrète que possible. Jusqu'ici, rien n'a transpiré, même dans la petite ville que j'habite, ce qui est merveilleux. Cela ira tant que cela pourra. N'en parlez donc à qut que ce soit.</p>
+                <p>Bonsoir, mon ami; je vous embrasse de tout mon cœur; je suis bien fâchée que vous n'ayez pas le plus petit fait à rapporter comme témoin; car l'enquête va réunir une vingtaine d'amis autour de moi. Grâce à Duteil, à Planet et à .votre serviteur, il sera impos sib!e d'être plus spirituel que ne le sera cette char. 1H</p>
+                <p>mante réunion. Défense d'y parler affaires et procès surtout. Ce sera l'adieu éternel que j'adresserai à mes amis, si je suis déboutée de ma demande.</p>
+                <p>En attendant, j'aurai fait mon livre. J'irai à Paris après mon procès jugé. Au revoir donc; donnez-moi de vos nouvelles si vous en avez le temps. Envoyez-moi ces lithographies et dites à Vincard que je lui donne une grosse poignée de main.</p>
+                <p>G. S.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

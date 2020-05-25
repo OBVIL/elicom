@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1836-02-17">17 février 1836</date>
+                    <placeName>La Châtre</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dudevant, Maurice (1823-1889)">A M. MAURICE DUDEVANT</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="LaCMtre,~KYrier&lt;836."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A MAURICB DUDEVANT, AU COLLÈGE HENRI t~ LaCMtro.nMvricrt836.</p>
+                <p>Mon bon petit,</p>
+                <p>Voici !e carnaval, tout le monde s'amuse, ou fait</p>
+                <p>semblant de s'amuser. Moi, je m'amuserais, si je</p>
+                <p>t'avais, et tu t'amuserais aussi. Je suis chëz-Dùteil, nous passons très gaiement les jours gras. Tous les soirs/nous avons.bal masque. Je déguise tous les enfants, Duteil prend son violon, nous allumons quatre chandelles et nous dansons. Si tu étais là, avec ta sœur, la fête serait complète. Hélas! tous ces mioches me font sentir l'absence' des miens.</p>
+                <p>Si j'étais libre de quitter mes affaires, ce n'est pas avec eux que je serais en train de me divertir, mais bien avec vous, mes .pauvres petits. Vous amusez-vous, du moins? Tu es sorti avec tonpère, Solange avec ma tante; racontez-moi à quoi vous avez passé le temps., Il est bien facile de s'amuser avec les gens qu'on aime. Pour moi, il n'y a pas de vrai plaisir sans vous; Aux vacances, nous nous amuserons; car s'amuser, c'est être heureux, et tu sais, quand nous sommes ensemble tous les trois, nous n'avons besoin de personne pour être joyeux toute la journée.</p>
+                <p>J'espérais être à Paris ces jours-ci; mais les gens avec lesquels je suis en affaires m'ont fait attendre et retardée. Il me faut donc attendre encore quinze jours avant d'aller t'embrasser. Garde-moi des sorties .pour le mois de mars, afin que je t'aie le jeudi et le dimanche pendant deux ou trois semaines. Cette fois, c'est certain, et je ne prévois plus d'obstacle possible à mon voyage. N'en parle cependant pas; tu sais, une fois pour toutes, que tu ne dois rien dire de ce que je t'écris, pas même les choses en apparence les plus indifférentes.</p>
+                <p>Tu vas donc chez.Ia reine? c'est fort bien, tues encore trop jeune pour que cela tire à conséquence; mais, à mesure que tu grandiras, tu rénéchiras aux. conséquences des liaisons avec les aristocrates. Je crois bien que tu n'es pas très lié avec Sa Majesté et que tu n'es invité que comme faisant partie de !a.' classe de Montpensier. Mais, si tu avais dix ans de plus,. tes opinions te défendraient d'accepter ces invitations.' Dans aucun cas un homme ne doit dissimuler, pour' avoir les faveurs de la puissance, et les amusements que .Montpensier t'offre. sont déjà des faveurs. Songes-y Heureusement elles ne t'engagent à rien mais, s'H arrivait qu'on te fit, devant lui, quelque question.surtesopinions, tu répondrais, j'espère, comme il convient à un enfant, que tu ne peux pas en avoir en-core tu ajouterais, j'en suis sûre, comme il convient à un homme, que tu es républicain de race et denature c'est-à-dire qu'on t'a enseigné déjà à désirer~ l'égalité, et que ton cœur se sent disposé âne croire qu'à cette justice-là. La crainte de mécontenter le prince ne t'arrêterait pas, je pense. Si, pour un dîner ou un bal, tu étais capable de le flatter, ou seulement. si tu craignais de lui déplaire par ta franchise, ce serait déjà une grande lâcheté.</p>
+                <p>Il ne faut pourtant jamais d'arrogance déplacée. St tu allais dire, devant cet enfant, du mal de son père,. ce serait un espèce de crime. Mais, si, pour et~e bien vu de lui, tu lui en disais du bien, lorsque tu sais' qa'i! n'y a que du mat A en dire, tu serais capable d~</p>
+                <p>vendre un jour ta conscience pour de l'argent, des plaisirs ou des vanités. Je sais que cela ne sera pas mais je dois te montrer les inconvénients des relations avec ceux qui se regardent comme supérieurs aux autres, et à qui la société donne, en effet, de l'autorité sur vous.</p>
+                <p>Garde-toi donc de croire qu'un prince soit, par nature, meilleur et plus utile. à écouter qu'un autre homme. Ce sont, au contraire, nos ennemis naturels, et, quelque bon que puisse être l'enfant d'un roi, il est destiné à être tyran. Nous sommes destinés à être avilis, repoussés ou persécutés par lui.</p>
+                <p>Ne te laisse donc pas trop éblouir par les bons dîners et par les fêtes. Sois un vieux Romain de bonne heure, c'est-à dire, fier, prudent, sobre, ennemi des plaisirs qui coûtent l'honneur et la sincérité. Bonsoir, mon ange; écris-moi. Aime ton vieux George, qui t'aime plus que sa vie.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

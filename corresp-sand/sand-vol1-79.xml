@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-05-26">26 mai 1833</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Rollinat, François (1806-1867)">A M; FRANÇOIS ROLLINAT,A CHATEAUROUX</persName>
+          <placeName>Chateauroux</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Cherami,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Cher ami, Tu ne penses pas que' changé d'avis. Tu es</p>
+        <p>toujours à mes yeux le meilleur et le plus honnête des hommes. Je ne t'ai pas donné signe de souvenir et de vie depuis bien des mois. C'est que j'ai vécu des siècles; c'est que j'ai subi un enfer depuis ce tempslà. Socialement, je suis libre et plus heureuse. Ma, position est extérieurement calme, indépendante,. avantageuse. Mais, pour arriver là, tu ne sais pasquels affreux orages j'ai traversés. Il faudrait, pour tetes raconter passer'bien des soirs dans les allées de Noharit, à la. clarté des étoiles, dans ce grand et beau silence que nous aimions tant. Dieu veuille queces temps nous soient rendus et que nous admirions encore, ensemble, le clair de lune sur la cascade d'Urmont</p>
+        <p>Mais cette indépendance si chèrement achetée, il. faudrait savoir en jouir et je n'en suis plus capable. Mon cœur a vieilli de vingt ans, et rien dans la vie ne me sourit plus. Il n'est plus pour moi de passions profondes, plus de joies vives. Tout est dit. J'ai doublé lecap. Je suis au port, non pas comme ces bons nababs. qui se reposent dans des hamacs de soie, sous les pla-fonds de bois de cèdre de leurs palais, mais commeces pauvres pilotes qui, écrasés de fatigue et brûléspar le soleil, sont à l'ancre et ne peuvent plus ris-quer sur les mers leur chaloupe avariée. Ils n'ont pas de quoi vivre à terre, et, d'ailleurs, la terre les ennuie. Ils ont eu jadis une belle vie, des aventures, des coinbats, des amours, des richesses. Ils voudraient recommencer mais le navire est démâté, la cargaison</p>
+        <p>perdue; il faut échouer sur le sable et rester là. Tu comprends, au fond de cette belle poésie, l'état maussade de mon cerveau. Suis-je plus à plaindre qu'auparavant? Peut-être; le calme qui vient de l'impuissance est une plate chose.</p>
+        <p>Pour toi, c'est différent. La raison, la force, la volonté t'ont placé où tu es. Aussi tu as en toi-même de sérieuses jouissances, de nobles consolations. Je t'enverrai une longue lettre avant peu de temps; c'est-à-dire un livre que j'ai fait' depuis que nous cous sommes quittés. C'est une éternelle causerie entre nous deux. Nous en sommes les plus graves personnages. Quant aux autres, tu les expliqueras à ta fantaisie. Tu iras, au moyen de ce livre, jusqu'au fond de mon âme et jusqu'au fond de la tienne. Aussi je ne compte pas ces lignes pour une lettre. Tu es avec moi et dans ma pensée à toute heure. Tu verras ~ien, en me lisant, que je ne'mens pas.</p>
+        <p>Adieu, ami; écris-moi,, parle-moi de toi beaueoup, de ta famille, des soins austères de ta grande, -belle et triste vie. Je te verrai dans un ou deux mois. Adieu; crois que, pour la vie, je suis à toi. Ton ami</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

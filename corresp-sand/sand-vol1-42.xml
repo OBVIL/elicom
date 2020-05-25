@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-02-16" >Paris, mercredi soir, 16 février 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">M. MAURICE DUDEVANT, A NOHANT</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, mefcredisoir,&lt;6fe&lt;nerd83i."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, mercredi soir, 16 février 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher enfant, je n'ai pas eu le temps de te dire un petit mot, dans la lettre de ton oncle. J'ai reçu le tien ce matin. Je suis très contente que tu te portes bien et que tu t'amuses. Je serais heureuse de te voir, mon cher enfant; mais je serais fâchée que tu fusses ici maintenant. On ne s'y amuse pas tout le monde se dispute, on s'étouffe dans les rues, on démolit les églises et on bat le tambour toute la nuit. Tu es bien mieux à Nohant, où l'on t'aime, où tu peux courir et jouer sans voir des méchants qui se battent.               Adieu, mon cher enfant; travaille toujours, 'écrismoi souvent, embrasse pour moi ton papa, Boucoiran et ta petite sœur. Je vous aime tous deux par-dessus tout et je'vous embrasse mille fois.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

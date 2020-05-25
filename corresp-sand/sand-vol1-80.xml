@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-06-03">3 juin 1833</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guéroult Adolphe (1810-1872)">A M. ADOLPHE GUÉROULT. A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Monsieur,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur, Vous avez été si bon et si obligeant pour moi, que, malgré le long temps qui s'est écoulé sans m'apporter aucune nouvelle et aucune visite de vous, je ne crains pas de réclamer votre bienveillance. Je viens de faire un livre intitulé Lélia, qui a besoin de votre appui. Si vous voulez bien venir me voir, nous en causerons et je vous demanderai de vive voix la continuation de vos bons offices.</p>
+        <p>Voulez-vous venir diner avec moi demain? Il faut que je vous dise, sur ce livre assez embrouillé et sur quelques difficultés du succès, plus d'une parole, et je ne suis libre que vers cinq heures. Puis-je compter sur vous?</p>
+        <p>Tout à vous, monsieur.</p>
+        <p>Vous m'embarrassez avec vos questions. Je tiens singulièrement à votre estime; pourtant je ne puis me décider à mentir pour ta conserver. J'ai beaucoup d'égoïsme et de nonchalance, vous me forcez à vous l'avouer Je ne sais ce que les influences étrangères font à mon indifférence en matière de saint-simonisme je crois qu'elles n'y entrent pour rien. Je crois même n'avoir jamais songé à soulever une question pour ou contre la société dans VH~îama ou dans Va~M~Ke. Pardonnez-le-moi, ou anathématisez-moi. Je suis forcée de le dire là société est la moindre des choses que je hais et méprise. L'homme livré à son instinct ne me paraît pas moins laid, ridicule et sale que l'homme dressé à marcher sur les pieds de derrière. Que puis-je faire à cela? Et puis, outre cette misanthropie qui va toujours croissant à mesure que je vieillis, je suis excessivement femme pour l'ignorance, l'inconséquence des idées, le défaut absolu de logique. Vous l'avez fort bien dit, je manque de précision et de suite; ce n'est pas de la supériorité</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

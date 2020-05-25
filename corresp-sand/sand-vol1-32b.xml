@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1830-12-01">1er décembre 1830</date>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Duvernet, Charles(1807-1874)">A M. CHARLES DUVERNET, A PARIS</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Kohant, 1" décembre 1830.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A LI. CHARLESDUVERNET, A PARIS</p>
+                <p>Réclamation adressée par Brave, chien des Pyréttees, originaire d'Espagne, garde de nuit de pro fession, décoré du collier à pointes, du grand cordon -de la chaîne de fer et de plusieurs autres ordres ho.MoraMM.</p>
+                <p>Messieurs Fleury (dit le Germanique) et DuverMet(C~ar~s),poMro~ëHsed personne dudit*Brave et diffamation gratuite auprès de sa protectrice, -dame Aurore, cAs(e!&lt;!tKe de Nohant et de beaucoup 'de cAsteaMa? en Espagne, dont la description serait ~rop longue à mentionner.</p>
+                <p>Messieurs,</p>
+                <p>Je ne viens point ici faire une vaine montre de mes forces physiques et de mes vertus domestiques. Ce n'est point un mouvement d'orgueil, assez justifié ~eut-être par la pureté de mon origine, et le témoignage d'une conduite irréprochable, qui m'engage</p>
+                <p>à mettre la patte à'la plume, pour réfuter les imputations calomnieuses qu'il vous a plu de présenter à mon honorée protectrice et amie, dame Aurore, que j'ai fidèlement accompagnée et gardée jusqu'à ce jour; à cette fin de détruire la bonne intelligence qui a toujours régné entre elle et moi, et d&amp; lui inspirer des doutes sur mes principes politiques. Il me serait facile de mettre au jour des faits qut couvriraient de gloire l'espèce des chiens, au grand dé triment de celle des hommes. Il me serait facile encore de vous montrer deux rangées de dents, auprès desquelles les vôtres ne brilleraient guère, et de vous prouver que, quand on veut mordre et déchirer, il n'est pas prudent de s'adresser à plus fort que soi. Mais je laisse ces moyens aux esprits rudes et grossiers qui n'en ont point d'autres. Je dédaigne des adversaires dont la défaite ne me rapporterait point de gloire, et dont je viendrais aussi facilement à. bout que des chats que je surprends à vagabonderla nuit autour du poulailler, au lieu d'être à leurposte à l'armée d'observation contre les souris et les. rats.</p>
+                <p>Je ne veux employer avec vous que les armes du~ raisonnement. Mon caractère paisible préfère terminer à l'amiable les discussions où la rigueur n'est pas absolument nécessaire. Accoutumé dès l'enfance et,. pour me servir de l'expression de M. Fleùry, dès mon &amp;&lt;Ms~e, a des études gravas et utiles, j'ai contracté le goût des méditations profondes. J'ai réussi à fin-</p>
+                <p>spirer au chien Bleu, qui ne manque pas d'intelligence. Je prends plaisir à m'entretenir avec' lui sur toutesorte de matières, lorsque, couchés au clair de la lune sur le fumier de la basse-cour, durant les longues nuits d'hiver, nous examinons le cours des astres et leurs rapports avec le changement des saisons.et le système entier de la nature. C'est en vain que j'ai voulu améliorer l'éducation et réformer le jugement de mon autre camarade, l'oncle Mylord, que vousappelez épileptique et convulsionnaire; car, dans la frivolité de vos railleries mordantes, vous n'épargnez pas, messieurs, les personnes les plus dignes d'intérêt et de compassion par leurs infirmités et leursdisgrâces.</p>
+                <p>Quoi qu'il en soit, messieurs, je ne m'adjoindrai pas dans cette.défense le susdit oncle Mylord, parce que, sa complexion nerveuse ne le rendant propre qu'aux beaux-arts, il fait société à part et passe ta majeure partie de son temps dans le salon, où on lui permet de se chauffer les pattes en écoutant la musique, dont il est fort amateur, pourvu qu'il ne lui échappe aucune impertinence; ce qui malheureusement, vous le savez, messieurs, lui arrive quelquefois. Je dois en même temps vous déclarer que, dans. le système de défense que j'ai adopté, j'ai été puissamment aidé par les lumières et les réflexions du chien Bleu. La franchise m'oblige à reconnaître les~ talents et le mérite de cette personne estimable, que. vous n'avez pas craint d'eavelop?&lt;f dans vos soupçons,</p>
+                <p>injurieux sur notre patriotisme et notre moralité. D'abord, examinons les faits qu'on m'attribue. M. Fleury, mon principal accusateur, prétend 1° Que moi, Brave, assis sur mon postérieur, j'ai été surpris par lui, Fleury, réfléchissant aux malheurs que des factieux ont attirés sur la tête de l'ex-roi de France Charles X.</p>
+                <p>M. Fleury insiste sur l'expression de factieux dont it assure que je me suis servi.</p>
+                <p>2° Il prétend m'avoir surpris lisant la Quotidienne en cachette. Et, d'après ces deux chefs d'accusation, il ne craint pas de se répandre, en invectives contre ma personne, de me traiter tour à tour de carliste, de jésuite, d'ultramontrain, de serpent, de crocodile, de boa, d'hypocrite, de chouan, de Ravaillac! Quelle âme honnête ne serait révoltée à cette épouvantable liste d'épithètes infamantes; épithètes gratuitement déversées sur un chien de bonne vie et mœurs, d'après deux accusations aussi frivoles, aussi. peu avérées</p>
+                <p>Mais je méprise ces outrages et n en fais pas plus de cas que d'un os sans viande.</p>
+                <p>M. Fleury ment à sa conscience lorsqu'il rapporte avoir entendu sortir de ma gueule le mot de factieux appliqué aux glorieux libérateurs de la patrie. Je vous le demande, 6 vous qui ne craignez pas de flétrir la réputation d'un chien paisible,, ai-je pu me rendre coupable d'une aussi absurde injustice? Pouvez-vous supposer que j'aie le momdre intérêt à méconnaître les</p>
+                <p>bienfaits de la Révolution ? N'est-ce pas sous l'abominable préfecture d'un favori des Villèle et des Peyronnet, que les chiens ont été proscrits comme, du temps d'Hérode, le furent d'innocents martyrs enveloppés dans la ruine d'un seul ?</p>
+                <p>N'est-ce pas en faveur des prérogatives de la noblesse et de l'aristocratie que l'entrée des Tuileries fut interdite aux chiens libres, accordée seulement comme un privilège à.cette classe dégradée des bichons et des carlins, que les douairières du noble faubourg traînent en laisse comme des esclaves au collier doré? Oui, j'en conviens, il est une race de chiens dévouée de tout temps à la cour et avilie dans les antichambres ce sont les carlins, dont le nom offre assez de similitude avec celui de carlistes, pour qu'on ne s'y méprenne point. Mais nous,. descendants des libres montagnards des Pyrénées, race pastorale et agreste, nous qui, au milieu des neiges et des rocs inaccessibles, gardons contre la dent sanglante des loups et des ours, contre la serre cruelle des aigles et des vautours,les jeunes agneaux et les blanches brebis de la romantique vallée d'Andore! Ah ce souvenir de ma patrie et de mes jeunes ans m'arrache des larmes involontaires Je crois voir encore mon respectable père, le vaillant et redoutable Pigon, avec son triple collier de pointes de fer, où la dépouille sanglante des loups avait laissé de glorieuses empreintes Je le vois se promener majestueusement au milieu du troupeau, tandis que les brebis se rangeaient en</p>
+                <p>haie sur son passage dans une attitude respectueuse, tandis que moi, faible enfant, je jouais entre les blanches pattes de ma mère Tanbella, vive Espagnole à l'œil rouge et à la dent aiguë Je crois entendre la voix du pasteur chantant la ballade des montagnes aux échos sauvages, étonnés de répondre à une voix humaine dans cette âpre solitude. Je retrouve dans ma mémoire son costume étrange, son èothurne de. laine rouge, appelé spardilla; son berret blanc et bleu, son manteau tailladé et sa longue espingole plus fidèle gardienne de son troupeau que la houlette, parée de rubans, que les bergères de Cervantès portaient au temps de l'âge d'or.</p>
+                <p>Je revois les pics menaçants, embellis de toutes les couleurs du prisme reflétées sur la glace séculaire les torrents écumeux, dont la voix terrible assourdit les simples mortels; les lacs paisibles bordés de safran sauvage et de rochers blancs comme le marbre de Paros;les vieilles forteresses mauresques. abandonnées aux lézards et aux choucas, les forêts de noirs sapins, et les grottes imposantes comme l'entrée du Tartare. Pardonnez à ma faiblesse, ce retour sur un temps pour jamais effacé de ma destinée, et qui remplit mon cœur de mélancolie. Mais, dites-moi, Fleury, si vous avez autant d'âme qu'un chien comme moi peut en avoir, pensez-vous qu'un simple et hardi montagnard soit un digne courtisan du despotisme, un conspirateur dangereux, un affilié de Lulworth. Non, vous ne le pensez pas Vous</p>
+                <p>avez pu me voir lire !s Quotidienne ma maîtresse la reçoit, et je ne la soupçonne pas d'être infectée de ces. gothiques .préjuges, de ces haineux ressentiments. Je' la lis comme vous la liriez, avec dégoût et mépris,. pour savoir seulement jusqu'où l'acharnement des. partis peut porter des hommes égarés. Mais combien de fois, transporté d'une vertueuse indignation, j'ai fait voler d'un coup de patte, ou mis en pièces d'urt coup de dent, ces feuilles empreintes de mauvaisefoi et d'esprit de vengeance!</p>
+                <p>Cessez de le dire, et vous, ma chère maîtresse, mon estimable .amie, gardez-vous de le croire. Jamais Brave, jamais le chien honoré de votre confiance et enchaîné par vos bienfaits, ne méconnaîtra ses~ devoirs et n'oubliera le sentiment de sa dignité. Qu'on vienne, au nom de Charles X ou de Henri V, attaquer votre tranquille demeure, vous verrez si Brave ne vaut pas une armée. Vons reconnaîtrez la pureté de son cœur indignement méconnue par vos. frivoles amis, vous jugerez alors entre eux et moi 1 Et vous, jeunes gens sans expérience et sans frein, j'ai pitié de votre jeunesse et de votre ignorance. Mon~ âme généreuse, incapable de ressentiment, veut oublier vos torts et pardonner à votre légèreté soyezr donc absous et revenez sans crainte égayer les en-. nuis de ma maîtresse solitaire. Vous n'avez rien à redouter de ma vengeance. Brave vous pardonne! Que tout soit oublié, et, si vous êtes d'aussi bonne foi que moi, qu'un embrasement fraternel soit le</p>
+                <p>sceau de notre réconciliation, je vous offre -ma patte avec franchise et loyauté, et joins ici, pour votre sûreté personnelle, un sauf-conduit qui vous. mettra à couvert des ressentiments que votre lettre aurait pu exciter dans les environs.</p>
+                <p>Brave, seigneur chien, maître commandant, généra! ~n chef et inspecteur de toute la chiennerie du pays à Mylord, au chien Bleu, à Marchant, à Labrie, à Charmette, à Capitaine, à Pistolet, à Caniche, à Parpluche, à Mouche, à tous les chiens jeunes ou vieux, mâles ou femelles, ras ou tondus, grands ou petits, galeux ou enragés, infirmes ou podagres, hargneux ou arrogants, domiciliés dans te bourg de Nohant, dans celui de Montgivray, dans la maison à Rochette, à la Tuilerie, etc., et tous autres lieux situés entre la Châtre et Nohant</p>
+                <p>Défense vous est faite, 'sous peine de mort, de mordre, poursuivre, menacer ou insulter les individus ci-dessous mentionnés</p>
+                <p>Charles Duvernet, Alphonse Fleury;</p>
+                <p>Lesquels seront porteurs du présent sauf-conduit, que nous leur avons délivré le 1~ décembre 1830, en notre niche, en présence, du cMen Bleu et de madame Aurore D..</p>
+            
+
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            Signé BRAVE
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

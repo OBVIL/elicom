@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1836-05-25" >25 mai 1836</date>
+          <placeName>La Châtre</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="’Agoult, Marie (1805-1876)">A MADAME D'A.GOULT. A GENËVH</persName>
+          <placeName>Genève</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="LaCh9tre,25man83~."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>La Châtre, 25 mai 1836</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous avez bien fait de décacheter ma lettre, c'est une bonne action dont je vous remercie, puisqu'elle me vaut une si bonne et si affectueuse réponse. La seule chose qui me peine véritabtement, c'est votre</p>
+        <p>départ si prochain pour l'Italie.. J'aurai beau faire, je ne serai pas libre avant les vacances; mais il ne me sera plus aussi facile d'aller vous rejoindre, car où vous trouverais-je? Quoi que vous fassiez, ne quittez aucune ville sans m'écrire, ne fût-ce que deux lignes, pour me dire où vous êtes et combien de temps vous y restez. Rien ne me fera renoncer à l'espérance d'aller vivre quelques semaines près de vous. C'est un des plus doux rêves de ma vie, et, comme, sans en avoir l'air, je suis très persévérante dans mes projets, soyez sûre que, malgré les &lt;~tns et les flots, je les réaliserai.</p>
+        <p>Pour le moment, je ferais mal de m'absenter du pays. Mes adversaires, battus au grand jour, cherchent à me nuire dans les ténèbres. Ils entassent calomnies sur absurdités pour m'aliéner d'avance l'opinion de mes juges..Je m'en soucie assez peu; mais je veux pouvoir rendre compte, jour pàr jour, de toutes mes démarches. Si j'allais à Genève maintenant, on ne manquerait pas de dire que j'y vais voir Franz seulement et de trouver la chose très crimineiïe. Ne pouvant dire qu'entre Franz et moi il y a un bon ange dont la présence sanctifie notre amitié, je resterais sous le poids d'un soupçon qui servirait de prétexte entre mille pour nie refuser la direction de mes enfants.</p>
+        <p>S'il ne s'agissait que de ma fortune, je ne voudrais pas y sacrifier un jour de la vie du cœur; mais il s'agit de ma progéniture, mes seules amours, et à la-</p>
+        <p>quelle je sacrifierais les sept plus belles étoiles du firmament, si je les avais. Ne quittez toujours pas Genève sans me dire où vous allez. Get hiver, je serai libre, j'aurai quelque argent (bien que je n'aie pas hérité de vingt-cinq sous c'est un ragot de journaliste en disette de nouvelles diverses), et j'irai certainement courir après vous, loin des huissiers, des avoués et des rhumatismes.</p>
+        <p>Je n'ai pas besoin de vous charger de dire à Franz tous mes regrets de ne pas l'avoir vu. H s'en est fallu de si peu Il sait bien, au reste, que c'est un vrai chagrin pour moi. Il n'y a qu'une chose au monde qui me console un peu de toutes mes mauvaises fortunes c'est que vous me semblez heureux tous deux, et que le bonheur de ceux que j'aime m'est plus précieux que celui que je pourrais avoir. J'ai si bien pris l'habitude de m'en passer, que je ne songe jamais à me plaindre, même seule, la nui cous l'oeil de Dieu. Et pourtant je passe de ~ngues heures tête à tête avec dame FsKcy*. Je ne me couche jamais avant sept heures du matin je vois coucher et lever le soleil, sans que ma solitude soit troublée par un seul être de mon espèce. Eh bien, je vous jure que je n'ai jamais moins souffert. Quand je me sens disposée à la tristesse, ce qui est fort rare, je me commande le travail, je m'y oublie etje rêve alternativement. Une heure est donnée à la corvée d'écrire, l'autre au plaisir de vivre. 1. Rêverie, imagination</p>
+        <p>Ce plaisir est si pur dans ce temps-ci, avec tous ces chants d'oiseaux et toutes ces fleurs Vous êtes trop jeune pour savoir combien il est doux de ne pas penser et de ne pas sentir. Vous n'avez jamais envié le sort de ces belles pierres blanches qui, au clair de lune, sont si froides, si calmes, si mortes. Moi, je les salue toujours quand je passe auprès d'elles, la nuit, dans les chemins. Elles sont l'image de la force et de la pureté. Rien ne prouve qu'elle soient insensibles au plaisir de ne rien faire. Elles contemplent, elles vivent d'une vie qui leur est propre. Les paysans sont convaincus que la lune a une action sur elles, que le clair de lune casse les pierres e&lt; dégrade les murs. Moi, je le crois. La lune est une planète toute de glace et de marbre blanc. Elle est pleine de sympathie pour ce qui lui ressemble, et, quand les âmes solitaires se placent sous son regard, elle les favorise d'une influence toute particulière. Voilà pourquoi on appelle les poètes lunatiques. Si vous n'êtes pas contente de cette dissertation, vous êtes bien difficile.</p>
+        <p>Si vous voulez que je vous parle ~M(o:reaMCteMMe, je vous dirai de madame A. que je n'ai jamais eu de sympathie pour elle. J'ai eu beaucoup d'estime pour son caractère mais, un beau jour, elle m'a fait une méchanceté, la chose du monde que je comprends le moins et que je puis le moins excuser. Depuis que je ne vous ai écrit, elle m'a fait amende honorable. Est-ce bonté? Est-ce légèreté de tête et de cœur? Je</p>
+        <p>n'ai plus guère confiance en elle, et, sans la maltraiter (car, à vrai dire, d'après cette conduite fantasque, je m'aperçois que je ne la connais pas du tout), je m'éloignerai d'elle avec soin. Je ne veux pas la juger; mais il y a sur la figure de celle chez qui l'on a surpris un mauvais sentiment quelque chose qui ne s'efface plus et qui vous glace à jamais. Je suis toute d'instinct et de premier mouvement. N'êtes vous pas de même? Il m'a semblé que si.</p>
+        <p>Je ne dis pas que je n'aime pas Sainte-Beuve. J'ai eu beaucoup trop d'affection pour lui pour qu'il me soit possible de passer à l'indifférence ou à l'antipathie, à moins d'un tort grave. Je ne lui ai point vu de méchanceté, à lui, mais de la sécheresse, de la perfidie non raisonnée, non volontaire, non intéressée, mais partant d'un grand crescendo d'égoïsme. Je crois que je le juge mieux que vous. Demandez à Franz, qui le connaît davantage.</p>
+        <p>L'abhc de Lamennais se fixe, dit-on, à Paris. Pour moi, ce n'est pas certain. Il y va, je crois, avec l'intention de fonder un journal. Le pourra-t-il? Voilà la question. ]1 lui faut une école, des disciples. En morale et en politique, il n'en aura pas s'il ne fait d'énormes concessions à notre époque et à nos lumières. Il y a encore en lui, d'après ce qui m'est rapporté par ses intimes amis, beaucoup plus du prêtre que je ne croyais. On espérait l'amener plus avant dans le cercle qu'on n'a pu encore le faire. Il résiste. On se querelle et on s'embrasse. On ne conclut rien encore.</p>
+        <p>Je voudrais bien que l'on s'entendit. Tout l'espoir de l'intelligence vertueuse est là. Lamennais ne peut marcher seul.</p>
+        <p>Si, abdiquant le rôle de prophète et de poète apocalyptique, il se jette dans l'action progressive, il faut qu'il ait une armée. Le plus grand général du monde né fait rien sans soldats. Mais H faut des soldats éprouvés et croyants. 11 trouvera facilement à diriger une populace d'écrivassiers sans conviction qui se serviront de lui comme d'un drapeau et qui le renieront ou le trahiront à la première occasion. S'il veut être secondé véritablement, qu'il se méfie des gens qui ne disputeront pas avec lui avant d'accepter -sa direction. En réfléchissant aux conséquences d'un tel engagement, je vous avoue que je suis moi-même très indécise. Je m'entendrais aisément avec lui sur tout ce qui n'est pas le dogme. Mais, là, je réclamerais une certaine liberté de conscience, et il ne me l'accorderait pas. S'il quitte Paris sans s'être entendu avec deux ou trois personnes qui sont dans les mêmes proportions de dévouement et de résistance que moi, j'éprouverai une grande consternation de cœur et d'esprit. Les éléments de lumière et d'éducation des peuples s'en iront encore épars, flottant sur une mer capricieuse, échouant sur tous les rivages, s'y brisant avec douleur, sans avoir pu rien produire. Le seul pilote qui eût pu les rassembler leur aura retiré son appui et les laissera plus tristes, plus désunis et plus. découragés que jamais.</p>
+        <p>Si Franz a sur lui de l'influence, qu'il le conjura de bien connaitre et de bien apprécier l'étendue du mandat que Dieu lui a confie. Les hommes comme lui' font les.religions et ne les acceptent pas..C'est là leur devoir. Ils n'appartiennent point au passé. Ils ont un pas à faire faire à l'humanité. L'humilité d'esprit, !e scrupule, l'orthodoxie sont des vertus de moine que Dieu défend aux réformateurs. Si l'œuvreque je rêve :pour lui peut s'accomplir, c'est vous qui serez obligée -de.vous joindre à sou bataillon sacré. Vous avez l'inte!!igence,p!us mâle que bien des hommes, vous pouvez être un flambeau pur et brillant.</p>
+        <p>J'ai écrit à Paris pour qu'on vous envoie le numéro du Droit. Je suis toujours dans le ~s&lt;M quo pour mon procès. L'acte d'appel est fait. Je suis encore à la Châtre chez mes amis, qui me gâtent comme un enfant de cinq ans. J'habite un faubourg en terrasse sur des rochers; à mes pieds, j'ai une vallée admirablement jolie. Un jardin de quatre.toises carrées, plein de roses, et une terrasse assez spacieuse pour y faire dix pas en long, me servent de salon, de cabinet de travail et de-galerie.-Ma chambre à coucher est assez 'vaste;elle est décorée d'un lit à rideaux de cotonnade rouge, vrai lit de paysan, dur et plat, de deux chaises de paille et .d'une table .de bois blanc. Ma fenêtre est située à six pieds au-dessus de la terrasse. Par le treillage de l'espalier., .je sors et je rentre la nuit pour me promener dans mes quatre toises de fleurs sans ouvrir de portes et sans éveiller personne.</p>
+        <p>Quelquefois je vais me promener seule à cheval, à la brune. Je rentre sur le minuit. Mon manteau, mon chapeau d'écorce et le trot mélancolique de ma monture me font prendre dans' l'obscurité pour un marchand forain ou pour un garçon de ferme. Un de mes grands amusements, c'est devoir le passage de la nuit au jour; cela s'opère de mille manières différentes. Cette révolution, si uniforme en apparence, a tous les jours un caractère particulier.</p>
+        <p>Avez-vous eu le loisir d'observer cela? Non'.Travaillez-vous ? Vous éctairez votre âme. Vous n'en êtes pas à végéter comme une plante. Allons, vivez et aimez-moi. Ne partez pas sans m'écrire. Que les vents vous soient favorables et les cieux sereins Tout prospère aux amants. Ce sont les enfants gâtés de la Providence. Ils jouissent, de tout, tandis que leurs amis vont toujours s'inquiétant. Je vous avertis que je serai souvent en peine de vous si vous m'oubliez. Je vous ferai arranger une beUe chambre c/;c; moi.</p>
+        <p>Je fais un nouveau volume à Lélia.' Cela m'occupe p)us qu); Mut autre roman n'a encore fait. Lélia n'est pas moi. Je suis meilleure enfant que cela; mais c'est mon idéal. C'est ainsi que je conçois ma muse, i toutefois jé puis me- permettre d'avoir une muse. Adieu, adieu! le jour se lève sans moi.– Per fa &lt;!&lt;a ded balcone, presto aM~îamo t't'a di ~Ma.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

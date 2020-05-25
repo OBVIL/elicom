@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-05"> mai 1833</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="PMis,maiiS33."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, mai 1833.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>Vous avez tort de .me gronder. Je n'ai eu que du chagrin et de l'inquiétude, au lieu de tous les plaisirs que vous me supposez. Mes deux enfants ont été malades et le sont encore Maurice, de la grippe, et Solange, de la coqueluche. J'ai passé tout mon temps s à aller de chez moi au collège Henri IV et du collège chez moi; car je n'ai pu avoir mon fils pour le faire sortir avant l'invasion de la maladie. Il a été soigné à l'infirmerie par de bonnes religieuses. Solange, quoiqu'elle soit toujours gaie et gentille, €st très fatiguée. Je le suis beaucoup moi-même. Un soir que mes deux petits allaient mieux, j'ai été chez vous, pour vous remercier de la belle gravure que vous m'avez envoyée. Il était sept heures, ce n'est pas une heure indue. Depuis, je'n'ai pas pu sortir, si ce n'est pour aller à Henri I V. J'irai vous voir demain. Aujourd'hui, cela m'est complètement impossible. Vous avez eu tort d'écouter votre dignité de mère offensée vous auriez dû, puisque vous sortez tous les jours pour dîner, venir goûter de ma cuisine. J'ai toujours un bon petit plat à vous offrir. A six heures, nous aurions été ensemble voir Maurice au collège, vous m'auriez rendue heureuse. Adieu, chère mère; je vous embrasse de tout mon cœur, en attendant que vous me pardonniez, et j'espère que vous ne ferez pas longtemps la méchante avec moi.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

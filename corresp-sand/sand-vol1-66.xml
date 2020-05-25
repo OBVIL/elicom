@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-07-07" >Paris, 7 juillet 1832</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT, A NOHANT</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Parh,7)mUeti832. Mon pauvre petit,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Parh,7)mUeti832.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon pauvre petit, Tu as donc encore été mâlade? Comment vas-tN</p>
+        <p>maintenant? Il me tarde bien de recevoir une lettre de toi; ton papa m'écrit que tu t'ennuyes de ne pas me voir. Et moi aussi, va, mon enfant Prends un peu de patience, mon cher petit. Bientôt je serai près de toi, sois-en bien sûr.</p>
+        <p>Tu verras ta Solange bien grandie, bien bavarde, disant toute sorte de bêtises qui te feront rire. Si tu es encore malade, je te soignerai, je resterai la nuit auprès de ton lit, et je t'empêcherai de penser à ton maF: Boucoiran dit que tu n'as pas de courage. H faut tâcher d'en avoir un peu, mon cher enfant. On souffre bien souvent quand on est grand H y a des personnes qui souffrent presque toujours. Tu sais bien que je suis ainsi. Si je pleurais tout le temps, je serais insupportable. Essaye donc de te faire une raison, quand tu souffres. Je sais queJu es bien jeune pour cela; mais tu as assez de bon sens pour comprendre tout ce que je te dis. Si je te recommande d'être courageux, c'est que les larmes font beaucoup plus de mal que le mal même. Elles donnent surtout mal à la tête et augmentent la fièvre. Quand tu te sens malade, il faut le dire sans te desespérer. On fera pour toi tout ce qu'il faudra pour te soulager. Enfin, je l'espère à présent, tu es bien tout à fait et tu ne penses plus à tout ce!a.</p>
+        <p>Écris-moi vite, ne fût-ce qu'un mot; je t'embrasse mille fois de toute mon âme. Qu'est-ce qu'il faudra t'apporter de Paris?</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

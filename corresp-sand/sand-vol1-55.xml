@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-07">juillet 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT, A-NOHANT. Paris, juillet 1S31.</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'ai bien du chagrin quand tu ne m'écris pas, mon petit enfant. J'ai reçu tes trois lettres; mais c'est bien peu. Cela ne fait qu'une par semaine. Autrefois, tu m'en écrivais deux et souvent trois. Cela ne t'amuse donc plus de m'écrire? tu n'as pas besoin de montrer tes lettres, ni de les écrire avec tant de soin que ce soit un travail. Quand 'tu m'envoyais des barbouillages et des bonshommes, j'aimais autant cela. Écrismoi donc aussi mal que tu voudras, ne fût-ce que"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>juillet 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>            J'ai bien du chagrin quand tu ne m'écris pas, mon petit enfant. J'ai reçu tes trois lettres; mais c'est bien peu. Cela ne fait qu'une par semaine. Autrefois, tu m'en écrivais deux et souvent trois. Cela ne t'amuse donc plus de m'écrire? tu n'as pas besoin de montrer tes lettres, ni de les écrire avec tant de soin que ce soit un travail. Quand 'tu m'envoyais des barbouillages et des bonshommes, j'aimais autant cela. Écrismoi donc aussi mal que tu voudras, ne fût-ce que
+          quelques lignes. Passer huit jours sans nouvelles de toi et de ta sœur, c'est bien long et je suis souvent bien triste. J'ai besoin de te savoir gai et heureux; sans cela, je ne peux être moi-même heureuse. i y a de bien beaux tableaux au Musée le Musée est une grande galerie où tous les peintres exposent leurs tableaux pendant quelques mois pour les faire voir au public. Le plus joli de tous représente deux enfants de sept ou huit ans qui sont assis sur un lit. ~L'un est malade et appuie sa tête sur l'épaule de son frère. L'autre se porte bien; il tient un livre d'images pour l'amuser. C'est le portrait de deux jeunes princes anglais' qui ont été étranglés par des méchants</p>
+        <p>11 y a une quantité de belles statues que tu reconnaîtrais, à présent que tu comprends un peu la mythologie. Ce qu'on a fait de plus beau, ce sont les Trois Grâces, en marbre blanc. Il y a une jolie petite divinité allégorique, dont nous n'avons pas parlé ensemble c'est la Candeur ou ~'jfKMOceMce, représentée comme un enfant qui tient une coquille où vient boire un serpent. Cela signifie que, comme les enfants ne se méneM d'aucun danger, les personnes qui ont de la candeur ne se méfient pas des méchants qui peuvent leur faire du mal.</p>
+        <p>Si tu ne comprends pas bien cela, Boucoiran te l'expliquera mieux. Il y a aussi un gros enfant qui 1. Les Enfants d'Édouard, de Paul Delaroche.</p>
+        <p>ressemble à Solange et joue avec une petite chèvre la chèvre mange une couronne de feuilles que l'enfant a sur sa tête. Tout cela est en beau marbre blanc. Enfin il y a Mercure, Diane, et tout plein d'autres messieurs et d'autres dames de .ta connaissance. Les fêtes ont duré trois jours. De ma fenêtre, j'ai vu passer le -roi et toutes ses troupes. Avant-hier, nous avons .eu des joutes sur l'eau. Des matelots habillés en blanc, -avec des ceintures et des chapeaux à rubans, étaient montés sur de jolies barques et venaient les uns sur les autres. Ils se battaient, c'est-à-dire qu'ils -faisaient semblant, comme au spectacle. Beaucoup tom'baient dans la Seine; comme c'étaient, tous de très 'bons nageurs, ils s'en moquaient et rattrapaient bientôt leur barque. Sur le bord de l'eau était dressé un beau pavillon, pour les juges du combat qui ont donné ~!e prix aux vainqueurs.</p>
+        <p>J'avais emmené Léontine, qui a tout vu; le grand Fleury l'a mise sur sa tête, et ils sont arrivés l'un sur 'l'autre; moi, je suis revenue avec la migraine. Le soir, j'ai vu les illuminations sans sortir de ma chambre. Quatre grandes colonnes de lampions au'tour de la statue d'Henri IV; les tours de NotreDame étaient illuminées aussi; c'était fort beau. De mon balcon, j'ai vu le feu d'artifice qui se tirait sur la place de la Révolution. C'est bien loin de chez moi; 'mais les fusées montaient si haut, qu'on voyait très 'bien il y en avait qui lançaient des flammes tricolores c'était superbe..</p>
+        <p>II y a eu des courses de chameaux, au Champ-deMars. Des hommes habillés en Bédouins étaient montés sur des chevaux et sur des dromadaires. L'un d'eux est tombé et s'est tué. Puis une revue de toutes les.troupes sur le boulevard; on dit qu'il y avait cent cinquante mille hommes. Tout cela serait bien amusant avec moins de monde pour regarder. On risque d'être étouffé dans la foule, et les trois quarts ne voient rien, parce qu'on a trop de personnes devant et -alentour. Tous les spectacles jouaient gratis, c'està-dire qu'on entrait sans payer. Enfin on tirait des coups de fusil, des pétards, des boîtes à feu, dans toutes les maisons, dans toutes les rues. Cela a duré deux jours entiers. On aurait dit qu'on se battait dans Paris. Je suis bien aise que ce soit nni et que la ville ,reprenne sa tranquillité.               Écris-moi bien souvent et dis-moi tout ce que tu fais tes lettres sont trop courtes. Embrasse ta sœur pour moi et aime-la bien. Adieu, mon cher petit; pense à ta petite mère, qui t'embrasse un million de &amp;is.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-08-01">1er août 1832</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Rollinat, François (1806-1867)">A M. FRANÇOIS ROLLINAT, A CHATEAUROUX</persName>
+          <placeName>Chateauroux</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mon bon vieux,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Mon bon vieux,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai passé à Châteauroux à quatre heures du matin. J'en suis repartie à six, malade, fatiguée, enrhumée, endormie,.stupide. Malgré cela,j'avais bien envie de te faire réveiller pour t'emmener. Mon mari m'a dit que tu étais encore occupé par les assises, que tu avais beaucoup de travail. Je me suis fait conscience de t'arracher cette pauvre heure de sommeil. Duteil pense que tu dois être débarrassé aujourd'hui. Tu es donc libre ? Arrive bien vite, mon ami. Je suis impatiente de t'embrasser et de passer quelques bons jours avec toi. Viens demain au plus tard, n'aie pas de prétexte, pas d'affaire je n'en veux pas entendre parler. Je suis ici pour trois semaines, je n'entends pas perdre ces moments de bonheur, si rares dans ma vie et si chèrement payés. Viens donc, brave 13.</p>
+        <p>.3M</p>
+        <p>homme. Nous t'attendons. Je t'embrasse de toute mon âme.</p>
+        <p>Ton ami</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              GEORGE
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-04-19">19 avril 1830</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A PARIS-</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>1</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>.t</p>
+        <p>Nohant, 19 avril 1830</p>
+        <p>Ma chère maman,</p>
+        <p>J'ai été empêchée de vous écrire par une ophthahnie .6</p>
+        <p>qui m'a fait beaucoup souffrir pendant plus d'un mois et dont je ne suis pas tout à fait débarrassée, j'ai encore les yeux malades et fatigués Je soir. Néanmoins, je suis assez bien pour mettre à exécution un projet dont je n'ai pas voulu vous faire part avant qu'il fût tout à fait arrêté. Je vais aller passer quelques jours auprès de vous, et; de plus; je vous mène Maurice, afin que vous fassiez connaissance avec lui. Il en meurt d'envie et me fait mille questions sur votre compte.</p>
+        <p>Je profite d'une occasiôn agréable et commode pour le voyage le sous-préfet et sa femme* vont aussi prendre l'air de Paris et m'offrent place dans leur calèche. Une fois près de vous, j'espère bien vous décider à revenir avec moi; vous n'aurez plus de défaites à me donner; nous ferons le voyage aussi long que vous voudrez. Nous nous arrêterons pour vous laisser reposer où il vous plaira; enfin, je vous soignerai si bien en route, que vous ne vous apercevrez pas de la fatigue. Mais c'est de quoi nous aurons le loisir de parler ensemble la semaine prochaine, c'est-à-dire le 30 de ce mois ou le 1" mai. Dites à l'ami Pierret de s'apprêter à gâter Maurice) comme il m'a gâtée jadis; ce qui ne nous rajeunit ni les uns ni les autres. Si j'avais été seule, je vous aurais priée de me donner un lit de sangle au pied du vôtre; mais Maurice est un camarade de lit assezdés-</p>
+        <p>agréable; d'ailleurs, Hippolyte désire que je donne un coup d'oeil à sa maison'. J'occuperai donc son appartement ce qui ne m'empêchera pas de vous voir tous les jours et de vous mener promener. J'espère bien vous redonner des jambes. Je me rappelle qu'à mon dernier voyage, je vous ai été enlever, un jour que vous étiez malade, et que j'ai réussi à vous égayer et à vous guérir. Je compte encore livrer l'assaut à votre paresse et vous rendre plus jeune que moi. Ce ne sera pas beaucoup dire quant au physique car je suis un peu dans les pommes cuites, comme vous verrez; mais le moral ne vieillit pas autant et je suis encore assez folle quand je me mêle de l'être.</p>
+        <p>Adieu, ma chère maman; bientôt je vous dirai bon. jour. Je suis heureuse d'avance. Faites que je vous trouve bien portante; car, malgré mon empressement à vous soigner, j'aime mieux que vous n'en ayez pas besoin. Je vous embrasse mille fois.</p>
+        <p>Émilie, Casimir, Hippolyte et nous tous vous embrassons tendrement.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

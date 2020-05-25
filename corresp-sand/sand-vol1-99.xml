@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1836-02-26">26 février 1836</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="d’Agoult, Marie (1805-1876)">A MADAME D'AGOULT, A GENÈVE</persName>
+          <placeName>Genève</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="26f~ricrl83G."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>26f~ricrl83G.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je ne vous écris qu'un mot à la hâte, chère bonne et belle Marie. Je suis accablée d'affaires, de travail et de courses. Je vous écris d'une chambre d'auberge,</p>
+        <p>ne sachant quand je retrouverai un quart d'heure de loisir. Ainsi prenez que ceci n'est rien, qu'un signe et un regard de tendresse jeté en courant à quelqu'un qu'on voudrait embrasser, mais dont le galop de votre cheval vous éloigne..</p>
+        <p>Votre grande lettre est charmante et bonne comme celle d'un ange. Votre seconde lettre est encore mieux, sauf qu'il s'y trouve un madame, dont je ne veux pas. Vous me parlez de cœur et de bourse. Non, cela n'est pas inconvenant; l'offrir ou l'accepter est le plus saint privilège de l'amitié, la plus sûre marque de l'antique loyauté. Si j'avais besoin de pain, j'en recevrais de vous, et vous seriez encore la plus obligée de nous deux; car vous êtes capable d'offrir au premier mendiant venu, et, moi, je ne suis capable d'en accepter, que .de bien peu de mains.</p>
+        <p>Je n'irai pas en Chine avec vous, quoique je le fisse de bien bon cœur, si je le pouvais. Mais j'ai mes enfants qui m'attachent à ce sol de France. Je ne pourrai plus m'absenter que pour quelques semaines. Grâce à Dieu, j'ai gagné mon procès et j'ai mes deux enfants à moi. Je ne sais si c'est fini. Mon adversaire peut en appeler et prolonger mes ennuis. Mais je serai toujours libre au printemps et, si vous n'êtes pas partie, j'irai vous voir en Suisse.</p>
+        <p>Écrivez donc sur le sort des femmes et sur leurs droits; écrivez hardiment et modestement, comme vous sauriez. le faire, vous. Madame Allart vient de faire une brochure où il y a réellement des choses t. 20</p>
+        <p>fortes, belles et vraies. Moi, je suis trop ignare pour écrire autre chose que des contes, et je n'ai pas la force de m'instruire.</p>
+        <p>Vous me parlez de Beautin, de Marphyrius et de Jouffroy. Je n'ai jamais entendu parier de ces genslà. Je n'ai rien lu de mâ vie, je ne sais que ce que j'ai vu matériellement. En lisant votre lettre, je m'éto.nnais (le mot est modeste) de votre incommensurable supériorité-sur moi. Faites-en donc profiter le monde; vous le devez. Franz doit vous y engager; .moi, je vous en supplie.</p>
+        <p>Bonjour, ma douce et belle cénobite. Je vous écrirai une longue lettre bien bête, et bien bonne enfant, à la première journée de repos et de liberté que j'aurai.</p>
+        <p>Je vous aime tendrement, quo ique vous soyez capable de m'empoisonner. Heureusement que je n'ai pas peur de M. Franz, et que, s'il avait une pareille idée, je le tuerais d'une chiquenaude. Il est vrai que vous me tueriez après, et que je n'en serais pas plus avancée. Espérons que !a destinée nous préservera de ces catastrophes étranges, que Ballanche appellerait. Ah! ma foi, je ne me souviens plus du mot.</p>
+        <p>Dites à Franz que j'ai lu Orphée ces jours-ci, et ue je suis tombée dans des extases incroyables. C'est le premier ouvrage de Ballanche que je lis. Je ne comprends.?!~ tout.; m~is ce que je comprends m'encti~nte. On prétend ici que cela me rendra tout à fait</p>
+        <p>imbécile. Je ne demande pas mieux, pourvu que vous ne. m'abandonniez pas dans le malheur. Mille tendresses.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

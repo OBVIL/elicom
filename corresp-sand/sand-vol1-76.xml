@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-04-15">Paris, 15 avril 1833.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A MONSIEUR* (...-...)">A MONSIEUR*</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 15 avril 1833."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 15 avril 1833.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je veux croire votre lettre sincère, et, dans ce cas,: l'absence pourra seule vous guérir.</p>
+        <p>Si, après cette réponse, vous persistiez dans des prétentions que je ne pourrais plus attribuer à la folie, j'aurais pour vous fermer ma porte des motifsplus impérieux et plus décisifs encore.</p>
+        <p>Ainsi/quelle que soit l'explication que vous préfériez pour la lettre inexplicable que vous m'avez envoyée, je vous prie absolument, littéralement et définitivement, de ne plus vous présenter chez moi.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              GEORGE.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

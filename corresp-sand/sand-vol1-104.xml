@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1836-05-23" >23 mai 1836</date>
+          <placeName>La Châtre</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Martineau-Deschenez, Auguste (18??-18??)">A M. AUGUSTE MARTINEAU-DESCHENEZ</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'espère, mon entant, que'tu me pardonnes de ne t'avoir pas écrit la victoire que les tribunaux m'ont accordée."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>J'espère, mon entant, que'tu me pardonnes de ne t'avoir pas écrit la victoire que les tribunaux m'ont accordée.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Dabord, j'avais de mon histoire par-dessus la tête, et, si j'avais pu oublier que j'existais, je t'aurais fait de bon cœur. J'ai permis que ma biographie matrimoniale fùt insérée dans le Droit; tu la. liras, ou tu l'as lue. Dispe nse-moi donc de t'en gm~~r une seconde fois.</p>
+        <p>Ensuite, je n'ai pas cru manquer à l'amitié, j'ai cru user de son plus doux privilège en me reposant sur mes lauriers. Ma paresse a fait des mécontents, des grognons. Tu n'en es pas, toi qui es si doux, si affectueux, si sympathique. Dis-moi que tu n'as pas songé à me bouder, que tu n'as pas douté de mon affection, et n'en parlons plus.</p>
+        <p>Que fais-tu? donne-moi de tes nouvelles. Moi, je végète. Couchée sur une terrasse, dans un site délicieux, je regarde les hirondeUes voler, le soleil se lever, se coucher, se barbouiller le nez de nuages, les hannetons donner de la tête contre les branches,</p>
+        <p>et je ne pense à rien du tout, sinon qu'il fait beau et que nous sommes au mois de mai. Je suis dans le plus parfait et dans le plus désirable des crétinismes connus.</p>
+        <p>M. D. est toujours campé à Nohant, tandis que mes bons amis de la Châtre continuent âme donner l'hospitalité. J'attends qu'il formule un acte d'appel ou qu'il prenne le parti de se tenir pour battu. Mon sort est donc encore incertain, non pour l'avenir, mais pour la saison présente. Je gagnerai, mais je voudrais bien que ce fût fini. On me dit qu'il désire entrer en arrangement, je ne m'y refuserai pas si c'est de l'argent seulement qu'il demande. Je suis ici en attendant une fin à ces incertitudes.</p>
+        <p>Bonsoir, bon petit enfant je t'embrasse fraterneltenifnt.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              GEORGE.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

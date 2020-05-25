@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-03-06" >6 mars 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Duvernet, Charles (1807-1874)">A H.CHARLES DUVERNET,A LA CHATRE.</persName>
+          <placeName>La Chartre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 6 mars 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous êtes un fichu paresseux; mon cher camarade! Si nous n'étions d'anciens amis, je me fâcherais; mais il faut bien vous pardonner, car on ne refait pas de vieux amis du jour au lendemain. Savezvous qu'il se passe de belles choses, ici? C'est vraiment très drôle à'voir. La révolution est en perma-.nence comme la Chambre. Et l'on vit aussi gaiement, au milieu des baïonnettes, des émeutes et des ruines, que si l'on était en pleine paix. Moi, ça m'amuse. J'en suis fâchée pour ceux à qui ça déplaît; mais nous sommes au monde pour rire ou pour pleurer de ce que nous voyons faire. Et, bien que je pleure quelquefois touf-comme une autre, pour le plus souvent je ris. Dites-moi donc, mon camarade, vous avez parfois l'humeur bien noire, à ce qu'il paraît? Le moyen de s'en~MpetMcr? Chez moi, la peine ne creuse guère;
+          chez vous, l'ennui se cramponne, du moins je crois le voir à quelques phrases de votre lettre. Cela ne me surprend point l'air du pays n'est pas léger, la société n'est pas délicate, les cancans ne sont pas spirituels et les plaisirs ne sont pas du tout. On vit en tous lieux, je le sais, mais avec des intérêts, un ~nénage, une occupation personnelle, des projets et des profits. A votre âge, on n'a rien de tout cela, et au mien. que vous dirai-je? cela ne suffit pas encore. Un peu de patience! quand nous aurons quarante ans, nous serons les meilleurs Berrichons du monde. En attendant, il faut bien varier un peu la vie. Au lieu de vous faire des sermons, je vous engagerai à venir à Paris le plus que vous pourrez. Je sais que les parents ne lâchent guère leurs enfants; mais vous qu'on aime et qu'on gâte passablement, si vous montriez un désir bien prononcé, vous ne trouveriez pas de résistance. Si l'on voulait m'écouter, je parlerais bien pour vous, tant je suis pénétrée de l'impossibilité de vivre heureux à la Châtre quand on n'est ni vieux, ni père de famille, ni raisonnable par force. Je ne suis pas de ceux qui disent Vivre, c'est s'amuser, ou plutôt je ne'l'entends pas comme eux. Ce n'est pas l'Opéra qu'il vous faut tous les jours pour passer agréablement la soirée. L'Opéra est chose délicieuse, mais on peut rire ailleurs et de tout son cœur. Odry même, le sublime Odry, n est pas indispensable à ma félicité, quoiqu'il y contribue puissamment. Je m'amuse partout. Partout (entendons10</p>
+        <p>nous) où je ne vois pas la haine, le soupçon, l'injustice et l'aigreur empester l'air que je respire. Si les gens n'étaient pas méchants, je leur passerais bien d'être bêtes; mais, pour notre malheur, ils sont l'un et l'autre. Voilà pourquoi la province est odieuse. Il y a un venin caché partout, et l'on peut dire d'elle ce que Victor Hugo dit de la prison Vous y cueillez une fleur, et elle pî~Me ou elle pue. C'est barroque, mais c'est vrai.</p>
+        <p>Il me tarde pourtant'de retourner en Berry; car j'ai des enfants que j'aime plus que tout le reste. Sans l'espoir de leur être plus utile un jour avec la plume du scribe qu'avec l'aiguille de la ménagère, je ne les quitterais pas si longtemps. Je veux, malgré les difficultés sans nombre que je rencontre, faire les premiers pas dans cette carrière épineuse.</p>
+        <p>Je me suis enfin décidée à écrire dans le Figaro, et je suis charmée que vous y soyez abonné; ce sera une manière de causer avec vous, surtout si M. de Latouche a souvent la bonne idée de me faire faire des articles comme celui de Molinara, article dont le cœur a fait les frais plus que l'esprit. C'est dans'son cabinet, à sa table, moitié avec lui, que j'ai écrit cette idylle, dont le bon public parisien (public excellent, d'ailleurs, dont le métier est d'être dupe) cherchait te mot avec d'incroyables efforts le lendemain. Vous auriez ri de voir les bons bourgeois du café Conti. (Vous connaissez sûrement le café Conti,visà-vis le pont Neuf? Vous y avez déjeuné plus d'une</p>
+        <p>fois, et moi aussi.) Vous auriez ri'(que je dis) si vous les aviez vus, le nez sur le Figaro et se donnant à tous les diables pour savoir quelle énigme politique leur cachait cette ~fo~Mfs et ce polisson de moulin. D'aucuns disaient: T C'est un emblème; d'aucuns répondaient « C'est une anagramme; B et d'aucuns reprenaient « C'est un logogryphe. s Qui donc est cette meunière? C'est Delphine Gay! Oh! non, c'est la duchesse de Berry. Bah! c'est la femme du dey d'Alger. Dans tous les cas, c'est bien savant, on n'y comprend goutte. ))</p>
+        <p>Moi, je riais non pas dans ma barbe, mais dans ma tabatière, et je leur disais d'un air mystérieux « Messieurs, je sais de bonne part que c'est la femme du pape. B A quoi ils répondaient. « Pas possible? Parole d'honneur! B</p>
+        <p>Vous avez vu depuis, un grand article intitulé Vtsion. M. de Latouche l'a trouvé très remarquable et m'a priée en quelque sorte de le lui donner. Il est de J. S. qui me l'avait confié et qui n'a pas été très content de le voir mutilé et raccourci. Il le destinait au Voleur, et, moi, je l'ai volé, au profit du Figaro. Dans le même numéro, une bigarrure (la première) fait grand scandale. Elle n'a rien de joli; mais, comme elle tombe d'aplomb sur le ridicule de la circonstance, les rieurs s'en sont emparés, le roi citoyen s'en est offensé, et M. Nestor Roqueplan, le signataire du journal, au moment de recevoir ta croix (dont Sa Majesté n'est pas chiche d'ailleurs), s&lt;3 l'est</p>
+        <p>vu refuser à cause de l'article susdit, dont il est responsable. C'est pourtant mot qu'a fait ce coup-là! J'en peux pas revenir et j'en ris à me démettre les mandibules. Q auguste juste milieu de la Châtre, que diras-tu de mon imprudence</p>
+        <p>M. de Latouche, de son côté, ne s'était pas gêné d'annoncer des croisées à louer pour voir passer la première émeute que j~f(nt M. Vivien. Toutes ces gentillesses ont indisposé le roi citoyen et papa Persil, qui lui a dit comme ça:</p>
+        <p>Tonnerre de Dieu, sire, c'est trop fort 1 Vous croyez ? qu'a dit le roi citoyen, faut-il que -je me fâche?</p>
+        <p>Oui, sire, faut vous fâcher.</p>
+        <p>Alors le roi citoyen s'est fâché. Et voila qu'on a saisi le Figaro et qu'on lui intente un procès de tendance. Si on incrimine les articles en particulier, le mien le sera pour 'sûr. Je m'en déclare l'auteur et je me fais mettre en prison. Vive Dieu quel scandale à la Châtre Quelle horreur, quel désespoir dans ma famille Mais ma réputation est faite et je trouve un éditeur pour acheter mes platitudes et des sots pour les lire. Je donnerais neuf francs cinquante centimes pour avoir le bonheur d'être condamnée. Je ne vous dis rien de la Nouvelle Atala. Je l'ai avalée, il m'en souviendra! J'en ai eu le choléramorbus pendant trois jours. Vous en verrez l'analyse un de ces jours dans votre journal.</p>
+        <p>Bonsoir, mon cher camarade; je vous embrasse de j</p>
+        <p>tout mon coeur. Écrivez-moi plus souvent et quand même vous seriez de mauvaise humeur, n'ai-je pas aussi mes jours Kë6!t!eMa!? Quand je serai cheux nous, c'est-à-dire le mois prochain, si vous vous ennuyez, vous viendrez me voir. Nous mettrons nos deux ennuis ensemble et nous tâcherons de les jeter à l'eau, pour peu qu'il y ait de l'eau. Je ne vous dis rien de votre affaire d'honneur. Êtes-vous assez bête! je me réserve de vous laver la tête mais ne recommencez pas souvent ces sottises-là. Adieu. Bonsoir. Embrassez pour moi votre chère mère et aimez-moi toujours un brin.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-07">Paris, juillet 1833</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="MADAME * (...-...)">A MADAME*"</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, juH)ett83~"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, juillet 1833</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Madame, croyez-le bien. C'est l'infirmité d'une nature pauvre et boiteuse. Je n'ai rien étudié, je ne sais rien, pas même ma langue. J'ai si peu d'exactitude dans le cerveau, que je n'ai jamais pu faire la plus simple règle d'arithmétique. Voyez si avec cela je puis être utile à quelqu'un et trouver quelque idée salutaire et juste. Vous êtes très au-dessus de moi sous tous les rapports, et notamment pour l'activité, la raison, l'intelligence et le savoir. Je n'ai que des sensations, point de volonté. Pour quoi, pour qui en aurais-je? Au delà de deux ou trois personnes, l'univers n'existe pas pour moi. Vous voyez que je ne suis bonne à rien; mais vous êtes 4)onne à tout, et, par votre talent et par votre caractère, vous n'avez pas besoin de mon aide. Gardez-moi seulement votre bienveillance, votre pitié pour ma nullité sociale, et votre amitié pour m'en consoler. Ne pouvez-vous aimer que les âmes grandes et fortes? La mienne ne l'est pas; mais j'admire ce qui est autrement que moi. Le fait des natures puissantes est de .plaindre et de consoler ce qui est au-dessous. Faites du bien aux femmes en général par votre zèle et votre chaleur de cœur, faites-en à moi en particulier par votre douceur et votre tolérance.  Adieu, madame; reviendrez-vous bientôt? Je suis tout à vous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+             
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

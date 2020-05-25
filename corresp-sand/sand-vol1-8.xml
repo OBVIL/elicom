@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1827-07-05" >5 juillet 1827</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant,5 juillet 1827</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Pourquoi donc ne m'écrivez-vous pas, ma chère maman ? Êtes-vous malade ? Si cela était, je le saurais probablement, Hippolyte ou Clotilde me l'auraient écrit. Mais, depuis le 24 mars, pas un mot de, vous!</p>
+        <p>Vous m'oubliez tout à fait, et me ferez regretter de ne pas habiter Paris, si les absents ont si peu de part à votre souvenir. Je ne suis pas démonstrative, mais votre silence me peine et me fait mal plus que je ne saurais le dire.</p>
+        <p>Caroline est-elle toujours près de vous? Ce serait du moins une consolation pour moi que de vous savoir heureuse et satisfaite. Je n'attribuerais, cetteabsence de lettre à rien de fâcheux et j'en souffrirais seule. Mais que ne puis-je augurer de cette incertitude ? hors une maladie, dont je serais certainement informée par quelqu'un, j'imagine tout. Il faut que vous ayez quelque chagrin. Mais quel chagrin vous force à me laisser ainsi dans l'inquiétude? Hippotyte me mande que la famH!e Defos va partir pour</p>
+        <p>Clermont';ne serez-vous pas tentée de l'accompagner? Il y a longtemps que vous projetez ce voyage, et, au retour, vous vous arrêteriez ici, ou bien nous vous verrions en Auvergne, où je vais passer quelques semaines, et nous reviendrions ensemble à Nohant. Si c'est là la surprise que vous me ménagez, je ne me plaindrai pas que vous me l'ayez fait trop longtemps désirer.</p>
+        <p>Depuis que je ne vous ai écrit, je me suis assez bien portée mais j'ai eu plusieurs accidents où j'ai failli me tuer. Je serais morte sans un souvenir de vous, ma chère maman, et ce n'eut pas été un de mes moindres regrets à quitter la vie.</p>
+        <p>Je ne veux pas vous écrire plus longuement aujourd'hui. Je vous gronderais, je crois, et ce serait passablement ridicule. Il y a déjà longtemps que j'ai sur le coeur de vous reprocher votre paresse, et que je recule toujours, espérant une lettre mais elle n'arrive pas</p>
+        <p>Adieu, ma chère maman pardonnez-moi d'être un peu en colère contre vous et faites-moi voir, je vous ~n prie, que vous vons ressouvenez d'une fille que vous avez en Berry et qui vous aime plus que vous ~e songez à elle.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

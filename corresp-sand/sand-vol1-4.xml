@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1826-02-25"> 25 février 1826</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 25 février 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>J'ai bien du malheur! Je vais à Paris précisément à l'époque où tout le monde y est, et ma mauvaise étoile veut que je ne vous y trouve pas.</p>
+        <p>Je cours chez ma tante; pour y apprendre que vous êtes à Charleville. Je vous espère tous les jours, mais je n'ai signe de vie qu'à mon retour ici, où je trouve enfin une lettre de vous.</p>
+        <p>C'est une grande maladresse de ma part que d'aller, au bout de deux ans, passer quinze jours à Paris et de ne pas vous y rencontrer. Mais il y avait si longtemps que je n'avais reçu de vos nouvelles, que je vous croyais bien de retour chez vous. Caron même, chez qui nous avons demeuré,' vous croyait sa voisine. Enfin, j'ai joué de malheur, et me voilà rentrée dans mon Berry, ne sachant plus quand j'en sortirai, ni. quand j'aurai le bonheur de vous embrasser. Ma santé, à laquelle vous avez la bonté de porter tant d'intérêt, est meilleure que la dernière fois que je vous écrivis; la preuve en est que j'ai eu la force de passer quatre nuits dans le courrier, tant pour aller que pour venir sans être malade, ni à l'arrivée,</p>
+        <p>ni au retour. Sans ma mauvaise toux qui ne me laissait pas dormir, je me serais assez bien portée. Merci mille fois de/vos bons avis à cet égard; mais ne me grondez pas de ne pas les avoir suivis très exactement. Vous savez que je suis un peu incrédule, et puis un peu médecin moi-même, non par théorie, mais par pratique. Je n'ai jamais vu de remèdes efficaces aux maux de poitrine la nature fait toutes les guérisons quand elle s'en mêle, et l'honneur en est à l'Esculape, qui ne s'en est pas mêlé. Je sais bien que ces messieurs n'en conviendront jamais. Comment un médecin avouerait-il sa nullité? ce ne serait pas adroit. S'ils faisaient, comme moi, la médecine gratis, ils seraient de bonne foi; peut-être encore l'amour-propre serait-il là pour les en empêcher. Tant y a que, sans remède et sans docteur, sans me noyer l'estomac de boissons qui ne vont pas dans la poitrine, je ne tousse plus; c'est l'important. J'at bien toujours des douleurs et par surcroît une fluxion de chaque côté du visage dans ce moment-ci. Mais le printemps, s'if veut se dépêcher de venir, mettra ordre aux affaires.</p>
+        <p>Je vous dirai, chère maman, que, si vous étiez venue passer le carnaval ici, vous ne vous seriez pas du tout ennuyée. Nous avons des bals charmants et nous passons des deux et trois nuits par semaine à danser. Ce n'est pas ce qui me repose, ni même ce qui m'amuse le mieux; mais il y a des obligations dans la vie qu'il faut prendre comme elles viennent. Dernière-</p>
+        <p>meni nous sommes sortis d'un bal chez madame Duvernet~ à neuf heures du matin. N'êtes-vous pas émerveilléé d'une dissipation pareille? Aussi le jubilé, traversé par tant de fêtes, n'en finit-il pas. J'espère que, dans deux ou trois ans, nous n'en entendrons plus parler. En attendant, le curé prêche tous les dimanches matin contre le bal, et, tous les dimanches soir, on danse tant qu'on peut.</p>
+        <p>Quand je parle de curé grognon, vous entendez bien que ce n'est pas celui de Saiiit-Chartier~ que je veux dire. Tout au contraire celui-là est si bon, que,. s'il avait quelque soixante ans de moins, je le ferais danser si je m'en mêlais.</p>
+        <p>Il est venu ici faire deux mariages dans un jour. Celui d'André~, avec une jeune fille que vous ne connaissez pas et qui entrera à notre, service à la SaintJean, et celui de Fanchon, sœur d'André et bonne de Maurice, avec la coqueluche du pays, le beau cantonnier S~M'MO~, que vous ne vous rappelez sans doute en aucune manière, malgré ses SMCC~s. La noce s'est faite dans nos remises, on mangeait dans l'une, on dansait dans l'autre.</p>
+        <p>C'était d'un luxe que vous pouvez imaginer trois, bouts de chandelle pour illumination, force piquette 1. Mère de Charles Duvernet, amie de la famille de, pères en fils.</p>
+        <p>pourrafraîchissements, orchestre composé d'une vielleet d'une cornemuse, la plus criarde, par conséquent la plus goûtée du pays. Nous avions invité quelques personnes de la Châtre et nous avons fait cent mille folies, comme de nous déguiser le soir en paysans, et si bien, que nous ne nous reconnaissions pas les uns les autres. Madame Duplessis était charmante en cotillon rouge. Ursule', en blouse bleue et en grand c/taptSM, était un fort drôle de galopin. Casimir, en mendiant, a reçu dessous qui lui ont été donnés de très bonne foi. Stéphane de Grandsaigne, que vous connaissez, je crois, était en paysan requinqué, et, faisant semblant d'être gris, a été coudoyer et apostropher notre sous-préfet, qui est un agréable garçon et qui était au moment de s'en aller quand il nous a tous reconnus.</p>
+        <p>Enfin la soirée a été très bouffonne et vous aurait divertie, je gage; peut-être auriez-vous été tentée d&amp; prendre aussi le bavolet, et je parie qu'il n'y aurait. pas eu d'yeux noirs qui vous le disputassent encore. Comptez-vous retourner bientôt à Paris, chère ma-.man, et êtes-vous toujours contente du séjour de Charleville ? Embrassez bien ma sœur pour moi, ainsi que le cher petit Oscar. Casimir vous présente ses tendres. hommages, et moi je vous prie de penser un peu à nous quand le printemps reviendra.</p>
+        <closer>
+          <salute>Donnez-nous de vos nouvelles, chère maman, et recevez mes embrassements.</salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1831-01-13">Paris, 13 janvier 1831</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Boucoiran, Jules (1808-1875)">AU'MËME</persName>
+                    <placeName>Chateauroux</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Paris, MjtLnviermi."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, MjtLnviermi.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A JULES 13OL'COIRAN, A CHATEAUROUX</p>
+                <p>Mercredi.Paris, i3 janvier i83i.</p>
+                <p>Mon cher ami,</p>
+                <p>Je suis enfin libre; mais je suis loin de mes entants. Quand vous serez près d'eux, je serai moins triste de leur absence; je veux dire que l'inquiétude ne se joindra pas à ma tristesse. Merci, mon cher enfant, merci! Que Dieu rende à votre mère tout le bien ~ue vous ferez à mon fils. Parlez de moi souvent, qu'il ne désapprenne point à m'aimer. J'ai dit, en partant, qu'on vous donnât la chambre que vous désirez. Si on 'l'avait oublié, faites-vous-la donner en arrivant. Je ne vous parle pas de la conduite à tenir avec mon mari, .pour conserver la bonne intelligence nécessaire. Vous savez maintenant qu'il faut se garder de prendre mon -parti, sous peine d'être haï; qu'il faut laisser soutenir t. 9</p>
+                <p>les paradoxes les plus injustes et les plus absurde&amp;. sans donner signe de blâme, etc. Je sais, de mon côté, qu'on ne se conduira peut-être pas toujours à votre égard avec l'amitié que vous méritez. Les cœurs sont secs et ne s'ouvriront pas pour vous.</p>
+                <p>Il est nécessaire que vous ayez une grande autorité. sur Maurice; mais il ne faut pas que vous ayez l'air de la disputer à son père. Affectez, au contraire, d'adhérer à tout ce qu'il vous dira, et faites au fond' comme vous jugerez bon. Il n'a pas de constance dans les idées, il ne s'inquiètera pas de l'effet de ses avis. Ensuite prenez garde à vos lettres et aux miennes. Mettez-y toute votre prudence naturelle. Je vous prie de m'écrire au moins une fois par semaine et de m'avertir si Maurice était sérieusement malade. Eux n'y manqueraient pas, je le sais bien; mais ils ne se feraient pas faute d'exagérer son mal, soit pour me faire revenir plus vite, soit pour me faire de la peine. En vérité, ils m'en ont assez fait, souvent pour le seul, plaisir qu'ils y trouvaient. Vous, vous me direz la vérité si l'un de mes enfants tombait malade, je me conformerais entièrement à votre avis de revenir ou de rester. J'aurais de l'inquiétude ou je n'en aurais pas, suivant votre assertion. Vous m'épargnerez la douleur tant que vous pourrez, je le sais. Vous ne m'abuserez pas non plus par une aveugle confiance. Je vous écrirai plus au long dans quelques jours, pour vous dire .ce que je fais ici. Je m'embarque.surla mer orageuse de la littérature. Il faut vivre. Je ne</p>
+                <p>suis pas riche maintenant, mais je me porte bien, et, quand de longues lettres de vous me parleront de votre amitié et de mon fils, je se~ai gaie.</p>
+                <p>Un mot cependant avant de vous dire bonsoir. Vous m'avez mal comprise si vous avez cru que ce serait par rapport aux convenances, à l'opinion, que j'ai refusé de vous accompagner à Nîmes. Les convenances sont la règle des gens sans âme et sans vertu. L'opinion est une prostituée qui se donne à ceux qui la payent le. plus cher. Ce n'est pas non plus pour ne pas déplaire à mon mari. Je m'explique. Ce n'est pas à cause de l'humeur qu'il en' aurait, et des reproches amers ou mordants qui m'en reviendraient. Vous remarquez fort bien que j'ai bravé cette numeur et supporté ces reproches en beaucoup d'autres occasions. J'ajouterai que je l'ai fait souvent pour des gens que j'aimais bien moins que vous. Mais c'est à cause de vous. C'est parce que je ne veux pas que vous deveniez un objet de méfiance et d'aversion qu'on chercherait à éloigner. Vous pensez rester plus de deux ans avec nous? Je ne le sais pas, mon enfant; mais je voudrais que ce fût pour toute la vie. Or vous témoigner une préférence marquée, une estime particulière, ce-serait. Au reste, vous savez comme cela a réussi autrefois entre nous. Ils m'ont appris qu'il fallait cacher mes plus nobles affections, comme des sentiments coupables. Ne voulant pas les rompre, je saurai avoir à cause de vous, mon cher Jules, des ménagements que je dédaignerais s'il ne s'agissait que de moi.</p>
+                <p>Bonsoir, cher enfant; je vous aime bien, et serai toujours votre seconde mère: Écrivez-moi aussitôt que vous serez chez nous. Dites-moi un peu comment on me traite là-bas. Il est toujours bon de savoir ce que les autres pensent de vous.</p>
+                <closer>
+                    <salute>Je vous embrasse de tout mon coeur.</salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

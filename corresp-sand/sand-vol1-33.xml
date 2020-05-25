@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-12-08">Lundi soir. Nohant, 8 décembre 1830.</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1808-1875)">AU MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lundi soir. Nohant, 8 décembre &lt;830."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Lundi soir. Nohant, 8 décembre &lt;830.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher enfant,</p>
+        <p>Laissez-moi vous bénir, et n'essayez point de dimi–</p>
+        <p>nuer le prix de ce que vous faites pour moi. Ne dites pas que vous ne faites que remplir un engagement, tenir une promesse. Du moment que les nouveaux chagrins que j'ai éprouvés m'ont mise dans la nécessité de quitter Nohant une partie de l'année, vous étiez dégagé de tout lien. Vous pouviez me dire: &lt; J'ai fait le sacrifice de mes intérêts et de toute mon ambition à l'espoir de vivre près d'une amie mais je ne me suis pas engagé à veiller sur ses enfants en son absence et à supporter l'ennui de ta solitude pendant l'autre moitié de l'année. s Quand je vous ai offert un sort moins brillant, mais plus doux peut-être que celui dont vous jouissez actuellement, je ne prévoyais pas les circonstances où je me trouve aujourd'hui. Je me disais que mon amitié vous dédommagerait des. avantages de la fortune, et je vous connaissais assez pour espérer que vous goûteriez le bonheur sans éclat que'mon affection vous promettait. Maintenant que je me vois forcée de prendre un parti sévère et d'assurer mon repos, ma liberté, par une résidence de six mois par an à Paris, c'est en tremMant que je vous demande de me consacrer votre temps. Loin de revendiquer comme un droit la promesse'que vous me fîtes, je vous en affranchis entièrement. Si c'est à l'honneur seul que je dois votre moble conduite à mon égard, je vous rends votre liberté, sans que, pour cela, vous perdiez mon estime. Non, moncher enfant, je ne veux rien devoir qu'à votre amitié. Je ne veux point'me soustraire à la re-</p>
+        <p>connaissance en considérant votre sacrifice comme l'accomplissement d'un devoir. Je le regarderai toute ma vie comme une preuve d'affection si grande, que je nf pourrai jamais assez la reconnaître. Je me dirai toujours que c'est par dévouement d'amitié, et non par principe de conscience, que vous avez accepté mes propositions, modifiées comme elles le sont par les, chagrins de mon intérieur.</p>
+        <p>Je vous renvoie les deux lettres que vous m'avez confiées. Je ne m'abuse point sur le désavantage pécuniaire qui résulte pour vous d'abandonner la famille Bertrand. Personne ne comprendra le désintéressement et la noblesse de votre conduite. Votre mère seule en sera un bon juge. Je souffre, je l'avoue, de l'idée que le secret de mon intérieur sortira de vos mains. Je sais que votre mère gardera ce secret comme vous-même mais la mort, cet accident imprévu et inévitable, peut changer étrangement la destination'des écrits. J'ai pour principe de détruire sans tarder tout papier contenant des particularités dont la découverte serait nuisible à la réputation ou au bonheur de quelqu'un. Voilà le seul motif qui m'engageait à vous prier de brûler ma lettre. Si vous ta faites passer à votre mère, priez-la donc de le faire. Vous devez reconnaître comme moi l'utilité de cette mesure. Si quelque autre personne que vous ou elle venait à découvrir les torts de mon mari, je me ferais un reproche éternel deles avoir retracés. Quand à madame Saint-A. je ne suis guère sur-</p>
+        <p>8</p>
+        <p>prise de ses intentions officieuses à mon égard. Je n'ai jamais fait la folie de croire en elle; aussi je ne puis être offensée de. sa conduite envers moi,. quelle qu'elle puisse être.</p>
+        <p>Je ne puis rien vous promettre pour le voyage à! Nîmes. Ce n'est pas la considération de l'argent qui m'arrête le plus. Ce voyage doit être peu dispendieux. Mais je serai désormais dans une position qui me prescrira beaucoup de prudence dans mes démarches. Le bon accord que, malgré ma séparation d'avec mon mari, je veux conserver dans tout ce qui concernera mon fils, m'obligera à le ménager de loin comme de' près. J'ai déjà reconnu que ce projet ne lui souriait. point. Désormais, je ne dois laisser aucune prise contre moi, ou tout le fruit de mon énergie serait perdu et j'aurais fourni des armes contre moi-même.; J'éprouve un autre chagrin très vif c'est de n'avoipas une obole dont je puisse disposer maintenant S j'étais à Paris, je vous trouverais de l'argent dans~ la journée. Je vendrais mes effets plutôt que de ne pas vous rendre un service; mais, ici, que faire? Je suis dans une position délicate envers mon mari. Je lui dois c'est-à-dire que je suis en avance de la pension qu'il me fait. Cela ne m'a pas empêchée de lui adresser une demande, aussitôt votre lettre reçue. J'ai éprouvé un refus assez poli, mais très décisif. Plaignez-moi, je ne maudis mon défaut d'ordre jamais autant que lorsqu'il m'empêche de servir l'amitié~ P Cependant, si vous ne pouvez trouver d'argent ail-</p>
+        <p>leurs, je tâcherai d'en emprunter sans qu'on lesache, quoique je sois déjà criblée de dettes, que j'acquitterai, Dieu sait comment! Répondez-mei immédiatement, poste restante à la CAd&lt;re.</p>
+        <p>Mes affaires domestiques s'éclaircissent. Mon frère me soutient un peu et m'offre son appartement à Parisjusqu'au mois de mars. Pendant ce temps, il restera, ici avec sa femme. A cette époque, je reviendrai et jepasserai quelque temps à Nohant pour vous y installer. Je partirai pour Paris dès que serai rétablie. Je suis encore très souffrante. Si vous pouvez venirpasser une journée à Chàteauroux, je vous préviendrai, afin que nous puissions causer à mon passage en&lt; cette ville.</p>
+        <closer>
+          <salute>Adieu, mon cher enfant; je suis encore assez faible,. mais j'ai assez de tête et de cœur pour sentir vivement ce que vous faites pour moi. Vous aurez beau vousdéfendre de mes bénédictions avec votre rudesse Spartiate, je vous poursuivrai jusqu'à la mort demes remerciements et de mon ingratitude. Pn'HMcomme eoMs voudrez, comme dit' mon vieux curé. Bonsoir donc, mon cher fils; parlez de moi à~ votre mère. Dites-lui que je la vénère sans la connaitre, ou plutôt que je la connais ~rès bien sans l'avoir vue. Certes, je voudrais qu'elle me connût aussi et qu'eiïe: sût combien son enfant m'est cher.
+          </salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

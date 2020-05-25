@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1829-03-08" >8 mars 1829</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, À PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>8 mars 1829</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère Maman, Il y a bien longtemps que je veux vous écrire; mais il a fallu que le carême arrivât pour m'en laisser le temps. Jamais à Paris on ne mena une vie plus active et plus dissipée que celle que nous avons passée durant le carnaval courses à cheval, visites, soirées, dîners, tous les jours ont été pris, et nous avons beaucoup moins habité Nohant que la Châtre et les grands chemins.</p>
+        <p>Enfin, nous voici rentrés~ dans un ordre de choses plus paisible, et je commence, pour que la retraite me soit aussi agréable que les plaisirs me l'ont été, par vous demander de vos nouvelles et vous assurer que je voudrais que vous fussiez ici, où vous vous porteriez bien et vous amuseriez, j'en suis sûre. Un peu de mouvement en voiture, la société de personnes gales et aimables comme celles dont notre intimité est composée vous plairaient, à vous qui n'aimez pas plus que moi la gêne et les obligations. Le coin du feu a aussi ses plaisirs. Hippolyte l'égaye par son caratère facile, égal, toujours bon et content. Nous rions, chantons et dansons comme des fous, et jamais, depuis</p>
+        <p>bien-des hivers, je ne me suis si bien portée. Je lui en attribue tout l'honneur.</p>
+        <p>Avez-vous toujours votre petit compagnon.Oscar? Hippolyte m'a dit qu'il était fort gentil, mais assez délicat. Maurice granditbeaucoup et n'est pas non plus très robuste maintenant. C'est l'âge, dit-on, où le tempérament se développe, non sans quelque effort et quelque fatigue. Il est joli comme un ange, et fort bon. Sa soeur est une masse de graisse, blanche et rose, où on ne voit encore ni nez, ni yeux, ni bouche. C'est un enfant superbe, quoique né imperceptible; mais, pour espérer que ce soit une fille, il faut attendre qu'elle ait une figure. Jusqu'ici, elle en a deux aussi rondes et aussi joufflues l'une que l'autre. Elle a toujours une bonne nourrice, dont elle se trouve fort bien.</p>
+        <p>Le mois prochain,vous verrez mon mari, qui retournera avec Hippolyte vendre son cheval. De là, nous irons un mois à Bordeaux et un mois à Nérac, chez ma belle-mère, et nous serons de retour ici au mois de juillet. Si vous voulez, à cette époque, tenir votre promesse, et décider Caroline à vous accompagner, nous passerons en famille tout le temps que vous voudrez car je n'aurai plus d'obligations de toute l'année, et il me faut des obligations pour quitter Nohant,où .j'ai pris racine. Nous vous soignerons bien et vous rajeunirez si fort, que vous retournerez à Paris fraîche et encore très dangereuse pour beaucoup de têtes Adieu, ma chère maman. Casimir, Hippolyte, mes deux enfants et moi vous embrassons tous bien ten-</p>
+        <p>drement. Gare à vous, au milieu d'un pareil conflit! vous aurez bien du bonheur si vous n'êtes pas étouffée par nos caresses, et nos batailles à qui en aura sa part. Quand -vous me répondrez, aurez-vous la bonté de me donner quelques conseils sur la façon d'une robe de foulard fort belle qu'on m'envoie de Calcutta et que je ferai moyennant que vous me direz où en est la mode et la manière dont-je dois taiiïer les manches? Je crois que maintenant on les fait droit fil et aussi larges en bas qu'en haut. Mais dirigez-moi, car je suis fort en arrière.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

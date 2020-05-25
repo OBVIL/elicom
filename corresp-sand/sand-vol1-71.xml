@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-12-12" >Paris, 12 décembre 1932</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">AU MÊME </persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="P&lt;u-is,i2d~MmbreiS33."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 12 décembre 1832</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher petit amour,</p>
+        <p>J'ai reçu ta lettre; je suis bien contente que tu</p>
+        <p>te portes bien. Ta soeur est toujours rose et de bonne humeur. Elle lit tous les jours elle sort avec sa bonne, qui se tire très bien d'affaire, qui va au marché, nous fait la cuisine, et m'est plus utile' que je ne l'espérais. Moi, je ne suis pas encore sortie. Je suis dans de grandes affaires que tu ne comprendrais pas, mais dont il te suffira de savoir que je suis assez contente. Ta sœur me tourmente pourtant depuis quelques soirs pour que je la mène au pestacle. Il fait si froid, que je n'ai pas le courage de sortir; je crains surtout qu'elle ne s'enrhume. Nous avons, quai Malaquais, 19, un appartement chaud comme une étuve. Nous voyons de grands jardins et nous n'entendons pas le moindre bruit du dehors. Le soir, c'est silencieux et tranquille comme Nohant c'est très commode pour travailler. Aussi je travaille beaucoup. Il y a des tapis partout, ta sœur se roule comme un gros chien. Elle dit des sottises à tout le monde. Elle appelle le père Bouffard vieux bavard, vieille bête. Elle se trompe; il n'est pas bête du tout, et il gâte beaucoup la grosse, malgré ses injures.</p>
+        <p>Adieu, mon cher mignon. Ton petit bengali se porte bien, je vais lui acheter un compagnon. Que fais-tu de ton chien? Où le fais-tu coucher ? As-tu un peu soin de lui? Donne-lui une gifle de ma part. Dis à Boucoiran de m'écrire, qu'il est un paresseux. Embrasse pour moi ton père, et dis à Léontine de m'écrire une petite lettre, pour que je voie si elle continue ses progrès. Je reçois un journal plein d'ima-</p>
+        <p>ges assez drôles. Quand j'en aurai un .paquet, je te l'enverrai. Adieu, mignon; je t'embrasse cent mille fois sur ton gros pif et sur tes joues rosés. Ta mère.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

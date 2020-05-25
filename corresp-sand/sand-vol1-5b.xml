@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <placeName>Nohant</placeName>
+                    <date when="1826-07-13" resp="">13 juillet 1826</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+           
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>Nohant</placeName>
+                        <date>13 juillet 1826</date>
+                    </dateline>
+                    <salute>Ma chère maman,</salute>
+                </opener>
+                <p>A MADAME MAURICE DUPIN, A PARIS</p>
+                <p>J'ai reçu votre aimable lettre il y a quelque temps, et j'ai vu depuis M. Duvernet, qui m'a dit vous avoir trouvée bien portante, et avoir passé.la journée avec vous et l'ami Pierrot'. Il m'a beaucoup parlé de vous. Vous savez que c'est une de vos conquêtes les plus dévouées. Il m'a dit que vous viendriez sans la crainte de nous voir partir au premier moment et d'avoir fait un voyage inutile. Ce serait une crainte bien mal fondée car, outre que le plaisir d'être près de vous nous ôterait l'envie de courir, nous n'avons pas le moindre projet de voyage d'ici à bien longtemps.</p>
+                <p>Quand je dis nous, je parle de moi et de mon enfant; car mon mari n'a pas fait vœu de réclusion. H est à Bordeaux dans ce moment pour une affaire indispen1. Pierret, ami de la famille.</p>
+                <p>sable le payement d'une maison qu'il a vendue l'hiver dernier et dont l'échéance était le 10 de ce mois. Je pense qu'il reviendra par Nérac et qu'il passera quelques jours auprès de madame Dudevant. Je ne sais au juste quand il sera de retour. Il voulait assister à sa moisson. Il faudra qu'il se dépêche; car les blés sont mûrs, et je vais les faire mettre à terre.</p>
+                <p>.Quand il se sera reposé un peu de son voyage, il sera forcé de faire celui de Paris pour le placement de ses fonds. Alors il plaidera notre cause de vive voix auprès de vous, et peut-être vous décidera-t-il à revenir avec lui!</p>
+                <p>Vous avez dû voir Hippolyte souvent. Il vous aura dit qu'il m'a laissé sa petite, dont je prends soin et qui se porte très bien. Nous avons eu des jours très brillants d'abord la fête de Maurice, à l'occasion de laquelle j'ai régalé une centaine de paysans. Les danses, les coups de fusil, le carillon des cloches, le son de la cornemuse et les chansons des buveurs, auxquels se mêlaient les hurlements des chiens contrariés, ont célébré avec bruit l'anniversaire de notre jeune homme, qui était charmé de ce tapage et de ces.honneurs.</p>
+                <p>Nous avons eu ensuite mademoiselle George à la Châtre. Elle y a donné deux représentations qui ont fait courir tout le pays a mis la ville et les environs sens dessus dessous Je vous conterais bien d'autres 1. Hippolyte Chatiron, frère de George Sand.</p>
+                <p>tfétes antérieures; mais Hippolyte vous aura conté .notre chasse au sanglier; il vous aura dit que Nohant devenait chaque jour plus brillant. Nous serions bien heureux si cela .pouvait vous donner l'envie d'y venir. Adieu, ma chère maman; je vous embrasse tendrement et vous prie de me donner de vos nouvelles. Pardonnez-moi le long temps que j'ai mis à vous donner des nôtres. Je suis si occupée en l'absence de mon mari,que je suis forcée de remplacer, que je n'at pas le courage d'écrire le soir, et que je vais me cou cher bien lasse.</p>
+                <p>Vous saurez que je m'occupe beaucoup de médecine, non pas pour moi, car j'aime peu à y songer, mais pour mes paysans. J'ai fait de très heureuses cures mais l'état a aussi ses désagréments. X</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

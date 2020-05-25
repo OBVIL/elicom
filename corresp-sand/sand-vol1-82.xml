@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-07-05"> Paris, 5 juillet 1833</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Duvernet, Charles (1807-1874)">A M. CHARLES DUVERNET, LA CHATRE </persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Vous avez raison, mon ami, de compter bur mon amitié inaltérable. J'apprends avec joie la bonne nouvelle, et je partage tout votre bonheur de mari, tout votre orgueil de père. Faites mon compliment à l'accouchée et embrassez-la de ma part, ainsi que cette vieille yraM~'M~re de madame Duvernet, bien vexée,. n'est-ce pas, de porter un pareil titre?</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Enfin vous êtes donc tous bien heureux, mes amis Je regrette de n'être pas au milieu de vous, comme j'y étais le'jour de vos noces, pour voir toutes vos figures épanouies, pour serrer toutes vos mains affectueuses. Quand vous me disiez jadis que vous aviez horreur des moutards, je savais bien que vous trouveriez les vôtres beaux et bons. Les miens, je vous le disais, et je vous le dis encore, me donnent les seules joies réelles de ma vie. Vous ne me dites pas comment s'appelle ce bienvenu. C'est une chose intéressante qu'un nom de baptême, à laquelle j'attache autant d'idées que le père de Tristram Shandy. H ne se nomme, j'espère ni Artaxercès, ni Épaminondas, ni Potyphème, ni Polyperchon?</p>
+        <p>Le mien est au collège et se comporte de maniére à mériter dans son régiment l'estime de ses CHÉFRES et l'amitié de ses camarades. Ma fille est de la taille du plus jeune éléphant de la ménagerie royale. Elle a horreur des gens de lettres, elle les traite de polissons et de mâtins. En tout, elle annonce les plus brillantes dispositions. Moi, j'ai été longtemps et beaucoup malade. Je vais très bien depuis que j'ai consulté un habile médecin, lequel m'a dit de me distraire et d'éviter les contrariétés; ce qui m'a par très profond, très neuf, et très aisé à faire surtout. Je fais toujours des livres et suis assez bien dans mes afïaires maintenant. J'irai au pays avec mon fils à l'époque des vacances. Vous me présenterez l'héritier présomptif et je vous embrasserai tous de bien bon &lt;:œur. Adieu, mon ami.</p>
+        <p>Tout à vous.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              AURORE.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

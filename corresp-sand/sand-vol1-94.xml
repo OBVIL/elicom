@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1835-05">mai 1835</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Marbouty, Caroline (1803-1890) ">A MADAME CLAIRE BRUNNE'. A PARIS </persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Madame,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Madame,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Recevez l'expression d&amp; toute ma gratitude pour la</p>
+        <p>bienveillance dont vous m'honorez. Soyez sûre que les amis inconnus que j'ai dans le monde, et dont vous daignez faire partie, ont, devant Dieu, une communion intime avec moi.</p>
+        <p>Mais, à vous qui me paraissez une femme supérieure, je puis dire ce que je n'oserais dire à toutes les autres Ne cherchez point à me voir! les louanges me troublent et m'affectent péniblement. Je sens que je ne les mérite point. Je vous semblerais froide, ee je vous déplairais, sans doute, comme j'ai déplu à beaucoup de personnes qui m'intimidaient, malgré mes efforts pour leur exprimer ma a reconnaissance C'est pour moi un châtiment de ma vaine et ennuyeus 1. Veuve Marbouty, femme de lettres.</p>
+        <p>célébrité, que ce regard curieux, sévère ou exigeant, que le monde m'accorde. Laissez-moi le fuir. Si je vous rencontrais dans un champ, dans une auberge, si. je vous voyais dans votre maison à la campagne, ou dans la mienne, j~ pourrais espérer de réparer le mauvais effet de la première .entrevue, et je ne me mènerais pas de moi-même. Mais, ici, nous ne nous trouverions jamais seules ensemble; ma mansarde n'a qu'une pièce, et trente personnes s'y succèdent chaque jour, soit à titre d'amis, soit pour raison d'affaires, soit par oisiveté de curieux. Je cèd&amp; souvent à ceux-là, par crainte d'être jugée orgueilleuse. Comprenez-moi mieux et aimez-moi mieux qu'eux tous. Vous n'avez pas besoin de moi; sans cela, j'irais au-devant de vous.</p>
+        <p>Ne me croyez pas ingrate. Je baise la main qui tracé mon éloge avec tant de grâce.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

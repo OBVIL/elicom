@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1834-05">Venise, Mai 1834.</date>
+                    <placeName>Venise</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Papet, Gustave (1812-1892)">A M. GUSTAVE PAPET</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Venise, 6avriU63t."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Venise, 6avriU63t.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A M. GUSTAVE PAPET, A PARIS</p>
+                <p>~mM~M.</p>
+                <p>Fais-moi le plaisir de voir le proviseur ou,le censeur, et de demander à voir les notes de Maurice. Je l'ai demandé quarante fois à Boucoiran. Pas de réi.AUusion Aune grue apprivoisée par Boucoiran, à Nohant.</p>
+                <p>ponse. Il y a des instants! où ce silence m'euraye'tellement, que'je m'imagin&amp;que mon nlsestmort.et qu'ont n'ose pas.meledire.</p>
+                <p>Peut-être le printemps t'aura-t-il attiré'en Berri. En ce Ghs, renvoie ta'lettre à Maurice, diirectement au "collège. Tu me rendras' le service' de' le' voir et d'e~ t'observer, quand tu retourneras à Paris. En attendant. M verras ma fille a' Nohant. Tu -m6 parleras beaucoup d''elle, de'toi et'du pays. Conçois-tu que ni Laure~mAlphonse''ne m'écrivent!' M'ont-ils' oubliée aussi, ceux-là? II! me-semble qùe'jë~ rsuis morte' et que jë~ frappe en! vain' à ia porte' des' vivants. H est vrai que je leur avais annoncé mon' pro~-chain retour, et que' me voitâ encore a Venise pour' -quelque temps. Don)ne-moi au moins de leurs'nouvelles.</p>
+                <p>Adieu, mon ami tu vois que, si je repousse les épanchements de l'amitié dans certains cas, je reviens lui demander secours dans les affections plus profondes et plus réelles de la vie. Donné-moi aussi moyen de te faire du bien.</p>
+                <p>Je t'embrasse de tout mon. cceur.~ Rappelle-'moi a l'amitié de ton père.</p>
+                <p>Tout à toi.</p>
+                <p>GEORGE 3.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

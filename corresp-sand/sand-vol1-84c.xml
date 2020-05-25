@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1834-06-01" resp="">Venise, 1er juin 1834</date>
+                    <placeName>Venise</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chatiron, Hippolyte (1799-1848)">A HIPPOLYTE CHATIRON</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Venise, 6avriU63t."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Venise, 1er juin 1834</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A M. HIPPOLYTE CH'ATIRON, A PAKfS' Venise,l")uini8M.</p>
+                <p>Mon ami,</p>
+                
+                <p>À. présent que je suis revenue de Constantinopler,, je te dirai que c'est un bien beau pays, mais que je n'y suis pas allée. Il fait trop chaud et je n'ai pas assez d'argent pour cela., Si j'en a?ais, j'irais à Paris tout de suite et non ailleurs. Si tu entends dire que je suis noyée dans l'Archipel, sache donc bien qu'il n'en est rien et que c'est une nouvelle littéraire, rien de plus. Je suis à Venise, travaillant comme un cheval, afin de payer mon voyage d'Italie, que je dois encore à, mon éditeur, mais dont je m'acquitte peu à peu. Je, comptais être débarrassée de cette corvée il y a deux mois. Des circonstances imprévues, un voyage dans le Tyrol, quelques chaotins, m'ont, retardée dans mon travail, et dans mes profits par conséquent. Néanmoins'mon courage n'est pas mort,; mais, pour le- moment, je souffre beaucoup d'être loin de mes enfants depuis si longtemps. J'ai été dans une grande inquiétude par le. silence de Boucoiran, lequel' silence dure. encore, je ne sais pourquoi. J'ai reçu enfin une lettre de Gustave Papet, qui en contenait une de Mau-</p>
+                <p>rice, et une de Laure Decerf, qui me donne d'excellentes nouvelles de Solange.</p>
+                <p>Je suis donc en paix sur mes pauvres mioches; mais je n'en suis pas moins affamée de les revoir, et je serai, au plus tard, à Paris pour la distribution des prix. Les notes de Maurice sont excellentes. H m'écrit la lettre la meilleure et la plus laconique du monde. &lt; Tu me demandes si j'oublie ma vieille mère, non. Je pense tous les jours à toi. Tu me dis de t'écrire, espère que je t'écrirai. Tu me demandes si je suis corrigé de mes caprices d'enfant, oui. B</p>
+                <p>Voilà son style on dirait un bulletin de la grande armée, et avec cela pas une faute d'orthographe; je suis bien contente de lui.</p>
+                <p>Comment va Léontine? Elle doit être bien grande, au train dont elle y allait quand je suis partie. Es-tu toujours à Corbeil? D'après ce que tu me dis, tu es dans un bon air et dans une belle situation. Si tu as envie d'aller à Nohant au mois d'août, nous irons ensemble avec Léontine et Émilie, si sa santé le permet et si le ca'Mf lui en dit.</p>
+                <p>Tu me paraîs un peu dégoûté du pays; mais il y aura une manière de ne pas trop s'apercevoir de ses désagréments. Ce sera de rester à fumer sur le perron, de bavarder à tort et à travers entre nous, et de dormir en chien sur le grand canapé du salon. Venise, avec ses escaliers de marbre blanc et les merveilles de son climat, ne me fait oublier aucune des choses qui m'ont été chères. S'ois sûr que rien ne meurt en moi. J'ai une</p>
+                <p>vie agitée. Mon destin me pousse d'un côté et de l'autre, mais mon cœur ne répudie pas le passé. Il souffre et se calme selon le temps qu'il fait. Les vieux souvenirs ont une puissance que nul ne peut méconnaître, et moi moins qu'un autre. H m'est doux, au contraire, de les ressaisir, et nous nous retrouverons bientôt ensemble, dans notre vieux nid de Nohant, où je n'ai pas pu vivre, mais où je pourrai, peut-être plus tard, mourir en paix.</p>
+                <p>Dire que l'on aura une vie uniforme, sans nuages et sans reproches, c'est promettre un été sans pluie; mais, quand le cœur est bon, l'on se retrouve et l'on se souvient de s'être aimés. H m'a semblé plusieurs fois que j'avais à me plaindre beaucoup de toi. J'ai pris définitivement le parti de ne plus m'en fâcher. Je savais bien que j'en reviendrais et que je ne pourrais pas rester en colère contre toi, que tu eusses tort ou non. Et ainsi de tout dans ma vie. Je réponds aux bons procédés, j'oublie les mauvais; je me console des maux et je sais jouir des biens qui m'arrivent. J'ai la philosophie du soldat en campagne.</p>
+                <p>Nous sommes bien frères sous ce rapport; mais, toi, tu agis ainsi, par indifférence tu té consoles sans avoir' souffert. Tant mieux, ton organisation est la meilleure.</p>
+                <p>Adieu, mon vieux; écris-moi donc, cela me fera beaucoup de bien. Je ne te dis rien de ma manière de vivre à Venise. Tu pourras lire beaucoup de détails sur ce pays, dans la Revue des Deux Mondes, numéros du</p>
+                <p>15 mai dernier .et du -15 juin prochain, si toutefois cela t'intéresse.</p>
+                <p>Je voudrais avoir ici mes enfants et pouvoir yvivre longtemps; c'est un beau pays. Embrasse ÉmUie pour moi, et, si tu vois monC!s, parle-moi de lui .beaucoup~ Je t'embrasse de tout mon coeur.</p>
+                <p>Ecris-moi</p>
+                <p>.AMa ~pMterMt Ancillo.</p>
+                <p>Campo 5a!M-LMca.</p>
+                <p>Venise</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

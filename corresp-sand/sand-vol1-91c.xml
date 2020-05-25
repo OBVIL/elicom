@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1835-05-06" >6 mai 1835</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Guéroult Adolphe (1810-1872)">A.M.ADOLPHE GUEROULT</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Pàrts,iSoctoiircl834."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+
+                <p>A M. ADOLPHE GUËRÛCLT, A PAR)S</p>
+                <p>Paris, 6 mai 1835.</p>
+                <p>Mon cher enfant,</p>
+                <p>Votre lettre est belle et bonne comme votre âme; mais je vous renvoie cette page-ci, qui est absurde et tout à fait inconvenante. Personne ne doit m'écrire ainsi. Critiquez mon costume avec d'autres idées et dans d'autres termes, si vous avez envie de disserter sur un accessoire aussi puéril. Il vaut mieux ne pas vous en occuper. Relisez les lignes que j'ai souli1. Charles Rollinat.</p>
+                <p>gné'es. Elles sont souverainement impertinentes.. Je pense que vous étiez gris en les écrivant. Je ne m'en fâche nullement et'ne vous en aime'pas moins. Je vous avertis de ne pas faire deux fois une chose ridicule cela ne vous va point. Je vous;'ai toujours vu un tact exquis et une délicatesse de cœur que j'ai su apprécier. w</p>
+                <p>Pour toe~ le reste, vous avez raison entière, et je ne suis nullement disposée à soutenir une controverse à propos des saint-simoniens.' J'aime ces hommes etj'admire leur premier jet dans le monde. Je crains qu'ils ne s'amendent trop à notre grossière et cupide raison, non par corruption, mais par lassitude, ou peut-être par une erreur de direction dans un zèle soutenu.</p>
+                <p>Vous savez que' je jugé de tout par sympathie. Je sympathise peu avec notre civilisation, triomphante en Orient. J'en aimerais mieux une autre, qui n'eût pas Louis-Philippe pour patron et Janin pour coryphée. C'est peut-être une mauvaise querelle. Aussi n'y devez-vous pas faire attention, et, surtout, ne jamais vous effrayer des moments de spleen ou d'irritation' bilieuse où vous pouvez me trouver.</p>
+                <p>Vous vous trompez, si vous me croyez plus agacée maintenant qu'autrefois. Au contraire, je le suis' moins. J'ai sous les yeux de grands hommes et de~ grandes pensées. J'aurais mauvaise grâce à nier !a~ vertu et le travail.</p>
+                <p>Mes idées sur le reste sont le résultat de mon ca-</p>
+                <p>ractère. Mon sexe, avec lequel je m'arrange fort bien sous plus d'un rapport, me dispense de faire grand effort pour m'amepder. Je serais le plus beau génie du monde que je ne remuerais pas une paille dans l'univers, et; sauf quelques bouffées d'ardeur virile et guerrière, je retombe facilement dans une existence toute poétique, toute en dehors des doctrines et des systèmes.</p>
+                <p>Si j'étais garçon, je ferais volontiers le coup d'épée par-ci par-là, et des lettres le reste du temps. N'étant pas garçon, je me passerai de l'épée et garderai la plume, dont je me servirai. L'habit que je mettrai pour m'asseoir à mon bureau importe fort peu à l'affaire, et mes amis me respecteront, j'espère, tout aussi bien sous ma veste que sous ma robe. Je ne sors pas, ainsi vêtue, sans une canne; ainsi soyez en paix. 11 n'y aura pas de grande révolution dans ma vie pour cette fantaisie de porter une redingote de 6oMStK~o&lt; quelques jours, en passant, dans des circonstances données.</p>
+                <p>Soyez rassuré, je n'ambitionne pas la dignité de l'homme. Elle me parait trop risible pour être préférée de beaucoup à la servilité de la femme. Mais je prétends posséder, aujourd'hui et à jamais, la superbe et entière indépendance dont vous seuls croyez avoir le droit de jouir. Je ne la conseillerai pas à tout le monde; mais je ne souffrirai pas qu'un amour quelconque y apporte, pour mon compte, la moindre entrave. J'espère faire mes conditions, si rudes et si</p>
+                <p>claires, que nul homme ne sera assez hardi ou assez vil pour les accepter..</p>
+                <p>Ces considérations-la, vous le sentez, sont choses toutes personnelles; qui peuvent vous laisser du douter ou du blâme sans que je m'en offense; mais souffrente!Ies une discussion sérieuse? Non, vraiment. H n'y a pas plus à raisonner là-dessus que sur la faim qui s'apaise ou recommence. Nous verrons bien! Il est inutile de parler du lendemain quand on est satisfait du plan de sa journée. Si on ne croyait pas à la durée d'un projet, il n'existerait pas une minute dans le cerveau. Mais, si on pouvait assurer cette durée, on serait Dieu.</p>
+                <p>Prenez-moi donc pour un homme ou pour une femme, comme vous voudrez. Duteil dit que je ne suis ni l'un ni l'autre, mais que je suis un être. Cela implique tout le bien et tout le mal, ad M~Mm. Quoi qu'il en soit, prenez-moi pour une amie, frère et sœur tout à la fois frère pour vous rendre des services qu'un homme pourrait vous rendre; sœur pour écouter et comprendre les délicatesses de votre cœur.</p>
+                <p>Mais dites à vos amis et connaissances qu'il est absolument inutile d'avoir envie de m'embrasser pour mes yeux noirs, parce que je n'embrasse pas plus volontiers sous un costume que sous un autre! Adieu; ne paWoMS plus de cela, ce serait ennuyeux et déplacé. Parlons de l'avenir du monde et des beautés du saint-simonisme tant que vous voudrez.</p>
+                <p>Je serais bien fâchée de changer votre caractère, et je vous avertis qu'il serait bien mal aisé de changer le mien.</p>
+                <p>Tout à vous de cœur.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            GEORGE.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

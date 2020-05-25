@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1829-10-01">1er octobre 1829</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A M. CARON (...-...)">A M. CARON, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant, i&quot; octobre 1829."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 1er octobre 1829.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Caron,</p>
+        <p>Je suis bien votre servante. Je vous salue et vous embrasse de tout mon cœur. Maintenant, dites-moi ce que vous avez fait d'une certaine lettre de Félicie que vous m'annoncez et que vous ne m'avez pas envoyée ? Tête de linotte! à votre âge! fi! Cherchez sur votre bureau et réparez votre oubli en me la renvoyant bientôt et m'écrivant aussi, pour votre part, une longue lettre.</p>
+        <p>Permettez-moi de vous donner quelques commissions. II y a longtemps que je ne vous ai cmMté, comme dit Pauline; et ce serait dommage d'en perdre l'habitude. Ayez la bonté de m'acheter trois ou quatre petites boîtes de poudre de corail pour les dents, comme cette que vous m'avez donnée une fois; plus une aune de levantine noire au grand !ar~e c'est pour faire un</p>
+        <p>tablier sans couture. En expliquant l'affaire, vous trouverez cela dans un bon magasin de soieries. Plus, j'ai une guitare chez Puget que je désirerais ravoir (la guitare, s'entend). Veuillez la faire redemander par madame Saint-Agnan, et, s'il n'y a pas de boîte, 'veuillez la faire emballer et tenir ces choses prêtes chez vous, où M. de Sèze les ira prendre pour me les apporter. Cela lui procurera le plaisir de vous voir, dont il est fort désireux. II nous a demandé votre adresse.</p>
+        <p>Remettez-lui aussi le volume de Paul-Louis Courier, et recevez tous mes remerciements. </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

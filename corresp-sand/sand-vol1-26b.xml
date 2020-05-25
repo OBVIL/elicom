@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1830-03-01">1er mars 1830</date>
+                    <date when="1830-03-13">13 mars 1830</date>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Boucoiran, Jules (1805-1875)">A M. JULES BOUCOIRAN</persName>
+                    <placeName>Chateauroux</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="lobant, février )330."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Nohant, 1er mars 1830</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. JULES BOUCOIRAN, A CHATEAUROUX Nohant, i" mars 1830.</p>
+                <p>Mon cher enfant,</p>
+                <p>Il me semblait que vous nous aviez ouMiés. Je suis bien aise de m'être trompée. Vous seriez fort ingrat, si vous ne répondiez pas à l'amitié sincère que je vous ai témoignée et que vous m'avez paru mériter. Je crois que vous y répondez en effet, puisque vous me le dites, et je suis sensible a la manière simple et affectueuse dont vous exprimez votre affection. Vous vous applaudissez d'avoir trouvé une amie en moi. C'est bon et rare, les amis! Si vous ne changez point, si vous restez toujours ce que je vous ai vu ici, c'est-à-dire honnête, doux, sincère, aimant votre excellente mère, respectant la vieillesse et ne vous faisant pas un amusement de la railler, comme il est aujourd'hui de mode de le faire; si vous demeurez, enfin, toujours étranger aux erreurs que vous m'avez vue détester et combattre chez mes plus proches amis, vous pouvez compter sur cette amitié toute maternelle que je vous ai promise.</p>
+                <p>Mais je vous avertis que j'exigerai plus de vous que des autres. Il en est beaucoup dont la mauvaise éducation, l'abandon dans la vie ou le caractère ardent sont l'excuse. Avec de bons principes, un naturel paisible, une bonne mère, si l'on se laisse corrompre, on ne mérite aucune indulgence. Je connais vos qualités et vos défauts mieux que vous ne les connaissez. A votre âge, on ne se connaît pas. On n'a pas assez d'années derrière soi pour savoir ce que c'est que le passé et pour juger une partie de la vie. On ne pense qu'à l'autre qu'on -a devant soi, et on la voit bien diS'érente de ce quelle sera</p>
+                <p>Je vais vous dire ce que vous êtes. D'abord; l'apathie domine chez vous. Vous êtes d'une constitution nonchalante. Vous avez des moyens, vos études ont été bonnes. Je crois que vous auriez un jour une tête « carrée », comme disait Napoléon, un esprit positif et une instruction solide, si vous n'étiez pas paresseux. Mais vous l'êtes. En second lieu, vous n'avez pas le caractère assez bienveillant en générât, et vous l'avez trop quelquefois. Vous êtes taciturne à l'excès, ou confiant avec étourderie. Il faudrait chercher un milieu.</p>
+                <p>Remarquez que ces reproches ne s'adressent point à mon fils, à celui que je faisais lire et causer dans mon cabinet, et qui, avec moi, était toujours raisonnable et excellent. Je parle de Jules Boucoiran, que les autres jugent, dont ils peuvent avoir à se louer ou à se laindre. Désirant que tous ceux que vous</p>
+                <p>rencontrerez se fassent une idée juste de vous, et voulant vous apprendre à vivre bien avec tous, je dois vous montrer les inconvénients de cet abandon avec lequel vous vous livrez à la sensation du moment tantôt l'ennui, tantôt l'épanchement.</p>
+                <p>Vous n'aimez point la solitude. Pour échapper à une société qui vous déplaît, vous en prenez une pire. J'ai su que, pendant mon absence, vous passiez toutes vos soirées à la cuisine, et je vous désapprouve beaucoup. Vous savez si je suis orgueilleuse et'si je traite mes gens d'une façon hautaine. Élevée avec eux, habituée pendant quinze ans à les regarder comme des camarades, à les tutoyer, à jouer avec eux comme fait aujourd'hui Maurice avec Thomas', je me laisse encore souvent gronder et gouverner par eux. Je ne les traite pas comme des domestiques. Un de mes amis remarquait avec raison que ce n'étaient pas des valets, mais bien une classe de gens à part qui s'étaient engagés par goût à faire aller ma maison, en vivant aussi libres, aussi chez eux. que moi-même. Vous savez encore que je m'assieds quelquefois au fond de ma cuisine; en regardant rôtir le poulet du dîner et en donnant audience à mes coquins et à mes mendiants. Mais je ne demeurerais point un quart d'heure avec eux lorsqu'ils sont rassemblés, pour y passer le temps à écouter leur conversation. Elle m'ennuierait et me dégoûterait; parce que leur édu1. Thomas Aucante, vacher de la ferme de Nohant.</p>
+                <p>cation est différente de la mienne; je les gênerais en même temps que je me trouverais déplacée. Or vous êtes étevé comme moi et non comme eux. Vous ne devez donc pas être avec eux comme un égal. J'insiste sur ce reproche, auquel je n'aurais pas pensé, s'it ne m'était revenu quelque chose de semblable d'une ma-' nière indirecte, par l'effet du hasard.</p>
+                <p>Hippolyte se trouvant en patache avec un homme</p>
+                <p>employé chez le général Bertrand, je ne sais plus si c'est comme ouvrier, comme domestique ou comme fermier, celui-ci bavarda beaucoup, parla de la famille Bertrand, de monsieur, de madame, des enfants, etc, etc., et enfin de M. Jules. &lt;: C'est un bon enfant, dit-il, et bien savant; mais c'est jeune, ça ne sait pas tenir son rang. Ça joue aux cartes ou aux dames avec le chasseur du général. Nous autres gens du commun, nous n'aimons pas ça; si nous étions élevés en messieurs, nous nous conduirions en mes- sieurs. »</p>
+                <p>Hippolyte me raconta cette conversation, qu'il re-</p>
+                <p>gardait comme un propos sans fondement; mais je' me rappelai diverses circonstances qui me le Srent trouver vraisemblable entre autres, votre brouillerie avec la famille du portier, brouillerie qui n'aurait jamais dû avoir lieu, parce que vous n'auriez jamais dù faire votre société de gens sans éducation. Je le répète, l'éducation établit entre les hommes la seule véritable distinction. Je n'en comprends pas d'autre; celle-là me semble irrécusable. Celle que,</p>
+                <p>[vous avez reçue vous impose l'obligation de vivre avec les personnes qui sont dans la même position, et de n'avoir pour les autres que de la douceur, de la bienveillance, de l'obligeance. De l'intimité et de la confiance, jamais; à moins de circonstances particulières qui n'existent point par rapport à vous avec mes gens, ou avec ceux du général Bertrand. Voilà encore ce qui me fait dire que vous êtes paresseux.</p>
+                <p>Quand vos élèves sont couchés, au lieu d'aller niaiser avec des gens qui ne parlent pas le même français que vous, il faudrait prendre un livre, orner votre esprit des connaissances qui lui manquent encore. Si votre cerveau est fatigué des impatiences et des fadeurs de la leçon (je conviens que rien n'est plus ennuyeux), prenez un ouvrage de littérature. II y en a tant que vous ne connaissez pas, ou que vous connaissez mal l J'aimerais encore mieux que vous fissiez seul de méchants vers que d'aller entendre de la prose d'antichambre.</p>
+                <p>Vous voyez que j'use fort de la liberté que vous m'avez donnée de vous gronder. Au fait, si vous le preniez mal, vous seriez un sot; car je ne fais que remplir mon devoir de mère; il faut vous aimer et vous estimer beaucoup pour se charger de vous faire la morale si rudement.</p>
+                <p>Le 13 mars.</p>
+                <p>I! y a tantôt quinze jours que je vous écrivis le bar-</p>
+                <p>bouillage précédent. Depuis, il ne m'a pas été possible de le reprendre; c'est à grand'peine que je m'y remets aujourd'hui. J'ai attrapé une sorte de refroidissement qui m'a fort maltraité les yeux. Je serai fort à plaindre si j'en suis réduite à me chauffer les pieds sans.m'occuper; c'est triste de n'y pas voir, de ne pouvoir regarder la couleur du ciel et le visage de ses enfants. Priez pour que cela ne m'arrive. En attendant, je souffre beaucoup et ne puis vous dire qu'un mot c'est que vous ne vous fâcherez pas j'espère, de tout ce qui précède, un peu sévèrement .dit. N'y cherchez qu'une nouvelle preuve de mon amitié pour vous.</p>
+                <p>Vous viendrez nous voir quand vous aurez fini avec la maison Bertrand. Vous trouverez Maurice et Léontine lisant très bien, écrivant très mal; faisant du reste assez de progrès pour les petites choses que je leur enseigne peu à peu. Souiat' lit mal et écrit bien. Il oublie les principes que vous lui avez donnés, quoique nous le fassions lire tous les jours. Vous m'aviez proposé de me laisser des tableaux pour les leur remettre sous les yeux, ce qui souvent est nécessaire. Vous l'avez ensuite oublié. Je me rappelle assez bien l'arrangement des principales règles. Mais j'ai les yeux et la tête si malades, que vous me rendrez service en me lés faisant passer. i. Jacques Soulat, ancien grenadier de la garde impériale, paysan dans te village de Nohant.</p>
+                <closer>
+                    <salute>Adieu, mon cher Jules; donnez-moi toujours de vos nouvelles. Tout le monde ici vous fait amitié. Maurice vous embrasse.
+                    </salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

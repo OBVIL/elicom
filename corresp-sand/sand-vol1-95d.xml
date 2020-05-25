@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1835-12-10">10 décembre 1835</date>
+                    <placeName>La Châtre</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Nôhant,l''no&lt;embret835."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A MAURICE DU DEVANT, AU. COLLÈGE HENRI I v La Chttro.iO décembre 1835.</p>
+                <p>Tu es un drôle de gamin avec tes rêves, tu mets Emmanuel' à toute sauce; lui as-tu raconté cette farce-là? v</p>
+                <p>Tu dois avoir reçu, par lui, une lettre de moi, datée du 27 ainsi tu ne te plaindras plus de mon silence. Ta lettre est bien écrite et très comique; mais l'orthographe n'est pas si bonne que les autres fois. Il faut t'appliquer bien sérieusement à apprendre ta langue, chose des plus difficiles, qu'on apprend assez mal dans tescollèges.</p>
+                <p>Il y a un grand inconvénient à l'apprendre tard, parce qu'alors on l'oublie et l'on fait des fautes toute ga vie; ce qui arrive aux trois quarts des personnes, et ce qui n'est pas pardonnable. A dix ans, je ne faisais pas une faute; mais on se dépêcha trop de me faire quitter la grammaire, j'oubliai donc ce que je savais si bien. Au couvent, on m'apprit l'anglais, l'italien, et on négligea d'examiner si je savais bien ma langue. Ce ne fut qu'à seize ans qu'étant à Nohant, ayant hente de si mal écrire en français, je rappris moit..En!!MOM!Ar!'gc.</p>
+                <p>même la grammaire. Je n'ai pourtant jamais pu la retenir très bien. Je suis souvent embarrassée, et je fais des brioches.</p>
+                <p>Apprends donc! C'est le bon âge, ni trop tôt ni trop tard. J'étais bien contente de ton avant-dernière lettre; mais, cette fois-ci, tu as mis des s partout. H y en a tant que, si je pouvais te les renvoyer, tu n'aurais pas besoin d'en mettre de nouvelles dans la prochaine lettre que tu m'écriras..</p>
+                <p>Quand tu sortiras avec ton père, prie-le de te laisser aller chez Buloz, qui te donnera pour moi quelque chose que tu choisiras.</p>
+                <p>As-tu donné des étrennesà ta grosse chérie? donnelui-en de ma part, je te rendrai l'argent. Si tu n'en as pas, dis à Buloz ou à Emmanuel de te donner cinq francs que je leur devrai.</p>
+                <p>Je suis clouée ici, mon pauvre chat, pour tout ce mois de janvier. J'ai des affaires dont je ne peux pas me dépêtrer. J'espère que ce sera fini le 15 février; mais, pour être plus sûre de ne pas te manquer de parole, j'aime mieux te promettre d'être auprès de toi à la fin de février. Ainsi, deux mois encore sans nous voir! je trouve cela bien long; mais j'y suis absolument forcée. D'abord, je n'ai pas d'argent; ensuite, je te dirai le reste quand nous nous verrons.</p>
+                <p>Je travaille toutes les nuits jusqu'à sept heures du matin; je suis comme une vieille lampe. Je pense à toi, je relis tes bonnes lettres, et je prie Dieu qu'il te rende bon et courageux; avec cela, tu seras aussi</p>
+                <p>heureux qu'on'peut l'être en ce monde. Je ne te fais presque plus de sermons. Je vois que tu comprends parfaitement, et que je pourrai causer avec toi, comme avec un ami. Tu es un brave homme.</p>
+                <p>Bonsoir, vieux Je t'embrasse un million, un milliard de fois. Dis-moi quelles places tu as. s. s. s. s. s. s. s. s. s. s. Ce sont tes s que je te renvoie.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-02-22" >22 février 1832</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant;a2Mmerd833."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant;a2Mmerd833.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>Mes enfants ont été bien vite débarrassés de leur rhume; Maurice est plus fou et Solange plus rose que jamais. J'espère vous la conduire ce printemps. Elle est assez raisonnable pour faire un tour à Paris avec moi; vous verrez qu'elle est bien gentille et bien caressante mais vous serez effrayée de sa grosseur, je voudrais bien la voir s'effiler un peu.</p>
+        <p>Maurice travaille comme un homme. H devient studieux et grave comme son précepteur; mais, à la récréation, il s'en venge bien. Léontine et lui, font le diable. Le dimanche, tout le monde joue, grands et petits. Il vient des amis de Maurice, de la Châtre, et je joue à colin-maillard, au furet, au volant, aux barres, jusqu'à ce que je ne puisse plus tenir sur mes jambes. Polyte aussi se met de la partie; il fait très agréablement la cabriole. Il danse comme Taglioni et il tombe comme un sac; ce qui fait beaucoup rire</p>
+        <p>Solange. Elle l'appelle son farceur de noncle. Si Oscar était là, il s'amuserait bien aussi.</p>
+        <p>Je suis fort aise que mon livre vous amuse'. Je me rends de tout mon coeur à vos critiques. Si vous trouvez la sœur Olympe trop troupiére, c'est sa faute plus que la mienne. Je l'ai beaucoup connue et je vous assure que, malgré ses jurons, c'était la meilleure et la plus digne des femmes. Au reste, je ne prétends pas avoir bien fait de la prendre pour modèle dans le caractère de ce personnage. Tout ce qui est vérité n'est pas bon à dire; il peut y avoir mauvais goût dans le choix. En somme, je vous ai dit que je n'avais pas fait cet ouvrage seule. Il y a beaucoup de farces que je désapprouve je ne les ai tolérées que pour satisfaire mon éditeur, qui voûtait, quelque chose d'un peu égrillard. Vous pouvez répondre cela pour me justifier aux yeux de Caroline, si la verdeur des mots la scandalise. Je n'aime pas non plus les polissonneries. Pas une seule ne se trouve dans le livre que j'écris maintenant et auquel je ne m'adjoindrai de mes collaborateurs que le nom; le mien n'étant pas destiné à entrer jamais dans te commerce du bel esprit. Je ne m'occupe pas exclusivement de ce travail. A présent, je puis en prendre à mon aise, sans me tourmenter l'esprit. Si quelquefois je travaille avec passion, c'est parce que je ne sais pas m'occuper à demi. Je suis comme vqn: ~vee vos dessins et vos 1. Rose et B~anc/fe..</p>
+        <p>vernis. Ici, j'ai de très douces distractions Maurice me saute sur le dos et ma grosse fille me grimpe sur les genoux.'</p>
+        <p>Bonsoir, ma chère petite mère. Donnez-moi des nouvelles de votre œit. A force de vouloir le guérir vite, ne le tourmentez pas trop. Embrassez pour moi Caroline et mon vieux Pierret; moi, je vous aime de tout mon cœur.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

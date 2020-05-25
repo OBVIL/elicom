@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <placeName>Nohant</placeName>
+          <date when="1831-06" >Nohant, lundi, juin 1831</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A MADAME DUVERNET MÈRE">A MADAME DUVERNET MERE, À LA CHATRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when=""/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Chère dame</p>
+        <p>Je rentre toute comblée de votre bonne amitié et de votre douce hospitalité. Je trouve non pas M. de ï~atouche, mais une lettre de lui m'annonçant que des affaires imprévues, relatives au Figaro avec M. le préfet de la Charente, qui vient de se déclarer en faillite, l'ont empêché de partir au moment où il allait enfin se décider. Il nous promet d'arriver quand nous ne l'attendrons plus. Il .~e plaint un peu du silence de Charlesetduvôtre.
+          Ne viendrez-vous pas aussi manger mes petits pois, 'cueillir mes fleurs et choisir vous-même vos petites colonies d'oeillets? Deux ou trois rayons de soleil sécheront nos chemins, et vous avez une infinité de pataches en votre possession. Accordez-moi donc une ~onne journée tout entière avec le bon meunier, son               fils et l'âne. Je ne vois autour de vous que le desservant de T. que nous puissions insulter ainsi. Je n'ose quasi pas vous embrasser après une pareille pensée~
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

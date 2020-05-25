@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1834-04-06" >Venise, 6 avril 1834</date>
+          <placeName>Venise</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A M. JULES BOUCOIRAN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Venise, 6avriU63t."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Venise, 6 avril 1834</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher enfant,</p>
+        <p>J'ai reçu vos deux effets sur M. Papadopoli et je vous remercie., Maintenant je suis sûre de ne pas. mourir de faim et de ne pas demander l'aumône en pays étranger; ce qui, pour moi, serait pire. Je m'arrangerai avec Buloz, et il pourra sufure à mes besoins sans se faire trop tirailler; car je travaillerai beaucoup.</p>
+        <p>Alfred est parti pour Paris, et je vais rester ici quelque temps.</p>
+        <p>Il était encore bien délicat pour entreprendre ce long voyage. Je ne suis pas sans inquiétude sur la manière dont il le supportera; mais il lui était plus nuisible de rester que de partir, et chaque jour consacré à attendre le retour de sa santé la retardait au lieu de l'accélérer. Il est parti enfin, sous la garde d'un domestique très soigneux et très dévoué. Le médecin m'a répondu de la poitrine, en tant qu'il la ménagerait; mais je ne suis pas bien tranquille. f. Banquier à Venise.</p>
+        <p>Nous nous sommes quittés peut-être pour quelques mois, peut-être pour toujours. Dieu sait maintenant -ce que deviendront ma tête et mon cœur. Je me sens -de la force pour vivre, pour travailler, pour souffrir. Le manuscrit de Lélia est dans une. des petites armoires de Boule. Je l'ai, en effet, promis à Planche; pour peu qu'il tienne à ce griffonnage, donnez-le-lui, il est bien à son service. Je suis profondément affligée -d'apprendre qu'il a mal aux yeux. Je voudrais pouvoir le soign'er et' te soulager. Remplacez-moi; ayez soin de lui. Dites lui que mon amitié pour lui'n'a pas changé, s'il vous questionne sur' mes' sentiments' à :sotf égard: Dites-lur sincèrement que plusieurs propos~ m'étaient revenus âpres l'aSairë de son due! avec' M. de Feuillide lesquels' propos m'avaient fait penser' qu'il ne parlait pas de moi avec toute la prud'ence' possibles</p>
+        <p>Ensuite, il avait imprimé dans la Revue' des pages qui m'avaient donné d'e l'humeur: Lui'et moi sôinm'es 'des esprits trop graves et des amis trop' vrais, pour' ~nous~ livrer aux interprétations' ridicules' du public'. .Pour rien au monde~je n'aurais voulu qu'un homme! è que j'estime inSnimenf devînt la'risée d'une populace. -d'artistes' haineux~ qu'il~ a' souvent tancée durement 'laquell'e, pour ce fàii, ch'ercne" toutes'l'es occasions'de' le faire souffrir et de fe rabaisser. fI me sëmBl'ait que' 'te rôle d'amant disgracia, que' ces messieurs voulaient' lui donner, ne convenait pas à son caractère, et- la ibvauté de nos relations. J'avais cherché' dë'toufmon</p>
+        <p>pouvoir à le préserver de, ce r6te morti.'fiant. et ridicule, en déclarant hautement qu'il ne s~était jamais donné la peine de me faire' la cour. Notre affection était toute paisible et fiaternellé. Les méchants comm'entaires me forçaient- à) ne plus' le voir pendant quelques mois; mais rien ne pouvait ébranler' notre mutuel dévouement.. Au lieu de me seconder, Planche s'est compromis et m''a compromise moi-même d~abord par un duel qu'il n'avait'pa's de raisons'personnelles pour provoquer ensuite par des plaintes et des reproches, très doux il-est vrai, mais hors de place et, qui pis, est, tirés à dix mille exemplaires.</p>
+        <p>De si loin et après tant de choses, les petits accidents de' la vie disparaissent, comme tes détails du paysage s'effacent à t'œil de celui quL les contemple du haut d'e l'a montagne. tLes grandes masses restent seules distinctes au milieu du vague de l'étbignement. Aussi tessusceptibitités~tes petits reproches, les mitl'e'légers griefs de tatviehabituette, s'évanouissent maintenant de ma. mémoire il ne me reste que I&amp; souvenir des choses' sérieuses et vraies'. L'amitié de P).'anche,.te'souvenir de son! dévouement,, de sa bonté' inépuisable; pour moi,, resteront, dans ma) vie et dans mon coeur comme: des sentiment~ inattéraMes. Après avoir quitte' Alfred~-que j'ai conduit jusque Vieence'j'ai faitune petite excursion dans tes Alpes ensuivant !a;Bpenta~ai' fait à.pied'jusqu'à huit lieues parjour, etj'ai'rëconnu.que ce gearede;'atigue! M'était fort bon,, physiquement et~ moratement~</p>
+        <p>Dites à Buloz que je lui écrirai des lettres, pour ta Revue, sur mes voyages pédestres.</p>
+        <p>Je suis rentrée à Venise avec sept centimes dans ma poche Sans cela, j'aurais été jusque dans le Tyroi mais le besoin de bardes et d'argent: m'a forcée de revenir. Dans quelques jours, je repartirai et je reprendrai la traversée des Alpes par les gorges de la Piave. Je puis aller loin ainsi, en dépensant cinq francs par jour et en*fàisant huit ou dix lieues, soit à pied, soit à âne. J'ai le projet d'établir mon quartier-général à Venise,. mais de courir le pays seule et en liberté. Je commence à me familiariser avec le dialecte.</p>
+        <p>Quand j'aurai vu cette province, j'irai à Constantinople, j'y passerai un mois, et je serai à Nohant pour les vacances. De là, j'irai faire un tour à Paris et je reviendrai à Venise.</p>
+        <p>Je suis fort affligée du. silence de -Maurice et fort contente d'apprendre au. moins qu'il se porte bien. Son père me dit qu'il travaille et qu'on est content de lui. Pour vous, je vous ai prié au moins dix fois de voir ses notes et de m'en rendre compte. Il faut que j'y renonce; car vous ne m'en avez jamais dit un mot, gredin d'enfant!. Je suis enchantée que mon mari garde Solange à Nohant.. De cette manière, il me plaît fort de conserver Julie, puisque je n'ai pas àlanourrir. Sans cet arrangement, j'eusse fait mon possible poar retourner à Paris, ma) gré le peu d'argent que j'aurais eu pour un si long voyage. Je puis;</p>
+        <p>donc, sans aucun préjudice pour l'un ou l'autre de mes deux enfants, rester dehors jusqu'aux vacances. Ne me parlez jamais, je vous prie, des articles qui se publient pour ou contre moi dans les journaux. J'ai au moins ici le bonheur d'être tout à fait étrangère à la littérature et de la traiter absolument comme un gagne-pain.</p>
+        <p>Adieu, mon ami; je vous embrasse de tout mon cœur. Écrivez-moi sur mon fils, envoyez-moi unelettre de lui. A tout prix, je la veux. A~ez-vous de bonnes nouvelles de votre mère? Vous ne me parlez jamais de vous. Avez-vous des élèves? Faites-vous~ bien vos affaires? N'êtes-vous pas amoureux dé quelque femme, de quelque science ou de quelque grue '? Pensez-vous un peu à votre vieille amie, qui vous. aime toujours paternellement?</p>
+        <p></p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>G. s.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1834-04-06" >6 avril 1834</date>
+                    <placeName>Venise</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chatiron, Hippolyte (1799-1848)">A M. HIPPOLYTE CHATIRON</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A M HIPPOLYTE CHATIRON, A PAIU3</p>
+                <p>Venise, &lt;6 mars iS3t.</p>
+                <p>0</p>
+                <p>Mon ami,</p>
+                <p>Je te remercie de ta lettre. Ton souvenir, malgré out, me fait toujours plaisir. J'ai tardé à te répondre, parce que je viens de faire une maladie assez ~rave. Je suis bien à présent, et, au moment de quitter l'Italie, je commence à m'y acclimater. J'y reviendrai car, après avoir goûté de ce pays-là, on se croit chassé du paradis quand on retourne en France. Voilà l'effet que cela me fera.</p>
+                <p>Je n'ai pas été charmée de la Toscane; mais Venise est la plus belle chose qu'il y ait au monde. Toute cette architecture mauresque en marbre blanc au milieu de l'eau limpide et sous un ciel magnifique; ce peuple si gai, si insouciant, si chantant, si spirituel; ces gondoles, ces églises, ces galeries de tableaux; toutes tes femmes jolies ou élégantes la mer qui se brise à vos oreilles; des clairs de lune comme il n'y en a nulle part; des choeurs de gondoliers quelquefois très justes; des sérénades sous toutes les-fenêtres des cafés pleins de Turcs et d'Arméniens; de beaux et vastes théâtres où chantent la Pasta et Don-</p>
+                <p>zelli; des palais magnifiques un théâtre de polichinelle qui enfonce à dix pieds sous terre celui de Gustave Malus; des huîtres délicieuses, qu'on pêche sur les marches de toutes les maisons; du vin de Chypre à. vingt-cinq sous la bouteille des poulets excellents dix sous; des fleurs en plein hiver, et, au mois de février, la chaleur de notre mois de mai que veuxtu de mieux?</p>
+                <p>Je ne me suis pas doutée des autres plaisirs de l'hiver. Je n'aime pas le monde, comme tu sais. Je me suis bornée à deux ou trois personnes excellentes, et j'ai vu le carnaval de ma fenêtre</p>
+                <p>Il m'a semblé fort au-dessous de sa réputation. H aurait fallu le voir dans les bals masqués, aux théâtres mais je me suis trouvée malade à cette époque-là et je n'ai pu y aller. Je le regrette peu; ce que je .cherchais ici, je l'ai trouvé un beau climat, des objets d'art à profusion, une vie libre et calme, dtt temps pour travailler et des amis. Pourquoi faut-il que je ne puisse bâtir mon nid sur cette branche ? Mes poussins ne sont pas ici et je ne puis m'y plaire qu'en passant. J'attends le mois d'avril pour retraverser les Alpes, et je m'en irai par Genève. Je compte donc être à Paris dans le courant du mois prochain. Quand j'aurai embrassé Maurice, j'irai passer l'été en Berri. Engage Casimir à garder Solange et à ne pas la mettre en pension avant mon retour; cela m'empêcherait d'aller à Nohant, et contrarierait beaucoup mes projets de repos et d'économie.</p>
+                <p>&lt;s.</p>
+                <p>Tu ne' me parais: pas si charmé de la. Châtre que moi de Venise tu me fais: une peinture bouffonne de ses habitants. Vraiment la sociétéest une sotte cnose.L'amour du'travail~ sauve le tout. Je bénis ma grand'mère, qui m'a forcée d'en prendre l'habitude. Cette habitude! est devenue un&amp;faculté, et cette faculté un besoin. J)'en' suis arrivée' à travailler; sans être malade, treize heures de suite, mais, en moyenne, sept* ou huit heures par jour, bonne om mauvaise: soit'!a</p>
+                <p>T</p>
+                <p>besogne. Le travail me rapporte)beaucoup d'argent et: me prend beaucoup de temps, que j'emploierais, sit je n'avais rien à faire, à. avoir le spleen, auquel.me porte, mon tempérament bilieux. Si, comme toi, je n'avais pas envie d'écrire, je voudrais du moins lire) beaucoup~. Je regrette, même que mes! affaires d'argent me forcent de faire~ toujours' sortir'quelque:chpse de mon cerveau sans' me donner/le! temps d'y faire rien. entrer. J'aspire'a: avoir une année! tout entière de solitude et.de liberté complefe,.anmde;m'entasser dans; latetetous'ies'chefs-d~peu'vre étrangers que je~ connais~ peu ou point. Je m'en promets un grand plaisir et j'envie ceu~quit peuvent s'en. donner à discrétion'. Mais,, mo~.quandj'ai'. barbouillé du papier à la) tache, je~ n'ai plus de facultés que~pour'allerprendre'du' café et. fumer des cigarettes'sur ta'place Saint-Marc,, en écorchant l'italien' a.vee.mes' amis de Venise. C'est encoFe; très agréable, non~paa. mon, italien;, mis le tabac, les) smisLetla:.ptace'Saint-Marc.Je!Voudrais!t'y; transporter d'un coup de baguette et jouir de ton étonnement..</p>
+                <p>Nous savons si peu ce qu'est l'architecture, et notre pauvre Paris est si laid, si sale, si raté, si mesquin, sous ce rapport! Il n'y a pourtant que!ui au monde, pour le luxe et le bien-être matériel. L'industrie y triomphe de tout et supplée.à tout; mais, quand ôni n'est pas riche, on y subit toute sorte de privations. Ici, avec cent écus par mois, je vis mieux qu'à Paris avec trois cents. Pourquoi diable, toi et ta femme, qui-êtes indépendants, qui n'avez ni place, ni famille ni amour du monde, ni relations obligatoires en France', ne venez-vous pas vous établir ici ? Vous y 'feriez des économies en y vivant 'très bien vous y 'élèveriez votre Elle aussi bien que partout ailleurs. Vous y auriez mille commodités que vous ne pouvez devoir' à; Paris un logement cent fois' plus joli et plus vaste, une gondole avec un gondolier qui serait eN même temps votre domestique; le tout pour soixante francs par'mois; ce qui représente à Paris une voiture, une paire de chevaux, un cocher et un valet de' chambre, c'est-à-dire douze à quinze mille francs' par an. Le bois et le vin à très ba~ prix; les habits; les marchandises de toute sorte, les denrées de tout pays-â' moitié prix de Paris. Je paye ici une paire de souliers' 'en maroquin quatre francs. Hier, nous avons été au.café, nous étions trois nous y avons pris chacun trois places, une tasse de café et un verre de punch, plus des gâteaux à discrétion pour compléter les jouissances de deux grandes heures de bavardagé. Cela nous a coûté, en tout, quatre livres autrichiennes la livre</p>
+                <p>autrichienne vaut un peu moins de dix-huit sous de France.</p>
+                <p>Si vous voulez y venir, comme j'y retournerai passer l'hiver prochain, je vous y piloterai. Le voyage vous coûtera mille francs, pour vous deux; mais vous y vivrez pour mille écus par an. C'est probablement moins que vous ne dépensez à Paris dans une année, et, par-dessus le marché, vous connaîtriez Venise, la plus belle ville de l'univers. Si je n'avais pas mon fils cloué au collège Henri IV, certainement je prendrais ma fille avec moi et je viendrais me planter ici pour plusieurs années. J'y travaillerais comme j'ai coutume de faire et je retournerais en France, quand, j'en aurais assez, avec un certain magot d'argent. Mais je ne veux pas renoncer à voir mon Sis chaque année, et tout ce que je gagne sera toujours mangé en voyages ou à Paris.</p>
+                <p>Adieu, mon vieux; parle-moi de Maurice et de ta. fille. Font-ils de bonnes parties ensemble, les jours de congé?</p>
+                <p>J'embrasse Émilie, Léontine et toi, de tout mon. cœur. Il y a longtemps que je n'ai eu de nouvelles de ma mère; donne-lui des miennes et prie-la de m'écrire.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+

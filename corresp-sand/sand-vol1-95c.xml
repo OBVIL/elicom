@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1835-11-09" >9 novembre 1835</date>
+                    <placeName>La Châtre</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="">AU REDACTEUR DU JOURNAL DE L'INDRE</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>AU REDACTEUR DU JOURNAL DE L'~VMX La CMtre, 9 novembre i835.</p>
+                <p>Monsieur,</p>
+                <p>Un oracle dont la signature ne trahit pas l'inco-' gnito attaque brutalement, dans le feuilleton de votre journal, la moralité de mes livres. J'abandonne à la critique tous mes défauts littéraires et toutes les obs- curités de mon raisonnement. Mais, dans cette province, ma patrie d'adoption, je défends a tout adulateur des abus de la société de me choisir pour holocauste, lorsqu'il lui plaît d'offrir un hommage aux puissances qu'il veut se rendre favorables, soit pour e faire un nom à défaut de talent, soit pour obtenir</p>
+                <p>des protections dans ce monde, qui se paye souvent de déclamations à défaut de preuves.</p>
+                <p>Un de nos plus beaux talents écrivait, il y a quelques semaines II est bien décourageant d'écrire pour des gens qui ne savent pas lire. Je sais quelque chose de plus fâcheux, c'est d'écrire pour les gens qui ne veulent pas lire. La profession de tout journaliste aux gages de l'état social l'investit du droit de connaître la pensée d'un auteur rien qu'en regardant la couleur de la couverture du livre.</p>
+                <p>Le public le sait aussi; c'est au public que j'en appelle, pour repousser les interprétations malpropres du chaste critique qui prétend avoir saisi le ~SM~a&lt; et le but définitif de tous mes ouvrages. Je déclare ici que ce juge éclairé d'Indiana, de Valentine, de Lélia et de Jacques n'a ni compris ni lu aucun de ces livres. Si la franchise de ce démenti le blesse, mon sexe ne me permettant pas de lui donner ou de lui demander réparation, j'institue mon défenseur tout mien compatriote homme de cœur et de conscience, qui se trouvera devant lui.</p>
+                <p>J'ai l'honneur d'être, etc.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

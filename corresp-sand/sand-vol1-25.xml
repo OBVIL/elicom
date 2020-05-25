@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-02-01">1er février 1830</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MEME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="&lt;&quot;f~rier&lt;83t)."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>1er février 1830</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Machèremaman,</p>
+        <p>Si je n'avais reçu de vos nouvelles par mon mari</p>
+        <p>et par mon frère, qui vient d'arriver, je serais inquiète de votre santé; car il y a bien longtemps que vous ne m'avez écrit. Depuis plusieurs jours, je me disposais à vous en gronder. J'en ai été empêchée par de vives alarmes sur la santé de Maurice.</p>
+        <p>J'ai été bien malheureuse pendant quelques jours. Heureusement les soins assidus, les sangsues, les cataplasmes ont adouci cette crise. Il a même été plus promptement rétabli que je n'osais l'espérer. I) va bien maintenant et reprend ses leçons, qui sont pour moi une grande occupation. Il me reste à peine quelques heures par jour pour faire un peu d'exercice et jouer avec ma petite Solange, qui est belle comme un ange, blanche comme un cygne et douce comme un agneau. Elle avait une bonne étrangère qui lui eùt été .fort utile pour apprendre les langues, mais qui était un si pitoyable sujet sous tous les rapports, que, après bien des indulgences mal placées, j'ai fini par la mettre à la</p>
+        <p>porte ce matin, pour avoir mené Maurice (à peine sorti de son lit à la suite de cette affreuse indigestion) dans le village, se bourrer de pain chaud et de vin du cru.</p>
+        <p>J'ai confié Solange aux soins de la femme d'André, que j'ai depuis deux ans. Je vous envoie le portrait de Maurice, que j'ai essayé le soir même où il est tombé malade. Je n'ose pas vous dire qu'il ressemble beaucoup; j'ai eu peu de temps pour le regarder, parce qui! s'endormait sur sa chaise. Je .cioyais seulement au besoin de sommeil après avoir joué, tandis que c'était le mal de tête et la fièvre qui .i s'emparaient de lui. Depuis, je n'ai pas osé le faire poser, dans la crainte de le fatiguer.</p>
+        <p>J'ai cherché autant que possible, en retouchant mon ébauche, de me pénétrer de sa physionomie espiègle et décidée. Je°crois que l'expression y est bien seulement le portrait le peint plus âgé d'un an ou deux. La distance des narines à l'oeil est un peu exagérée, et la bouche n'est pas assez froncée dans le genre de la mienne. En vous représentant les traits de cette figure un peu plus rapprochés, de très longs cils que le. dessin ne peut pas bien rendre et qui donnent au regard beaucoup d'agrément, de très vives couleurs roses avec un teint.demi-brun, demi-clair, les prunelles d'un noir nrangé, c'est-à-dire d'un moins beau noir que les vôtres, mais presque aussi grandes; enfin, en faisant un effort d'imagination, vous pourrez prendre</p>
+        <p>une idée de sa petite mine, qui sera, je crois, par la suite, plutôt belle que jolie.</p>
+        <p>La taille est sans défauts svette, droite comme un palmier, souple et gracieuse ;'Ies pieds et les mains sont très petits; le caractère est un peu emporté, un peu volontaire, un peu têtu. Cependant le cœur est excellent, et l'intelligence très susceptible de développement. Il lit très bien et commence à écrire; il commence aussi la.musique, l'orthographe et !:t géographie; cette dernière, étude est pour lui un plaisir.</p>
+        <p>Voilà bien des bavardages de mère mais vous ne m'en ferez pas de reproches, vous savez ce que c'est. Pour moi, je n'ai pas autre chose dans l'esprit que mes leçons, et j'y sacrifie nies anciens plaisirs. Voici le moment où tous mes soins deviennent nécessaires. L'éducation d'un garçon n'est pas une chose à négliger. Je m'applaudis plus que jamais d'être forcée de vivre à la campagne, où je puis me livrer entièrementàl'instruction.</p>
+        <p>Je n'ai aucun regret aux plaisirs de Paris; j'aime bien le spectacle et les coursés quand j'y suis; mais heureusement je sais, aussi n'y pas penser quand je n'y suis pas et quand je ne peux pas y aller. Il y a une chose sur laquelle je ne prends pas aussi facilement mon parti c'est d'être, éloignée de vous, à qui je serais si heureuse de présenter mes enfants, et que je voudrais pouvoir entourer de soins et de bonheur. Vous m'affligez vivement en me refusant sans cesse le moyen de m'acquitter d'un devoir qui me serait si doux à remplir. Moi-même, j'ose à peine vous presser, dans la crainte de ne pouvoir vous offrir ici les plaisirs que vous trouvez à Paris, et que la campagne ne peut fournir. Je suis pourtant bien sûre intérieurement que, si la tendresse et les attentions suffisaient pour vous rendre la vie agréable, vous goûteriez celle que je voudrais vous créer ici. Adieu, ma chère maman;' nous vous embrassons tous, les grands comme les petits. Écrivez-moi donc! ce n'est pas assez pour moi d'apprendre que vous vous portez bien, je veux encore que vous me le distez et que vous me donniez une bénédiction.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

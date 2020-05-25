@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1843-06-04">4 juin 1834</date>
+          <placeName>Venise</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A M. JULES BOUCOIRAN</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Venise. 4 juin &lt;83t."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Venise. 4 juin 1834</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher enfant.</p>
+        <p>Je suis rassurée sur le compte de Maurice. Je vieny de recevoir une lettre de lui et une de Papet; mais je commence à être sérieusement inquiète de vous, ou très afuigée de votre oubli. Buioz me mande qu'il vous a remis, le 15 mai, cinq cents francs pour moi. Je vous avais écrit de me faire-parvenir mon argent bien vite, parce que je n'avais plus rien. Nous sommes au 2 juin, et je n'ai rien reçu. Je suis aux derniers expédients pour~ivre, car j'ai horreur des dettes. Maurice m'écrit qu'il vous ;a envové une lettre. pour moi il y a plusieurs jours.</p>
+        <p>Rien Qu'est-ce que cela veuMir,e ? Votre lettre s'estelle perdue à la poste comme beaucoup d'autres? Au, moins si Papadopoli avait reçu la lettre d'avis du. banquier de Paris !.mais il n'a rien reçu ;I'argent)n'est donc pas 'parti. Etes-vous tombé subitement ;assez malade pour être hors d'état de faire cette commission?' Depuis deux mois, vous m'avez montra ~une indifférence excessive, et, malgré toutes.mes lettres .ou je vous suppliais de me donner des nouvelles de mon n!s, vous m'avez laissée dans la plus mortelle inquiétude. ,Je pense que vous êtes devenu amoureux;'et je vousconnais à cet égard quand vous êtes' dans votre état ordinaire, vous êtes le plus exact des hommes; quand' vous vous éprenez de quelqu'une, vous oubliez -tout (etvous partez pour le monde insaisissable. Cela est momentané, j'espère. L'amour passe, et l'amitié .se retrouve toujours, après avoir dormi plus ou moins. longtemps. A Nohant, vous aviez cette fièvre. d'oubli,. et j'ai été bien souvent enrayée de votre silence et désespérée de n'entendre pas parler de mon fils,. pendant des mois entiers.</p>
+        <p>Mais tout cela n'explique pas que vous me laissiez dans une misère absolue en pays étranger. Je vis,. depuis deux mois, des cinq cents francs que vous. m'aviez envoyés. Courez donc, je vous en supplie, chez le'banquier, et faites-moi expédier l'argent que vousavez, pour moi, entre les mains.</p>
+        <p>Vous avez dù toucher trois mois chez Salmon (mars, avril, mai); ce qui fait neuf cents francs plus cinq,</p>
+        <p>cents de Buloz; quatorze cents. Mon loyer payé et mes petites dettes envers vous, que je vous prie de prélever avant tout, il doit vous rester mille francs. Pendant ce temps-là, je dîne avec la plus stricte économie et je couche sur un matelas par terre, faute de lit. Si ce retard est causé par votre négligence, vous devez en avoir quelque remords; s'il est causé par un accident, tirez-moi bien vite d'anxiété. S'il y a quelque autre raison'qui vous justifie, écrivez-la en deux mots, je l'accueillerai avec joie; si mes affaires vous ennuient, 'dites-le sincèrement. Je vous serai reconnaissante du passé et je ne vous demanderai rien jusqu'à ce que vos préoccupations aient cessé. Vous aviez de bonnes nouvelles à me donner du travail et dé la santé de mon fils; comment se fait-il que, après deux mois, d'attente, je les reçoive d'un autre? Ah! mon enfant, votre corps ou votre cœur est malade.</p>
+        <p>Adieu, mon ami; surtout ne soyez pas malade. Tout le reste ne sera rien pour moi. Ne me parlez jamais politique dans vos lettres. D'abord, je m'en soucie fort peu; ensuite, c'est une raison certaine pour qu'elles ne me parviennent pas.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

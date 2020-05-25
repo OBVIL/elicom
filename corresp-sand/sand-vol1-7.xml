@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1827-03-27">mars 1827</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A M. HIPOLLYTE CHATIRON">A M. HIPOLLYTE CHATIRON</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant.marsi827"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, mars 1827</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ce que tu me dis de St. me fait beaucoup de peine;. Il ne veut soigner ni sa santé ni ses affaires, et n'épargne ni son corps ni sa bourse. Qui pis est, il se fâche des bons conseils, traite ses vrais amis de docteurs et les reçoit de manière à leur fermer la boucheJe'savais tout cela bien avant que tu me le dises, et .avais été, avant toi, bourrée plus d'une fois de la Bonne manière.</p>
+        <p>Je ne m'en suis jamais fâchée, parce que je sais que son caractère est ainsi fait et que, puisque j'ai de l'amitié pour lui, connaissant ses défauts, je ne vois pas de motif à la lui retirer maintenant qu'il suit sa pente. Cette découverte a dû te refroidir,. je le conçois. Votre amitié n'était encore qu'une liaison mal affermie, attendant tout de l'avenir et ne recevant rien du passé. Sans doute, à ta place, trouvant cette âpreté de caractère chez quelqu'un que j'aurais jugé tout différent, j'aurais comme toi rabattu beaucoup du cas que j'en faisais.</p>
+        <p>Quant à moi, je voudrais pouvoir cesser de l'aimer, car ce, m'est un continuel sujet de peines que de le voir en mauvais chemin et toujours refusant de s'eR</p>
+        <p>apercevoir. Mais on doit aimer ses amis jusqu'au bout, quoi qu'ils fassent, et je ne sais pas retirer mon affection quand je l'aidonnée.Je prévois que St. avec les moyens de parvenir, n'arrivera jamais à rien. Je le prévois même depuis longtemps. Cette famille est fort décriée dans le, pays et à trop juste titre. St. a beaucoup des défauts de ses frères, et c'est tout ce qu'on connaît de lui; car ses qualités, qui sont grandes et belles, celles d'une âme fortement trempée, capable de grandes vertus et de grandes erreurs; ne sont pas de nature à sauter 'aux yeux des indifférents et à être goûtées autrement qu'à l'épreuve. On me saura toujours mauvais gré de lui être aussi attachée, et, bien qu'on n'ose me le témoigner ouvertement, je vois souvent le. blâme sur le visage des gens qui me forcent à le défendre. Je ne retirerai donc de lui rien qui puisse flatter ma vanité peutêtre, au contraire, aura-t-elle beaucoup à souffrir de sa condition. Je craindrais, en examinant trop attentivement les taches de son caractère, de me refroidir sous ce prétexte, mais effectivement de céder à toutes ces considérations d'amour-propre et d'égoïsme qui font qu'on rapporte tout à soi, et qu'on devrait couler aux pieds.</p>
+        <p>St. me sera toujours cher, quelque malheureux qu'il soit. Il l'est déjà, et plus il le deviendra, moins il inspirera d'intérêt, telle est la règle de la société. Moi, du moins, je 'réparerai autant qu'il sera en morses infortunes. Il me trouvera quand tous les autres lui</p>
+        <p>tourneraient le dos, et, dût-il tomber aussi bas que !'a!né de ses frères, je l'aimerais encore par compassion, après avoir cessé de l'aimer par estime;-ceci n'est qu'une supposition pour te montrer quelle est mon amitié; car on ne soupçonne pas de véritables torts à ceux qu'on aime, et je suis loin de me préparer à recevoir ce nouveau déboire de le voir s'abaisser. Mais il restera dans la misère. De tristes pressentiments m'avertissent que ses efforts pour s'en retirer l'y plongeront plus avant. Ce sera un grand tort aux yeux de tous, excepté aux miens. i..</p>
+        <p>Tu penses absolument comme moi à cet égard, puisque tu m'exhortes à ne lui pas retirer mon attachement. Tu peux être tranquille. Quant à toi, ce n'es pas tant de ses folies que tu es choqué que de l'aveuglemént qui lui fait préférer ses faux amis aux vrais. Je ne te blâme point de cette impression. Je te demande seulement de la modérer par un sentiment de bonté et d'indulgence qui t'est naturel et qui te fera continuer tes bons offices, soit qu'il les accueille bien ou mal. S'il les méconnaît, ce sera par fausseté de jugement, jamais par vice de cœur.</p>
+        <p>Si j'étais homme, avec la volonté que j'ai de le servir, je répondrais de lui. Mais, femme, ce que je saurais obtenir de lui devient presque nul par la différence de sexe, d'état, et mille autres choses qui viennent à la traverse de mes bons desseins. Entraves cruelles que mon amitié maudit, mais qu'elle respecte, parce qu'il n'est donné qu'à l'amour tout faible et inférieur qu'il est à l'autre sentiment, de les rompre..</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

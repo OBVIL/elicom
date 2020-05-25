@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-11-21" >21 novembre 1833</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Rollinat, François (1806-1867)">A M. FRANCOIS ROLLINAT</persName>
+          <placeName>Chateauroux</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="La présente est pour te dire, mon brave ami, que je vais bientôt te voir. Mademoiselle Decerf épousai mon Gaulois, qui est Alphonse Fteury, et j'irai à leur noce."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>La présente est pour te dire, mon brave ami, que je vais bientôt te voir. Mademoiselle Decerf épousai mon Gaulois, qui est Alphonse Fteury, et j'irai à leur noce. Je te verrai en passant et en repassant. Tu trouveras peut-être quelque jour dans la quinzaine pour t'échapper .et venir faire du Werther avec moi: parler de .rasoirs anglais~de damnation éternelle et autres facéties, sous la grande voûte étoilée qu'on voit si bien chez nous. Ne crains pas de me voir rire de tes ennuis et de tes chagrins je ne suis pas dangereuse en ce genre; le lendemain du jour ou je t'auraispersiflé, tu aurais ta revanche. Mes jours ne ressemblent guère les uns aux autres, et c'est pour moi quefut inventé le proverbe x Tel ;qui rit vendredi, etc. a~ Pour le moment, je suis dans les mêmes sentiments qu'à ma dernière lettre. Je serai heureuse de revoir mon pays et mes amis. Ce sont de vieux liens qu'on ne rompt pas. Si mon retour peut adoucir un peu ton. spleen, accueille-le donc avec toute ta bonne affection. pour moi.</p>
+        <p>Charles~ m?a écrit une lettre fort revêche. 11 a eu tort. Je le lui pardonne de tout mon cœur. Il a pris trop à cœur l'affaire de son piano. Aussi il a été bien négligent de le laisser enfermé dans sa chambre, ne servant à rien et m'exposant aux méfiances et aux. tracasseries du facteur, qui déjà menaçait de me faire payer. Cela ne m'aurait pas été facile, vu l'état de mes finances, pas. brillant tous les jours.</p>
+        <p>Comment tu n'es pas amoureux? Eh bien, mon. cher, tu as peut-être parfaitement raison. Toute chosei. Charles Rollinat, musicien, frère cadet de François.</p>
+        <p>excellente a son mauvais côte toute chose détestable a son avantage, et nous sommes, tous, fous et bêtes. Tâchons d'être le moins méchants possible, avec ou sans amour; soyons fidèles à l'amitié.</p>
+        <p>Ton ami</p>
+        <p>GEORGE.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

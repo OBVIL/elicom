@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1835-06-18" >18 juin 1835</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT, COLLEGE HENRI IV</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Madame,"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A MAURICE DUDEVANT, AU COLLÈGE HENRI tV</p>
+                <p>Paris, 18 juin 1835.</p>
+                <p>Travaille, sois fort, sois fier, sois indépendant, méprise les petites vexations attribuées à ton âge. Réserve ta force de résistance pour des actes et contre des faits qui en vaudront la peine. Ces temps viendront. Si je n'y suis plus, pense à moi qui ai souffert, et travaillé gaiement. Nous nous' ressemblons d'âme et de visage. Je sais dès aujourd'hui quelle sera ta vie intellectuelle. Je crains pour toi bien des douleurs profondes, j'espère pour toi des joies Lien pures. Garde en toi le trésor de la bonté. Sache donner sans hésitation, perdre sans regret, acquérir sans tacheté.</p>
+                <p>Sache mettre dans ton cœur le bonheur de ceux que tu aimes à la place de celui qui te manquera Garde t'espérance d'une autre vie, c'est là que les-mères retrouvent leurs fils. Aime toutes les créatures de Dieu; pardonne à celles qui sont disgraciées; résiste à celles qui sont iniques; dévoue-toi à celles qui sont grandes par la vertu.</p>
+                <p>Aime-moi! je t'apprendrai bien des choses si nous vivons ensemble. Si nous ne sommes pas appelés à ce bonheur (le plus grand qui puisse m'arriver, le seul qui me fasse désirer une longue vie), tu prieras Dieu pour moi, et, du. sein de la mort, s'il reste dans l'univers quelque chose de moi, l'ombre de ta mère veillera sur toi.</p>
+                <p>Ton amie,</p>
+                <p></p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            GEORGE.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

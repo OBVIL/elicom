@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1829-06-11">11 juin 1829</date>
+          <placeName>Bordeaux</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A IJADAME MAURICE DUPIN, A PARIS</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Bordeaux, 11 juin 1829,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Dites-moi donc, ma chère petite mère, ce que c'est -que cette histoire de naufrage qui m'a frappée dans mon enfance et qui s'est passée, autant qu'il m'en souvient, aux lieux où je suis? Je vous'vois encore tout ~effrayée; je me rappelle 'mon père se jetant à l'eau pour sauver son sabre, après nous avoir mises en sûreté puis les jurements des matelots; puis l'eau qui 'entrait dans l'embarcation.</p>
+        <p>Veuillez me raconter tout cela, afin que je com-prenne ce qui m'est arrivé et que je:puisse me vanter 'd'avoir couru un /aMM!M; .danger. Ce sera d'autant plus nécessaire à 'ma gloire, que, dans l'expédition que je viens de faire, je n'ai pas eu la satisfaction de la plus petite tempête.</p>
+        <p>Vous qui avez été partout, vous connaissez la tour de Cordouan, seule sur un rocher au milieu de la mer, vis-à-vis des côtes de la Saintonge et de la Gascogne. On prétend que c'est un. voyage difficile et</p>
+        <p>dangereux; et voyez comme c'est vexant pour une fois que nous y allons, les vents sont favorables, les flots dociles et les pilotes excellents! Enfin l'humiliation a été complète, aucun de nous n'a eu le mal de mer, et nous sommes revenus aussi sains, aussi gais (je ne dirai pas aussi frais, car nous étions noirs comme des Cafres et .rouges comme des Caraïbes), en un mot aussi dispos que si nous eussions fait un tour sur le boulevard de Gahd.</p>
+        <p>Un succès aussi facile me donne une fière envie de faire le tour du monde sur un navire, et d'aller à la Chine comme qui prend une prise de tabac. Ne vous effrayez pourtant pas trop de ce projet, et ne croyez, pas qu'au premier jour vous allez recevoir une lettre de n~ datée de Pékin. Pour le moment, je tâcherai. de me contenter des pékins qui m'environnent, et,. dans un mois au plus, je reverrai Nohant, qui-a bien: aussi ses Chinois et ses magotes.</p>
+        <p>Hippolyte me mande que vous avez presque le projet de venir à Nohant cet été. Dieu vous maintienne dans cette bonne idée! Adieu, chère maman; je vous embrasse; mais non,, je n'en suis pas digne, je baise votre pantoufle.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1829-12-29">29 décembre 1829</date>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A PARIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Périgueux, 8 décembre 1629."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Nohant, 29 décembre 1829</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A{MADAME MAURICE DUPIN, A PARIS</p>
+                <p>Ma chère petite maman,</p>
+                <p>Je viens vous souhaiter une' bonne santé et tout</p>
+                <p>ce'qu'on peut souhaiter de meilleur pour tout le courant de l'année où nous entrons et pour toutes celles de votre vie; faites qu'il y en ait beaucoup. Pour. cela, soignez-vous bien et menez joyeuse vie. Que faites-vous de mon mari? vous mène-t-il au .spectacle? est-il gai? est-il bon enfant? Il nous a mandé qu'il serait de retour cette semaine; mais je doute que ses affaires lui permettent de tenir cet engagement. Profitez de son bras. pendant que vous l'avez, faites-le rire; car il est toujours triste comme un bonnet de nuit quand il est à Paris. Faites-vous promener, si le temp? le permet toutefois. Ici, nous</p>
+                <p>sommes sous la neige comme des marmottes. Nous passons notre vie à nous chauffer et à dire des folies. Nous ne faisons rien, et pourtant les Journées sont encore trop courtes. Hippolyte est d'une gaieté intarissable sa femme se porte assez bien ici, et nos enfants nous occupent,beaucoup. Ils lisent parfaitement. Hippolyte est maître d'écriture; moi, je suis maîtresse de musique.</p>
+                <p>Ma fille n'est pas tout à fait aussi avancée mais eMe commence à parler anglais et à marcher. Elle a une bonne qui lui parle espagnol et anglais. Si cela pouvait continuer, elle apprendrait plusieurs langues sans s'en apercevoir. Mais je ne suis pas très contente de mademoiselle Pepita (c'est ainsi que se nomme l'héroïne), et je ne sais si je la garderai longtemps. Elle est sale et paresseuse comme une véritable Castillane. Ma petite Solange est pourtant bien fraîche et bien portante. Elle sera, je crois, très jolie; elle ressemble, dit-on, à Maurice; elle a de plus que lui une peau blanche comme la neige. On ne peut pas trouver, par le temps qui court, une comparaison plus palpable. Adieu, chère petite maman j'ai les doigts tout gelés. Je vous embrasse tendrement et laisse la placa à Hippolyte.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>                      
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

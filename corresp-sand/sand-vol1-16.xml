@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1828-12-27">Nohant, 27 décembre d828.</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant, 27 décembre d828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 27 décembre 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon garde champêtre, qui est mon fournisseur et mon pourvoyeur, et qui, de plus, est ancien voltigeur et bel esprit, a fait ce matin, ma chère maman, une assez belle chasse. Je fais mettre dès demain ma cutsinière à l'oeuvre, et, quoiqu'elle ait beaucoup moins de génie que le garde champêtre, j'espère qu'elle en 1. Nièce &lt;[e Caron.</p>
+        <p>aura assez pour confectionner un bon pàté que je vous .enverrai pour vos étrennes dès qu'il sera refroidi. Mon ami Caron, à qui j'adresse un envoi de même genre, vous fera passer ce qui vous revient. Agréez en même temps~chère mère, tous mes-voeux ,,et mes embrassements du jour de l'an; ayez une bonne usante, de la gaieté, et venez nous voir, voilà mes souhaits.</p>
+        <p>Je suis charmée que vous ayez trouvé mes confitures bonnes. Je comptais vous en adresser un second vo.ume; mais mon essai n'a pas été aussi heureux que le premier. Entraînée par l'ardeur du dessin, j'ai laissé brûler le tout et je n'ai plus trouvé sur mes fourneaux qu'une croûte noire et fumante qui res-semblait au cratère d'un volcan beaucoup plus qu'à un aliment quelconque.</p>
+        <p>Puisque nous sommés sur ce chapitre, je vous dirai -que vous avez très bien fait de ne rien donner à mon -envoyé. Il en eût été très choqué. Il veut bien se considérer comme mon ami et mon voisin, mais non comme un commissionnaire. Il vous eût dit qu'il était né Mstt/'de Nohant, qu'il se rendait mon messager uniquement par amitié, mais qu'il avait trop deseMtiments, etc. Enfin il vous aurait dit peut-être de très 'belles choses, mais vous avez bien fait de ne le pas payer. Il est très glorieux, je suis sûre, de pouvoir ,-dire qu'il nous a rendu service. Je ne sais pas si mon projet d'aller à Paris s'effec4uera. J'ai même tout lieu de croire qu'il ira grossir</p>
+        <p>!e nombre immense de projets en l'air qui sont en</p>
+        <p>dépôt dans la lune avec tout ce qui se perd sur la -terre.Ma fille est bien petite et bien délicate pour voyager par cemauvais temps. Du reste, elleest fraîche et jolie à croquer. Maurice se porte bien aussi, et vous souhaite une bonne année; il embrasse sc2 cousin Oscar. Veuillez, chère maman, être encorè mon remplaçant dans le choix des étrennes à Oscar (ce que 'je laisse à votre disposition).</p>
+        <p>Je vous embrasse de toute mon âme, Casimir en prend sa part.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              AURORE.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

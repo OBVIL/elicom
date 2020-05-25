@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-03-09" >9 mars 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A M. Jules Boucoiran</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A M. JULES BOUCOIRAN. A NOUANT"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>A M. JULES BOUCOIRAN. A NOUANT</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Paris, 9 mars 1831</p>
+        <p>Mon cher enfant,</p>
+        <p>Je suis triste. De loin encore, on essaye de me faire du mal. Une lettre de mon frère, aigre jusqu'à l'amertume, contient ce qui suit Ce que tu as fait de mieux, c'est ton fils; il t'aime plus que personne au monde. Prends garde d'émousser ce seHtîmeM~a. I! y a là bien de la cruauté. C'est me dire, qu'un jour je ne trouverai même pas la tendresse de mon enfant. Sans doute, s'il porte un cœur égoïste et tO.</p>
+        <p>froid, je dois m'y attendre. Mais il n'en sera pas ainsi, n'est-ce pas?</p>
+        <p>Vous êtes auprès de lui, vous lui parlez de moi et vous me conservez mon bien le plus précieux l'amour de mon fils? Bahlj'ai tort d'être triste. C'est vous faire injure. Je suis tranquille.</p>
+        <p>On me blâme, à ce qu'il' paraît, d'écrire dans le Figaro. Je m'en moque. Il faut bien vivre et je suis assez fière de gagner mon pain moi-même. Le Figaro est un moyen comme un autre d'arriver. Le' ~OM~MO~sme est un postulat par lequel il faut passer. Je sais que souvent il est dégoûtant; mais on n'est pas obligé de se salir les mains pour écrire, et j'arriverai, j'espère, sans cela. Ce petit journal fait de l'opposition et de la diffamation. Il s'agit de ne pas prendre l'un pour l'autre. C'est peu de chose de gagner sept francs par colonne; mais c'est beaucoup que de se rendre nécessaire dans un bureau de littérature. Cela vous mène à tout, même sans camaraderie, et sans que la personne paraisse le moins du monde. Je n'ai affaire qu'à M. de Latouche. Je vis toujours tranquille et retirée. Je vais au spectacle presque tous les soirs avec les loges qu'il me donne. C'est très agréable.</p>
+        <p>Vous saurez que j'ai débuté par un scandale, une plaisanterie sur la garde nationale. La police a fait saisir le Figaro d'avant-hier. Déjà je m'apprêtais à passer six mois à la Force; car j'aurais très certainement pris la responsabilité de mon article. M. Vivien</p>
+        <p>a senti ce matin l'absurdité d'une poursuite de ce genre, il a fait signifier aux tribunaux d'en rester là. Tant pis! une condamnation politique eût fait ma ré, putation et ma fortune.</p>
+        <p>La littérature est dans le même chaos que la politique. Il y a une préoccupation, une incertitude dont tout se ressent. On veut du neuf, et, pour en faire, on fait du hideux. Balzac est au pinacle pour avoir peint l'amour d'un soldat pour une tigresse et celui d'un artiste pour un castrato. Qu'est-ce que tout cela, bon Dieu!</p>
+        <p>Les monstres sont à la mode. Faisons des monstres! J'en eM/OH~e un fort agréable dans ce moment-ci. Je vous conterai, sur tout ce que je vois, de singulières particularités. Si j'avais le temps de les enregistrer, ce serait un curieux journal. Adieu, mon cher enfant; parlez-moi beaucoup de mon fils et de votre santé. Je vous embrasse de tout mon cœur.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

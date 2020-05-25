@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-01-25">25 janvier 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">MAURICE DUDEVANT, NOHANT</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Pans,25JMV)eri83i."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 25 janvier 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Tu as dû recevoir, mon cher enfant, une lettre de</p>
+        <p>moi le lendemain ou le surlendemain de celle que tu m'as écrite. Dis à ton papa de m'envoyer de l'argent. Aussitôt que j'en aurai, je t'enverrai ton habit de garde national. J'ai vu ta bonne maman Dudevant plusieurs fois. Elle ne m'a pas parlé d'argent et je ne me soucie pas de lui en demander. Dis tout cela à</p>
+        <p>ton papa. Je n'ai plus que ce qu'il me faut pour ma consommation, et je ne puis dépenser une cinquantaine de francs (au moins) sans en emprunter. C'est ce que je ferai, si je n'en reçois pas bientôt, car tu as bien envie de cet habit, et j'ai bien ~nvie aussi de te l'envoyer. Réponds-moi tout de suite et mets dans .ta lettre un fil pour la grosseur de ta tête afin que je t'achète aussi le schako. Dis à ton papa de te mesurer et de me dire ta taille bien au juste, afin que l'habit ~t le pantalon ne soient pas trop grands. Ta bonne maman Dupin, qui est à Charleville, a écrit à M. Pierret de t'acheter un joujou pour tes étrennes. Je le mettrai dans la caisse avec une poupée pour 'Léontine et une pour. Solange.</p>
+        <p>ïe suis bien aise que tu te portes bien, mon amour; mais je ne veux pas que tu aies du chagrin, cela augmenterait beaucoup le mien. J'ai rêvé cette nuit que tu étais bien malade, et je me suis réveillée en pleurant. Heureusement, une heure après, j'ai reçu la lettre de ton papa et la tienne. Amuse-toi et ne pense à moi que pour te rappeler que je t'aime bien et que je reviendrai bientôt.</p>
+        <p>Boucoiran doit être à Nohant;tu vas avoir de l'occupation. Il te fera jouer quand tu auras bien travaillé. Tu m'écriras tout ce que tu fais, et, s'il est content de toi, ta petite maman sera bien heureuse et t'aimera encore davantage. Tu seras sage par amitié pour moi, n'est-ce pas, mon cher enfant? Embrasse ton papa, et qu'il soit bien content de &lt;&lt;M.</p>
+        <p>Embrasse aussi ton oncle, ta tante, ta sœur et Léontine. Pour toi, mon cher amour, je t'embrasse mille fois. Tu sais que tu es ce que j'ai de plus cher au monde. Aime-moi aussi et porte-toi toujours bien. Ta mère.</p>
+        <p>Solange parle-t-elle quelquefois de sa maman? Empêche qu'eue ne m'oublie.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

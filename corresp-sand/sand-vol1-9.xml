@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1827-07-17">17 juillet 1827</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Kohant.lTjuiUotiS~."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>NOHANT, 17 juillet 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>Je vous remercie de m'avoir donné de vos nouvelles. Je commençais à être inquiète, non de votre santé, que je savais être bonne, mais de votre oubli. Grâce à Dieu, vous vous portez bien et vous n'avez que des contrariétés; c'est encore trop.</p>
+        <p>Vous êtes bien malheureuse dans le choix de vos servantes mais ce n'est pas à dire, parce que vous n'en avez point encore trouvé de bonnes, qu'il n'y en ait point et que vous deviez vous résoudre à à vous servir vous-même. Peut-être vous lasserez-vous bientôt de n'être pas chez vous, et il n'est pas prudent à vous, qui êtes souvent malade, de passer les nuits seule. Pour cette raison, sans compter la peur qui vous tourmente, et qui est une vraie maladie, capable même de faire beaucoup de mal, vous devriez ne pas vous isoler ainsi de tout secours et de tout soin Peut-être choisissez vous vos servantes trop jeunes, par conséquent sujettes aux défauts de leur âge la coquetterie et l'humeur légère. H me semble que j'aimerais mieux une femme d'un âge mûr,</p>
+        <p>quoiqu'il y ait souvent l'inconvénient de l'humeur revêche et rabâcheuse.</p>
+        <p>Vous rappelez-vous Marie Guillard, cette vieille et laide bonne femme qui, après avoir été longtemps ici, s'était mariée avec un vieillard borgne Au bout d'une vingtaine d'années de mariage, elle a enterré son mari et placé sa fille, qui est assez jolie, et, étant redevenue célibataire, elle est rentrée à notre service. Elle a repris le soin de ses vaches et de ses poules (qui ne sont pas tout à fait les mêmes qu'elle soignait il y a vingt ans).</p>
+        <p>C'est la plus drôle de vieille qui soit au monde. Active, laborieuse, propre et fidèle, mais grognon au delà de ce qu'on peut imaginer. Elle grogne le jour, et je crois aussi la nuit en dormant. Elle grogne en faisant du beurre, elle grogne en faisant manger ses poules, elle grogne en mangeant même. E)le grogne les autres, et, quand elle est seule, elle se grogne. Je ne la rencontre jamais sans lui demander comment va la grognerie, et elle ne grogne que de plus belle. E)l4 vous impatienterait bien, et moi tout autant, si son service la tenait plus près de moi. Aussi je ne vous la propose pas rien que sa figure vous rendrait malade. Au reste, elle n'est pas plus laide qu'elle né l'était dans sa jeunesse c'est une de ces figures qui ne changent pas, malheureusement pour elles. A propos de figures, je vous envoie un profil que j'ai fait d'idée en barbouillant. Il est bon de vous dire que c'est Caroline que j'ai prétendu faire. Il n'y a que .L 3</p>
+        <p>moi qui la trouve ressemblante; ce qui est fàchëus; pour le mérite de l'artiste.</p>
+        <p>Telle qu'el le est, je vous l'envoie, espérant que vous .qui êtes plus disposée à l'indulgence, vous y mettrez beaucoup du, vôtre et parviendrez à retrouver du moins la coupe du visage et l'expression douce et candide de la physionomie. Au reste, vous avez bien le talent de le retoucher. Je vous le livre. J'ai fait aussi mon portrait, mais avec plus de soin et d'attention, parce que j'avais le modèle sous les yeux et que l'observation travaillait et non l'imagination. II n'en est pas' mieux. J'ai même un air. si triste et si sentimental, que je lui ris au nez de le voir ainsi et n'ose vous l'envoyer. Il me rappelle ces vers</p>
+        <p>D'où vient ce noir chagrin qu'on lit sur son visage? C'est de se voir si mal gravé.</p>
+        <p>Hippolyte a dû vous dire, ma chère maman, que j'avais écrit à madame Defos pour lui demander pardon de la distraction qui m'avait empêchée de la reconnaîtront lui témoigner le désir de la voir à Clermont,. si j'y vais, comme j'en ai le projet, le mois prochain. C'est en parlant du Mont-Dore probablement que vous me dites que je ne suis qu'à quatre lieues d'elle; car, d'ici par la route de poste, il y en a près de cinquante. Cette grande distance me fait craindre que M. Defos n'effectue point son projet de venir nous voir, moins que quelque autre affaire ou le désir de voyager ne lui fasse prendre notre route pour revenir.</p>
+        <p>à Paris, route qui est beaucoup moins directe et moins bien servie. S'il vient malgré ces obstacles, j'en serai ravie et je le recevrai de mon mieux. Je n'ose plus vous' tourmenter pour faire ce voyage. Il vous ferait pourtant grand bien. Vous n'auriez pas de peurs à redouter pour la nuit, ni tout l'embarras de vivre en pension. Adieu, ma chère maman je vous écris à la lueur des éclairs et aux grondements du tonnerre, ce qui. n'empêche pas Maurice et Casimir de ronfler aussi fort, que lui. Je vais faire comme eux, et, si à nous trois.nous ne couvrons pas. le bruit de l'orage, il faudra qu'il fasse grand train de son côté. Écrivez-moi un, peu plus souvent.</p>
+        <closer>
+          <salute>Portez-vous bien, et soignez-vous. Je vous embrasse bien tendrement.</salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

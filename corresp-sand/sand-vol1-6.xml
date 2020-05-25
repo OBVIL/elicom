@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1826-12-23">23 décembre 1826</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN</persName>
+          <placeName>Chez madame Cazamajou, à Charleville (Ardennes)</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="CHEZ MADAME CAZAMAJOU, A CttARLEVU.LE (ARDENNES) 23 décembre ~826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>CHEZ MADAME CAZAMAJOU, A CttARLEVU.LE (ARDENNES) 23 décembre ~826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>Vous m'avez laissée bien longtemps sans nouvelles de vous, et j'ai moi-même attendu bien longtemps à vous remercier de votre lettre. Mais j'ai été si souffrante, et je le suis encore tellement, que j'ai bien de la peine à écrire. Ma santé se ressent du mois de décembre, et j'ai des maux de poitrine qui m'épuisent; je n'ai ni sommeil ni appétit. Tout me dégoûte, et je ne trouve de bon que l'eau claire, qui ne m'engraisse pas, comme vous pensez bien. La nuit, j'ai des. oppressions insupportables, mon drap me semble peser cent livres, et je suis réduite à regarder les étoiles au lieu de dormir. Tout cela est fort ennuyeux, mais je ne perds pas courage, C'est un temps à passer. Depuis trois ans, l'hiver m'est très contraire, et le printemps me ramène la santé. J'attends cette douce saison avec impatience.</p>
+        <p>Vous avez bien raison de quitter Paris, où l'on se tue, où l'on se volé, où l'on est moins en sûreté qu'au. milieu de la forêt Noire. Caroline doit se,trouver bien,. heureuse de votre compagnie, et ne plus regretter Paris. Oscar vous distrait et vous intéresse. J'ai grande impatience de le revoir, il doit être bien grandi et Hea avancé. Maurice est beau comme un ange. Madame Duplessis raffole de lui. Il dit aussi une foule de belles choses dans le plus singulier patois béricho-gascon qui se soit jamais entendu. Vous t'aimerez aussi, outre la parenté, car il a un charmant caractère.</p>
+        <p>Le pauvre vicomte doit s'ennuyer à périr de votre absence. Vous l'avez laissé bien cruellement, à.cequ'it me semble. C'est votre usage; mais s'accoutume-t-on aux rigueurs? Vous prétendez qu'il s'endort. Moi, je suis bien sûre qu'il médite ou qu'il tombe dans une mélancolie qui ressemble peut-être bien au sommeil; mais je parie que. ce sont des soupirs que vous interprétez comme des ronflements dans votre cruauté. Permettez-moi de vous embrasser, ma chère maman, et de vous souhaiter mille prospérités et une bonne santé surtout. Adieu, donnez-moi un peu plus souvent de vos nouvelles; embrassez pour moi ma sœur. Mes amitiés à Cazamajou~je vous en prie. Casimir vous baise les mains.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-02-15">Paris, 15 février 1831.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="">A M. DUTEIL, AVOCAT À LA CHARTRE</persName>
+          <placeName>La Chartre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 15 février 183t."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 15 février 1831.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ami,</p>
+        <p>Si je ne vous ai pas répondu plus tôt, c'est que la patrie était menacée et que j'étais occupée à la défendre. Maintenant que je l'ai sauvée, je reviens à mes amis, je rentre dans la vie privée et je me repose sur ma gloire.</p>
+        <p>Vous savez, peut-être, que nous venons de traverser</p>
+        <p>une petite révolution, toute petite à la vérité, une révolution de poche, une miniature de révolution, mais fort gentille dans ce qu'elle est. Je dis peut-être, parce que, pendant qu'on se battait à coups de missel, dans les rues de Paris, il est possible que, occupé à chanter, à boire, à rire, à dormir, vous n'ayez pas lu une colonne de journal et que vous sachiez tout au plus que la France a encore manqué de périr ce qui fût infailliblement arrivé, sans la conduite impartiale et l'attitude ferme que j'ai montrées en cette circonstance difficile.</p>
+        <p>J'ai fait l'impossible auprès de M. Duris-Dufresne; j'ai fait tout ce qu'il fallait pour me faire mettre Ma porte par tout autre que lui, l'obligeance et la douceur même. M. Duris-Dufresne s'est remué tant qu'il a pu pour M. M* et pour une autre personne encore que je lui recommandais et qui m'intéressait non moins vivement. Tout ce qu'il a obtenu, ce sont des promesses, ce qu'on appelle des espérances, mot qui m'a bien l'air d'être fait pour les dupes. Je n'ai pas besoin de vous dire que je n'ai pas négligé une occasion de réchauffer son zèle. Mais je veux vous dire que vous vous tromperiez et seriez fort injuste de croire que M. Duris-Dufresne y eût mis de la mauvaise grâce</p>
+        <p>H faut bien voir où il en est. En examinant la marche des choses, vous vous expliquerez la facilité avec laquelle il a fait obtenir des places à ses amis ei la difficulté qu'il rencontre aujourd'hui pour solliciter d&amp;</p>
+        <p>simples emplois. Au commencement de ce nouveau gouvernement, le parti Lafayette (c'est-à-dire MM. de Tracy, Eusèbe Salverte, de Podenas, Duris-Dufresne, etc.) était au mieux avec le pouvoir. Ces messieurs venaient de faire un roi, et ce roi n'avait rien &amp; leur refuser. C'était juste. Cependant, comme ces gens-là n'étaient pas des polissons, après avoir été dupes des promesses de l'hôtel de ville, ils n'ont pas rampé devant le sire. Ils ne lui ont pas dit comme Guizot, Royer-Collard, Dupin et consorts &lt; Majesté, tout vous est permis; nous sommes vos serviteurs très humbles et nous défendrons votre pouvoir, juste ou injuste, absurde ou raisonnable, parce que vous nous avez donné des places et des honneurs. B</p>
+        <p>Le parti Lafayette, c'est-à-dire l'extrême gauche, en voyant des fourberies, des turpitudes diplomatiques envahir l'esprit du gouvernement et entraver la marche des institutions populaires dont on l'avait leurré, s'est regimbé, et, de plus belle, s'est jeté dans l'opposition.</p>
+        <p>Il faut bien croire à la bonne foi de ces gens-là. Ils pouvaient, en servant le pouvoir, conserver les bonnes grâces et la faveur. Ils préfèrent le droit de crier, qui ne rapporte que l'acrimonie et le mal do gorge.</p>
+        <p>Je ne suis pas de leur humeur, moi! J'aime à rire, et j'ai l'égoïsme de m'amuser de tout, même de la peur d'autrui. Mais j'estime et j'admire la conduite de</p>
+        <p>ces vieux grognards, qui veulent tout ou rien en matière de liberté et. que l'on traite d'enragés parce ~u'on ne peut les acheter.</p>
+        <p>Je crois donc le crédit de Duris-Dufresne diablement tombé. Il a perdu auprès du pouvoir ce qu'il a regagné en popularité. S'il n'obtient plus rien, il ne faut pas lui en faire un crime; car le pauvre brave homme use bien des souliers pour le service d'autrui. Ne connaissez-vous, pas M. de Bondy? C'est lui qui -est en faveur maintenant. Il est dans une belle position. Si la famille M. a des relations avec lui (il me semble que je ne l'ai pas rêvé), je me chargerai volon-tiers de tous les pas qu'il faudra faire. Dites-le à F. &lt;t embrassez-la bien de nia part. Je lui écrirai dans -quelques jours.</p>
+        <p>Pour le moment, je suis écrasée de besogne; besogne qui ne me mène à rien jusqu'ici. J'ai pourtant toujours de l'espérance. Kt puis voyez l'étrange chose la littérature devient une passion. Plus on rencontre d'obstacles, et plus on aperçoit de difficultés, plus on se sent l'ambition de les surmonter. Vous vous trompez pourtant bien si vous croyez que 'l'amour de la gloire me possède. C'est une expression à crever de rire que celle-là. J'ai le désir de gagner quelque argent; et, comme il n'y a pas d'autre moyen que &lt;l'avoir un nom en littérature, je tâche de m'en faire un (de fantaisie). J'essaye de fourrer des articles dans les journaux. Je n'arrive qu'avec des peines infinies et &lt;ine persévérance de chien. Si j'avais prévu la moitié</p>
+        <p>des difficultés que je trouve, je n'aurais pas entrepris cette carrière. Eh bien, plus j'en rencontre, plus j'ai la résolution d'avancer. Je vais pourtant retourner bientôt cheux nous, et peut-être sans avoir réussi à mettre ma barque à flot, mais avec l'espérance de mieux faire une autre fois et avec des projets de travail plus assidu que jamais.</p>
+        <p>Il faut une passion dans la vie. Je m'ennuyais, faute 'd'en avoir. La vie agitée et souvent même assez nécessiteuse que je mène ici chasse bien loin le spleen. 'Je me porte bien et vous allez me revoir avec une 'humeur tout à fait rose.</p>
+        <p>Avec ça que notre bonne Agasta~ aille bien et que je !a retrouve fraiche et ingambe! Nous danserons 'encore la bourrée ensemble</p>
+        <p>Adieu, mon cher ami. Si vous avez des idées, envoyez-moi-z'eM; car, des idées, par 'le temps qui court, c'est la chose rare et précieuse. On écrit parce que c'est un métier mais on ne pense pas, parce qu'on n'en a pas le temps. Les choses marchent trop 'vite et vous emportent tout éblouis.               « Les écrivains (dit le sublime de Latouche), ce sont des instruments. Au temps où nous vivons, ce ne sont pas des hommes; ce sont des plumes s Et, quand on a lâché ça, on se pâme d'admiration. on tombe à la renverse, ou l'on n'est qu'un âne. Bonsoir. J'embrasse Agasta et vous de tout mon cœur. i. Madame Duteil.
+        s</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

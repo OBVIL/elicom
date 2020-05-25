@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1832-07-08">Paris, 8 juillet 1832</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT, A NOHANT</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Parh,7)mUeti832. Mon pauvre petit,"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 8 juillet 1832</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>AU MÊME</p>
+                <p>le gros éléphant est venu, avec une tour sur le dos et que, la tour toute pleine de boîtes, de fusées et de pétards a éclaté avec un bruit du diable, elle a un peu fait la grimace. Je lui ai dit que, si tu étais là, tu n'aurais pas peur, que tu tirais des coups de pistolet, que l'éléphant n'avait pas peur. Par émulation, elle a renfonce,ses larmes et s'est enhardie jusqu'à regarder. Elle a trouvé cela très beau. En effet, il est impossible de voir rien de plus beau que l'éléphant tout couvert de velours, de soldats, de dorures, de feu, faisant toutes ses évolutions comme un vrai soldat.</p>
+                <p>Je t'ai bien regretté, mon petit; tu aurais été bien étonné de voir ces deux animaux si intelligents. Il y en a un énorme, gros quatre fois comme celui que tu as vu au Jardin des Plantes. Au lieu d'être d'un gris sale comme lui, il est d'un beau noir. Celui-là s'appelle Djeck; le petit est trois fois moins gros, mais aussi gentil qu'un éléphant peut l'être et aussi savant que le gros. Tout ce qu'ils font est incroyable. Ils sont en scène pendant trois actes. Certainement Thomas n'a pas le demi-quart de leur intelligence. Le gros danse la danse du châle avec une trentaine de bayadères. C'est à mourir de rire de voir danser un éléphant. Puis il mange de la salade devant te public. Chaque fois qu'il a vidé un saladier, il le prend avec sa trompe et le donne au petit éléphant, qui le prend de la même manière et le fait passer a son valet de chambre. Le gros a une clochette d'or pendue à une</p>
+                <p>corde. Il prend la corde, et sonne jusqu'à ce qu'on apporte un autre saladier. Dans la pièce, il y a un prince indien que ses ennemis poursuivent pour le tuer. Quand il est en prison, l'éléphant arrache les barreaux de la croisée, approche son dos et l'emporte. Une autre fois, on a mis le prince dans un coffre pour le jeter. à la mer. L'eléphant ouvre le coffre avec sa trompe, et va cueillir des cerises qu'il lui apporte à manger. Il remet des lettres, il bat le tambour, il offre des bouquets aux dames, il se met à genoux, il se couche, il s'assied sur. son derrière. Tout cela sans qu'on voie jamais le cornac. Il est tout seul en scène, il entre dans des cavernes, il sort par où il doit sortir, il ne se. trompe jamais. H n'y a pas de figurant qui fasse mieux son métier. Après la pièce, le public le redemande et on relève le rideau. Alors les deux éléphants, après s'être fait un peu attendre, comme font les actrices pour se faire désirer, arrivent tous les deux, saluent le public avec leur trompe, se mettent à genoux, puis s'en vont très applaudis et très satisfaits. Solange dit qu'ils sont bien gentils et bien mignons. Elle a été aussi voir les marionnettes chez Séraphin mais elle aime bien mieux les chevaux et les éléphants.</p>
+                <p>Adieu, mon petit amour. Quand tu seras à Paris, je te mènerai voir tout cela. Je te ferai des pantoufles. Je t'envoie des bonshommés.qu'on m'a donnés pour toi. Adieu, mon enfant. Embrasse pour moi ton papa et Boucoiran. Solange vous embrasse tous trois,.</p>
+                <p>tins! que sa titine. Elle me disait à Franconi Maman, tu diras tout ça à mon petit frère; moi, je saurais pas y dire, c'est trop beau! Je t'embrasse mille fois. Aime-moi bien et écrismoi.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1832-05-17" >Paris, 17 mai 1832</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dudevant, Maurice (1823-1889)">AU MEME</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Paris,~maii832."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris,~maii832.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>Par!s.nmatM3a.</p>
+                <p>Mon cher petit,</p>
+                <p>J'ai reçu tes deux lettres. Je t'en ai envoyé une t. 13'</p>
+                <p>grosse pleine de dessins. T'amuses-tu les copier? Que fais-tu le soir? Travailles-tu dans ton cabinet, ou cours-tu dans le jardin avec Léontine? Valsez-vous toujours? Dis-moi donc comment tu passes tes journées. Raconte-moi depuis le matin jusqu'au soir. Ta petite soeur se porte bien; elle commence à s'accoutumer à Paris et, à devenir méchante. Jusqu'à présent, elle était si étonnée de tout ce qu'elle voyait, qu'elle ne pensait pas à avoir des caprices. A présent, elle en a pas mat mais je ne lui cède pas, et elle redevient. gentille. Des enfants, qui demeurent sur le même balcon que nous, quand ils l'entendent pleurer, se inoquent d'elle en la contrefaisant. Cela la vexe cruellement; elle renfonce tout de suite ses larmes et n'ose plus rien dire.</p>
+                <p>Il y a bien longtemps que nous n'avons été à la campagne; il pleut tous les jours et il fait si froid, que nous avons toujours du feu. J'ai deux petits serins verts dans une cage. Ils' ont fait des œufs qui sont éclos de ce matin. Si tu voyais comme cela amuse Solange Elle n'y conçoit rien et voudrait les mettre dans sa poche. Ils sont si petits, si secs, si maigres, si pelés, si laids, qu'ils crèveraient si l'on soufflait dessus.</p>
+                <p>Nous avons aussi un beau jardin sur notre balcon des rosés, des jasmins, du, lilas, des giroflées, des orangers, un géranium, du réséda et même un cassis tout couvert de fruits verts. Si tu venais me voir cet été, je te les ferais croquer; mais tu en auras de meil-</p>
+                <p>leurs à Nohant. Solange s'amuse &amp; mettre de la terre dans des pots, elle y sème des graines; à peine sont.elles levées, qu'elle les arrache. Adieu, mon gros mignon. Écris-moi souvent, parlemoi de tout ce qui t'amuse, pense souvent à ta vieille mèrequi t'aime.
+                </p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

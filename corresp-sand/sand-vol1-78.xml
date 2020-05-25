@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-05-20">20 mai 1833</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Casimir (1795-1871)">A M. CASIMIR DUDEVANT, A NOHANT </persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Monami,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon ami, Je suis aise de ton bon voyage et de t~jn arrivée en bonne santé.</p>
+        <p>Maurice a été à l'infirmerie. C'es~. le changement de régime qui l'éprouve un peu; dr preste, il est très frais et très gai. On est content d~ j son caractère et il paraît s'arranger bien avec ses camarades. Quant à ses progrès, ils ne peuvent pas être encore sensibles. J'espère qu'à ton retour, on &lt;y jmmencera à s'en apercevoir. Je lui ai dit de t'écrir e. Dans tous les cas, je te 14.</p>
+        <p>domierai de ses nouvelles. Je l'ai vu hier, avec ms mère; il a été très gentil. Je ne sais si Salmon a d&amp; mauvaises aifatres ce mois-ci; mais j'ai eu toutes tes peines du monde me faire payer, quoique je n'aie envoyé chercher mon argent que le 15 mai. Il a fallu .y envoyer quatre fois de suite. La première fois, il a fait refuser sa porte; la seconde, son heure de réception était changée; la troisième, il n'avait pas d'argent enfin, la quatrième, it a daigné m'envoyer mon mois. Je ne sais pas si tout cela est l'effet du hasard; ,c'est bien possible. Cependant tu devrais y faire attention, au cas où tu aurais des sommes d'une certaine' importance à déposer chez lui. Ensuite, tu devrais le prie.r de m'envoyer mon argent tous les premiers du mois. Un homme d'affaires n'est ni ambassadeur ni ministre, pour qu'on fasse antichambre chez lui. Adieu,, mon ami. Ta grosse fille t'embrasse; Dis bien des choses de ma part à Duteil et à.Jules Néraud, quand tu te.s verras. Adieu; je .t'embrasse.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+    
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

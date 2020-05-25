@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1829-11-30">30 novembre 1829</date>
+                    <placeName>Périgueux</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="A M. CARON, A PARIS (...-...)">A M. CARON, A PARIS</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Nohant, i&quot; octobre 1829."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Périgueux, 30 novembre 1829</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>Périgueux, 30 noTembre &lt;829.</p>
+                <p>Mon cher Jules,</p>
+                <p>Comment vont mes enfants? et vous ? et tous les miens? Je suis impatiente d'avoir de vos nouvelles et des leurs. Je n'en ai pas encore reçu et je suis bien près de m'en tourmenter.</p>
+                <p>Vous étiez de retour à Nohant vendredi soir, vous auriez dû m'écrire le lendemain; peut-être demain matin aurai-je une lettre de vous ou dé mon frère. J'en ai besoin pour être tout à fait contente car, à tous autres égards (vous prétendez que c'est mon mot), je suis bien de corps et d'esprit.</p>
+                <p>Mon voyage a été sinon rapide, du moins heureux. Ma santé est fort bonne et mon cœur assez content. Hâtez-vous donc de me dire que ma famille va bien aussi; mon Maurice surtout, mon méchant drôle, que 'aime pourtant plus que tout au monde, et sans lequel je n'aurais pas de bonheur. Dort-il? manget-il ? est-il gai? est-il bien? Ne soyez pas trop indul..gent pour lui, et, pourtant, le plus que vous pourrez, faites-lui aimer le travail. Je sais bien que ce n'est pas chose aisée. Quand je suis là pour sécher ses pleurs et le voir ensuite dormir dans son berceau, je ne m'en inquiète guère; mais, de loin, ma faiblesse de mère se réveille, et je ne sens plus que de la douleur, en songeant qu'il est peut-être à se lamenter devant son livre. Sotte chose que l'enfance de l'homme, sotte chose que sa vie tout entière! Enfin, mon cher enfant, faites pour lui ce que vous feriez, ce que vous ferez un jour pour votre propre fils. Suivez son éducation; mais, avant tout, surveillez sa santé. Ayez aussi l'œil sur ma petite pataude et l'oreille à ses cris. Je vous ai déjà dit tout cela. Je suis rabâcheuse et ennuyeuse comme toutes les vieilles. Vous me le pardonnerez; car vous avez une mère ausst, et, si vous étiez malade chez moi, je vous soignerais comme elle-même. Je vous ai confié mon bien le plus précieux, vous m'avez promis d'en être responsable.</p>
+                <p>Répondez bien à toutes mes questions, répétez dix fois la même chose sans vous lasser, et ne laissez</p>
+                <p>pas passer deux jours sans me tenir au courant. Vous me prouverez ainsi que vous avez autant d'amitié pour moi que j'en ai pour vous.</p>
+                <p>Je pense repartir vers le milieu de la semaine prochaine. Écrivez jusqu'à ce que je vous avertisse. Adieu.</p>
+                <p>Soignez aussi mon bengali, et dites-moi s'il n'était pas mort de soif quand vous êtes arrivé. Tenez un peu compagnie à ma pauvre Emilie qui s'ennuie souvent. Je sais que vous êtes bon, attentif et obligeant.</p>
+                <p>Je compte sur vous pour me remplacer en toute chose.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            AURORE DUDEVANT
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

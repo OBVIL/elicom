@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-07-31">La Châtre, 31 juillet 1830, onze heure du soir</date>
+          <placeName>La Châtre</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">AU MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="La .CMtre, 3t juillet 1830, onze heures du soir."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>La .CMtre, 3t juillet 1830, onze heures du soir.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Oui, oui, mon enfant, écrivez-moi. Je vous remercie d'avoir pensé à moi au milieu de ces horreurs. 0 mon Dieu, que de.sang! que de larmes!</p>
+        <p>Votre lettre du 28 ne m'est arrivée qu'aujourl't)ui 31. Nous attendions des nouvelles avec une anxiété! Cependant, nous savions à peu prés tout ce qu'elle contient par mille voies diverses, et les verdons différent peu les unes des autres. Mais rien d'ofjficiel Nous escérons que ce sera demain; car nous</p>
+        <p>avons besoin de cela pour coopérer aussi de tous nos faibles moyens au grand œuvre de la rénovation. Ah Dieu! l'emporterons nous? Le sang de toutes ces victimes profitera-t-il à leurs femmes et à leurs enfants! Votre lettre. a été lue par toute la ville; car on est avide de détails et chacun fournit son contigent; écrivez donc, songez qu'on s'arrachera les nouvelles et ne me parlez que des affaires publiques. Mon pauvre enfant, en dépit de la fusillade et des barricades, vous avez réussi à m'informer de ce qui se passait. Croyezle bien,parmi tous ceux pour qui je frémis, vous n'êtes pas un de ceux qui m'intéressent le moins. Ne vous exposez pas, à moins que ce ne soit pour sauver un ami; alors je vous dirais ce que je dirais à mon propre fils Faites-vous tuer plutôt que de l'abandonner. » Au nom du ciel, si vous pouvez circuler sans danger, informez-vous du sort de ceux qui me sont chers. Les Saint-Agnan n'ont-ils pas souffert? Le père était de la garde nationale. On en est à se dire « Un tel est-il mort? r Il y a trois jours, la mort d'un ami nous eût glacés; aujourd'hui, nous en apprendrons vingt dans un seul jour peut-être, et nous ne pourrons tes pleurer. Dans de tels moments, la fièvre est dans le sang, et le cœur est trop opp.ressé pour se livrer à la sensibilité.</p>
+        <p>Je me sens une énergie que je ne croyais pas avoir. L'âme se développe avec les événements. On me prédirait que j'aurai demain la tête cassée, je dormirais quand même cette nuit; mais on saigne pour les au-</p>
+        <p>tres. Ah! que j'envie votre sort! Vous n'avez pas d'enfant! Vous êtes seul; moi, je veille comme une louve veille sur ses petits. S'ils étaient menacés, je me ferais mettre en pièces.</p>
+        <p>Mais que voulais-je vous dire? Mes pensées se ressentent du désordre général. Courez à l'hôtel d'El6a?M/ place du Carrousel. Il est pillé, dévasté sans doute. Sachez si ma tante, madame Marécha), et sa famille ont échappé aux désastres de ces journées de meurtre. Mon oncle était inspecteur de la maison du roi. Je me flatte qu'il était absent. Mais sa femme et sa Elle, seules au centre de !à tempête! Son gendre est brigadier aux gardes du corps; est-il mort? S'il ne l'est pas, vivra-t-i! demain? Je n'ai pas le courage de leur écrire. D'ailleurs, où sont-ils? Et puis peuvent-ils songer, s'its ont été maltraités, comme je le crains, à donner de leurs nouvelles? Mais vous, mon enfant, qui êtes actif, bon et dévoué à vos amis, vous pouvez peut-être me tirer de cette horribte inquiétude. Faites-te si le combat a cessé, comme on le dit. Hélas! ne recommencera-t-i) pas bientôt? Que je vous dise ce qui se passe chez nous. Notre ville est la seu)e qui se montre vraiment énergique. Qui l'aurait cru? elle seule marche. Châteauroux est moins déterminée. Issoudun ne l'est pas du tout; néanmoins, les gardes nationales s'organisent, et, si l'autorité (l'autorité renversée) lutte encore, nous résisterons bien. Dans ce moment, la gendarmerie est la seule force qu'on ait à nous opposer; c'est si</p>
+        <p>peu de chose contre la masse, qu'elle se tient prudemment en repos.. Nous n'avons qu'un danger à courir, celui d'être assaillis par un régiment détacha de Bourges pour nous soumettre. Alors on se battra. Les deux hommes d'ici sont des plus décidés. Casimir est nommé lieutenant de la garde nationale, et cent vingt hommes sont déjà inscrits. Nous attendons avec impatience la direction que nous donnera le gouvernement provisoire. J'ai peur, mais je n'en dis rien; car ce n'est pas pour moi que j'ai peur. En attendant, on se réunit, on s'excite mutuellement: Et vous, que ferez-vous? La famitte Bertrand viendra-t-elle ici bientôt? L'accompagnez-vous toujours ? Je désire bien vous revoir.</p>
+        <p>Parlez-moi de notre député; est-il arrivé sans événement ? Nous l'avons vu partir au plus rude moment et nous frémissions de ce qui pouvait lui arriver. Nous espérons maintenant qu'il a pu entrer sans danger, mais nous sommes impatients d'en avoir la certitude. Tâchez de le voir, et priez-le, s'il a un instant de loisir, de me donner de ses nouvelles. Il est notre héros, et; comme notre attachement est son unique salaire, il ne peut pas refuser cetui-tà. Adieu, mon cher enfant. Où sont nos paisibles lectures et nos jours de repos? Quand reviendront-ils? La guerre n'est pas mon élément; mais, pour vivre icibas, il faut-être amphibie. S'il ne fallait que mon sang et mon bien pour servir la liberté! Je ne puis pas consentir à voir verser celui des autres, et nous</p>
+        <p>nageons dans celui des autres Vous êtes heureux d'être homme; chez vous, la colère fait diversion à la douleur. Merci encore une fois de votre lettre. Ne vous lassez pas de nous donner des détails. Je ne crois pas qu'il ait pu rien arriver à ma mère; mais la pauvre femme a dû avoir bien peur. Voyez-la, je vous en prie; elle demeure près de vous, boulevard Poissonnière, n° 6, Ne vous étonnez pas si son accueil est singulier; elle a l'étrange manie de prendre tous les gens qu?elle ne connaît pas pour des voleurs. Criez-lui en entrant que vous venez de ma part savoir de ses nouvelles, et, si elle vous reçoit froidement, ne</p>
+        <p>vous en inquiétez pas. Je vous saurai gré de ce nouveau service. Adieu.</p>
+                <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

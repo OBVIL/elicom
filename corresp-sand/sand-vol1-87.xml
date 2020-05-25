@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1834-08-15">15 août 1834</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Rollinat, François (1806-1867)">A M. FRANCO!S ROLLINAT, A CHATEAUROUX.</persName>
+          <placeName>Chateauroux</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon ami, J'ai trouve à Paris ta'brave lettre du mois'd'avri!, hier en arrivant de Venise, où j'ai tpassë toute I~année. Je pars dans cinq ou six jours poùrje.pays,'ot~espère bien te trouver à Châteauroux. Tàche de:ne -pas.être absent du 24 au 26, et devenir.avecmoi à-Nohant. ;M le faut absolument :pour que je sois complètement heureuse.</p>
+        <p>Je ne sais rien te dire de moi;, sinon que j'étais malade de l'absence de mes enfants, que je. suis 'ivre de revoir Maurice et impatiente de revoir Solange, que je t'aime comme iun;frère, et que, sous les :beIIes étoiles de l'Italie, je n'ai pas passé un soir-sans me rappeler nos promenades et nos entretiens ;sous le ciel de Nohant. ,J Je ne t'ai pas écrit il eût fallu te raconter ma vie entière: C'est un triste ,et long pèlerinage 'que je n'avais pas le courage de retracer..Je ~te raconterai -i tout, sous les arbres de mon jardin ou dans les traînes d'U~nont. Ne me retire pas ce bonheur-là, mon ami,' quelque affaire que tu aies. Songe que tes affaires se</p>
+        <p>retrouvent et que les jours heureux ne pleuvent pas :pour nous.Adieu, mon ami. J'ai trois cent. cinquante lieues dans les~ jambes, car j'ai: traversé la Suisse à pied; plus,.un coup de: soleil- sur, tenez, ce qui fait que je suiscAarmaHtc.Jl.est bien heureux pour toi que nous soyons amis; car je dé6e bien tout animal appartenant à notre espèce de' ne, point, reculer d'horreur en me voyant. Ça m~est Bien) égal,. j'ai le coeur, rempli de
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

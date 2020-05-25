@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1829-01-20" >Nohant, 20 janvier 1829</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A M. CARON. A PARIS. (...-...)">A M. CARON. A PARIS.</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Notmnt.MjmvicrISSM."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 20 janvier 1829</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Il est très vrai que je suis une paresseuse, mon dt~Ke vieillard et bon ami. Vous savez que je suis de force à me laisser brûler les pieds plutôt que de me déranger, et à vous couvrir une lettre de pâtés plutôt que de tailler maplume. Chacun sa nature. Vousn'êtes pas mal feugnant aussi, quand vous vous en métez. Mais ce n'est jamais quand il s'agit d'obliger; j'ai pu m'en convaincre mille fois, et j'ai même honte d'abuser si souvent de votre extrême bonté,</p>
+        <p>Je vous ai demandé dans quelque lettre qui se sera perdue:</p>
+        <p>Les Mémoires de B~ayoMa?, IesMeM!0!rMdem&lt;t*dame Tïo~Hd, et les Poésies de Victor ?~0. J'ai deux volumes de Paul-Louis Courier intitulés Mémoires, Correspondance et Opuscules inédits. Il doit avoir paru un troisième volume contenant des fragments de Xénophon, l'Ane de Lucius, DapA~M ei Chloé, etc. En outre, je voudrais 'avoir son meilleur volume contenant les pamphlets politiques et opuscules littéraires, imprimé clandestinement à Bruxelles in-8°. Celui-là sera peut-être difficile à trouver. Aidezvous d'Hippolyte, qui s'aidera d'Ajasson, pour me le dépister. Veuillez avoir ma lettre dans votre poche, quand vous irez chez le libraire, afin de ne pas vous .tromper ni m'acheter ce que j'ai déjà.</p>
+        <p>Ne confondez pas lés Mémoires de Barbaroux le girondin sur la Révolution, avec quelque chose de nouveau que son fils C.-O. Barbaroux vient de publier à la suite ou au commencement d'une biographie de la Chambre des pairs. J'attendrai pour lire l'histoire des vivants qu'ils soient morts, et, si je suis morte avant eux, je m'en passerai.</p>
+        <p>Cela ne veut pas dire que je dédaigne les œuvres~ des contemporains; seulement la postérité jugera les hommes mieux que nous. Je voudrais avoir quelque chose de Benjamin Constant et surtout de RoyerCollard. Mais quoi je ne suis pas au courant de ces 1s publications. Veuillez m'aider, m'envoyer ce qu'il y</p>
+        <p>a de plus remarquable et le plus &amp;. la portée d'une bête comme moi.</p>
+        <p>En voilà-t-il assez? Je vous plains bien sincèrement, mon vieux, si vous avez beaucoup de femmes comme moi sur les bras.</p>
+        <p>Pour faire diversion à ces factures, car mes lettres ne sont pas autre chose, je vous envoie le récit lamentable d'une histoire récemment arrivée à la Châtre. Vous savez qu'il y a sept ou huit sociétés qui ne se mêlent point. Vous savez que Périgny et moi, qui avons la prétention d'être philosophes, nous invitons tout le monde.</p>
+        <p>Moi, je ne reçois pas cette année; mais, lui, il a commencé. La première soirée s'est assez bien passée, moyennant que les plus huppées ont été stupéfaites de surprise en se voyant amalgamées avec ce qu'elles appellent de la canaille, quoique cette canaille les vaille et plus. Le maitre de musique et sa femme, fort gentille, ont surtout causé par leur admission, une indignation, et les bonnes personnes de dire que M. de Périgny comblait d'honnêtetés te musicien susdit afin d'économiser cinq francs par soirée. Voulant mettre à profit cet incident, mais ne voulant pas mettre en scène l'innocent musicien et son innocente moitié, nous avons, Duteil et moi (auteurs indignes de cette chanson), offert nos propres individus aux traits de la satire, nous maltraitant soi-même (nous avions tenu l'orchestre à nous deux, la première soirée) nous détournons par cette ruse adroite</p>
+        <p>soupçons qui se dirigeraient sur nous si nous ne gar- dions le secret sur notre génie poétique, car nous en ~tMpOHS. H a pu, à Paris, vous chanter des complaintes de notre façon; que vous en semble? Nous avons; tant d'esprit, que nous en sommes ~oH&lt;e&lt;(a? nous-t mêmes. Nous avons montré la susdite chanson à M. et madame de Périgny, qui en ont beaucoup ri et nous ont autorisés à.la. répandre c~H~es~HemeHt, a condition qu'ils ne soient pas reconnus en avoir eu connaissance.</p>
+        <p>Voyez-vous d'ici la bonne figure qu'ils vont faire, et vous aussi, quand, d'un air piteux, on viendra vous raconter qu'un libelle impertinent, a?;me&lt;tdeMa? tranchants, et dans lequel nous sommes particulièrement' maltraités, circule dans la ville? Voyez-vous l'air de. philosophie et de générosité avec lequel nous témoi-. gnerons notre mépris de cet outrage? J'oubliais de'. vous dire qu'à la seconde soirée il n'est venu per-sonne que ce maître de musique, Casimir et moi; la' chanson, d'ailleurs, vous l'apprendra; mais vous saurez que j'avais l'honneur de faire partie des trois invités qui font une si pauvre figure à la fin du dernier couplet. Nous attendons à demain pour voir si la cabale continue. Moi, je n'en aurai pas le démenti,. et j'irai pour voir. Vous voilà au courant des cancans.. J'écrirai à Félicie quand je pourrai. En attendante dites-lui que je l'embrasse, que je ne me soucie-, guère d'apprendre les modes; qu'il me suffit qu'elle) se porte bien et ne m'oublie pas. Au reste, je lui;</p>
+        <p>dirai cela moi-même dans quelques jours. Je verrai demain toutes vos amoureuses et m'acquitterai de vos commissions.</p>
+        <p>~Bonsoir, mon vieux portez-vous bien, dormez quin zeheures sur seize, et aimez toujours votre fille </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              AUROKE
+            </name>
+          </signed>
+        </closer>
+        <postscript>
+        <p>Casimir vous embrasse, et Maurice embrasse Pauline. A propos, j'aï un ménage entier de porcelaine de Verneuil 1 pour elle; mais comment le lui envoyer? le port coûtera plus que la chose ne vaut; uxez-moL là-dessus.</p>
+        <p>LA SOIREE ADMINISTRATIVE</p>
+        <p>ou</p>
+        <p>LE SOUS-PRÉFET PHtLOSOPBa Air Tous les bourgeoit de C/Mftret. 1</p>
+        <p>Habitants de la Châtre</p>
+        <p>Nobles, bourgeois, vilains,</p>
+        <p>D'un petit gentillàtre</p>
+        <p>Apprenez les dédains.</p>
+        <p>Ce jeune homme, égaré par la pMoMpMe', Oubliant, dans sa déraison,</p>
+        <p>Les usages et le bon ton,</p>
+        <p>Vexe la bourgeoisie</p>
+        <p>2</p>
+        <p>Voyant que, dans la ville,</p>
+        <p>Plus d'un original</p>
+        <p>Tranche de l'homme habile</p>
+        <p>Et se'dit libéral;</p>
+        <p>A nos tendres moitiés qui frondent la noblesse Il crut plaire en donnant un bal</p>
+        <p>Où chacun pût d'un pas égal</p>
+        <p>Aller comme à la messe.</p>
+        <p>3</p>
+        <p>Un écorcheur d'oreilles,</p>
+        <p>Ci-devant procureurt.</p>
+        <p>Croit faire des merveilles</p>
+        <p>Avec madame OrreM~.</p>
+        <p>Sur son piano discord quand l'une nous assomme, L'autre nous fait grincer des dents,</p>
+        <p>Le tout pour épargner cinq francs</p>
+        <p>Au ménage économe.</p>
+        <p>4</p>
+        <p>Jugeset militaires,</p>
+        <p>Médecins, avocats,</p>
+        <p>Chirurgiens et notaires,</p>
+        <p>Chacun prend ses ébats.</p>
+        <p>On entendit pourtant plus d'uae grande dame, Pinçant la lèvre et clignant i'œit,</p>
+        <p>Murmurer dans son noble orgueiL</p>
+        <p>&lt; Voyez quel amalgame</p>
+        <p>5</p>
+        <p>Guidant la contredanse,</p>
+        <p>Périgny tout en eau,</p>
+        <p>Croyait par sa prudence</p>
+        <p>3.Aurore.</p>
+        <p>Nous dorer le gâteau.</p>
+        <p>L'Ofatti-deMT n'était pas la chose délicate Mais, quand on fut au moulinet,</p>
+        <p>C'est en vain que le sous-préfet</p>
+        <p>Cria a Donnez la patte! s</p>
+        <p>6</p>
+        <p>Quand finit ce supplice,</p>
+        <p>Chaque dame aussitôt</p>
+        <p>Demande sa pelisse,</p>
+        <p>Sa bonne et son falot,</p>
+        <p>Et toutes en sortant se disaient dans la rue, En retroussant leur falbala</p>
+        <p>«Jamais on ne me reprendra</p>
+        <p>En pareille cohue. »</p>
+        <p>7</p>
+        <p>La semaine suivante</p>
+        <p>Le punch est préparé,</p>
+        <p>La maîtresse est brillante,</p>
+        <p>Le salon est ciré.</p>
+        <p> tint trois invités de chétive encolure. Dans la ville on disait a Bravo 1 &lt; On donne ut bal mco~tttto Atasous-préfeçture'e D</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

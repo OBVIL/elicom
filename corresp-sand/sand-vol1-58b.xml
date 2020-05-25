@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1831-11-03">Paris, 3 novembre 1831.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT</persName>
+                    <placeName>La Chatre</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Paris.tir. Membre &lt;S3i."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris.tir. Membre &lt;S3i.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>AMAURICEDUDEVANT.ALA CHATRE</p>
+                <p>Paris, 3 novembre 1831.</p>
+                <p>Mon cher petit enfant, tu ne m'as pas dit si tu avais reçu le joujou que je t'ai envoyé. Si tu ne l'as pas, fais-le réclamer chez M. Poplini, à la Châtre. Il doit être arrivé depuis longtemps.</p>
+                <p>Quand tu n'auras,plus d'images a peindre, tu me l'écriras, afin que je t'en achète d'autres. Dis-moi st tu as envie de quelque chose que je puisse t'envoyer. Boucoiran me dit qu'il va te faire commencer l'histoire. Tu me diras si cela t'amuse. Quand j'étais petite, cela m'amusait beaucoup. Je suis bien contente que Sylvain Meillant2 soit rétabli; tu iras le voir et le lui diras de ma part.</p>
+                <p>As-tu couvert ta maison dans la cour? J'en ai bien fait comme toi, dans la même cour, avec des briques i. Propriétaire à la Châtre.</p>
+                <p>et des ardoises. Je me souviens qu'une fois, en ouvrant la porte de ma maison, laquelle porte était une petite planche, j'ai trouvé quelqu'un dedans. Ce 'quelqu'un était, devine quoi? Une belle petite souris qui s'était emparée de ma maison et s'y trouvait bien logée. Je l'ai laissée dedans, mais je ne sais plus ce qu'elle est devenue. Et ton jardin, y travailles-tu toujours? Il fait bien mauvais maintenant pour jouer dehors. Prends garde de t'enrhumer. Il fait un temps affreux ici. On est dans la crotte jusqu'aux genoux. La Seine est jaune comme du café au lait. Je ne sors que pour mes affaires d'obligation.</p>
+                <p>Adieu, mon cher petit mignon; j'enverrai des bas à ta grosse mignonne. Et toi, en as-tu assez pour ton hiver? Je vous embrasse tous les deux. Porte-toi bien et écris-moi souvent.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            Ta mère
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

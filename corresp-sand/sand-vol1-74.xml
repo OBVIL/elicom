@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-02-27">Paris, 27 février 1833.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT, NOHANT</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 27 février J833."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 27 février 1833.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Tu me dis, mon enfant, que je ne t'écris pas souvent. C'est toi, petit farceur, qui es fièrement paresseux à me répondre. Tu m'écris des petits bouts de lettre bien courts. J'aimerais tant à savoir tout ce que tu fais, à quoi tu t'amuses, ce qui t'occupe, comment tu dors. Enfin, je vais le savoir bientôt. Tu diras à ton papa de m'écrire lorsqu'il sera pour partir, afin que j'aille au-devant de vous à la'diligence. Je te mettrai dans mon lit bien chaud; ta grosse soeur te bigera comme du pain. A présent, elle t'appelle son petit bijou de frère; elle est toujours mignonne et bien drôle.</p>
+        <p>Ce matin, elle a eu bien du chagrin elle a laissé tomber sa poupée dans le jardin et les chiens la lui ont mangée. Quand elle est arrivée pour la ramasser, il n'en restait qu'une jambe, que la chienne n'avait pas pu digérer. Aussi la pauvre "grosse a braillé comme un veau.</p>
+        <p>Adieu, mon petit ange embrasse tout le monde pour moi. Toi, je t'embrasse mille fois sur tes joues roses. Adieu, petit chéri</p>
+        <p>J'ai un beau petit chat gris, yenu par les toits se donner à nous. Je l'ai accueilli, il est très bon enfant.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+             
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

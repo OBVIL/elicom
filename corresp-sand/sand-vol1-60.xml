@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-12-05">Paris, 5 décembre 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A M JULES BOUCOIRAN, A NOHANT</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Pan9.5d&lt;!eembrol8S)."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 5 décembre 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Merci, mon cher enfant. Je 'ne sais pas si je pourrai profiter de cette bonne occasion pour retourner à Nohant. Dieu veuille que mon éditeur me paye d'ici au 3 et que je puisse lui livrer les dernières feuilles de mon manuscrit. Alors je serais à Nohant bientôt. N'en parlez pas encore. Surtout n'en donnez pas la joie à mon pauvre Maurice; car il n'y a rien de sûr dans mes projets. Ils dépendent d'un animal qui, tous tes jours, m'annonce le payement de sa dette, j'attends ~)core. Je voudrais qu'il me fît au moins une lettre de change pour les cinq cents francs à toucher trois mois après la livraison. Jusqu'ici, je ne tiens rien, et je ne voudrais pourtant pas avoir travaillé trois mois sans un profit raisonnable.</p>
+        <p>La lettre que j'ai reçue avant-hier de Maurice est fort bien, si vous n'en avez pas corrigé les fautes. Son écriture, quand il veut s'appliquer un peu, promet d'être très lisible et 'très jolie. Il a dans son esprit, d'enfant des idées très originales; par exemple, j'ai bien ri de sa pie, qui se tient dans. le 'ardin et regarde passer le monde sur la route.</p>
+        <p>M.</p>
+        <p>Pauvre enfant! quand donc sera-t-il assez grand pour ne dépendre que de lui Alors je ne serai pas en peine de trouver une consolation et un dédommagement à tous les ennuis de ma'vie.</p>
+        <p>Adieu, mon cher fils;.restez-moi toujours fidèle,! 'vous que j'estime lé plus solide et le plus généreux de mes amis.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Je vous embrasse de tout mon cœur.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

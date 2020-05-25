@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1833-12">Paris, jeudi, décembre 1833</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MME MAURICE DUPIN</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A MADAME MAURICE DUPIN. A PARIS Paris, jeudi, décembre 1833.</p>
+                <p>Ma chère maman,</p>
+                <p>Je vous envoie le lit de Maurice et sa petite bo!te de crayons, pour qu'il fasse des bonshommes et s&amp; tienne tranquiiïe auprès de vous.</p>
+                <p>Vous seriez bien bonne et bien gentille de tâcher de le faire coucher chez vous pour Noël. Madame Dudevant, qui s'en est chargée, le rendra bien malheureux, je crains, à force de sermons et de niaiseries. En l'envoyant chercher chez elle dans !a journée, vous pourriez le garder, en lui écrivant une petite lettre. Au reste, Boucoiran se concertera à cet égard avec vous et vous épargnera les courses et les ennuis. Adieu, ma chère maman; je vous remercie mille fois de vos bontés pour moi et mes enfants. Je suis tranquille sur le compte de Maurice, puisque vous</p>
+                <p>vous chargez de lui. Je pars bien portante ce soir. Je vous écrirai sitôt mon arrivée quelque part.Je vous embrasse de toute mon âme.</p>
+                
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                           AURORE.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

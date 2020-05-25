@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-07-06">6 juillet 1832</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Duvernet, Charles (1807-1874)">A M. CHARLES DUVERNET, A LA CHATRE</persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Vous vous mariez, mon bon camarade v"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous vous mariez, mon bon camarade ! Le bien et le mal n'existant pas par eM:c-m~mes, le bonheur comme le malheur étant dans l'idée qu'on s'en fait, vous vous croyez content; donc,'vous l'êtes. Je n'ai qu'à me réjouir avec vous de l'événement qui vous réjouit et du choix que vous avez fait. Je ne connais pas votre fiancée; mais -j'ai entendu dire d'elle beaucoup de bien à tout le monde et particulièrement &amp; mademoiselle Decerf,juge sain et solide. Vous lui rendrez le bonheur que vous recevrez d'elle. Croyez, de votre côté, que votre bonheur doublera le mien. Je n'ai le temps de vous dire qu'un mot. Je suis en course du matin au soir pour trouver .un logement. Le soir, je rentre éreintée par la marche, la chaleur et le pavé. Je quitte avec regret</p>
+        <p>ma gentille mansarde du quai Saint-Miche! le mauvais état de ma santé me mettant dans l'impossibilité d'escalader plusieurs fois par jour un escalier de cinq étages, je vais me retirer encore davantage du beau Paris et m'enfoncer dans le faubourg. J'ai été hier voir Henri de Latouche à Aulnay. Il ne quitte presque plus la campagne. Son ermitage est la plus délicieuse chose que je connaisse. Je ne sais s'il y travaille. Moi, je ne fais rien et ne me remettrai à l'ouvrage qu'a Nohant. Le succès d'Indiana m'épouvante beaucoup. Jusqu'ici, je'croyais travailler sans conséquence et ne mériter jamais aucune attention. La fatalité en a ordonné autrement Il faut justifier les admirations non méritées dont je suis l'objet. Cela me dégoûte singulièrement de mon état. Il me semble que je n'aurai plus de plaisir à écrire. Adieu, mon vieux camarade; je vous écrirài une autre fois. Aujourd'hui, je vous félicite seulement et je vous embrasse avec amitié.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

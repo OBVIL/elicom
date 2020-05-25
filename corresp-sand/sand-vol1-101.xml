@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1836-02-28" >28 février 1836</date>
+          <placeName>Bourges</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pelletan, Eugène (1813-1884)">A M.EUGÈNE PELLETAN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'ai reçu votre lettre hier seulement. Je n'habite"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai reçu votre lettre hier seulement. Je n'habite point Paris, et je n'habite rien les trois quarts de l'année.</p>
+        <p>Vous avez prodigieusement d'esprit, d'imagination et de talent. Mais votre simplicité est plus affectée que réelle.</p>
+        <p>Travaillez, vous êtes déjà poète, si, pour l'être, il suffit de faire très bien les vers. S'il y faut quelque chose de plus, vous êtes capable. de l'acquérir. Faites-vous imprimer quand vous l'aurez acquis. La plastique vous manque, vous le savez; cherchezla en tout. Byron et Goethe ne s'en sont pas affranchis dans leurs plus fougueuses compositions. Ne soyez d'aucune école, n'imitez aucun modèle. Ceux qui posent comme tels envient presque toujours les qualités du talent qu'ils censurent et éteignent chez leurs adeptes.</p>
+        <p>Fuyez Paris, c'est le tombeau des poètes et des artistes. Tout y est chic.</p>
+        <p>Le troupeau blanc des flots est admirable. De l'or avec ~M fer est détestable.</p>
+        <p>Rien faire qui vaille un sou n'aura jamais de grâce ni de sens.</p>
+        <p>De tout. de rien, du prix des moutons cette année est naïf et charmant, etc., etc.</p>
+        <p>Ne soyez pas un composé de noble et de plat, de grand et d'étriqué. Soyez correct, c'est plus rare que d'être excentrique par le temps qui court. Plaire par le mauvais goût est devenu'plus commun que de recevoir la croix d'honnenr.</p>
+        <p>Hugo, !e plus grand novateur de notre temps, n'a pas triomphé de ces bons classiques dont il s'est moqué, quoiqu'en mille endroits il ait été plus grand qu'eux. Les beautés de détai! ne sont rien sans l'ensemble.</p>
+        <p>Vivant comme je vis, je ne puis vous voir; mais je m'intéresse à vous. Cela vous est dû. Je vous souhaite et vous prédis de l'avenir, si vous êtes sévère envers vous-même, et patient. Si je puis vous obliger je le ferai de bon cœur.. Mais soyez sûr que, si vous produisez une bonne œuvre, vous n'aurez besoin de personne. Soyez sûr, au contraire, que toutes les amitiés littéraires ne feront pas un vrai succès à une production négligée.</p>
+        <p>Tout à vous.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <placeName>Nohant</placeName>
+          <date when="1815-02-24" >24 février 1815</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MÊME, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Nohant</placeName>,
+            <date>24 février 1815</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Oh! oui, chère maman, je t'embrasse; je t'attends, je te désire et je meurs d'impatience de te voirie! Mon Dieu, comme tu es inquiète de moi Rassuretoi, chère petite maman. Je me porte à merveille. Je profite du beau temps. Je me promène, je cours, je vas, je viens, je m'amuse, je mange bien, dors mieux et pense à toi plus'encore.</p>
+       
+        <p></p>
+        <closer>
+          <salute>Adieu, chère maman; ne sois donc point inquiète. Je t'embrasse de tout mon cœur.</salute>
+          <signed>
+            <name>
+              AURORE
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

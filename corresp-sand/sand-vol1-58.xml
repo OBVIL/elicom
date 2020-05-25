@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-11-06" >Paris, 6 novembre 1831</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">AU MÊME</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris.tir. Membre &lt;S3i."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris.tir. Membre &lt;S3i.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon enfant, J'ai été vraiment affligée (te manquer le plaisir de vous embrasser. Je vous l'ai dit, je vous aime comme vous m'aimez, sans égosme, et je me réjouis du bonheur de votre mère et du vôtre. Une autre fois, nous serons à même de nous voir davantage mais nous n'en avons pas besoin pour compter l'un sur l'autre. Il est très vrai que madame Bertrand m'a envoyé M. de Vasson la veille de mon départ, j'ai reçu d'elle une lettre qui s'efforçait d'être aimable. Elle me parlait d'abord de l'engagement pris d'aller passer trois .MM)M à Laleuf, cet automne, engagement que je savais bien ne pas exister. Ensuite elle remettait sa cause entre mes mains et me parlait de son Alphonse, comme si mon Maurice ne m'intéressait pas davantage. Puis elle me disait qu'elle ne savait pas votre adresse à Nimes, qu'elle ne voulait pas vous écrire avant de s'adresser à moi; ce qui prouve tout simplement qu'elle l'eût fait si elle eût pu savoir votre adresse. .Enfin elle daignait se rappeler que je lui avais offert ma place àiaChambre et me faisait des remerciments très gauches et très peu de saison. J'ai répondu en</p>
+        <p>peu de mots, poliment et froidement. Je ne sais comment elle aura pris ma lettre. J'ai conté le tout au père Duris-Dufresne, qui a trouvé comme moi qu'on aimait mieux ses enfants que ceux des autres. Je ne puis pas vous dire si je resterai ici peu ou beaucoup. Mon éditeur paye mal; cependant il paye, mais si lentement, que le travail des imprimeurs va de même. Je leur remets le manuscrit à mesure que j'en touche le prix, autrement je courrais risque de travailler pour l'honneur. C'est un méchant salaire quand on est si pauvre d'esprit et de bourse. Ce qu'il y a de sûr, c'est que je retournerai prés de mes chers enfants, aussitôt que je serai délivrée de ma besogne. Du reste, je vois avec plaisir que tous les déboires qu'on m'avait prédits dans cette carrière n'existent pas pour les gens qui vivent, comme moi, au fond de leur mansarde, sans autre ambition que celle d'un profit modeste. J'ai déjà assez vu les grands Sommes pour savoir qu'ils sont les plus petits de tous. Je les fuis comme la peste, excepté Henri de Latouche, qui est bon pour moi et que j'aime sincèrement. Je vis fort tranquille, je travaille à mon aise et je me porte bien maintenant. J'ai enfin réussi à me débarrasser de la fièvre qui m'a tourmentée pendant plus d'un mois. Il ne manque à mon bonheur que mes enfants et vous. Mais, si je vous avais ici, je serais trop bien et la destinée n'a pas coutume de me gâter de la sorte. Au reste, elle est sage. Elle me garde ce bonheur pour un avenir que je ne voudrais plus i2</p>
+        <p>affronter sans l'espérance que vous t'embeHIrez.' Adieu, cher enfant; j'embrasse vous, Maurice et ma Solange. Parlez-moi d'eux beaucoup, je vous en supplie..</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

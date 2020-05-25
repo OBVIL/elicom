@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1834-09-10" >10 septembre 1834</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Néraud, Jules (1795-1855)">A M. JULES NÉRAUD.A LA CHATRE</persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mon pauvre ami,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon pauvre ami, Tu avais entrepris de me. conseiller; de me prouver que la vie est supportable ton destin et le mien' se chargent de la réponse aux questions inquiètes que je t'adressais. Voilà ta vie'! voità' le' bonheur qu'on obtient à force de privations,, de résignation et d'efforts courageux. Tu n'en es que plus admirable, momami, de te soumettre à de tels ennuis.</p>
+        <p>Parle-moi de vertu, d'héroïsme: une autrefois, et non de raison ni d'espoir de' guérison. Tu souffres; tu vis, c'est bien. Mais', moi, je'n'ai! pas tant de.vertu. Tous tes' espoirs m'abandonnent; tous mes' sujets; de consolation tombent; dans&lt; l'abîme, ou tremblent battus des vents sur le bord, près d'y tomber à. leur tour. Je ne veux pas t'entretenir de ma tristesse tu es triste toi-même, et tes chagrins maintenant m'occupent plus que les miens. C'est donc à mon tour de te consoler et de t'encourager. Je ne l'aurais pas cru Mais pourquoi pas, au reste? J'ai fini pour mon compte, je m'en vais, je n'ai bMoin de rien. Toi, tu restes icibas.</p>
+        <p>Un tendre adieu, l'étreinte affectueuse d'une âme, qui ne se détachera jamais de toi, et qui priera pour toi dans une autre vie, peuvent adoucir ton épreuve. Eh bien, mon vieux ami; bénis Dieu qui t'a donné du courage et.ne; néglige pas ses. dons.</p>
+        <p>Il t'en coûtera peu, et cette séparation ne changera rien à notre sort;, car, depuis des années, nous vivons presque toujours éloignés et comme perdus l'un pour l'autre. Voifâ deux ans que nous ne nous étions vus, et, si j"avais à vivre, deux ans encore se passeraient peutêtre sans'que je revinsse au pays-. Quant à toi, mon ami, je désire, avant tout, que ton existence soit' la moins mauvaise possible. Ne. t'attriste plus de mes douleurs envoie-moi une l'arme ou un sourire, sur l'aile de quelque oiseau voyageur, qui laissera tomber ce don en passant sur' ma tête; soit que je ~l'orme sous le gazon, soit que, enlevant ma fillê, j'aille vivre en ermite à l'île Maurice oTt à fa Louisiane. Retourne tranquille à ton ajoupa, à fa brouette, à tes livres, à tes enfants surtout. G'onsole-tbi d'es enBuis comme tu sais le faire avec une bouffonne et i'nof~ fënsive pointe d'ironie contre là destfnée. Accomplis ta tâche.               Oü que je sois, je penserai' à for, et te bénirai de cette amitié qui, en toi, a survécu aux mécomptes, aux' contrariétés, auv obstacl'es, a l'absence et à mon apparent oubli.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

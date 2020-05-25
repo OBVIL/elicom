@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="On vous a dit que je portais CM&lt;o~, on vous a bien trompée; si vous passiez vingt-quatre heures ici, vous verriez bien que non. En revanche, je ne veux point qu'un mari porte mes jupes. Chacun son vêtement, ehacun sa liberté. J'ai des défauts, mon mari en a aussi, et, si je vous disais que notre ménage est le modèle des ménages, qu'il n'y,a jamais eu un nuage entre nous, vous ne le croiriez pas. Il y a dans ma position comme dans celle de tout le monde, du bon et du mauvais. Le fait est que mon mari fait tout ce qu'il veut; qu'il a des maîtresses ou n'en a pas, suivant son appétit qu'il boit du vin muscat ou de l'eau claire selon sa soif; qu'il entasse ou dépense, selon son goût; qu'il bâtit, plante, change, achète, gouverne son bien et sa maison comme il l'entend. Je n'y suis pour rien." resp="">On vous a dit que je portais CM&lt;o~, on vous a bien trompée; si vous passiez vingt-quatre heures ici, vous verriez bien que non. En revanche, je ne veux point qu'un mari porte mes jupes. Chacun son vêtement, ehacun sa liberté. J'ai des défauts, mon mari en a aussi, et, si je vous disais que notre ménage est le modèle des ménages, qu'il n'y,a jamais eu un nuage entre nous, vous ne le croiriez pas. Il y a dans ma position comme dans celle de tout le monde, du bon et du mauvais. Le fait est que mon mari fait tout ce qu'il veut; qu'il a des maîtresses ou n'en a pas, suivant son appétit qu'il boit du vin muscat ou de l'eau claire selon sa soif; qu'il entasse ou dépense, selon son goût; qu'il bâtit, plante, change, achète, gouverne son bien et sa maison comme il l'entend. Je n'y suis pour rien.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="les a-t-on pas noircis Quelles amertumes ne sont pas venues empoisonner votre brillante destinée Une mère indulgente et tendre qui vous eût ouvert ses bras à chaque nouveau chagrin et qui vous eût dit « Laisse les hommes te condamner; moi, je t'absous! laisse-les te maudire moi, je te bénis Que de bien elle vous eût fait! quelle consolation elle eût répandue sur les dégoûts et les petitesses de la vie t (...-...)">les a-t-on pas noircis Quelles amertumes ne sont pas venues empoisonner votre brillante destinée Une mère indulgente et tendre qui vous eût ouvert ses bras à chaque nouveau chagrin et qui vous eût dit « Laisse les hommes te condamner; moi, je t'absous! laisse-les te maudire moi, je te bénis Que de bien elle vous eût fait! quelle consolation elle eût répandue sur les dégoûts et les petitesses de la vie t</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="On vous a dit que je portais CM&lt;o~, on vous a bien trompée; si vous passiez vingt-quatre heures ici, vous verriez bien que non. En revanche, je ne veux point qu'un mari porte mes jupes. Chacun son vêtement, ehacun sa liberté. J'ai des défauts, mon mari en a aussi, et, si je vous disais que notre ménage est le modèle des ménages, qu'il n'y,a jamais eu un nuage entre nous, vous ne le croiriez pas. Il y a dans ma position comme dans celle de tout le monde, du bon et du mauvais. Le fait est que mon mari fait tout ce qu'il veut; qu'il a des maîtresses ou n'en a pas, suivant son appétit qu'il boit du vin muscat ou de l'eau claire selon sa soif; qu'il entasse ou dépense, selon son goût; qu'il bâtit, plante, change, achète, gouverne son bien et sa maison comme il l'entend. Je n'y suis pour rien."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>On vous a dit que je portais CM&lt;o~, on vous a bien trompée; si vous passiez vingt-quatre heures ici, vous verriez bien que non. En revanche, je ne veux point qu'un mari porte mes jupes. Chacun son vêtement, ehacun sa liberté. J'ai des défauts, mon mari en a aussi, et, si je vous disais que notre ménage est le modèle des ménages, qu'il n'y,a jamais eu un nuage entre nous, vous ne le croiriez pas. Il y a dans ma position comme dans celle de tout le monde, du bon et du mauvais. Le fait est que mon mari fait tout ce qu'il veut; qu'il a des maîtresses ou n'en a pas, suivant son appétit qu'il boit du vin muscat ou de l'eau claire selon sa soif; qu'il entasse ou dépense, selon son goût; qu'il bâtit, plante, change, achète, gouverne son bien et sa maison comme il l'entend. Je n'y suis pour rien.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je trouve tout fort bon, parce que je sais qu'il a de l'ordre, qu'il est plutôt économe que prodigue, qu'il aime ses enfants et qu'il' ne 'songe qu'à eux dans tous ses projets. Je n'ai pour lui, vous le voyez, que de l'estime et de la confiance, et, depuis que je lui ai entièMment abandonné l'autorité des.biens, je ne crois pas~</p>
+        <p>~u'on puisse me soupçonner encore de vouloir le dominer.</p>
+        <p>Il me faut peu de chose la même pension, la même aisance qu'à vous. Avec mille écus par an, je me trouve assez riche, moyennant que ma plume me fait déjà un petit revenu. Du reste, il est bien juste que cette grande liberté dont jouit mon mari soit réciproque sans cela, il me deviendrait odieux et méprisable c'est ce qu'il ne veut point être. Je suis donc entièrement indépendante; je me couche quand il se lève, je vais à la Châtre ou à Rome, je rentre à minuit ou à six heures; tout cela, c'est mon affaire. Ceux qui ne le trouveraient pas bon et vous tiendraient des propos sur mon compte, jugez-les avec votre raison et avec votre cœur de mère; l'un et l'autre doivent être pour moi.</p>
+        <p>J'irai à Paris cet été. Tant que vous me témoignerez que je vous suis agréable et chère, vous me verrez heureuse et reconnaissante. Si je trouve autour de vous des critiques amères, des soupçons offensants (vous comprenez que ce n'est pas de vous que je les crains), je laisserai la place au plus puissant, et, sans vengeance, sans colère, je jouirai de ma conscience et de 'ma liberté. Vous avez trop d'esprit pour ne pas reconnaître bientôt que je ne mérite pas toute cette dureté.</p>
+        <p>Adieu,.chère petite maman; mes enfants se portent bien; ma fille est belle et mauvaise, Maurice est maigre et bon. Je suis contente de son caractère et de</p>
+        <p>son travail. Je gâte un peu ma grosse fille l'exemple de Maurice, qui est devenu si doux, me rassure pour l'avenir.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              <signature>Écrivez-moi, chère maman; je vous embrasse de toute mon âme.</signature>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

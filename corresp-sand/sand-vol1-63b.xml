@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1833-05">mai 1833</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Papet, Gustave (1812-1892)">A MONSIEUR GUSTAVE PAPET</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Chère mère,"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A N. GUSTAVE PAPET. A PARIS</p>
+                <p>Paris, mai 1833.</p>
+                <p>Cher Gustave,</p>
+                <p>Je compte sur toi. c'est-à-dire sur vous. non,, c'est-à-dire sur toi, pour dîner avec nous dimanche</p>
+                <p>prochain et tous les dimanches subséquents, tant que' Paris aura le bonheur de vous posséder.</p>
+                <p>Est-ce vous qui êtes venu pour me voir cette semaine? Voici les indications de ma bonne a Un jo li jeune homme qui n'a pas voulu dire son nom et qui avait une badine à la main. Cette badine m'a paru le signe particulier du signalement et se rapporter évidemment à votre caractère badin.</p>
+                <p>Hein, si l'on voulait s'en mêler?</p>
+                <p>A demain donc. mon ami,</p>
+                <p>Ton camarade</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            AURORE.
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

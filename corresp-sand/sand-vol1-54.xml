@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-07-19">19 juillet 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Duvernet, Charles (1807-1874)">A M. CHARLES DCVERNET,A LA CHATRE.</persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mon bon Charles,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon bon Charles, Soyez miséricordieux et pardonnez à la lenteur de mes lettres. Je suis enfin installée quai Saint-Michel, 25, et j'espère désormais ne plus m'exposer au remords de laisser sans réponse prompte vos lettres bonnes et aimables. Je vous laisse à penser ce qu'il a fallu de mémoire, de jambes, de patience et de temps, pour acheter tout un petit ménage depuis la pelle jusqu'aux mouchettes c'est à n'en pas finir. Le pis de tout cela, c'est l'argent que cela coûte. J'aurais tort de me plaindre pourtant. Je n'ai rien payé et je payerai s'il plaît à Dieu.</p>
+        <p>Le Gaulois et moi comptons sur une bonne Hiefte :patriotique, ou. sur un bon cho!éra-morbus, qui nous délivrera de Finfâme sequelle des créanciers. .D'ailleurs, n'à!!ons-nous pas avoir la république? ot le premier article de la nouvelle Charte portera, J'espère, que les dettes sont supprimées et tous .les créanciers déportés. Nous leur faisons grâce de la vie, parce que nous sommes grands et généreux, .mais qu'ils ne s'avisent jamais de rappeler le passé! '(H n'y que des, carlistes et des jésuites capables de 'tant de ressentiment.)Nos créanciers, s'ils veulent éviter la guillotine, qui est, comme chacun sait, s~Mr de liberté, doivent nous délivrer à tout jamais de leur odieuse présence, et purger le sol de la patrie régénérée de leur impur et stupide traHc. Tel sera le texte du premier discours du Gaulois à ia prochaine assem.blée constituante.</p>
+        <p>Mon bon camarade, pourquoi ne travaillez-vous 'ptus? Évitez du moins l'ennui, ne fût-ce qu'en taillant des cure-dents. Planet en fait une consommation qui vous tiendra en haleine: Si vous n'avez pas l'espoir de succéder à votre père et que les 'chiffres vous rebutent, faites autre chose; lisez, instruisez-vous, la vie est toujours trop courte pouf tout ce qu'on peut apprendre. Ecrivez des romans, des comédies, des proverbes,, des drames tout cela vous fera travailler sans ennui et vous forcera à des recherches historiques qui vous arriveront pleines 'd'intérêt et de vie.</p>
+        <p>S'ennuyer je ne le conçois pas pour vous. Être triste c'est différent, cela. Cette solitude, les dégoûts de cette petite existence. de la province, sont bien faits potir serrer le cœur. J'en sais quelque chose. Quelque chose seulement, car j'ai une ressource immense la société de mes enfants. Vous, tout seul, tout rêveur, sans un ami qui vous comprenne bien, souffrant de ces peines sans nom que le vulgaire regarde comme une manie et une affectation, cherchant à répandre votre cœur dans un cœur de la même nature, et ne trouvant que de bonnes et simples âmes qui vous disent d'un air surpris « Comment! vous vous plaignez? n'êtes-vous pas riche? A votre place, je serais heureux! o etc.</p>
+        <p>Eh bien, je vous vois d'ici et je sais tout ce que vous devez souffrir. L'isolement tue les âmes actives. tl énerve le caractère; mais il redouble le feu intérieur et joint, au tourment de désirer, le tourment de ne pouvoir pas vouloir.</p>
+        <p>N'est-ce pas là où vous en êtes souvent? Je n'ose. pas vous dire &lt;ï Sortez-en, venez à nous s Mais combien je le désire! nous vous aimons comme vous méritez d'être aimé. Je crois qu'au milieu de nous, vous reprendrez vite à la vie. Écrivez donc souvent et beaucoup; vous avez toujours le temps, vous. Si vous allez à Nohant, dites donc à Boucoiran que mon fils m'écrit bien peu, et que cela'me fait beaucoup de peine.</p>
+        <p>Adieu, mon ami. Écrivez, ou faites mieux, venez 1</p>
+        <p>Je n'ai pas acheté la natte de votre mère, ni les lunettes pour Decaudin. J'ai une raison honteuse, secrète, mais invulnérable. Je n'ai pas un sou. Je paye écu par écu mes damnés marchands. 0 Misère je te ferai élever un temple si tu me quittes un jour; car ceux que tu hantes sont plus heureux qu'on ne pense</p>
+        <p>Le Gaulois m'a défendu de fermer ma lettre, disant qu'il voulait vous écrire. C'est une raison pour n'y pas compter.  Le voilà! Il dit qu'il vous écrira dematM vous connaissez le demain du Gaulois.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+             
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

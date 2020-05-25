@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1835-10-25" >25 octobre 1835</date>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Madame,"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A MADAME MAURICE DUPIN, A PARIS</p>
+                <p>Nohant.SS oetobre &lt;835.</p>
+                <p>Ma chère maman,</p>
+                <p>Je vous dois, à vous la première, l'exposé de faits</p>
+                <p>que vous ne devez point appendre par la voie publique. J'ai formé une demande en séparation contre mon mari. Les raisons en sont si majeures, que, par</p>
+                <p>égard pour lui,, je ne vous les détaillerai pas. J'irai à Paris dans quelque temps et je vous prendrai vousmême pour juge de ma conduite. Dans mon intérêt, dans le sien propre, et dans celui de mes enfants, je crois que j'ai bien fait. Dudëvant sent que sa cause est mauvaise car il n'essaye pas de la défendre, il retourne à Paris dans quelques jours, pendant que tes tribunaux prononceront le jugement.</p>
+                <p>Si vous le voyez, ne paraissez point informée de ce qui se passe; car son amour-propre, qui souffre déjà beaucoup, pourrait être irrité s'il pensait que je me livre contre lui à des récriminations. H me susciterait peut-être alors quelque chicane qui produirait du scandale et n'améliorerait pas sa position. D'ailleurs, vous ne désirez pas que je perde un procès à la suite duquel je me trouverais à sa disposition. J'ai mille chances pour le gagner; mais une seule peut m'être contraire, et c'est assez pour succomber.</p>
+                <p>Soyez donc prudente car il ira sans doute près de vous dans l'intention de se justifier ou de vous sonder. Ayez l'air, chère maman, de ne rien savoir. Quant à moi, sans avoir l'intention de l'accuser inutilement, je croirais manquer à mon devoir, si je ne vous informais pas de ma situation dans une circonstance si grave.</p>
+                <p>Voici quels seront les résultats du jugement que j'espère obtenir et dont il a posé ou accepté toutes les clauses. Je lui ferai une pension de trois mille huit cents francs qui, jointe à douze cents francs de rente</p>
+                <p>(seul reste de cent mille francs qu'il possédait), lui constituera cinq mille francs par an. En outre, je payerai et je dirigerai l'éducation de mes deux enfants. Vous voyez que sa position est très honorable.</p>
+                <p>Ma fillë sera exclusivement sous ma gouverne; mon Sis restera au collège et passera un mois de vacances avec son père, l'autre mois avec moi. Tous deux ignoreront la séparation prononcée; ce sont des choses faciles à leur cacher, inutiles et fàcheuses même à leur dire, et, si mon mari respecte les. convenances et les devoirs, ni l'un ni l'autre des enfants n'apprendront à aimer l'un de nous aux dépens de l'autre.</p>
+                <p>Moyennant ces arrangements, Dudevant laissera agir les lois sans batailler, et, si la loi me donne gain de cause, comme cela n'est pas douteux, je rentrerai dans ma liberté et dans ma dignité. Mes biens seront certes mieux gérés qu'ils ne l'étaient par lui, et ma vie ne sera plus exposée à des violences qui n'avaient plus de frein.</p>
+                <p>Rien ne m'empêchera de faire ce que je dois et ce que je veux faire. Je suis la fille de mon père, et je me moque des préjugés, quand mon cœur me commande la justice et le courage. Si mon père eût éccuté les sots et les fous de ce monde, je ne serais pas l'héritière de son nom c'est un grand exemple d'indépendance et d'amour paternel qu'il m'a laissé, je le suivrai, dût l'univers s'en scandaliser. Je me</p>
+                <p>soucie peu de l'univers, je.me soucie de Maurice et de Solange.</p>
+                <p>Quand vous voudrez venir à Nohant, vous y serez à l'avenir chez moi, et, si l'ennui de vivre seule vous prend, vous pourrez vous y retirer et en faire votre CÂM MMS.Je compte aussi m'y établir avec ma fille, m'occuper de son éducation et ne plus aller à Paris que de temps à autre, pour vous voir, ainsi que mon fils. Veuillez ne parler à personne du contenu de cette lettre, à moins que ce ne soit a Pierret, qui comprendra ce que la prudence dicte en pareil cas. Je n'en écrirai pas encore à ma tante sa maison est trop nombreuse pour qu'il n'en transpire pas quelque chose par étourderie, et Dudevant pourrait croire que je veux indisposer toute ma famille contre lui. Adieu, ma mère; je vous embrasse de toute mon âme. Donnez-moi de vos nouvelles, poste restante à !a. Châtre.
+                </p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

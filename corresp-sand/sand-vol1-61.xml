@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-01">janvier 1832</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Rollinat, François (1806-1867)">A M. FRANÇOIS ROLLINAT</persName>
+          <placeName>CHATEAUROUX</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mon cher Rollinat,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Mon cher Rollinat,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je vous ai écrit avant-hier un mot et je vous de-</p>
+        <p>mandais une réponse directe. Êtes-vous absent de Chàteauroux, ou bien le courrier a-t-il perdu ma lettre ? H est sujet à cette infirmité. Il en est de m~me tbus les étés. C'est au point qu'il en a semé toute la route depuis Nohant jusqu'à Chàteauroux, et qu'il en pousserait si ce n'était de mauvais grain.</p>
+        <p>C'était pour vous demander l'àdresse de Charles* à' Paris. J'ai une commission pressée à lui donner. Répondez-moi, si vous êtes vivant, mais répondez-moi poste restante d Châtre.'</p>
+        <p>b</p>
+        <p>Ce courrier est un drôle!  Bonsoir, mon bon petit avocat. Je vous donne ma très sainte bénédiction.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1836-03">mars 1836</date>
+          <placeName>La Châtre</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guéroult Adolphe (1810-1872)">A M. ADOLPHE GUEROULT</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+           
+            
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'admire beaucoup vos perplexités à propos du titre que vous devez me donner. 11 me semble que je m'appelle George et que je suis votre ami, ou votre amie, comme vous voudrez. Je n'entends rien aux compliments. Si je n'avais pas pour vous estime, attachement et confiance, je ne vous aurais pas témoigné confiance, estime et attachement. Après cela, je ne sais plus ce qui peut vous gêner, et vous prie de vous souvenir que je ne suis pas bégueule. Ainsi appelezmoi comme il vous plaira; mais écrivez-moi pour me parler de vous et de mes mioches. Merci mille fois de l'amitié que vous leur accordez. Ils n'en sentent pas le prix maintenant; mais j'acquitterai leur dette d'affection et de reconnaissance tant que je vivrai. Ils sortiront tous deux aux vacances de Pâques, et vous serez à même de voir Maurice chez Buloz. Emmenez-le quelquefois promener avec vous pour décharger Buloz d'un si lourd fardeau, et rendez-moi bon compte de la conduite de monsieur mon fils. Mo20.</p>
+      <p>Serez-vous assez bon pour conduire son frère auprès d'elle quand il voudra et pour le ramener chez Buioz ensuite, ou au moins pour surveiller ses allées et venues, de manière qu'il ne soit qu'avec des personnes sûres, qui ne le perdront pas en chemin. Je compte sur vous, sur Papet, sur Boucoiran et sur Buloz.</p>
+        
+        <p>Je ne puis, quelque chagrin que j'éprouverai vous perdre pour longtemps peut-être, vous dissuader du voyage en Égypte. Voyager, c'est apprendre~; savoir, c'est exister. Vous n'irez pas en Orient et vous n'en reviendrez pas sans avoir acquis beaucoup de connaissances qui vous feront très supérieur à ce que vons êtes déjà. Les gens du monde et les femmes voyagent sans fruit; il n'en sera pas ainsi de vous. Vous observerez, vous verrez différentes races d'hommes, diffé rents modes d'organisation sociale. Vous ne négligerez pas d'apprendre !"ur histoire, si vous ne la savez i. Madame MMêcM.</p>
+        <p>déjà, et d'examiner leurs penchants, leurs habitudes. Vous saurez tout cela, et, quelque talent, quelque mérite que je vous reconnaisse, vous ne changerez pas la face du monde d'une manière bien importante ou bien utile. J'ai mes idées là-dessus. Je n'espère M ne désire vous les faire partager; car ce sont des idées. qui font souffrir ceux qui les ont et qui ne servent à rien pour les autres. Mais je suis sûre que vous reviendrez plus avancé, plus rempli, par conséquent plus calme et plus apte aux choses réelles.</p>
+        <p>Le seul inconvénient que je voie à cette détermination, c'est qu'un séjour nouveau avec des chefs saintsimoniens augmentera en vous le sentiment de fanatisme pour des hommes et des noms propres. Je n'aime pàs ce sentiment, je le trouve petit, ravalant et niais. Je l'éprouve souvent, et il n'y a pas vingt-quatre heures que j'ai eu une forte lutte à soutenir contre moi-même pour m'en défendre, en présence d'um homme politique d'un très grand aspect.</p>
+        <p>Je ne me suis enrôlée sous le drapeau d'aucun meneur, et, tout en conservant estime, respect et admiration pour tous ceux qui professent noblement une religion, je reste convaincue qu'il n'y a pas sous le ciel. d'homme qui mérite qu'on plie le genou devant lui. Mettez-vous au service d'une idée, et non pas au pouvoir d'Enfantin. Les idées se modifient et s'élargissent eu présence de la vérité. Les systèmes rêvés par des individus sont toujours arrêtés au beau milieu du progrès par la fantaisie, l'erreur ou l'impuissance du.</p>
+        <p>Créateur, qui ne veut pas de rébellion chez ses créatures. Prenez bien garde à cela.</p>
+        <p>J'ai causé avec les saint-simoniens, avec les carlistes, avec Lamennais, avec Coëssin, avec le juste milieu, et, hier, avec Robespierre en personne. J'ai trouvé chez tous ces hommes de grandes doses de vertu, de probité, d'intelligence et de raison, et celui qui m'a le plus agitée, c'est celui dont je hais le plus les idées et dont j'admire le plus l'individualité. C'est le dernier, ce qui prouve qu'il est facile d'égarer les hommes et d'abuser des dons de Dieu; mais je fais serment devant lui que, si l'extrême gauche vient à régner, ma tête y passera comme bien d'autres, car je dirai mon mot.</p>
+        <p>Ce que je vois au milieu de ces divergences de sectes rénovatrices, c'est un gaspillage de sentiments généreux et de pensées élevées; c'est une tendance à l'amélioration sociale; une impossibilité de produire pour le moment, faite de tête à ce grand corps aux cent bras, qui se déchire lui-même, ne sachant à quoi s'attaquer. Ce conflit ne fait encore que bruit et poussière. Nous ne sommes pas dans l'ère où il construira des sociétés, et les peuplera d'hommes perfectionnés. Croyez le contraire si vous voulez. L'espérance est chose bonne et fortiGante. Mais, plus vous croirez à un prochain succès, plus vous devez le hâter par des ef%rts inouïs. Travaillez à élargir vos cerveaux. Ce qui fous perd tous, c'est leur étroitesse. Vous n'y pouvez léger qu'un plan de campagne. Quand le terrain change</p>
+        <p>de nature, vous ne savez pas changer de sentier. Vous avez un drapeau au bout de votre lance, un nom sur la langue, une formule dans la tête, et vous vous faites un point d'honneur imbécile et fatal de n'en pas changer à mesure que vous vous éclairez.</p>
+        <p>Je voudrais voir un homme d'intelligence et de cœur chercher partout la vérité et l'arracher par morceaux à chacun de ceux qui l'ont dépecée et partagée entre eux. Je voudrais le voir passer par.toutes les sectes pour les connaître et les juger. Je voudrais qu'au lieu de le mépriser et de le railler pour sa mobilité, les hommes l'écoutassent comme le plus éclairé et le plus zélé des prêtres de l'avenir. Mais on fait une vertu de l'obstination, cela convenant aux passions des uns, à l'ignorance des autres. Si vous n'êtes pas d'une organisation magnifique pour être un chef (et vous êtes d'une nature cent fois trop élevée pour être un soldat), n'ayez ni présomption folle ni servilisme d'humilité. Vous n'êtes donc destiné ni à commander ni à servir. Souvenez-vous de ce que je vous dis un jour, vous ne croirez plus à aucune secte religieuse, à aucun parti politique, à aucun système social. Vous ne verrez pour les hommes qu'une possibilité d'amélioration soumise à mille vicissitudes. Vous verrez qu'il faut, pour les abriter, un toit de pierre, de paille ou de papier suivant la saison, mais qu'ils étoufferaient vite dans vos palais de diamant, rêves de jeunesse 1</p>
+        <p>Allez toujours, vivez! Aidez à fournir une pierre</p>
+        <p>pour un édincc qui ne sera jamais ni parfait ni solide, mais auquel travailleront de mieux en mieux les générations futures. Travaillez pour que ce qui va mal aille tant soit peu mieux, mais travaillez sans trop d'orgueil. II vous arriverait plus tard, en voyant le peu que vous avez pu, de tomber dans le découragement, comme vous avez déjà fait par moments; et convenez que, dans ces moments-là, vous êtes sensiblement au-dessous de vous-même.</p>
+        <p>Il ne serait pas impossible qu'au milieu de tous mes sermons, je me misse aussi à labourer le champ avec une épingle noire et un cure-dent. Ne partez pas trop vite pour l'Egypte. Il est possible que je m'y fasse envoyer pour tâcher d'opérer une fusion entre cette nuance et une autre.</p>
+        <p>Ma vie de femme est finie, et, puisqu'on m'a fait une petite réputation et une sorte d'influence (que je n'ai ni ambitionnée ni méritée), il m'arrivera peutêtre de faire aussi de mon coté un métier de jeune homme.</p>
+        <p>J'ai regret à ces trésors de vertu et de courage qui s'isolent les uns des autres, et, si je pouvais réussir à fondre ensemble le produit de cinq paires de bras, je croirais avoir assez fait pour ma part, eu égard à la. force des miens. Ne parlez de cela à personne et attendez-moi jusqu'au mois de mai. Je vous dirai où j'en suis. Adieu, mon ami. A vous de tout cœur.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

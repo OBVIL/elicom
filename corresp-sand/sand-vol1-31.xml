@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-11-22" >22 novembre 1830</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A CHARLEVILLE</persName>
+          <placeName>Charleville</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Ma chère patite maman</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous êtes bien paresseuse. Si je ne vous savais en bonnes mains et en sûreté à Charleville, je serais inquiète de vous. Par ce temps-ci, oh ne sait qui vit ni qui meurt. H y a des troubles de tous les côtés; notre pays, tout pacifique qu'il est d'ordinaire, se mêle aussi de remuer. Des émeutes assez sérieuses ont eu lieu à Bourges, à Issoudun, voire à la Châtre; c'est là, par exemple, qu'elles ont été le plus vite apaisées tout s'est tourné en plaisanterie. Bien des gens ont fui de peur, cependant; chaque chose a son côté ridicule dans ta vie.</p>
+        <p>Je me sens peu disposée à m'effrayer de l'avenir si noir qu'on nous prédit. La frayeur grossit les objets et ces hommes sanguinaires, vus de près, ne sont, la moitié du temps, que des ivrognes, qu'on met en gaieté avec du vin et qui n'égorgeront personne. Ils font grand bruit et peu de mal, quoi qu'on en dise; cependant, je suis bien aise que vous ne soyez pas à Paris. Vous y êtes très isolée, et, dans cette position, il est naturel qu'on ne soit pas rassuré. La peur fait mal,</p>
+        <p>elle rend malade. Reposez-vous donc auprès de vos enfants, mais n'oubliez pas les absents et parlez-moi un peu plus souvent de vous et d'eux.</p>
+        <p>Oscar est-il au collège? La santé de Caroline se raffermit-elle? Votre présence, qu'elle désirait vivement, a dû être pour elle le meilleur des remèdes, et puis ce beau temps est excellent pour les poitrines délicates. Soignez-la bien, elle vous le rendra; mais faites en sorte de n'en avoir pas besoin.</p>
+        <p>J'ai été assez malade depuis ma dernière lettre Je cours du matin au soir pour me dédommager de t'ennui de souffrir.</p>
+        <p>Ma bette-sœur' ne court guère, on peut même dire pas du tout. Elle est dôuce et bonne, point exigeante elle se lève tard, et nous ne nous voyons qu'au moment du diner. C'est toujours avec plaisir et bonne intelligence. Nous passons la soirée ensemble, soirée qui n'est pas longue; car elle se retire à neuf heures, et, moi, je vais écrire ou dessiner dans mon cabinet, tandis que mes deux marmots ronflent à qui mieux mieux. Solange est superbe de graisse et de fraîcheur. Je doute qu'elle soit jolie elle a la bouche grande et le front saillant; mais elle a de jolis yeux, un petit nez et la peau comme du satin. Je crois que ce sera une bonne gaillarde berrichonne. Maurice travaille bien. Il écrit l'orthographe passablement et son caractère gagne beaucoup. Léontine 1. Madame Hippolyte Chatiron.</p>
+        <p>est aussi très; gentille; enfin, notre ménage va au mieux, mais je crains que nous ne soyons forcés de nous séparer bientôt. Hippolyte est à Paris depuis quelques jours, il devait y passer une quinzaine et revenir à présent, il nous mande qu'il sera forcé d'y rester tout à fait, à cause de l'obligation de faire partie de la garde nationale. Les troubles fréquents qui éclatent à Paris contraignent ce corps à une grande activité. C'est un devoir d'homme d'en faire partie. dans un temps d'agitations et de désordres civils. Il a vu' Pierret, qui venait de monter trente heures de garde; il était sur les dents. Si mon frère ne peut revenir de l'hiver,. proba-.blement sa femme voudra l'aller rejoindre. Je' verrais cette séparation avec regret; l'habitude nous avait déjà rendus nécessaires tes uns aux autres; du moins, je le sens ainsi pour ma part; c'est un besoin pour moi de m'attacher à ceux qui m'entourent. Pardon de mon bavardage et de mon barbouillage. A propos, vous occupez-vous toujours de peinture, distraction agréable dont vous vous tirez fort bien? Le mot barbouillage; que je fais suivre d'un propos assez impertinent, ne peut's'appliquer qu'à moi. Je. fais des fleurs qui ont l'air de potirons, mais ça m'amuse.</p>
+        <closer>
+          <salute> Adieu, ma chère petite mère je vous embrasse de de toute mon âme. Émilie, mon mari et les enfantsi se joignent à moi et vous chargent d'embrasser Caroline, Oscar et Cazamajou.
+          </salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

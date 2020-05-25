@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1835-05" >mai 1835</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="d’Agoult, Marie (1805-1876)">A MADAME LA COMTESSE D'AGOULT</persName>
+          <placeName>Genève</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Ma belle comtesse aux beaux cheveux blonds, Je ne vous connais pas personnellement, mais j'ai entendu Franz~ parler de vous et je vous ai vue. Je crois que, d'après cela, je puis sans folie vous dire que je vous aime, que vous me semblez la seule chose belle, estimable et vraiment noble que j'aie vue briller dans la sphère patricienne. Il faut que vous soyez en effet bien puissante pour que j'aie oublié que vous êtes comtesse."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Ma belle comtesse aux beaux cheveux blonds, Je ne vous connais pas personnellement, mais j'ai entendu Franz~ parler de vous et je vous ai vue. Je crois que, d'après cela, je puis sans folie vous dire que je vous aime, que vous me semblez la seule chose belle, estimable et vraiment noble que j'aie vue briller dans la sphère patricienne. Il faut que vous soyez en effet bien puissante pour que j'aie oublié que vous êtes comtesse.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mais, à présent, vous êtes pour moi le véritable: type de la princesse fantastique, artiste, aimante et noble de manières, de langage et d'ajustements, comme les filles des rois aux temps poétiques. Je vous vois comme cela, et je veux vous aimer comme vous êtes et pour ce que vous êtes.</p>
+        <p>Noble, soit, puisqu'en étant noble selon les mots. vous avez réussi à l'être suivant les idées, et puisqu comtesse vous m'êtes apparue aimable et belle, doue' t. Madame la comtesse d'AgonIt (Daniel Stern), auteur dela Révolution de 1848, do F~Otre des Pays-Bas, des E&lt;?«tMM moratM, etc., etc.</p>
+        <p>3.. Franz Liszt.</p>
+        <p>comme la Valentine que j'ai rêvée autrefois, et plus intelligente; car vous l'êtes diablement trop, et c'est le seul reproche que je trouve à vous faire. C'est ce. lui que j'adresse à Franz, à tous ceux que j'aime. C'est un grand mal que le nombre et l'activité des idées. Il n'en faudrait guère dans toute une vie on aurait trouvé le secret du bonheur.</p>
+        <p>Je me nourris de l'espérance d'aller vous voir, comme d'un des plus riants projets que j'aie caressés dans ma vie. Je me figure que nous nous aimerons réellement, vous et moi, quand nous nous serons vues davantage. Vous valez mille fois mieux que moi; mais vous verrez que j'ai le sentiment de tout ce qui es[ beau, de tout ce que vous possédez. Ce n'est pas ma aute. J'étais un bon blé, la terre m'a manqué, les cailloux m'ont reçue et les vents m'ont dispersée. Peu importe! le bonheur des autres ne me donne nulle aigreur. Tant s'en faut. Il remplace le mien. H me réconcilie avec la Providence et me prouve qu'elle ne maltraite ses enfants que par distraction. Je comprends encore les langues que je ne parle plus, et, si je gardais souvent le silence près de vous, aucune de vos paroles ne tomberait cependant dans une oreille indifférente ou dans un cœur stérile.</p>
+        <p>Vous avez envie d'écrire? pardieu, écrivez! Quand vous voudrez enterrer la gloire de Miltiade, ce ne sera pas difficile. Vous êtes jeune, vous êtes dans toute la force de votre intelligence, dans toute la pureté de votre jugement. Écrivez vite, avant d'avoir</p>
+        <p>pensé beaucoup; quand vous aurez rénéchi a tout, vous n'aurez plus de goût à rien en particulier et vous écrirez par habitude. Écrivez, pendant que vous avez du génie, pendant que c'est le dieu qui vous dicte, et non la mémoire. Je vous prédis un grand succès. D'eu vous épargne les ronces cm gardent les fleurs ocrées du couronnement! Et pourquoi les ronces rattacheraient-elles à vous? Vous êtes de diamant, vous à qui les passions haineuses et vindicatives ne sont pas plus entrées dans le cœur qu'a moi, et qui, en outre, n'avez pas marché dans le désert. Vous êtes toute fraîche et toute brillante.</p>
+        <p>Montrez-vous. S'il faut des articles de journaux pour faire lire votre premier livre, j'en remplirai les journaux. Mais, quand on l'aura lu, vous n'aurez plus besoin de personne.</p>
+        <p>Adieu parlez de moi au coin du feu. Je pense à vous tous les jours, et je me réjouis de vous savoir aimée et comprise comme vous méritez de l'être. Écrivez-moi quand vous en aurez le temps. Ce sera un rayon de votre bonheur dans ma solitude. Si je suis triste, il me ranimera; si je suis heureuse, i me rendra plus heureuse encore; si je suis calme, comme c'est l'état où l'on me trouve le plus habituellement désormais, il me rendra plus religieux l'aspect de la vie.</p>
+        <p>Oui, tout ce que Dieu a donné à l'homme lui est bon, suivant le temps, quand il sait l'accepter. Son &amp;me se transforme sous la main d'un grand artiste</p>
+        <p>qui sait en tirer tout le parti possible, si l'argile ne résiste pas à la main du potier. Adieu, chère Marie. Ave, Maria, gratià plena;l,. </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              GEORGE.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

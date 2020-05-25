@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-03-22">22 mars 1830</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">AU MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant, 92 mars 1830."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 22 mars 1830.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je suis fort contente de votre lettre, mon cher enfant. Avant tout,je veux vous dire de venir me voir avant de retourner à Paris. Il faut même vous arranger de manière à passer quelque temps chez nous. Les enfants écrivent assez bien pour que vous leur appliquiez la méthode d'orthographe dont vous m'avez parlé. Ne le voulez-vous pas? Vous savez le plaisir que vous me ferez en acceptant ma proposition. Vous convenez de trop bonne grâce de tous vos torts, je ne puis vous gronder bien haut. Mais un défaut qu'on avoue n'est qu'à moitié corrigé. Il faut mettre la main à l'oeuvre et s'en débarrasser au plus tôt. Dans votre autre lettre, vous doutiez de ma patience.</p>
+        <p>Vous ne vous trompez guère. J'en ai une inépuisable pour certaines contrariétés et pour les douleurs physiques; mais, en ce qui concerne Maurice, je n'en ai pas du tout. Ce serait pourtant bien le cas ou ja-</p>
+        <p>mais d'en avoir. Je prends tellement à cœur ses progrès, que je me désespère promptement, et j'ai bien tort. Je disais aussi, comme vous; que cela tient à ma constitution, au climat, à la digestion, etc. Pourtant, ce serait une pauvre défaite, puisqu'il est beaucoup d'occasions où je réussis à dompter l'emportement de mon caractère. Ce qu'on a pu une fois, on le peut plus d'une fois, et l'habitude le fait pouvoir presque toujours. J'espère en venir là pour mes impatiences, de même que vous avec votre apathie. La douceur m'est nécessaire pour faire quelque chose de mon fils; un stimulant vous l'est aussi pour faire quelque chose de vous-même. L'éducation de Maurice commence, la vôtre n'est pas finie. Si vous y consentez, je vous donnerai votre tâche quand vous serez ici, et je vous autorise à vous moquer de ..moi quand vous me verrez en colère. Mais déjà je ue suis beaucoup amendée.</p>
+        <p>Le second paragraphe de votre réponse n'est pas clair. Vous me promettez de me l'expliquer dans un an; à la bonne heure</p>
+        <p>Le troisième est un raisonnement si l'on. veut. Il ,1 vous suffira de le relire pour voir comme il est solide. Vous dites ([.le suis franc, parce que je laisse voir aux gens qu'ils me déplaisent. J'abhorre la dissimulation, et je serais hypocrite, si j'agissais autrement. Voità. qui. est bien d'une tête dé vingt ans croyez-vous, mon enfant, que je sois perfide et menteuse? croyez-vous que je n'aie pas bien des fois en ma vie ressenti des</p>
+        <p>mouvements d'étoignement et d'indignation envers certaines gens ? Sans doute cela m'est arrivé; mais, avant de le leur témoigner, j'ai réfléchi.</p>
+        <p>Je me suis demandé sur quoi étaient fondées mes aversions, et j'ai presque toujours reconnu que l'amour-propre m'exagérait là différence entre moi et ces gens-là, la supériorité usurpée sur eux. Je ne parle pas des assassins et des voleurs que j'ai eu l'honneur de fréquenter. Je les mets à part. Ils ont bien des motifs d'excuse et de compassion inutiles à dire ici. Je vous permets bien, du reste, de les considérer avec horreur, pourvu que cette indignation ne vous rende pas inflexible et inhumain envers ces hommes dégradés, qu'on doit encore secourir, pour les empêcher de se dégrader de plus en plus. Il n'estquestion ici que de ces travers, de ces vices même qu'on rencontre dans la société, dans toutes les sociétés, avec cette seule différence qu'ils sont plus ou moins voilés.</p>
+        <p>Eh bien, si vous étiez un peu moins jeune, si vous aviez plus d'habitude de rencontrer de ces gens à chaque pas (c'est là en quoi consiste ce qu'on appelle e-rperMUce), si vous aviez examiné tout en les jugeant, vous seriez beaucoup moins sévère pour eux; sans cesser d'être rigidement vertueux pour vousmême.</p>
+        <p>Considérez que vous avez vingt ans, que la plu.part des gens dont les travers vous choquent ont vécu trois ou quatre fois voyage, ont paes~ par mille</p>
+        <p>épreuves dont vous ne savez pas encore comment vous sortiriez, ont manqué peut-être de tous les moyens de salut, de tous les exemples, de tous les secours qui pouvaient les ramener ou les préserver. Que savez-vous si vous n'eussiez pas fait pis à leur place, et voyez ce qu'est l'homme livré à lui-même?</p>
+        <p>Observez-vous avec sévérité, avec attention, pendant une journée seulement Vous verrez combien de mouvements de vanité misérable, d'orgueil rude et fou, d'injuste égoïsme, de lâche envie, de stupide présomption, sont inhérents à notre abjecte nature combien les bonnes inspirations sont rares comme les mauvaises sont rapides et habituelles C'est cette habitude qui nous empêche de les apercevoir, et, pour ne pas nous y être livrés, nous croyons ne les avoir pas ressentis. Demandez-vous ensuite d'où vous vient le pouvoir de les réprimer; pouvoir qui vous est devenu une habitude et dont le combat n'est plus sensible que dans les grandes occasions. &lt;. C'est ma conscience, direz-vous. Ce sont mes principes. » Croyez-vous que ces principes vous fussent venus d'eux-mêmes sans les soins que votre mère ét tous ceux qui ont travaillé à votre éducation ont pris à vous les inculquer? Et maintenant vous oubliez que ce sont eux qu'il faut bénir et glorifier, et non pas vous, qui êtes un ouvrage sorti de leurs mains Ayez donc plutôt compassion de ceux à qui le secours a été refusé et qui, livrés à leur propre impulsion, se sont fourvoyés sans savoir où ils allaient. Ne les recher-</p>
+        <p>chez pas; car leur société est toujours déplaisante e) peut-être (tubéreuse à votre âge; mais ne les haïssez pas. Vous verrez, en y rcnechissant, que la bienvei!lance, qu'on appelle communément amabilité, consiste non pas à tromper les hommes, mais à leur pardonner.</p>
+        <p>Je ne vous dirai rien sur le reste de votre lettre. Je vous ai dit tout ce que j'en pensais la première fois. Vous convenez que vous avez tort et vous me promettez de changer cette bienveillance outrée en une douceur plus noble, dont'on sentira le prix davantage. Je vois des éléments très bons en vous; mais le raisonnement est souvent faux. C'est un grand mal de s'encourager soi-même à se tromper.</p>
+        <closer>
+          <salute>Adieu, mon cher enfant. Je vous attends, venez lé plus tôt que vous pourrez. Mes yeux vont mieux. Les enfants et moi vous embrassons affectueusement. Comptez toujours sur votre vieille amie.
+          </salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-07-17">17 juillet 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A M.JULES BOUCOIRAN</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mon cher enfant,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Mon cher enfant,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'en suis fâchée pour votre optimisme .potitique, mais votre gredin de gouvernement indispose cruellement les honnêtes gens. Si j'étais homme, je uc</p>
+        <p>'sais à quels excès je me porterais, dans de certains moments d'indignation, que toute âme bien née doit ressentir à la vue des platitudes et des atrocités qui ,se commettent ici tous les jours.</p>
+        <p>C'est réellement une guerre civile que les ministres ;allument et alimentent à leur profit. 7M/a?KM 1 Les ;couleurs nationales sont proscrites. Il suffit de les porter pour être dépecé avec un odieux sang-froid, i par des gens armés, lâches, qui ne rougissent point d'égorger des enfants sans défense et en petit nombre. Cette-belle institution de la garde nationale est deve,nue un levain de discorde et de sang. La police a recours à des moyens dignes des plus beaux temps. de Carrier (de Nantes). Il semble que Philippe veuille trancher du Napoléon. Or c'est un rôle qu'un Bourbon ne saura jamais remplir. Ses efforts retarderont sa chute; mais elle n'en sera que plus tragique, et vraiment alors le peuple commettra tous les excès sans être coupable. ,&gt;</p>
+        <p>Moi, je hais tous les hommes, rois et peuples. Il y a des instants où j'aurais du bonheur à leur nuire. Je n'ai de repos qu'alors que je les oublie Vous êtes bon, vous C'est différent. Les amis, oh! les amis! que c'est un trésor rare et difficile à garder! Si l'on ne tient pas sa main toujours étroitement .fermée, ils s'échappent comme de'l'eau au travers des doigts.</p>
+        <p>J'ai le cœur cruellement froissé mais je sais qu'il iy aurait de l'ingratitude à pleurer longtemps ceux</p>
+        <p>qui désertent. Plus le nombre se réduit, plus je sens l'affection redoubler de vigueur. La part des uns revient aux autres.</p>
+        <p>Je w/js remercie de m'avoir parlé de Maurice. Faites qu'il m'écrive souvent, qu'il ne soit pas trop livré à lui-mème aux heures où il ne travaille pas, et qu'il continue à apprendre sans chagrin. Sa dernière lettre est charmante.</p>
+        <p>Adieu, mon cher enfant. Je vous embrasse comme je vous aime. C'est du fond de mon âme.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

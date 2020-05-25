@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-01-10">Paris, 10 janvier 1831.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">AU'MËME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, MjtLnviermi."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 10 janvier 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je suis inquiète de toi, mon cher enfant. Tu m'as écrit pour me dire que tu avais été malade; ne l'es-tu pas encore? Si je ne recois pas de tes nouvelles au-</p>
+        <p>jourd'hui, j'aurai bien du chagrin. Écris-moi donc' exactement deux fois par semaine, je t'fi..prie; si tu es malade, prie ton papa ou ton oncle de m'écrire. Pour moi, je me porte bien et je cours beaucoup; mais je n'ai pas encore été au spectacle, parce que je travaille le soir. J'ai été trois fois chez ta bonne maman Dudevant sans pouvoir la trouver. Il. paraît qu'elle sort souvent. Je lui ai laissé ta lettre, et j'y retournerai aujourd'hui.</p>
+        <p>J'ai déjà marchandé ton habit de garde national.' il sera bien joli, j'y joindrai un schako avec une namme rouge. Je voudrais que tu pusses voir les hussards d'Orléans. Tu aurais bien envie d'être habillé comme eux. Ils ont une veste gris bleu garnie de mouton noir et un pantalon rouget le plumet est noir, il n'y a rien de plus élégant.</p>
+        <p>J'ai vu M. Blaize*,qui m'a bien demandé de tes nou-,velles..Dis à ton papa de dire à madame Decerf que j'ai fait sa commission. Dis-lui aussi de me donner des nouvelles de madame Duteil. Je n'ai pas encore le temps d'écrire des lettres. Je n'écris qu'à toi.</p>
+        <p>Embrasse bien ton papa pour moi, ainsi que ton oncle et ta tante. Dis à ton oncle qu'en descendant son escalier un peu trop fort, j'ai fait écrouler douze marches. Embrasse bien fort ta sœur de part de</p>
+        <p>sa maman; parle-t-elle un peu de. moi? Et Léontme se porte-t-elle bien? Enfin donne-moi des nouvelles de tout le monde, et dis bien des choses de ma part à Eugénie, à Françoise, etc.</p>
+        <p>Adieu, mon cher amour; écris-moi donc et surtout porte-toi bien, sois sage, et aime toujours ta mère, qui t'embrasse mille et mille fois.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

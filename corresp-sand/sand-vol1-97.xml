@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1836-01-03">3 janvier 1836.</date>
+          <placeName>La Châtre</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="AU MÊME (...-...)">AU MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>LaCMtre,3jamr!erl836.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai reçu ta lettre, mon enfant chéri, et je vois que</p>
+        <p>tu as très bien compris la mienne; ta comparaison est</p>
+        <p>très juste, et, puisque tu te sers de si belles métaphores, nous tâcherons de monter ensemble sur la montagne où réside la vertu. Il est, en effet, très difficile d'y parvenir; car, à chaque pas, on réncontre des choses qui vous séduisent et qui essayent de vous en détourner. C'est de cela que je veux te parler, et le défaut que tu dois craindre, c'est le trop grand am&lt; u" de toi-même. C'est celui de tous les hommes et de toutes les femmes.</p>
+        <p>Chez les uns, il produit la vanité des rangs; chez d'autres, l'ambition de l'argent; chez presque tous, l'égoïsme. Jamais aucun siècle n'a professé l'égoYsme d'une manière aussi révoltante que le nôtre. I! s'est établi il y a cinquante ans une guerre acharnée entre les sentiments de justice et ceux de cupidité. Cette guerre est loin d'être finie, quoique les cupides aient le dessus pour le moment.</p>
+        <p>Quand tu seras plus grand, tu liras l'histoire d&amp; cette révolution dont tu as tant entendu parler et qui a fait faire un grand pas à la raison et à la justice. Cependant, ceux qui l'avaient entreprise n'ont pas été les plus forts et ceux qui y ont travaillé avec le plus de générosité out été vaincus par ceux qui, aimant les richesses et les plaisirs, ne se servaient du grand mot de République que pour être des espèces de princes pleins de vices et de fantaisies. Ceux-là furent donc les maîtres; car le peuple est faible, à cause de son ignorance. Parmi ceux qui pourraient prendre son parti et le secourir par leurs lumières, il en est</p>
+        <p>&lt;9.</p>
+        <p>un sur mille qui préfère te plaisir de faire du bien à ~elui d'être riche et comblé d'amusements et de vanité. Ainsi, la classe la moins nombreuse, cette qui reçoit de l'éducation, l'emportera toujours sur la classe ignorante, quoique cette classe soit la masse des nations.</p>
+        <p>Vois quel est l'avantage et la nécessité de l'éducation. Sans elle, on vit dans une espèce d'esclavage, puisque,.tous les jours, un paysan sage, vertueux, sobre, digne de respect, est dans la dépendance d'un homme méchant, ivrogne, brutal, injuste, mais qui a sur lui t'avantage de savoir lire et écrire. Vois ce .qu'est un homme qui, ayant reçu de l'éducation, n'en est pas meilleur pour cela. Vois combien est coupable devant Dieu celui qui, connaissant les malheurs et les besoins de ses semblables, pouvant consacrer son cœur ,et sa vie à les secourir, s'èndort tranquillement tous les soirs dans un lit moelleux, ou se remplit le ventre à une bonne table en se disant &lt;: Tout est bien, la société est parfaitement organisée. Il est juste que je sois riche et qu'il y ait des pauvres. Ce qui est à moi, est à moi donc, je dois tuer tous ceux qui ne me demanderont pas à manger, chapeau bas, et, quand même ils seraient bien polis, je dois les mettre brutalement à la porte, s'ils m'importunent. Je le fais parce que j'en ai le droit, »</p>
+        <p>Voila le raisonnement de l'égoïste, voilà les sentiments de cette immense armée de cœurs impitoyables €t d'amcs viles qui s'appelle la garde nationale..</p>
+        <p>Parmi tous ces hommes qui défendent la propriété avec des fusils et des baïonnettes, il y a plus de bêtes 'que de méchants. Chez la plupart/c'est le résultat d'une éducation antHibéraIe. Leurs parents et leurs maîtres d'école leur ont dit, en leur apprenant à lire, que !e meilleur état de choses était celui qui conservait à chacun sa propriété. Ils appellent révolutionnaires, brigands et assassins ceux qui donnent, leur vie pour la cause du peuple.</p>
+        <p>C'est parce que je ne veux pas que tu sois un de.ces .hommes, sans âme ou sans raison, que je t'écris en particulier et en secret, ce que je pense de tout cela. RéSéchis et dis-moi si cela se présente de même à ton esprit et à ton cœur. Dis-moi si tu trouves juste cette manière de partager inégalement les produits de la .terre, les fruits, les grains, les troupeaux, les maté.riaux de toute espèce, et l'or (ce métal qui représente toutes les jouissances, parce qu'un petit fragment se prend en échange de tous les autres biens). Dis-moi, en un mot, si la répartition des dons de la création est bien faite, lorsque celui-ci a une part énorme, cet autre une moindre, un troisième presque rien, un quatrième rien du tout 1</p>
+        <p>II me semble que !a terre appartient à Dieu, qui l'a ,faite, et qui l'a confiée aux hommes pour qu'elle leur servît d'éternel asile. Mais il ne peut pas être dans ses desseins que les uns y crèvent d'indigestion et que !es autres y meurent de faim. Tout ce qu'on pourra .dire là-dessus ne m'empêchera pas d'être triste et en</p>
+        <p>colère quand je vois un mendiant pleurant à la porte d'un riche.</p>
+        <p>Quant aux moyens de changer tout cela, il faudra que je t'écrive encore bien des lettres, et que nous ayons ensemble bien des conversations avant que je t'en parle. Je ne veux pas t'en dire trop long à la fois il faut que tu aies le temps de réuéchir à chaque chose, et de me répondre à mesure si tu pensés 'tomme moi et si tu comprends bien. Nous en restons là. L'amour de soi-méme est ce qu'il faut modérer, limiter et diriger. C'est-à-dire qu'il faut s'habituer à trouver le bonheur qui coûte le moins d'argent et qui permet d'en donner davantage à ceux qui en manquent. Nous chercherons ensemble cette vertu, et, si nous n'y atteignons pas tout à fait, du moins nous aurons des principes justes et de bonnes intentions. Je ne te cache pas, et tu peux déjà t'en apercevoir, que les principes dont je te parle sont tout à fait en opposition avec ceux de vos lycées. Les lycées, dirigés par l'esprit du gouvernement, professeront toujours le principe régnant. Ils vous prêcheraient l'Empire et la guerre, si Napoléon était encore sur le trône. Ils vous diraient d'être républicains, si la République était établie. Il ne faut pas t'occuper des réflexions que vos professeurs ou même les livres que l'on vous donne font sur l'histoire. Ces livres sont dictés à des pédants, esclaves du pouvoir.</p>
+        <p>Souvent, en lisant l'histoire des grandes actions des .temps antiques, écrite par les hommes d'aujourd'hui,</p>
+        <p>tu verras que les héros sont traités de scélérats. Ton bon sens et la justice de ton coeur redresseront ces jugements hypocrites. Tu liras les faits et tu seras le juge des hommes qui les auront accomplis. Souvienstoi que, depuis le commencement du monde, ceux qui ont travaillé pour la liberté et l'honneur de leurs frères sont des grands hommes. Ceux qui ont travaillé pour leur propre renommée et pour leur ambition personnelle sont des hommes qui ont fait un emploi coupable de leurs grandes qualités. Ceux qui n'ont songé qu'à leurs plaisirs sont des brutes.</p>
+        <p>Mais tu comprends que notre correspondance doit rester secrète et que tu ne dois ni la montrer ni seulement en parler. Je désire aussi que tu n'en dises pas un mot à ton père tu sais que ses opinions diffèrent des miennes. Tu dois écouter avec respect tout ce qu'il te dira; mais ta conscience est libre et tu choisiras, entre ses idées et les miennes, celles qui te paraîtront meiIIeures..Je ne te demanderai jamais ce qu'il te dit; tu ne dois pas non plus lui faire part de ce que je t'écris.</p>
+        <p>Aie donc soin de laisser mes lettres dans ta baraque au collège; je te les ferai remettre par Emmanuel, et tu lui remettras ta réponse trois ou quatre jours après.</p>
+        <p>Comprends-tu bien? De cette manière, personne ne verra ce que nous nous écrivons, et nous n'aurons pas de contradictions. Tu auras le temps de lire mes lettres et d'y répondre sans te presser,</p>
+        <p>Mon ange chéri, tu es ce que j'aime le mieux au 'monde. Je suis venue passer quelque temps à la Châtre je demeure chez Duteil.</p>
+        <p>Adieu; je t'embrasse mille fois. Apprends bien d'histoire, c'est un grand point.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

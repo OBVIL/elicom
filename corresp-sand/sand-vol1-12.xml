@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1828-04-01" >1er avril 1828</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A M. CARON">A M. CARON, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 1er avril 1828</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Caron,</p>
+        <p>11 y a bien longtemps que je veux vous écrire; mais mon Maurice a été si malade pendant tout l'hiver, et moi, j'ai été si tourmentée de ses maux et des miens, que je n'ai donné signe de vie à personne ce dont je reçois de vifs reproches de tous côtés.</p>
+        <p>Quoique vous y mettiez plus d'indulgence que les autres, en ne me grondant pas, je ne veux pas abuser plus longtemps de votre longanimité, et je viens enfin</p>
+        <p>vous dire que je ne vous ai point oublié; car nous par-'lons de vous bien souvent, avec mon mari et nos amis de la Châtre, qui demandent toujours quand vous viendrez. Je voudrais bien avoir une bonne réponse à leur donner et je n'en perds pas l'espérance; car vous trouverez bien quelque temps à nous consacrer et vous savez qu'il y a ici de bon vin et de bons garçons. J'espère que, dans quelques jours, nous aurons du beau temps qui me rendra moins maussade et mieux portante. Pour le présent, je suis tout à fait ganache et misérable, ne pouvant bouger de ma chambre et à peine de mon lit. Je suis grosse par-dessus le marché, et cela fait une complication de maux peu agréable. Il ne me faudrait pas moins que vous pour me rendre ma bonne humeur et la santé.</p>
+        <p>Que faites-vous maintenant, mon gros ami? avezvous guéri ce vilain rhume qui vous fatiguait si fort, et êtes-vous un peu au courant de votre nouvel état de choses ? Il y a bien longtemps aussi que Casimir dit tous les jours qu'il veut vous demander de vos nouvelles. Mais vous savez comme 'il est paresseux de l'esprit et enragé des jambes. Le froid, la boue, ne l'empêchent point d'être toujours dehors, et, quand il rentre, c'est pour manger ou ronfler.</p>
+        <p>Votre belle Pauline est-elle toujours aussi grosse et aussi bonne? Maurice est un lutin achevé. II a été abîmé d'une coqueluche qui lui a ôté, pendant deux mois, le sommeil et l'appétit. Heureusement il va à merveille maintenant.</p>
+        <p>Quand vous viendrez, je veux que .vous m'ameniez Pauline; vous savez que j'en aurai bien soin, et elle est si aimable et si douce, qu'elle ne vous sera guère &amp; charge en route.</p>
+        <p>Voyez-vous souvent la famille Saint-Agnan'?J'ai été si paresseuse envers elle, que je ne sais ce qu'elle devient.             Maurice, qui s'endort sur mes genoux et me fatigue beaucoup, m'empêche de vous en dire davantage. Je laisse à Casimir le soin de vous répéter que nous vous aimons toujours et vous désirons vivement.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

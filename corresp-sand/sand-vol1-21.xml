@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1829-08_01" >1er août 1829.</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MÊME E</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>NOhant, 1er août 1829</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>Je suis enfin de retour et Hippolyte est près de mo avec sa famille. Sa femme est bien fatiguée mais j'espère que quelques jours de repos la remettront. J'ai passé chez ma belle-mère quinze jours fort agréaMes, qui m'ont rétablie à peu près. J'en avais grand besoin, j'étais souffrante jusqu'à perdre patience; malgré cela, je me félicite de mon voyage, et; sauf le dernier mois que j'ai presque entièrement passé dans mon !it, mon séjour à Bordeaux m'a offert beaucoup de plaisirs de mon goût, c'est-à-dire point &lt;b monde et beaucoup de courses.</p>
+        <p>Je n'en ai pas moins eu un plaisir infini à me retrouver chez moi avec tous ceux que j'aime. Il ne nous manque que vous pour être parfaitement heu-,reux.</p>
+        <p>Nous goûtons dans tout son charma le calme de :avie paisible et retirée; nous n'avons pas d'importuns, pas de faux amis, du moins nous le croyons ainsi. Nos jours s'écoutent comme des heures, et sans .que rien pourtant en interrompe l'uniformité. Cette ,paix profond est.fort du goût de ma belle-sœur. Hip-</p>
+        <p>polyte s'en arrange aussi, parce qu'elle lui donne une liberté parfaite, qui est son essence. Il monte beaucoup à cheval. Nous voyons toujours nos anciens amis mais j'ai retranché tout doucement beaucoup de mes relations. J'étais très fatiguée, je pourrais même dire ennuyée, de voir autant dé monde. Une société nombreuse et superficielle n'est pas ce qui me convient, et je crois que vous êtes tout à fait de mon avis, qu'il vaut mieux le coin du feu qu'un panorama de ngures toujours nouvelles qui passent sans qu'on ait eu le temps d'apprécier leurs qualités et leurs défauts. Je m'en tiens donc à deux ou trois femmes sur l'amitié desquelles je puis me reposer, ce qui est déjà assez j&lt; dre. Quant aux hommes, ils n'ont pas des dehors fort brillants mais ce sont les meilleures gens du monde; vous en avez vu un échantiHon notre ami Duteil, qui n'est pas beau ni élégant, j'en conviens, mais qui a de l'esprit, en revanche, et le caractère le plus aimable et le plus égal.</p>
+        <p>Vous nous avez promis depuis bien longtemps, ma chère maman, de venir refaire connaissance avec Nohant; vous ne pouvez choisir un meilleur moment pour nous faire ce plaisir, puisque Hippolyte et sa femme y sont déjà et que je n'ai nulle affaire qui me force à le quitter d'ici à plusieurs mois. Si vous vous sentez assez forte pour entreprendre la route, vous nous trouverez toujours heureux de vous soigner et de vous distraire autant qu'il dépendra de nos res sources à cet égard.</p>
+        <p>6</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Mes enfants se portent bien. Maurice vous embrasse, et nous en faisons tout autant, si vous le permettez Moi, pour ma part, je réclame pourtant un plus gros baiser que les autres..
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

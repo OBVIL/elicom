@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1835-04-17">17 avril 1835</date>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Chatiron, Hippolyte (1799-1848)">A.M. HIPPOLYTE CHATIRON</persName>
+                    <placeName>Corbeil</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Pàrts,iSoctoiircl834."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Pàrts,iSoctoiircl834.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. HIPPOLYTE CHATIRON, A CORBEIL, PRÈS PARIS</p>
+                <p>NohMt.navrUiSSS.</p>
+                <p>Je suis ici très calme et très bien, mon cher vieux.</p>
+                <p>Tout le monde se porte bien, boit, rit et braille; il ne manque que toi. Où es-tu? Laisseras-tu donc bouter le vin du cru? Viendras-tu au moins passer les vacances ? J'ai besoin de toi, non seulement pour m'amuser tout à fait, mais encore pour m'aider à m'installer et à arranger la maison comme elle doit être; car je n'entends pas grand'chose aux affaires d'ici. Nous en causerons en attendant à, Paris, où je serai dans les premiers jours de mai. Tu viendras bien y faire un tour</p>
+                <p>avant que je m'en aille .en Suisse, d'où~je reviendrai; pour les vacances de mes mioches.</p>
+                <p>J'ai fait connaissance'avec Michel, qui me paraît un gaillard solidement trempé pour faire un tribun du peuple. S'il y a un bouleversement, je pense que cet homme fera beaucoup de bruit. Le connais-tu? Planet est toujours un charmant jeune homme; bon comme un ange. Fleury a une fille charmante, une femme idem. Madame Charles est encore grosse. Le père Duvernet se meurt; j'en suis très peinée, c'est un vieux débris de notre ancien Nohant qui s'en va re.joindre notre père et notre grand'mère. En outre, c'est un brave homme qui manquera beaucoup au pays. Agasta va tout doucement. Félicie reste près d'elle, Madame* va rejoindre ses parents pour les aidera ci transporter leur nouvelle résidence. Par la même occasion, elle plantera une corne ou deux à son imbécile de mari, si elle .en trouve l'occasion. Que n'es-tu là,. consolateur de la beauté délaissée! M. de. s'en serait chargé, si elle eût été tant soit peu bien née; mais c'était trop d'honneur pour une roturière, et il attend que la duchesse de Berri vienne à B. ponr déranger sa cravate et sa vertu.</p>
+                <p>Ton fils Duplomb va, dit-on, revenir.; il envoie en présent des perruches aux dames de la Châtre c'est un cadeau ironique et facétieux comme lui; Fleury a, manqué étouffer M.Vilcocq' en l'embrassant, Ben1. Marchand de vins.</p>
+                <p>gali i rossignolise toujours en faisant des œiHadës à tout le sexe en particulier et en général. Son frère est toujours mon vieux de prédilection. VoHà l'état des affaires; si celles des cabinets d'Europe allaient aussi bien, on n'aurait plus besoin de diplomates. Quand tu seras là, nous serons au grand complet; il faudra t'occuper de marier Hydrogène et tàcbei de le fixer au pays.</p>
+                <p>Adieu, mon vieux je t'embrasse mille fois, ainsi que ta femme et Léontine. Il faut l'amener absolument aux vacances.</p>
+                
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

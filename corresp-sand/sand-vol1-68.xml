@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-08-06" >6 août 1832</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">.A MADAME MAURICE DUPIN,A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant,6aoûH832.."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant,6aoûH832..</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>Je suis en effet coupable, cette fois, de ne pas vous</p>
+        <p>avoir donné de mes nouvelles tout de' suite. Pardonnez-moi ne soyez pas inquiète. Tout le monde icivabien.</p>
+        <p>Solange a repris ses jeux, ses chevreaux, ses galettes à la terre mouillée sur des ardoises. On ne l'a pas trouvée maigrie du tout. Maurice est mince comme un fuseau et très grand. Il est plus beau que jamais. Il lui a poussé, en mon absence, les plus belles dents du monde, blanches, bien rangées. Il est charmant et d'un caractère parfait. Il travaille beaucoup' il a de l'intelligence, beaucoup de douceur et un coeur excellent. Il -entrera au collège le printemps prochain.</p>
+        <p>Pour moi, je vais assez bien, sauf la chaleur qui m'écrase. Je vous plains, si vous en avez autant à Paris. Nous ne savons où nous fourrer. Les puits sont</p>
+        <p>taris, les bestiaux meurent de soif, les fleurs et les arbres sont grillés, nos pauvres enfants n'ont plus la force de courir et de jouer. La nuit, les rudes orages ne rafraîchissent pas le .temps. Cette nuit, le tonnerre a brûlé quinze maisons et plusieurs granges à deux lieues d'ici.</p>
+        <p>Je ne puis mieux faire que de m'enfermer dans mon cabinet et de travailler à Va~HttMe. Solange se roule sur le parquet et Maurice fait du 'latin comme un pauvre diable.</p>
+        <p>Mon mari est aux assises à Châteauroux. Il y a beaucoup d'affaires à juger; il restera là une quinzaine de jours; ce qui ne l'amuse guère. Heureuse ment le choléra n'y est plus. Madame Hippolyte est toujours la même, pas forte, mais allant son petit train de vie. Polyte chante, rit, fume et boit tout le jour. C'est toujours Roger Bontemps.</p>
+        <p>Adieu, chère petite mère; vous êtes bien bonne d'avoir été à la diligence. Je suis bien fâchée de n'avoir pu vous attendre.</p>
+        <p>Je vous embrasse de tout mon cœur. Avez-vous des nouvelles de Caroline ?</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

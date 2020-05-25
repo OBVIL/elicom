@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1830-09-07">7 septembre 1830</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, À CHARLEVILLE.</persName>
+                    <placeName>Charleville</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="La .CMtre, 3t juillet 1830, onze heures du soir."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>7 septembre 1830</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A MADAME MAURICE DUPtN. A CHARLEVtHE 7 septembre 1830.</p>
+                <p>J'aurais répondu plus tôt votre lettre~ ma chère petite mère, si je n'eusse été fort malade. On a craint pour moi une fièvre cérébrale, et, pendant quarantehuit heures~j'ai .été je ne sais pu. Mon corps était bien au lit sous l'apparence du sommeil, mais mon âme galopait dans je ne sais quelle planète. Pour parler tout</p>
+                <p>simplement, je n'y étais plus et je ne me sentais ph)S. Casimir est fort sensible à vos reproches il assure qu'il ne les mérite pas. On lui a dit chez ma tante que vous étiez partie. Il en était si convaincu, qu'il me l'a dit en arrivant ici. Il n'a point été s'en assurer par lui-même il regardait cela comme une course inutile, dans la certitude où il était de ne point vous rencontrer. Il était tellement pressé, tellement occupa d'affaires politiques et de commissions dont la ville de la Châtre l'avait chargé pour les Chambres, qu'il regardait, avec raison, son temps comme fort pré tieux. Forcé de revenir au bout de huit jours, ce n'est pas sans peine qu'il a rempli si vite sa mission. Ce que je ne conçois pas, c'est qu'on l'ait induit en erreur; lorsque, d'après ce que vous me dites, on savait que vous étiez encore à Paris. J'ai des lettres de lui datées de cette époque dans lesquelles il me dit fositivement M Ta mère est partie pour Charleville, c'est pourquoi je n'ai pu la voir. »</p>
+                <p>Casimir est incapable d'un mensonge et il ne peut avoir df raison pour vous éviter; ainsi, tout cela est le résultat d'un mol~ntendu. Il était décidé à vous ramener ici avec lui, si vous y puisiez consenti. Vous avez été près de Caroline. Je suis loin d'en être jalouse. Elle était malade, et je n'ai qu'un regret, c'est que les liens qui me retiennent ici m'aient empêchée dé vous y accompagner; Je l'aurais soignée avec zélé; mais, outre que l'arrivée de deux persanes de plus dans son ménage eût pu la gêner</p>
+                <p>beaucoup, il ne m'est pas facile de quitter mes petits enfants, encore moins de les faire voyager avec moi. Voici l'âge où Maurice a besoin de leçons suivies et je suis comme enchainée à la maison. J'ai renoncé au\. longues courses; ce qui me force de négliger celles de mes connaissances qui démeurent à cinq ou six lieues.</p>
+                <p>Oscar doit être un heau garçon bien avance. S'il était à moi, avec tes dispositions qu'il a pour lé dessiu, j'en ferais )!') peintre. C'est l'avenir que je rêve pour le mien. 1.1 annonce aussi du goût pour cet art. C'est, à mon gré, le plus beau de tous, celui qui peut occuper le plus agrcab!ement ta vie, soit qu'il devienne un état, soit qu'il serve seulement à l'amusement. Il me fait passer tant d'heures de plaisir et de bonheur que je passerais peut-être à m'ennuyer! Si j'avais un talent véritable, je sens qu'il n'y aurait pas de sort plus beau que le mien et j'oublierais bien au fond de mon cabinet les intrigues et les ambitions qui font les révolutions.</p>
+                <p>Que dites-vous de celle-ci? Je suis loin de la croire finie, et j'ai peur même que tout ce qu'on a fait ne serve à rien. Mais vous en avez par-dessus la tète, vous qui avez vu tout cela. Je ne veux pas vous en parler. Vous me rendez heureuse en m'apprenant que vous êtes plus forte que vous ne disiez. Je le pensais bien. Vous vous exagériez votre faiblesse. Je crois que je tiens de vous sous le rapport de la, santé; je suis sujette à de fréquentes indispositions, à des souf-</p>
+                <p>frances presque continuelles; mais, au fond, je suis extrêmement forte, comme vous. et d'étoffé à vivre longtemps sans inSrmité, en dépit de tous ces arias de bobos.</p>
+                <p>Soignez-vous bien, mais ne vous figurez donc pas que vous avez cent ans toutes les femmes de votre âge ont l'air d'avoir vingt ans de plus que vous. En ne vous affectant pas, en ne vous laissant pas gagner par l'ennui et la tristesse, vous serez longtemps jeune. Restez près de ma sœM tant qu'elle aura besoin de vous et que vous vous plairez dans ce pays. Dès que vous éprouverez le besoin de changer de place et la force de le faire, venez ici. Vous y resterez dix ans si vous vous y trouvez bien, huit jours si vous vous ennuyez. Vous serez libre comme chez vous, vous vous lèverez, vous vous coucherez, vous serez seule, vous aurez du monde, vous mangerez comme bon vous semblera, vous n'aurez qu'à parler pour être obéie. Si vous n'êtes pas contente de nous, je suis bien sûre que ce ne sera pas de notre faute.</p>
+                <p>Adieu, ma chère maman je vous embrasse de toute mon âme, ainsi que ma sœur et Oscar.</p>
+                <p>Donnez-moi de vos nouvelles et des leurs.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name> 
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

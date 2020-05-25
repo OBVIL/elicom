@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1831-02-12">Paris, 12 février 1831</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Boucoiran, Jules (1805-1875)">A JULES BOUCOIRAN, A NOHANT</persName>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Pans,25JMV)eri83i."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 12 février 1831</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>AM.JCLESBOUCOtRAN.ANOHANT</p>
+                <p>Paris, i2 février 1S3&lt;.</p>
+                <p>Mon cher entant,</p>
+                <p>Je vous remercie de votre bonne lettre écrivez-moi souvent, je vous en prie. Je ne sais que par vous avec exactitude l'état de mes enfants. Dites à Maurice de m'écrire, en le laissant libre et d'écriture, et d'orthographe, et de style. J'aime ses naïvetés et sesbarbouillages. Je ne veux pas qu'il considère l'heure de 'n'écrire comme une heure de travail. Une page deux ~ois la semaine, ce ne sera pas assez pour l'embrouiller dans ses progrès. Je suis bien contente qu'il se rende à la nécessite de travailler sans verser trop de larmes. Une fois l'habitude prise, il ne se trouvera pas plus malheureux qu'auparavant.</p>
+                <p>Mon mari me mande que vous êtes maigre et au régime. Etes-vous réellement bien guéri, mon cher enfant? Soignez-vous, ne couchez pas sans feu comme vous le faisiez par négligence l'année dernière, et ayez toujours une tisane rafraîchissante dans votre chambre. Moi, le grand médecin de Nohant, je vous traiterais ex professo. Que deviennent donc tous les malades du village, depuis que je ne suis plus là pour les guérir ou pour les tuer?</p>
+                <p>Je vous dirai en confidence avoir eu ici l'occasion d'exercer mes talents; auprès de qui? je vous le donne en cent! Auprès de madame P. mon implacable ennemie. La malheureuse femme vient de faire un triste voyage à Paris, pour enterrer un fils de vingt ans. Elle était.mourante de douleur lorsque le hasard m'a fait connaître sa situation. J'ai couru à. elle sur-le-champ, je l'ai trouvée entourée de jeunes gens qui pleuraient leur camarade et s'affligeaient de l'absence d'une femme auprès de la mère désolée. J'ai passé la nuit sur une chaise auprès d'elle. Une triste nuit! Mais, lorsqu'elle m'a reconnue et qu'abjurant son aversion, elle m'a remerciée avec élan, j'ai éprouvé combien la vengeance noble, celle qui consiste à rendre le bien pour le mal, est un sentiment pur et doux. Nous nous sommes quittées très réconciliées. Je parierais bien qu'à la Châtre et à Nohant surtout, ma conduite passerait pour uni trait de folie. N'en parlez pas; mais, si on en parle etj si l'on m'accuse, laissez dire.</p>
+                <p>Je ne crois pas, mon cher enfant, à tous les chagrins qu'on me prédit dans la carrière littéraire, où j'essaye d'entrer. Il faut voir et apprécier quels motifs m'y poussent, quel but je poursuis. Mon mari a fixé ma dépense particulière à trois mille francs. Vous savez que c'est peu pour moi qui aime à donner et qui n'aime pas à compter. Je songe donc uniquement à augmenter mon bien-être par quelques profits. Comme je n'ai nulle ambition d'être connue, je ne le serai .point. Je n'attirerai l'envie et la haine de personne. La plupart des écrivains vivent d'amertumes et de ,combats, je le sais.; mais ceux qui n'ont d'autre ambition que de gagner leur vie vivent à l'ombre paisiblement. Béranger, le grand Béranger luimême, malgré sa gloire et son éclat, vit retiré à part -de toutes les coteries. Ce serait bien te diable si un tpauvre talent comme le mien ne pouvait se dérober aux regards. Le temps n'est plus où les éditeurs faisaient queue à la porte des écrivains. La chose est renversée. De tous les états, le plus libre et le plus obscur, peut-être, est celui d'auteur pour qui n'a pas d'orgueil et de fanfaronnade. Quand on vient me -dire que la gloire est un chagrin de plus que je me w ,prépare,je ne puis m'empêcher de rire de ce mot, qui 'n'est, pas heureux, et de tous ces lieux communs qui ce sont applicables qu'au génie et à la vanité. Je n'ai ci l'un ni l'autre, et j'espère ne connaître aucune de ces tracasseries qu'on croit inévitables. J'ai été incitée chez Kératry et chez madame Récamier. J'ai eu</p>
+                <p>.le bon sens de refuser. Je vais chez Kératry le matin et nous causons au coin du feu. Je lui ai raconté comme nous avions pleuré en lisant le Dernier des Beaumanoir. II m'a dit qu'il était plus sensible à ce genre de triomphe qu'aux applaudissements des sa,Ions. C'est un digne homme. J'espère beaucoup de sa protection pour vendre mon petit roman. Je vais pa.raitre dans la Revue deParis. J'en ai enfin la certitude ce sera un pas immense de fait.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            <signature>Voilà où j'en suis. Adieu, mon cher enfant; je vous embrasse de tout mon cœur. J'ai beaucoup de courses et de travail, voilà le seul côté pénible de l'état que j'ai embrassé. Quand les premiers obstacles seront .franchis, je me reposerai.</signature>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

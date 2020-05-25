@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-01-11">Paris, 11 janvier 1833</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT,A LA CHATRE</persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, Il janvier i833,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 11 janvier 1833,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher petit enfant,</p>
+        <p>J'ai reçu plusieurs lettres de toi auxquelles je n'ai.</p>
+        <p>pu répondre. Je viens d'être malade. C'est d'aujourd'hui seulement que je suis levée. J'ai eu un gros rhume avec la fièvre. Ta sœur est enrhumée aussi. Il fait un froid épouvantable, tout le monde tousse. Pour m'achever, le feu a pris dans ma cheminée d'une manière violente. Il a fallu me sauver dans le lit de Solange pour laisser agir les pompiers. Ils ont éteint le feu, du moins à ce qu'ils ont cru, et ils ont gâté mon tapis. Le lendemain, un ramoneur a voulu monter dans la cheminée le pauvre petit s'est brûlé un peu la poitrine. Le feu y était encore Quoiqu'on n'eût pas allumé de feu dans la cheminée, la suie brûlait toujours. Nous avons eu beaucoup de peine à F éteindre</p>
+        <p>tout à fait. J'ai donc été chassée de ma chambre .plusieurs jours et obligée de passer la nuit dans une chambre sans feu.</p>
+        <p>Prends garde d'être malade par ce vilain froid,; aie toujours les pieds bien chauds et la gorge enveloppée. Je suis bien aise que tu sois content de tes albums. Je voudrais être au mois de mars pour courir avec toi les boutiques et taper tes joues luisantes. Enfin cela viendra.</p>
+        <p>Adieu, cher mignon; sois sage, travaille et ne sois pas malade. Je t'embrasse de toute mon âme; ta grosse t'embrasse aussi. Elle parle de toi toute la journée, tu es toujours son mignon chéri.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

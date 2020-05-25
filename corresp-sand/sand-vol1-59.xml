@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-11" resp="">Paris, novembre 1831.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">AU MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, novembre &lt;83t."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, novembre &lt;83t.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ta lettre est bien gentille, mon cher petit; elle est fort bien écrite. Ne reste pas trop dehors par ce vilain froid, tu vois bien que tu t'es enrhumé. Quand tu es dans le jardin, cours, saute, ne reste pas à la</p>
+        <p>même place. C'est comme cela que tu attrapes toujours du mal. 'Ta pie peut bien rester dans ton jardin, elle n'a pas peur du froid, ses plumes lui valent mieux que tes habits et .tes pantalons. Nos petits nengalis sont plus délicats, ils viennent d'un climat chaud. Dis à Eugénie~ d'en avoir bien soin. J'ai été hier au Jardin des Plantes, j'aurais bien voulu pouvoir emporter pour toi une petite gazelle fauve avec des raies blanches.et de grands yeux noirs. Elle mange dans la main, tu serais bien content d'en avoir une pareille; mais il faudrait la garder au coin du feu. Elles viennent de l'Afrique, et le moindre froid les tue. Au reste, tu les as vues; mais tu ne t'en souviens peut-être plus.</p>
+        <p>Je serais si contente de t'avoir ici quinze jours pour te faire courir partout avec moi. v</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Adieu, mon petit ami; je t'embrasse mille fois, ainsi que ta grosse mignonne. Fais-lui mettre des bas de laine tous lés jours. Embrasse pour moi Léontine et Boucoiran.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

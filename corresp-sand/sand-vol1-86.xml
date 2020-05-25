@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1834-07-29" >29 juillet 1834</date>
+          <placeName>Milan</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT, PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Milan, 29 juillet 1834</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon gros minet,</p>
+        <p>Boucoiran m'a écrit que la distribution des prix serait pour le 28 août; toi, tu m'as écrit que ce serait le 18. Je ne sais lequel de vous deux se trompe. Dans tous tes cas, je serai à Paris avant le 18, si je ne crève pas en route! vraiment, il y a de quoi par la chaleur qu'il fait ici! J'espère qu'en approchant de la Suisse, je vais avoir plus frais. Je voudrais t'avoir avec moi, mon cher petit, pour te montrer toutes les belles chosesquejevois. «</p>
+        <p>Mais nous reviendrons ensemble dans ce beau paysd'ici à quelques années. Je n'ai pas de plaisir réel sans toi, mon enfant. Dépêche-toi de grandir, pour que nous ne nous quittions plus.</p>
+        <p>Je t'embrasse mille fois. Adieu.</p>
+        <p>Paris est en fête aujourd'hui, et tu es sorti, j'imagine ? Tu cours, tu t'amuses; penses-tu un peu à moi ?</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

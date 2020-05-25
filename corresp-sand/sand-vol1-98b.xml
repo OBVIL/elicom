@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1836-02-15">15 février 1836</date>
+                    <placeName>La Châtre</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="">A LA FAMILLE SAINT-SIMONIENNE DE PARIS</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="LaCMtre,~KYrier&lt;836."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>A LA FAMILLE SAINT-StMONtENNE DE PARIS LaCMtre,i5f&lt;!yrieri839.</p>
+                <p>Ne pouvant vous remercier chacun séparément aujourd'hui, permettez, frères, que je vous remercie collectivement en m'adressant à Vinçard. Vous avez eu pour moi de la sympathie et des bienveillances pleines de charme et de bonté. Je ne méritais pas votre attention, et je n'avais rien fait pour être honorée à ce point. Je ne suis pas une de ces âmes fortes et retrempées qui peuvent s'engager par un serment dans une voie nouvelle. D'ailleurs, fidèle à de vieilles affee-</p>
+                <p>.tiens d'enfance, à de vieilles haines sociales, je ne .puis séparer l'idée de rëpMMt~Me de celle de )'.M~ra~tOM; le salut du monde me .semble reposer sur .nous pour détruire, sur vous pour rebâtir. Tandis que les bras énergiques du républicain feront la ville, les prédications sacrées du saint-simonien feront la :cité. Je l'espère ainsi. Je crois que mes vieux frères ~doivent frapper de grands coups, et que vous, revêtus .'d'un sacerdoce d'innocence et de paix, vous ne pou-vez tremper dans le sang des combats vos robes léyi.tiques. Vous êtes les prêtres, nous sommes les soldats: = à chacun son rôle, à chacun sa grandeur et ses fai;blesses. Le prêtre s'épouvante parfois de l'impatience belliqueuse du soldat, et le soldat, à son tour, raiile '!a longanimité sublime du prêtre. Soyons tranquilles pour l'avenir. Nous tomberons tous à genoux devant ~Ie même Dieu, et nous unirons nos mains dans un ;saint trarisport d'enthousiasme, le jour où la .vérité luira pour tous; la vérité est une.</p>
+                <p>Ces temps sont loin; nous avons, je le pense, des .siècles de corruption traverser, et, tandis qu'il arrivera souvent encore à votre phalange sacrée de chan.ter dans des solitudes sans écho, il nous arrivera peut.,être bien, à nous autres, de traverser en vain la mer .rouge et de lutter contre les .éléments, le lendemain rdu jour où nous croirons les avoir soumis. C'est le .destin de l'humanité d'expier son ignorance et sa faiblesse par des revers et par des épreuves. Votre mi. ~sion est de la ranimer par des conseils, et de lu;</p>
+                <p>verser le baume de l'union et de l'espérance. Accomplissez donc cette tâche sacrée, et sachez que vos .frères ne sont pas les hommes du passé, mais ceux de Favenir.</p>
+                <p>Vous avez eu un seul tort, encesjours-ei, un tort ~rave, à mes yeux, et je vous le dirai dans la sincérité .de mon cœur, parce que je vous aime. trop pour vous &lt;acher une seule des pensées que' vous m'inspirez. ~Vous avez cherché à vous éloigner de nous. Ce tort, 'nous l'avons eu à votre exemple et les deux familles, Jes enfants de la même mère, de la même idée, veuxje dire, se sont divisés sur le champ de bataille. Cette faute retardera la venue des temps annoncés. Elle ,&lt;st plus grave chez vous, qui êtes des envoyés de paix ;et d'amour, que chez nous, qui sommes des ministres ~dè guerre, des glaives d'extermination.</p>
+                <p>Quant à moi, solitaire jeté dans la foule, sorte de .rapsode, conservateur dévot des enthousiasmes du 'vieux Platon, adorateur silencieux des larmes du vieux Christ, admirateur indécis et stupéfait du grand Spinosa, sorte d'être souffrant et sans importance qu'on appelle un poète, incapable de formuler une convic.tion et de prouver, autrement que par des récits et des plaintes, le mal et le bien.des choses humaines, je sens que je ne puis être ni soldat ni prêtre, ni maître ni'disciple, ni prophète ni apôtre; je serai .pour tous un frère débile mais dévoué; je ne .sais rien, je ne puis rien enseigner; je n'ai pas de force, je ne puis rien accomplir. Je puis chanter la guerre</p>
+                <p>sainte et la sainte paix; car je crois à la nécessité de l'une et de l'autre. Je rêve dans ma tête de poète des combats homériques, que je contemple le cœur palpitant, du haut d'une montagne, ou bien au milieu desquels je me précipite sous les pieds des chevaux, ivre d'enthousiasme et de sainte vengeance. Je rêve aussi, après la tempête, un jour nouveau, un lever de soleil magnifique, des autels parés de fleurs, des législateurs couronnés d'olivier, la dignité de l'homme réhabilitée, l'homme affranchi de la tyrannie de. l'homme, la femme de celle de la femme, une tutelle d'amour exercée par le prêtre sur l'homme, une tutelle d'amour exercée par l'homme sur la femme. Un gouvernement qui s'appellerait conseil et non pas domination, persuasion et non pas puissance. En attendant, je chanterai au diapason de ma voix, et mes enseignements seront humbles; car je suis l'enfant de mon siècle, j'ai subi ses maux, j'ai partagé ses erreurs, j'ai bu à toutes ses sources de vie et de mort, et, si je suis plus fervent que la masse pour désirer son salut, je ne suis pas plus savant qu'elle pour lui enseigner le chemin. Laissez-moi gémir et prier sur cette Jérusalem qui a perdu ses dieux et qui n'a pas encore salué son messie. Ma vocation est de haïr le mal, d'aimer le bien, de m'agenouiller devant le beau. Traitez-moi donc comme un ami véritable. Ouvrezmoi vos cœurs et ne faites point d'appel à mon cerveau. Minerve n'y est point et n'en saurait sortir. Mon âme est pleine de contemplations et de vœux que le</p>
+                <p>monde raille, les croyant irréalisables et funestes. Si j~ suis porté vers vous d'affection et de confiance, c'est que vous avez en vous le trésor de l'espérance et que vous m'en communiquez les feux, au lieu d'éteindre l'étincelle tremblante au fond de. mon cœur. Adieu je conserverai vos dons comme des reliques; je parerai la table où j'écris des fleurs que les mains industrieuses de vos sœurs ont tissées pour moi. Je relirai souvent le beau cantique que Vineard m'a adressé, et les douces prières de vos poètes se mêleront dans ma mémoire à celles que j'adresse à Dieu chaque nuit. Mes enfants seront parés de vos ouvrages charmants, et les bijoux que vous avez destinés à mon usage leur passeront comme un héritage honorable et cher. Tout mon désir est de vous voir bientôt et de vous remercier par l'affectueuse étreinte des mains.</p>
+                <p>Tout à vous de coeur.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

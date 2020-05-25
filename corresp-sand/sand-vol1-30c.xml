@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1830-10-27">27 octobre 1830</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Boucoiran, Jules (1805-1875)">AU MÊME.</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="La .CMtre, 3t juillet 1830, onze heures du soir."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>A M. JULES BOUCOIRAN, A CHATEAUROUX .Kohant.2Toctobrel830.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p></p>
+                <p>Je vous remercie, mon cher enfant, de vos deux billets. Je me doutais bien de l'exagération des rapports sur Issoudun qui nous étaient parvenus. Il en est ainsi de toutes les nouvelles, véritables cancans politiques, qui grossissent en roulant par le monde. La vérité a toujours quelque chose de trivial qui déplaît aux esprits poétiques. Nous sommes d'ailleurs dans le pays, dans la terre classique de la poésie, on ne dit jamais les choses comme elles sont. Voit-on des cochons, ce sont des éléphants des oies, ce sont des princesses; ainsi du reste. Je'suis lasse et dégoûtée de tout cela; aussi je ne lis plus les journaux. J'exècre l'esprit de commérage des coteries provinciales c'est une guerre de menteries, un assaut d'absurdités qui fait mal au cœur, pour peu qu'on en ait. Je ne trouve en dehors de ma vie intime, rien qui mérite un sentiment d'intérêt véritable.</p>
+                <p>De nos jours, l'enthousiasme est la vertu des dupes. Siècle de fer, d'égoisme, de tacheté et de fourberie, où il faut railler ou pléurer sous peine d'être imbécile ou misérable. Vous savez quel parti je prends. Je concentre mon existence aux objets de</p>
+                <p>mes affections. Je m'en entoure comme d'un bataillon sacré qui fait peur aux idées noires et décourageantes. Absents ou présents, mes amis remplissent mon âme tout entière; leur souvenir y apporte la joie, efface !a pointe acérée des douleurs cuisantes, souvent répétées. Le lendemain ramène un rayon de soleil et d'espérance. Alors je me moque des larmes de la veille.</p>
+                <p>Vous vous étonnez souvent de mon humeur mobile, -de mon caractère flexible. Où en serais-je sans cette faculté de m'étourdir? Vous connaissez tout dans ma -vie, vous devez comprendre que, sans l'heureuse disposition qui me fait oublier vite le chagrin, je serais maussade et sans cesse repliée sur moi-même, inutile aux autres, insensible à leur affection. Loin de là, cette faculté d'oublier m'inspire tant de reconnaissance, m'apporte tant.de consolations, que je suis fière de pouvoir dire à ceux qui m'aiment &lt;( Vous me rendez le bonheur et la gaieté, vous me dédommagez de ce qui me manque, vous suffisez à toutes mes ambitions. Prenez votre part de ce compliment, mon enfant; car vous savez que je vous aime comme un fils et comme un frère.</p>
+                <p>Nous différons de caractère mais nos cœurs sont honnêtes et aimants, ils doivent s'entendre. Il me sera doux de vous avoir pour longtemps près de moi et de vous confier mon Maurice. Il me tarde de voir arriver ce moment.</p>
+                <closer>
+                    <salute>Bonsoir, mon fils; écrivez-moi.</salute>
+                    <signed>
+                        <name>
+                         
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

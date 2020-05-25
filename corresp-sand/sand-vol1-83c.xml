@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1833-12-18">18 décembre 1833</date>
+                    <placeName>Marseille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dudevant, Maurice (1823-1889)">A M. MAURICE DUDEVANT</persName>
+                    <placeName>Collège Henri IV, Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A M. MAURICE DUDEVANT,</p>
+                <p>AU COLLÈGE HENp! IV, A PARIS</p>
+                <p>Marseille, 18 décembre 1S33.</p>
+                <p>Mon cher petit,</p>
+                <p>Je suis à Marseille, après avoir toujours voyagé, soit en voiture, soit en bateau, depuis le jour où je t'ai quitté. J'ai descendu le Rhône sur le bateau à vapeur et je vais m'embarquer sur la mer pour aller en Italie. Je n'y resterai pas' longtemps; ne te chagrine pas. Ma santé me force à passer quelque temps dans un pays chaud. Je retournerai près de toi, le plus tôt possible. Tu sais bien que je n'aime pas à 'vivre loin de mes petits miochons, bien gentils tous deux, et que j'aime plus nue tout au monde. Je voudrais bien vous avoir avec moi et vous mener' partout où je vais. Mais ta soeur n'est pas assez grande, et, toi, il faut que tu fasses ton éducation.</p>
+                <p>Tu le sais, mon cher enfant, c'est indispensable et tu es bien décidé à t'y livrer de tout ton cœur. J'ai</p>
+                <p>été bien heureuse, quand M. Gaillard' m'a dit que tu étais un brave garcon, que tu faisais ton possible pour contenter tes maîtres, et qu'il avait bonne opinion de toi. C'est ainsi, j'espère, qu'on me parlera toujours de toi. Tu ne m'as jamais causé de chagrin sous ce rapport et tu feras le bonheur de ma vie, si tu le veux. J'ai été ce matin me promener au bord de la mer. J'ai mangé des coquillages tout vivants et dont les coquilles étaient très jolies. J'ai pensé à toi qui les aimes tant, et je n'ai pas voulu en chercher dans le sable, parce que tu n'étais pas là pour m'aider et que je ne me serais pas amusée. Quand tu seras en âge de quitter le collège et d'interrompre tes études, nous voyagerons ensemble. Tu te souviens que nous avons déjà voyagé tous deux et que nous nous amusions comme deux bons camarades. Nous n'avons peur de rien, ni l'un ni l'autre; nous mangeons comme deux vrais loups, et. tu dors sur mes genoux comme une grosse marmotte.</p>
+                <p>En attendant que nous recommencions, dépêche-toi d'apprendre ce qu'il faut que tout le monde sache. Amuse-toi bien. Quand tu sortiras, sois aimable avec ma mère et avec madame Dudevant. Remercie bien Boucoiran, si bon et si obligeant pour toi, et écrismoi à toutes tes sorties. Raconte-moi ce que tu auras fait, chez qui tu couches, etc. Dis-moi. aussi si tu as de bonnes notes et des heures. Pense à moi souvent &lt;. Proviseur du collège Henri IV.</p>
+                <p>et travaille, joue, saute, porte-toi bien, décrasse ta frimousse, lave tes, pattes, ne sois. pas trop gourmand et aime bien ta vieille mère, qui. t'embrasse cMt</p>
+                <p>tni)!e fois.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

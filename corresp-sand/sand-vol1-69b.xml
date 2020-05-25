@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1832-09">septembre 1832</date>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Rollinat, François (1806-1867)">AU MÊME</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Mon vieux,"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>AU MÊME.</p>
+                <p>Nohmt,'septembre 1832..</p>
+                <p>)</p>
+                <p>Je t'ai écrit une longue lettre adressée à la Société. des jeunes gens (au portier). J'étais inquiète de ta santé, vieux. Pourquoi n'ai-je pas encore de réponse ? Je crains vraiment que tu ne sois malade. Ma mère est partie le 13 je ne l'ai pas reconduite à Chàteauroux comme je t'annonçais devoir le faire. Je te dirai mes raisons; peut-être m'attends-tu? Écrismoi donc au moins comment se porte ton vieux et triste individu. Mon squelette centenaire dort, fume, prend du tabac, griffonne du papier, et pleure comme un veau. Si tu te portes mieux, si tu peux supporter la compagnie d'un galérien ou d'un pendu, reviens. Si ma tristesse t'ennuie et te fait mal, ne reviens pas;</p>
+                <p>mais écris-moi, ne sois plus malade et-aime ton vieux Geprge.</p>
+                <p>Je t'ai demandé pour Maurice des instruments aratoires, qu'il attend avec grande impatience. Il me prie de .te tourmenter de sa part. Je te tourmente, sois tourmenté. Amen !</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

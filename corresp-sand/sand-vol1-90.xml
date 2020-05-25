@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1834-09-20">20 septembre 1834</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Rollinat, François (1806-1867)">A M. FRANCOIS ROLLINAT, A CHATEAUROUX</persName>
+          <placeName>Chateauroux</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Je voulais t'écrire une longue lettre tout de suite après ton départ; mais je n'ai trouvé aucun argument à te donner en faveur de mes idées. Il ne s'agit là que d'un sentiment, que d'un instinct d'héroïsme qui est exceptionnel tout à fait, et dont je n'oserais parler sérieusement avec plus de'trois personnes à ma connaissance.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je n'ai jamais eu pour toi ni amour moral, ni amour physique; mais, dès le jour où je t'ai connu, j'ai senti une de ces sympathies rares, profondes et invincibles que rien ne peut altérer car plus on s'approfondit, plus on se connait identique à l'être qui l'inspire et la partage. Je ne t'ai pas trouvé supérieur à moi par nature; sans cela, j'aurais conçu pour toi cet enthousiasme qui conduit à l'amour. Mais je t'ai senti mon égal, mon semblable, ??no compare, comme on dit à Venise.</p>
+        <p>Tu valais mieux que moi, parce que tu étais plus eune, parce que tu avais moins vécu dans la tourmente, parce que Dieu t'avait mis d'emblée dans une e voie plus belle et mieux tracée. Mais tu étais sorti de</p>
+        <p>sa main avec !a,méme somme de vertus et de défauts, de grandeurs et de misères que moi.</p>
+        <p>Je connais bien des hommes qui te sont supérieurs; mais jamais je ne les aimerai du fond des entrailles comme je t'aime. Jamais il ne m'arrivera de marcher avec eux toute une nuit sous les étoiles, sans que mon esprit ou mon coeur ait un instant de dissidence ou d'antipathie. Et pourtant ces longues promenades et ces longs entretiens, combien de fois nous les avons prolongés jusqu'au jour, sans qu'il s'éveillât en moi un élan de l'âme qui n'éveillât le même élan dans la tienne, sans qu'il vint à mes lèvres l'aveu d'une misère pareille.</p>
+        <p>L'indulgence profonde et- l'espèce de complaisance lâche et tendre que l'on a pour soi-même, nous l'avons t'un pour l'autre. L'espèce d'engouement qu'on a pour ses propres idées et la confiance orgueilleuse qu'on a pour sa propre force, nous l'avons l'un pour l'autre. Il ne nous est pas arrivé une seule fois de discuter quoi que ce soit, bon ou mauvais. Ce que dit t'un de nous est adopté par l'autre aussitôt, et cela, non par complaisance, non par dévouement, mais par sympathie nécessaire. Je n'ai jamais cru à la possibilité d'une telle adoption réciproque avant de te connaître, et, quoique j'aie de grands, de nombreux et de précieux amis, je n'en ai pas trouvé un seul (à moins que ce ne fût un enfant n'ayant encore rien senti et rien pensé par lui-même) dont il ne m'ait fallu conquérir l'affection et dont il ne               me faille la conserver'encore avec;quelque soin, qup!que travail et quelque' effort sur'moi-memei 11 est heureux que-I~hnmanite soit faite ainsi et que toutes ces différences! s'y trouvent nuancées a t'innni, aunjque les hommes adoucissent leurs aspérités par le~ frottement mutuel! et se fassent des'règ!es de* conduite' pour'net passe briser tes:uns'contre'!ës.autres. Mais, quand~ deux'créatures'identiques se rencon-, trent face à face, quand, aprës unjour de'téte-à-tète,. elles' s~apercoivent~ avec surprise et enchantement! qu'eH'es.peuvent passer ainsi.tous res~jours de leur vie sans'jamais sevoiler'ni se contraindre, et'sans jamais! se faire souffrir, quelles actions de grâces ne doiventeUes ;pas rendre à Dieu!, car il teur a accorde une faveur d'exception il leur a fait, dans la' personne déi t'aMH, un don inappréciable, que' la plupart des: hommes' cherchent en vain'.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

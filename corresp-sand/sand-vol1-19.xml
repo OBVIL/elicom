@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1829-05-10">10 mai 1829</date>
+          <placeName>Bordeaux</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A M. DUTEIL, AVOCAT, A LA CHATRE (...-...)">A M. DUTEIL, AVOCAT, A LA CHATRE, RECOMMANDÉ A MADAME LA POSTE DE LA CHATRE</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Bordeaux, 10 mai i829.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Hé)as mon estimable ami, que c'est cruel, que c'est enrayant, que c'est épouvantable, je dirai plus, que c'est sciant, de s'éloigner de son endroit et de se voir en si peu de jours transvasé à cent vingt lieues de sa patrie! Si cette douleur est cuisante pour tous les cœurs bien nés, elle est telle pour un cœur berrichon particulièrement, qu'il s'en est fallu de peu que je ne 1. Alexis Pouradier-Duteil, avocat à la Châtre, puis président à la Cour d'appel de Bourges, après avoir occupé les fonctions de procureur général auprès de cette même cour.</p>
+        <p>fusse noyée dans un torrent de pleurs, répandues par PierreS.Thomas', Colette3, Pataude Marie Guillard et Brave 6 torrent auquel j'enjoignis un autre de larmes abondantes. Que dis-je! un torrent? c'était bien une mer tout entière.</p>
+        <p>Après avoir embrassé ces inappréciables serviteurs, les uns après les autres, je m'élançai dans la voiture, soutenue par trois personnes, et j'arrivai sans encombre à Châteauroux. Là, nous fûmes singulièrement égayés par la conversation piquante et badine de M. Didion, qui nous fit pour la cinquante~ septième fois le récit de la maladie et de la mort desa femme, sans omettre la plus légère particularité. A Loches, mon ami, vous croyez peut-être que j&amp; me suis amusée à penser que ces tourelles noircies,. où ma cuisinière mourrait du spleen, avaient été la; résidence d'un roi de France et de sa cour; ou bieo. qne j'ai demandé aux habitants des nouvelles d'Agnès Sorel?. J'avais bien autre chose dans l'esprit. J&amp; songeais, avec recueillement, avec émotion, au passage dans cette ville du respectable et philanthrope M. Biaise Duplomb~, lequel fut rattrapé par des &lt;7Merdins de zendarmes qui l'attacèrent à la queue de</p>
+        <p>1.Pierre Moreau, jardinier. 2. Thomas Aucante, vacher. 3. Jument de George Sand. 4. Chien de garde.</p>
+        <p>6 Chien des Pyrénées.</p>
+        <p>!etM*s cecatMce~ Mais vous savez le reste II est trop pénible de revenir sur de sidéplorabies circonstances. Enfin, mon estima'ble ami, la présente est pour vous dire qu'après cinq jours d'une'traversée fatigante et dangereuse, à travers des-déserts brûlants et des hordes d'anthropophages, après une navigation de cinq minutes sur la Dordogne, pendant'laquelle nous avons couru plus de périls et supporté plus de maux que la Pérouse dans toute sa carrière/nous sommes arrivés, frais et dispos, en la ville de'Bordeaux, presque aussi belle qu'un des faubourgs de 'ta ~Châtre, et où je me trouve fort bien; regrettant néanmoins, vous d'abord, mon ami, puis votre tabatière, .puis les deux lilas blancs qui sont devant mes fenêtres,:et pour .lesquels je donnerais tous les édifices que.l'on bâtit ici. Adieu, mon honorable icamarade, soutenons toujours de nos lumières, et de 'cette.immense supériorité que te cielnous:a donnée'enipartage(avous et à moi), la cause du bon.sens, de la:nature,.de ilajustice, sans oublier la :morale, ta culture libre du tabac et le régime de l'égalité.</p>
+        <p>Rappeliez-moi au souvenir d'Agasta~. Quant à vous, frère, je vous donne l'accolade de l'amitié -et vous prie de vous souvenir un peu de moi. Hélas loin de la patrie, .te ciel est d'airain, lés pommes de terre sont mal ;cuites, jle café..est trop brûlé.</p>
+        <p>Les rues, c'est de la séparation de pierres cette rivière, c'est de la séparation d'eau; ces hommes, de la séparation en chair et en os Voyez Victor Hugo.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              AURORE
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

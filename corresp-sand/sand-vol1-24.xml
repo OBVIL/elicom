@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1828-12-08" resp="">Périgueux, 8 décembre 1829.</date>
+          <placeName>Périgueux</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="AU MÊME (...-...)">AU MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Périgueux, 8 décembre 1629."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Périgueux, 8 décembre 1829.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Jules,</p>
+        <p>J'ai reçu trois lettres de vous. J'ai écrit ce matin à mon frère pour lui recommander de vous donner ma clef tant que vous voudriez. On n'a pas compris que je le recommandais en partant, ou, dans l'agitation 1. Madame Hippolyte Chatiron, belle soeur de Georges Sand.</p>
+        <p>de ce moment, je ne me suis peut-être pas bien expliquée. C'était pourtant mon intention, recevez-en mes xcuses. 'Du reste, vous avez eu, j'espère, à votre disposition la clef de la grande bibliothèque vous avez pu lire à votre aise. Si l'on n'a pas fait de feu dans votre chambre, c'est bien votre faute. II tenait qu'à vous d'en allumer, et vous n'êtes pasit niais, je pense, que d'y mettre de la discrétion. Recommandez donc bien mon bengali et veillez à ce qu'il soit bien tenu; car, si je le retrouve mal soigné, je feraî un train du diable à André*. Faites faire du feu tous les jours dans mon petit réduit, afin qu'en y rentrant, ce qui aura lieu à ta fin de la semaine, je ne le trouve pas froid comme glace. Priez aussi mon frère de monter souvent Liska'. J'ai commencé par on je voulais finir; mais j'ai bien fait, car les petites choses qu'on remet, on les oublie, et les grandes ne sont pas pressées, vu qu'on ne les oubliera pas. Parlons donc de mes enfants. Ma fille est enrhumée, dites-vous? Si elle l'était trop, faites-lui le soir un lait d'amande, vous avez ce petit talent; mettez-y quelques gouttes d'eau de fleurs d'oranger, et une demi-once de sirop de gomme. Maurice lit donc bien? Cela me fait plaisir, c'est pourquoi je lui écris. Je ne peux vous en dire davantage, le temps me presse.</p>
+        <p>Ma santé se maintient bonne, et, d'ailleurs, je suis 1. Domestique de la matson.</p>
+        <p>en humeur de chanter le Nunc dimittis. Vous ne savez pas, hérétique, ce que cela signine?.Je vous le dirai. Bonsoir. Merci de votre exactitude, merci du fond du cœur. Rien ne m'est si doux que de recevoir des nouvelles de ma chère famille. Soignez toujours mon Maurice.</p>
+        <p>Adieu; ne m'écrivez ptus, je pars incessamment.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>AURORE DUDEVANT
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

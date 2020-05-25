@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-01-19">19 janvier 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Duvernet, Charles (1807-1874)">A M. CHARLES DUVERNET, A LA CHATRE</persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris i9 janvier i83)."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris 19 janvier 1831.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher camarade,</p>
+        <p>Il y a huit jours, nous' étions convenus de vous écrire; mais, pour cela, nous voulions avoir de l'esprit comme quatre, et nous avions résolu de nous réunir Alphonse, Jules, Pyat et moi. Or, comme c'est chose assez difficile de nous trouver ensemble, je prends le parti de commencer. D'abord, je veux vous dire, mon cher ami, que vous êtes bien ridicule,</p>
+        <p>'de revenir au moment où je quitte le pays. Vous pouviez bien attendre encore un ou deux mois. Nous aurions été charmants ici tous ensemble. Nous n'aurions pas eu les bords de l'Indre, c'est vrai; mais la Seine est beaucoup plus saine. Nous n'aurions pas eu les Couperies; mais nous aurions eu .tes Tuileries. Nous n'aurions pas mangé le lait champêtre dans des écuelles rustiques; mais nous aurions 'respire l'odeur balsamique des pommes de terre frites ~t des beignets du pont Neuf; ce qui a bien son mérite, quand on n'a pas le sou pour dîner. Ne pourriezvous assassiner tout doucement votre farinier, afin d'en venir chercher un autre à Étampes ou aux environs ? Je suis pour le coup de poignard, c'est une manière si généralement goûtée qu'on ne peut plus en 'vouloir aux gens qui s'en servent.</p>
+        <p>Sans plaisanterie, mon bon Charles, nous parlons souvent de vous, et nous regrettons votre présence, votre bonne humeur, votre bonne amitié et vos mauvais calembours.</p>
+        <p>Votre cousin de Latouche a été fort aimable pour moi. Remerciez bien votre mère du coup de poing. non, du coup de main qu'elle m'a donné en cette occurrence. Occurrence est bien, n'est-ce pas? Hélas! I si votre cousin savait à quelle lourde bête il rend .service, vous en auriez des reproches, c'est sûr. Ne ~ui en disons rien. Devant lui, je suis charmante, je fais la révérence, je prends du tabac à petites prises, j'en jette le moins possible sur son beau tapis à fond</p>
+        <p>blanc. Je ne mets pas mes coudes sur mes genoux, je ne me couche pas sur les chaises; enfin je suis gen-,tille tout à fait, vous ne m'avez jamais vue comme ça. Il a écouté patiemment la lecture de mes oeuvres légères. Le GaM&lt;0!S' n'avait pas eu la force de les porter. H aurait fallu deux mulets pour les traîner jusque-là. Il m'a dit que c'était charmant, mais que cela n'avait pas le sens commun. A quoi j'ai répondu « C'est juste. Qu'il fallait tout refaire. A quoi j'ai dit « Ça se peut. ) Que je ferais bien de recommencer. A quoi j'ai ajouté « Suffit. » Quaat à la Revue de Paris, elle a été tout à fait charmante. Nous lui avons porté un article incroyable; Jules l'a signé, et, entre nous soit dit, il en a fait les trois quarts; car j'avais la fièvre. D'ailleurs, ie ne possède pas,. comme lui, le genre sublime de la Revue de Paris. Il a promis solennellement de le faire insérer et il l'a trouvé bien.</p>
+        <p>J'en suis charmée pour Jules. Cela nous prouve qu'il peut réussir. J'ai résolu de l'associer à mes travaux, ou de m'associer aux siens, comme vous voudrez. Tant y a qu'il me prête son nom, car je ne veux pas paraître, et je lui prêterai mon aide quand il en aura besoin. Gardez-nous le secret sur cette association littéraire. (Vraiment! j'ai un choix d'expressions délicieux!) On m'habille si cruellement à la Châtre (vous n'êtes pas sans le savoir), 1 Surnom de M. Alphonse Fleury,.de la Châtre.</p>
+        <p>qu'il ne manquerait plus que cela pour m'achever. Après tout, je m'en moque un peu; l'opinion que je respecte, c'est celle de mes amis. Je me passe du reste. Je ne vois pas que cela m'ait empêchée jusqu'à présent de vivre sans trop de souci, grâce à Dieu et à quelques bipèdes qui m'accordent leur affection. Je n'ai pas parlé de Jules à M. de Latouche; sa protection n'est pas très facile à obtenir, m'a-t-on dit. Sans la recommandation de votre maman, j'aurais pu la rechercher longtemps sans succès. J'ai donc ~craint qu'il ne voulût pas l'étendre à deux personnes. Je lui ai dit que le nom de Sandeau était celui d'un de mes compatriotes qui avait bien voulu me le prêter.</p>
+        <p>En cela, je suivais son conseil; car, il est bon que je vous le dise, M. Véron, le rédacteur en chef de la Revue, déteste les femmes et n'en veut pas entendre parler. Il a les écrouelles.</p>
+        <p>C'est à vous de savoir s'il est à propos d'expliquer votre maman pourquoi le nom de Sandeau va se trouver dans la Revue et si elle n'en parlera point à M. de Latouche. Il vaudrait mieux lui dire que Jules me prête son nom. Quand nous serons assez avancés pour voler de nos propres ailes, je lui laisserai tout l'honneur de la publication et nous partagerons les profits (s'il y en a). Pour moi, âme épaisse et positive, il n'y a que cela qui me tente. Je mange de l'argent plus que je n'en ai; il faut que j'en gagne, ou que je me mette à avoir de l'ordre. Or ce dernier               point est si difficile, qu'il ne faut pas même y songer. Je suis ici pour un peu de temps, c'est-à-dire pour deux ou trois mois; après quoi, je reviendrai au pays, piocher toutes les nuits et galoper tous les jours, selon ma douce habitude, au grand scandale et mécontentement de nos honorables compatriotes. S'ils vous disent du mal de moi, mon cher ami, ne vous échauffez pas la bile à me défendre;' laissez-les dire.. Chauffez-vous tranquillement les pieds, ayez de bonnes pantoufles et de la philosophie. J'en posséder autant, et, par-dessus tout, ùne vieille et sincère amitié pour vous, dût-on aussi en médire. Je ne suis pas de ceux qui sacriSent leurs amis à leurs ennemis. Bonsoir, mon camarade; je vous embrasse.
+        </p>
+        <p>9.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-01-18" >18 janvier 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN</persName>
+          <placeName>Charleville</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Ma chère petite maman,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Ma chère petite maman,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>L'ami Pierrot m'a lu ce matin le passage de votre</p>
+        <p>lettre me concernant. Je vous remercie du désir que vous témoignez de me voir. Il est bien réciproque. Je compte rester ici deux mois au moins, ainsi je ne puis manquer de vous embrasser cette année. Je n'oserais pas vous prier d'avancer pour moi votre retour. Je craindrais trop de causer du chagrin à Caroline, si heureuse de vous avoir près d'elle. Elle me reprocherait peut-être de vous enlever. Ne croyez point, comme vous semblez le témoigner à notre ami Pierret, que j'éprouve aucun sentiment de jalousie envers ma sœur. Ce serait un sentiment bien bas. Je ne voudrais pas l'éprouver, quand même il s'agirait d'une personne indifférente, à plus forte raison à son égard.</p>
+        <p>Vous demandez ce que je viens faire à Paris. Ce que tout le monde y vient faire, je pense me distraire, m'occuper des arts qu'on ne trouve que la dans tout leur éclat. Je cours les musées; je prends des leçons de. dessin; tout cela m'occupe tellement, que je ne vois presque personne. Je n'ai pas encore été à Saint-Cloud. Depuis plusieurs jours, c'est une partie arrangée avec Pierret; mais le mauvais temps l'ajourne. Je n'ai pas vu non plus M. de Villeneuve', ni mes amies de couvent. Je n'ai pas le temps; puis il faut faire des toilettes, un peu de cérémonie, et cela m'ennuie. Depuis si longtemps, je ne sais ce que c'est que la contrainte des salons. Je veux vivre un peu pour moi. Il en est temps.</p>
+        <p>Je reçois souvent des lettres de mon petit Maurice. Il se porte bien, ainsi que sa soeur. Maurice a un très bon instituteur, fixé près de lui pour deux ans au moins. Cette 'sécurité me donne un peu plus de liberté. Ne lui étant plus absolument nécessaire, je compte venir plus souvent à Paris que je n'ai fait jusqu'ici, à moins que je ne m'y ennuie, ce qui pourrait bien m'arriver. Jusqu'à présent, je n'en ai pas eu le temps, et, si je continue ~à m'y trouver bien, je ne retournerai chez moi qu'au commencement d'avril. Vous le voyez, ma chère maman, je ne puis manquer de vous embrasser cet hiver car vous ne resterez pas tout ce temps-là loin de Paris. S'il en était' 9. Le comte René de Villeneuve, cousin de George Sand.</p>
+        <p>ainsi, j'irais, avant de retourner à Nohant, passer huit jours à Charleville. J'aurais le plaisir d'embrasser ma sœur en même temps, que vous; mais, je le répète, je ne veux en aucune manière vous prier de la quitter pour moi. Vous devez apprécier la délicatesse du sentiment qui ine force à vous exprimer avec réserve le désir que j'ai d'embrasser ma chère maman;               Vous voulez faire un cadeau à Maurice ? Je n'ose pas vous dire qu'il vaudrait mieux en faire. deux &amp; Oscar. Je sais le plaisir qu'on éprouve à donner, et je vous en remercie tendrement de la part de Maurice et de la mienne.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-05-04">Paris, 4 mai 1832</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT, A NOHANT</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris,~maii832."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris,~maii832.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher petit mignon.</p>
+        <p>Nous nous portons bien. Ta sœur est bien mignonne</p>
+        <p>&amp; présent. Nous allons toujours nous promener au Luxembourg et au Jardin des Plantes. Ce dernier est superbe, et tout embaumé d'acacias. Nohant doit être bien joli &amp; présent. Y a-t-il beaucoup de fleurs, et ton jardin pousse-t-il?Lemiense compose d'une douzaine de pots de fleurs sur mon balcon; mais il y a des pousses nouvelles longues comme ma main. Solange en casse bien quelques-unes, et pour que je ne la gronde</p>
+        <p>pas, elle essaye de les raccommoder avec des paiM à cacheter.</p>
+        <p>Nous parlons de toi tous les soirs et tous les matins, en nous'couchant, en nous levant. J'ai rêvé, cette nuit, que tu étais aussi grand que moi; je ne te reconnaissais plus. Tu es venu m'embrasser, et j'étais si contente, que je pleurais. Quand je me suis éveillée, j'ai trouvé la grosse grimpée sur mon lit et qui m'embrassait. Elle aussi grandit beaucoup et maigrit en même temps. Personne ne veut croire qu'elle n'ait pas cinq ans Elle a la tête de plus que tous les enfants de son âge.</p>
+        <p>Tous les bonbons qu'on lui donne, elle les met de coté pour toi; au bout d'une heure, elle n'y pense plus et les mange. Quand nous irons te voir, nous t'en porterons.</p>
+        <p>Adieu, mon petit enfant chéri. Écris-moi plus souvent des lettres un peu plus longues, si tu peux. Tu ne me dis pas ce que tu apprends avec Boucoiran. Adieu; je t'embrasse de tout mon cœur.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

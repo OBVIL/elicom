@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <placeName>Nohant</placeName>
+          <date when="1825-06-29" >29 juin 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Nohant</placeName>
+            <date>29 juin 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous devez me trouver bien paresseuse, ma chère petite maman, et je le suis en effet. Je mène une vie si active, que je ne me sens le courage de rien, le soir en rentrant, et que je m'endors aussitôt que je reste un instant en place.</p>
+        <p>Ce sont là de bien mauvaises raisons, j'en conviens; mais, du moment que nous sommes tous bien portants, quelles nouvelles à vous donner de notre tranquille pays, où nous vivons en gens plus tranquilles encore; voyant peu de personnes et nous occupant de ~soins champêtres, dont la description ne vous amu-</p>
+        <p>~-serait guère? J'ai reçu des nouvelles de Clotilde i, qui m'a dit que vous vous portiez bien c'est-ce qui me rassurait sur votre compte et contribuait! à mon silence puisque j'étais sans inquiétude. Si vous eussiez effectué le projet de venir à Nohant, nous aurions dans ce moment le chagrin de vous quitter. Je pars dans huit jours pour les Pyrénées.. J'ai eu le bonheur d'avoir ici pendant quelques jours,, deux aimables soeurs, mes amies intimes de couvent,; qui.se rendent aux mêmes eaux, avec leur père, et un vieil ami fort gai et fort aimable. En quittant Châteauroux, elles n'ont pu se dispenser de venir passer quelques jours à Nohant, qui était devenu pour moi un lieu de délices par la présence de ces bonnes amies. Je les ai reconduites un bout de chemin et ne les ai quittées qu'avec la promesse de les rejoindre bientôt. Nous allons donc entreprendre un petit voyage de cent quarante lieues d'une traite. C'est peu pour vous qui faites le voyage d'Espagne comme celui de Vincennes mais c'est beaucoup pour Maurice, qui aura demain deux ans. J'espère néanmoins qu'il ne s'en apercevra pas, à en juger par celui de Nohant, qu'il trouve trop court à son gré. D'ailleurs, nous ne voyagerons que le jour et en poste. Nous sommes donc dans l'horreur 'des paquets. Nous emmenons Fan-.chon et Vincent qui est fou de joie de voyager sur 1. Clotilde bâche, née Maréchal, cousine de George Sand..2. Femme de chambre.</p>
+        <p>le siège de la voiture. Pour. moi, je suis enchantée de revoir tes Pyrénées, dont je ne me souviens guère, mais dont on me fait de si belles descriptions. Ne manquez pas de nous donner de vos nouvelles car il semble qu'on soit plus inquiet quand on est plus éloigné.</p>
+        <p>Adieu, ma chère maman je vous embrasse tendrement et vous désire une bonne santé et du plaisir surtout car, chez vous comme chez moi, l'un ne va.guère sans l'autre. Maurice est grand comme père et mère et beau. comme un Amour. Casimir vous embrasse de tout son coeur. Pour moi, je me porte très bien, sauf un reste de toux et de crachement de sang qui passeront, j'espère, avec les eaux.</p>
+        <p>Nous resterons deux mois au plus aux eaux; de là, nous irons à Nérac chez le papa ou nous demeurerons tout l'hiver. Au mois de mars ou d'avril, nous serons à Nohant, où nous vous attendrons avec me. tante et Clotilde.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

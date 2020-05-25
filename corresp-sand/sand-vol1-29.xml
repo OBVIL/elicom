@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-07-20" >20 juillet 1830</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A M. JULES BOUCOIRAN</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant.2Ujui))ct&lt;830."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 20 juillet 1830</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher entant,</p>
+        <p>Où êtes-vous? Je vous écris à tout hasard à Pans. Vous m'aviez promis de venir me voir aussitôt votre retour dans le pays, et je ne vous vois point arriver. Dernièrement madame Saint-Agnan me mandait qu'elle vous voyait souvent. Pourquoi ne m'écrivezvous pas? Je sais que vous vous portez bien, que vous avez conservé l'habitude de cette gaieté bruyante que je vous connais. Mais ce n'est pas assez; je veux que vous bavardiez un peu avec moi et me racontiez ce que vous faites et ne faites pas.</p>
+        <p>Moi, je ne vous dirai rien de curieux. Vous savez comment on vit à Nohant; le mardi' ressemble au mercredi, le mercredi au jeudi, ainsi de suite. L'hiver et l'été apportent seuls quelque diversion à cet état de stagnation permanente. Nous avons le sentiment ou, si vous aimez mieux, la sensation du froid et du chaud pour nous avertir que !e temps marche et que la vie coule comme l'eau. C'est un cours tranquille, celui qui me mène et je ne demande pas à rouler plus vite.</p>
+        <p>Mais vous, dans ce grand et fatigant Paris, comment prenez-vous le fardeau de l'existence? Ah il est lourd à porter par .un temps chaud, avec de longues courses à faire. Je m'y suis amusé ou amusée (comme votre sublime exactitude grammaticale l'entendra). Mais je suis bien aise d'être de retour. Arrangez cela comme vous voudrez.</p>
+        <p>J'en conclus que je me trouve bien partout, grâce à ma haute philosophie, ou à ma profonde nutHte.</p>
+        <p>Vous aimiez assez notre vie paisible, vous êtes né pour cela, et vous avez une tournure faite' exprès pour le grand canapé somnifère de mon silencieux salon. Ne viendrez-vous pas bientôt y lire les journaux ou vous y enfoncer dans une léthargie demi-</p>
+        <p>méditative, demi-ronflante?</p>
+        <p>Il me tarde de vous embrasser, mon cher enfant, de vous morigéner par-ci par-là, avec toute l'autorité que mon âge vénérable et mon caractère grave me donnent sur votre folâtre jeunesse. En attendant, écrivez-moi, ou nous nous fâcherons.</p>
+        <p>Bonsoir, mon cher fils; je suis toujours à moitié aveugle c'est pour qu'il ne me manque aucune des infirmités dont l'imbécillité se compose</p>
+        <p>Cela ne m'empêche pas de vous aimer tendrement. Quand vous viendrez, demandez, je vous prie, à madame Saint-Agnan si elle n'a rien à m'envoyeh de chez Gondet*. Achetez-moi aussi quelques cahiers de t. Gondel, marchand.</p>
+        <p>papier pareil à celui de cette lettre. Quand je dis quelques, c'est-à-dire une vingtaine.. Je vous dois beaucoup de choses. Il me tarde de m'acquitter enversvous. Mais ce que je ne vous rembourserai qu'en amitié, c'est l'infatigable obligeance que vous avez eue pour moi à Paris et à laquelle je sais être sensible, quoique bourrue.               Maurice vous embrasse; il lit bien, mais n'écrit pas assez couramment pour commencer l'orthographe; d'ailleurs, je n'ai encore examiné qu'imparfaitement votre méthode. Je veux m'en pénétrer un peu plus, avant de- la mettre en pratique, et votre secours ne me sera pas inutile.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

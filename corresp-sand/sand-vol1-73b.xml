@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1833-01-18">Paris, 18 janvier 1833</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Boucoiran, Jules (1805-1875)">A M. JULES BOUCOIRAN</persName>
+                    <placeName>La Chatre</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Paris, Il janvier i833,"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Paris, 18 janvier 1833</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. JULES BOUCOIRAN, A LA CHATRE</p>
+                <p>Paris, i8 janvier 1S33.</p>
+                <p>Mon cher enfant,</p>
+                <p>Je n'ai pas répondu plus tôt à votre question par impossibilité. Le fait m'avait paru si peu important, qu'il ne m'en est rien resté dans la mémoire. Mon mari m'a parlé une. fois de votre retour chez madame Bertrand. Je vous ai interrogé; vous m'avez répondu non. Cela me suffisait. Je ne me souviens</p>
+                <p>pas du tout si j'ai reparlé de vous avec mon mari. S'il vous importe de le. dissuader, n'êtes-vous pas bien a même de le faire, vous qui le voyez tous les jours ? ?</p>
+                <p>Vous me faites des reproches très graves, mon cher enfant. Ils constituent de votre fait un tort bien plus grave. Vous me reprochez mes- nombreuses liaisons, mes frivoles amitiés. Je n'entreprends jamais de me justifier des accusations qui portent sur mon caractère. Je puis expliquer des faits et des actions; des défauts d'esprit ou des travers de coeur, jamais. J'ai une trop saine opinion du peu que nous valons tous, pour faire de moi le moindre cas. D'ailleurs, en mon particulier, je ne m'adore ni ne me révère. Le champ est donc libre à ceux qui rabaissent mon mérite. Je suis prête à rire avec eux, s'ils font appel à ma philosophie. Mais, si c'est une question d'affection, si c'est une souHrance .de l'amitié que vous m'exprimez, vous avez tort. Quand on découvre de grandes taches dans l'âme de ceux qu'on aime, il faut se consulter et savoir si l'on peut les aimer encore maigre cela. Le plus sensé est de cesser; le plus généreux est de continuer. Pour que la générosité soit délicate et complète, il faut ne pas leur dire leur fait, car cela est cruel. Tous les reproches qui ont pour objet des faits de légère importance ou des défauts corrigibles, les avertissements affectueux à donner, les avis tendres et les plaintes délicates, tout cela, je le.sais, est du domaine de l'amitié. C'est même</p>
+                <p>son plus beau droit. Mais reprocher un passé déjà loin, contempler en silence des erreurs qu'on juge et qu'on ne pardonne pas, puis les condamner le jour où il n'est plus temps et où l'on ne sait même plus où les prendre, c'est injuste. Dire à la personne aimée &lt;r Votre coeur est froid, léger ou impuissant! s C'est dur, c'est cruel.</p>
+                <p>C'est une humiliation gratuitement infligée, vous faites souffrir sans rendre meilleur. Les cœurs secs ne s'amollissent pas, les cœurs usés ne rajeunissent plus, les cœurs incomplets ne rencontrent ni sympathie ni pitié. Si c'est là mon sort, il est bien brutal de me le signaler. Vous ajoutez que votre caractère a dû me faire souffrir plus d'une fois. Vous en ai-je jamais parlé, moi? Vous ai-je blessé dans ce que nous avons de plus irritable, l'estime de nous-mêmes? Non, je sais trop qu'il faut jeter un voile de pardon et d'oubli sur les imperfections de ceux qui nous sont chers. Adieu, mon cher enfant. Donnez-moi des nouvelles de Maurice et des vôtres le plus tôt possible. Je vous embrasse de tout mon cœur.
+                </p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

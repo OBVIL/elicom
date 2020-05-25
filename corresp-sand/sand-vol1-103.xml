@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1836-05-05">5 mai 1836</date>
+          <placeName>La Châtre</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Liszt, Franz (1811-1886)">A M. FRANZ LISZT</persName>
+          <placeName>Genève</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="LaCMtre,5nmW836."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>LaCMtre,5nmW836.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon bon enfant et frère,</p>
+        <p>Je vous prie de me pardonner mon énorme silence J'ai été bien agitée et terriblement occupée depuis que je ne vous ai écrit. Mon procès a été gagné; puis l'adversaire, après avoir engagé son honneur à ne pas plaider, s'est mis à manquer de parole et à oublier sa signature et son serment, comme des bagatelles qui ne sont plus de mode. Si la possession de mes enfants et la sécurité de' ma vie n'étaient en jeu, vraiment ce ne serait pas la peine de les défendre au prix de tant d'ennuis. Je combats par devoir plutôt que par nécessité.</p>
+        <p>Voilà les raisons de mon long silence. J'attendais toujours que mon sort fut décidé pour vous dire le présent et l'avenir. De lenteur en lenteur, la chère Thémis m'a conduite jusqu'à ce jour, sans que je puisse rien fixer pour le lendemain. Je serais depuis longtemps près de vous, sans tous ces déboires. C'est mon rêve, c'est l'Eldorado que je me fais quand je puis avoir, entre le procès et le travail, un quart d'heure de rêvasserie. Pourrai-je entrer dans ce beau</p>
+        <p>t</p>
+        <p>château en Espagne? Serai-je quelque jour assise aux pieds de la belle et bonne Marie, sous le piano de Votre Excellence, ou sur quelque roche suisse, avec 'illustre docteur .Ra~t~tmo?</p>
+        <p>Hélas! je suis un pauvre diable bien misérable! J'ai toujours vécu le nez en l'air, le nez dans les étoiles, tandis que le puits était à mes pieds, et qu'un tas de myrmidons crottés, criards, haineux je ne sais de quoi, en fureur je ne sais pourquoi, tâchaient de m'y faire rouler. Espérons!</p>
+        <p>Si vous ne partez qu'à la fin de juin, peut-être pourrai-je encore vous aller trouver et passer quelques jours avec vous; après quoi, vous vous envolerez pour l'Italie, heureux oiseau à qui l'on n'arrache pas méchamment et cruellement les ailes; et moi, plus éclopée et plus modeste, j'irai m'asseoir sur la rive de quelque petit lac de poche, pour y dormir le reste de la saison.</p>
+        <p>J'ai été à Paris passer un- mois, j'y ai vu tous mes amis Meyerbeer, sur qui j'écris assez longuement à l'heure qu'il est (j'adore les Huguenots); madame Jal', pour qui j'ai eu, le bonheur de faire quelque chose; votre mère, qui a eu la bonté de venir m'embrasser;. Henri Heine, qui tombe dans la monomanie du calembour, etc., etc. Je n'ai pas vu Jules Janin et je ne sais pas s'il a écrit contre moi. C'est vous qui</p>
+        <p>me l'apprenez; je n'irai pas aux informations. J'ai le t.Femmede lettres..</p>
+        <p>bonheur de ne pas lire de journaux et de ne pas en entendre parler.</p>
+        <p>Je ne comprends rien à Sainte-Beuve. Jel'ai aimé. fraternellement. Il a passé sa vie à me vexer, à me grogner, à m'épiloguer et à me soupçonner; si bien que j'ai fini par l'envoyer au diable. Il s'est fâché, et nous sommes brouillés, à ce qu'il paraît. Je crois qu'il ne se doute pas de ce que c'est que l'amitié, et qu'il a, en revanche, une profonde connaissance de l'amour de soi-même, pour ne pas dire de soi seul. Jocelyn est, en somme, un mauvais ouvrage. Pensées communes; sentiment faux, style lâché, veps plats et diffus, sujet rebattu, personnages traînant partout, auectation jointe à la négligence; mais, au milieu de tout cela, il y a des pages et des chapitres qui n'existent dans aucune langue et que j'ai relus jusqu'à sept fois de suite en pleurant comme un âne. Ces endroits sont faciles à noter; ce sont tous ceux qui ont rapport au sentiment théosophique, comme disent les phrénologues. Là, le poète est sublime; la description, sou,vent diffuse, vague et trop chatoyante, est, en certains endroits, délicieuse. En somme, il est fâcheux que Lamartine ait fait Jocelyn, et il est heureux pour l'éditeur que Jocelyn ait été fait par Lamartine. J'ai fait connaissance avec lui. Il a été très bon pour moi. Nous avons fumé ensemble dans un salon qui est extrêmement bonne compagnie, mais où on me passe tous mes caprices; il m'a donné de bon tabac et de mauvais vers. Je l'ai trouvé excellent M</p>
+        <p>homme, un peu manière et très vaniteux. J'ai fait aussi connaissance avec Berryer, qui m'a semblé beaucoup meilleur garçon, plus simple et plus franc, mais pas assez sérieux pour moi; car je suis très sérieuse, maigre moi et sans qu'il paraisse. Je me suis brouillée avec madame A. qui est une bavarde. J'ai fait connaissance et amitié avec David Richarde Il y a entre nous deux liens l'abbé de Lamennais, que j'adore, comme vous savez, et Charles Didier, qui est mon vieux et fidèle ami. A propos, vous me demandez ce qui en est d'une nouvelle histoire sur mon compte, où il jouerait un r61e?–Je ne sais ce que c'est. Que dit-on? Ce qu'on dit de vous et de moi. Vous savez comme c'est vrai; jugez du reste. Beaucoup dé gens disent à Paris et en province que ce n'est pas madame d' qui est a Genève avec vous, mais moi. Didier est dans le même cas que vous, à l'égard d'une dame qui n'est pas du tout moi. Je n'ai pas vu madame Montgolfier. Elle m'a écrit et m'a envoyé votre lettre. Je lui répondrai a Lyon je n'en ai pas encore eu le temps.</p>
+        <p>Cette lettre de vous est la troisième à laquelle je n'avais pas encore répondu. Je vous en donne aujourd'hui pour votre argent. Bonjour il est six heures du matin. Le rossignol chante, et l'odeur d'un lilas arrive jusqu'à moi par une mauvaise petite rue tor-</p>
+        <p>tueuse, noire et sale, que j'habite au sein de la jolie ville de la Châtre, sous-préfecture recommandable, où ma pauvre poésie se bat les flancs contre l'atmosphère mortelle. Si vous voyiez ce séjour, vous ne comprendriez pas que je m'en accommode; mais j'y ai de bons anus, des botes excellents, et, à deux pas de la ville, des promenades charmantes, une Suisse en miniature.</p>
+        <p>,Adieu, cher Franz. Dites à Marie que je l'aime, que c'est à son tour de m'écrire; au docteur Ratto, qu'il est un pédant, parce qu'il ne m'écrit pas. Vous, je vous embrasse de cœur. J'oubliais de vous dire que j'ai fait un roman en trois volumes in-octavo, rien que ça! Je ne peux pas le faire paraître avant la fin de mon procès, parce qu'il est trop républicain. Buloz, qui l'a payé, enrage*. Vous, qu'est-ce que c'est que toute cette musique que vous faites? Quand, où et comment l'entendraije ? Que vous êtes heureux d'être musicien! GEORGE.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

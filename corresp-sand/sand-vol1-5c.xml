@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <placeName>Nohant</placeName>
+                    <date when="1826-10-09" >9 octobre 1826</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MEME</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+              
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>Nohant</placeName>
+                        <date>9 octobre 1826</date>
+                    </dateline>
+                    <salute>Ma chère petite maman,</salute>
+                </opener>
+                <p>A LA MÊME</p>
+                <p>Pardonnez-moi d'avoir été si longue à vous remercier des peines que vous avez prises pour moi. J'ai été si occupée, si dérangée, et vous êtes si bonne et si indulgente, que j'espère ma grâce. Vous avez bien voulu courir pour vous occuper de ma toilette et de celle de Maurice. Ces emplettes étaient charmantes et font l'admiration d'un chacun. 2</p>
+                <p>dans le pays. Quant à la parure d'or mat, je nomme 'Casimir pour l'aimable présent, et vous' pour'le bon goût. Il m'a empêchée jusqu'à présent de vous écrire, -disant qu'il voulait s'en charger. Mais ses vendanges l'occupent à tel point, que je me -fais l'interprète de -sa reconnaissance: C'est un sentiment que nous pou.'vons bien avoir en commun. Agréez-la et croyez-la bien sincère.</p>
+                <p>Vous nous avez mandé que vous étiez souffrante d'un rhume: Je crains que le froid piquant qui commence à se faire sentir ne contribue pas à le guérir. J'en souffre bien aussi et je commence l'hiver par des douleurs et des rhumatismes. Pour éviter pourtant d'être aussi maltraitée que l'année dernière, je 'me couvre de flanelle, gilet, bas de laine. Je suis comme un capucin (à la saleté près) sous un cilice. Je commence à m'en trouver bien'et à ne plus sentir. ce froid qui me glaçait jusqu'aux os et me rendait' toute triste.</p>
+                <p>Ayez aussi bien soin de vous, ma chère maman à mon tour, je vais vous prêcher.</p>
+                <p>Maurice, grâce à Dieu, annonce 'une santé robuste. '11 est grand, gros et frais comme une pomme. Il est 'très bon, très pétulant, assez volontaire quoique peu gâté, mais sans rancune, sans mémoire pour le chagrin et le ressentiment. Je crois que son caractère sera sen.. sible et aimant, mais que ses goûts seront inconstants; un fonds d'heureuse insouciance lui fera, je pense,</p>
+                <p>prendre son parti sur tout assez promptement. Voilà</p>
+                <p>,ses qualités et ses défauts, autant que je puis en juger,. et je tâcherai d'entretenir les unes et d'adoucir les-. autres. Quant à Léontine vous la verrez. Elle était' charmante entre mes mains. Je savais la prendre. J'ai eu beaucoup de chagrin à me séparer d'elle et je m'inquiète de son voyage. Je sens qu'elle memanque et je crains qu'elle ne soit pas aussi bien qu'avec moi.</p>
+                <p>Hippolyte vous dira que nous attendons le retourde James avec sa femme mais il rie vous dira peutêtre pas les folies qu'il faisaittoute la journée ici avecson ancien, son commandant Duplessis 2. J'aurais bien. envie de vous régaler d'une certaine histoire de portemanteau, si je ne craignais de vous fatiguer de cesenfantillages. Vous pourrez cependant le taquiner vertement, lorsque vous le verrez boire à table, en lui' disant Est-ce que tu as envie de faire ton portemanteau aujourd'hui? C'est le mot d'ordre, et vousobtiendrez sa confession.</p>
+                <p>Adieu, ma chère maman. Clotilde est donc décidément grosse? j'en suis ravie. Caroline ne m'écrit. point. Oscar est-il mieux portant et plus fort? Je vousembrasse bien tendrement,; donnez-moi de vos nouvelles et croyez en vos enfants.</p>
+               
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            AURORE.
+                        </name>
+                    </signed>
+                </closer>
+                <postscript> <p>Comment traitez-vous l'ami t)tcom&lt;e? Faites-lui mes amitiés sincères, si toutefois vous êtes contente de lui. XI</p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

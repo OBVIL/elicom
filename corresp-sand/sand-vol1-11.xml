@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1827-11-22" >22 novembre 1827</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A M. CARON">A M. CARON, A PARIS.</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 22 novembre &lt;B2T.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Il y a bien longtemps, mon bon ami, que je veux vous écrire, et ma mauvaise santé, de jour en jour plus détraquée, m'empêche de faire rien qui vaille,</p>
+        <p>-de m'appliquer même au travail qui .m'est le plus agréable, c'est-à-dire de m'entretenir avec les gens .que j'aime. Au lieu de cela, il.faut m'ennuyer en cérémoniej depuis une semaine avec des gens occupés de .politique et d'élections, que je comprends fort peu, mais qu'il faut avoir l'air de comprendre sous peine d'impolitesse, et devant qui il faut sembler s'intéresser prodigieusement au succès .de choses dont on en-tend parler pour la première fois. Casimir avait l'air tout ce temps d'un chef de parti; et, grâce à ses efforts, -des députés parfaitement libéraux ont été nommés -dans tous les collèges environnants. J'en suis charmée, et je le suis encore davantage de voir cette corvée terminée et de ne plus voir,la Ëèvre sur tous les visages. Casimir m'a dit que -vous aviez été malade, mon 'cher Caron. Donnez-nous de vos nouvelles vous nous oubliez tout à fait, et vous avez tort; car vous. avez toujours en nous de vrais et fidèles amis.</p>
+        <p>Ne craignez donc aucun refroidissement de notre part ma mauvaise santé et les ennuyeuses élections ont été la seule cause de mon long silence. Casimir m'a dit que vous aviez éprouvé beaucoup de chagrins. Quelle qu'en soit la cause, croyez que je les partage du fond du cœur et qu'ils ne me trouveront jamais indifférente.</p>
+        <p>Voici l'ami Dutheil et le beau docteur' qui me ~hargentde vous assurèr de leur amitié.et me forcent -t. Charles Delaveau.</p>
+        <p>de vous dire adieu. Mais, auparavant, nous nous réunissons en corps pour vous prier de venir vous reposer ici de tous vos ennuis et boire sur eux le fleuve d'oubli, composé de vin de Champagne dont Casimir à découvert une nouvelle source dans sa cave. Je crois que je serai obligée d'aller passer une huitaine à Paris pour consulter sur ma santé. Vous seriez bien aimable de me ramener ici et d'y passer une partie -de l'hiver. Vous êtes bien sûr que j'emmènerai Pauline. Adieu, mon cherLatreille; je vous embrasse de tout mon cœur et compte que vous accueillerez ma proposition favorablement.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+             AURORE.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

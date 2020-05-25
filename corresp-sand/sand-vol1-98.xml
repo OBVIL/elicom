@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1836-02-11">11 février 1836</date>
+          <placeName>La Châtre</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guéroult Adolphe (1810-1872)">A M. ADOLPHE GUËROULT. A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="LaCMtre,~KYrier&lt;836."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>LaCMtre,~KYrier&lt;836.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>C'est le mardi gras qu'on prononce mon jugement enséparation.</p>
+        <p>Je ne puis aller, à Paris par conséquent avant le mois de mars. J'en ai bien du regret, d'abord parce que j'ai grand besoin de voir mes enfants et mes amis. ensuite ce bal dont je me serais fait une fête. Tâchez qu'il y en ait un autre où je puisse me trouver J'aime vos prolétaires, d'abord parce qu'ils sont prolétaires, et puis parce que je crois qu'il y a en eux la semence de la vérité, le germe de la civilisation future. Faites-leur part de tous mes regrets. Ditesleur que. je tiens extraordinairement aux étrennes qu'ils ont bien voulu me destiner. Je veux faire connaissance avec eux tous, dès que je serai non plus femme esclave, mais. une femme libre, autant que notre méchante civilisation le permet. Rappetez-moi particulièrement au souvenir de Vincard.</p>
+        <p>Que. devenez-vous, mon ami? Allez-vous en Egypte? Si je gagne mon procès, je renoncerai au tcmr du monde, que nous avions modestement projeté de faire ensemble. La gouverne de mes enfants et celle de mon;</p>
+        <p>petit patrimoine ne me permettront plus de longues absences. Je pourrai toujours vous conduire jusqu'à la frontière, si vous prenez votre volée dans un moment où les plumes repousseront à mon aile. Là, je vous saluerai et vous suivrai de l'œi! jusqu'à l'horizon.</p>
+        <p>Avant tout, soyez heureux autant que faire se peut. Le bonheur est-il refusé à la jeunesse? Je le crois en me sentant devenir de plus en plus calme et satisfaite à mesure que je redescends la vie. La jeunesse est un bonheur par e~e-m~mc, ses distractions lui suf/!SCMt. Ceci n'est pas de moi. Je crois que c'est vrai. Adieu, mon cher Jules César; portez-vous bien, et me ama.</p>
+        <p></p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>GEORGE.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

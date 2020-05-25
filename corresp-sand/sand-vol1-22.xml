@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1829-09-02">2 septembre 1829</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boicauran, Jules (1808-1875)">AH. JULES BOUCOIRAN, A PARIS'</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 2 septembre 1829.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>M. Duris-Dufresne' m'a fait passer, monsieur, votre réponse aux propositions dont il a bien voulu se charger de ma part auprès de vous. Nous sommes d'accord dès ce moment, et, si mon offre vous convient toujours, je vous attendrai au commencement d'octobre. Le bien que M. Duris-Dufresne nous a dit et de la méthode et du professeur nous donne un vif désir de connaître l'un et l'autre/et nous nous efforcerons de vous rendre agréable le séjour que vous ferez parmi nous..</p>
+        <p>Si, dans votre méthode, il est quelque préparation préalable qu'il soit a ma portée de donner à mon fils, veuillez me l'indiquer, afin de rendre votre travail plus facile; sinon, je le disposerai toujours à vous i. Jules Boucoiran, précepteur de Maurice, puis ami intime de !a famiUe..Plus tard, rédacteur en chef du Courrier du Gard. 2. Duris-Dufresne, députe de t'indre.</p>
+        <p>montrer de la docilité et de la reconnaissance, et, ce dernier sentiment, ses parents le partageront, n'en doutez pas. Agréez, monsieur, l'assurance de la considération distinguée avec laquelle j'ai l'honneur de vous saluer. </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              AURORE DUDEVANT.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

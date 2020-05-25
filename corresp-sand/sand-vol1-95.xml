@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1835-11-01">1er novembre 1835</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="d’Agoult, Marie (1805-1876)">A MADAME D'AGOULT. A GENÈVE</persName>
+          <placeName>Genève</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nôhant,l''no&lt;embret835."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nôhant,l''no&lt;embret835.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>M. Franz et M. Puzzi sont des jeunes gens anreux 1. Hermann Cohen, él&amp;ve de Liszt.</p>
+        <p>ils ne m'ont pas répondu, et je tes livre à votre colère. Vous, vous êtes bonne comme un ange et je vous remercie; mais ne soyez pas bonne pour eux et vengez-mo.i de leur oubli, en ne donnant pas un sourire à l'un, pas un bonbon à l'autre pendant tout un jour. Genève est donc habitable en hiver, que vous 'y ,restez? Comme votre vie est belle et enviable! Aussi pourquoi le ciel ne m'a-t-il pas 'fait naître avec de teaux cheveux blonds, de grands yeux bleus bien calmes, une expression toute'céleste et l'âme à t'ave'nant.</p>
+        <p>Au Heu de cela, la bile me ronge et me confine -dans une cellule où je n'ai d'autre société qu'une tête de mort et une pipe turque. Je tiens là comme 'un Lapon à la croûte de gtace qu'il appelle sa patrie, et je ne saurais me figurer, pour le moment, un autre Éden. Vous êtès sous les myrtes et sous les orangers, vous, belle et bonne Marie. Eh bien, priez-y pour moi, afin que je ne quitte pas mes glaces; car c'est là mon élément et te soleil ne tùit pas sur moi. Je ne vous jalouse pas; mais je vous admire et vous -estime; car je sais que l'amour durable est un diamant auquel il faut une boîte d'or pur, et votre âme est ce tabernacle précieux.</p>
+        <p>Tout ce que vous dites sur la non-supériorité des diverses classes'sociales les unes sur tes autres est l. Une pièce anatomique avec des compartiments, légendes et numéros tracés à t'encre, d'après le système phrénologique de Gall et, Spurzheim.</p>
+        <p>bien dit, bien pensé. C'est vrai et j'y crois, parce que c'est vous qui le dites.. Pourtant, je. ne permettrai à nul autre de me dire, que les derniers, ne sont pas les premiers, et que l'opprimé ne vaut pas mieux que l'oppresseur, le dépouillé mieux que le spoliateur,. ~esclave que le tyran. C'est une vieille haine que j'ai contre tout ce qui va s'élevant sur des degrés d'argile. Mais ce n'est pas avec vous que je puis disputer là-dessus. Votre rang est élevé, je le salue, je le reconnais. Il consiste à être bonne, intelligente et belle. Abandonnez-mo~ votre couronne de comtesse et laissez-moi la briser, je, vous en donne une d'étoiles .qui vous va mieux.</p>
+        <p>Pardonnez-moi si je suis métaphorique aujourd'hui et ne vous moquez pas de moi, je vous en prie, pour l'amour de Dieu. Vous savez que je n'ai. pas d'emphase ordinairement, et, sije.memets à prendre le ton pédant, c'est que j'ai mapauvre tête malade de ce brouillard qu'on appelle poésie. D'ailleurs, les manièresraisonnables sont bonnes avec cette fourmilière ennemie qu'on- appelle, les indifférents. Avec ceux. qu'on, aime, on peut être ridicule à son aise. Et jer veux ne pas plus me gêner pour vous dire des choses, de mauvais goût quoi pour, vous envoyer une lettretoute barbouillée.</p>
+        <p>Imagmez-vous, ma chère amie, que mon:plus grand supplice, c'est la timidité. Vous ne vous en douteriez guère, n'est-ce pas? Tout le monde me croit l'esprit et, le caractère; fort audacieux. On~ se trompe.; J'ai!</p>
+        <p>l'esprit indifférent et le caractère quinteux. Je ne crains pas, je me méfie, et ma vie est un malaise affreux quand je ne suis pas seule, ou avec' des gens avec lesquels je me gêne aussi peu qu'avec mes chiens. Il ne faut pas espérer que vous me guérirez de sitôt de certains moments de raideur qui ne s'expriment que par des réticences. Si nous nous lions davantage, comme j'y compte, comme je le veux, il faudra que vous preniez de l'empire sur moi; autrement, je serai toujours désagréable. Si'vous me traitez comme un enfant, je deviendrai bonne, parce que je serai à l'aise, parce que je ne craindrai pas de tirer à conséquence, parce que je pourrai dire tout ce qu'il y a, de plus bête, de plus fou, de plus déplacé, sans avoir honte. Je saurai que vous m'avez acceptée. Si j'ai de mauvais moments, j'en aurai aussi de bons. Autrement, je ne serai ni bien ni mal. Je vous ennuierai et je m'ennuierai avec vous, quelque parfaite que vous soyez.</p>
+        <p>Voyez-vous, l'espèce humaine est mon ennemie, laissez-moi vous le dire; j'aime mes amis avec tendresse, avec engouement, avec aveuglement. J'ai détesté profondément tout le reste. Je n'ai plus de furie pour la haine aujourd'hui; mais il y a un froid de mort pour tout ce que je ne connais pas. J'ai bien peur que ce ne soitlà ce qu'on appelle l'égoïsme de la vieillesse. Je mènerais maintenant hacher pour des idées qui ne se réaliseront sans doute pas de mon vivant. Je rendrais service au dernier des goujats, par</p>
+        <p>obstination pour les espérances de toute ma vie, qui n'est peut-être plus qu'un long rêve. Pour mon plaisir, je ne retirerais pas de l'eau l'enfant de mon voisin. J'ai donc quelque chose en moi qui serait odieux, si ce n'était pure infirmité, reste d'une maladie aiguë. Il faut vous arranger bien vite pour que je vous aime. Ce sera bien facile. D'abord, j'aime Franz. 11 m'a dit de vous aimer. Il m'a répondu de vous comme de lui.</p>
+        <p>La première fois que je vous ai vue, je vous ai 'trouvée jolie; mais vous étiez froide. La seconde fois, je vous ai dit que je détestais la noblesse. Je ne savais pas que vous en étiez. Au lieu de me donner un soufflet, comme je le méritais, vous m avez parlé de votre âme, comme si vous me connaissiez depuis'dix ans.. C'était bien, et j'ai eu tout de suite envie de vous aimer; mais je ne vous aime pas encore. Ce n'est pas parce que je ne vous connais pas assez. Je vous connais autant que je vous connaîtrai dans vingt ans. C'est vous qui ne me connaissez pas assez. Ne sachant si vous pourrez m aimer, telle que je suis en réalité, je ne veux pas vous aimer encore. C'est une chose trop sérieuse et trop absolue pour moi qu'une amitié. Si vous voulez que je vous aime, il faut donc que vous commenciez par m'aimer; cela est tout simple,.je vais vous le prouver. Une main douce et blanche rencontre le dos agréable d'un porcépic, le charmant animal sait bien que la main blanche ne lui fera aucun mal. H sait qu'il est peu mignon à i8.</p>
+        <p>caresser, lui, le pauvre malheureux. Il attend, pour'répondre aux caresses,, qu'on se soit habitué. à ses. piquants; car, si la, main qu'il' aime'le quitte (il n'y a., pas de raison pour qu'elle y revienne),.le porc-épic aura beau se dire Ce, n'est pas ma faute, cela ne le consolera pas du tout.</p>
+        <p>Ainsi, voyez si vous pouvez accorder votre coeur à, un porc~ptc. Je suis capable: de tout. Je vous feratr mille sottises. Je vous marcherai sur les pieds. Je vous. répondrai une grossièreté à propos de rien. Je vous reprocherai un défaut que vous. n'avez pas. Je vous. supposerai une intention que vous n'aurez jamais eue.. Je vous tournerai le dos. En un mot, je serai insup-; portable jusqu'à ce que je sois bien sûre que je n&amp;. peux pas vous fâcher et vous dégoûter de moi. Oh! alors, je vous porterai sur mon dos.. Je; vous, ferai la cuisine. Je laverai vos assiettes. Tout ce: que vous me direz me semblera divin. Si vous marchez; dans quelque chose de sale, je trouverai que cela sent bon. Je vous verrai, avec les~mêmes yeux que j'ai pour" moi-même quand je, me. porte, bien et, que je suis de.. bonne humeur;, c'est-à-dire, que, je me; considère.. comme une perfection, et que,tout.co.q.ui;n~est pas de mon, avis est l'objet de. mon profond inép!!is..Arrangezvous donc pour que je vousfasse entrer dansâmes yeux,, dans mes oreilles,, dans mes veines, dans. tout morn être. Vous saurez alors que personne, sur la. terre n'aime plus que moi, parce.que.j'aime sans rougir de ta raison qui me, fait aimef.. Cette. raison,, c'est IsL</p>
+        <p>reconnaissance que j'ai pour ceux qui m'adoptent. Voilà mon résumé. II n'est pas modeste; mais il est très sincère. Je considère comme un amphigouri. de paroles toute amitié qui ne convient pas de sa partialité, de son impudence, de sa camaraderie, de tout ce qui fait que le monde se moque et dit ? lis s'adorent entre eux (asinus asinum). S'il en est autrement, dites-moi qui m'aimera sur la terre? Qui est semblable à un autre? Qui n'est pas choqué et blessé cent fois. par jour par son meilleur ami, s'il veut l'examiner des sommets planchiques de l'analyse, de la. philosophie, de la critique, de l'esthétique (et tout ce que rime en ique)? Il faut toujours trouver que notre ami a raison, même dans les choses où nous aurions tort de -l'imiter. Pour cela, il faut être sûr que t'être auquel on confère ce grand droit et cé grand titre d~'ami ne fera jamais que des choses bonnes ou excusables, ou' dignes de miséricorde.</p>
+        <p>Songez-y donc, et voyez si vous pouvez étre~inst pour moi. J'aimerais mieux terminer tout de suite nos relations et m'en tenir avec vous à 'des, froideurs gauches, seule chose dont je sois capable quand, je' n'aime pas, quede vous.tromper sur les. aspérités de; mon, charmant caractère. Mais.je serais, bien malheu~ reuse pourtant, de, rencontrer une- femme, comme' yoms, et de ne pas engrener le, rouage de ma vie; am sien.</p>
+        <p>Bonsoir, mon amie; répondez-moi' tout d&amp; suite, e&lt;; ionguemenh Si'vousne sentez rien pour moi,. dites-le*.</p>
+        <p>Je ne vous en voudrai pas. Je vous estimerai pour votre franchise. Si vous vous méfiez, dites-le encore cela me laissera l'espérance, car les défauts que j'ai sont de nature à être tolérés, et peut-être adoucis ~par vous.</p>
+        <p>Je me suis permis de vous dédier Simon, conte assez gros qui va paraître dans la Revue. Comme je ne sais quelle est la position extérieure que vous avez adoptée à Genève, j'ai fait cette dédicace excessivement mystérieuse, et telle qu'on ne vous devinera pas, à moins. que vous ne m'autorisiez à m'expliquer davantage.</p>
+        <p>Je ne vous disais rien de ma vie. Il faut que vous sachiez que je suis toujours à la campagne, chez moi Je plaide en séparation contre mon époux, qui a déguerpi, me laissant maîtresse du champ de batailla 'attends la décision du tribunal. Je suis donc toute seule dans cette grande maison isolée; il n'y a pas un domestique qui couche sous mon toit, pas même ur. chien. Le silence est si profond la nuit (vous ne voudrez pas me croire, et pourtant c'est certain), que, quand j'ouvre ma fenêtre et que le vent n'est pas contraire, j'entends distinctement sonner l'horloge de la ville, qui est à une grande lieue de chez moi, à vol d'oiseau. Je ue reçois personne, je mène une vie monacale. J'attends l'issue de mon procès, d'où dépend le pain de mes vieux jours; car vous pensez bien que je n'amasserai jamais un denier pour payer l'hôpita on la tendresse d'un mari me laisserait mourir.</p>
+        <p>Mais voyez! Il a eu l'heureuse idée de vouloir me tuer un soir qu'il était ivre. En attendant que cette benoîte fantaisie de meurtre conjugal me rende mon pays, ma vieille maison et cinq ou ~ix champs de blé qui me nourriront quand mes longues veilles m'auront jetée dons l'idiotisme, je fais le Sixte-Quint. Mon cheval est rentré sous le hangar et on n'entend pas voler une mouche autour de mon cloître désert. Le jardinier et sa femme, qui sont mes factotums, m'ont suppliée de ne pas les faire demeurer dans la maison. J'ai voulu en savoir le motif. Enfin le mari, baissant les yeux d'un air modeste, m'a dit &lt;: C'est que madame a une tête si laide, que ma femme, étant enceinte, pourrait être malade de peur. ;f Or c'est de ~a tête de mort qui est sur ma table, dont il voulait parler (du moins à ce qu'il m'a juré ensuite); car ja trouvai la plaisanterie de fort mauvais goût et je me fâchai. Ensuite j'ai songé que cette tête si laide ferait grand effet. J'ai permis à mon jardinier de s'éloigner et de garder la pensée que cette tête était un signe de pénitence et de dévotion.</p>
+        <p>Ainsi, à l'heure qu'il est, à une lieue d'ici, quatre mille bêtes me croient à genoux dans le sac .et dans la cendre, pleurant mes péchés comme Madeleine. Le réveil sera terrible. Le lendemain de ma victoire, je jette ma béquille, je passe au galop de mon cheval aux quatre coins de la ville. Si vous entendez dire que je suis convertie à la raison, à la morale publique, à t'amour des lois d'exception, à Louis-Philippe, le père</p>
+        <p>tout-puissant, et à son filsPoulot-Rosolin, et àsa sainte Chambre catholique, ne vous étonnez de.rien. Je suis capable de faire une ode, au roi,. ou, un sonnet a M. Jacqueminot.</p>
+        <p>Je vous écris tout ce qu'i! y a de plus bête. Tâchez d'en faire autant pour vous mettre à mon niveau. Il n'y a pas à dire, vous. y êtes forcée.</p>
+        <p>Bonsoir. A vous..</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              GEORGE.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

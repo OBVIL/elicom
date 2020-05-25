@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1835-12-15">15 décembre 1835</date>
+          <placeName>La Châtre</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">AU MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="La Châtre, &lt;5 décembre &lt;835."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>La Châtre, &lt;5 décembre &lt;835.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monbonange,</p>
+        <p>Ta petite lettre est bien gentille, malgré tes gros enfantillages. Tu peux bien rire de la poire, si cela t'amuse; mais il ne faut avoir de haine pour personne à ton âge. Cela ne sert à rien, tu ne peux faire encore aucun bien aux hommes, aucun mal aux ennemis de l'humanité. H est bien vrai que Louis-Philippe est l'ennemi de l'humanité mais, quand tu le traites de grosse bête, tu te trompes beaucoup. C'est peut-être l'homme le plus un et le plus habile de France. Malheureusement, il fait de ses talents un usage funeste, et, au. lieu de répandre l'amour de la vertu autour de lui, il déshonore de son mieux tout ce qui l'entoure.</p>
+        <p>tt déshonore réellement la France qui le supporte. C'est un grand malheur de voir qu'un seul homme peut, en caressant les vices et les mauvais sentiments, ~dégrader toute une nation et l'entrainer dans le mal. Tu raisonnes très bien d'ailleurs, seulement tu fais encore une erreur en disant &lt;r La tM~Mfe a été injuste envers une grande partie du genre humain; B tu veux dire la société.</p>
+        <p>La nature, mon pauvre enfant, est une bonne mère; c'est Dieu, ou du moins c'est son ouvrage; c'est elle qui nous donne les moissons, les forêts, les fruits, les</p>
+        <p>prairies, ces belles fleurs que j'aime tant, et ces beaux papillons que tu soignes si bien. La nature offre d'ellemême toutes ses productions à l'homme qui sème et recueille. Les arbres ne refusent pas leurs fruits au voyageur qui les cueille en passant, et les tégume viennent aussi beaux dans le terreau d'un simple jardinier que dans le jardin d'un prince. v</p>
+        <p>La société, c'est autre chose ce sont les conventions faites entre les hommes pour le partage des productions de la nature. Ce n'est pas la justice, ce n'est pas le sentiment de la nature qui a dicté ces lois, c'est la force. Les faibles ont eu moins que les autres, et les infirmes n'ont rien eu du tout. Le droit d'héritage a conservé cette inégalité et puis, dans les temps civilisés, comme le nôtre par exemple, les plus instruits et les plus habiles sont devenus riches et n'ert sont pas devenus meilleurs pour cela. Les pauvres ignorants sont et seront toujours dans une affreuse mi-</p>
+        <p>sère, si on ne fait rien pour eux. Dis donc que la société est injuste, et non pas la nature.</p>
+        <p>Nous parlerons de tout cela. souvent et peu à peu nous nous entendrons. Pour le moment, je ne veux pas te fatiguer l'esprit. Tu vas bientôt lire un très beau livre que l'on donne heureusement dans les collèges c'est le De viris illustribus, par Plutarque. Il faudra le lire avec attention. Tout ce qu'il y a de beau dans l'âme humaine est senti et indiqué dans ce livre. J'irai à Paris pour Noël, parce que tu auras plusieurs jours de sortie et que j'en profiterai. Fais attention de compter le.nombre de sorties que tu auras eues avec ton père, depuis le jour de son arrivée à Paris jusqu'à Noël. N'y manque pas, je te dirai ensuite pourquoi, et souviens-toi de tout ce que je t'ai recommandé. Tu as très bien fait de ne pas montrer ta lettre à Buloz. Il faut garder les lettres que je t'écris pour toi seul. Adieu, mon amour; je t'embrasse mille fois. </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Ton CEOKGE.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

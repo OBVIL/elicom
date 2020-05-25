@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1832-04-04" >4 avril 1832</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT</persName>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Nohant;a2Mmerd833."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Nohant;a2Mmerd833.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A MAURICE DUDEYANT, A NOUANT Paru, 4 Mri) f83&amp;</p>
+                <p>Nous sommes arrivées en bonne santé, ta soeur et moi, mon cher petit amour. Solange n'a fait qu'un somme depuis Chàteauroux jusqu'ici. Elle a pensé à toi et à sa bonne; eUe a pleuré deux fois pour vous avoir; mais elle s'est consolée bien vite. A son âge, le chagrin ne dure guère. Elle a été douce et gentille tout le temps. Quand tu étais tout petit, tu n'étais pas si patient qu'elle. En arrivant, elle a reconnu tout de suite ton portrait et elle a pleuré puis elle n'a pas tardé à s'endormir.</p>
+                <p>Je l'ai menée au Luxembourg, au Jardin des Plantes. Elle a vu la girafe, et prétend l'avoir déjà</p>
+                <p>bien vue à Nohant dans un pré. Elle a dcnné à manger dans sa main aux petits chevreaux du Thibet et aux grues. Elle a vu les animaux empaillés et ne veut pas comprendre qu'ils ne sont pas en vie. Du reste, elle n'a pas peur du tout; pourvu que je lui donne la main, elle ne s'effraye de rien.</p>
+                <p>Elle rit, elle chante, elle est gentille à croquer. Elle mange comme six, elle s'endort dans. les omnibus, elle se réveille quand on descend et se met à marcher sans grogner. il est impossible d'être meilleure enfant. Je suis bien contente de l'avoir avec moi. Si je t'avais aussi, mon pauvre enfant, je serais bien heureuse.</p>
+                <p>Et toi, mon petit chat', comment te portes-tu? t'amuses-tu toujours bien? Ta grue est-elle toujours en vie?</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                            Adieu, mon cher petit ange. Je t'embrasse cent mille fois sur tes joues roses et sur ton grand pif, sur tes grands yeux et sur tes beaux cheveux. Écris-moi bien souvent. Ta soeur t'embrasse aussi; elle' veut te porter des fraises et des glaces dans du papier. Ce sera propre en arrivant
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

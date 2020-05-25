@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-07-16">Paris, 16 juillet 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">AU MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, i6jui))et)S3i"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 16 juillet 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je suis enfin installée tout à fait chez moi, mon petit amour. J'ai trois jolies petites chambres sur la rivière avec une vue magnifique et un balcon. Quand tu viendras me voir, tu t'amuseras à voir dénier les troupes et à regarder les pompiers sous les armes. Il y a un poste vis-à-vis. Toutes les fois qu'un gendarme paraît, ces pauvres pompiers sont obligés de cou,rir à leurs fusils. Comme cela arrive fort souvent, ils n'ont pas une minute de repos par jour, et les passants s'amusent à les gouailler. Tu verras aussi les tours de Notre-Dame, qui sont toutes couvertes d'hirondelles. Il y a des ugures de diables en pierre</p>
+        <p>-tout autour des murs, et les oiseaux se cachent daus Jeur gueule pour y bâtir leur nid.</p>
+        <p>J'ai vu encore ton cousin Oscar hier au soir. Il est bien gentil et ne veut pas me quitter. Il va entrer en 'pension; sans cela, je te l'aurais amené et vous auriez joué ensemble, mais il est temps qu'il apprenne ce que tu sais déjà. Tu seras bien content, lorsque ~u entreras au collège, d'avoir pris de bonnes.leçons d'avance. Tu auras moins de peine que les autres -enfants de ton âge, et tu verras que c'est un grand bonheur d'avoir été forcé de travailler.               Écris-moi donc, mon cher enfant ta dernière lettre-est très bien. EHe m'a fait grand plaisir, et je l'ai em'brassée bien des fois. Si tu étais là, mon pauvre petit, je te mordrais les joues. En attendant, embrasse ta sœur et porte-toi bien. Pense souvent à ta mère, qui t'aime plus que tout au monde.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

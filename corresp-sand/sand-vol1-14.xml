@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1828-04-16" >16 avril 1828</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A N. CARON">A N. CARON, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant,16 avril 1828</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je reçois a l'instant votre lettre, mon bon Caron.</p>
+        <p>Elle me fait tant de plaisir, que j'y veux répondre tout de suite. Vous êtes mille fois aimable de vous être décidé à nous venir trouver. Nous en sautons de joie, Casimir et moi. Je vais, par le même courrier, renouveler mon invitation à madame Saint-Agnan, que j'aurai le plus grand plaisir a recevoir, comme je le lui</p>
+        <p>ai dit vingt fois et comme, j'espère, elle n'en doutepas. Je ne sais com~e~ ~e filles e!te'm'amènera. Je sais qu'il y en a une en pension mais, les eût-elles toutes, la maison. est assez grande pour les loger, et nous avons des poulets dans la cour en suffisante quantité pour approvisionner un régiment.</p>
+        <p>J'ai encore une demande à vous faire c'est, au cas où madame Saint-Agnan voudrait emmener une femme de chambre, de l'en dissuader, comme si cela venait de vous, en lui disant qu'elle n'en aura pas besoin ici, puisque j'en ai une qui n'a rien à faire et qui sera à son service. Je ne voudrais pas qu'elle s'aperçût de ma répugnance à cet égard, parce qu'elle croirait peut-être que j'y mets de la mauvaise grâce. Elle setromperait car je serai enchantée de la recevoir, elle et sa famille. Vous savez aussi que ce n'est pas la crainte de nourrir une personne de- plus, puisqu'il s'en nourrit dans ma maison plus que je ne le sais souvent moi-même. Je crains ici les domestiques étrangers, parce que mes Berrichons sont de simples et bons paysans ignorant toutes les rubriques des gens de Paris.</p>
+        <p>L'année dernière, la femme de chambre de madame Angel avait mis la maison en révolution par ses plaintes, ses propos. Les uns me demandaient leur compte pour aller à Paris,, où elle se faisait fort de les placer; les autres voûtaient doubler leurs gages, etc., etc. Je vous entretiens de ces balivernes parce qu'un mot dit en passant à madame Saint-Agnan peut m'épargner ces</p>
+        <p>petits désagréments. Si cependant elle insiste, qu'il n'en soit plus question et prenez que je n'ai rien dit. Vous pensez qu'une aussi petite considération ne refroidira pas le plaisir que j'aurai à la voir. Adieu, mon bon ami venez au plus vite. Votre chambre vous attend; le lit de Pauline sera auprès du vôtre, ou, si vous voulez dans ma chambre, à coté de celui de Maurice. Nous vous attendons avec une grande impatience, et je vous embrasse de tout mon cœur.</p>
+        
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>Votre fille. AURORE.
+            </name>
+          </signed>
+        </closer>
+        <postscript><p>Les amis de la Châtre vont être bien joyeux de la bonne nouvelle de votre arrivée.</p></postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

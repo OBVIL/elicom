@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1833-12-20" >Marseille, 20 décembre 1833</date>
+                    <placeName>Marseille</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Boucoiran, Jules (1805-1875)">A M. JULES BOUCOIRAN, A PARIS</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+
+                <p>A M. JULES BOUCOIRAN, A PARIS Marseilte, 90~ décembre 1833</p>
+                <p>Mon cher enfant,</p>
+                <p>Je suis arrivée ici sans trop de fatigue et j'en: retpars après-demain. Je. vais à Pise ou, à. Naples,. je, né sais lequel. Écrivez-moi à Livourne, poste. restante. Donnez-moi, des. nouvelles; de. mon gamin. Soyez bon pour lui, comme vous l'êtes toujours, et protégez-le contre les petits, ennuis dont je vous.ai parlé. Avez-vous réussi à dîner le jour de mon départ? Je. vous ai fait faire; une journée. de, corvée. Sans vous, je ne serais, pas. venue, à. bout de' partir.. Avez-vous. eu la bonté de ranger tout. chez. moi, de mettre, dehors mes ehambrières, de fermer portes et fenêtres, etc., etc.? Ayez soin de. retirer les clefs de tous: les meubles et de les mettre en, paquet dans le.secré– taire, dont vous prendrez la clef, chez vous.. Je'vous remets ajssi la surintendance. des, rats, et souris, avec autorisation d'en manger à discrétion et de boire tout le vin de ma cave.</p>
+                <p>A propos de cela, il faudra encore que vous ayez 9'obligeance de descendre à la susdite cave et de surveiller la conduite de mes bouteilles devin, pour empêcher la sympathie de ces demoiselles pour le gosier "des laquais et portiers de la maison.</p>
+                <p>Faites une note de toutes vos petites dépenses pour moi, spectacles et sapins pour Maurice, ports de -lettres, etc., etc.</p>
+                <p>Votre pays est très beau le long du Rhône. Cette navigation est magnifique. Du reste, vos villes de Lyon, Avignon et Marseille sont stupides. Je ne voudrais pas les habiter en peinture, et je remercie le ciel de pouvoir m'en sauver bientôt. MarseHIe est absolument tel que vous me l'avez dépeint. Il faut faire une tieue pour voir la mer et le port ressemble assez a la mare aux canards à Nohant.</p>
+                <p>Il y fait déjà un temps charmant et des matinées qui valent nos journées d'avril.</p>
+                <p>Adieu, mon cher ami. Je vous,recommande bien de me donner des nouvelles de mon mioche et de me remplacer auprès de lui. Je ne sais vraiment pas comment s'arrangerait ma vie si je n'avais pas votre bonne amitié et votre éternelle complaisance pour in'aider et me tranquilliser Adieu; je vous embrasse. Tomtàvous.</p>
+                <p>-AURORE D.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

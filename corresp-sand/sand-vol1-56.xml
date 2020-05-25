@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-09-09">Nohant, 9 septembre 1831</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURtCE DUPIN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant, 9 septembre &lt;83i. Ma chère maman,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 9 septembre &lt;83i. Ma chère maman,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>.Je suis arrivée en bonne santé. Merci de votrt</p>
+        <p>petite lettre. Je suis coupable de ne vous avoir pas prévenue, mais j'étais si lasse et, en même temps, si contente de revoir mes enfants</p>
+        <p>J'ai trouvé mon mari à Châteauroux; il était venu au-devant de moi avec Maurice. Celui-ci est toujours maigre, sa sœur toujours énorme, Nohant toujours tranquille, la Châtre toujours bête. Le précepteur est parti en vacances; je le remplace pour le français et la géographie, Casimir pour le latin et le calcul. Vous voyez que c'est une vie édifiante. Cela n'empêchera pas qu'ou ne me trouve très coupable. Les gens qui n'ont rien à faire cherchent des torts à autrui pour s'occuper; c'est .une manière comme une autre de passer le temps. Moi, je persévère dans une tranquillité qui les démonte.</p>
+        <p>Je n'ai pas vu Caroline; embrassez-la pour moi. Tâchez de m'envoyer Hippolyte et sa femme. J'ai trouvé mon mari très bien; je crois qu'il serait bien facile à Hippolyte de le tenir toujours disposé en ma faveur.Il ne faudrait que le vouloir, et fermer l'oreille aux sales petits cancans qui remplissent la vie de ce monde, et qui en font le principal ennui.</p>
+        <p>Si l'on continue à me laisser vivre en paix, je prolongerai mon séjour ici. J'ai déjà songé à remettre mes engagements du 30 septembre un peu plus loin. C'est la conduite des autres qui dictera la mienne. Je travaille le soir à mon roman; cela m'amuserait bea:jcouj' s) je n'étais pas obligée de me dépêcher. Une autre fois, je prendrai plus de latitude avec mon édi-</p>
+        <p>teur, afin de travailler pour mon plaisir et sans fatigue.</p>
+        <p>On dit que je suis partie pour l'Italie avec Stéphane. Ce qu'il y a de bon, c'est que je ne sais pas où il est. Je ne l'ai pas vu depuis six mois. Quant à moi, je crois bien être à Nohant dans ce moment-ci; cependant, si les gens de la Châtre sont absolument sûrs que je sois à Rome, je ne voudrais pas leur faire de peine en leur soutenant le contraire. Adieu, ma chère petite maman; traitez-moi tou'ours avec bonté. Je vous embrasse de tout. mon coeur. ainsi que mon ami Pierrot.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

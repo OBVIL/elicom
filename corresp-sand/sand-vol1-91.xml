@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1834-10-15" >15 octobre 1834</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Duvernet, Charles (1807-1874)">A.M.CHARLES DUVERNET. A. LA CHATRE.</persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Pàrts,iSoctoiircl834."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 15 octobre 1834</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher camarade,,</p>
+        <p>Je te trouve injuste:etfou~.de'douter'de. mon ami~tié.. Ce qui! répare2 ta. faute,, c'est que tu promets'de&amp; t'en rapporter ayeuglément: et pouc'toujours à ma réponse.,</p>
+        <p>Eh bien, oui, mon ami, je t'aime sincèrement et de tout mon cœur. Je m!inquiete fort peu ;de .savoir si ton caractère est bon ou mauvais, aimable ou maussade. J'accepte tous les caractères .tels.qu'ils.sont, parce que je ne crois guère qu'il soit :au pouvoir de l'homme de refaire son .tempérament, défaire dominerle'système nerveux,sur le .sanguin, ou le bilieux sur :Ie lymphatique..Je.crois que.notre .manière d'être dans l'habitude de la vie -tient essentiellement à notre organisation physique, et je-ne ferai un ~crime à,personne d'être semblable à .moi, ou différent de moi..Ce dont je m'occupe,c'estdufonddespensées et .des.sen- timents sérieux, c'est ce qu'on appelle.le coeur; quand il n'y en a pas chez un homme, quoique cela ne soit guère sa faute non plus, je m'éloigne de lui, parce que, après tout, j'en ai un, moi N'ayant rien à débrouiller avec les caractères, .dans ma vie d'indépendance et d'isolement .social, je .n'ai à itraiter que de conscience à conscience et de cœur à cœur. J'ai toujours connu le tien bon et sincère; je l'ai cru peutêtre quelquefois moins chaud qu'il ne l'est, et,c'est un tort que j'ai eu envers tous mes amis.</p>
+        <p>Cela est venu à la suite de grands chagrins qui m'avaient réduite moralement à un état .maladif. H faut me le pardonner; car je n'en ai point parlé :et j'en ai cruellement souffert. Il n'y avait aucune raison gui ne vînt de moi et non des autres. Ainsi j'aurais été folle de me plaindre.</p>
+        <p>Il ne faut pas me reprocher d'avoir gardé le silence;</p>
+        <p>mais surtout il ne faut pas croire que cela dure encore. Je suis guérie, non que je sois heureuse d'ailleurs, mais parce que je suis habituée et résignée à mes maux, et que le sentiment delà douleur n'égare plus mon jugement.</p>
+        <p>J'ai été vers vous, repentante et attristée de mes doutes intérieurs, et vous m'avez si bien reçue, vous m'avez témoigné une affection si vraie, que j'ai été ~e tout à fait guérie en vous pressant la main. Il y a bien des explications, bien des justifications, bien des attestations, dans une brave poignée de main. On dit qu'une poignée de main d'amitié vaut mieux que mille baisers d'amour. Comment veux-tu que celle que je t'ai donnée en arrivant et en partant ne soit pas sincère ?</p>
+        <p>Nous sommes tes deux plus vieux camarades de la soèiété, et je sais qu'en toute occasion, tu m'as défendue contre les injustices d'autrui. Je sais que tu n'as pas douté de moi quand on me calomniait, et que tu m'as pardonné, quand je faisais les folies que le monde traite de fautes. Que me faut-il de plus? Tu as de l'esprit par-dessus le marché, et ta société est agréable et récréante; c'est du luxe, mon enfant. Tu as une femme gentille et excellente, qui m'a traitée tout de suite comme une vieille amie. La meilleure preuve que je puisse avoir de ton affection, c'est la conduite d'Eugénie'envers moi. Tout cela m'a fait un bien que je n'ai 1. Madame Charles Duvernet.</p>
+        <p>pas su vous exprimer, mais que je croyais vous avoir fait comprendre en revenant de Valençay. Jamais je n'avais eu le coeur si doucement ému, si ,attendri, si consolé au milieu des sujets de douleur les plus profonds et les plus graves.</p>
+        <p>Si quelquefois tu as mal compris mon rire et mon visage, c'est apparemment la faute de ce combat intérieur entre mes peines secrètes et le bonheur qu~ me vient'de vous autres. Après tout, vous me restez, et, quand j'aurais tout perdu d'ailleurs, vous seriez encore pour moi un bienfait bien grand, bien réel. Ne craignez plus que je le méconnaisse; j'en ai trop senti le prix durant ces derniers jours. C'est en vous, mes amis, que je chercherai mon refuge, et, si le dégoût de la vie me travaille encore, j'irai encore vous demander de m'y rattacher.</p>
+        <p>Mais la première condition de mon bonheur serait de vous trouver tous heureux. Vous l'êtes, n'est-ce pas? ne me dis pas le contraire; cela m'effrayerait trop. Tu es de nature pensive et mélancolique, je le sais; mais cela ne rend ni aitier ni ingrat. Des joies bien vraies se sont mises dans ta vie, à la place des ennuis et du vide dont tu me parlais autrefois tu as une femme charmante, un bel enfant. Pendant que vous étiez malades tous deux à Valençay, je. vous ai vus vous embrasser. Vous vous aimez, mes chers enfants, vous êtes l'un a l'autre; la société, au lieu de vous en faire un crime, met là votre honneur et votre vertu.</p>
+        <p>Croyez-moi, votre sort est le plus beau possible. Celui de vous qui imaginerait et désirerait mieux serait bien ingrat. Je conviens qu'il te faut une occupation habituelle, il en faut à tout le monde. Tu es résolu à en chercher une, et je t'approuve tout à fait. C'est une folie de ne se croire bon à rien. Moi, je crois que tout le monde est propre tout, que tu peux faire des romans et que je peux être receveur particulier. Il ne faut que vouloir. Si tu es bien décidé à quelque chose, et que tu aies besoin de moi, mon cœur, mon bras, ma bourse, sont à toi. Si tu viens faire ton droit, amène ta femme, je serai sa mère et sa soeur. En attendant, je lui envoie une jolie robe à la mode et des manchettes. Je la prie de faire porter le chapeau chez la petite Gauloise i. Quant à ta musique et à la pipe d'Alphonse, ce sera l'objet d'un second envoi. Je suis pour une huitaine sans le plus léger sou, ce qui m'arrive quelquefois sans manquer de rien d'ailleurs, par suite de l'ordre admirable qui me caractérise. Je ne veux pas faire attendre la robe, je trouverai une occasion pour vous faire passer le reste. Mais dis-moi quelles sont les contredanses qu'Eugénie m'avait demandées il faut avouer aussi que je ne m'en souviens pas. Les manchettes ne sont pas telles qu'elle les désirait, on n'en porte plus d'ares que celles que je lui envoie.</p>
+        <p>Quand vous reverrai-je, mes bons amis? le plus 1. Madame Alphonse Fleury</p>
+        <p>tôt que je pourrai certainement. En attendant, aimezmoi, aimez-vous. Vous êtes tous si bons, et si près les uns des autres. Le Gaulois, sa femme, Papet, Duteil, que de bons cœurs, que de braves amis 1 èt vous vivez au milieu de tout cela, et vous ignorez jusqu'au nom des chagrins qui me rongent!</p>
+        <p>Que Dieu en soit loué.! Vous méritez mieux que cela; mais donnez-moi place à votre festin, quand j'irai m'y asseoir.</p>
+        <p>Adieu; je vous embrasse de toute mon âme.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

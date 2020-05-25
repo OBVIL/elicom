@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-05-31" >Nohant,31 mai 1831</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant,31maii83i."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant,31 mai 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>Vous êtes triste. Vous allez encore vous trouver seule. C'est une chose difucHe à arranger avec la liberté, que la société d'autrui;.Vous aimez à être entourée, vous détestez ta-contrainte; c'est tout comme moi. Comment concilier tes volontés des autres avec la sienne propre? Je ne sais. Peut-être faudraitil fermer les yeux sur bien des petites choses, tolérer beaucoup d'imperfections a la nature humaine et se résigner à certaines contrariétés qui sont inévitables</p>
+        <p>dans toutes les positions. Ne jugez-vous pas un peu sévèrement des torts passagers?' est vrai, vous pardonnez aisément et vous oubliez vite; mais ne condamnez-vous pas quelquefois un peu à la hâte? Pour moi, ma chère maman, la liberté de penser et d'agir est le premier des biens. Si l'on peut y joindre les petits soins d'une famille, elle est infiniment plus douce; mais où cela se rencontre-t-il? Toujours l'un nuit à l'autre, l'indépendance à l'entourage ou l'entourage à l'indépendance. Vous seule pouvez, savoir lequel vous aimeriez mieux sacrifier. Moi, je ne sais pas supporter l'ombre d'une contrainte, c'est là mon principal défaut. Tout ce qu'on m'impose comme devoir me devient odieux; tout ce qu'on me laisse faire de moi-même, je le fais de tout mon coeur. C'est souvent un grand malheur d'être ainsi fait, et mes torts, quand j'en ai, viennent tous de là.</p>
+        <p>Mais peut-on changer sa nature? Si vous aviez beaucoup d'indulgence pour ce travers, vous m'en trouveriez bientôt corrigée sans savoir comment. On l'augmente en moi, en me le reprochant sans cesse; et cela, je vous jure que ce n'est point esprit de contradiction, c'est penchant involontaire, irrésistible. Vous me connaissez fort peu, j'ose le dire, ma chère maman. Il y a bien des années que nous n'avons vécu ensemble, et souvent vous oubliez que j'ai vingt-sept ans, qne mon caractère à dû subir bien des change'.nents depuis ma première jeunesse.</p>
+        <p>Vou" me supposez surtout un amour du plaisir, un</p>
+        <p>besoin d'amusement et de distraction que je suis loin d'avoir. Ce n'est pas du monde, du bruit, des spectacles, de la parure qu'il me faut; vous seule êtes dans l'erreur sur mon compte c'est de la liberté. Être toute seule dans la rue et me dire à moi-même « Je dînerai à quatre heures ou à sept, suivant mon bon plaisir; je passerai par le Luxembourg pour aller aux Tuileries, au lieu de passer par les Champs-Elysées, si tel est mon caprice. » Voilà ce qui m'amuse beaucoup plus que les fadeurs des hommes et la raideur des satons.</p>
+        <p>Si je rencontre des cœurs qui prennent mes innocentes fantaisies pour des vices hypocrites, je ne sais pas me donner la peine de les dissuader. Je sens que ces gens-là m'ennuient, me méconnaissent et m'outragent. Alors je ne reoonds rien et je les plante là. Suis-je bien coupable? Je ne cherche ni vengeance ui réparation, je ne suis pas méchante j'oublie. On dit que je suis légère, parce que je ne suis pas haineuse et queje n'ai pas nême l'orgueil de me justifier.</p>
+        <p>Mon Dieu! quelle rage' avons-nous donc, ici-bas, de nous tourmenter mutuellement, de nous reprocher aigrement nos défauts, de condamner sans pitié tout ce qui n'est pas taillé sur notre patron?               Vous, ma chère maman, vous avez souffert de l'intolérance, des fausses vertus, des gens à grands principes. Votre beauté, votre jeunesse, votre indépendance, votre caractère heureux et facMe, combien ne
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

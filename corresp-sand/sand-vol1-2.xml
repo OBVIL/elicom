@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1824-03-17" resp="editor" ></date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Je ne sais pas la date.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Nous sommes le deuxième</p>
+        <p>dimanche de c:]rcmo'. J.</p>
+        <p>Je suis enchantée d'apprendre que vous vous portiez mieux, chère petite maman, et j'espère bien qu'à l'heure où j'écris, vous êtes tout à fait guérie; du 1. Maurice, son fHs, qui avait alors quatre mois.</p>
+        <p>moins je le désire de tout mon coeur, et, si je le pouvais,'je vous rendrais vos quinze ans, chose qui vous. ferait grand plaisir, ainsi qu'à bien d'autres. C'est un grand embarras que vous avez pris de sevrer un gros garçon comme Oscar'; èt vous avez rendu à Caroline*' un vrai service de mère. Le mien n'a plus besoin de nourrice, il est sevré. C'est peut-être un peu tôt mais il préfère la soupe et l'eau et le vin à tout, et, comme il ne cherche pas à teter, mon lait a diminué, sans que ni lui ni moi nous en apercevions.. Il est superbe de graisse et de fraîcheur; il a des couleurs très vives, l'air très décidé, et le caractère idem. Il n'a toujours que six dents; mais il s'en sert bien pour manger du pain, des œufs, de la galette, de la viande, enfin tout ce qu'il peut attraper. Il mord, comme un petit chien, les mains qui. l'ennuient en voulant le coiffer, etc. Il pose très bien ses pieds pour marcher, mais il est encore trop jeune pour courir après Oscar dans un an ou deux, ils'se battront pour leurs joujoux.</p>
+        <p>J'espère, ma chère maman, que le désir que vous me témoignez de nous revoir, et que nous partageons, sera bientôt rempli. Nous espérons faire une petite fugue vers Pâques, pour présenter M. Maurice à son grand-papa, qui ne le connaît pas encore et qui désire bien le voir, comme vous pensez. Je veux lui faire une surprise. Je ne lui parlerai de rien dans mes 1. Oscar Cazamajou, neveu de George Sand.</p>
+        <p>lettres et je lui'enverrai Maurice sans dire qui il est. Nous, nous serons derrière la porte pour jouir de son erreur. Mais j'ai tort de vous dire cela, car je veux vous en faire autant. Ainsi n'attendez pas que je vous prévienne de mon arrivée.</p>
+        <closer>
+          <salute>Adieu, ma chère maman; donnez-moi encore de vos nouvelles. Je vous embrasse de tout mon coeur, Casimir en fait autant; pour Maurice, quand on veut l'embrasser, il tourne la tête et présente son derrière; j'espère que vous le corrigerez de cette mauvaise habitude.</salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

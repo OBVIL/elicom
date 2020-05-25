@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1833-03-06"> 6 mars 1833</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A M. JULES BOUCOIRAN, A LA CHATRE</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mon cher enfant,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher enfant, Vous êtes sur le point de commettre une action très belle ou très folle. Très belle, si vous avez mis cette jeune fille dans la position de ne pouvoir s'établir ailleurs; très folle, si vous obéissez à un simple penchant.</p>
+        <p>On me recommande de vous arrêter sur le bord de l'abîme. Je ne saurais croire que vous ayez besoin de conseil, au point' où vous en êtes. Il faut que vous ayez des motifs bien puissants pour accepter un lien aussi sévère avec une personne aussi différente de vous. Vous allez trop vite. Prenez garde, mon ami, ne précipitez rien.</p>
+        <p>Mon Dieu, vous auriez sous la main la plus riche, la plus belle et la plus spirituelle des femmes, je vous dirais encore d'attendre et de réfléchir. Ce ne sont pas l'opinion et les préjugés que je respecte en ce monde. Seule entre tous, peut-être, je ne vous jetterai pas la pierre; mais je m'effraye de votre avenir. Vous 14</p>
+        <p>êtes si jeune et vous aureztant de choses à faire-avant d'élever cette femme jusqu'à: vous Je n'ose pas vous dire tous les déboires que je prévois pour vous. Je crains de blesser votre cœur, engage dans une voie aussi délicate. Mais je vous supplie de ne pas tant vous hâter. Pourquoi ne pas remettre cette affaire Jusqu'après votre voyage à Paris? Là, vous pourriez ouvrir les yeux sur beaucoup d'inconvénients que vous ne vous êtes peut-être pas signalés. Si, par promesse ou par devoir, vous étiez engagé demanière.à .ne pas revenir sur vos pas,'du moins seriez-vous en garde contre l'avenir, et. mieux préparé à le braver -courageusement.</p>
+        <p>Dans tout cela, c'est votre précipitation qui m'inquiète. Vous obéissez, j'en suis sûre, à d'austères principes, à de nobles sentiments. Ce n'est donc pas avec ironie ou avec dureté'que. je vous juge. Je ne vous juge pas, mon enfant. Seulement je me tourmente de votre position. Il est possible que ce parti vous réussisse, il est possible aussi qu'il vous rende malheureux. Cette pensée ne vous ferait pas reculer devant l'accomplissement.d'un devoir, je le sais bien. Mais, si, en voulant faire le bonheur d'une autre personne, vous ne réussissiez qu'à aggraver. sa situation 'Cela s'est vu souvent; le mariage est un état.si con-traire à toute espèce d'union et de bonheur, que. j'ai peur avec raison. `' Si vous avez pour moi l'amitié que j'ai pour vous, rvous vous donnerez trois mois de réflexion. Je vous le</p>
+        <p>r</p>
+        <p>demande comme une preuve de cette affection déjà. vieille entre nous. Voûtez-vous me l'accorder? Jecrains que la solitude n'ait exalté vos idées, que vous ne vous soyez exagéré dés dévoirs.qui, dans un état plus calme et plus vrai, vous apparaîtraient sous un. autre jour. N'affligerez-vous pas votre mère par une résolution aussi brusque? L'avez-vous consultée? La personne dont nous parlons lui sera-t-elle une société agréable? Tout cela est bien obscur pour moi. Je ne vous fais pas un reproche de ne m'avoir pas consultée. Mais, précisément, le mystère dont vous avez entouré ce projet ne me semble pas d'un bonaugure. Êtes-vous bien d'accord avec vous-même surce que vous allez faire?  Adieu, mon enfant. Je vous embrasse. Répondez– moi.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+             
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-01">janvier 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT, A NOHANT</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="` Paris;JMYiert83t."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, janvier 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher enfant,</p>
+        <p>Je suis arrivée bien lasse! J'ai été obligée de m'arrêter quelques heures à Orléans. La chaise de poste e ne fermait pas, j'étais glacée. Je ne suis arrivée à Paris qu'à minuit. J'étais bien embarrassée de ma voiture, parce qu'il n'y a pas de cour dans la maison que j'habite et que je ne pouvais pas la laisser passer la 'nuit dans la rue. Enfin je l'ai fourrée à l'hôtel de Karbonne*. Je me suis réchaufïee, reposée; j'ai t Propriété de George Sand, a Paris.</p>
+        <p>arrangé et terminé pour le mieux une affaire qui.' m'occupait beaucoup. Maintenant je vais faire mon déménagement, me reposer encore; et puis je retour- nerai vers toi, mon petit mignon, dans huit jours au plus.</p>
+        <p>Embrasse ton papa et ta grosse mignonne pour moi. Tu m'avais promis de m'écrire tout de suite; écris-moi donc, petit drôle. Je n'ai pas encore eu le temps de voir ton oncle. Je pense que je le verrai aujourd'hui..</p>
+        <p>Adieu, mon cher mignon. Je t'embrasse mille fois.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>Ta mère.
+            </name>
+          </signed>
+        </closer>
+        <postscript><p>Que faut-il que je t'apporte?</p></postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

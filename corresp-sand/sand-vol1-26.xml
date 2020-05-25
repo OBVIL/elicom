@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-02" >février 1830</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="lobant, février )330."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, février 1830</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère petite maman,</p>
+        <p>J'ai reçu votre lettre depuis quelques jours, et j'y aurais répondu tout de suite, sans un nouveau dérangement de santé qui m'a mis assez bas. Il faudra que je songe sérieusement à me mettre en état de grâce chose qu'on fait toujours le plus tard qu'on peut, et si tard, que j'ai de la peine à croire que cela serve à quelque chose.</p>
+        <p>« Voilà, direz-vous, de beaux. sentiments! » Vous savez que je plaisante, et qu'en état de santé ou de maladie, je suis toujours la même, quant au moral; ma gaieté n'en est même pas altérée. Je prends le temps comme il vient, comptant sur l'avenir, sur mes forces physiques, sur la bonne envie que j'ai de vivre longtemps pour vous aimer et vous soigner. Heureusement vous êtes toujours jeune et vous pouvez encore mener longtemps la vie de garçon; mais un jour viendra, madame ma chère mère, où vous n'aurez plus de si beaux yeux, ni de si bonnes dents il faudra bien alors que vous reveniez à nous. C'est là que je vo~ attends, au coin du feu de Nohant, enveloppée db bonnes couvertures et enseignant à lire aux enfants de Maurice et à ceux de Solange; moimême, je ne serai plus alors très allante, et, si ma pauvre santé détraquée me mène jusque-là, je ne serai pas fâchée d'accaparer l'autre chenet; c'est alors que nous raconterons-de belles histoires qui n'en uniront pas et nous endormiront alternativement. Je serai, moi, beaucoup plus vieille que mon âge; car déjà, avec une dose de sciatique et de douleurs comme celles qui me pèsent sur les épaules, je gagerais que vous êtes plus jeune que moi.</p>
+        <p>Ainsi donc, chère mère, comptez que nous vieillirons ensemble et que nous serons juste au même point. Puissions-nous finir de même et nous en aller de compagnie !à-bas, le même jour</p>
+        <p>Adieu, chère maman; je laisse la plume à Hippo-</p>
+        <p>lyte; je ne puis pas écrire sans me fatiguer beaucoup. Mon étourdi se charge de vous raconter nos amusements.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

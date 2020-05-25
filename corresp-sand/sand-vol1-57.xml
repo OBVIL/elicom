@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-09-26">Nohant, 26 septembre 1831</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A N. JULES BOUCOIRAN. A NIMES</persName>
+          <placeName>Nimes</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant, 26 septembre t83t"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 26 septembre t83t</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>C'est une désolation qu'un voyage de sept jours; je m'en afflige de mille manières d'abord, parce que cela vous fatigue; ensuite parce que ces quinze jours perdus de la plus ennuyeuse manière du monde doivent faire pleurer votre mère. Elle voudra les regagner, je le prévois bien. Je ne peux ni ne veux t'afniger. Cependant, mon cher enfant, je voudrais que vous fussiez de retour vers le 20 du mois prochain. Mettez donc à profit ces bons jours de famille et de</p>
+        <p>patrie. C'est un bonheur de n'être pas blasé ou dés-; abusé de ces biens-là. Apportez-moi des cailloux de votre sol, s'ils ont quelque chose de curieux. Si je ne l'ai pas rêvé, vous avez comme nous beaucoup de coquillages marins pétrifiés, des espèces qui nous, manquent..</p>
+        <p>Maurice ne fait rien. Je ne suis pas assez rigide. Ce temps de dévergondage ne devant pas être long, je le laisse trotter avec Léontine, et les jours de travail sont rares. Le seul point, c'est qu'il n'oublie pas ce qu'il sait et non qu'il fasse des progrès sans vous. Je voudrais bien, mon enfant, que l'étude du latin ne, fût pas aussi exclusive. Vous m'avez promis de commencer l'histoire à votre retour et de la faire marcher r de front avec la géographie. Il me semble que ces études poussées un peu rapidement lui seraient fort utiles. Non pas qu'il faille espérer une grande mémoire des faits à son âge, mais c'est la seule manière d'ouvrir ses idées .aux choses de la vie, aux lois, aux guerres, aux vicissitudes des mœurs, aux constitutions, l'existence des peuples et à la marche de la civilisation. C'est d'un peu haut qu'il faudrait' donc envisagér cette science Au lieu de le faire moisir, comme au temps de l'abbé Rollin, sur les petites guerres et les rois insignifiants d'une foule de petits États de l'antiquité, il faudrait résumer l'histoire universelle dans une sorte de cours à votre manière. Cette analyse générale n'est pas l'ouvrage d'un cuistre. et vous trouverez à la dresser avantage et plaisir</p>
+        <p>pour vous-même. Plus tard, sans doute, il lui faudra étudier les diverses parties de votre édifice, il le fera par la lecture. J'ai fait, pendant cinq ou six ans, des extraits sur toutes les dynasties de la terre. C'était l'histoire enseignée à la manière des jésuites. Beaucoup de récits, pas une réflexion, pas une observation qui ne tournât à la plus grande gloire de Dieu,. contre tout bon sens et toute vérité. Aussi, rien de ce fatras n'est resté dans mon cerveau fatigué. J'ai perdu cinq ou six ans de ma vie à désapprendre te sens commun. Les livres d'histoire, écrits tous sous l'empire de quelque passion politique ou de quelquepréjugé religieux, ont tous besoin d'être rectifiés par un jugement sain. Ce n'est donc pas avec des livres qu'il faudrait enseigner, c'est avec votre mémoire et, votre raison, n'est-il pas vrai, mon enfant? Bonjour. Je vous embrasse de toute mon âme, ainsi que votre bonne mère. Rendez-la bien heureuse, et revenez-nous, dès que vous pourrez vous arracher comme Régulus à tant d'affection.</p>
+        <p>Maurice vous embrasse aussi. Il fait la moue dans ce moment, parce que, dit-il, il s'est f. par terre. Est-ce vous qui formez ainsi son style?</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name> 
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

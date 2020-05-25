@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <placeName>Nohant</placeName>
+          <date when="1826-04-30" >30 avril 1826</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A MADAME LA BARONNE DUDEVANT (...-...)">A MADAME LA BARONNE DUDEVANT</persName>
+          <placeName>En sa terre de Pompiey, par le port Sainte-Marie (Lot-et-Garonne)</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Nohant</placeName>
+            <date>30 avril 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Nous avons reçu votre bonne lettre,chère madame, et appris avec chagrin le triste événement* qui vient encore de vous environner de tristesse et de réveiller ceUe, déjà si profonde, que vous éprouviez. Nous apprécions et nous sentons votre douloureuse et triste situation avec la crainte amère de ne pouvoir l'adoucir, puisque rien ne saurait remplacer ce que vous avez perdu et que nulle consolation ne peut arriver, je le sens, jusqu'à votre cceur brisé. C'est eri vous-même, c'est dans cette force morale que vous possédez, ou plutôt c'est dans la profondeur de votre mal, que vous trouvez le moyen de le supporter. Si j'ai bien compris votre souffrance, nulle distraction, nul témoignage d'intérêt ne sont assez puissants pour vous apporter un instant d'oubli. Vous les recevez avec douceur et bonté, mais ils ne sauraient vous faire un bien véritable.</p>
+        <p>Ce sont vos tristes pensées qui seules vous font jouir d'un triste plaisir. Plus vous les sondez, moins elles t. La mort du baron Dudevant, beau-père de George Sand.</p>
+        <p>doivent vous paraître amères. Vos souvenirs n'ont rien que de doux. Vous aviez entouré toute son existence de tant de soins et de douceurs Son bonheur, ce bonheur inexprimable d'une union si parfaite, c'était l'œuvre de toute votre vie. Ah je crois que, quand il reste des regrets sans aucun remords, la douleur a ses charmes pour une âme comme la votre.</p>
+        <p>Notre voyage a été fécond en événements dont ancun cependant n'a été grave. Nous avons voulu passer par les montagnes de la Marche, pour jouir de tableaux pittoresques et intéressants. Nous avons payé le plaisir de mille dangers. Des chevaux mourants, ou rétifs, menaçaient de nous culbuter ou de se laisser entraîner dans des descentes très rapides, sur des routes sinueuses et bordées de ravins profonds. Notre étoile nous a protégés cependant, et nous en avons été quittes pour la peur. Nous sommes arrivés tous bien portants.</p>
+        <p>Maurice a eu, depuis, un gros rhume avec une forte inflammation aux yeux; l'eau de gomme pour la toux et l'eau de mauve pour les yeux l'ont beaucoup soulagé. Il se porte tout à fait bien à présent.</p>
+        <p>Je vous remercie, chère et bonne madame, de l'intérêt que vous voulez bien prendre à ma santé. Elle est assez bonne, quoique j'aie toujours des douleurs et un mal opiniâtre à la tête, qui est mon inséparable. Je ne fais pourtant point d'imprudences, je suis ici d'une sagesse forcée, n'ayant point de sujets de courses comme à Guillery; mais, ayant plus d'occupations es-</p>
+        <p>~entielles.je réussis à oublier-mes misères et à vaquer à mes affaires comme quelqu'un qui se porte bien. C'est de vous, chère madame, qu'il convient de s'occuper; veuillez nous tenir au courant de votre précieuse santé.</p>
+        <p>J'ai eu mon frère pendant quelques jours. Il, est reparti pour Paris, où des réparations à sa maison le forcent à la surveillance. J'ai obtenu qu'il nous laissât sa femme et sa' fille, à qui la campagne conviendra mieux.</p>
+        <p>Adieu, chère madame; écrivez-nous souvent, peu à la fois, si cela vous fatigue, mais ne nous laissez pas ignorer comment vous êtes. Casimir et moi vous embrassons tendrement.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              AURORE D.
+            </name>
+          </signed>
+        </closer>
+        <postscript><p>Veuillez me rappeler au bon Larnaude j'ose presque me regarder comme un de ses confrères. Je me suis lancée dans la médecine, ou, pour parler plus humblement, dans l'apothicairerie. M.DeIaveau~ qu'il connaît bien, est mon professeur. C'est lui qui ordonne et consulte, c'est moi qui prépare les drogues, qui pose les sangsues, etc. Nous avons déjà opéré des cures fort heureuses. Smith~, avec son jalap,me serait ici d'un grand secours.</p>
+          <p>Maurice n'a point oublié Guillery. Il y revient sans 1. Pharmacien à Barbaste (Lot-et-Garonne).</p>
+          <p>3 Domestiques de la baronne Dudevant.</p>
+          <p>cesse, il sait les noms de tout le monde et parle surtout du gros Totor. Il a trouvé ici de quoi se consoler de l'absence de sa poule favorite, qu'il se rappelle 'ssi à ce qu'il prétend.</p></postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

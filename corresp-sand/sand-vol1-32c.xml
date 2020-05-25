@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1830-12-03">3 décembre 1830</date>
+                    <placeName>Nohant</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Boucoiran, Jules (1805-1875)">A M. CHARLES DUVERNET, A PARIS</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+               
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Nohant, mercredi, 3 décembre 1830.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+               
+                <p>A M. JULES BOUCOIRAN, A PARIS.</p>
+                <p>Nohant, mercredi, 3 décembre 1830.</p>
+                <p>Mon cher enfant,</p>
+                <p>Si vous aimiez les compliments, je vous dirais que vous m'avez écrit une lettre vraiment remarquable d&amp;jugement, d'observation, de raisonnement et même de style; mais vous m'enverriez promener.</p>
+                <p>Je vous dirai tout bonnement que vos réflexions me paraissent justes. J'ai assez de confiance dans le jugement que vous me donnez en tremblant et sans, y avoir confiance vous-même.</p>
+                <p>Comme vous, je pense que le grand compagnon de ce petit monsieur est sans moyens et sans mœurs c'est aussi, je crois, un être fort ordinaire, sans vices ni défauts choquants. Sa physionomie (vous savez que je tiens à cet indice) promet de ta franchise et de la douceur. Cependant les choses vont assez mal en sa faveur. Il a fait déclarations, protestations et supplications à la pauvre enfant, qui ne doute pas plus d&amp; leur solidité que de la clarté du soleil. Et pourtant, depuis son départ (au mois d'août), il n'a pas donné signe de vie à la famille. Quand on questionne l'autre, resté à Paris et qui est (je le crains bien,</p>
+                <p>entre nous) l'amant en titre de la mère, il répond. des balivernes. Je suppose que le monsieur était sincère aux pieds de la jeune fille. Comment eût-il pu ne pas l'être? Elle est charmante de tous points. Mais, une fois éloigné d'elle, la froide raison,- des raisons d'intérêts sans doute, car on m'assure qu'il a de la fortune, et elle n'a rien, les parents, la légèreté, l'absence, un parti plus avantageux, que sais-je ? la jolie et douce enfant est oubliée sans doute. Dans l'ignorance de son cœur, elle le pleurera comme s'il en valait la peine. Si jeunesse savait Quoi qu'il arrive, je vous remercie de vos lumières et je vous tiendrai au fait des événements. J'abrège sur cet article, car j'ai bien autre chose à vous dire.</p>
+                <p>Sachez une nouvelle étonnante, surprenante. (pour les adjectifs, voyez la lettre de madame de Sévigné, que je n'aime guère, quoi qu'on dise!), sachez qu'en dépit de mon inertie et de mon insouciance, de ma légèreté à m'étourdir, de ma facilité à pardonner, à oublier les chagrins et les injures, sachez que je viens de prendre un parti violent. Ce n'est pas pour rire, malgré le ton de badinage que je prends. C'est tout ce qu'il y a de plus sérieux. C'est encore là un de ces secrets qu'un ne confie pas à trois personnes. Vous connaissez mon intérieur, vous savez s'il est tolérable. Vous avez été étonné vingt fois de me voir relever la tête le lendemain, quand la veille on me l'avait brisée. ïl y a un terme à tout. Et puis les raisons qui eussent</p>
+                <p>pu me porter plus t6t à la résolution que j'ai prise, n'étaient pas assez fortes pour me décider, ..avant les nouveaux événements qui viennent de se produire. Personne ne s'est aperçu de rien. Il n'y a a pas eu de bruit. J'ai simplement trouvé un paquet à mon adresse, en cherchant quelque chose dans le secrétaire de mon mari. Ce paquet avait un air solennel qui m'a frappée. On y lisait Ne l'ouvrez qu'après ma mort.</p>
+                <p>Je n'ai pas eu la patience d'attendre que je fusse veuve. Ce n'est pas avec une tournure de santé comme la mienne qu'on doit compter survivre à quelqu'un. D'ailleurs, j'ai supposé que mon mari était mort et j'ai été bien aise de voir ce qu'il pensait de moi durant sa vie. Le paquet m'étant adressé, j'avais le droit de l'ouvrir sans indiscrétion, et, mon mari se portant fort bien, je pouvais lire son testament de sangfroid.</p>
+                <p>Vive Dieu quel testament! Des malédictions, et c'est tout! Il avait rassemblé là tous ses mouvements d'humeur et de colère contre moi, toutes ses réflexions sur maperversité, tous ses sentiments de mépris pour mon caractère. Et il me laissait cela comme un gage de sa tendresse! Je croyais rêver, moi qui, jusqu'ici, fermais les yeux et ne voulais pas voir que j'étais méprisée. Cette lecture m'a enfin tirée de mon sommeil. Je me suis dit que, vivre avec un homme qui n'a pour sa femme ni estime ni confiance, ce serait vouloir rendre la vie à un mort. Mon parti a été pris et, j'ose le dire,</p>
+                <p>irrévocablement. Vous savez que~je n'abuse pas de ce mot.</p>
+                <p>Sans attendre un jour de plus, faible et malade encore, j'ai déclaré ma volonté et décliné mes motifs avec un aplomb et un sang-froid qui l'ont pétrifié. Il -ne s'attendait guère à voir un être comme moi se lever de toute sa hauteur pour lui faire tête. Il a grondé, dispute, prié. Je suis restée inébranlable. Je veux une pension, j'irai à Paris, mes eM~M~ resteront à ~VoAsMt. Voilà le résultat de notre première explication. J'ai paru intraitable sur tous les points. C'était une feinte, comme vous pouvez croire. Je n'ai nulle envie d'abandonner mes enfants. Quand il en a été convaincu, il est devenu doux comme un mouton. Il est venu me dire qu'il àuermeraitNohant, qu'il ferait maison nette, qu'il emmènerait Maurice à Paris et le mettrait au collège. C'est ce que je neveux pas encore. L'enfant est trop jeune et trop délicat. En outre, je n'entends pas que ma maison soit vidée par mes domestiques, qui m'ont vue naître et que j'aime presque comme des amis. Je consens à ce que le train en soit réduit, parce que ma modeste pension rendra cette économie nécessaire. Je garderai Vincent' et André~avec leurs femmes, et Pierre Il y aura assez de deux chevaux, de deux vaches, etc., etc. je vous fais grâce du tripotage. De cette manière, 1. Cocher.</p>
+                <p>Valet de chambre.</p>
+                <p>*e serai censée vivre de mon côté. Je compte passer</p>
+                <p>une partie de l'année, six mois au moins, à Nohant, près de mes enfants, voire près de mon mari, que cette leçon rendra plus circonspect. Il m'a traitée jusqu'ici comme si je lui étais odieuse. Du moment que j'en suis assurée, je m'en vais. Aujourd'hui, il me pleure, tant pis pour lui! je lui prouve que je ne veux pas être supportée comme un fardeau, mais recherchée et appelée comme une compagne libre, qui ne demeurera près de lui que lorsqu'il en sera digne. Ne me trouvez pas impertinente. Rappelez-vous comme j'ai été humiliée cela a duré huit ans En vérité, vous me le disiez souvent, les faibles sont les dupes de la société. Je crois que ce sont vos réflexions qui m'ont donné un commencement de courage et de fermeté. Je ne me suis radoucie qu'aujourd'hui. J'ai dit que je consentirais à revenir si ces conditions étaient acceptées, et elles le seront.</p>
+                <p>Mais elles dépendent encore de quelqu'un, ne le devinez-vous pas? C'est.de vous, mon ami, et j'avoue que je n'ose pas vous prier, tant je crains de ne pas réussir. Cependant voyez quelle est ma position si vous êtes à Nohant, je puis respirer' et dormir tranquille; mon enfant sera en de bonnes mains, son éducation marchera, sa santé sera surveillée, son caractère ne sera gâté ni par l'abandon ni par la rigueur outrée. J'aurai par vous de ses nouvelles tous les jours, de ces détails qu'une mère aime tant à lire. Si je laisse mon fils tivré à son père, il sera gâté aujourd' hui, battu.</p>
+                <p>;,demain, négligé toujours, et je ne retrouverai en Ini ~qu'unméchantpolisson. On ne m'écrira que pour me le faire malade, afin de me contrarier ou..me faire &lt; revenir.</p>
+                <p>Si ce devait être là son sort, j'aimerais mieux supporter le mien tel qu'il est aujourd'hui et rester près -de lui, pour adoucir du moins la brutalité de son père. D'un autre côté, mon mari n'est pas aimable, madame Bertrand ne l'est pas non,plus mais on supporte -d'une femme ce qu'on ne supporte pas d'un homme, ~et, pendant trois mo'is d'été, trois mois d'hiver (c'est -ainsi que je compte partager mon temps), ferez-vous ~aux intérêts de mon fils, c'est-à-dire à mon repos, à mon bonheur, le sacrifice .de supporter un intérieur triste, froid et ennuyeux? Prendrez-vous sur vous -d'être sourd à des paroles aigres et indifférent à un visage refrogné? Il est vrai de dire que mon mari a entièrement changé d'opinion à votre égard et ~qu'il ne vous a donné, cette année, aucun sujet de plainte mais, à l'égard des gens qu'il aime le mieux, .il est encore fort maussade parfois. Hélas! je n'ose pas vous prier, tandis que, la famille Bertrand, riche 'et aujourd'hui dans une .position brillante, vous offre .mille avantages, le séjourne'Paris, où peut-être elle va se fixer, par suite de.la nomination du .général ,à &lt;!a tête de l'École polytechnique.</p>
+                <p>Que ferai-je si vous &lt;me refusez ? De quel droit insisterai-je pour vous faire pencher en ma faveur? 'Qu'ai-je fait pour vous, et que suis-je pour que vous</p>
+                <p>me rendiez un service que personne ne me rendrait? Non, je n'ose pas vous prier, et, cependant, je vousbénirais si vous exauciez ma prière, toute ma vie serait consacrée à vous remercier et à vous chérircomme l'être à qui je devrais le plus. Si une re-connaissance profonde, une tendresse de' mère-. peuvent vous payer d'un tel bienfait, vous ne regretterez point de m'avoir sacrifié, pour ainsi dire, deux ans de votre vie. Mon cœur n'est pas froid, vous le savez, et je sens qu'il ne restera point au-dessous de ses obligations.</p>
+                <p>Adieu; répondez-moi courrier par courrier, cela est' bien important pour la conduite que j'ai à tenir vis-àvis de mon mari. Si vous m'abandonnez, il faudra que je plie et me soumette encore une fois. Ah! comme on. en abusera                             Adressez-moi votre lettre poste restante. Ma cor-. respondance n'est plus en sûreté. Mais, grâce à cette précaution, vous pouvez me parler librement. Adieu je vous embrasse de tout mon cœur.
+                </p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

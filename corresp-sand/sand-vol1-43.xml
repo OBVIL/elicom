@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-03-04" >Paris, 4 mars 1831.</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A H. JULES BOUCOIRAN, A NOHANT</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris.tmarsiSSt."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris.4 mars 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher enfant,</p>
+        <p>Je vous remercie de m'avoir écrit. Je ne vis que de ce qui concerne Maurice, et les nouvelles qui m'arrivent par vous n'en sont que plus douces et plus chères. Aimez-le donc mon pauvre petit, ne le gâtez pas, et pourtant rendez-le heureux. Vous avez ce qu'il faut pour l'instruire sans le rendre misérable de la fermeté et de la douceur. Dites-moi s'il prend ses leçons sans chagrin. Près de lui, je sais montrer de la sévérité de loin, toutes mes faiblesses de mère se réveillent et la pensée de ses larmes fait couler les miennes. Oh! oui, je souffre d'être séparée de mes enfants. J'en souffre bien! Mais il ne s'agit pas de se lamenter; encore un mois, et je les tiendrai dans mes bras. Jusque-là, il faut que je travaille à mon entreprise</p>
+        <p>Je suis plus que jamais résolue à suivre la carrière littéraire. Malgré les dégoûts que j'y rencontre parfois, malgré les jours de paresse et de fatigue qui viennent interrompre mon travail, malgré la vie plus que modeste que je mène ici, je sens que mon existence est</p>
+        <p>désormais remplie. J'ai un but, une tàche, disons le mot, une passion. Le métier d'écrire en est une violente, presque indestructible. Quand elle s'est emparée d'une pauvre tête, elle ne peut plus la quitter. Je n'ai point eu de succès. Mon ouvrage a été trouvé invraisemblable par les gens auxquels j'ai demandé conseil. En conscience, ils m'ont dit que c'était trop bien de morale et de vertu pour être trouvé probable par le public. C'est juste, il faut servir le pauvre public à son goût et je vais faire comme le veut la mode.' Ce sera mauvais. Je m'en tave les mains. On m'agrée~ dans la Revue de Parts, mais on me fait languir. Il: faut que les noms connus passent avant moi. C'est' trop juste. Patience donc. Je travaille à me faire inscrire dans la .Mode et dans l'Artiste, deux. journaux du même genre que la Revue. C'est bien' te diable si je ne réussis dans aucun.</p>
+        <p>En attendant, il faut vivre. Pour cela, je fais te dernier des métiers, je fais aes articles pour le Ftgwo. Si vous saviez ce que c'est Mais on est payé sept francs la colonne et avec ça on boit, on mange, on va même' au spectacle, en suivant certain conseil que MMS m'avez donné. C'est pour moi l'occasion des observations les plus utiles et' les plus amusantes. It: faut, quand on veut écrire, tout voir, tout connaître, rire de tout. Ah! ma foi, vive la vie d'artiste Notre devise est liberté.</p>
+        <p>Je me vante un peu pourtant. Nous n'avons pas précisément la liberté au Figaro. M; de Latouche, notre'</p>
+        <p>digne patron (ah! si vous connaissiez cet homme-là!) est sur nos épaules, taillant, rognant à tort et à travers, nous imposant ses lubies, ses aberrations, ses caprices. Et nous d'écrire comme il l'entend; car, après tout, c'est son affaire. Nous ne sommes que ses ma-~ noeuvres ouvrier-journaliste, garçon-rédacteur, je ne suis pas autre chose pour le moment. Quand je vois les platitudes que j'ai griffonnées dans vingt paires de mains qui se les arrachent et sous les yeux de ces bénévoles lecteurs dont le métier est d'être mystifiés, je me prends à rire d'eux et de moi. Quelquefois jeles vois cherchant à deviner des énigmes sans mot et je les aide à s'embrouiller. J'ai fait hier un article pour madame Duvernet, on dit que c'est pour M. de, Quéten'. Voyez un peu!</p>
+        <p>Adieu, mon cher enfant; je vous charge d'embrasser mon frère et ma s~Mf, si elle vous le permet. Dites à.. Polyte de m'écrire un peu plus souvent. Enfermée au bureau d'esprit de mon digne maître depuis neuf heures du matin jusque cinq heures, je n'ai guère le temps d'écrire, moi; mais j'aime bien à recevoir des lettres de Nohant. Elles me reposent le cœur et la tête. Je vous embrasse et vous aime bien. Dites-moi' donc ce que vous faites faire à Maurice?</p>
+        <p>J'ai revu Kératry et j'en ai assez. Hétas il ne faut pas voir les célébrités de trop près.</p>
+        <p>De !OtK, c'est quelque chose, etc. J'aime toujours M. Duris-Dufresne de passion. Je vous dirai que j'ai vu madame Bertrand à la Chambre des députés. Elle était derrière moi dans la tribune des dames. Je lui ai offert ma place. J'ai été honnête, elle a été gracieuse, et l'histoire finit là.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

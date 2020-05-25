@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1831-07-03"> Orléans, samedi 3 juillet 1831</date>
+                    <placeName>Orléans</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Dudevant, Maurice (1823-1889">A MAURICE DUDEVANT, A LA CHATRE</persName>
+                    <placeName>La Chatre</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>Orléans, samedi 3 juillet 1831</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A MAURICE DUDEVANT, A LA CHATRE</p>
+                <p>Orléans, 3 juillet 1831</p>
+                <p>Mon cher amour, je suis arrivée à Orléans un peu fatiguée. J'ai eu la migraine tout le long du chemin. Je vais me reposer un jour ou deux ici, afin de bien voir la cathédrale; car tu sais que j'aime beaucoup les cathédrales. li y a un an, tu étais là avec moi, et nous avons été la voir ensemble, t'en sonviens-tu? Tu trouvais que c'était bien grand, et qu'il faudrait bien des Maurices les uns sur les autres pour monter aussi haut.</p>
+                <p>Je suis bien contente de toi, mon cher enfant; tu n'as pas beaucoup pleuré devant moi. Après, dis-moi ce que tu as fait? As-tu trouvé ton ménage joli? l'as-tu fait voir à ta sœur? Elle a pleuré aussi, la pauvre grosse. L'às-tu un peu consolée? Joue bien avec elle, roulezvous sur vos lits le soir et endormez-vous en ~'iant et en chantant. Ne fais pas de vilains rêves tristes, pense à moi sans chagrin, et travaille toujours bien pour me faire voir que tu m'aimes. Tu as vu comme j'étais heureuse de te trouver corrigé de ta paresse. Continue donc, je t'en récompenserai, en t'aimant tous les jours davantage. Je ne sais si tu pourras lire mon griffonsage, je t'écris avec une espèce d'allumette qui va tout de travers. Je t'embrasse. de tout mon cœur, pour toi d'abord, puis pour ta sœur, pour ton papa, pour Boucoiran, et puis pour toi encore un million de fois. Adieu, mon petit ange, écris-moi bien, bien souvent.
+                </p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1828-08-04">4 août 1828.</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant, 4 août 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 4 août 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>Il est vrai que j'ai été bien longtemps sans vous écrire; mais je n'ai pas cessé de demander de vos nouvelles a Hippolyte. Il pourra vous le dire aussi, trois fois de suite je lui ai demandé votre adresse sans qu'il me l'envoyât. J'ai cherché dans vos lettres précédentes. Je n'y ai pas trouvé celle que vous m'avez désignée. Ce n'est que sa dernière lettre (qui m'est arrivée</p>
+        <p>à peu près en même .temps que la vôtre) qui me l'a .apprise. J'étais fort contrariée, je vous assure, de .-ne savoir où vous étiez. Je suis enfin bien heureuse de vous savoir installée de nouveau à Paris, bien por'tante et avec la société de votre enfant Embrassez.!e bien de ma part, je vous en prie et gardez-le le plus longtemps possible; car j'ai bien envie.de le voir. QI, A ce égard, je ne sais .pas du tout quand j'aurai .Je bonheur de vous embrasser. Je crois que je ferai tranquillement mes couches-ici, où je serai plus commodément et plus économiquement pour passer les premiers mois de ma nourriture. Si nos affaires 'nous le permettent, je fais .le projet d'aller passer, 'cet hiver, quelque temps près ,de vous. Ma santé est assez bonne, quoique, depuis quelques semaines, je souffre beaucoup de l'estomac. En ne mangeant pas, j'y échappe. Cela. me coûte fort, car j'ai des faims très exigeantes, que je ne puis satisfaire sans les payer de plusieurs jours de souffrance et de ~liète.</p>
+        <p>Je ne suis pas très forte, et la moindre course en voiture me fatigue beaucoup. A cela près, je vais tien. Je suis si grosse, 'que tout le monde pense que j e me suis trompée dans mon calcul et que j'accoucherai très prochainement: je ne crois pourtant-pas que ce soit avant deux mois.</p>
+        <p>Casimir me charge de vous dire qu'il est ttrèsmé-</p>
+        <p>;i..O.icar Cazamajou,son petit-fils.</p>
+        <p>content de l'inexactitude de M. Puget à votre égard. II ne peut vous adresser à M. Lambert, qui n'est plus notaire et qui n'habite plus Paris. II chargera de vos affaires, dès le prochain trimestre, une personne ,sûre et parfaitement exacte. J'ai vu Léontine un instant. Elle se portait bien. Je vais la chercher demain pour-quelques jours.</p>
+        <p>Adieu, ma chère maman reposez-vous bien de vos fatigues, afin que je puisse aussi vous recevoir. Ce ne sera jamais assez tôt, au gré de mon impatience. Je vous embrasse tendrement; Casimir et Maurice se joignent à moi.</p>
+        <p>Le cher père est très occupé de sa moisson. H a adopté une manière de faire battre le blé qui termine en trois semaines les travaux de cinq à six mois. Aussi il sue sang et eau. Il est en blouse, le râteau à la main, dès le point du jour.</p>
+        <p>Les ouvriers sont forcés de l'imiter mais ils ne s'en plaignent pas, car le vin de pays n'est point ménagé pour eux. Nous autres femmes, nous nous installons sur les tas de blé dont la cour est remplie. Nous lisons, nous travaillons beaucoup, nous songeons fort peu à sortir. Nous faisons aussi' beaucoup de musique.</p>
+        <p>Adieu, chère maman rappelez-moi à l'amitié du vicomte. Maurice est mince comme un fuseau, mais droit et décidé comme un 'homme. On le trouve très teau, son regard est superbe.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

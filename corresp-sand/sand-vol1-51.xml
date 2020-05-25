@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-06-25"> Nohant, lundi soir, 25 juin 1831.</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Duvernet, Charles (1807-1874)">A M. CHARLES DUVERNET, A LA CHATRE</persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant, lundi soir, 25 juin 1831."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, lundi soir, 25 juin 1831.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Comme nous nous verrons vendredi, entre l'air bienveillant et paternel du châtelain, et les decaudiM(!(~ nous ne pourrons guère dire deux mots de suite. Je ne veux' pas partir, mon bon Charles, sans vous dire combien votre amitié m'a été douce durant ces trois mois. Nous ne nous connaissions pas, et notre camaraderie d'enfance ne nous eût rien appris l'un de l'autre, si une affection qui nous est commune ne fût .venue resserrer ce lien et rapprocher nos coeurs, dont !es bizarreries respectives avaient besoin de s'entendre.</p>
+        <p>Sans vous, j'aurais 'éprouvé bien plus les amertumes de mon intérieur. Votre intérêt, la confiance avec laquelle je m'épanchais près de vous ont adouci ce temps d'épreuves. En 'mettant nos ennuis en commun, nous les avons mieux supportés. Du moins, je puis l'avancer pour mon compte, et je voudrais 1. Du nom d'un ami de Duvernet appelé Decaudin.</p>
+        <p>que le bienfait de cette amitié eût été réciproque. Les fous tels que moi ont cela de bon, qu'ils ne sont pas chiches de leur cœur une fois qu'ils l'ont donné. Désabusée sur tout le reste, je ne crois plus qu'à ceux qui me sont restés fidèles, ou qui m'ont comprise, avec mes défauts, mon esprit antisocial et mon mépris pour tout ce que la plupart des hommes respectent. Je me sens assez de générosité pour recommencer avec ceux-là une existence nouvelle, une vie d'affection, d'espoir et de confiance, que ne viendra pas refroidir la mémoire de tant de déceptions anciennes. Oh j'oublierai tout de bon cœur avec vous autres et les amis qui trahissent, et ceux qui s'ennuient des maux qu'on leur confie, et ceux qui craignent de se compromettre en y cherchant remède, et les tièdes, et les perfides, et les maladroits qui vous crottent en voulant vous essuyer. Je croirai ~n vous, comme j'ai cru jadis en. eux, et ne vous ferai pas responsables de leurs torts, en me livrant avec réserve à vos promesses. J'y crois et j'y compte. C'est sur les ruines du passé, du préjugé et des préventions que nous nous sommes vus, tels que nous sommes, je crois, tels que ta nature nous a faits. C'est en nous confiant nos mutuelles infirmités que nous avons pris intérêt les uns aux autres. Sans le besoin de recevoir des consolations, sans celui d'en donner, nous serions peut-être tous restés isolés dans cette société vaine et sotte qui ne pourra jamais nous pardonner de vouloir être indépendants de ses lois</p>
+        <p>'étroites. Laissons-la dire. Elle regarderait notre petite communauté comme un hôpital de fous. Vivons à part, et ne la voyons que pour en rire ou pour y pardonner. Puissiez-vous être comme moi insensible à ses atteintes, et mettre votre vie réelle, votre bonheur entier, dans le cœur de ce petit nombre qui vous apprécie et qui me tolère, moi, reconnaissante quand 'j'obtiens seulement de l'indulgence. Toutes les peines d'intérieur ne deviennent-elles pas supportables, avec cette idée qu'il y a des êtres tout prêts à nous dédommager de l'injustice ou de l'ingratitude de .ceux-là?</p>
+        <p>Oh! mon bon Charles,- que cette pensée vous soit 'bienfaisante comme à moi! qu'elle ferme toutes les autres blessures, qu'elle anéantisse tous les souve nirs qui font mal, qu'elle reconstruise votre avenir et rajeunisse votre cœur comme elle a rajeuni le mien, bien plus vieux, hélas! bien plus mortellement froissé que le vôtre! Croyez en nous, et vous serez heureux partout même à la Chàtre.</p>
+        <p>Venez près de nous, dans notre Paris, où règne sinon la liberté publique, du moins la liberté individuelle. Nous aurons de temps en temps un billet de parterre aux Italiens ou à l'Opéra. Quand nous n'aurons pas le sou, nous irons voir les cathédrales, ça ne coûte rien et c'est toujours intéressant à étudier. Ou bien nous prendrons le frais sur mon balcon, nous verirons pà ;ser l'émeute nouvelle, nous cracherons sur dout cela, battants et battus., tous fous à faire pitié.'Nous</p>
+        <p>garrotterons le Gaulois pour t'empêcher d'y prendre part, nous ferons brailler Planet et nous nous amuserons des manies de chacun de nous, sans les froisser, sans en souffrir. Dans le jour, nous travaillerons, car il faut travaiHer Quand on ne s'est pas renfermé le matin comme nous disions l'autre fois au Coudray, on n'a pas de plaisir se trouver libre le soir. Il faut s'imposer la gêne une moitié de sa vie pour s'amuser l'autre moitié. Vous vous créerez une occupation, ne fût-ce que de mettre en rapport Claire et Philippe, Jehan Cauvin et la cathédrale, Berido et la prima donna'.Nous louerons un piano et nous nous y remettrons tous les deux. Si vous ne vous trouvez pas bien de votre vie de garçon, il sera toujours temps de vous marier car, avec nous, liberté de rompre quand vous voudrez; mais essayez-en d'abord; après, vous verrez. Il y aura toujours des filles nubiles, c'est une espèce qui croît et multiplie par la grâce de Dieu. Et puis, mon bon Charles, marié ou veuf ou garçon, que vous soyez Charlot ruminant dans sa chambrette sur les misères de l'étudiant, de l'artiste et du célibataire, ou bien M. le receveur au sein de son intéressante famille, que vous soyez libre de nous venir trouver ou que votre future épouse vous le défende, aimez-nous toujours, et, croyez-le, quand vous pourrez vous échapper, vous nous trouverez joyeux de vous 1. Héroïnes de divers fragments littéraires inédits de Ce?rge Sand.</p>
+        <p>voir et empressés à vous distraire. En attendant, nous allons parler de vous.</p>
+        <p>Adieu donc; je vous embrasse. Venez le plus tôt que vous pourrez.</p>
+
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

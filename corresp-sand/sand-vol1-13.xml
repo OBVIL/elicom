@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1828-04-07">7 avril 1828</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A MADAME MAURICE DUPIN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant,7awiWS38,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant,7 avril 1828</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>Vous me traitez bien sévèrement, juste au moment où je venais de vous écrire, ne m'attendant guère à vous voir fâchée contre moi. Vous me prêtez une foule de motifs d'indifférence dont vous ne me croyez certainement pas coupable. J'aime à croire qu'en me grondant, vous avez un peu exagéré mes torts, et qu'au fond du coeur vous me rendiez plus de justice; car, 1. Amie de George Sand habitant Paris.</p>
+        <p>3.</p>
+        <p>vous m'aviez cru insensible à de si graves reproches. vous ne me les auriez pas faits.</p>
+        <p>J'espère qu'en apprenant que ma maladie avait été la seule cause de ce long silence, vous m'avez entièrement pardonné. Dites-le-moi bien vite; c'est un mauvais traitement pour moi que vos reproches, et j'ai besoin, pour me mieux porter, dé savoir que vous m'avez rendu vos bontés.</p>
+        <p>J'ai appris de la famille Maréchal 'des nouvelles qui m'ont bien profondément affligée. J'en suis malade de chagrin et d'inquiétude. Je viens pourtant de recevoir une lettre d'Hippolyte m'annonçant que Clotilde est beaucoup mieux. Mais sa fille est morte! pauvre Clotilde, qu'elle est malheureuse! si bonne et si aimable Elle ne méritait pas ces cruels chagrins. Elle ignoreencorelapertede son enfant; mais il faudra qu'elle l'apprenne, et combien ce nouveau malheur lui sera amer! Je suis sûre que ma pauvre tante a le cœur brisé. Tout est chagrin et misère ici-bas. Vous me mandez que Caroline 'est malade. Qu'at-elle donc? J'espère que cela n'est pas sérieux, puisque vous m'en parlez si brièvement. Veuillez m'en parler avec plus de détails, ma chère maman, .ainsi que .de vous-même. Je ne sais si c'est :pour me-punir .'que vous me donnez de mauvaises nouvelles ~sans y :ajouter un mot pour les adoucir. 'Ce .-serait :trop de sévérité.</p>
+        <p>Maurice va à merveille. Il est tous les jours plus aimabte et plus joli.</p>
+        <p>Maisje me reproche de vanter mon bonheur, quand je pense à cette pauvre Clotilde, dont le sort, à cet égard, est si différent. L'aisance et les plaisirs ne sont rien au cœur d'une mère en comparaison de ses enfants. Si je perdais Maurice, rien sur la terre ne m'offrirait de consolation dans la retraite où je vis. Il m'est si nécessaire, qu'en son absence, je ne passe pas une heure sans m'ennuyer.</p>
+        <p>Ne me laissez pas plus longtemps avec le chagrin de vous savoir mécontente. Écrivez-moi, ma chère maman j'ai le cœur bien triste, et un mot de vous en itérait un grand poids. Casimir vous embrasse tendrement.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

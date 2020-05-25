@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-12-01">1er décembre 1830</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Duvernet, Charles(1807-1874)">A M. CHARLES DUVERNET, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="ËPITRE ROMANTIQUE A MES AHtS"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 1er décembre 1830</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>ËPITRE ROMANTIQUE A MES AHtS</p>
+        <p>Nohant, 1er décembre 1830</p>
+        <p>De même que ces enfants naïfs et déguenillés que l'on voit sur les routes, armés de ces ingénieux paniers que leurs petites mains ont tressés, après en avoir ravi les matériaux à l'arbuste flexible qui croît dans ces vignes que l'on voit ceindre les collines verdoyantes de l'Indre, ramassent, pour engraisser le jardin paternel, les immondices nutritives et fécondes (je ne sais pas précisément si le mot est masculin ou non. je m'en moque), que les coursiers, les mulets, les bœufs, les vaches, les pourceaux et les ânes laissent échapper, dans leur course vagabonde, comme autant de.bienfaits que l'active et ingénieuse civilisation met à profit pour ranimer la santé débile du choufleur et la délicate complexion de l'artichaut De même que ces hommes patients et laborieux qu'un sot préjugé essayerait vainement de flétrir, et qui, munis de ces réceptacles portatifs qu'on voit également servir à recueillir les dons de Bacchus et les infortunés animaux que l'on trouve parfois égarés et languissants au coin des bornes, jusqu'à ce qu'une main cruelle leur donne la mort et les engloutisse</p>
+        <p>à jamais dans la hotte parricide, ramassent, dans ces torrents fangeux qui se brisent en mugissant dans les égouts de la capitale, divers objets abandonnés à la parcimonieuse industrie, qui sait tirer parti de tout, et faire du papier à lettres avec de vieilles bottes et des chiens morts;</p>
+        <p>De même, ô mes sensibles et romantiques amis 1 après une longue, laborieuse et pénible recherche, j'ai à peu près compris la lettre bienfaisante et sentimentale que vous m'avez écrite, au milieu des fumées du punch et dans le désordre de vos imaginations, naturellement fantasques et poétiques. Triomphez, mes amis, enorgueillissez-vous des dons que le ciel prodigue vous a départis; soyez fiers, car vous avez droit de l'être!</p>
+        <p>Vous avez atteint et dépassé les limites du sublime. Vous êtes inintelligibles pour. les autres comme pour vous-mêmes. Nodier pâlit, Rabelais ne serait que de la Saint-Jean, et Sainte-Beuve baisse pavillon devant vous.</p>
+        <p>Immortels jeunes hommes, mes mains vous tresseront des couronnes de verdure quand les arbres auront repris des feuilles, le laurier-sauce s'arrondira sur vos fronts et le chêne sur vos épaules, si vous continuez de la sorte.</p>
+        <p>Heureuse, trois fois heureuse la ville de la Châtre, ta patrie des grands hommes, la terre classique du génie 1. heureuses~ vos mamans heureux aussi vos papas</p>
+        <p>Enfants gâtés des Muses, nourris sur l'Olympe ~(pas d'allusions, je vous prie), bercés sur les genoux de la Renommée, puissiez-vous faire, pendant toute une éternité (comme dit le forçat délibéré Champagnette de Lille), la gloire et l'ornement de la patrie reconnaissante! Puissiez-vous m'écrire souvent pour m'endormir. au son de votre lyre pindarique, et pour détendre les muscles buccinateurs, infiniment trop contractés, de mes joues amaigries</p>
+        <p>Depuis ton départ,–ô blond Charles, jeune homme aux rêveries mélancoliques, au caractère sombre comme un jour d'orage, infortuné misanthrope qui fuis la frivole gaieté d'une jeunesse insensée, pour te livrer aux noires méditations d'un cerveau ascétique, les arbres ont jauni, ils se sont dépouillés de leur brillante parure. Ils ne voulaient plus charmer les yeux de personne. L'hôte solitaire des forêts désertes, le promeneur mélancolique des sentiers écartés et ombreux n'étant plus là pour les chanter, ils sont devenus secs comme des fagots et tristes comme la nature, veuve de toi, ô jeune homme! i Et toi, gigantesque Fleury, homme aux pattes immenses, à la barbe effrayante, au regard terrible homme des premiers siècles, des siècles de fer homme au cceur de pierre, homme fossile, homme primitif, homme normal, homme antérieur à la civilisation, antérieur au déluge depuis que ta masse immense n'occupe plus, comme les dieux d'Homère, l'espace de sept stades dans la contrée, depuis que ta</p>
+        <p>7.</p>
+        <p>poitrinevolcanique n'absorbe plus l'air vital nécessaire aux habitants de la terre, le climat du pays est a devenu plus froid, l'air, plus subtil. Les vents qu'em-. prisonnaient tes poumons; les tempêtes qui sebri-; saient contre ton flanc comme au pied d'une chaîne de montagnes, se sont déchaînés avec furie le jour de ton départ. Toutes les maisons de la Châtre ont été ébranlées dans leurs fondements, le moulin à vent a tourné pour la première fois, quoique n'ayant ni ailes,. ni voiles, ni pivot. La perruque de M de la Genetière a été emportée par une bourrasque au haut du clocher, et la jupe de madame Saint-0. a été relevée à une. hauteur si prodigieuse, que le grand Chicot assura; avoir vu sa jarretière.</p>
+        <p>Et toi, petit Sandeau aimable et léger comme lecolibri des savanes parfumées! gracieux et piquant comme l'ortie qui se balance au front battu des vents' des tours de Châteaubrun depuis que tu ne traversesplus avec la rapidité d'un éhamois, les mains dans les. poches, la petite place où tu semas si généreusement cette plante pectorale qu'on appelle le pas d'dne et. dont Félix Fauchier a fait; grâce à toi, une ample provision pour la confection du sirop de quatre fleurs, les dames de la ville ne se lèvent plus que comme les</p>
+        <p>chauves-souris et les chouettes,, au coucher du soleil elles ne quittent plus leur bonnet de nuit pour se mettre à ta fenêtre, et les papillotes ont pris racine à leurs cheveux. La coiffure languit, le cheveu dép~rit~ te fer à friser dort inutile sur.les.tisons refroidis. La.'</p>
+        <p>main de Laurent', glacée par l'âge et le chagrin, tombe inactive à son côté. Les touffes invisibles et les cache-peignes moisissent sans éclat dans la boutique de Darnaut L'usage des peignes commence à se perdre, la brosse tombe en désuétude et la garnison menace de s'emparer de la place. Ton départ nous a apporté une plaie d'Égypte bien connue. Quant à votre amie infortunée, ne sachant que faire pour chasser l'ennui aux lourdes ailes, fatiguée de la lumière du soleil, qui n'éclaire plus nos promenades savantes et nos graves entretiens aux Couperies,' elle a pris le parti d'avoir la Cèvre et un &amp;on rhumatisme, seulement pour se distraire et passer le temps. Vous ririez, mes camarades, si vous pouviez me voir sortir de ma chambre, non pas comme l'Aurore aux ailes empourprées attelant d'une main légère les chevaux du classique Phébus, dont la perruque rousse a fait vivre les poètes pendant plusieurs siècles, mais comme la marmotte engourdie que le Savoyard tire de sa boîte et fait danser à grands coups de bâton, pour la mettre en train et lui donner l'air enjoué. C'est ainsi que je me traîne, moi qui naguère aurais déSé,.sur ma bonne Lyska, un parti de miquelets. Maintenant, empaquetée de flanelles et fraîche comme une momie dans ses bandelettes, je voyage, en un jour, de mon cabinet au salon, et une de mes t. Coiffeur à la Châtre.</p>
+        <p>jambes est auprès de la cheminée dudit appartement,' que l'autre est encore dans la salle à manger. Si cet état fâcheux continue, je vous prie de m'acheter une de ces brouettes dans lesquelles on voiture les culsde-jatte dans les rues de Paris; nous y attellerons: Brave, et nous parcourrons ainsi les villes et les,campagnes, pour attirer la pitié des âmes sensibles. Fleury fera des tours de. force, et Charles avalera des épées comme les jongleurs indiens, ou des souris comme Jacques de Falaise; on lui laissera le choix. Et, à propos de Brave, je viens de lui rendre visite dans sa niche. Après les politesses d'usage, je lui ai lu le paragraphe de votre lettre qui le concerne. Il en a été fort mécontent, et, me suivant dans mon cabinet, où il est présentement étendu devant le feu, il m'a prié d'écrire sous sa dictée une réponse aux accusations dont vous le chargez. Je souscris à sa demande, et vous quitte pour servir d'interprète à ce bon animal..</p>
+        <p>Adieu donc, mes chers camarades écrivez-moi souvent. Quelque bêtes que vous puissiez être, je vous promets de n'être jamais en reste avec vous. Je vous tiens quitte des compliments.</p>
+        <p>Pauvre Fleury accouchez donc vite de ce fatal tholéra-morbus, prenez du tabac à fortes doses,. il .partira dans les éternuements.</p>
+        <p>Et vous, jeune Charlot, au milieu des tumultueux ~.laisir~ de cette ville de bruit et de prestiges, n'oubliez pas la plus ancienne, de vos amies.</p>
+        <p>Une poignée de main à tous les trois, quoique ~Rochou-Daubert n'aime pas cela dans une femme.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              AURORE D.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

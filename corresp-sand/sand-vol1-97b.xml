@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1836-02-04">4 février 1836</date>
+                    <placeName>La Châtre</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="Rollinat, François (1806-1867)">A M. FRANÇOIS ROLLINAT</persName>
+                    <placeName>Chateauroux</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="LaCMtre,3jamr!erl836."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>LaCMtre,3jamr!erl836.</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>A M. FRANÇOIS ROLLINAT, A CHATEAUROUX LaCMtre,tfëYrierd836. Qu'as-tu donc, bon vieux? manques-tu de courage? t'est-it arrivé quelque chose .de pis que la vie ordinaire ? pourquoi es-tu si consterné et si abattu ? Ta lettre m'inquiète beaucoup. Si tu ne peux venir me :voir; et que je puisse te donner un peu de cœur, j'irai te voir la semaine prochaine. Mon affaire est remise à ;quinzaine; c'est le seul mal que le président ait pu me e faire, et il l'a fait. Du reste, cette affaire étant hnper.dabte au dire de tous, et te ministère public ayant -conclu en ma faveur avec beaucoup de chaleur, je ne 'm'inquiète pas. Mais, toi, qu'as-tu? Tu es fou avec ta mort morale! Les hommes'comme_toi ne sont pas appelés à une ,pareille fin. Il y a, en toi/une si .grande sérénité de ,Yertu, que l'intelligence ne peut que gagner avec tes années, et même avec tes fatigues et tes douleurs.</p>
+                <p>C'est là le fouet, l'aiguillon des grandes âmes. Je. .redoute pour toi les préoccupations de l'amour et je .crains quelque chose comme cela dans ta tristesse. S'il en est ainsi, j'irai te voir et je te donnerai le courage de. briser, s'il le faut, des liens funestes. L'amour, tel que la plupart des hommes et des femmes t'entend, n'est fait que pour les enfants. Il ne convient pas aux esprits sérieux; il les tiraille et les torture sans jamais les'satisfaire.</p>
+                <p>Je ferai mon possible pour t'aller voir, pour te con'fesser, et pour te remettre à flot. Tu ne t'appartiens pas, mon vieux; tu n'as même pas le droit de souffrir .pour ton propre compte. C'est une terrible tâche; :mais c'est une grande destinée. Porte le joug et ne te laisse pas tomber dessous. Tu te dois à ta famille, tu te dois à moi aussi, ton meilleur ami. Tu me dois ce .grand exemple de la force, ce grand spectacle de la volonté persistante qui m'a soutenue dans mes luttes, -qui m'a grandie depuis que je te connais.</p>
+                <p>Songe à cela. Tu es l'homme que j'estime le plus. Je ne puis m'habituer désormais a vivre sans toi.Songe, vieux Montagne, à ton Laboetie, qui t'a connu, 'étant déjà vieux, et qui s'est dépêché de t'aimer beaucoup afin, de réparer le temps perdu.</p>
+                <p>Réponds-moi, explique-toi, et compte que je ne te taisserai pas seul dans cette crise.</p>
+                <closer>
+                    <salute>Tout à toi. c.</salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+

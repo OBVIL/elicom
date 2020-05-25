@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-12-20">Paris, 20 décembre 1832</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A M. JULES BOUCOIRAN,A LA CHATRE</persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris,20dëcembrej833."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 20 décembre 1832.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher enfant, 0</p>
+        <p>Je n'ai pas répondu à ce que vous me demandiez par une bonne raison c'est que je ne sais pas de quoi il s'agit. Sachez ce qu'est devenue votre lettre' et répétez-moi ce qu'il faut faire pour vous.</p>
+        <p>Vous soignez bien Maurice. Je vous en remercie et vous supplie de continuer à l'observer de près. Empêchez-le dé sortir par les temps humides. Ces esquinancies sont désespérantes. Tâchez qu'il passe l'hiver sans en avoir de nouveJ!e. Au printemps, dès qu'il sera ici, je !e ferai débarrasser de son ennemie. L'opération n'est rien, à ce qu'il paraît. Je vis ici comme une recluse. Mon appartement est si bon, si chaud; il y a tant de soleil et un si beau silence, que je ne peux pas m'en arracher. Toute ta</p>
+        <p>fournée, par exemple, je suis obsédée de visiteurs qui tous ne m'amusent pas. C'est une calamité de mon métier que je suis un peu obligée de supporter. Mais, le soir, je m'enferme avec mes plumes et mon encre, Solange, mon piano et mon feu. Avec cela, je passe de très bonnes heures. J'ai, pour tout bruit, les sons d'une harpe qui viennent je ne sais d'où et le bruit d'un jet d'eau qui est sous mes fenêtres dans le jardin. C'est bien poétique, ne vous en moquez pas trop.</p>
+        <p>Je vous' dirai que jetais de l'argent; je reçois ds tous côtés des propositions.</p>
+        <p>Je vendrai mon prochain roman quatre mille francs C'est plus que je ne demandais, moi qui suis fort bête. La Revue de Paris et la Revue des Deux Mondes se sont disputé mon travail. Enfin je me suis livrée à la Revue des DeMa; Mondes pour une rente de quatre mille francs, trente deux~pages d'écriture toutes les six semaines. La Jfar~MMe a eu un grand succès et a complété les avantages de ma position. Je n'ai plus le temps de regarder couler ma vie~ Pour moi, dont le coeur n'est pas jovial, l'obligation. de travailler est un grand bien. Solange me donn&amp; plus de bonheur à elle seule que tout le reste. Elle a fait de grands progrès d'intelligence et de gentillesse depuis ces quatre mois. Je pense bien que l'étude a beaucoup hâté le développement de cette jeune raison. Elle lit très-bien, avec beaucoup d'entendement des règles que vous lui avez données.</p>
+        <p>Je suis maintenant au courant du peu de fautes. u'elle fait; elle ne les fait même presque plus. Dites-moi donc, mon cher enfant, ce que je puis faire pour vous. Je ne peux pas le deviner. Parlezmoi souvent de Maurice et de vous. Adieu; je vous embrasse de tout cœur.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

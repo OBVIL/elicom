@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-01-08">Paris, 8 janvier 1831</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">AU MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris,SjamtertS3!."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris,SjamtertS3!.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai reçu ta petite lettre, mon cher enfant. J'at</p>
+        <p>eu bien du chagrin de voir que tu as été malade. tu avais mangé un peu trop de chocolat, je me le rappelle. N'en mange donc plus; soigne-toi bien. J'espère que tu m'écriras bientôt que tu es tout à fait guéri.</p>
+        <p>Sois sûr, mon petit amour, que j'ai eu aussi beau-</p>
+        <p>'&lt;;oup de chagrin de te quitter et que je serai bien heureuse de te revoir. J'aurais mieux aime t'emmener que de venir toute seule à Paris, tu le sais bien; mais tu ne te serais guère ,amusé ici. Tu n'aurais pas été si bien qu'à Nohant, où tout le monde t'aime et ~'occupede toi.</p>
+        <p>Bientôt tu auras Boucoiran, qui t'aime bien aussi et qui te fera travailler, sans' te fatiguer. Tu dois bien savoir qu'il n'est pas méchant;.il ne -faut pas que tu aies,du chagrin pour cela. Quand tu travailles bien, tu sais comme on te caresse et comme tout le monde est content; ton papa et ta 'maman surtout, qui seraient si heureux de te voir bien savant et bien aimable Sois donc bien doux et bien gai joue, mange, ~ours, écris-moi et aime-moi toujours bien. Adieu, mon cher enfant; je t'embrasse mille fois. Ta maman.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+        <postscript><p>Parle-moi de ta petite soeur et embrasse-la pour moi.</p></postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

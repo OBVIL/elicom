@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1835-06">juin 1835</date>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="">A M*</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Madame,"/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date></date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                
+                <p>AU'</p>
+                <p>Par)! juin iS35.</p>
+                <p>E'amour, tel que notre nature le conçoit et le ressent en 1835, n'est pas tout ce qu'il y a de plus pur</p>
+                <p>et de plus beau au monde. Il a été pire et meilleur, selonlestemps.</p>
+                <p>Aujourd'hui, c'est un mélange d'enthousiasme et d'égoisme qui lui donne, chez les femmes, un caractère tout particulier. Privées des salutairés préjuges de la dévotion, abandonnées à la fermentation de l'intelligence qui pénétre à tort et à'travers dans leur éducation, elles n'en sont pas moins rigoureusement Oëtne' par l'opinion. L'opinion, c'est, d'un côté, l'intolérance des femmes laides,.froides ou lâches; de l'autre, c'est la censure railleuse et insultante des hommes, qui ne veulent plus de femmes dévotes, qui ne veulent pas encore de femmes éclairées, et qui veulent toujours des femmes fidèles. Or il n'est pas facile que la femme soit philosophe et chaste à la fois. Cela ~e se voit guère; à moins qu'il n'y ait pas de tempérament, et encore,, il ne faut pas s'y fier. La vanité tait faire plus de folies et de sottises.</p>
+                <p>Les femmes de notre temps ne sont donc ni éclairées, ni dévotes, ni chastes. La révolution morale qui devait les transformer au gré de lâ nouvelle génération masculine a été prise de travers. On n a pas voulu relever la femme à ses propres yeux, on n'a pas voulu lui créer un rôle noble et la mettre sur un pied d'égaMté qui la rendît apte au~ vertus viriles.. La chasteté eût été glorieuse à des femmes libres. A des femmes esclaves, c'est une tyrannie qui les blesse et dont elles secouent le joug hardiment. Je ne puis les en blàmer. Mais je ne -tés estime pas. Elles ont perdu teur</p>
+                <p>cause en se jetant dans le désordre au nom de l'amour et de l'enthousiasme, et leur conduite à toutes, quelle qu'elle soit, est toujours remplie de folie et d'imprudence, jointe à ce qu'il y a de plus opposé, la faiblesse et la peur. De tous leurs écarts, nons ne voyons jamais, jusqu'ici, résulter quelque chose df bon, de durable et de noble. Jamais elles ne savent se créer, après leur faute, une existence honorable et fière. Nous voyons l'une rompre avec le monde ostensiblement, et, bientôt après, faire mille plates tentatives pour y rentrer; l'autre demande l'aumône apr~ avoir ruiné son amant, et, accoutumée à porter des robes de satin, se trouve très malheureuse d'être en guenilles. Une troisième, pour échapper à de tels revers, se déprave et devient pire qu'une catin publique. Une autre enfin, et c'est probablement la meilleure de toutes, voyant le malheur où elle a entraîné celui qu'elle aime, et n'y sachant pas de remède, se donne la mort; ce qui ne produit autre chose que de rendre le survivant un objet d'horreur, s'il ne se hâte d'en faire autant.</p>
+                <p>Voilà ce que, jusqu'ici, j'ai vu dans les aventures romanesques de notre époque. D'union de ce genre, qui fût calme, estimable et enviable, je n'en ai pas vu, et je doute qu'il en existe une en France. Notre société est encore toute hostile à ceux qui la bravent, et la race féminine, qui sent le besoin de liberté, et qui n'en est pas encore digne, n'a ni la force ni le pouvoir de lutter contre une société entièra jui la con-</p>
+                <p>damne à l'abandon, à la misère, pour ne rien dire de plus.</p>
+                <p>Voilà le tableau social qu'il faut mettre sous les yeux de ta jeune amie. Il faut lui montrer, sans flatterie, la condition de la femme en ce temps de transition, qui prépare des destinées meilleures à celles qui nous succéderont. Quant à elle, encore pure comme une Heur, il faut lui montrer qu'il y a un beau rôle à jouer; mais pas dans le système des coups de tête. Ce rôle, je te l'expliquerai tout à l'heure. Un homme libre, riche jusqu'à un certain point,. pourrait enlever sa maîtresse et devenir son protecteur. Encore, pour trouver là une existence supportable, faudrait-il que cette maîtresse eût beaucoup de force d'âme et que son protecteur fût parfait. 11 faudrait qu'il constituât à lui tout seul une existence tout entière.</p>
+                <p>Tu es bien un des meilleurs hommes que je connaisse, et ta jeune amante est peut-être douée d'une très grande force pour supporter les peines de la vie; quoique, jusqu'ici, elle n'en ait pas donné de preuves. Mais tu es pauvre, tu es esclave d'un devoir sacré et sans l'accomplissement duquel tu ne serais qu'une âme médiocre et sèche. La femme qui t'y ferait manquer, et qui t'aimerait encore après, serait une femme échauffée de désirs seulement. Après quoi, tu pourrais ne jamais entendre parler d'elle jamais un amour honnête et véritable ne se nourrira de honteux sacrifices.</p>
+                <p>Que pouvez-vous donc l'un pour l'autre? Rien, quant aux faits. Il ne t'est pas permis (sans compter l'amitié du mari, qui te crée des devoirs en plus) de changer la position sociale de quelque femme que ce soit. Il ne t'est pas même permis de te marier, à, moins que tu ne trouves une dot.</p>
+                <p>Nejpouvant vous appartenir librement, je penser qu'il doit répugner à l'un et à l'autre d'entrer dans ce commerce lâche et malpropre qui ménage au mari' les hasards de la paternité. Je ne te crois pas capable d'aimer huit jours une femme qui, pour échapper à un malheur inévitable, irait prêter aux caresses maritales un flanc fécondé par toi.</p>
+                <p>Soyez donc sages, faites-y vos efforts et que de longs tête-à-tête, que des heures d'enthousiasme prolongé ne dégénèrent pas, sous le voile de l'extase, en des besoins physiques auxquels il n'est plus possible derésister quand on leur 'a indiscrètement donné Io~ change.</p>
+                <p>.Épurez vos cœurs, soyez des martyrs et des saints; ou fuyez-vous au plus vite; car une faiblesse vous jettera dans une série d'infortunes ou. de déboires où l'amour s'éteindra. Je le garantis pour toi, dont l'âme ne pourrait recevoir une souillure sans en détester aussitôt la cause.</p>
+                <p>Cette vertu rigide ne sera, je le suppose, vraiment difficile qu'à toi, homme. Je serais bien étonnéequ'une femme toute jeune et toute pure n'en comprît pas la poésie et le charme, et qu'au bout de très peu</p>
+                <p>de temps, ellè n'y trouvât pas toutes les garanties de son bonheur et de sa sécurité.</p>
+                <p>Quant au rôle noble, et au digne exemple qu'elle présentera en agissant ainsi, il est facile de le concevoir sous l'aspect général. Les femmes placés? dans cette lutte terrible, de la passion et du devoir, plaideront puissamment leur cause en montrant de quelle force d'âme elles sont capables. Leurs époux, forcés à les estimer, ne les opprimeront jamais. S'ils le font si décidément et réellement on voit un sexe irréprochable, généreux, prudent et stoïque, insulté et méconnu par un sexe despote et brutal, il y aura bientôt des lois d'affranchissement; car, dans chaque sexe, il y à pour la cause de la vérité un sentiment de justice et un besoin d'équité qui s'éveillent, et qui prévaudront quand il en sera temps.</p>
+                <p>Toutes ces conventions arrêtées et observées, je ne doute pas que votre amour ne soit heureux, durable et digne d'admiration. Ton caractère est la constance, l'égalité et la tendresse mêmes. Une femme digne de toi te fixera, et il est impossible qu'une femme qui t'a compris ne soit pas ton égale en courage et en délicatesse.</p>
+                <p>La.société est mauvaise et cruelle. Nos passions ne sont ni bonnes ni mauvaises. Il faut de rien faire quelque chose. Ce n'est pas grand'merveille que d'aimer. La moindre grisette écrit de belles lettres d'amour et se sacrifie avec autant de dévouement qu'une muse. M faut un travail rude et une haute volonté pour faire</p>
+                <p>de l8 passion une vertu. Si nous voulons relever la société, relevons aussi nos passions. Mais, en nous y abandonnant, nous ne ferons qu'une chose fort ordinaire et digne de fournir un sujet de vaudeville ou de nouvelle à MM. Scribe, Balzac, George Sand et consorts. Ce ne sont pas ces gens-là qu'il faut prendre pour arbitres en fait de sagesse et de raison. Ils font des contes pour amuser. Ils raconteraient la vie telle qu'elle est, s'ils avaient un cours de morale sérieuse à faire.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

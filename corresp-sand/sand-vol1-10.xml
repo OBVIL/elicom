@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1827-09-04">4 septembre 1827</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A LA MÊME</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 4 septembre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Machèremaman,</p>
+        <p>Me voici de retour, depuis cinq ou six jours. J'ai été absolument empêchée d'écrire durant mon voyage. Toujours en route, soit à cheval, soit à pied; je n'ai pas eu un instant pour me reposer et pour rendre compte de mes courses. Madame Defos, que j'ai vue avant d'aller au Mont-Dore, et en en revenant, m'a dit</p>
+        <p>vous avoir donné de nos nouvelles. J'étais donc sûre que vous ne seriez point inquiète de nous. Cette chère dame nous a reçus avec une bonté parfaite. J'ai fait connaissance avec mademoiselle Eugénie', qui est fort aimable etfortaimée dans CIermont et dans sa maison.</p>
+        <p>Votre adorateur, comme vous l'appelez, est aussi fort aimable et fort spirituel. Il nous a lu beaucoup de vers charmants, dont une partie fut faite en votre honneur, comme ceux de Victoire; Sop/ne, j4M~otnette, que vous connaissez. Agiaé* était très .bien quand nous sommes passés la première fois à notre retour, elle était dans ses crises. Elle avait pris Maunce en grippe, bien qu'il fût fort tranquille. Moi, je n'étais pas trop rassurée et j'ai renvoyé le petit aussitôt après dîner, sous prétexte qu'il était fatigué. J'ai été voir le couvent de Saint-Joseph du haut en bas. Nous avons dîné tous ensemble, pris des glaces, etc. .Clermont est une ville agréable, située dans un des .,plus beaux pays de la terre. Madame Defos est parfaitement logée, sur une place immense, en face des beaux coteaux de la Limagne et du Puy-de-Dôme, qui s'élève comme un géant à l'horizon. La maison qu'elle habite est une des plus belles de la ville et passerait pour belle, même à Paris. Je pense que vous serez bien aise d'apprendre ces détails, et de savoir votre tante dans une position douce et agréable. Elle &lt;. Fille de M. Defos.</p>
+        <p>serait heureuse sans le fardeau qu'elle supporte avec tant de'patience et de douceur. Elle en est sur les dents. C'est un enfant acariâtre qu'il faut endurer tout le jour et veiller la nuit; elle se sacrifie à l'intérêt de ce malheureux enfant, qui ne peut pas, lui en savoir gré, avec une résignation et une tendresse dont le cœur d'une mère est seul capable.             Nous avons beaucoup couru au Mont-Dore, aux environs, à Clermont, à Pontgibaud, où sont les mines de plomb, à Aubusson, où sont les belles manufactures de tapis. Enfin ce que nous avons fait en peu de temps est remarquable. J'ai pris la douche, j'ai été au bal, j'ai galopé à cheval, j'ai versé en voiture, et je pourrais faire une très longue relation de ce court voyage mais je vous en épargne l'ennui. Je me borne à vous dire, ma chère maman, que tout le monde se porte à merveille, gendre, fille et petitfils. J'ai un appétit effrayant et j'ai pris l'habitude de 'dormir, que je trouve très agréable.
+        </p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

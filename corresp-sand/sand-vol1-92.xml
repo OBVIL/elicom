@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1835-05-25" >25 mai 1835</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pouradier-Duteil, Sylvain Alexis (1796-1852)">A M. ALEXIS DUTEIL, A LA CHATRE</persName>
+          <placeName>La Chatre</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mon vieux,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Mon vieux,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je vois que, après tout, Casimir est fort triste, qu'il regrette beaucoup son petit royaume et que l'idée de voir apporter par moi le moindre changement d soft ordre de 'choses lui est amère et mortifiante, biM qu'il n'en dise nen.</p>
+        <p>Je vois aussi que cette séparation d'argent et de domiciie ne s'effectuera pas sans humeur et sans chagrm de sa part, et qu'il croit faire là une action vraiment romaine. Je ne suis pas disposée à prendre au sérieux une pareille affaire. Ma profession est la liberté, et mon goût est de ne recevoir grâce ni faveur de personne, même lorsqu'on me fait la charité avec mon argent. Je ne serais pas fort aise que mon mari (qui subit, à ce qu'il paraît, des influences contre moi) prit fantaisie de se faire passer pour une victime, suri7.</p>
+        <p>tout aux yeux de mes, enfants,, don.U'estime.m'importef, beaucoup. Je veux pouvoir me faire rendre ce témoin gnage, que je n'ai jamais rien fait de bon ou de.mafU-' vais, qu'il n'ait autorisé ou souffert., Ne réponds pas à cela par des considérations de sentiment de sa part. Je ne juge jamais des sentiments que par les actions, et tout ce que je désire, c'est qu'il reste avec moi dans des relations de bonne amitié qui soient d'un bon exemple à mes enfants. Je ne veux établir mon bienêtre aux dépens de l'amour-propre ou des plaisirs de personne. Voilà mon caractère, comme dit Odry. Je te renvoie donc les conventions qu'il a signées et, qui plus est, je te les renvoie déchirées, afin qu'il n'ait plus que la peine de les jeter au feu, s'il a le moindre regret de cet arrangement proposé et, rédigé par lui.. Adieu, mon vieux.; j,'irai vous voir aux. vaçances. Je demeurerai chez M. Dudevant, s'il veut. me donner l'hospitalité. Sinon, je louerai une chambre chez Brazier' car rien au monde ne, me fera renoncer, à vous autres. Mais, pour une séparation stipulée,: annoncée à son de trompe et arrosée des larmes, de, ses amis, cela m'embête, je n'en veux, pas et ne r&lt;CMdrais jamais de Com~aM~mop~ plutôt que, de voir maigrir le maire de Nohant-Vic.</p>
+        <p>Vive la joie, mon vieux je suis et serai toujours ton meilleur ami.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              GEOR&amp;E..
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

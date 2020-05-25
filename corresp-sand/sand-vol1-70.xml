@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-12-06" >6 décembre 1832</date>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Dudevant, Maurice (1823-1889)">A MAURICE DUDEVANT, A NOHANT</persName>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris,6d~Mmbrei833."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 6 décembre 1832</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ange,</p>
+        <p>Nous sommes arrivées hier sans accident et me voita</p>
+        <p>aujourd'hui presque sans fatigue. Nous sommes toutes reposées. Ta sœur est gaie, fraîche et gentille. Tout le monde la trouve embellie et mignonne à croquer. Lape~e ~emme~ a très bien supporté le voyage et n'a pas seulement levé le nez en traversant Paris Elle a l'air de ne se guère soucier des choses nou' velles. Si elle continue à être ce qu'elle est aujourd'hui, je serai contente d'elle car elle fait bien tout ce qu'elle peut pour m'être utile.</p>
+        <p>Je ne te dirai rien de neuf je n'ai encore songé t. Sobriquet de la jeune villageoise amenée d Parie par George Sand.</p>
+        <p>qu'à dormir et à ranger 'ma chambre. Ta petite sœur t'embrasse. Elle a pensé à toi à Châteauroux et s'est mise à pleurer. Je lui ai demandé ce qu'elle avait elle m'a répondu qu'elle voulait aller chercher son frère mignon. Je l'ai menée chez Rollinat, où nous avons dîné; les petites sœurs de RoUinat l'ont consolée, elle s'est mise à faire le diable. Adieu, mon petit mignon embrasse ton père pour moi dis à ton oncle de ménager un peu sa cervelle. Dis-lui aussi que j'ai voyagé avec le fameux père Bouffard, un des principaux chefs saint-simoniens. Le père Bbuffard est gros comme toi, ne mange que des &lt;]eufs froids et ne boit que de l'eau. Du rester il est très aimable et parait très bon. Il ressemble à Jocko à s'y tromper; te souviens-tu de Jocko?</p>
+        <p>Adieu écris-moi, travaille, porte-toi bien et pense à moi. Je t'embrasse mille fois, mon pauvre ange; tu sais si je t'aime 1</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              Ta mère.
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

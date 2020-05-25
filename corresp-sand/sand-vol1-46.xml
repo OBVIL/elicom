@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1831-04-14">14 avril 1831</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Delaborde, Sophie-Victoire (1773-1837)">A ;ADAME MAURICE DUPIN, A PARIS</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nohant.&lt;4aYrili831."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 14 avril 1831</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma chère maman,</p>
+        <p>J'ai bien tardé à vous annoncer mon arrivée, parce que j'ai séjourné quelques jours à Bourges, où j'ai été</p>
+        <p>assez malade. Je me porte bien tout à fait, depuis que j'ai revu mes enfants. Ce sont deux amours. Solange est devenue belle comme un ange. Il n'y a pas de rose assez fraîche pour vous donner l'idée de sa fraîcheur. Maurice est toujours mince; mais il se porte bien et on ne peut voir d'enfant plus aimable et plus caressant. Je suis aussi très contente de ses progrès et de sa douceur au travail. Enfin je suis, jusqu'ici, une heureuse nière.</p>
+        <p>J'ai trouvé Polyte un peu malade; sa femme, toujours la même, bonne et indolente; mon mari, criant fort et mangeant bien; le précepteur avec des moustaches qui lui vont comme de la dentelle à un hérisson Léontine, ayant fait aussi des progrès et toujours très douce. Voilà!</p>
+        <p>Et vous, ma chère maman, que faites vous par ce beau temps qui donnait déjà à Paris un air de fête ? Promenez-vous Caroline, en attendant que la pauvre enfant, aille retrouver son triste Charleville? Mais elle y retrouvera son Oscar, et, auprès de ses enfants, on ne peut pas s'ennuyer.</p>
+        <p>Pierret est-il toujours amoureux de son beau fusil qui lui sert de bijou sur sa cheminée, et furieux contre les républicains? Dites-lui qu'à la première révolution, les femmes repousseront les gardes nationaux avec des pots de chambre.</p>
+        <p>Ici, l'on est fort tranquille en masse et l'on ne se dispute qu'en famille. Ne pouvant faire d'émeutes, on fait d°s cancans; ce qui m'ennuie tellement, que</p>
+        <p>e vais m'enfermer dans mon cabinet avec mes deux mioches pour ne pas entendre parler de haines, d'élections, d'intrigues, de propos, de vengeances, etc., etc. Pouah!</p>
+        <p>La peste des petites villes, c'est le commérage. Les hommes s'en mêlent au moins autant que les femmes quand il s'agit d'intérêts politiques. A Paris, on rit de tout; ici, on prend tout au sérieux. Il y a de quoi crever d'ennui; car, après tout, la vie n'est pas faite pour se fâcher d'un bout à l'autre. J'aime mieux laisser les hommes comme ils sont que de me donner la peine de les prêcher.</p>
+        <p>N'est-ce pas votre avis, chère mère, à vous qui avez l'esprit si jeune et le caractère si gai? Je voudrais que Maurice fût d'âge à entrer au collège; alors je passerais, près de vous et près de lui, une partie de ma vie à Paris. J'aime la liberté dont on y jouit et l'insouciance qui fait le fond du caractère de ses habitants.</p>
+        <p>Tout le monde ici se joint à moi pour vous embrasser mille fois. Rendez-le-moi en particulier un peu plus qu'aux autres.</p>
+        <p>Bonsoir, ma chère petite maman.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

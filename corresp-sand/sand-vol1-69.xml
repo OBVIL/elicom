@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1832-08-20" >20 août 1832</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Rollinat, François (1806-1867)">A M. FRANCOIS ROLLINAT, A CHATEAUROUX </persName>
+          <placeName>Chateauroux</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mon vieux,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date></date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon vieux, J'ai travaillé comme un cheval, et je me sens si aise d'être débarrassée de ma journée, que, loin de faire du spleen, je me plonge avec délices dans cette béate stupidité qu'il m'est enfin permis de goûter. Ne t'attends donc pas à me voir répondre à toutes les choses bonnes et excellentes que tu me dis. J'attendrai pour cela un jour où j'aurai de l'âme, un jour où je serai Otello. Pour aujourd'hui, je suis chien. Je dis que la vie n'est bonne qu'à gaspiller. J'ai mis tout ce que j'avais de cœur et d'énergie sur des feuilles de papier Weynen. Mon, àme est sous presse, mes facultés sont dans la main du prote. Infâme métier! Les jours où je le fais, il ne me reste plus rien le soir. Ce sont autant de jours où il ne m'est pas permis de vivre pour mon compte. Après tout, c'est peut-être un bonheur; car, livrée à moi-même, je vivrais trop</p>
+        <p>Dans deux jours, j'aurai fini Fa~M~tKe, ou je serai morte. Veux-tu que j'aille te voir la semaine prochaine? Fixe le jour. Si tu veux, nous irons &amp;Va!en-</p>
+        <p>çay. Cela t'arrange-t-il? J'ai tout le mois pour courir, mais le froid viendra. Si tu m'en crois, tenons-nous prêts aux premiers jours de soleil qui reviendront, s'il en revient. J'avertirai Gustave*. Réponds-moi donc et décide !e jour; c'est à toi, qui n'es pas libre quand tu veux, de régler l'ordre et la marche. Mais il faut nous prévenir d'avance, afin de préparer nos pataches, nos pistolets de voyage, nos pelisses fourrées, nos astrolabes, enfin tout l'appareil du voyageur. J.e suis charmée qu'on m'accueille chez toi avec bienveillance. J'ai fort envie de voir tous ces enfants; Juliette' surtout me plaît. Préviens ta mère et tes grandes sœurs que j'ai excessivement mauvais ton, que je ne sais pas me contenir plus d'une heure; qu'ensuite, semblable au baron de Corbigny, « je ne puis m'empêche de jurer et de m'e~t~rer ». Que veux-tu! chacun a ses petites faiblesses, disait je ne sais plus quel particulier, en faisant bouillir la tête de son père dans une marmite, pour la manger. Enfin garde-toi de me faire passer pour quelque chose de présentable. S'il fallait soutenir ensuite la dignité de mon rôle, je souffrirais trop.</p>
+        <p>Fais-moi le plaisir de m'envoyer une boite de pains à cacheter les plus petits possibles. Je t'ai fait de grands et magnifiques présents, tu peux bien me faire celui-là autrement, je serai forcée de t'envoyer mes lettres ouvertes. On ignore à la Châtre l'usage des 1. Gustave Papet.</p>
+        <p>pains à cacheter. On se sert de poix de Bourgogne. On y fabrique aussi des fromages estimés, les habitants sont fort affables. (Voyez le voyage de ~s&lt;ro&lt;a6e.) Adieu, cher frère de mon coeur. Je t'écrirai quand je pourrai. Toi, si tu as. le temps, écris-moi. Tu sais si je t'aime, petit homme et grande âme!</p>
+        <p>GEORGE.</p>
+         
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

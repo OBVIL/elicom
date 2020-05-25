@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <date when="1828-11-15" resp="">15 novembre 1828</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="A MONSIEUR CARON">A MADAME CARON, A PARIS</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+                <date when="Nohant, 4 août 1828."/>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <date>15 novembre 1828</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>AM.CARON.A ARt</p>
+                <p>t5novembre,i83&amp;.</p>
+                <p>Je n'ose pas dire, mon bon révérend, que j'ai bien du regret de ne vous pas voir. Ce serait être égoïste que de s'affliger de vos succès. Mais, sauf la joie bien vraie que j'éprouve à vous voir satisfait et dont vous ne pouvez pas douter, il m'est bien permis, à part moi, d'être fâchée de votre absence, et de regretter votre aimable personne.</p>
+                <p>J'ai Fespoir que vous n'oublierez point notre sincère affection dans le cours de vos prospérités, et que, quand vos affaires vous laisseront quelque répit, vous viendrez passer ici ce temps de liberté, dormir la grasse matinée, flâner avec l'ami Duteil et faire jurer Casimir en le gagnant aux échecs.</p>
+                <p>Vous avez ici votre appartement, votre nourriture, éclairage, blansissage, etc., moyennant la somme modique de deux francs cinquante centimes par semaine, et, de plus, vous aurez ce qui ne s'achète pas, des coeurs qui vous aiment bien véritablement. Cette lettre vous sera remise par votre ami Duteil, qui, je crois, a le projet de vous demander de le prendre en pension pour trois semaines. C'est -un</p>
+                <p>'compagnon aimable, et c'est pour la même raison qu'il désire loger avec vous, si vous le trouvez bon. Adieu, mon vénérable octogénaire. Que votre barque vogue au gré de vos désirs! C'est ce que je vous souhaite, au nom du Père, etc.</p>
+                <p>Je vous embrasse de tout mon cœur, et désire que vous terminiez heureusement et vite afin de revenir nous voir.</p>
+                <p>AURORE.</p>
+                <closer>
+                    <salute></salute>
+                    <signed>
+                        <name>
+                        </name>
+                    </signed>
+                </closer>
+                <postcript>
+                    <p>Comment va la grosse Pauline~? Embrassez-la de ma part et de celle de Maurice. On dit que vous avez une nouvelle Corinne pour cuisinière, je vous en fais mon compliment.
+                    </p>
+                </postcript>
+            </div>
+        </body>
+    </text>
+</TEI>
+

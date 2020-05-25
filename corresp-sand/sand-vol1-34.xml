@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1830-12-27">Lundi soir. Nohant, 27 décembre 1830.</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1808-1875)">AU MÊME</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 27 décembre 1830.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>En cas d'absence Couteoerd Poiasonnière, n" 20.)</p>
+        <p>Nohant, 27 décembre 1830.</p>
+        <p>Qu'êtes-vous donc devenu mon cher enfant? Ou '~tes-vous? Pourquoi ne me donnez-vous pas signe de 1vie? Je suis vraiment inquiète. Dans un moment de &lt;;rise comme celui que j'ai traversé,. j'aurais eu besoin de votre amitié, de vos encouragements. Vous -ne m'avez écrit qu'un très petit mot. Il est vrai qu'il renfermait bien des choses. Depuis, je vous ai écrit, pour vous dire tout le bien que vous m'aviez apporté. Je vous en remerciais dans l'effusion de mon coeur. ~Votre modestie farouche s'est-elle offensée de quelques-unes de mes expressions? Après ce qui m'est arrivé, j'ai sujet de trembler. Peut-être est-ce la raison de votre silence. Vous craignez peut-être de tomber dans les mains des infidèles. Rassurez-vous. Maintenant madame Decerf ne remet mes lettres qu'à moi, et celles qui me sont adressées poste restante sont doublement assurées de me parvenir. Peut-être aussi êtes-vous à Paris? Je ne vois personne qui puisse me dire où est la famille du général. Je suis tourmentée de ne rien, savoir et de tout appré-</p>
+        <p>!iender. N'êtes-vous pas malade ? Me boudez-vous? et pourquoi? Enfin qu'y a-t-il? Je pars le 4 janvier pour Paris. Si vous êtes à la Leuf, ne pourrai-je vous voir un instant à Châteauroux ? Si vous me répondez affirmativement, je partirai d'ici le matin, afin de passer une partie de la journée avec vous; sinon, je ne ferai que traverser Châteauroux.</p>
+        <closer>
+          <salute>Adieu mon cher enfant; ma santé est médiocrement rétablie. Mon intérieur est calme.
+          </salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

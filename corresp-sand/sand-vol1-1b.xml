@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Correspondance George Sand</title>
+                <author>George Sand</author>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Obvil</publisher>
+                <date when="2020"/>
+                <idno/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="George Sand (...-...)">George Sand</persName>
+                    <placeName>Nohant</placeName>
+                    <date when="1823-12-21" >21 novembre 1823</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="A MONSIEUR CARON, A PARIS (...-...)">A MONSIEUR CARON, A PARIS</persName>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="foo.xml"/>
+                    <ref type="next" target="bar.xml"/>
+                </correspContext>
+            </correspDesc>
+            <creation>
+            </creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>Nohant</placeName>,
+                        <date>21 novembre 1823</date>
+                    </dateline>
+                    <salute/>
+                </opener>
+                <p>Nohant, 21 novembre 1823</p>
+                <p>Vous m'avez envoyé assez de guimauve pour faire pousser deux millions de dents; comme j'espère que mon héritier' n'en aura pas tout à fait autant, j'ai fait deux bouteilles de sirop dont vous vous lécherez les barbes si vous vous dépêchez de venir à Nohant car mon petit n'est pas disposé°à vous en laisser beaucoup. Au reste, votre envoi a fait bon effet, puisque nous avons deux grandes dents. Vous seriez amouraux de lui maintenant: il est beau comme vous, etleste comme son père. J'aimerais autant tenir une grenouiJ'e, elle ne sauterait pas mieux.</p>
+                <p></p>
+                <closer>
+                    <salute>Adieu, mon petit père. Nous vous embrassons et sommes vos bons amis.</salute>
+                    <signed>
+                        <name>
+                            LES DEUX CASIMIRS~.</signature>
+                        </name>
+                    </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance George Sand</title>
+        <author>George Sand</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="George Sand (...-...)">George Sand</persName>
+          <date when="1834-08-31">31 août 1834</date>
+          <placeName>Nohant</placeName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Boucoiran, Jules (1805-1875)">A M. JULES BOUCOIRAN, A PARIS</persName>
+          <placeName>Paris</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="cxvin"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Nohant, 31 août 1834</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>r A M. JULES BOUCOtRAN, A~ BARF:</p>
+        <p>Nohant.3i&lt;io&amp;ti83*.</p>
+        <p>Mon cher enfant,</p>
+        <p>Je suis arrivée très lasse et assez malade; je vais mieux. Maurice va bien. Tous mes amis, Gustave Papet, Alphonse Fleury, Charles Duvernet et Duteil sont venus, le lendemain, dîner avec mesdames Decerf et Jules Néraud</p>
+        <p>J'ai éprouvé un grand plaisir à me retrouver là. C'était un adieu que je venais dire à mon pays, à tous les souvenirs de ma jeunesse et de mon enfance;'car vous avez dû le comprendre etle deviner la vie m'est i.. Le: Malgache</p>
+        <p>odieuse, impossible, et je veux en finir absolument avantpeu.</p>
+        <p>Nous en reparlerons.</p>
+        <p>En attendant, je vous remercie de l'amitié constante, infatigable, que vous avez pour moi. J'aurais été heureuse si je n'eusse rencontré que des coeurs comme le vôtre. Dans ce moment, vous comblez de soins et de services mon ami Pagello.</p>
+        <p>Je vous en suis reconnaissante. Pagello est un brave et digne hommè, de votre trempe, bon et dévoué, comme vous. Je lui dois la vie d'Alfred et la mienne. Pagello a le projet de rester quelques mois à Paris. Je vous le confie et je vous le lègue car, dans l'état de maladie violente où est mon esprit, je ne sais point ce qui peut m'arriver.</p>
+        <p>Il est bien .possible que je ne retourne point à Paris de sitôt. C'est pourquoi, craignant de ne jamais revoir ce brave garçon, qui repartira peut être bientôt pour son pays, je l'invite (avec l'agrément de M. Dudevant) à venir passer huit ou dix jours ici. Je ne sais s'il acceptera. Joignez-vous à moi pour qu'il me fasse ce plaisir, non en lui lisant ma lettre, dont la tristesse l'affecterait, mais en lui disant qu'il me donnera l'occasion de lui témoigner une amitié malheureusement stérile et prête à descendre au tombeau.</p>
+        <p>J'aurai a causer longuement avec vous et à vous charger de l'exécution de volontés sacrées. Ne me sermonnez pas d'avance. Quand nous aurons parlé</p>
+        <p>ensemble une heure, quand je vous aurai fait connaître l'état de mon cerveau et de mon cœur, vous direz avec moi qu'il y a paresse et tacheté à essayer de vivre, quand je devrais en avoir déjà fini. Le moment n'est pas venu de nous expliquer à cet égard.. I! viendra bientôt.</p>
+        <p>Si Pagello se, décide a venir, donnez-lui les instructions nécessaires et faites-le partir vendredi prochain. Si vous pouviez l'accompagner, cela me ferait beaucoup de bien c'est pourquoi je ne m'en (latte pas. Expliquez-lui ce qu'il a à faire à Châteauroux, où l'on arrive à quatre heures du matin pour en repartir à six; par la voiture de la Châtre car, chez Suard', on est peu affable pour les voyageurs de passage. Adieu. J'ai la fièvre. Solange est charmante. Je ne peux l'embrasser sans pleurer.</p>
+        <p>Faites carder mes matelas. Je ne veux pas être mangée aux vers de mon vivant. Adieu, mon ami. Votre vieille mère va mal. Faites dire à mon propriétaire que je garderai l'appartement. A quoi bon changer pour le peu de temps que je veux passer en ce monde?</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
