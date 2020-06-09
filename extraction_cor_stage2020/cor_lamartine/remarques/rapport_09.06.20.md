@@ -5,7 +5,7 @@
 
 - j’ai résolu la question du destinataire manquant : 
 un point suivait le A. ce qui changeait la donne. 
-J’ai donc changé l’expression régulière en fonction, ce qui fait : 
+J’ai donc changé l’expression régulière pour le prendre en compte, ce qui fait : 
 `RE_DEST = re.compile(r"(A\. monsieur |A monsieur.+(?:[BV].+))(?:$|(.+))?")`
 Désormais, tous les destinataires sont matchés.
 
