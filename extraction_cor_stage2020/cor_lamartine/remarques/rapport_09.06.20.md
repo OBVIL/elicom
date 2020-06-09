@@ -1,6 +1,6 @@
-#Travail sur la correspondance de Lamartine
+# Travail sur la correspondance de Lamartine
 
-###Rapport du mardi 9 juin 2020
+## Rapport du mardi 9 juin 2020
 
 
 - j’ai résolu la question du destinataire manquant : 
