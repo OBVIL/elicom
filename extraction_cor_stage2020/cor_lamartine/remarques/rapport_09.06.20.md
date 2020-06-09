@@ -22,5 +22,7 @@ Reste le problème des matches qui sont parfois trop étendus et qui prennent en
 Tous les matches sont OK.
 - Je me fais une petite fiche pour les regex en python et je consulte différents sites qui les expliquent afin d’être plus efficace à l’avenir et renforcer les bases.
 - Mardi : → Voir comment on peut exploiter les Adieu pour les `<salute>`.
+
 		→ Voir pour le code pour l’extraction des lettres. 
+		
 		→ Voir pour le destinataire manquant. 
