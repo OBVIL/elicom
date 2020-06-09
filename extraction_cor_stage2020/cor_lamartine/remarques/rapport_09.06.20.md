@@ -1,6 +1,6 @@
-#Travail sur la correspondance de Lamartine
+# Travail sur la correspondance de Lamartine
 
-###Rapport du mercredi 9 juin 2020
+## Rapport du mercredi 9 juin 2020
 
 - Tests avec l'utilisation des print() dans le terminal.
 
