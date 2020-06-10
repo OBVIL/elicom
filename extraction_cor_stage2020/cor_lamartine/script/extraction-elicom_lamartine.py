@@ -27,6 +27,14 @@ RE_LAMARTINE = re.compile(r"(A\.|AL.+(?:[DL].+))(?:$|(.+))?")
 RE_DEST = re.compile(r"(A\. monsieur |A monsieur.+(?:[BV].+))(?:$|(.+))?") 
 #matche les destinataires. 
 
+RE_SALUT = re.compile(r"Mon cher ami")
+
+RE_SALUTE = re.compile(r"Adieu")
+
+RE_PS = re.compile(r"P\.-S\..*")
+
+RE_DATELINE = re.compile(r"[Milly|Mâcon|Lyon|Saint\-Point|Péronne|Dijon|Bologne|Livorno|Florence|Napoli|Naples|Lausanne].+[0-9]{4}")
+
 #LE FILEPATH
 filepath = "lamartine-cor-vol1.html"
 
@@ -54,25 +62,46 @@ for p in soup.body.find_all('p'):
 
 E = ElementMaker(namespace="http://www.tei-c.org/ns/1.0", nsmap={None: "http://www.tei-c.org/ns/1.0"})
 for i, lettre in enumerate(lettres[1:]):
-	n, to, date, signature = "", "", "", ""
+	n, to, date, dateline, salut, salute, signature, ps = "", "", "", "", "", "", "", ""
 	try:
-		n, to, date, *corps, signature = lettre
+		n, to, date, dateline, salut, *corps, salute, signature, ps = lettre
 		#print(signature, signature.isupper())
 		#print("Lamartine %s" %to)
+		if RE_DATELINE.findall(dateline):
+			pass 
+		#if not RE_DATELINE.search(' '.join(corps)):
+			#pass
 		if RE_LAMARTINE.findall(signature):
 			pass
-			#print(RE_LAMARTINE.findall(signature)) N'en matche que 60 ?!
-		if not RE_DEST.search(' '.join(corps)):
+		#if RE_DEST.findall(to):
+			#print(to)
 			pass
+			#print(RE_LAMARTINE.findall(signature)) N'en matche que 60 ?!
+		if RE_SALUT.findall(salut):
+			#print(salut)
+			pass
+		#if not RE_SALUT.search(' '.join(corps)):
+			#pass
+		#if not RE_DEST.search(' '.join(corps)):
+			#pass
 			#print('-',corps) PB : le corps matche tout, signature comprise...
+		if RE_SALUTE.findall(salute):
+			#print(salut)
+			pass
+		#if not RE_SALUTE.search(' '.join(corps)):
+			pass
+		if RE_PS.findall(ps):
+			#print(ps)
+			pass
+		#if not RE_PS.search(' '.join(corps)):
+			#pass
 	except ValueError:
 		pass
-
 
 	teifile = E.TEI (
 		E.teiHeader (
 			E.fileDesc (
-				E.titleStmt(E.title("Correspondance Alphonse de Lamartine"), E.author("Alphonse de Lamartine")),
+				E.titleStmt(E.title("Correspondance Alphonse de Lamartine"), E.author("Alphonse de Lamartine"), E.respStmt(E.resp("Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier"), E.persName(E.forname("Lucie"), E.surname("Slavik")))),
 				E.editionStmt(E.edition()),
 				E.publicationStmt(
 					E.publisher("Obvil"),
@@ -80,7 +109,7 @@ for i, lettre in enumerate(lettres[1:]):
 					E.idno(),
 					E.availability(E.licence(E.p, target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"), status="restricted")
 				),
-				E.sourceDesc(E.bibl())
+				E.sourceDesc(E.bibl()),
 			),
 			E.profileDesc (
 				E.correspDesc(
@@ -106,22 +135,23 @@ for i, lettre in enumerate(lettres[1:]):
 		E.text(
 			E.body(E.div(
 				E.opener(
-					E.dateline(
-						E.date(date)
-						),
-					E.salute()
+					E.dateline(date),
+					E.salute(),
 					),
 				*[E.p(p) for p in corps],
 				E.closer(
-					E.salute(''),
+					E.salute(),
 					E.signed(
 						E.name(
-							E.signature(signature)
+							E.signature()
 							)
+						
 					)
+				#E.postscript(ps)	
 				), type="letter")
 		)
 	))
+
 	f = "dump/lamartine-cor-vol1-%s.xml" %i
 	with open(f, 'wb') as fout:
 		fout.write(etree.tostring(teifile,
