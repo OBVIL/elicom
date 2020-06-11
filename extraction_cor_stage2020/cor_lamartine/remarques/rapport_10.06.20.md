@@ -18,4 +18,4 @@
 	- je n'arrive pas à intégrer la balise `<postcript/>` dans l'arborescence. Je rencontre un problème de syntaxe que je n'arrive pas à résoudre pour le moment, alors je commente l'endroit concerné (l.150)
 	
 
-- Je commence à extraire l'HTML du premier volume de correspondance de Lamennais. Il semble être bien moins propre que le précédent. 
+- Je commence à extraire l'HTML du premier volume de correspondance de Lamennais. Il semble être bien moins propre que le précédent (que j'avais beaucoup nettoyé).
