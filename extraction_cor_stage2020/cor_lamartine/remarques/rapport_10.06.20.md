@@ -14,7 +14,7 @@
 
 - Problèmes rencontrés :
 	- la dernière lettre a totalement disparue, elle n'est pas prise en compte.
-	- le corps de plusieurs lettres ne s'affiche pas, comme par exemple pour la lettre 
+	- le corps de plusieurs lettres ne s'affiche pas, comme par exemple pour la lettre 96 dans le PDF, donc dans le fichier XML la lettre nommée lamartine-cor-vol1-95.xml
 	- je n'arrive pas à intégrer la balise `<postcript/>` dans l'arborescence. Je rencontre un problème de syntaxe que je n'arrive pas à résoudre pour le moment, alors je commente l'endroit concerné (l.150)
 	
 
