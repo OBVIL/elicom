@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Milly, 10 août 1810." resp="">Milly, 10 août 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur de Virieu. (...-...)">A monsieur de Virieu.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Milly, 10 août 1810."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Milly, 10 août 1810.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Parlons de plus grands projets, du voyage d'Italie par exemple. Il me semble qu'un voyage comme celui-là nous serait peut-être plus profitable dans deux ou trois ans d'ici. Mon avis serait que d'ici là nous nous contentassions d'un voyage à pied et philosophique en Suisse. Qu'en penses-tu? ça ne laisserait pas de bien servir notre imagination'.</p>
+        <p>Quant au voyage d'Angleterre, oh! c'est celuilà que nous devons avoir bien à coeur aussi. J'apprends l'anglais, mon ami. Il n'y a pas de comparaison combien je le mets au-dessus de l'italien. Tu peux m'écrire en anglais au bout d'un mois ou deux. Et puis nous ferons faire la paix et nous partirons. Nous nous établissons quatre ou cinq mois chez un ministre à la campagne, aux environs d'Oxford. Là nous apprenons à parler l'anglais, ce qui est tout autre chose que de le lire et de l'écrire. Et puis nous allons à Londres. Ne visiterons-nous pas les fils d'Ossian et les pins antiques, témoins de ses exploits et de ses chants? Mais puisque nous eu sommes sur l'article de nos voyages, j'irai faire à Paris une petite course incognito de huit ou dix jours</p>
+        <p>Je me remets à travailler dans ma solitude. Je traduis, je lis ou je versifie. Je suis de ton avis sur La Harpe : ce n'est pas pour nous ce livre-là, c'est, comme tu le penses, pour un athénée de femmes et de gens du monde. Je viens de lire les oeuvres du prince de Ligne et j'attends impatiemment le Voyage d'Allemagne de Mme de Staël; j'espère que cela vaudra Corinne. En entends-tu parler? On prétend qu'elle nous quitte et va aux États-Unis. Écris-moi donc plus souvent. Que t'en coûte-t-il? une demi-heure par semaine; c'est faire bien peu pour l'amitié.</p>
+        <p>Je vais tout à l'heure monter dans mon petit chariot suisse et aller porter cette lettre à Mâcon. Je reviendrai ici demain ou après-demain. Je préfère infiniment la solitude parfaite de la campagne à une ville petite ou médiocre; on y perd moins et on y gagne plus. Je lis pour m'encourager le Traité sur la solitude de Zimmermann, traduit par Mercier. Vivent les Allemands pour la raison, les Anglais pour le génie, la fermeté d'âme, l'indifférence sur la fortune ! aimons-les et imitons-les : c'est la seule nation que j'estime à présent après les Suisses.</p>
+        <closer>
+          <salute></salute>
+          <signed>Adieu, pense à ton ami, aime-le, écris-lui, et sis felix, si tu le peux. A propos de sis felix, j'adore Montaigne et je lui trouve toutes les qualités dont tu me parles.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

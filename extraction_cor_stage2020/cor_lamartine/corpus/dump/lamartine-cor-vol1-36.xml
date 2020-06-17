@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Mâcon, 1er septembre 1809." resp="">Mâcon, 1er septembre 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu Au Grand-Lemps. (...-...)">A monsieur Aymon de Virieu Au Grand-Lemps.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mâcon, 1er septembre 1809."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Mâcon, 1er septembre 1809.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Enfin, grand voyageur, nous avons donc de tes nouvelles ! Tu nous as fait assez longtemps languir, et tu ne nous contes rien de tes aventures romanesques; car où en aurait-on, si ce n'est dans ce chien de pays de Savoie et aux eaux? Ah ! que me veux-tu avec tes dissipations idéales et chimériques de notre voyage à Rome? Pourquoi me réveilles-tu de nouveau? Pourquoi rallumes-tu toute ma folle ardeur? Mais quelle sottise! je te dis moi-même d'appeler cela une folle ardeur ; non certainement, ce n'est point cela, c'est une noble ardeur, une grande idée, un projet digne de nous, qui nous fait honneur, qui nous distingue, qui nous élèvera l'imagination, l'âme, l'esprit. Je vois mille jeunes gens bien plus à leur aise que nous qui préfèrent filer une plate passion auprès d'une plate bourgeoise, acheter un cheval plus distingué, un habit de drap plus fin, avoir un meilleur dîner, une chambre mieux meublée, à ces douceurs inconnues qui nous font mépriser tout cela.</p>
+        <p>Hélas ! voyageurs que nous sommes,</p>
+        <p>Nos jours seront bientôt passés,</p>
+        <p>Et de la demeure des hommes</p>
+        <p>Demain nos pas sont effacés !</p>
+        <p>Qu'il est beau ce désir de l'âme</p>
+        <p>Dont la noble fierté réclame</p>
+        <p>Contre un ténébreux avenir,</p>
+        <p>Dont l'orgueil aux races futures,</p>
+        <p>Pour prix des vertus les plus pures,</p>
+        <p>Ne demande qu'un souvenir !</p>
+        <p>C'est une méchante strophe de ma méchante ode sur l'amour de la gloire. C'est à nous de dire comme Corinne : Oh! que j'aime l'inutile ! Mais, afin de pouvoir, le dire en toute tranquillité, il nous faut d'abord posséder ce qui est plus que l'utile, le nécessaire : un état, un métier, un art, non meliora piis !</p>
+        <p>Mon cher ami, je ne puis aller à Crémieu ni à Lemps. Je suis obligé de partir dans trois semaines pour Dijon où je passerai quinze jours à peuprès, et puis d'ailleurs je me connais trop pour m'embarquer avec un peu d'argent que je ne rapporterais certainement pas et dont j'ai un besoin absolu pour cet hiver. Que deviendraient notre projet, nos travaux, nos plaisirs, nos progrès, notre gloire? Tenons-y. Parlons-en encore : le 2 ou le 3 janvier nous arriverons chacun de notre côté au rendez-vous; je le trouve tout de suite à l'hôtel de Provence, nous courons ensemble une matinée pour chercher un petit taudis qui nous convienne ; le soir, nous le meublons, et le lendemain matin nous y entrons. Nous travaillons au grec, etc., jusqu'à quatre heures, nous allons dîner ensemble pour vingt sous chacun, nous nous habillons et nous allons faire une ou deux visites, et puis le spectacle, et puis nous recommençons. Mais encore une fois, faisons petit, très-petit, infiniment petit. Plus nous aurons ménagé nos douces finances cet hiver, plus aussi nous serons à même de pousser notre voyage en Suisse, et que sait-on? peut-être en Italie, pendant le printemps et l'été!</p>
+        <p>Hoc precor : hunc illum nobis aurora nitentem Luciferum roseis candida portet equis ! Je suis toujours à la ville, j'y mène la vie la plus sotte, la plus oisive, la plus indigne qu'il soit possible d'imaginer. J'ai été si longtemps privé de vos lettres! D'ailleurs j'ai repris mou vieux mal de poitrine et j'ai craché le sang pendant deux ou trois jours. Cela m'a fait une peur affreuse, et je m'étais amusé à faire mon testament en vers. J'ai pourtant quelque chose qui m'occupe un peu. Je te raconterai des choses assez plaisantes là-dessus. Je passe tous les jours la soirée avec un jeune homme charmant de ma connaissance, jeune homme de trente ans, très-formé, très-instruit, lisant Homère en grec comme nous l'Enéide en latin, ayant toujours vécu à Paris, malgré son père, avec 1,200 fr., et jouissant à présent de 2,500 fr. de rente, très-lié avec tous les poêles et savants, avec madame de Staël, etc., etc. Nous sommes parfaitement ensemble, ce qui m'est utile et trèsagréable. C'est une connaissance de notre genre qui te fera sûrement plaisir quand tu viendras dans ce pays-ci. Sans lui je serais mort d'ennui depuis six mois, et surtout depuis que je ne fais rien. Il faut joindre à toute son amabilité une bibliothèque de dix ou douze mille volumes qu'il a ici, des chevaux, etc., etc. Et j'ai été celle fois heureux de le rencontrer cet hiver à Lyon et qu'il n'ait pas eu l'air de mépriser mes dix-huit ans. Adieu, mille respects à M. Genisseau. Je finis, car j'ai un froid de chien aux doigts. Adieu, je t'aime et t'embrasse comme le meilleur de mes amis.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Mâcon, 6 septembre 1809." resp="">Mâcon, 6 septembre 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu. (...-...)">A monsieur Aymon de Virieu.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mâcon, 6 septembre 1809."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Mâcon, 6 septembre 1809.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>..... Je reprends ma lettre que j'avais laissée là pendant quelques jours de campagne. Ne m'accuse pourtant pas de paresse : j'ai pensé que tu n'étais pas de retour à Lemps et j'ai ralenti mon ardeur d'écrire. Je m'ennuie à mourir tout seul à Milly à présent ; il fait un temps affreux. Point de fruits, point de vendanges, point de travail, point de vers, point de courage, point d'amis. Que fais-je donc? Je lis — et quoi ? Pas grand' chose, des romans, des mémoires, du médiocre, oui, du médiocre, à l'exception pourtant de Richardson. J'ai tu le Voyage autour de ma chambre, de l'oncle de Vignet. C'est extrêmement joli à mon avis; j'ai lu madame de La Vallière; ça m'a intéressé, moins comme roman bien conduit, bien filé, bien écrit, que commehistoire attachante par elle-même; j'ai lu le poëme des Rosecroix de l. 11 Parny, et je n'y ai vu goutte; j'ai lu le dernier ouvrage de M. Azaïs (en fait de nouveautés), Voyage aux Pyrénées : il y a quelques endroits qui m'ont -fait-beaucoup de plaisir et d'autres qui m'ont fait venir la chair de poule, non pas de peur ni de plaisir, mais je ne puis dire de quoi : tu m'entends. C'est l'effet que me fait le sentiment hors de propos et qui n'est plus que ridicule; ce mot vient de loi. Je retourne demain de grand matin à Milly. Je n'ai plus de cheval de selle et je fais mes courses à pied ou dans un petit char-à-bancs suisse qui m'est commode à cause de mes livres dont mes poches étaient toujours pleines. Je me suis déterminé à coucher ici pour t'écrire. Je compte aller, en le quittant, au spectacle que nous avons encore ici. J'emporte à la campagne les Mémoires du marquis d'Argens.</p>
+        <p>Adieu. J'ai ces jours-ci essayé un conte en vers. Je doute qu'il vaille grand'chose. Je viens d'acheter un Homère. Oh! quand le lirai-je? Je ne pense plus qu'au grec. Voilà mon but pendant deux ans au moins. Viens donc à Lyon, et puis de là, au printemps, à pied en Suisse ! Que j'ai fait de jolis rêves que je dois te conter! Rêve de ton côté, à qui mieux mieux ! Je te promets d'exécuter ce qu'il y a de meilleur dans tes projets que dans les miens. Adieu.</p>
+        <p>La liberté dans l'homme est la santé de l'âme.</p>
+        <p>VOLTAIRE.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

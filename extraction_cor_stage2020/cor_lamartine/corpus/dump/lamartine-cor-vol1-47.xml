@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="A Paris." resp="">A Paris.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A Paris."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A Paris.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Lyon, 19 février 1810.</p>
+        <p>Enfin, mon cher ami, par le plus grand hasard du monde, j'ai découvert ton adresse que j'avais perdue. Ghilini, que j'ai rencontré ici au spectacle, me l'a donnée. J'attendais toujours que tu la donnasses à Guichard ou que tu me l'écrivisses de nouveau, mais point du tout : tu es resté deux mois sans me donner de tes nouvelles et je viens te supplier de m'en donner enfin, quoique j'eusse bien sujet d'être tout de bon en colère.</p>
+        <p>Mais c'est ainsi qu'amour sait se venger !</p>
+        <p>Allons, écris-moi donc! Voilà deux mois que je suis ici, aussi content que je puisse l'être loin de mes amis, et ailleurs qu'à Paris, à Londres ou à Rome. Je travaille toute la journée à l'anglais et je commence à traduire les poëtes pas mal. Voilà t-il du zèle ! Le soir, je passe mon temps au Grand Théâtre où j'ai trouvé d'assez aimables connaissances. Liberté, tranquillité, indépendance, étude, amitié, voilà ma vie! Adieu, je ne veux pas t'en écrire plus long avant d'avoir une lettre de toi. J'ignore si celle-ci te parviendra; tire-moi du doute au plus tôt.</p>
+        <p>Un ami très-irrité,</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

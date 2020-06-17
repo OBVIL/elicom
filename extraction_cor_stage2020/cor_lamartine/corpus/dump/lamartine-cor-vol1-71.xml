@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Mâcon, 21 mars 1811." resp="">Mâcon, 21 mars 1811.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur de Virieu. (...-...)">A monsieur de Virieu.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mâcon, 21 mars 1811."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Mâcon, 21 mars 1811.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mon ami, ta lettre m'a fait du bien : j'y retrouve cette chaleur d'amitié, qui est le sentiment auquel je tiens le plus, et qui est mon unique et rare consolation dans mes peines de tous les jours. Je la lis et reconnais dans chaque ligne l'ami que je croyais endormi et que mon coeur n'a jamais méconnu.</p>
+        <closer>
+          <salute></salute>
+          <signed>J'ai été reçu l'autre jour, sans y songer, de l'Académie de Saône-et-Loire. J'ai été obligé de faire un ennuyeux discours de réception sur l'étude des littératures étrangères. J'y ai mis tout ce que je sais d'italien, de grec, d'anglais surtout. Tout le monde a été émerveillé de mes prétendues connaissances et de mon style de vingt ans. On prétend qu'on n'a jamais rien entendu de pareil dans leur sanctuaire : tant pis pour eux. Je n'ai pas goûté le moindre plaisir dans ce triomphe bien inattendu. Rien ne m'est tout; tout ne m'est rien: voilà ma devise. Adieu. Voilà où j'en suis, n'ayant pas le courage d'écrire deux lignes de suite, plongé tous les jours dans les idées les plus sombres, ou me récréant avec quelques auteurs anglais comme Ossian, Young et Shakspeare. Je te fais cependant le serment que tu me demandes, et je suis bien aise dans mon bon sens de me donner ce lien de plus à une vie que j'ai si souvent envie de quitter et où je ne regretterais que toi. Je vais sortir dans la campagne seul avec mon chien et mon ami Sterne qui me fait pleurer à présent comme un enfant. Adieu, je suis fâché quand je le quitte. Il me semble qu'alors je suis seul et sans appui dans le monde. Mais n'avons-nous pas un grand appui ailleurs qui ne nous perd pas de vue et qui mesure nos souffrances et nos forces, qui reçoit dans son sein l'enfant trop faible pour se soutenir, et qui prête des forces à celui qui continue sa triste route? Adieu.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

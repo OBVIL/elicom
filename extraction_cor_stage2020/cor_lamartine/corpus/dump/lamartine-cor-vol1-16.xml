@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Chez M. Comte, place Grenette, à Grenoble." resp="">Chez M. Comte, place Grenette, à Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis, (...-...)">A monsieur Guichard de Bienassis,</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Chez M. Comte, place Grenette, à Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Chez M. Comte, place Grenette, à Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Milly, 12 novembre 1808. Extinctus amabitur idem.</p>
+        <p>Mon cher ami, je viens de recevoir ta lettre, celle de ta mère et celle de Virieu. Juge quels plaisirs j'ai eus à la fois. J'arrivai avant-hier du petit voyage dont je t'ai parlé dans ma dernière lettre. Il a été fort intéressant et fort agréable ; j'y ai vu des choses extrêmement curieuses'. Il n'y manquait que Virieu et toi. Mais, comme je te l'ai déjà dit, je ne renonce, pas à l'espoir de vous y mener. Tu as bien eu tort de croire que j'étais piqué et de te justifier, tu n'en as pas besoin, et n'en parlons plus.</p>
+        <p>Elle est partie ta toute belle, la toute aimable, ta toute aimée. Eh ! mon Dieu ! laisse la courir ; ne t'en afflige pas trop longtemps. Je crois presque qu'elle n'en vaut guère la peine. Cependant je n'ose rien décider. Si véritablement tu l'aimes, si elle est vraiment digne d'être un peu aimée, enfin si ce doit être là ta folie, je la respecte et je ne la plaisante plus. Seulement sa condition me fâche; j'aimerais mieux que ce fût une bergère et je ris quand je pense qu'on peut lui dire à bon endroit :</p>
+        <p>Viens, ma chère Lyshé, que tes heureuses mains Me versent à longs traits ce nectar des humains !</p>
+        <p>Grenoble te rendra peut-être infidèle. Je le souhaite. Tu as fort bien exécuté tous les petits projets dont tu m'avais parlé. La fêle de la mère a dû être fort jolie, et pourrait-elle ne pas l'avoir été avec une si aimable soeur pour l'aider ? Je suis enchanté de ton impromptu et fâché que tu ne m'aies pas envoyé aussi l'autre. Il fallait aussi adresser l'envoi à la susdite, personne. Cependant j'approuve ta sagesse, elle n'y aurait pas tenu. Il est vraiment joli, correct, sentimental, bien versifié. Je ne veux pas dire qu'il soit sans faute, qu'il ne pût pas y avoir un peu plus de pensées fines ; mais je peux te dire sans flatterie que je voudrais l'avoir fait. Tu pourrais changer : Le destin cruel la ravit à mon coeur et le vers précédent, mettre quelque chose de moins commun. Voilà comme je veux que tu me critiques, quand je t'enverrai quelque petite pièce.</p>
+        <p>J'étais l'autre jour dans une maison à cinq ou six lieues d'ici avec les deux jeunes gens qui m'ont mené à Montcenis. Il y avait là une demoiselle charmante, qui est leur soeur ; le soir nous la contrariâmes un peu et nous nous amusions à la faire rougir. Le lendemain malin, dans mon lit, je fis ces trois couplets que je montrai à ces messieurs. C'est un véritable impromptu; mais je te l'envoie pour te montrer que je te traite en ami et pour te donner lieu à critiquer, quoique ça n'en vaille pas la peine. Je connaîtrai la sincérité. C'est sur un air nouveau ; Femmes, voulez-vous éprouver, etc.</p>
+        <p>Que j'aime à voir, dans mon jardin, Rougir une rose nouvelle, Et dans sa fraîcheur du matin M'offrir sa parure vermeille ! Mes amis, entre nous soit dit, Ma belle et simple Éléonore, Quand son modeste front rougit, Me plaît bien davantage encore. Rougir est un charmant détour Qui protége son innocence, Peint sa pudeur ou son amour Et quelquefois donne espérance. Répétez-lui, d'un air galant, Qu'elle est trop aimable et trop sage, Elle répond en rougissant. Doit-elle en dire davantage ?</p>
+        <p>Si parfois je veux sur son sein Promener ma main caressante, Elle rougit. L'enfant malin La trouve encor bien plus piquante. Si je lui dis : « Belle, à ce soir », Je la vois rougir et sourire. Je la quitte alors plein d'espoir, J'ai tu ce qu'elle n'ose dire, etc.</p>
+        <p>Je n'ai rien fait depuis mon retour ; mais me voilà casanier. Mande-moi les jolis vers qui sont dans le journal de Grenoble. Si je faisais quelque chose de digne d'y être inséré, je te l'enverrais. As-tu vu Vignet ou de Vence? Fais-leur mes compliments.</p>
+        <p>Voilà le moment de nous écrire de longues lettres, plutôt cinq pages que quatre. Comment te trouves-tu ? Quelle est ta société ? Que fais-tu ? Tu as sans doute rencontré déjà quelques jeunes gens aimables, spirituels, bien élevés, instruits, comme il y en a tant. Profite de la bonne fortune ; pour moi j'en cherche toujours.</p>
+        <p>Adieu, je l'embrasse de tout mon coeur. On m'appelle pour aller dîner avec un curé de village et un chasseur enragé. N'oublie pas de présenter mes respects à ton oncle et à ta tante et de les remercier des honnêtetés qu'ils nous ont faites lors de notre passage à Grenoble, et crois-moi toujours ton meilleur ami.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

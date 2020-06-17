@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="A Meyrieu (Isère)." resp="">A Meyrieu (Isère).</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A Meyrieu (Isère)."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A Meyrieu (Isère).</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 30 mai 1811.</p>
+        <p>La première lettre que tu recevras de moi, mon cher ami, sera datée de Florence ou de Rome, ou tout au moins de Turin. Je pars, je vais parcourir cette Saturnia tellus si désirée. Mes parents m'ont proposé d'eux-mêmes ce voyage auquel je ne pensais plus. Une occasion charmante et unique s'est présentée : ils l'ont saisie, et, tout malheureux que je me trouve de quitter pour sept ou huit mois tout ce que j'aime, j'en profite. La fortune ne nous sourit pas deux fois dans la vie et l'occasion n'a qu'un cheveu.</p>
+        <p>Je vais avec une jeune femme, cousine de ma mère, et son mari. Nous quittons Lyon le 15 ou le 20 de juillet; nous allons jusqu'à Turin par la diligence; là nous trouvons une bonne berline qui les attend, et nous voyageons en poste, avec assez peu de frais pour moi. Nous nous arrêterons dans chaque belle ville quelques jours ou quelques semaines. Ils vont passer deux mois à Livourne pendant lesquels je serai à Florence. Je reviendrai les rejoindre et nous irons ensemble à Rome. A Rome! mon ami, un mois, deux mois, et puis à Naples ! Nous nous embarquons et revenons à Gênes, etc.</p>
+        <p>Où es-tu? Arrive, viens me joindre à Livourne ou à Parme. Ce soir je vais annoncer mon triste départ. Que de larmes vont couler! combien j'aurai d'assauts à soutenir pour ne pas me dédire! Mais j'ai du coeur, et toutes les Armides de ma patrie ne retiendront pas un preux chevalier qui va courir les aventures et voir tout ce qu'il y a eu et tout ce qu'il y a encore de beau, de grand dans le monde. Je vais mettre à profit cette course unique et amasser des trésors d'instruction et de souvenir ! Encore une fois, où es-tu?</p>
+        <p>Si, par toi ou tes connaissances, je pouvais avoir quelques lettres de recommandation pour des gens instruits ou des maisons agréables de Florence, de Rome ou d'autres villes, je t'aurais de grandes obligations. Il faudrait me les envoyer ici avant la quinzaine ou bien les adresser à une maison de commerce, à Livourne, qui me les fera passer où je serai. Voici mon adresse immuable : A MM. Vasse-Roquemont et Cie , pour M. Alph. de Lamartine, à Livourne. Cependant attends que je t'aie annoncé mon arrivée à Turin pour m'écrire en Italie.</p>
+        <p>Je lis dans ce moment tout ce qui est relatif à l'histoire de l'ancienne et moderne Italie et quelques voyages, entre autres celui de Lalande. Et moi aussi je ferai mon voyage, mon itinéraire, mon journal. Je reviendrai chargé de notes et de souvenirs : nous les recueillerons, les élaguerons, les classerons ; mais mon voyage sera plutôt littéraire et poétique qu'instructif. Je ne sais rien du reste. Je reviendrai parlant l'italien le plus pur, puisque mon plus long séjour est en Toscane. Je prendrai aussi des maîtres de dessin, et pendant deux mois un Grec pour maître de grec.</p>
+        <p>Peut-être à notre retour serons-nous obligés de passer par Nice et Marseille. Je n'irai donc à Paris que l'année qui suivra mon voyage. Cela m'arrange doublement : je n'y serai point sans toi.</p>
+        <p>Adieu, mon ami, tu me portes envie et je pleure encore. Peut-être mes malheurs, qui ne font qu'augmenter du côté qui m'intéresse tant, s'accroîtront-ils encore et me jetteront-ils enfin dans le désespoir. Peut-être, à ton premier voyage, viendras-tu chercher le tombeau de ton ami à Rome ou à Naples. Peut-être, mais il y en a de plus consolants, c'est à ceux-là qu'il faut s'attacher :</p>
+        <p>Toujours la mer n'est pas en butte Aux ravages des aquilons, Toujours les torrents par leur chute Ne désolent pas les vallons !</p>
+        <p>Adieu. J'attends de tes nouvelles. — J'irai voir Vignet à Chambéry, je saluerai le Grand-Lemps et Belley d'un peu plus loin. Adieu, tout à toi pour la vie,</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

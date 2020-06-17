@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="A Paris." resp="">A Paris.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A Paris."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A Paris.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Saint-Point, 14 mai 1810.</p>
+        <p>Pardon, mon cher ami, si j'ai tardé huit jours à te répondre : un petit voyage bien pressé, bien incognito, m'a empêché de le faire. Dupuis, qui demeure à cinq ou six lieues d'ici, en Bresse, et qui est maintenant un fort aimable et fort joli garçon, est venu me prendre à Mâcon pour aller passer huit jours dans le théâtre de nos plaisirs et de nos travaux, à Lyon. Ce voyage a été délicieux. J'ai revu quelques espèces d'amis, quelques espèces de maîtresses ; mais, mon ami, qu'est-ce que c'est que cela? Où étais-tu? J'en reviens toujours là. Douglas m'a donné de tes nouvelles, m'a parlé de toi avec une sorte de considération, de respect, d'estime, qui m'a fait un plaisir indicible. Je l'en estime moi-même davantage.</p>
+        <p>Guichard m'a mandé qu'il avait enfin une lettre de toi, mais très-courte, comme celle de quelI. quelI. qu'un qui écrit sans plaisir. Il a affecté de te répondre de même. Ah! mon ami, tu ne sais pas combien ta conduite, qui nous faisait présumer de l'oubli, nous a affligés cette année, car tu ne sais pas combien nous t'aimions !</p>
+        <p>J'ai eu, ces temps-ci, une petite délicatesse avec Prosper; c'est fini et tout est oublié. Parlons donc un peu de ton voyage. Ah ! c'est moi qui ai besoin de te voir,' et' bientôt et longtemps ! Près de deux ans que nous ne nous sommes parlé à coeur ouvert ! Arrive. Je te garderai un mois, le plus qu'il me sera possible. Si je le peux, je te suivrai à Aix, mais à coup sûr j'irai te tenir compagnie à Lemps. Mais, mon ami, prenons bien nos mesures. Je vais dans une quinzaine de jours passer quelques semaines à Dijon : ne viens pas pendant ce temps-là, ou au moins avertis-moi bien d'avance afin que je me trouve au poste. Si je n'ai pas les moyens pécuniaires pour voyager, tu resteras quelque temps en ma faveur avec moi ici à la campagne. J'y serai seul au mois d'août. Autrement, nous ferons comme nous pourrons. Écris-moi, tout aussitôt après la réception de ma lettre, le projet arrêté jour par jour. Je m'ennuie ici, mon cher ami ; hélas ! c'est comme partout où je n'ai pas un ami. Je me lève tard, je porte un petit pupitre au bout du jardin sous un cabinet de charmille, un dictionnaire anglais, un poëte et du papier. La traduction me fatigue bientôt, je fais quelques méchants vers sans peine et sans fin, et puis j'écris d'un style rompu à Guichard et à toi.</p>
+        <p>Beaucoup de mes rêves, toutes mes espérances s'évanouissent chaque jour, c'est comme les fantômes qu'on se fait la nuit et que le premier rayon du jour dissipe ou réduit à leur juste valeur. Et toi, mon cher ami, tu es donc aussi comme moi, tu vois que nous avions rêvé , rêvé la gloire, rêvé l'amour, rêvé une société à notre guise, rêvé des femmes comme il devrait y en avoir, rêvé des hommes comme il n'y en aura jamais ! Il n'y a que l'amitié, mon cher ami, que nous n'avons pas rêvée. C'est le seul bien que je goûte davantage chaque jour et que je trouve surpassant l'idée que je m'en étais formée. Puissé-je la voir toujours de même, la trouver toujours fidèle à ses promesses! Puisse-t-elle me consoler de la perte de tout, ne me tromper jamais et ne me pas faire pleurer une fois la confiance que j'ai mise en elle! Elle me trouvera, je l'espère, toujours digne d'elle et heureux de me dévouer à son service! C'est ce que je disais, il y a quelques jours, dans une épître à mes amis, qui a couru Lyon, et qui était intitulée : Mes Dettes. Voici comment elle finissait :</p>
+        <p>Et toi surtout, et toi qui, la première, Du doux plaisir m'enseignas le mystère, Non, non jamais je n'oublierai ce jour Qui mit le comble à tes faveurs secrètes. Je te dois tout, Myrthé !... mais en amour Un souvenir doit payer bien des dettes !</p>
+        <p>Mes chers amis, mon compte n'est pas fait. Je dois encore, et m'en fais une gloire. Si quelquefois je manque de mémoire, Je la retrouve en parlant d'un bienfait : À l'amitié confiante et discrète Je dois beaucoup; mais, loin de m'effrayer, Vous le savez, mes amis, c'est la dette Qu'il me sera le plus doux do payer.</p>
+        <p>Si j'en avais le temps, je te l'écrirais tout entière, mais nous sommes trop loin pour nous amuser de pareilles fadaises.</p>
+        <p>Où passeras-tu ton prochain hiver? Que ferastu? comme moi sans doute. Qu'y a-t-il de nouveau à Paris en fait de littérature? Mande-moi un peu tout cela. A quoi me sert que mon ami soit à Paris, si je ne sais rien par lui? De grâce, occupe-toi de nous. Apprends l'anglais, écris-moi tous les huit jours au moins, et pense à arranger notre course en Suisse ou en Savoie. Courons pour avoir le droit de dire un jour que nous sommes las du monde et que nous aimons la solitude :</p>
+        <p>O blest retirement, friend to life's decline, Retreats from cares, that never must be mine, How blest is he who crrowns in shades like these A youth of labour with an age of ease !</p>
+        <p>Adieu, je t'embrasse comme je t'aime.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAM.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

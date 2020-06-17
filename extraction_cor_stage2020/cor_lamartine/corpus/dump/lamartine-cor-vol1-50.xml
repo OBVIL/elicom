@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Chez M. Comte, médecin, à Grenoble." resp="">Chez M. Comte, médecin, à Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Chez M. Comte, médecin, à Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Chez M. Comte, médecin, à Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Lyon, 1er mars 1810.</p>
+        <p>Près des bords que la Saône arrose, Bord attristé, rivage noir, Où ne croît ni gazon ni rose, Où jamais nymphe ne repose Pour goûter la fraîcheur du soir, Ami, j'ai choisi ma retraite, Cellule inconnue et secrète Où jamais un oncle boudeur, Où jamais un mentor grondeur, Ne viennent troubler le poëte. Je vois, de mon boudoir charmant,. Sous mes pieds couler la rivière. N'est-il pas doux, dans sa misère, De pouvoir dire à chaque instant : Ah ! pour rentrer dans le néant, Je n'ai qu'un petit saut à faire!</p>
+        <p>Vieille nourrice de mon coeur,</p>
+        <p>Imagination chérie,</p>
+        <p>Source de paix ou de douleur, De joie ou de mélancolie,</p>
+        <p>Viens à mon aide, je te prie,</p>
+        <p>Et remplace par une erreur</p>
+        <p>Le bonheur qui manque à ma vie!</p>
+        <p>Mais voilà assez de vers. J'ai parbleu bien autre chose à faire qu'à rimailler : je suis entouré d'une douzaine de poëtes anglais qu'il s'agit de traduire tant bien que mal, et puis je ne suis pas content, je n'ai pas reçu deux lettres de vous de tout cet hiver. Cela m'a mis de mauvaise humeur. Je douterais volontiers de l'amitié même, si je ne sentais pas si vivement la mienne. Écris-moi donc, à présent que tu as mon adresse, c'est-à-dire que tu vas l'avoir.</p>
+        <p>Je suis ici depuis deux mois et demi; je filerai probablement dans un mois, quand je pourrai me passer d'un maître d'anglais. J'irai courir les champs de la Bourgogne et du Bourbonnais. Jusqu'à l'hiver prochain, j'aurai toujours ou Milton, ou Dryden, ou Gray, ou Thompson. dans ma poche. Cela me console de bien des choses. Pour mon voyage pédestre en Suisse, il y faut absolument renoncer, je suis dans une disette d'argent incroyable : mea culpa, mea maxima culpa! Je suis puni par où j'ai péché. Si j'avais été sage... mais il n'est plus temps : j'en suis maintenant aux expédients. C'est bien fait, je l'ai mérité !</p>
+        <p>Comment va l'étude, et le plaisir, et le coeur ? Mon cher ami, écris-moi un peu avec détail. Viens, au nom de l'amitié, passer deux jours, un jour ici, au commencement du carême. J'ai besoin de le voir. Mais que fait donc ce chien de Virieu? voilà une vilaine conduite... je n'y conçois rien, rien du tout. Mon adresse, la voici : à M. Alphonse de Lamartine, chez M. Roland, n°24, rue de l'Arsenal, à Lyon.</p>
+        <p>Je loge au quatrième, j'ai une vue unique et un bon feu. Adieu, je t'attends, j'ai un lit à ton service.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAM.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

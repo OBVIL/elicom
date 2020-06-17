@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Chez M. Comte, médecin, à Grenoble." resp="">Chez M. Comte, médecin, à Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Prosper de Bienassis (...-...)">A monsieur Prosper de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Chez M. Comte, médecin, à Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Chez M. Comte, médecin, à Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Lyon, 2 mai 1810.</p>
+        <p>Devine, mon cher ami, de quel endroit je l'écris. D'un joli boudoir peut-être? sur les genoux d'une belle? Non, de la grotte de Rousseau sur les bords de la Saône : j'y suis allé après mon déjeuner m'y promener tout seul ; tout seul, oh! que n'étais-tu là? C'est là que notre ami, n'est-ce pas un peu hardi ? a passé deux nuits avec deux sols dans sa poche, rêvant, méditant, écrivant et heureux à ce qu'il prétend : tu connais probablement l'endroit, je ne t'en ferai pas une sotte description, d'ailleurs toutes les grottes du monde se ressemblent assez, mais toutes n'ont pas donné d'asile à un grand homme malheureux; j'y avais apporté de l'encre et du papier dans l'idée, d'y faire quelques vers, mais je trouve plus doux de t'y écrire, et, s'il m'en vient par hasard, tu les auras bons ou mauvais. Rousseau y venait sans argent, et j'y suis avec des dettes, ce qui est bien pis. Je cherche en vain à me distraire, cette diable d'idée me revient toujours. Comment sortirai-je du mauvais pas où je me suis mis par ma folie ? Je vais incessamment quitter Lyon, mon père me mande qu'il est à la campagne, et c'est l'époque que j'ai fixée pour aller l'y joindre; je vais partir, et pour quelque temps, s'il ne me vient pas de ressource inespérée.</p>
+        <p>A dix-neuf ans, mon front sera couvert Des ennuis d'une vie à peine commencée, Et d'un vieux créancier la main sèche et glacée Le couvrira bientôt d'un honteux bonnet vert !</p>
+        <p>N'y pensons plus : quel temps charmant il fait! Mon cher ami, quel moment pour voyager ! quel moment pour se promener avec une maîtresse comme tu en as trouvé une, comme j'en rêve une ! J'ai de violents soupçons, mon cher ami, sur l'objet d'un amour si constant.... Ne serait-ce pas?... Mais taisons-nous, tu entends qui je veux dire. Mes soupçons se sont accrus par quelques bruits indiscrets; peut-être cependant me trompé-je encore, mais j'ai peine à le croire. N'importe, jouis, tes amis jouiront de ton bonheur.</p>
+        <p>Le Dieu qui prend soin de nous tous Fit trois lots qu'entre nous partagea sa sagesse :</p>
+        <p>Dans ton coeur il mit la tendresse,</p>
+        <p>Ami, ton sort fut le plus doux ! Aymon des arts reçut l'heureux génie ;</p>
+        <p>Et moi, moi, moins heureux que vous J'eus l'amour de l'étude et la mélancolie.</p>
+        <p>Grotte charmante, inspire-moi</p>
+        <p>Des vers plus doux que le murmure</p>
+        <p>De la source tranquille et pure</p>
+        <p>Qui s'échappe tout près de toi !</p>
+        <p>Dans ton enceinte hospitalière,</p>
+        <p>Rousseau vint cacher ses malheurs;</p>
+        <p>Et du sage les pas rêveurs Font souvent retentir la voûte solitaire.</p>
+        <p>Que nous te devons de plaisirs !</p>
+        <p>Imagination féconde,</p>
+        <p>Tu sais dans chaque coin du monde</p>
+        <p>Nourrir de touchants souvenirs!</p>
+        <p>Par Loi Rome, qui n'est plus Rome,</p>
+        <p>Offre encore un nom respecté ;</p>
+        <p>Par toi le sage ou le grand homme</p>
+        <p>Revit dans la postérité ;</p>
+        <p>Par toi ce réduit écarté, Que d'un oeil sec l'indifférent contemple, Pour l'homme sensible est un temple Dont le génie est la divinité!</p>
+        <p>Adieu, écris-moi promptement.</p>
+        <closer>
+          <salute></salute>
+          <signed>Même adresse.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

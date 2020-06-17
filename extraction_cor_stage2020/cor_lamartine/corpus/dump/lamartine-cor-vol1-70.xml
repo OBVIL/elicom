@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Chez M. Comte, médecin, à Grenoble." resp="">Chez M. Comte, médecin, à Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Chez M. Comte, médecin, à Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Chez M. Comte, médecin, à Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 1er février 1811.</p>
+        <p>Que deviens-tu, mon cher ami? Es-tu comme moi enseveli dans la cellule et broyant du noir toute la journée? As-tu comme moi une maladie sur les yeux qui t'empêche d'écrire et même de lire, et, pour comble de maux, une passion naissante et malheureuse dans le coeur? Oui, mon ami, voilà mon déplorable étal depuis deux mois à peu près : pas un ami, pas même une ligne de mes amis, pour me consoler, livré à moi-même, me nourrissant de désirs inutiles et de rêves impossibles, valut oegri somnia, ayant trop souvent devant les yeux le séduisant objet d'un amour qui ne me mènera qu'à des soupirs et à des larmes, ne l'ayant point encore déclaré et n'osant le faire. Comment serai-je reçu ? Cependant un certain pressentiment me rassure et me soutient. Un de ces jours je</p>
+        <p>1. 19 ferai quelque pathétique déclaration et puis je serai soulagé en grande partie. Ne t'ai—je pas donné de bons conseils en pareil cas? Rends-les-moi.</p>
+        <p>Adieu, on m'a mis aujourd'hui douze sangsues. Ma main tremble et ne peut continuer. Sache-moi gré de ma bonne volonté et donne-moi de tes nouvelles promptement.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAM.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

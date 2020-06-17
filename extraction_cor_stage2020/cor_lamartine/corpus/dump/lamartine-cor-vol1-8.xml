@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Au collége de Belley." resp="">Au collége de Belley.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Au collége de Belley."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Au collége de Belley.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 20 avril 1808.</p>
+        <p>Je ne sais pas, mon cher ami, si tu voudras bien encore me pardonner de ne l'avoir pas écrit depuis si longtemps. J'avoue que ma paresse y a peut-être été pour quelque chose, mais il y a eu aussi d'autres raisons que je te dirai in tempore et loco, et qui me rendent très-excusable. Guichard et Galtier sont en droit de me faire de pareils reproches.</p>
+        <p>J'ai appris avec grand plaisir que vous aviez passé un carnaval très-gai, et vous avez été en cela plus heureux que moi, mais le moment approche où je vais oublier un peu mes ennuis de l'hiver. Je travaille toujours tant bien que mal, et je lis beaucoup, ce qui m'empêche de perdre mon temps, car le fruit des lectures se retrouve toujours en son temps et, entre nous soit dit, j'ai grand besoin de semer un peu pour moissonner ensuite. Beaucoup de mes projets, mon cher ami, seront toujours des projets, car la fortune le veut et l'exige. Elle est bien vraiment rerum omnium dominatrix (qui leget intelligat).</p>
+        <p>Je ne me porte guère mieux qu'au collége, mais j'espère cependant toujours que la chasse, les bains, la campagne me réndront sain et gras comme -ici.</p>
+        <p>Je pars dans un mois, mais écris-moi toujours à la même adresse à Mâcon. Ne me punis pas de mon relard par un retard de ta part. Traite-moi en ennemi généreux et non pas en ami irrité et implacable. Dis mille choses respectueuses de ma part à M. Debrosse, M. Dumouchel, MM. Béquet et Wrintz et charge-toi de mes compliments pour Guichard, St.-Pulgent, Rombeau, Labbé, Revoux, Genin, Remondange et Laboré, ainsi que pour tous les autres de notre classe.</p>
+        <p>Adieu, mon cher ami, je te quitte pour aller râcler ma basse parce que mon maître m'appelle.</p>
+        <p>Je l'embrasse de tout mon coeur et je te prie de me regarder comme le plus tendre et le plus fidèle de tes amis.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

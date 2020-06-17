@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Mâcon, 10 juin 1809." resp="">Mâcon, 10 juin 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu Au Grand-Lemps. (...-...)">A monsieur Aymon de Virieu Au Grand-Lemps.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mâcon, 10 juin 1809."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Mâcon, 10 juin 1809.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Quand je lis l'Arioste ou même la Pucelle Toujours catin, toujours fidèle, Je ris.</p>
+        <p>VOLTAIRE.</p>
+        <p>Ma main tremble, mon cher ami, parce que je viens de dîner et de prendre une longue leçon de danse. Lis-moi, si tu peux. Mon épigraphe m'est venue à l'esprit en voyant l'Arioste sur ma table. il y a longtemps, et j'ai honte de le dire, que je l'ai commencé, et je n'en suis qu'au milieu ; tant l'intérêt dans un poëme et un peu de suite dans ses discours est une belle chose ! Ce n'est pas cependant que je ne le trouve quelquefois égal au bonhomme, mais j'avoue que souvent il me fait bâiller au lieu de me faire rire et que j'en saute des pages entières. Est-ce ma faute? Un peu sans doute, mais c'est aussi un peu la sienne.</p>
+        <p>Te voilà donc avec Montaigne,et je ne suis pas surpris qu'il te plaise. Vous avez quelque chose de commun, de semblable, je ne sais quoi, mais je l'entrevois. En sortant l'année passée de Belley, je l'emportai, j'en lus quelques chapitres avec grand plaisir, j'en passai d'autres par paresse, par ennui de ce style semi-gaulois. Bref, je ne le connais guère plus qu'auparavant. Je n'étais pas encore mûr, et dans un an ou deux je me promets de le mieux sonder, peut-être même dans moins. Tibulle, Virgile, Properce, Pindare et les discours en vers de Voltaire sont avec l'Arioste et Pope sur ma table depuis environ un mois. Je n'ai plus voulu lire de roman après Corinne, de peur de me gâter la bouche, et, quand je suis fatigué de travail, d'étude, ma basse est là qui me délasse un peu. Du reste voici trois mois que mon genre de vie est le même absolument : travail, lecture, correspondance et petite promenade solitaire sur les huit ou neuf heures. Je m'en trouve assez bien.</p>
+        <p>Il paraît que je n'irai point à la campagne cette année. Cela me fâche bien un peu. La ville est d'une tristesse mortelle : plus de spectacles, plus de petits voyages, et Talma et Elleviou sont à Lyon ! Cependant le parti est à peu près pris. Quant à notre rendez-vous dans quinze jours, je t'en parlerai s'il y a moyen. Cependant si, un de ces jours, tu me voyais par hasard entrer impromptu dans ta chambre et venir te demander à dîner seulement, ne sois pas trop surpris, mais ne t'y attends pas. Oh ! que n'ai-je été du voyage de Grenoble! Que sont devenus Guichard, Vignet, etc., etc., mais surtout Guichard ? As-tu été chez sa tante, quelle vie mène-t-il? A-t-il l'air un peu à son aise, voit-il un peu de monde, est-il content, rêve-t-il? comment est sa cellule, travaille-t-il? quand va-t-il à Bienassis? Je ne rêve qu'au moyen de vous embrasser encore une fois avant le commencement de l'année suivante.</p>
+        <p>Mon discours en vers sur l'Amitié s'avance. Mon ode, qui est un morceau manqué parce que je l'ai faite en deux heures au plus, dort encore et je ne la réveillerai qu'après la fin du discours. Mon histoire est là, faute de livres. Je n'ai encore qu'ébauché le portrait du duc d'Orléans. Je l'envisage comme toi : c'est un héros. Quant à ce que tu me demandes, je serais d'avis que nous traitassions uniquement la querelle de ces deux ducs, sans nous embarrasser des autres qui nous gêneraient et nous arrêteraient, nous feraient divaguer à chaque instant. Je voudrais que notre morceau fût un, intéressant, animé, plein de vivacité, de rapidité, de portraits, comme la Conjuration de Venise de Saint-Réal. Tu fais bien de lire Charles XII, cela te servira beaucoup. Je compte faire de même dans quelques mois, quand je m'y remettrai.</p>
+        <p>J'ai deux cents vers de faits de Amicitia. J'en ai fait ce matin une dizaine que je t'envoie comme échantillon :</p>
+        <p>Je sais que par le temps, par une douce élude,</p>
+        <p>Le sentiment nourri devient une habitude,</p>
+        <p>Que l'âge ajoute encor à nos premiers plaisirs</p>
+        <p>Et la reconnaissance et les longs souvenirs;</p>
+        <p>Mais pour cueillir ces fruits, doux présent de l'automne,</p>
+        <p>Il faut que de ses fleurs le printemps se couronne :</p>
+        <p>Aimons-nous aujourd'hui pour être vieux amis.</p>
+        <p>Ce nectar qui sait rendre à tes sens endormis</p>
+        <p>La force, la gaieté, la vigueur, la jeunesse,</p>
+        <p>Ne dut pas en tout temps ses dons à la vieillesse ;</p>
+        <p>Son parfum délicat, encor qu'il fût nouveau,</p>
+        <p>Lui mérita jadis l'honneur de ton caveau.</p>
+        <p>C'est pour répondre à Cicéron qui préI. préI. tend que les amitiés de jeunesse ne valent rien.</p>
+        <p>Dis-moi comment on ferait si on voulait envoyer quelques pièces aux Jeux Floraux. Sais-tu comment tout cela se pratique? J'ai conseillé à Guichard de concourir pour un prix de poésie, proposé par l'Athénée de Niort. Le sujet est un petit poème sur Tobie. Qu'en dis-tu ? C'est aisé, mais la gloire est médiocre; c'est bon pour former.</p>
+        <p>J'ai lu dans tous ces derniers Mercures des articles, sur la vie d'Alfiéri. Cela m'a enthousiasmé pour lui encore davantage. Je voudrais bien trouver ses ouvrages en italien et sa vie surtout ; ne l'as-tu pas ? Je l'aime à la folie. Il aimait tant les chevaux, la poésie, les lettres, ses amis, les voyages et la gloire ! ! ! Il n'y a pas assez de place pour tous les points d'admiration.</p>
+        <p>Quand j'aurai de l'argent et un joli petit cabinet comme celui de ta chambre, au Grand-Lemps, j'achèterai les bustes de Virgile, de Racine, de Voltaire, du Tasse, d'Alfiéri, de Pope, etc. Et celui de madame de Staël, en dépit des jaloux, aura aussi sa place un peu plus bas. ne fût-ce que par reconnaissance. Lis Corinne. Mais adieu, je te quitte à regret pour envoyer ma lettre à la poste. Je vais jouer un petit air de basse, et puis je m'habillerai, et puis je goûterai, et puis je sortirai pour une visite et ma promenade, car il est bientôt sept heures.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

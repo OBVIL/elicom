@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Chez M. Comte, médecin, à Grenoble." resp="">Chez M. Comte, médecin, à Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Chez M. Comte, médecin, à Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Chez M. Comte, médecin, à Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 2 avril 1811.</p>
+        <p>Ho fuggito amore anchlio, Ho sperato i lacci suoi,</p>
+        <p>Ma che poi? Son tornato in servitù.</p>
+        <p>Oui, mon ami, plains-moi, pleure sur moi. Je suis indigne de quelque pitié. J'aime pour la vie, je ne m'appartiens plus, et je n'ai nulle espérance de bonheur, quoiqu'étant payé du plus tendre retour. Tout nous sépare, quoique tout nous unisse. Je vais prendre incessamment un parti violent pour obtenir sa main à vingt-cinq ans : je vais à Paris cet automne; là je sollicite quelque emploi dans le gouvernement, malgré tout mon amour de l'indépendance. Si je ne puis rien obtenir qui me donne l'espérance prochaine d'une honnête et libre aisance, j'entre définitivement au service, et j'essaie de me faire tuer ou du moins d'acquérir un grade qui puisse me faire vivre sans d'autres secours, ma femme ayant elle-même une fortune assez considérable pour elle, trois ou quatre mille livres de rente comptant et cinquante mille écus assurés : je dis ma femme, parce que je la regarde comme telle, et que rien au monde ne peut nous séparer.</p>
+        <p>Que j'envie ton sort et ton aimable liberté! combien je voudrais à ce prix-là manquer toutes les femmes de Grenoble et de ma patrie! combien je voudrais comme toi être fatigué, excédé de celle que j'adore! Peut-être faut-il pour cela que je n'aie plus rien à désirer et qu'elle m'ait rendu complétement heureux! C'est qu'elle a trop de vertu et d'esprit pour essayer!</p>
+        <p>T'ai-je dit queje venais d'être reçu, comme malgré moi, de l'Académie des sciences, arts et belleslettres, de ce département? T'ai-je dit que je leur avais broché un discours de réception sur l'étude des littératures étrangères, qui les a tous émerveillés, et où j'avais fait un ample étalage de mes petites connaissances sur les littératures grecque, latine, italienne, anglaise et française? Prends-tu part à toute la gloire de ion ami, et en es-tu un peu fier? Mais je te fais grâce de cette gloire, si tu prends seulement part à mes ennuis et si tu les consoles.</p>
+        <p>J'oublie en t'écrivant que j'ai une fièvre cruelle, causée par le chagrin, et qui m'a miné depuis un mois. J'ai été à Lyon consulter, mais pour la forme; il n'y a pas de remède. Je ne puis t'en écrire plus long, j'ai un mal de tête affreux et ma main tremble. Ce soir je la verrai, ce soir je passerai une heure à côté d'elle : alors tous mes maux seront oubliés. Je la quitterai et je retomberai de nouveau dans un ennui désespérant. Écris-moi donc tous les courriers. C'est le cas ou jamais de me montrer si tu m'aimes et de me distraire au moins en attendant que tu me consoles ! Adieu.</p>
+        <p>ALP. DE L.</p>
+        <closer>
+          <salute></salute>
+          <signed>O quanto è presta a ritornar quell'ora Ch'era si dolce al mio flato amoroso E che si tarda ritornava allora !</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

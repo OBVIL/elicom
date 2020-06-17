@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Chez M. Comte, médecin, à Grenoble." resp="">Chez M. Comte, médecin, à Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Chez M. Comte, médecin, à Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Chez M. Comte, médecin, à Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 4 août 1809.</p>
+        <p>« Amants, heureux amants, voulez-vous voyager ? Que ce soit aux rives prochaines. »</p>
+        <p>Voilà sans doute ce que tu t'es dit, mon cher ami, et ce qui t'a empêché d'aller à la GrandeChartreuse avec Virieu et de venir avec moi voir Elleviou et compagnie à Lyon . C'est ce petit voyage qui a retardé ma réponse. J'ai passé là une quinzaine de jours assez agréablement. Qu'aurait-ce été si je vous y avais trouvés tous deux ! et il ne tenait guère qu'à vous. Voilà que j'ai perdu l'espoir de vous revoir de longtemps peut-être. Après un mois de silence, j'ai enfin reçu hier une lettre du paresseux Virieu. Il est, à ce qu'il me mande, sur les montagnes du Dauphiné, à la Grande-Chartreuse et ailleurs, faisant un voyage à la Jean-Jacques : à pied, seul, le livret et le crayon à la main. Voilà qui me fait battre le coeur quand je pense que nous ne sommes pas là tous trois ! Au moins nous en ferat-il une ample description? Tu l'as vu à Grenoble, tu lui as confié les amours, ton bonheur; a-t-il vu le doux objet? comment le trouve-t-il? l'a—t—il dit son avis ? D'après sa lettre il me semble que ton sort lui a fait envie, et que ce profond mépris pour les femmes s'est un peu adouci. Le mien augmente tous les jours, en dépit de la bonne envie que j'aurais de les trouver aimables et fidèles. Aussi je renonce presque à tout espoir d'attachement solide et noble avec elles. J'en aimerai mieux mes amis, il n'y aura rien de perdu. J'ai trouvé tes derniers vers extrêmement coulants et faciles, et d'un très-bon goût; ça fait honneur à ton maître, tu profites beaucoup sous lui. J'ai une envie démesurée de le connaître.</p>
+        <p>J'ai encore changé de destination pour l'année prochaine. On veut à toute force que je ne fasse rien ; et, au lieu d'aller faire un cours de droit à Dijon, comme c'était convenu, j'ai consenti, après bien des difficultés, à accepter à la place soixante louis de pension à peu près, ma nourriture et mon logement ici quand je voudrai, et la permission de passer à Dijon ou à Lyon l'hiver et une partie del'année. Je me suis décidé pour Lyon parce qu'il y a encore plus de ressources : un bon maître d'anglais, de grec, de basse, et des cours assez nombreux. J'engage Virieu à venir avec moi y prendre un petit appartement commun et des maîtres et des plaisirs communs. Que ne peux-tu y venir aussi, abandonner ton cours de droit et ton ange ! Quel paradis ce serait que cinq ou six mois ainsi passés, et pouvant recommencer, si cela nous plaisait, pendant deux ou trois ans ! Les spectacles y sont passables. Nous serions reçus dans une trèsbonne et agréable société : Nous ferions petit comme disait Labbé ; très-petit, afin d'avoir une vingtaine, une quinzaine de louis à manger l'été dans un voyage pédestre en Suisse, et puis un peu plus loin. Allons, mon ami, décide fa Minerve à venir elle-même passer l'hiver à Lyon. Pour ne pas l'abandonner, si elle envisage ton bien, ton bonheur et celui de tes amis, elle y donnera les mains. Cela ne pourra que nous être profitable à tous : travail, émulation, plaisir, bonne compagnie où tu seras tout introduit, et par-dessus tout la bonheur inouï de nous réunir comme cela tous les trois, libres, indépendants, partageant nos ressources, nos travaux, nos goûts. Plus j'y réfléchis, plus j'en suis fou. Prends le motif d'un cours de médecine ou un autre, Parles-en à ta mère. Nous t'y forcerons malgré toi si tu l'y refuses.</p>
+        <p>Que ne pouvons-nous là-dessus nous aboucher tous trois? Cela serait conclu en moins de rien. Adieu, mon cher ami, écris-moi avec détail et n'imagine pas que j'aie rien sur le coeur : je suis franc et je le l'aurais dit. Mon amitié est aussi invariable que l'instinct qui l'a formée; tu changerais pour moi que je resterais dans le fond toujours le même. Le sentiment qui nous réunit tous les trois est né dans le bon temps, il ne peut que croître et fortifier. Et, s'il venait à rompre, il ne faudrait pas espérer d'en former de semblable. Je compte sur lui comme sur l'unique charme de ma vie.</p>
+        <p>Adieu, ton ami,</p>
+        <p>Intùs et in cute.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMART.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

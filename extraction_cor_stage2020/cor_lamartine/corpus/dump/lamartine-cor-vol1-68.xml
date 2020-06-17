@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="A Paris." resp="">A Paris.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A Paris."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A Paris.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Milly, 12 décembre.</p>
+        <p>Sur les bords que Vaucluse arrose, Beaux lieux qu'ont illustrés de touchants souvenirs !</p>
+        <p>Tu vois que j'ai commencé ma pièce pour l'Athénée d'Avignon. Où en est la tienne? la mienne en reste à ces deux vers; depuis deux mois je ne sais trop que dire. Je ne suis pas assez italien pour lire couramment les ouvrages de Pétrarque dont il faut bien que je parle en connaisseur. Aide-moi donc de quelques notes, et je continuerai. N'est-il pas dommage de s'arrêter en si beau chemin ?</p>
+        <p>Il est fort tard, je suis dans ma cellule où je viens de crayonner une petite scène d'une petite pièce. Je fais bien les vers d'une scène et moins bien toute la scène ; je fais passablement quelques scènes et horriblement mal tout l'ensemble d'un ouvrage. Quelle est la muse qui préside à l'ensemble, que je l'invoque? Je suis content de ma journée, je la couronne en t'écrivant : ce matin, j'ai traduit de l'anglais et un peu de grec, du poëme d'Hésiode, Les Travaux et les Jours ; j'ai envoyé à Guichard une petite pièce de petits vers qu'il me demandait pour sa belle ; après dîner j'ai appris toute la belle scène d'Iphigénie entre Agamemnon et Achille, et je, la déclame de mon mieux aux murs de ma chambre ; tout à l'heure je viens moi-même d'essayer un fragment de comédie, qui est, à mon avis, bien versifié. Je vais, à présent, regagner le salon et prendre les gazettes ou un roman pour finir la soirée. Mes yeux s'affaiblissent, j'y vois double. Demain, dans la matinée, je recommencerai ou plutôt je continuerai , cette lettre. Je compte après-demain partir, pour Lyon, seulement pour quelques jours; je reviendrai finir bien tristement mon hiver à Mâcon ; je donnerais, beau coup de choses pour ne pas quitter la campagne. Adieu, je te quitte; à demain.</p>
+        <p>Que te dirai-je de mon voyage à Bienassis? J'ai trouvé Prosper toujours le même, ennuyé du droit qu'il néglige, et enthousiasmé de la belle qu'il cultive beaucoup trop ; du reste, m'aimant toujours, et toi tout autant, quoique votre correspondance soit éteinte. Avoue qu'il y a bien là de la faute. Mais ce n'est pas à moi à t'en parler, moi que jusqu'ici Paris ne t'a pu faire négliger. Je vois en toi une amitié solide et éternelle et je m'en réjouis toutes les fois que j'y pense; aussi toutes les personnes qui me connaissent un peu te connaissent de même, c'est mon rabachage.</p>
+        <p>Je viens d'avoir ici pendant quelques jours Charles de Rémondange ; c'est bien toujours le brouillon de meilleur coeur que je connaisse. Nous nous sommes un peu divertis. Nous avions deux jeunes femmes et mes soeurs, je faisais des rondes et nous dansions toute la soirée. Il doit partir pour Paris à peu près dans le même temps que moi. Si tu n'y es pas alors, comme je le crains tant, nous prendrons peut-être un appartement commune. Il a beaucoup plus travaillé depuis sa sortie du collége qu'auparavant, il traduit joliment Homère; il a cependant continué seul le grec. Il doit venir beaucoup à Mâcon cet hiver, et moi aller à Bourg très-souvent; c'est mon unique ressource, mais c'en est une fort bonne sous mille rapports.</p>
+        <p>A propos, vois-tu souvent G. D., D. G., et tant d'autres étudiants de droit? que deviennent-ils ? Je n'entends plus du tout parler de R. depuis quelque temps; je ne sais s'il est rentré à Dijon : il me fuit comme un créancier.</p>
+        <p>Je dois faire encore le voyage de Moulins incessamment et celui de Dijon. Je ne sais quand. Tout cela me ruine, et je serai sans le sol à Paris; j'en travaillerai mieux.</p>
+        <closer>
+          <salute></salute>
+          <signed>Adieu, écris-moi donc bien souvent. Je n'ai que tes lettres pour me rendre du courage et de la force et me tirer du spleen qui me ronge trop souvent et qui ne diminue pas par mille désagréments de société que je commence trop à connaître et où je suis assez mal. On prétend que je suis haut et fat; c'est une raison pour qu'on me croie plat et bête. O n'en sais point; il faut savoir souffrir.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

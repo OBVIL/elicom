@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Chez M. Comte, médecin, à Grenoble." resp="">Chez M. Comte, médecin, à Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Chez M. Comte, médecin, à Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Chez M. Comte, médecin, à Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 30 mai.</p>
+        <p>La première lettre que tu recevras de moi, mon cher ami, sera datée de Florence ou de Rome : je pars pour l'Italie; je vais avec une jeune femme et son mari parcourir ce grand et vieux théâtre de la gloire et des arts ! Une occasion charmante s'est offerte, ma famille l'a saisie, et dans quinze jours je quitterai la France et mes amis pour des pays nouveaux! Nous voyagerons en poste, et cependant assez économiquement pour moi. Je ferai quelque séjour dans toutes les belles villes d'Italie, surtout à Rome et en Toscane, pour y prendre le bon accent italien. Je m'embarquerai à mon retour et reviendrai par Gènes, etc.</p>
+        <p>Adieu, je n'ai que le temps de l'embrasser et de te recommander notre amitié, que tu négliges un peu trop. Si tu m'écris dans mes voyages, adresse tes lettres dans quelque temps à messieurs YasseRoquemont et Cie, pour M. Alph. de Lamartine, à Livourne. Ils me feront parvenir tes lettres où je serai, mais ne m'écris plus avant d'avoir eu de mes nouvelles. Adieu.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

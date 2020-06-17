@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Mâcon, 12 décembre 1808." resp="">Mâcon, 12 décembre 1808.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu Au Grand-Lemps. (...-...)">A monsieur Aymon de Virieu Au Grand-Lemps.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mâcon, 12 décembre 1808."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Mâcon, 12 décembre 1808.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mes amis, l'hiver dure, et ma plus douce étude Est de vous raconter les faits des temps passés.</p>
+        <p>Puisque telle est mon épigraphe, souviens-toi de la promesse que tu m'as faite au temps jadis de n'être point avare de conseils, de réprimandes, d'encouragements à mon égard, de me guider dans le droit chemin du bon goût, de l'étude, de la sagesse. Quand je dis sagesse, j'imagine bien que tu m'entends, et si tu aimes les proverbes : à bon entendeur demi-mot. Il me semble que tu ne remplis pas tes engagements dans toute leur étendue. Je te demande quelques sujets de poésie; mais je veux que cela soit détaillé, que je n'aie plus que l'habit à y mettre. Allons, du courage ! un peu moins de paresse et un peu plus de zèle : macte animo, generose puer, comme disait souvent le pauvre M. Varlet de touchante mémoire. Tu vois que je te vaux presque en citations.</p>
+        <p>A propos, pour te faire rire, je veux te raconter une histoire qui m'est arrivée, il y a huit jours, à Milly. Prends part à ma gloire. Voilà le premier impromptu galant que j'aie fait de ma vie; encore ai-je bien rougi en le débitant, mais aussi il y avait de quoi. J'étais à un souper de campagne, composé de francs campagnards et de quelques dames et demoiselles assez gentilles. On chanta pendant le souper comme faisaient nos bons aïeux, et une de ces demoiselles chanta entre autres une fort jolie romance sur l'espérance. On applaudit la chanteuse et les couplets, et un des messieurs dit qu'il voulait y ajouter des couplets nouveaux de sa façon. Je le prévins aussitôt, j'allai dans une chambre à côté, et là, sans rien dire à personne, je me mis à enfanter ces méchants vers. Cela fut vile fait; je rentrai, on me pria de dire aussi ma chanson et aussitôt je répétai mon ouvrage à la susdite demoiselle. Écoute et ne ris pas avant d'avoir fini. L'Amour un jour à l'Espérance Avait fait quelque méchant tour, Aussitôt le procès commence Et Vénus assemble sa cour : Devant elle chacun s'avance ; Elle examina tour à tour Et jugea que sans l'Espérance On verrait s'éteindre l'Amour.</p>
+        <p>D'après ce jugement sévère L'Amour demanda son pardon, Et tous deux, depuis cette affaire, Vivent bien ensemble, dit-on. Je doute, de l'intelligence, Car je m'aperçois en ce jour Que sans donner nulle espérance Églé sait donner de l'amour.</p>
+        <p>Que dis-tu? N'est-ce pas du trop fin, du. fignolé, du délicat, du tendre, du naïf et tout ce qu'on voudra. Ah ! si j'avais tous les jours une bonne fortune comme celle-là! Je connais bien des filles de notaires, de chirurgiens et peut-être de gentilshommes de campagne qui n'y tiendraient pas. Je fus bien heureux ce soirlà, car je ne réussis pas mal dans des bouts-rimés que l'aimable société s'amusa à donner, mais je t'en fais grâce. Si tu tardes encore d'aller à Lyon, nous allons nous y trouver ensemble au carnaval. Prenons donc nos mesures. J'ai reçu ces jours-ci une épître de Galtier, mais-ne lui dis pas que je te l'ai écrit.</p>
+        <p>Heureux, disait Virgile, heureux l'esprit sublime Qui peut du coeur humain approfondir l'abîme.</p>
+        <p>Me voici à Mâcon installé. J'ai été hier à la comédie voir l'Amant jaloux. M. Jausserand, illustrissime acteur de-Feydeau, y faisait sa partie. Il m'en a coûté mon petit écu, et je n'ai été ni transporté, ni ravi ni étonné, c'est ce qui m'étonne le plus. Je m'attendais à l'être. J'avais fait les plus beaux plans du monde de plaisirs littéraires. Mon oncle et mon père de concert ont voulu tout détruire. Ils m'ont forcé, malgré mes représentations, ma bouderie et mon humeur, à aller reprendre mon ancien maître. J'ai cédé en murmurant et j'ai promis d'aller le voir. Heureusement, c'est le meilleur garçon de la terre. Il m'a dit qu'il me mettrait à la géométrie tout de suite. Je vais donc y aller une petite heure le matin à 9 heures, dans la ferme intention de n'y rien faire du tout qu'un peu semblant :</p>
+        <p>Trahit sua quemque voluptas.</p>
+        <p>Cette affaire a failli me brouiller avec tout le monde. J'avais pris la résolution de servir pour être plus indépendant, et. d'entrer dans la garde afin d'aller à Paris. J'ai toujours envie de prendre un état. Je ne peux souffrir cette vie de fainéant. Passe pour un hiver dont je profiterai pour m'instruire ; mais après, que faire? Je te demande làdessus des avis doux et faciles, et j'attends aide et assistance de la Providence : quand j'ai quelque ennui, j'en reviens toujours là. Je vais fort peu sortir, comme je te l'ai déjà dit, et étudier l'italien. Je viens de chez un libraire acheter des dictionnaires. Je suis abonné. J'ai aujourd'hui sur ma table La Harpe et Montaigne, et les contes et les •satires de Voltaire : je veux voir un peu ce que dit ce vieux Montaigne, j'en entends tant parler qu'il faut bien le connaître. Que lis-tu? que fais-tu à présent? dessines-tu toujours beaucoup ? Demain je reprends un maître de basse et un de danse : ma journée sera bien remplie.</p>
+        <p>Adieu, mon cher ami, je n'oserais pas m'enbarquer avec B., je craindrais d'être aussi sot que lui. Pour l'épître à toi, dis-moi sur quoi. Je t'embrasse et t'aime de toute mon âme et suis pour la vie ton plus tendre et plus sincère ami.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

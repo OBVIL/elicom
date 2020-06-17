@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Au Grand-Lemps." resp="">Au Grand-Lemps.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Au Grand-Lemps."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Au Grand-Lemps.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 12 mars 1809.</p>
+        <p>Jouissons, écrivons, vivons, mon cher Horace !</p>
+        <p>Voltaire.</p>
+        <p>Je reconnais, mon cher ami, ton bon goût et ton jugement dans ta dernière lettre; ta critique ne m'a point blessé, au contraire, et j'en solliciterai souvent de pareilles.</p>
+        <p>Je me suis mis, depuis quelques jours, à lire Cicéron : de Senectute, de Amicilia, avec un plaisir extrême, et ça m'a fait naître l'idée d'un morceau plus long plus travaillé, sur l'amitié, en forme de discours en vers. Je sais que c'est un sujet bien banal et presque trivial, mais je veux m'exercer dans ce genre-là, à l'exemple de La Harpe et autres; et puis cela me donne toujours la facilité, la connaissance du vers, qui est l'instrument du poëte. Je l'en régalerai quand j'en aurai fait une centaine, mais il faudra que tu m'indiques les morceaux à corriger, les idées oubliées ou communes, etc., etc.</p>
+        <p>Je me suis remis aussi un peu au grec et à l'italien, et je lis Pope à force, en français, comme tu l'imagines. Enfin tu verras que j'ai le temps de m'occuper de tout cela et même un peu de notre concours, si je Le dis qu'à six heures du matin je me mets à mon travail, que j'en sors à une heure pour dîner, que je me remets aussitôt après à la musique et à la lecture jusqu'à six ou sept heures. Voilà-t-il pas une vie d'homme de lettres? N'est-ce pas d'un bon augure? Ah! que n'es-tu à deux lieues d'ici, occupé des mêmes choses! tous les jours nous irions alternativement travailler l'un chez l'autre. Gela romprait cette monotonie de la solitude et du silence, si ennuyeuse quand on a un doute ou quelque chose de bon à communiquer.</p>
+        <p>Ah! que n'ai-je un bon professeur de grec, d'anglais et d'italien, un bon maître de musique et de dessin, un homme de lettres et d'un goût antique à consulter! que n'ai-je une jolie maison de campagne à une demi-lieue de la ville, avec un beau cheval et un boguey bien propre pour y venir prendre mes leçons! Que n'ai-je une bibliothèque où je puisse au moins trouver un Homère, un Cicéron, un Ovide complet, un Piaule, un Térence, un Lucrèce, que sais-je!... Je ne sais tout ce qui me manque, quand ce ne serait que vingt mille livres de rente pour Paris et nos voyages !</p>
+        <p>Je n'oublie pas la comédie dont tu m'as parlé. Mande-moi si tu la continues et ce que tu dessines à présent. As-tu toujours il signor Lefèvre ? Excite-moi un peu à continuer notre belle entreprise. J'en reste presque-là, faute délivres et d'espoir de réussir. Qu'en as-tu fait?</p>
+        <p>Je reçois dans le moment une belle épître de</p>
+        <p>R Il a pris entièrement le ton du procureur chez qui il travaille et le style des actes qu'il copie; c'est à mourir de rire.</p>
+        <p>Je suis allé passer une quinzaine à la campagne, mon cher ami. J'ai fini à peu près les Martyrs. Sunt mala, sunt eximia! Mais je ne les ai lus que bien vite, et mon avis est encore un peu flottant.</p>
+        <p>Je suis toujours sur le point de partir d'un instant à l'autre. Adieu, je t'aime et t'embrasse de toute mon âme. Si tu écris à Guichard, dis-lui que je me plains de lui.</p>
+        <p>0e xaiiaroç 6ï)o-agpoç I&lt;m totç àv6pco7ïoiç. Il travaglio è il tesoro dell' anima.</p>
+        <p>Oui, le travail est le trésor de l'âme.</p>
+        <closer>
+          <salute></salute>
+          <signed>Mets sur mon adresse.: M. Alphonse de Lamartine et non pas M. de Lamartine tout court. Cela a fait une méprise.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

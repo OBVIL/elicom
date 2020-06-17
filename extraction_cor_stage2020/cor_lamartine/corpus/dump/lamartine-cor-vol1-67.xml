@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="A Paris." resp="">A Paris.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A Paris."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A Paris.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 30 septembre 1810.</p>
+        <p>C'est aujourd'hui, mon cher ami, que je reçois tes deux lettres, et j'étais moi-même à Moulins, il y huitjours, c'est-à-dire au château de Saint-Gérand, tout près de là ! J'avais des chevaux à ma disposition et j'aurais volé à Nevers si je t'y avais su ! Ne t'aperçois-tu pas que notre étoile pâlit et qu'une certaine fatalité s'attache à nos projets ?</p>
+        <p>Mon projet de poëme te plaît donc? c'est ce qui va me décider à m'y attacher. J'avais brûlé, avant d'avoir ton avis, tout ce que j'en avais fait : c'était indigne de la majesté du sujet. Je ne me suis point fâché de ta franchise ; au contraire, elle me prouve que tu m'aimes véritablement, et que notre commerce mutuel sera sûr, vrai, utile, profitable, sincère, et non pas un vain échange de sottes flagorneries. Je me reconnais coupable de tout ce dont tu m'accuses et de bien pis encore. Je vais recommencer plus solennellement en vers alexandrins : tout ce que j'avais ébauché ressemblait plutôt à une petite épître badine et à des petits morceaux rapiécés qu'à un poëme susceptible de grandiose. J'y mettrai des années, des soins, de l'application. J'aurais fait l'autre en quatre mois. Mais continue-moi tes corrections, tes conseils, ta franchise; sans quoi je resterai là ou je me perdrai. Donne-moi donc en attendant un sujet d'épître et un de petit poëme pour les Jeux floraux. Je l'attends, et en attendant je traduis de l'anglais : quelques Nuits d'Young, et la superbe tragédie d'Addison, The death of Cato, la niort de Coton, le tout en vile prose, excepté quelques morceaux qui me séduisent et que je versifie.</p>
+        <p>A propos, n'as-tu pas rougi de te déclarer le complice d'aussi détestables romances que les deux dont tu me parles ? Pense donc que ce sont les premiers vers que j'ai essayés en ma vie. Je ne t'aurais jamais pardonné si tu m'en avais déclaré l'auteur. Envoie-les-moi cependant pour la musique. Ce monsieur des Garets est le parent de ma mère, au moins elle en a de ce nom-là en Beaujolais. Je ne le connais pas. Si tu m'en avais demandé, je t'en aurais envoyé qui m'auraient moins fait de honte, entre autres une dont la musique est de Jadin, et qui a été chantée anonyme cet hiver dans un concert spirituel à Lyon. Un jeune colonel et poète anglais l'avait composée. Il me pria de l'imiter en français, et je le fis sur-lechamp. Chaque couplet commence par un Pense à moi; voici le dernier que je me rappelle :</p>
+        <p>Pense à moi si ton coeur soupire Alors que minuit sonnera, Et, crois-moi, l'amour entendra Le soupir que l'amour inspire.</p>
+        <p>Ou si quelque songe volage Te retrace un doux souvenir, Ah ! que l'amour et le plaisir S'offrent à toi dans mon image !</p>
+        <p>Mais parlons de choses plus sérieuses. Seulement, si tu as un bon compositeur, je t'en enverrai quelques-unes ; si elles lui conviennent, il les mettra en musique et tu me les renverras.</p>
+        <p>Je reçois en ce moment les gazettes, et j'y lis que l'Athénée de Vaucluse propose un éloge en</p>
+        <p>I. 18 prose de Pétrarque ou un poëme en son honneur qui ne doit pas passer deux cents vers. Le prix est une médaille de 300 fr. L'ouvrage doit être remis le 1er de mai. Envoie-moi, je l'en prie, une notice de la façon sur Pétrarque, sa vie, ses ouvrages, ses qualités, etc., etc. J'ai envie de concourir, et je ne sais pas grand chose de lui que sa Laure et ses sonnets. Tu devrais concourir aussi ; qu'en dis-tu, et que me conseilles-tu, vers ou prose?</p>
+        <p>Non, mon ami, les quatre âges n'ont pas été traités en français. La Harpe dit quelque part que ce sujet l'aurait tenté beaucoup, et c'est ce qui m'en donna l'idée. Un poëte allemand du dernier siècle l'a traité : c'était un solitaire qui mourut avant de l'avoir mis au jour. On dit que ce poëme est fort beau. Informe-toi s'il n'y en aurait pas une traduction. Tu me l'enverrais avec des notes et des remarques de ta main.</p>
+        <p>Tu pourras voir le pour et le contre du voyage en Italie dans mes dernières lettres à Paris. Je n'en ai pas encore parlé, je vais le faire ces joursci. Mais je t'ai dit que cent louis ou mille écus étaient mon nec plus ultra, et encore faudra-t-il que je reste dans ma solitude entière et que je ne dépense pas un sol, autrement je me verrais contraint de le faire quelque temps plus tard et seulement avec 50 louis. Tu me rencontreras à pied, un petit havresac sur les épaules, et tu jetteras un regard en passant sur ton ami. Il faut que je me décide promptement d'ici à quinze jours. Mon oncle attend ma détermination pour Dijon où. il va me faire meubler un appartement. Je n'attends plus que ton dernier conseil et ton dernier mot. Es-tu sûr de pouvoir faire ce voyage et dans quel temps? Je dois aller incessamment à Bienassis. C'est encore l'argent qui me relient.</p>
+        <p>Je ne t'envoie point cette lettre pleine de vers, elle était déchirée. J'ai fait ce que je disais dans une petite épître sur la mode en matière de littérature.</p>
+        <p>Je tirai doucement quelques vers négligés,</p>
+        <p>Trop souvent applaudis, pas assez corrigés,</p>
+        <p>Des vers à l'amitié, préconisés par elle,</p>
+        <p>Des vers à la beauté, loués par une belle,</p>
+        <p>De ma veine novice enfants présomptueux;</p>
+        <p>Je donnai quelques pleurs à leur sort malheureux, La flamme les reçut. Ma muse bien-aimée</p>
+        <p>Vit ses premiers honneurs s'en aller en fumée.</p>
+        <p>J'en voulais de plus sûrs; je relus mon Boileau,</p>
+        <p>Je repris malgré moi la lime et le marteau,</p>
+        <p>Et, rejetant enfin un système commode,</p>
+        <p>Je fais de ces bons vers qui sont toujours de mode.</p>
+        <p>J'ai conservé cependant quelques élégies dans le genre de Bertin, que quelques personnes ont trouvées joliment versifiées; je t'en enverrai quelques-unes. Adieu, je l'embrasse et te prie de penser souvent à ton meilleur ami et de lui écrire plus fréquemment qu'à l'ordinaire. Voici l'automne : c'est le temps où je deviens amoureux, mélancolique, rêveur, ennuyé de la vie; c'est le temps où je lis Werther, et où je suis souvent tenté d'imiter cet aimable et malheureux héros de roman.</p>
+        <p>ALPH. DE LAMARTINE.</p>
+        <closer>
+          <salute></salute>
+          <signed>P.-S. Ma lettre était fermée. Je viens d'avoir avec mon père une sérieuse discussion dont la suite a été qu'il augmenterait de quatre cents francs mes revenus actuels et qu'il me donnait sa parole de me laisser aller passer tous les ans cinq ou six mois à Paris, à dater du 1er janvier 1812, c'est-à-dire l'année prochaine. Je renonce à faire mon cours de droit à Dijon. Adieu, jouis de mon bonheur, et arrange-toi pour y être aussi alors. Je pars dans huit jours pour Bienassis.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
