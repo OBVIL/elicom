@@ -146,8 +146,9 @@ for i, lettre in enumerate(lettres[1:]):
 							E.signature()
 							)
 						
-					)
-				#E.postscript(ps)	
+					),
+                                # Il manquait la virgule surement
+				E.postscript(ps)	
 				), type="letter")
 		)
 	))
