@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
+          <date when="[Strasbourg, probablement mai 1852.]" resp="">[Strasbourg, probablement mai 1852.]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Strasbourg, probablement mai 1852.]"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Strasbourg, probablement mai 1852.]</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher papa, , Je t'écris quelques mots à Besançon. De cette manière, si tu vois Chappuis tu pourras lui donner les nouvelles suivantes. Je n'aurai le temps de lui écrire que dans une quinzaine de jours, ou mieux c'est à ce moment seulement qu'il y aura quelque chose de définitif sur ma position.</p>
+        <p>D'abord M. Persoz a écrit qu'il revenait et M. Dumas m'a fait demander par M. Laurent qui l'a vu plusieurs fois à cette occasion si je préférais Dijon à Besançon ou inversement. Depuis lors M. Persoz a écrit qu'il était nommé à Paris. J'ai su par M. Laurent qui le tenait de M. Dumas qu'en réalité il était question de le nommer Essayeur pour les laines près de la Chambre de commerce de Paris, mais que cela n'était pas fait et que même cela rencontrait des Contradicteurs; mais que très habile comme toujours à saisir toute occasion de prévenir son retour forcé à Strasbourg il exploitait cette nomination possible dans ce but.</p>
+        <p>II me paraît impossible qu'on ait la faiblesse de prolonger son congé, et M. Dumas ne le souffrira pas. D'ailleurs cette domination est assez prochaine à ce qu'il paraît. M. Dumas dit à M. Laurent de prier M. Biot d'intervenir auprès de H. Say 1, membre très influent de la Chambre de commerce, pour en hâter la solution, plus pour moi que pour Persoz</p>
+        <p>Dumas aussi a dit à M. Laurent qu'il allait se rendre c h ez M. Biot à cette occasion, et M. Biot à qui M. Laurent est venu redire ceci est allé immédiatement voir M. Dumas.</p>
+        <p>Mais j'ignore encore le résultat de cette visite. Mais voici une autre complication : M. Dumas me fait dire en confidence que MM. Malaguti et Baudrimont tous deux profes-</p>
+        <p>seurs titulaires, l'un à Rennes, l'autre à Bordeaux, épient le moment où Strasbourg sera vacant pour le demander parce que disent-ils ils prétendent aux deux places de M. Persoz, celle de la Faculté et celle de l'École de Pharmacie. M. Dumas qui est ami de M. Malaguti et surtout de M. Balard qui pousse beaucoup M. Malaguti pourrait prendre parti pour ce dernier. Car il a dit à M. Laurent : v Nous mettons Pasteur sur la même ligne que M. Malaguti par les titres, mais les services de ce dernier sont plus anciens. M. Laurent est allé parler de cela à M. Biot qui lui a dit qu'il ne souffrirait pas que pour le bon plaisir d'un autre on m'éloignât de Strasbourg, et que ce ne serait pas sans qu'il fasse entendre plus d'un écho de ses justes plaintes et qu'il le chargeait d'aller reporter ses paroles à M. Dumas.</p>
+        <p>Ce dernier a dit qu'il ne voulait qu'une chose, que me sortir d'une position précaire et que je ne pouvais douter en rien ni M. Biot de ses excellentes intentions 1.</p>
+        <p>Voilà les nouvelles. Tu vois qu'il faut attendre. C'est a peine si je m'occupe de tout cela. Je laisse couler l'eau et je ne songe qu'à une chose, à l'espérance d'une brillante découverte qui me paraît n'être pas éloignée de moi 2. MaJs le résultat que j'attends est tellement extraordinaire que je n'ose y croire.</p>
+        <p>Adieu. Pardonne-moi mon écriture mais l'heure de la poste me presse.</p>
+        <p>Je t'embrasse. 1 L. PASTEUR.</p>
+        <p>Marie et les enfants sont en parfaite santé.</p>
+        <p>A CHAPPUIS.</p>
+        <p>[Strasbourg, mai 1852.]" J'avais en effet prié mon père de t'apprendre quelles étaient mes espérances, très occupé que j'étais lorsque je lUI écrivis à lui-même. A mon arrivée à Paris, et lors de ma première visite à M. Dumas celui-ci, plein de bienveillance Pour moi, me demanda si j'accepterais à l'Institut de Versailles la chaire de chimie générale (6.000 fr., un beau laboratoire.) Cette position sera prochainement vacante. Quelques jours plus tard, M. Regnault 1 fut nommé à Sèvres, et, a mon grand étonnement, M. Dumas me dit que si je voulais acçepter de le remplacer à l'École polytechnique, il m'apPuierait de tout son pouvoir. Le lendemain, il se rendit chez "L Thenard2 pour le prévenir, afin qu'il ne s'engageât envers Personne et, sur son conseil, je fus chez M. Thenard à l'issue de sa visite. M. Thenard me reçut en me répétant plusieurs sois : « Mon ami, je suis tout à vous. » Restait à connaître l'avis de M. Regnault, avis qui devait être à l'Ecole d'une grande importance. Or le hasard fit que, quand M. Biot alla le féliciter de sa nomination à Sèvres, il se trouvait fusant avec le général commandant l'Ecole. Celui-ci parla du remplaçant de M. Regnault et M. Regnault fit mon éloge et me mit en première ligne d'une manière très décidée, La conversation me fut aussitôt transmise par M. Biot.</p>
+        <p>T Les autres candidats sont : MM. Cahours 3, De ville 4, Le Blanc 5. C'est avant ces trois messieurs que MM. Dumas,</p>
+        <p>1 5. Félix Le Blanc (1813-1886), chimiste, travailla de 839 à 1845 dans j laboratoire de Dumas. En 1846 il fut nommé répétiteur de chimie à e(COle polytechnique et, en 854, professeur à l'École centrale des Arts et Manufactures.</p>
+        <p>Thenard et Regnault me placent ouvertement. Tu vois donc que presque certainement et autant qu'on peut dire (ce sont les mots de M. Thenard) qu'une chose qui n'est pas faite se fera, je serai nommé. Mais voici le revers de la médaille. Il faut que la place devienne vacante. Eh bien, » j'ai quelque crainte que M. Regnault ne préfère donner sa démission du Collège de France. Mes craintes sont fondées, bien qu'il n'en ait été nullement question et que, la veille encore de mon départ, M. Regnault dit à M. Biot qu'il me préviendrait par une lettre du jour où il donnerait sa démIS" sion.</p>
+        <p>Si je ne suis pas nommé à Paris aux vacances prochaines, il est probable que je demanderai d'être envoyé comme doyen de la nouvelle Faculté de Lille. Je sais que M. Dumas m'enverrait volontiers doyen, même dans une ancienne Faculté où je n'aurais pas encore rendu de service.</p>
+        <p>Je pense présenter un travail au mois de septembre 1.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              <signature>Je partirai pour Paris à la fin d'août.</signature>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

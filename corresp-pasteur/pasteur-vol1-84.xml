@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
+          <date when="[Mai 1853.] Mon cher papa, Je crois que tu aurais grand tort de t'inquiéter de ce dépôt rougeâtre d'acide urique qui se forme dans tes urines par le repos. Je me rappelle avoir fait pour les miennes la même remarque il y a trois ou quatre ans, et ça s'est passé." resp="">[Mai 1853.] Mon cher papa, Je crois que tu aurais grand tort de t'inquiéter de ce dépôt rougeâtre d'acide urique qui se forme dans tes urines par le repos. Je me rappelle avoir fait pour les miennes la même remarque il y a trois ou quatre ans, et ça s'est passé.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Mai 1853.] Mon cher papa, Je crois que tu aurais grand tort de t'inquiéter de ce dépôt rougeâtre d'acide urique qui se forme dans tes urines par le repos. Je me rappelle avoir fait pour les miennes la même remarque il y a trois ou quatre ans, et ça s'est passé."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Mai 1853.] Mon cher papa, Je crois que tu aurais grand tort de t'inquiéter de ce dépôt rougeâtre d'acide urique qui se forme dans tes urines par le repos. Je me rappelle avoir fait pour les miennes la même remarque il y a trois ou quatre ans, et ça s'est passé.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je me rappelle même avoir été inquiet aussi. Quoi qu'il en soit parles-en à M. Bergeret 1. Il y a pour la pierre des régimes préventifs excellents connus de tous les médecins.</p>
+        <p>Je crois par exemple qu'il ne faut pas boire de vin ou très peu et prendre du lait tous les matins. Tu fais donc bien de boire du petit lait. Quant à ton inflammation sur l'œil je t'engage bien à ne pas faire des remèdes quelconques, et à ne suivre que les indications du médecin.</p>
+        <p>Ici nous nous portons assez bien, moins M. Laurent 2 qui a fortement la goutte. Il n'avait pas eu d'atteinte depuis deux ans grâce à un régime qu'il suivait exactement.</p>
+        <p>Voici maintenant quelques nouvelles sur les affaires scientifiques. Lundi dernier M. de Senarmont a lu son rapport 3</p>
+        <p>sur mon travail présenté au mois d'août [1852]. Il est très remarquable d'après ce que M. Biot m'en a écrit hier. Je ne l'ai pas encore lu. Je le recevrai dimanche au plus tôt.</p>
+        <p>Le Mémoire en train que je dois présenter au mois d'août prochain est très avancé 1. Il me paraît fort remarquable souseaucoup de rapports. Du reste tu assisteras à la séance lorsque je le lirai. Tu verras l'effet produit. Chappuis qui partira avec nous pour Paris y assistera également.</p>
+        <p>Les expériences sur la vertu fébrifuge de l'un des nouveaux produits 2 que j'irai faire connaître au mois d'août 3 se poursuivent toujours à l'hôpital de Strasbourg et à Paris entre les mains de M. Rayer 4 à l'hôpital de la' Charité. Si tu veux que je te dise mon avis basé sur l'ensemble des observations faites jusqu'à ce jour, je te dirai que je crois mon produit inférieur à la quinine, bien qu'il ait une efficacité incontestable. M. Rayer m'a fait dire hier par M. Biot qu'il coupait la fièvre mais qu'avant de se prononcer définitivement il voulait encore multiplier les expériences et que pour ce il me priait de lui renvoyer une nouvelle provision, ce que j'ai fait sur le champ. Il faut donc encore attendre.</p>
+        <p>Il est très probable que lors de mon prochain voyage à Paris je présenterai ma découverte au ministre de la guerre afin qu'il nomme une commission et qu'il fasse étudier mon produit dans les hôpitaux militaires de l'Algérie et des contrées de la France où les fièvres sont très intenses et quel quefois même rebelles au sulfate de quinine.</p>
+        <p>Je t'enverrai le rapport de M. de Senarmont dès que j'en aurai deux exemplaires. Ce sera sans doute à la fin de la semaine prochaine.</p>
+        <p>Il a été question de moi pour une place de membre correspondant de l'Académie dans la section de Chimie ou de</p>
+        <p>Physique. Il paraîtrait que l'on voudrait m'éloigner de la chimie où je pourrais disent-ils gêner celui-ci ou celui-là.</p>
+        <p>M. Biot parle même des craintes de M. Fremy 1, celui qui en 1844 a été concurrent de M. Balard pour une place de membre titulaire, qui avait eu 26 voix eontre 28 données à M. Balard qui fut élu ainsi par une voix de majorité. Je me laisse dire toutes ces choses, tout étonné de l'opinion que l'on a de moi. Qu'ils fassent ce qu'ils voudront. Je ne m'en mêle aucunement.</p>
+        <p>Je connais très bien de nom M. Mollerat et je visiterais en effet (si cela était facile) sa fabrique avec plaisir.</p>
+        <p>Adieu. Je t'embrasse bien et souhaite vivement que ton mal de paupière s'en aille au plus vite. Je joins ici les lettres de M. Biot où tu verras les nouvelles en détail. Tue me les renverras plus tard.</p>
+        <p>L. PASTEUR.</p>
+        <p>A- SON PÈRE.</p>
+        <p>[24 mai 1853.] Mon cher papa, Je viens de transmettre la dépêche télégraphique suivante :Monsieur Biot Collège de France Paris. Je transforme l'acide tartrique en acide racémique. Communiquez je vous prie à MM. Dumas, Senarmont. L. Pasteur2.</p>
+        <p>« Mon cher ami, « Je ferai votre communication tout à l'heure aux personnes que vous me désignez. Mais vdus ne me dites pas si le produit obtenu est résoluble dans les deux acides actifs droit et gauche, comme le naturel; ou s'il en est l'isomère, composé d'éléments inactifs. Dans cette incertitude je garderai la même réserve dans les énoncés, mais je vous prie de me</p>
+        <p>Le tout pour 12 fr. 50. — On a mis pour l'écrire trois minutes. — Elle est partie à 7 h. 15'. Elle sera chez M. Biot avant 8 heures.</p>
+        <p>Voilà donc ce fameux acide racémique' (que j'ai été chercher jusqu'à Vienne) préparé artificiellement à l'aide de l'acide tartrique. J'ai cru longtemps cette transformation</p>
+        <p>mander au plus tôt la décision de l'alternative. Je n'ai que le temps de vous dire ces deux mots : « Votre ami J.-B. BIOT. »</p>
+        <p>Le 27 mai, J.-B. Biot revint sur la même question : « .Je me suis tenu prudemment dans la réserve que cette incertitude 1 m'imposait, non pas envers M. de Senarmont qui vous aime autant que moi, et à qui on peut tout dire dans les termes où nous sommes avec lui; mais envers M. Dumas à qui je n'ai point parlé de votre dépêche. Il serait probablement allé droit à la conclusion d'identité, d'après votre énonce seul, et peut-être sans comprendre l'absolue nécessité de l'épreuve. Puis, après, si le produit se trouve être un isomère, l'importance tlu résultat lui en aurait paru diminuée, quoiqu'il ne- dépendît pas de vous. M. de Senarmont lui-même a vivement bataillé avec moi sur la nécessité de garder cette réserve, jusqu'à plus ample informé. L'affection que lui ont inspirée vos travaux, votre persévérance, et votre caractère moral, lui feraient souhaiter pour vous des prodiges, peut-être infaisables. Mon amitié pour vous est moins prompte dans ses espérances, et plus dure dans ses admissions. Jouissez toutefois pleinement de la sienne, et soyez sans réserve avec lui, comme vous l'êtes avec moi. Vous pouvez le faire en toute sécurité; car je ne connais pas de caractère plus solide que le sien. Je lui ai dit et répété plusieurs fois combien je suis heureux de l'affection qu'il vous porte. Car vous trouverez en lui au moins un homme, qui vous aimera, et vous comprendra, quand je ne serai plus. Adieu.</p>
+        <p>Vous voilà suffisamment sermonné pour aujourd'hui; et il faut être, comme moi, dans sa 80e année, pour faire de si longues homélies! Heureusement vous êtes habitué aux miennes, et vous ne vous en formalisez pas. D</p>
+        <p>Pasteur envoya à J.-B. Biot une lettre, que nous n'avons pas eue entre les mains. J.-B. Biot répondit; le 30 mai : « Mon cher ami,</p>
+        <p>« Je ne veux pas tarder un moment à vous dire que je suis enchanté de votre résultat. Toutefois, à moins que M. de Senarmont ne vienne, aujourd'hui à la séance [de l'Institut], ce que je ne suppose pas, le croyant parti, je ne dirai à personne autre que vous transformez l'acide tartrique en acide racémique,- moléculairement identique au naturel. La</p>
+        <p>impossible. Cette découverte a des conséquences incalculables.</p>
+        <p>Adieu. Soigne bien ton mal d'œil. Ne fais pas de remède de charlatan. Suis les conseils de M. Bergeret.</p>
+        <p>Je t'embrasse de bon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <p>Nous nous portons tous bien. Marie est cependant bien fatiguée. Elle t'écrira bientôt. Il faut encore attendre avant de fixer mon départ et le tien pour Paris. Je ne sais si je</p>
+        <p>raison en est que vous n'avez, jusqu'à présent, que des épreuves chimiques. Or, il ne serait pas impossible que la faculté de dédoublement, déjà si étonnante dans l'acide racémique naturel, tînt à quelque dissemblance de propriétés chimiques, indépendantes du pouvoir rotatoire.</p>
+        <p>Cela serait tout au moins aussi important que l'autre supposition, et peut-être davantage encore, à cause de la généralité d'application qui en résulterait. Mais c'est un point qui vous reste encore à décider. Car ce sera la première question que l'on m'adressera, et je ne veux pas avoir à dire que vous ne pouvez pas encore y répondre. »</p>
+        <p>Après une nouvelle lettre de Pasteur, qui n'a pas été retrouvée, Biot écrivit, le 2 juin : « Mon cher ami, - « Je vous félicite. Votre découverte est maintenant complète, et ne comporte aucune ambiguité d'interprétation. Je vais la porter à M. de Senarmont qui en sera aussi ravi que moi. •</p>
+        <p>c Maintenant voici ce que nous étions convenus lui et moi de vous dire dans le cas de succès.</p>
+        <p>« Écrivez-moi de suite une courte note de quelques lignes, contenant l'énoncé pur et simple de la découverte en mentionnant expressément que vous avez constaté l'identité de toutes les propriétés chimiques et phvsiques, sans aucune indication de la méthode, ni des procédés, ni des idées par lesquelles vous y êtes arrivé. Une simple prise de possession du fait, voilà tout. Envoyez-moi cela avant lundi, pour être annoncé de votre part à l'Académie. Je montrerai cette note à M. de Senarmont avant de la présenter, afin qu'il s'assure avec moi qu'elle dit tout, et rien de trop. Dans l'espérance où nous étions que vous arriveriez là, notre avis commun à tous deux était qu'il fallait immédiatement l'écrire.</p>
+        <p>« Adieu. Reportez à madame Pasteur la moitié des félicitations que jç Vous adresse. Elle doit être tout aussi contente que vous.</p>
+        <p>cc Votre ami J.-B. BIOT. »</p>
+        <p>veux me mettre en route à la fin de juillet ou seulement vers le 15 août. Je ne pense pas que j'aille te prendre. Je préfère aller à Arbois avec toi à notre retour de Paris. Je crois que ce qu'il y aurait de mieux serait de descendre le Rhin et d'arriver par la Belgique. Ce voyage est dit-on magnifique et on peut le faire pour 108 fr. Ire classe partout, et mettre un mois pour le faire, c'est-à-dire que le billet est valable pour un mois et pour 108 fr. l'aller et le retour sont payés. 75 fr. les 2mes classes.</p>
+        <p>Enfin nous verrons. Chappuis aussi ne sait pas 311 juste quand il partira.</p>
+        <p>A J.-B. BIOT1.</p>
+        <p>*</p>
+        <p>[3 juin 1853.] Je vous prie d'annoncer à l'Académie que je suis parvenu à transformer l'acide tartrique ordinaire en acide racémique, complétement identique, pour toutes ses propriétés chimiques et physiques, avec l'acide racémique naturel; et se dédoublant comme celui-ci, dans les mêmes circons- tances, en acide tartrique droit et en acide tartrique gauche, lesquels montrent des pouvoirs rotatoires égaux, et de sens contraires, dans leurs combinaisons avec les bases.</p>
+        <p>Dans les différentes 'préparations que j'ai effectuées, je</p>
+        <p>J.-B. Biot, après avoir reçu cette lettre, eut de nouvelles hésitations : « .En conséquence, écrivit-il le 4 juin à Pasteur, je porterai votre note à l'Académie, dans ma poche, pour être prêt à prendre date, dans le cas où il arriverait quelque annonce de travail entrepris dans la même direction, ce qui n'est guère présumable. Mais s'il ne se présente pas une nécessité pareille, je n'en donnerai pas communication, à moins que vous ne me prescriviez le contraire, après avoir reçu cette lettre cy, ce que vous aurez encore le tems de faire, si vous le jugez à propos. Le point capital pour vous, en ce moment, c'est de ne rien avancer que vous ayez besoin de modifier plus tard, même en mieux. »</p>
+        <p>J.-B. Biot dut recevoir le surlendemain une lettre de Pasteur levant tous les doutes puisque la note fut lue le 6 juin à l'Académie des sciences et publiée dans les comptes rendus. (Voir Œyvres de Pqsteur, t. I, p. 257')</p>
+        <p>me suis toujours assuré, par des épreuves délicates, que l'acide tartrique que j'employais ne renfermait pas la plus petite quantité d'acide racémique naturel.</p>
+        <p>*</p>
+        <p>A J.-B. DUMAS.</p>
+        <p>Strasbourg, 4 juin 1853.</p>
+        <p>Monsieur, Je désire vous faire part, avant la séance de l'Académie de lundi prochain qui vous l'apprendra officiellement, d'un résultat vivement désiré. Je suis parvenu à transformer l'acide tartrique ordinaire en acide racémique, identique avec l'acide naturel pour toutes ses propriétés et se dédoublant comme celui-ci en acide tartrique droit et en acide tartrique gauche..</p>
+        <p>Il y a quinze jours que j'ai annoncé ce fait à M. Biot avec prière de vous le communiquer. Mais sa vieille et sûre expérience n'a pas été immédiatement convaincue et j'ai dû</p>
+        <p>résoudre quelques doutes qui s'étaient élevés dans son esprit. C'est la crainte de me voir transmettre à d'autres qu'à lui un résultat qu'il regardait peut-être avec raison comme n'étant pas encore entièrement assuré qui lui a fait garder le silence à votre égard. Aujourd'hui il n'y a plus aucune espèce d'incertitude et il me prie lui-même de lui envoyer une très courte note faisant connaître le fait sans autres détails pour être communiquée lundi à l'Académie.</p>
+        <p>Ce résultat a sans contredit une grande valeur. Vous voyez, en effet, Monsieur, un corps actif, l'acide tartrique, susceptible d'être transformé par un procédé de laboratoire en un isomère inactif qui à son tour est résoluble en cet acide actif qui lui a donné naissance et en acide inverse, non superposable à celui-ci. Nous voilà donc, Monsieur, en possession d'un procédé général, capable de fournir les actifs inverses de ceux qui sont connus, et, en voyant l'acide racémique corps inactif se résoudre en deux groupes actifs droit et gauche identiques et non superposables, vous vous demanderez si tous les corps inactifs de la chimie organique</p>
+        <p>et même de la chimie minérale n'attendent pas un procédé de dédoublement capable de les séparer en deux membres droit et gauche. Heureusement je suis arrivé il y a quelque temps à ce résultat très utile que M. de Senarmont a déjà indiqué dans son rapport, à savoir qu'il est facile de dédoubler l'acide racémique par un procédé chimique, tout à fait susceptible de généralisation, et pouvant être appliqué à des produits inactifs résolubles en corps actifs droit et gauche.</p>
+        <p>Au point de vue des applications ultérieures des résultats qui précèdent, il se présente aujourd'hui une question d'une haute gravité. L'acide racémique se dédouble en acide tartrique droit et acide tartrique gauche à poids égaux : ces acides mis en présence reproduisent immédiatement l'acide racémique. Faut-il en conclure que l'acide racémique est un être double, neutre par comparaison; et ne se pourrait-il pas au contraire qu'un groupe moléculaire simple ébranlé par certaines influences se dissociât tout à coup en deux groupes inverses, non superposables, comme si un octaèdre formé de 8 molécules venait tout à coup à se dédoubler en deux tétraèdres inverses constitués chacun par quatre molécules. On est vraiment tenté d'incliner vers cette dernière hypothèse lorsque l'on songe à la difficulté d'admettre que les molécules tartriques droites se transforment en molécules racémiques, ces dernières étant des molécules doubles. Il est beaucoup plus naturel de voir dans la transformation de l'acide tartrique en acide racémique inactif une molécule dissymétrique qui perd cette dissymétrie purement et simplement. Mais peut-être vais-je être bientôt en mesure de résoudre cette question par la découverte que je viens de faire d'un nouvel acide tartrique, donnant lieu à de très beaux sels et dont l'étude encore trop peu avancée pour que j'ose vous en parler ici paraît devoir être extrêmement curieuse. Je l'obtiens en même temps que l'acide racémique artificiel.</p>
+        <p>Je pense que M. Biot vous a fait part des résultats auxquels j e suis arrivé en étudiant les alcaloïdes des quinquinas 1,</p>
+        <p>et qui établissent entre ces produits une si étroite parenté. J'arriverai donc fort riche à Paris dans deux mois. Il ne fallait rien moins que cela, Monsieur, pour être tant soit peu digne du vif intérêt que vous voulez bien me porter.</p>
+        <p>Je suis avec respect, Monsieur, , Votre très humble et très reconnaissant serviteur.</p>
+        <p>L. PASTEUR.</p>
+        <p>J.-B. BIOT A JEAN-JOSEPH PASTEUR.</p>
+        <p>22 août 1853.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              <signature>Les belles découvertes faites par votre digne et excellent fils, son dévouement à la science, sa persévérance infatigable dans le travail, le soin consciencieux avec lequel il remplit les devoirs de sa place, tout cela le mettait dans une position telle, qu'il n'était pas besoin qu'on sollicitât pour lui ce qu'il avait depuis longtemps mérité. Mais on pouvait très hardiment représenter que l'on ferait à l'institution même un véritable tort si l'on tardait davantage à l'y comprendre. 1</signature>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

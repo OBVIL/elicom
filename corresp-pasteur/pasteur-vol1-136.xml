@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
+          <date when="1" resp="">1</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>1</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Lille, 29 décembre 1856.</p>
+        <p>Mon cher papa, Rien de nouveau quant à cette grande question de l'Institut. C'est dans la séance du 12 janvier seulement que l'on commencera à s'occuper de l'affaire. Elle sera dès lors terminée en trois semaines.' Il faut un premier lundi pour déclarer la place vacante. Dans le suivant les titres des candidats sont discutés en comité secret et le lundi d'après il y a scrutin. Je serai obligé d'aller à Paris à cette époque (la semaine qui précédera le scrutin) pour faire les visites d'usage. Il me tarde beaucoup que cette affaire soit terminée. Elle me préoccupe de plus en plus, non pas que je doive m'affliger aucunement si le résultat m'est défavorable, mais parce qu'elle est capitale dans la carrière d'un savant et qu'il est loin d'être indifférent d'entrer à l'Académie à une époque ou à une autre. Tu sais ce qui arrive à M. Fremy qui a eu 27 voix contre 28 données à M. Balard élu en .1844, et qui attend encore son tour dans la section de chimie.</p>
+        <p>Si nous étions à une toute autre époque de l'année je te dirais de venir à Paris pour le jour de l'élection. Tu te chargerais d'assister au scrutin et de venir me donner le résultat. Je ne te le ferai pas attendre. Je t'écrirai le soir même ainsi qu'à Marie.</p>
+        <p>Nous avons appris avec bien du plaisir que tu étais dans le banc de gypse. Es-tu toujours content et as-tu assez de terrain à exploiter sans aller sur le voisin?</p>
+        <p>Nous avons suivi pour ce nouveau jour de l'an le même système que les années précédentes pour ce qui est des étrennes de Joseph [Vichot] et d'Estelle [Vichot] 1 et on a déjà porté depuis quelques jours à la caisse d'épargne 60 fr. au compte de chacun d'eux.</p>
+        <p>Dis-moi ce que tu penses du système d'assurances sur la vie. Peut-être l'adopterais-je pour nos enfants.</p>
+        <p>Je n'ai pas besoin de te dire tout mon bonheur de te voir aujourd'hui à la veille d'une nouvelle année en aussi bonne santé, ainsi que Virginie, son mari et ses enfants. J'espère bien et je souhaite ardemment pouvoir t'en dire autant l'an prochain à pareille époque. Dieu veuille que je puisse signer alors ma lettre du titre de membre de l'Institut.</p>
+        <p>Je vous embrasse tous du meilleur cœur. N'oublie pas de distribuer quelques bonbons en notre nom à Joseph et à Estelle. Embrasse bien Virginie.</p>
+        <p>L. PASTEUR.</p>
+        <p>1857</p>
+        <p>Échec de Pasteur à l'Académie des sciences. Premiers travaux sur les fermentations.</p>
+        <p>Lille, le 21 janvier 1857.</p>
+        <p>Mon cher papa, J'attends toujours du nouveau pour t'en écrire, mais il n'en vient pas. Je ne sais pas plus que toi ce qui se passe à Paris. Il y a retard dans l'élection mais j'ignore pourquoi.</p>
+        <p>Elle n'aura pas lieu dans le mois de janvier. A-t-on commencé à s'en occuper lundi dernier? je l'ignore.</p>
+        <p>Les trois enfants sont enrhumés fortement et nous avons de la peine à les guérir. Il semble cependant qu'il y ait [du] mieux depuis hier. C'est une indisposition régnante. Heureusement que Marie et moi nous allons bien.</p>
+        <p>Un journal de Paris ayant parlé de ma candidature d'une manière absurde en accolant le nom de M. Biot au mien j dans des termes tout à fait faux, M. Biot a cru devoir y répondre. Je t'envoie la copie de l'article et de la lettre et réponse de M. Biot 1.</p>
+        <p>Je vous embrasse bien tous.</p>
+        <p>L. PASTEUR.</p>
+        <p>x. L'article avait paru dans la Vérité. Voici la réponse de J.-B. Biot : « A M. LE RÉDACTEUR EN CHEF DU JOURNAL « LA VÉRITÉ ».</p>
+        <p>« Monsieur, « Dans votre numéro du 24 décembre, vous avez fait intervenir mon nom accolé à celui de M. Pasteur, avec des accompagnements tout à fait contraires au titre de votre journal : la Vérité. En rendant compte très facétieusement d'un comité secret, auquel vous n'avez pas assisté ni</p>
+        <p>A CHAPPUIS.</p>
+        <p>Lille, 28 janvier 1857.</p>
+        <p>Je viens d'apprendre que ma candidature a perdu du terrain et que les retards interminables apportés à l'élection avaient été combinés contre moi. J'ai toujours pensé, à te dire vrai, que mon âge créerait des difficultés. Beaucoup penseront que j'ai le temps d'attendre. C'est remis au mois de février, après la séance solennelle qui aura lieu, je pense, le 2 février.</p>
+        <p>moi non plus, vous me mettez en jeu dans les termes suivants : « On savait déjà que M. Pasteur, chimiste fort distingué de la Faculté de Lille, se mettait sur les rangs et avait pour parrain M. Biot, le Doyen des académiciens, le savant auquel la science et l'âge ont donné une double influence; aussi son protégé a-t-il par avance donné sa démission tant il est sûr d'être élu. » A l'exception de la candidature de M. Pasteur qui paraît avoir le malheur de vous déplaire il y a dans ce passage presqu'autant d'erreurs que de mots. Si vous me connaissiez, Monsieur, vous sauriez que je ne me fais le parrain de personne; je n'ai ni ne voudrais avoir l'influence que vous m'attribuez. J'estime beaucoup le talent de M. Pasteur, mais je ne le protège point; des motifs que vous ignorez me rendent même fort retenu à témoigner tout le bien que je pense de ses travaux. Mes confrères voteront pour ou contre lui selon leur conscience et moi aussi. Vous voyez que sur tout cela vous avez été mal informé. Nos règlements exigent que les académiciens résident à Paris.</p>
+        <p>M. Pasteur ne pouvait se présenter comme candidat, qu'après s'être assuré la possibilité de satisfaire à cette condition s'il était élu. Il a donc demandé à M. le Ministre de l'Instruction Publique de vouloir bien agréer sa démission dans cette éventualité et le Ministre y a consenti avec la plus gracieuse bienveillance. Ainsi vous présentez comme un acte de présomption fondé sur mon crédit ce qui n'a été que l'accomplissement d'un devoir. Voilà les faits réels que je tiens à rétablir dans leur véritable jour. Tout le monde peut juger mes ouvrages scientifiques comme il l'entend, je ne m'en inquiète pas. Mais je n'admettrai jamais sans résistance que l'on m'impute publiquement une conduite morale contraire à mes sentiments et à mes actions.</p>
+        <p>•Je vous prie donc, Monsieur, de vouloir bien insérer textuellement cette lettre dans un de vos plus prochains numéros. J'aime mieux devoir cette satisfaction à votre équité qu'à mon droit.</p>
+        <p>J.-B. BIOT de l'Académie des Sciences.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              <signature>25 décembre. 1t</signature>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

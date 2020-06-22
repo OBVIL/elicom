@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
+          <date when="Paris, 10 juin 1845." resp="">Paris, 10 juin 1845.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A JULES MARCOU 1. (...-...)">A JULES MARCOU 1.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Paris, 10 juin 1845."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Paris, 10 juin 1845.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Marcou, J'ai appris avec autant de plaisir que d'étonnement la nouvelle de tes succès dont je commence par te féliciter.</p>
+        <p>Je ne pensais pas que tu te donnerais à l'étude de la géologie avec une aussi grande ardeur, avec le désir de faire avancer cette science jeune et belle. Je la regardais comme un délassement utile pour ta santé et voilà que j'apprends avec une double satisfaction que tu es dans une parfaite santé et un vrai géologue.</p>
+        <p>Avant d'achever ta lettre j'avais regretté déjà que tes études en chimie ne fussent pas capables de répondre à ce</p>
+        <p>que la géologie leur demandera souvent, ce que tu as bien senti, comme je l'ai vu ensuite dans ta lettre. Je sais très bien que beaucoup de géologues distingués n'ont pas en chimie des notions étendues, mais je crois que c'est un grand malheur et je pense que la géologie n'a pas assez souvent recours à l'analyse chimique. Je t'indiquerai de suite un ouvrage d'analyse. Tu le désirerais peu volumineux. C'est un tort. Pour avoir des notions sur les divers corps tu peux te contenter d'un petit ouvrage, mais il te faut un ouvrage sur l'analyse chimique où tu puisses trou, ver les renseignements convenables. Ce n'est pas un ouvrage que tu auras à lire, et à étudier consécutivement, mais à consulter quand tu en auras besoin. Malheureusement la ubrairie française est très pauvre en ouvrages d'analyse chimique. Celui qu'on regarde en général comme le meilleur est une traduction de l'ouvrage allemand d'H. Rose, Qui forme deux volumes in-8 de 7 fr. chacun. Il a pour tltre : Traité pratique d'analyse chimique par H. Rose, avec notes de M. E. Péligot, traduction de M. Jourdan, à Paris chez Baillière, rue de l'Ecole de Médecine, 17.</p>
+        <p>Quant à un ouvrage à étudier pour connaître un peu la chimie je te conseillerais la petite chimie de Bouchardat.</p>
+        <p>j en ai lu l'année dernière quelques pages. Elle m'a paru ts bien faite. Plus tard tu feras bien de te procurer une chimie de Thenard.</p>
+        <p>Tu me proposes une analyse d'un minéral. J'accepterais vec plaisir si nous faisions de la chimie cette année, sans doP te garantir du succès; car une analyse est un problème uncile. J'ai prié Lamy de s'en charger s'il le pouvait. Ils ont en effet des analyses un jour dans la semaine. Tu sais Peut-être que nous avons à présent pour maître de conféences de chimie M. Balard, reçu membre de l'Institut ette année. Lamy sera guidé par lui de sorte que ton anayse pourra être faite avec soin. Il n'aura sans doute que le emps de faire celle d'un échantillon que tu lui enverras c Vec une instruction sur ce que tu désires connaître et sur e que tu sais de la position géologique de l'échantillon.</p>
+        <p>Nous avons pu suivre quelques courses de géologie dans les environs de Paris. J'ai assisté à celles de M. Constant Pré-</p>
+        <p>vost qui en a fait très peu. Il est parti dès longtemps pour les Pyrénées. Depuis deux mois nous allons à celles de M. Elie de Beaumont. Dès à présent comme elles seront éloignées nous n'y assisterons pas, je pense; et d'ailleurs les examens approchent. Il y a une autre raisen; c'est qu'une dizaine de courses suffisent bien pour prendre connaissance du terrain des environs de Paris. Nous avons recueilli des échantillons en assez grand nombre.</p>
+        <p>Je pense que d'après la direction de tes études d'à présent tu ne tarderas pas à venir étudier à Paris 1. Tu es privé de collections, de cours de géologie et quand tu connaîtras bien tout ce qu'il y a à étudier, sinon à explorer, il me- semble que tu feras bien de gagner la Capitale et de venir y puiser des connaissances que tu ne pourras acquérir seul à Salins.</p>
+        <p>J'aurai le plaisir de te voir pendant les vacances et d'étudier un peu ta collection.</p>
+        <p>Je n'ai pas besoin de te dire que tous tes anciens camarades actuellement élèves de l'Ecole normale, Leyritz, Vincent, Lamy, Grillet, Chappuis et Pasteur te félicitent de ton zèle, de tes succès et te souhaitent une bonne santé.</p>
+        <p>Adieu, mon cher Marcou.</p>
+        <p>Ton ami dévoué, L. PASTEUR.</p>
+        <p>P.-S. — Aie la bonté de présenter mes respects à tes parens.</p>
+        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
+        <p>Dimanche 29 juin 1845.</p>
+        <p>Mon cher Louis, La communication de ta lettre à *** m'a occasionné une surprise aussi agréable qu'extraordinaire, rien absolument rien ne pouvait me faire pressentir pareille chose 2.</p>
+        <p>Néanmoins tu comprends que je suis loin de regarder cette affaire comme arrêtée. L'opposition qu'il peut rencontrer peut</p>
+        <p>être tout autre qu'il semble le prévoir. Je lui ai donc observé qu'il ait à se tenir dans une grande réserve, puis de ne communiquer ce projet à qui que ce puisse être. Hors toi, m'a-t-il dit, personne ne le sait.</p>
+        <p>Personne non plus pour le moment ne devant rien savoir, eri m'écrivant n'en dis jamais mot.</p>
+        <p>, Connaissant mon opinion comme tu la connais sur ses qua-</p>
+        <p>htes, puis les avantages qui y sont joints, juge de l'effet de cette nouvelle pour moi.</p>
+        <p>Il y a dans cette dernière phrase quelque chose qui sonne al à ton oreille. A ton âge cela se comprend, on vit d'illuSIOns. Mieux on vit de pain.</p>
+        <p>Le premier mobile de la paix intérieure de la famille est d'être dans l'aisance, le second est d'avoir une femme sage et econome car sans cette dernière vertu la première condition qUe je pose devient nulle.</p>
+        <p>t Si tu viens à lui écrire, fais-le de telle façon que cela ne puisse re compris. Une lettre sur ce sujet perdue me serait très eSgréable, j'ai brûlé moi-même devant lui celle que tu lui aValS écrite.</p>
+        <p>J'ai reçu hier ta lettre. [Mots illisibles.] Il n'est pas de te dire de t'occuper sérieusement de tes exaens. Tout ce qui ne doit pas être exigé par la licence doit kgoureuseet être abandonné par toi, c'est une observation le Pense très inutile car mieux que moi tu comprends l'imporance de la licence.</p>
+        <p>Je me préoccupe toujours sur ta santé, le travail extraorblalre que vous avez peut t'échauffer. Prends deux ou trois d alns par semaine. Ne les prends pas trop chauds, et toujours de trois à quatre heures après le .manger.</p>
+        <p>p Quand tu auras besoin d'argent tu nous le diras. N'attends as au dernier moment.</p>
+        <p>111 i Paris était à Dijon j'y serais dans trois heures de temps, Il ls c'est bien loin, puis qu'y ferais-je, si au moins j'y con-</p>
+        <p>Malssals quelqu'un pour t'être utile. Si tu le veux je prierai sa' Gerbet de faire souvenir de toi M. P. 1. Je ne le ferai pas ns que tu le dises.</p>
+        <p>1, POuillet (voir p. 99, note 1).</p>
+        <p>Porte-toi bien, nous nous portons tous assez bien, si ce n'est la Virginie, qui est toujours comme tu sais. Ses maux de l'estomac lui prennent encore quelques fois, mais sans l'arrêter.</p>
+        <p>Nous voilà dans 15 jours à la foire de Besançon.</p>
+        <p>Nous t'embrassons tous de bien bon cœur.</p>
+        <p>Veille sur ta santé, entends-tu.</p>
+        <p>Ton père, PASTEUR.</p>
+        <p>Donne le bonj our à ton ami Chappuis.</p>
+        <p>JEAN- J OSEPH PASTEUR A SON FILS.</p>
+        <p>Samedi 3 août 1845.</p>
+        <p>Mon cher Louis, Lorsque tu recevras cette lettre ton premier examen sera passé puisses-tu en être aussi content que je le souhaite.</p>
+        <p>Puissent les autres aussi se bien passer. Combien il me tarde d'en apprendre le résultat. Fais-nous le connaître aussitôt que possible.</p>
+        <p>Je comprends que tu as peu d'instants à toi, deux mots seulement.</p>
+        <p>Si je souhaite ardemment que tu sois heureux dans tes examens, bien plus encore je me préoccupe de ta santé. Dans la pratique du bonheur, elle passe avant tout. Penses-tu que les professeurs les plus haut placés soient les plus heureux, tl n'en est rien.</p>
+        <p>Il y a plus de contentement dans une position ordinaire que dans la position la plus brillante. Je reste convaincu que M. Romanet est plus content de lui que le plus savant de tes membres de l'Institut, qui pour se soutenir au point où il est parvenu est obligé de travailler jour et nuit.</p>
+        <p>Mais je crois que sur ce point nous ne sommes pas bien d'accord.</p>
+        <p>« Ta dernière lettre en ce qui concerne *** est absolûmes l'expression de ma façon de voir sur. cette affaire. Sans sa</p>
+        <p>lOyauté qui m'est si bien connue j'eus mis plus de réserve que je n'ai fait; mais c'eût été je pense mal répondre à sa ranchise, qui t'est connue comme à moi, en agissant avec plus de circonspection avec lui.</p>
+        <p>Sans doute, j'eus désiré lorsqu'il m'apprit ses intentions \Par ta lettre) que les choses en restassent là jusqu'à ton arrivée.</p>
+        <p>La délicatesse de tes sentiments me fait un plaisir infini, Inals sois bien assuré que malgré toutes les préventions favoables que j'ai pour lui, et tout l'avantage qu'il résulterait Pour ta sœur de cette union, il ne sera rien dit ni rien fait, qui ne puisse être répété devant qui que ce fût.</p>
+        <p>f Je ne puis douter que J. 1 n'en soit instruite, pourtant sa açon de nous voir est restée la même.</p>
+        <p>L'observation que tu fais est on ne peut plus juste. Oui la S neralité des femmes pour plaire ont recours à une mise exas ree, et souvent ce moyen leur réussit, mais il prouve peu PourYhomme et encore moins pour la femme qui l'a employé, car si la coquetterie n'est pas toujours un vice chez la femme, au moins n'y est-elle jamais une vertu. Il est bien rare que la f lie qui a fait abus de la toilette pour chercher à plaire n'en Se pas encore abus étant femme.</p>
+        <p>J'ai eu jeudi une étrange conversation avec M. Carré. Des f s eligieuses se sont emparées de lui. Je crois sa tête bien f"tiguée. Nous avons resté un peu de temps à causer sans qu'il r ai* dit un seul mot de toi, on n'a parlé que des devoirs à r envers notre religion, la mission d'Arbois dont il a su' VI les exercices en est à peu près la seule cause.</p>
+        <p>et Le fils Hermann a échoué aux examens. C'est bien tant pis et Pour lui qui est un excellent sujet et pour son père à qui te a n a pas manqué d'être bien pénible. Il n'en fera avec le te In Ps pas moins son chçmin.</p>
+        <p>Nous nous portons tous très bien. Porte-toi bien aussi.</p>
+        <p>Us t'embrassons tous de bien bon cœur.</p>
+        <p>Ton père, PASTEUR.</p>
+        <p>Encore une fois mon ami nous te souhaitons une bonne chance. Combien je désire d'être de un mois plus vieux. Prends quelques bains, ce grand travail que vous avez en ce moment peut t'échauffer. Ne fussent que des bains de pieds. Mais si tu es près d'un établissement de bains, suis mon conseil, cela te fera dormir, prends-les pas trop chauds.</p>
+        <p>1846</p>
+        <p>Pasteur est nommé agrégé des sciences physiques.</p>
+        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
+        <p>Arbois, 16 août 1846.</p>
+        <p>Mon cher Louis, A l'instant même où je reçois ta lettre je t'écrivais, sans avoir rien autre que l'inquiétude sur ta santé, pensant combien vous devez être fatigués du travail excessif que vous avez à faire pour vos examens.</p>
+        <p>Sans doute que ce grand nombre de concurrents va diminuer tes chances, il y aura plus d'honneur si tu réussis, si tu echoues tu auras bien des motifs pour t'en consoler.</p>
+        <p>Mais je vois par ce que tu nous dis, par ce que M. Renaud1 nous a dit venant de Monsieur Pouillet, qu'on compte sur toi à l'École, ainsi présente-toi avec confiance et tu réussiras.</p>
+        <p>Quand on appréhende d'être battu on est près de l'être. Tiens bon, tu seras victorieux, si du moins tu succombes tu diras : J'ai fait mon possible.</p>
+        <p>, Ce qu'il y avait à redouter c'était la licence. Cela fait, é, chouer à l'agrégation ne doit être considéré que comme un simple désagrément.</p>
+        <p>Ton ami Chappuis part demain lundi pour Paris. Il me l'a ait dire, me demandant tes commissions, tu le remercieras Pour moi, dis-lui que je vous souhaite à tous deux une bonne chance.</p>
+        <p>Désirant beaucoup te voir à Besançon, j'ai fait les démarches qui m'ont paru utiles pour y parvenir.</p>
+        <p>J'avais parlé il y a huit jours à Monsieur l'Avocat général Choupot. Il m'a accueilli de la manière la plus flatteuse pour toi, de qui il a l'opinion la plus avantageuse. Hier apprenant qu'il était ici je fus le revoir, il m'a dit : Je me suis occupé de votre fils, j'ai vu le recteur et le proviseur, on est pour lui dans les dispositions les plus favorables, mais il se trouve un obstacle, Monsieur Darlay qui depuis longtemps se disposait à prendre sa retraite ne paraît pas vouloir la prendre, du moins il n'en dit mot, vous comprenez, m'a-t-il dit, qu'on ne peut lui en parler.</p>
+        <p>Il m'a ajouté : Soyez assuré que je ferai mon possible pour que votre fils vienne à Besançon, que je veillerai à cette affaire, puis j'aurai pour le protéger le procureur général de Besançon qui n'a rien à me refuser, qui est à Paris en ce moment comme député de Colmar. Monsieur de Golbéry a pour ami intime le ministre de l'Instruction publique. Ainsi tu vois que tu vas être bien appuyé.</p>
+        <p>Si tu n as pas vu encore M. Pouillet, ne manque pas d'y aller avant tes examens, tu lui diras que j'ai pris le plus vif intérêt à sa nomination 1; aussitôt les votes comptés, que M. Renaud notre cousin me l'a fait connaître et à l'instant même je te l'ai fait savoir, ce qui est exact. J'ai fait près de nos parents qui sont électeurs rien pour qu'ils donnent leurs votes à M. Pouillet, ils lui étaient assurés, mais je les ai stimulés pour qu'ils fassent près de leurs amis toutes les démarches possibles en sa faveur. [A] Arbois j'ai fait près des électeurs que je pouvais aborder tout ce qu'il m'a été possible pour atténuer l'effet des propos des Légitimistes contre lui. Je crois pouvoir dire avec vérité que j'ai fait revenir à d'autres sentiments envers lui beaucoup d'électeurs. Au point que le jour des élections à 4 heures du matin j'étais sur pied. Le capitaine d'Oussières qui était pour M. de Froissard à la quête des électeurs, je voyais après lui celui qu'il quittait. Je l'ai fait près du père Vercel et Caïphas. L'un n'est pas allé, l'autre a vote pour M. Pouillet, ils avaient promis à M. de Froissard. AU</p>
+        <p>café surtout nous en avons [nom illisible] et moi ramené beaucoup. Si je reviens encore une fois à ces choses c'est pour t'en pénétrer afin que dans une visite que tu feras à M. Pouillet tu n'hésites pas à lui en parler. S'ils sont reconnaissants d'une voix, ils le seront bien davantage de dix à quinze et c'est au moins ce chiffre que par l'entremise de nos parents ou de ce que j'ai fait nous lui avons procuré.</p>
+        <p>Sans détail dis-lui : Soyez assuré que vous avez eu en mon papa un chaud partisan de votre élection, vous croiriez peu aux démarches qu'il a faites près de nos parents et amis, allant tout exprès dans les cafés d'Arbois pour y atténuer les cancans des Légitimistes. Sinon cela, tu diras l'équivalent et tu ne mentiras pas.</p>
+        <p>Demande-lui sa protection pour la place de Besançon sans t'inquiéter s'il l'a ou non promise à l'ami.</p>
+        <p>Écris au proviseur à ce sujet, même à M. Foncin, tu ne dois rien négliger pour y venir.</p>
+        <p>Ne manque pas d'aller le voir avant tes examens. Cela ne Peut que t'être très favorable. J'admets que tu te trouves à égal mérite avec un autre, le choix entre les deux sera fait de celui qui sera le mieux appuyé. Cela se comprend.</p>
+        <p>Tu ferais bien d'attendre ici pour tes habits, ils seront aussi bien et meilleur marché de Besançon. Pour de l'argent tu nous feras connaître ce qu'il te faut, nous te l'enverrons.</p>
+        <p>Bonne chance mon cher enfant et surtout bonne santé, combien nous désirons te revoir. Je t'embrasse de tout mon cœur.</p>
+        <p>PASTEUR.</p>
+        <p>Tu résumeras ce que je te dis à l'égard de M. Pouillet. Sa Position de membre du Conseil de l'Instruction publique surtout, celle de député, l'immense crédit dont il jouit près la famille royale le rendent tout puissant. Ce qu'il demandera Pour toi tu l'auras. Les démarches que moi et mes parens ont faites pour son élection peuvent lui être inconnues, ce serait sottise de ne pas lui faire connaître dans la position où tu te trouves, pouvant avoir un si grand besoin de son appui.</p>
+        <p>A CHAPPUIS1.</p>
+        <p>Paris, 8 septembre 1846.</p>
+        <p>Voici la liste 2 : Viard, Morot, Pasteur, Forthomme; — Lechat, si on donne cinq places, mais le bureau n'en veut que quatre.</p>
+        <p>Une mauvaise leçon d'histoire naturelle m'a placé le troisième, au lieu de second et même de premier. M. Masson m'a dit que j'étais le premier pour les leçons, que ma leçon de physique avait été bonne, celle de chimie parfaite.</p>
+        <p>Il m'a dit aussi que de tous les admissibles j'avais été le seul professeur bien, sachant faire une leçon. Ce jugement me fait le plus grand plaisir; pour nous qui sommes appelés à professer, c'est à être capable de bien enseigner que nous devons tenir surtout.</p>
+        <p>Ce matin M. Hébert m'a dit que M. Balard, ainsi que l'administration, désirait que je restasse à Paris, conservateur de chimie 3. Cette place me ferait le plus grand plaisir.</p>
+        <p>Que M. Répécaud laisse M. Darlay une ou deux années encore, et j'irai, après deux ans, professeur à Besançon, plus instruit et plus digne d'être utile.</p>
+        <p>Ecris-moi au plus tôt pour que je sache si la place sera vacante. S'il était décidé qu'elle sera vacante, je ne pourrais refuser d'y aller, engagé comme je le suis, envers M. le Proviseur.</p>
+        <p>A M. HÉBERT, SOUS-DIRECTEUR DES ÉTUDES A L'ÉCOLE NORMALE 4.</p>
+        <p>Arbois, jer octobre 1846.</p>
+        <p>Monsieur,</p>
+        <p>Je viens de recevoir une nomination qui m'étonne extrêmement. Je suis nommé professeur de physique au Collège</p>
+        <p>de Tournon par décision du 24 septembre. Je ne puis m'expliquer cela, moi qui suis parti de Paris si tranquille sur la place de conservateur d'après ce que vous m'aviez dit. Il faut que M. Delbecque n'ait pas eu connaissance de vos intentions ni de celles de M. Dubois puisque M. Dubois désirait d'après les intentions de M. Balard que je restasse à Paris. Je pense que la place de l'Ecole n'est pas donnée, et que vous pouvez facilement faire changer cela. Je compte entièrement sur vous et je n'écris qu'à vous et à M. Balard. Ayez la bonté, si vos travaux vous en laissent le loisir, de m'écrire quelques mots le plus tôt possible afin que je sache s'il n'y a pas eu un malentendu au Ministère ou au Conseil royal. Je vais faire une demande au Ministre, ^ais je ne pense pas que cela sera très utile et que votre influence pourra faire beaucoup plus.</p>
+        <p>Recevez, Monsieur, avec mes remerciements, l'assurance de mes profonds respects.</p>
+        <p>L. PASTEUR.</p>
+        <p>PASTEUR AGRÉGÉ-PRÉPARATEUR A L'ÉCOLE NORMALE 1846-1848</p>
+        <p>Pasteur est nommé préparateur de chimie à l'Ecole normale.</p>
+        <p>écrit à Dumas pour lui demander une Place de répétiteur à l Ecole centrale. Il propose à Balard d'entreprendre un travail sous sa direction.</p>
+        <p>•</p>
+        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
+        <p>Artois, 2 novembre 1846.</p>
+        <p>Mon cher Louis, Nous avons reçu ta lettre, puis le journal où est ta nomination 1. Te voilà content, je comprends assez qu'il peut en ésulter pour toi de grands avantages par les moyens qui sont ,OUS ta main pour y travailler. Si je n'avais rien autre dans esprit je t'aimerais autant et mieux là qu'ailleurs.</p>
+        <p>Mais pour tes sœurs si la place de Besançon redevenait vacante, tu devrais ne rien omettre pour y parvenir. Je te errais avec une entière satisfaction prendre un cours de phy-.</p>
+        <p>lque dans une institution, vois à cela. D'abord cela te forcerait a. revoir une science que tu aurais tort selon moi d'abandonner, PUIS. tu augmenterais ton traitement.</p>
+        <p>1 RIen ne presse pour aller voir ma cousine, mais quand tu t verras, tu peux bien lui proposer sans détour si elle consentirait d d</p>
+        <p>T* à prendre une de tes sœurs en pension pour six mois, tu lui diras : vous serez payée chaque mois.</p>
+        <p>él Je pense que tu es allé voir M. Pouillet, parle-lui de son Il ectIon, des menées qu'il y a eu à Arbois contre lui, mais sans llonlrner personne.</p>
+        <p>A propos de ta sécurité sur tes expériences en chimie, vois</p>
+        <p>à Pa.steur avait été nommé au mois d'octobre préparateur de chimie ole normale.</p>
+        <p>ce miracle chimique : Tu étais avec moi quand je suis allé jeter à la rivière et y rincer le verre. Ayant rincé plusieurs fois ce verre tu te moquais de moi, il y avait de ma part excès de précaution. Une fois lavé, dans ta sécurité tu l'aurais porté sur la table, tu aurais bu dedans, n'est-ce pas? il n'en a pas été ainsi de ma part, je l'ai empli d'eau, puis j'ai été l'enfermer dans mon armoire. Il y a deux jours j'en eus besoin, je mis mes doigts dedans pour le rincer avec l'eau qu'il contenait.</p>
+        <p>Dis-moi pourquoi mes doigts sont venus tout jaunes. Comprendras-tu qu'il aurait été imprudent de s'en servir pour boire. Même il y a après ses parois des aspérités, soit que l'acide y ait déposé quelque chose qui ne peut s'en aller à l'eau froide, ou que le poli du verre soit un peu altéré.</p>
+        <p>Ainsi prends un peu plus de précautions, ne te sers jamais pour boire des objets où tu auras déposé des drogues.</p>
+        <p>Tu sais que la foire a lieu le 17 du courant. Si tu as quelque chose pour Besançon tu nous l'écriras.</p>
+        <p>Je t'enverrai des bottes avec tes chemises, je te les ferai un peu plus fortes, mais tu dois avoir encore à Paris celles qui t'étaient si grandes que tu n'as dû mettre que l'hiver dernier, puis ce gilet de grosse laine. Fais une note de tes effets, cela doit être cloué là après ta malle.</p>
+        <p>Nous nous portons tous très bien, porte-toi bien aussi, écris-nous exactement si tu prévois que cela te puisse le moins du monde gêner pour payer ton tailleur, dis-lui de nous tirer dessus à vue mais je ne veux lui donner que cent francs et déjà c'est trop cher.</p>
+        <p>Nous t'embrassons tous de bon cœur.</p>
+        <p>PASTEUR.</p>
+        <p>Un jour que tu sortiras tu demanderas à un corroyeur l'adresse d'un fabricant de nos outils, tu lui diras de m'envoyer 4 paires de bois à cambrer (pour finir la tige) puis aussi une pierre douce pour aiguiser les couteaux à revers.</p>
+        <p>A J.-B. DUMAS 1.</p>
+        <p>Paris, 7 novembre 1846.</p>
+        <p>Monsieur, Permettez-moi de vous adresser une demande. Je suis sorti cette année de l'Ecole normale agrégé des sciences physiques, et sur la proposition de M. Balard j'ai été nommé préparateur de chimie à cette école. Vous le savez sans doute, Monsieur, ces places de préparateurs ne nous appellent à Paris que pour un espace de temps assez court, deux ou trois années au plus, et nous retournerons alors Professeurs en province. J'ai un grand désir, Monsieur, de consacrer une partie de mon temps durant mon séjour à Paris à m'exercer à l'art difficile de l'enseignement. Je vous Ie dirai avec une franchise trop naïve peut-être, j'ai l'ambition de devenir un professeur distingué. Pour atteindre ce but il faut une longue pratique et c'est afin de me procurer, s'il est possible, le moyen de m'exercer à l'enseignement que j'ose vous adresser cette lettre.</p>
+        <p>Ce n'est pas chose facile que de trouver à Paris le moyen de faire un cours de chimie ou de physique à plusieurs Auditeurs réunis. J'ai pensé aux institutions; mais elles manquent d'appareils. Une discipline assez souvent difficile y paralyse l'énergie et le zèle du professeur, et ce serait avec peine que l'on pourrait saisir l'attention des élèves sans les expériences. J'ai pensé à demander l'autorisation de faire un cours de chimie à l'Athénée royal. Mais outre a. répugnance que j'aurais à faire un cours de chimie le SIr, des personnes m'ont offert des objections qui me détournent de cette demande. Alors j'ai eu l'idée que peutêtre à l'Ecole centrale vous auriez besoin d'un répétiteur Accessoire de physique ou mieux de chimie et je viens m'of-</p>
+        <p>J .-B. Dumas était en 1846 professeur à la Faculté des sciences, membre de l'Académie des sciences, et venait de fonder l'École centrale. Il était gé de quarante-six ans.</p>
+        <p>frir à vous. Les jugements portés par nos maîtres de conférences sur les exercices oraux de l'Ecole en 3e année et ceux de l'agrégation me permettront de vous dire que j'arriverai à enseigner avec clarté et énergie dans l'exposition.</p>
+        <p>Du reste, Monsieur, soyez assuré que je ne vous fais cette demande ni dans le but de gagner de l'argent, ni dans le but, beaucoup plus digne de reproches, de me mettre en relation, afin de parvenir, avec une personne aussi haut placée que vous dans une science à laquelle, moi aussi, j'ai la pensée de dévouer ma vie. Mon désir surtout, je le redis encore, est de me procurer le moyen de me perfectionner dans l'art de l'enseignement.</p>
+        <p>Vous excuserez mieux peut-être, Monsieur, la hardiesse de ma démarche en vous rappelant le temps où vous aspiriez au talent du professeur. Je suis trop jeune pour avoir vu vos débuts; mais assurément vous n'êtes pas arrivé tout à coup au sommet que vous avez atteint, et vous avez dû désirer beaucoup jadis obtenir un enseignement capable de vous mettre à même d'essayer de gravir cette pente élevée que vous dominez aujourd'hui.</p>
+        <p>Recevez, Monsieur, l'assurance de mon profond respect.</p>
+        <p>Votre tout dévoué serviteur, Louis PASTEUR à l'Ecole Normale.</p>
+        <p>JEAN-J OSEPH PASTEUR A SON FILS.</p>
+        <p>Arbois, 19 novembre 1846.</p>
+        <p>Mon cher Louis, Si nous n'avons pas répondu à ton avant-dernière lettre tu as dû penser que la dernière que tu as reçue s'était croisée avec la tienne; n'ayant rien d'urgent à répondre à la tienne je m'en suis tenu là, et la foire de Besançon qui était lundi dernier a encore empêché de répondre plus tôt à ta dernière que nous avons reçue mardi.</p>
+        <p>La foire comme les précédentes a été très mauvaise. On a</p>
+        <p>vendu mais à faible prix. Depuis près de deux ans les tanneurs ne gagnent pas; ceux qui fabriquent mal perdent même beaucoup.</p>
+        <p>Tu as bien fait de nous faire disposer dessus par ton tailleur pour les 100 francs que tu lui dois. Je n'ai pas encore reçu son effet, il peut l'envoyer quand il le voudra. Je veux que cela passe pour les 115 fr. car il n'y a pas à douter que si tu avais donné cent francs en recevant tes habits qu'il eût été content.</p>
+        <p>Il est sans doute très avantageux pour toi d'être sous la direction journalière de MM. Balard 1 et Laurent 2, l'un et l'autre d'un si grand mérite, il est assuré qu'ils te feront marcher à grands pas. Mais je t'engage à attendre les résultats de l'expérience que tu vas prendre sous eux avant d'essayer tes forces. Laisse donc mûrir le projet que tu as en tête, il serait Peu sage à toi, il serait même très imprudent de le mettre à exécution en ce moment. Attends que l'expérience pratique mûrisse tes idées. La chimie n'est-elle pas un métier aussi?</p>
+        <p>N'a'-je pas vu cent fois nos jeunes ouvriers, croyant savoir, échouer chaque fois qu'ils voulaient agir seuls. L'expérience est le premier des maîtres. Quand tu auras fini ton cours avec celui-ci3 comme te voilà en voie de le faire, alors tu feras très bien d'essayer tes forces.</p>
+        <p>Tu me parles aussi d'une machine nouvelle nécessaire à ton Projet. Je pense que tu ne serais pas assez imprudent pour te lettre dans la dépense de tels frais, ce serait tout juste agir de façon à te priver de la satisfaction de voir près de toi cette année une de tes sœurs, car le métier allant aussi mal qu'il va en ce moment nous ne pouvons sans inconvénient nous mettre de nouvelles charges sur le dos, il faut toujours ne pas faire Son faix plus gros qu'on ne peut le porter.</p>
+        <p>, Il est pour le moment impossible d'envoyer ni l'une ni autre de tes sœurs à Paris. L'indisposition de la Virginie est augmentée au point que depuis trois semaines elle ne peut</p>
+        <p>1- Auguste Laurent (1808-1853), professeur de chimie à la Faculté des ci. ences ,de Bordeaux, venait d'arriver à Paris. Il travaillait dans le a ortoire de Balard.</p>
+        <p>j, Jean-Joseph Pasteur veut, sans doute, parler de Balard.</p>
+        <p>rien faire, sans pourtant tenir le lit, mais voici deux jours qu'elle est mieux. M. Bergeret qui vient la voir dit qu'elle ne court aucun danger mais qu'elle ne doit rien faire du tout. Il y a deux ans qu'elle a déjà été comme cela pendant près de trois mois. Espérons que cette fois ce sera moins long.</p>
+        <p>Quand tu verras ma cousine dis-lui mille choses pour moi et que, cette circonstance passée, nous conduirons près d'elle l'une ou l'autre de tes sœurs. Soit à l'une ou l'autre le séjour ne pourra qu'être très avantageux à celle qui y ira.</p>
+        <p>Tout en prenant les précautions voulues pour ne pas importuner M. Pouillet, vois-le de temps à autre et si une éventualité venait à se présenter pour venir à Besançon saisis-la sans arrière-pensée, une faculté viendra après. Il est toujours peu sage de quitter le bien pour être mieux.</p>
+        <p>Voilà toujours ton père et ses conseils. D'abord un collège communal, puis à présent un collège royal où ici c'est plus qu'il ne faut pour celui qui saurait s'en contenter. Pour moi je sais qu'avec 100 fr. par mois je voudrais vivre plus heureux que tel autre avec 20 mille francs de rentes. Ainsi toutes mes observations sont naturellement sorties de mon peu d'ambition.</p>
+        <p>Porte-toi bien. Nous t'embrassons tous de bon cœur.</p>
+        <p>PASTEUR.</p>
+        <p>La Virginie me dit de te dire qu'elle est guérie; en effet elle est aujourd'hui très bien, tricote en ce moment près de mOl, elle t'embrasse aussi la petite.</p>
+        <p>A BALARD.</p>
+        <p>Novembre 1846.</p>
+        <p>Monsieur, J'ai pensé au travail que je pourrais entreprendre durant mon séjour à l'Ecole sous votre bienveillante direction. Déjà cette année j'ai eu occasion de vous soumettre à ce sujet quelques idées que vous aviez encouragées. Ces</p>
+        <p>idées s'étaient présentées à mon esprit en lisant votre mémoire sur l'alcool amylique. La réaction par laquelle Vous donnez naissance à l'éther amylique en traitant l'éther hydrochloramylique par une dissolution de potasse dans un tube fermé, me semble très digne d'appeler l'attention. Elle montre, ce que du reste on prévoit a priori, l'influence de la pression considérée comme force capable d'intervenir dans les actions chimiques. Elle indique le moyen de donner naissance aux produits oxygénés C4 H5 0 C4 H4 02 C4 H3 03. et à leurs correspondants parmi les alcools amylique et méthylique. De là un moyen de préparer les aldéhydes amylique et méthylique et même, s'il est Possible, les acides acétique et formique anhydres. Certainement en opérant avec la potasse et le composé C4 H3 C13 de M. Regnault 1, c'est de l'acétate de potasse qui prendrait naissance. Mais peut-être avec la chaux, la baryte anhydres la réaction C4 H3 C13 + Ba3 03 = C4 H3 03 + C13 Ba3 s opérerait-elle?</p>
+        <p>Les composés chlorés sont si nombreux en chimie organique que beaucoup peut-être soumis à une haute pression en présence de la potasse donneraient lieu à des faits intéressants, ou à des combinaisons curieuses.</p>
+        <p>Ne serait-il pas utile également d'étudier si certains corps en voie de cristallisation n'éprouveraient pas des modifications dans leurs formes cristallines lorsque le liquide qui les tiendrait en dissolution serait soumis à une haute pression. — D'autre part verrait-on encore se produire ces Phénomènes d'inertie moléculaire si nombreux lorsque la Pression serait convenable, et l'acide tartrique et la potasse ne donneraient-ils pas lieu immédiatement à des cristaux.</p>
+        <p>Pareillement il serait curieux ce me semble d'étudier ce que deviendraient certaines réactions lorsque les corps mis en présence seraient au contraire soumis à une pression beaucoup plus faible que celle de l'atmosphère. M. Regnault avait trouvé que l'éther hydrochlorique pouvait être dis-</p>
+        <p>A J. Henri-Victor Regnault (1810-1878), chimiste et physicien, succéda t GaY-Lussac, en 1840, comme professeur de chimie à l'École polyeChnique, fut professeur de physique au Collège de France.</p>
+        <p>tillé sans altération sur une dissolution alcoolique de potasse. D'après votre expérience cela tenait simplement à l'état physique sous lequel se présente cet éther. Il a trouvé au contraire que la liqueur des Hollandais était décomposée facilement par la dissolution alcoolique de potasse. Eh bien si à son tour cette dernière expérience était tentée à une très basse pression, donnerait-elle le même résultat? L'expérience serait à faire.</p>
+        <p>Toutes les réactions se passant dans les laboratoires sous la pression atmosphérique et d'après ce que nous voyons arriver sous cette pression dans les appareils, nous concluons à telle constitution des corps, qui serait peut-être souvent démentie si l'expérience avait été faite en changeant seulement l'état physique des corps, la pression à laquelle ils sont soumis. Que si dans votre expérience il était arrivé que C4H3Cl + KO eût donné C4H4 + HO + CI K , et non C4H50 + CI K, l'opinion de M. Regnault sur la constitution de C4 H5 CI eût été détruite. Votre expérience n'est pas défavorable à l'opinion de M. Regnault; mais elle aurait pu l'être, bien que vous n'ayez fait que répéter sa propre expérience.</p>
+        <p>Le cercle de ces idées s'agrandirait beaucoup, je pense, si on y réfléchissait davantage. Il y a ce me semble des recherches à faire dans cette voie.</p>
+        <p>Quant à l'exécution des expériences elle serait commode, je pense, en se servant de la disposition d'appareil de M. Regnault pour les tensions des vapeurs. Un réservoir d'air, comprimé à l'aide d'une pompe, communiquerait avec un manomètre et avec le tube résistant où seraient placés les corps en expérience. On pourrait ainsi avoir une pression variable à volonté et toujours facile à déterminer.</p>
+        <p>Y a-t-il réellement dans ces idées un sujet de travail que je puisse entreprendre sans y rencontrer trop de difficultés?</p>
+        <p>Personne mieux que vous, Monsieur, ne peut me donner ces conseils que je recevrai avec plaisir et reconnaissance.</p>
+        <p>Votre élève tout dévoué, L. PASTEUR.</p>
+        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
+        <p>Arbois, II décembre 1846.</p>
+        <p>-1 Mon cher Louis, Nous avons reçu ta lettre avec beaucoup de plaisir, nous te voyons content, te voilà arrivé au but de tes désirs tout à l'heure. Te dire que nous en sommes aussi satisfaits que toi, ce n'est pas assez.</p>
+        <p>Tes sœurs se portent très bien, elles seront à l'avenir un Peu plus soigneuses de leur santé que par le passé et elles se JOIgnent à moi pour t'engager à soigner aussi la tienne, avoir soin de mettre tous les jours des bas de laine et te bien vêtir chaudement. Dis-nous dans ta première lettre si ta chambre est chauffée, si tu es loin de ta pension, à quelle heure tu rentres tous les soirs, évite de te trouver dans la rue la nuit, Un hiver aussi rigoureux que celui-ci doit occasionner bien des mauvais coups, crois-moi, rentre chez toi tous les jours de bonne heure.</p>
+        <p>Je vois avec plaisir que tu manges bien, à ton âge le corps a besoin d'une abondante nourriture, vous payez un grand Prix, ne vous gênez pas de demander ce qui vous convient, surtout faites-vous donner de bon vin.</p>
+        <p>Tu vois que nous tenons cas de ton observation, nous ne afisons pas attendre ta lettre, fais-en de même, ne passe pas Quinze jours sans nous écrire, et entre dans tous les détails Possibles sur ce que vous faites.</p>
+        <p>, Tu fais très bien d'ajourner le projet que tu avais jusqu'à an prochain, pour faire les expériences que tu te proposais.</p>
+        <p>Je ne doute pas le moins du monde que d'ici à quelques mois tu vas te trouver à même de faire ta thèse, la pratique journalière des manipulations de chimie te va adoucir cette voie, Ie n'en doute pas, au delà de ce que tu peux penser.</p>
+        <p>Depuis quelques jours nous avons de la neige, en ce moment Il en tombe beaucoup.</p>
+        <p>Une nouvelle qui va te surprendre. M., celui qui donnait des leçons à tes sœurs, a commis plusieurs vols, il est en ce Moment en prison.</p>
+        <p>Je te recommande de prendre des répétitions de physique, non de chimie, tu en fais assez à ton école. Tu ne dois pas, ce me semble, abandonner une science pour laquelle tu peux avoir d'un jour à l'autre une nomination. Quand on n'est pas riche, il est peu prudent de refuser de gagner de l'argent. Si j'étais à ta place, le cas échéant je prendrais des répétitions de mathématiques, pourquoi non, revoir des mathématiques serait-ce un temps mal employé, je ne le crois pas, la question d'argent même mise de côté.</p>
+        <p>Si tu te gênes le moips du monde pour payer les cent francs que tu dois à ton tailleur, encore une fois dis-lui de nous tirer dessus pour cette somme.</p>
+        <p>Si je t'engage à prendre une ou deux répétitions, c'est que d'après ta dernière lettre tu as beaucoup de temps à toi, tu peux donc disposer d'une heure ou deux par jour sans te gêner, je ne voudrais pas pour cela te voir te fatiguer le moins du monde, ta santé doit passer avant tout, surtout que ta place peut te suffire; enfin de tout ce que je t'en dis fais-en à ta guise, je n'ai sur cela autre volonté que la tienne.</p>
+        <p>Encore une fois, prends les plus grands soins sur ta santé, suis les conseils que je te donne pour ne pas courir les rues de nuit, laisse là les spectacles, lis les pièces, tu les connaîtras mieux que ceux qui iront les voir jouer.</p>
+        <p>M. Bozon est reçu licencié, il te dit bien des choses.</p>
+        <p>Porte-toi bien. Nous t'embrassons de bon cœur.</p>
+        <p>PASTEUR.</p>
+        <p>A CHAPPUIS.</p>
+        <p>[Paris, fin de 1846.] J'ai tout à fait abandonné, pour cette année et sans doute aussi pour l'an prochain, le projet de travail dont je t'ai parlé aux vacances.</p>
+        <p>Une circonstance très heureuse pour moi s'est offerte.</p>
+        <p>M. Laurent, dont j'ai eu déjà occasion de te parler, professeur (en congé) à la Faculté de Bordeaux, est venu</p>
+        <p>depuis un an à Paris soutenir ses idées nouvelles en chimie.</p>
+        <p>Il a travaillé d'abord au laboratoire du Collège de France qu'il a quitté, je ne sais pourquoi. M. Balard lui a offert celui de l'Ecole et M. Dubois 1 l'a parfaitement accueilli.</p>
+        <p>J'avais commencé un travail, lorsqu'il y a quelques jours M. Laurent a bien voulu m'offrir d'en entreprendre un avec lui2. Ce travail déjà commencé a pour but de soutenir certaines idées théoriques émises par M. Laurent depuis quelques années 3. Quand il arriverait que ce travail ne mènerait à aucun résultat utile à publier, tu penses que je gagnerais beaucoup à manipuler durant plusieurs mois avec un chimiste si expérimenté. Pendant l'été j'essaierai seul un autre travail, qui, je crois, pourra donner quelques résultats, et l'an prochain je ferai ma thèse. Je suis charmé de ma nouvelle position. Ne dis pas que je travaille avec M. Laurent.</p>
+        <p>1847</p>
+        <p>Pasteur passe sa thèse de chimie et sa thèse de physique.</p>
+        <p>A M. FONCIN, PROFESSEUR A L'ÉCOLE DE MÉDECINE, A BESANÇON.</p>
+        <p>Paris, 21 janvier 1847.</p>
+        <p>Monsieur, J'ai tardé beaucoup de vous écrire et même de répondre à votre aimable lettre. Comme Léon a dû vous le dire, j'attendais que son bulletin me fût envoyé. Je le joins à cette lettre et vous pourrez voir qu'il est très satisfaisant, étant le premier sur tout. J'ai vu du reste M. Blanchet il y a peu de temps et je n'ai que de bonnes nouvelles à vous transmettre au sujet de Léon. M. Blanchet n'émet pas de doute sur sa réception à la fin de l'année et vous avez en effet tout lieu d'y compter. Sous le rapport du travail et de l'intelligence des mathématiques M. Blanchet est très content de lui. Quant à la conduite vous savez vous-même qu'il n'y a pas à s'en préoccuper. Léon est maintenant fait auX habitudes de l'institution et s'y plaît assez. Il y travaille avec plaisir et suit avec zèle le cours du collège par M. Richard.</p>
+        <p>Dans la lettre de Léon que vous recevrez avec la mienne il vous parlera au long de la circonstance qui fait qu'il est sorti aujourd'hui jeudi. Cette nuit même quelques élèves de Sainte-Barbe ont eu la sotte idée de faire du bruit, de tout briser dans les dortoirs, de faire venir les municipaux, etc. et ce matin ils ont été tous renvoyés. Pareille</p>
+        <p>chose s'est déjà offerte à Sainte-Barbe il y a trois ans. On fera comme alors : quelques mauvais élèves seront mis à la porte et les autres rentreront. N'ayez rien à craindre pour Léon qui en sera quitte pour un ou deux jours de congé. Cette nuit et jusqu'à leur rentrée il couchera dans ma chambre. Il est en ce moment près de moi qui vous écrit et vous raconte avec plus de détails le singulier amusement de quelques-uns de ses condisciples. Ces désordres sont très fâcheux, car ils nuisent beaucoup à l'institution recommandable d'ailleurs à plusieurs titres, et ils sont la cause d'interruption dans le travail, ce qui a toujours quelque inconvénient.</p>
+        <p>Je n'ai pas à vous donner de Léon d'autres nouvelles qui Puissent vous intéresser. Vous voyez que, somme toute, Vous devez être tranquille à son égard et avoir bon espoir Pour la fin de l'année. Je dirai en particulier à Madame FonCln que Léon se porte très bien à Paris quoiqu'il soit loin d'avoir les soins maternels qu'il trouvait dans sa famille.</p>
+        <p>Non seulement cette année qu'il aura passée à Paris avant d'entrer à l'Ecole le conduira à son but, mais elle modifiera ses idées et son caractère d'une manière convenable. Il commence l'apprentissage de la vie, il fait connaissance avec le monde qu'il ignorait et tout cela ne pourra qu'être très utile à son avenir et même à son travail actuel.</p>
+        <p>Quant à moi, Monsieur Foncin, je vous dirai que je suis ici très heureux, que je travaille avec le plus grand plaisir Uïie science que j'aime et tout ce que je souhaite est d'arriver un jour à une chaire de faculté pour la chimie afin de pouvoir continuer l'étude de cette science.</p>
+        <p>Ayez la bonté de me rappeler au souvenir de Mlle Colard, de Mme Yard. Présentez, je vous prie, mes respects à MIne Foncin et mes amitiés à Ernest. Veuillez bien également me rappeler au souvenir de M. le Proviseur si vous avez l'occasion de le voir, ainsi que de mon ancien professeur M. Douché.</p>
+        <p>Recevez, Monsieur Foncin, l'assurance de mes respects et de mon amitié.</p>
+        <p>L. PASTEUR.</p>
+        <p>A CHAPPUIS.</p>
+        <p>Paris, 20 mars 1847.</p>
+        <p>Je travaille ici avec le plus grand plaisir. Mes thèses sont commencées. Je serais encore occupé à travailler avec M. Laurent, si M. Laurent n'avait eu le projet de quitter l'Ecole en me laissant continuer seul ce travail. Chimiste infatigable, il trouvait qu'il perdait beaucoup de temps à venir à l'Ecole le matin, à s'en retourner le soir, et il a résolu de se construire un laboratoire chez lui-même.</p>
+        <p>Cependant, d'après le conseil de M. Balard, peut-être restera-t-il à l'Ecole, ce que je souhaite de grand cœur. Il n'est pas, je crois, de chimiste avec qui je pourrais gagner plus, tant il donne avec bienveillance ses conseils. Je crois d'autre part que M. Laurent est destiné à occuper dans quelques années la première place parmi les chimistes. Il vient d'être nommé suppléant de M. Dumas à la Sorbonne.</p>
+        <p>Dans ses deux premières leçons, il a été aussi hardi que dans ses mémoires, et parmi les chimistes ces leçons ont fait beaucoup de bruit. J'ai l'honneur de passer chez M. Dumas les soirées du jeudi, et jeudi dernier ces leçons faisaient le sujet de plusieurs conversations.</p>
+        <p>Je continuais le travail commencé avec M. Laurent, quand j'ai eu occasion d'étudier une nouvelle combinaison qui m'a engagé dans l'étude d'un sujet un peu différent, que j'ai choisi pour sujet de thèse de chimie 1. J'ai à peine commencé celle de physique 2, qui du reste consistera surtout dans la détermination d'une foule de densités dont j'aurai besoin pour entreprendre plus tard un travail de chimie sur les volumes atomiques. En ne prenant pas pour sujet de thèse ces recherches de densités, je n'aurais jamais</p>
+        <p>Voir Œuvres de Pasteur, t. I, p. 1-18. -</p>
+        <p>eu le courage de commencer ce dernier travail qui pourra être déjà très long par lui-même.</p>
+        <p>Je doute de pouvoir achever mes deux thèses avant la fin d'août. Dans tous les cas elles seront presque terminées à cette époque. Je possède déjà pour celle de chimie plusieurs faits intéressants, ce me semble. Je passerai probablement mon doctorat à Pâques de l'an prochain.</p>
+        <p>A CHAPPUIS.</p>
+        <p>Paris, 12 mai 1847.</p>
+        <p>Je me trouve ici extrêmement heureux. Je travaille avec le plus grand plaisir. Je voudrais encore avoir moins à faire afin de marcher plus vite dans le-travail que j'ai entrepris.</p>
+        <p>Ma thèse de chimie sera achevée à la fin de l'année et je Pense me présenter au doctorat à Pâques de l'année prochaine. Je songe même au mois d'août sans le dire; mais je craindrais d'offrir un travail un peu précipité et de n'avoir Pas assez de faits pour établir ce que je veux prouver. Il se Pourrait cependant qu'à la fin de juin ma thèse de chimie fût achevée.</p>
+        <p>M. Laurent travaille, depuis le mois d'avril, à la Sorbonne, et le sujet qu'il m'avait proposé d'étudier avec lui a été forcément abandonné. J'espère le traiter seul plus tard. C'est dans tous les cas ce travail qui a été l'occasion de celui qui fait le sujet de ma thèse de chimie.</p>
+        <p>J'avais désiré mener de front mes deux thèses; mais j'ai abandonné ce projet. Ma thèse de physique est mise de côté jusqu'à nouvel ordre.</p>
+        <p>JE AN- J OSEPH PASTEUR A SON FILS.</p>
+        <p>Arbois, 13 juin 1847.</p>
+        <p>Mon cher Louis, Je réponds, à ta dernière lettre reçue mardi dernier.</p>
+        <p>Dans une précédente lettre tu ne voulais, m'as-tu dit, ne te</p>
+        <p>présenter qu'à Pâques prochain pour le doctorat. D'après celle-ci non seulement tu veux t'y présenter cette année mais tu te proposes à un grade plus élevé. Il me semble que ce serait bien assez faire que de te contenter pour le moment de te faire recevoir docteur, sans rien chercher de mieux. Tu finiras à force de t'imposer de travail par altérer'ta santé, contente-toi donc, tu es bien, tu es heureux, repose-toi, au moins ne fais que ce qu'il te faut de rigueur sans t'imposer de nouvelles tâches.</p>
+        <p>Pense que ta fortune est dans ta santé à présent.</p>
+        <p>.Le pauvre vieux docteur Dumont est devenu aveugle. Juge quelle affliction, lui qui s'occupait de lecture à peu près exclusivement, aussi je crois qu'il n'ira pas loin. Ses jambes sont enflées, il ne pense pourtant qu'à sa vue : « Si seulement je voyais encore pour me conduire je serais bien content. » En nous écrivant dis quelque chose pour lui, je lui lirai, c'est un vieillard bien respectable.</p>
+        <p>Jules [Vercel] te charge de t'informer du prix d'un daguerréotype, il veut en acheter un. Tu lui écriras directement sur ce sujet et sur les instructions que tu pourras lui donner pour s'en servir aux vacances. Je pense que tu dois en avoir quelques notions, en tous les cas tu es sur les lieux pour en prendre.</p>
+        <p>Tu feras très bien aussi dans ta lettre à Jules d'adresser quelques mots à Charrière 1 qui toujours s'est informé de toi.</p>
+        <p>Il se marie mardi. Jules et Altin [Vercel] sont de la noce.</p>
+        <p>A CHAPPUIS.</p>
+        <p>Paris, juillet 1847.</p>
+        <p>Je me présente au doctorat au mois d'août. Ma thèse de chimie, presque totalement terminée, est entre les mains de M. Balard. Je ferai peu de choses en physique. Je dresserai seulement un programme de recherches très utiles que j'entreprendrai l'année prochaine et que je ne fais que coin-</p>
+        <p>mencer dans la thèse. Je serai bien heureux une fois débarrassé du doctorat. Rien n'est plus agréable, ce me semble, que d'être libre d'entreprendre un travail quand on le désire, de l'abandonner de même, d'en entreprendre même Plusieurs en même temps. Pour cela il faut être libéré d'examens. Tu as peut-être entendu parler d'un concours d'agrégation de faculté revivifié qui devrait avoir lieu au mois d'octobre. J'ai pensé à concourir. Mais j'hésite encore, et surtout, ce qui me donne de l'incertitude, c'est que le concours lui-même est encore en question. Le ministre en veut, J.Vl. Dumas aussi et d'autres. Mais M. Pouillet et beaucoup d'autres professeurs de la Faculté n'en veulent pas. Et si le ministre tombe! Il est difficile de se mettre au travail en présence de telles irrésolutions. D'ailleurs mes thèses ^'occuperont encore quelque temps, et aurais-je ensuite assez de temps pour travailler? Enfin ce sont des vacances * sacrifier. Cependant l'occasion serait belle. Il n'y aurait qu'une place près de la Faculté de Paris, qui est une. place de chimie, et je doute que beaucoup de concurrents se présentent. Ces agrégés auraient des fonctions près des Facultés. — Très probablement je ne me présenterai pas.</p>
+        <p>Je reprends ma lettre pour te dire que si je ne reste pas â Paris pour ce concours, je ferai tous mes efforts auprès , de rna. famille afin de pouvoir aller passer au moins un bon mois de mes vacances en Allemagne dans le but d'apprendre , allemand du matin au soir. Tu dois tenir comme moi enormément à savoir l'allemand. Allons ensemble, nous n regretterons jamais un pareil voyage. Pour moi, je ,suis tres décidé à le faire, et il n'y aurait que des obstacles très grands qui pourraient me faire changer de résolution. A toute force, je veux savoir l'allemand et l'anglais d'ici à quelques années. Peux-tu faire le voyage dans ce même but?</p>
+        <p>x jf •- £ .—Le concours d'agrégation des Facultés est ajourné � 1 an prochain. Je le tiens de M. Dumas. Cela a été décidé au Conseil royal vendredi dernier. J'en suis très satisfait.</p>
+        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
+        <p>Arbois, le 16 août 1847.</p>
+        <p>Mon cher Louis, Nous avons reçu ce matin tes thèses. Bien que nous ne puissions les juger notre satisfaction n'en a pas été moins grande. Sans doute j'aurai le plus grand plaisir à te voir Docteur, bien que j'étais loin d'en demander tant, mon ambition avait fini à l'agrégation.</p>
+        <p>Je vois et comprends très bien tous les avantages du pas que tu vas franchir. Une fois placé dans une Faculté, là tout est fini pour ton avenir, tu auras sous ta main le choix d'un brillant établissement et cette position sera d'autant plus satisfaisante pour nous que tes sœurs s'en ressentiront, par cela nous serons tous heureux.</p>
+        <p>Mais le Doctorat aurait pu arriver plus tard sans que nous ayons eu à nous en plaindre, mais pouvant franchir le pas plus tôt tu as très bien fait de le faire, tu dois être bien content.</p>
+        <p>Viens bien vite te reposer de tes fatigues, il nous tarde de te voir.</p>
+        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
+        <p>[Arbois, le 17 août 1847.] Mon cher Louis, Je reçois à l'instant ta lettre. Je vois que tu t'es mis en besoin d'argent, je t'envoie donc un bon de 200 f. payable à vue.</p>
+        <p>Aussitôt passé ton examen ne manque pas de nous en faire savoir, bien qu'un insuccès arrivant nous en serions bien facilement consolés, si toutefois tu n'en avais pas de peine.</p>
+        <p>Pouvant payer sans doute avec les 200 f. ne prends rien près de l'économe, tu seras bien aise de trouver à ton retour à Paris ce qu'il te reviendra.</p>
+        <p>Hier j'ai mis une lettre à la poste pour toi; tu devais prévoir Ce qui t'est arrivé et me dire où tu en étais; alors tu ne te serais pas mis dans le cas d'attendre.</p>
+        <p>Encore une fois, si on ne te donne rien pour tes répétitions 1, qu il en soit la même chose, elles seront bien assez payées Par la protection d'un homme aussi haut placé 2 et si la somme qu'on pourra t'offrir était un peu forte, n'en accepte que moitié, ou enfin une moindre partie, mets dans cela la grande délicatesse.</p>
+        <p>Nous t'embrassons. Puisse cette lettre te trouver content, nous ne demandons rien plus.</p>
+        <p>Ton père, PASTEUR.</p>
+        <p>A CHAPPUIS.</p>
+        <p>Paris, 3 septembre 1847.</p>
+        <p>Mon projet d'aller en Allemagne ne peut se réaliser; je 1116 suis plus que ruiné pour mes frais de thèses.</p>
+        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
+        <p>25 décembre 1847.</p>
+        <p>Mon cher Louis, Nous avons reçu hier ta lettre, elle ne peut être plus satisaisante mais il ne peut être autrement venant de toi, et dès Ongtemps et de toujours tu es toute ma satisfaction.</p>
+        <p>Tu fais bien marcher au but. Si tant de fois tu m'as entendu Parler dans un. autre sens, ce n'était que par excès d'affection, le n'étais préoccupé que d'une chose, te voir succomber à Peine. Tant de nobles jeunes gens ont sacrifié leur santé j amour de la science. Te connaissant comme je te connais, le n'avais qu'à me préoccuper d'une seule idée.</p>
+        <p>A l'École normale.</p>
+        <p>2 T - -</p>
+        <p>• J .-J:S. Dumas.</p>
+        <p>Aujourd'hui je le comprends, il doit en être pour toi tout autrement, tes succès et l'habitude du travail te doivent le faire supporter sans peine.</p>
+        <p>Pourtant mets-y toute la prudence possible, ta position est arrêtée, ne va pas l'entraver en altérant ta santé par trop de travail. Assez tôt tu arriveras. Il ne s'agit pour toi en ce moment que de te caser dans une Faculté, d'y bien faire le cours et tirer parti de ta position pour t'établir convenablement. Tout est là.</p>
+        <p>Tout est si bien là, que voici ce que me disait il y a bien peu M. Bergeret : parlant de toi il me dit : « Votre fils est dans la plus belle position pour faire un brillant mariage et sans doute comme tant d'autres il ne s'en doute pas. L'homme est ainsi fait : jeune il tient peu compte de son mérite. Je vous engage, m'a-t-il dit, à lui insinuer de bonne heure qu'il n'a qu'à demander pour obtenir, un refus n'est fait à de tels jeunes gens que par des sottes et des sots. Alors quand cela arrive il y a de quoi s'en consoler. » Il dit : « Si j'avais une fille, 150 mille francs à lui donner, je préférerais cent fois un jeune homme dans la position de votre fils à un de ces flâneurs qui ne sont qu'à charge à eux-mêmes et à la société, aurait-il le double de fortune. »</p>
+        <p>La Fifine en tant que santé est très bien. La Virginie est tout à fait guérie, M. Bergeret lui fait prendre de l'eau ferrugineuse du Docteur Quesneville, le produit sort de chez M. Vauquelin de l'Institut (manufacture de produits chimiques et de réactifs, maison principale, rue Jacob, N° 30). M. Ber' geret l'ayant saignée a trouvé que son sang se décolorait deu* jours après. Il vint nous le dire, lui fit prendre du sel de fer.</p>
+        <p>Depuis, sa santé s'est améliorée à vue d'œil, c'est au point que quand elle a chaud, qu'elle travaille, il lui vient des couleurs très vives; avant cela, plus elle avait chaud plus lle était pâle; et enfin les maux d'estomac sont dissipés au poin* qu'elle fait tout ouvrage sans en souffrir.</p>
+        <p>Les cuirs en poils continuent à être à très bas prix, nou5 aurons la tannerie, dans peu, mieux garnie qu'elle ne 1 * jamais été, et cela sans contracter de dettes, cela sera dû à la baisse car l'an dernier comme tous les autres nous avons perdu beaucoup, mais les bas prix des achats de cette année</p>
+        <p>compensent nos pertes. Pour peu que la vente aille, nous serons couverts au delà.</p>
+        <p>Rien autre, mon bon ami, si ce n'est de t'engager à prendre de ta santé les plus grands soins, ne pas sortir le soir, te distraire autant que possible par des lectures agréables.</p>
+        <p>Tu aurais déjà ton vin qui est prêt sans des confitures de Pommes qu'elles veulent te faire, et une paire de bottes que Je ne puis obtenir promise de semaine en semaine, cela tardera Peu. Mais je pense que tu ne manques de rien, sans quoi je Ille fâcherais contre les retardataires et ce n'est pas moi.</p>
+        <p>Je ne passe pas deux jours sans en parler, mais chez nous la négligence passe avant tout.</p>
+        <p>Nous nous portons tous très bien, porte-toi bien aussi, ne fais aucune dépense au jour de l'An, la Milie 1 aura de ta part Un très beau cornet, elle me dit de te dire qu'elle est bien gentille.</p>
+        <p>Je t'embrasse comme je t'aime.</p>
+        <p>t PASTEUR.</p>
+        <p>1848 # Pasteur prend part à la Révolution de 1848. Il présente à l'Académie des sciences un mémoire sur le dimorphisme. Mort de sa mère à Arbois.</p>
+        <p>LETTRES ADRESSÉES A PASTEUR PAR SON PÈRE, SA SŒUR JUSÉPHINE ET SA MÈRE (écrites sur la même feuille).</p>
+        <p>LETTRE DE JEAN-JOSEPH PASTEUR</p>
+        <p>Arbois, jer janvier 1848.</p>
+        <p>Mon cher Louis, Que Dieu te garde une bonne santé. Ta position est telle qu'il n'y a rien à y souhaiter, laisse courir le temps, un peu plus tôt ou un peu plus tard tu arriveras à une Faculté, but de tes vœux. Il n'y a donc qu'une seule chose à faire de ta part, c'est de te préoccuper de ta santé, ne pas l'altérer par des excès de travail, ne mets aucune économie dans ta nourriture, habille-toi chaudement pendant ces grands froids, ne travaille pas le soir, ménage ta vue, rentre toujours de bonne heure.</p>
+        <p>Je te fais faire une malle anglaise et je vais tâcher qu'elle soit prête pour te l'envoyer dans trois semaines avec le vin et les autres choses que tes sœurs te destinent. Tu recevras cela par un messager de Salins qui va à Paris tous les mOIS, il est parti il y a huit jours.</p>
+        <p>On vient de recevoir les objets que tu as envoyés. Je laisse tes sœurs te remercier; pour moi certes j'aimerais mille fois mieux cet argent dans ta bourse et de là au restaurant, place</p>
+        <p>en quelques bons repas où avec une bonne société tu te serais bien amusé.</p>
+        <p>Bien peu de pères, mon bon ami, ont le bonheur d'avoir à dire de telles choses à leur fils à Paris. Aussi suis-je satisfait de. toi bien au delà de mes expressions.</p>
+        <p>Nous achetons toujours à très bas prix, et grâce à Dieu nous n'avons pas manqué d'argent. Notre tannerie est mieux garnie que jamais elle ne l'a été, à partir de demain je vais commencer à mettre plus d'ordre dans nos écritures, tu trouveras tout bien au retour.</p>
+        <p>Je laisse à ta mère, à tes sœurs le reste du papier blanc.</p>
+        <p>Porte-toi bien, parle-nous de ta santé dans toutes tes lettres, de tes études, si le travail t'est toujours bien agréable. Je t embrasse comme je t'aime.</p>
+        <p>Ton père, PASTEUR.</p>
+        <p>LETTRE DE JOSÉPHINE PASTEUR.</p>
+        <p>Mon cher Louis, Les cadeaux que tu nous as envoyés sont magnifiques. Tout Ce que nous craignons Virginie et moi c'est que ça t'ait coûté trop d'argent; maintenant que nous savons que ton bon goût et ton bon cœur te font acheter du si beau, nous te désignerons Ce que nous voulons afin de te mettre moins en dépense.</p>
+        <p>Reçois mon bon frère mes adieux et les vœux que je fais Pour ton bonheur.</p>
+        <p>Adieu. Adieu. Ta sœur, Joséphine PASTEUR.</p>
+        <p>LETTRE DE LA MÈRE DE PASTEUR.</p>
+        <p>Mon cher enfant, je te souhaite une bonne année. Aie bien sOIn de ta santé, habille-toi bien chaudement, je ne cesse de Penser que tu peux avoir ce qu'on appelle la grippe. Préviens Cette maladie par des infusions le soir en te couchant. Plus</p>
+        <p>on avance dans l'hiver plus elle est mauvaise. Juge si je dois être en souci, ne pouvant être près de toi pour te donner les soins d'une mère.</p>
+        <p>Parfois je me reconsole de ton absence en réfléchissant combien j'ai eu de bonheur d'avoir eu un enfant qui se soit fait une position qui l'ait rendu si heureux tel que tu l'as marqué dans ton avant-dernière lettre. Quoi qu'il arrive ne te fais jamais de chagrin, tout n'est que chimère dans la vie.</p>
+        <p>Adieu, mon cher enfant.</p>
+        <p>A CHAPPUIS.</p>
+        <p>Paris, 20 janvier 1848.</p>
+        <p>Je suis ici extrêmement heureux et j'attribue mon bonheur à ce que chaque jour je suis au laboratoire à étudier la chimie. Une seule chose est venue m'ennuyer dans ces derniers temps, en changeant tout mon plan de travail de cette année. C'est ce malencontreux concours des agrégations des Facultés. Cela va changer dans un mois ou deux tout à fait ma manière de vivre. Il est difficile que je ne me présente pas, et du reste je dois le faire pour beaucoup de raisons, bien que j'aie très peu de chances de réussite. Je lutterai contre des individus plus âgés et plus exercés que moi à l'enseignement. Verdet, Bertin, Janin et plusieurs professeurs de province dans les Facultés se pré- senteront, à ce que l'on dit. Il est difficile que la place unique pour Paris ne soit pas acquise par Verdet. Il faut dire du reste que ceux qui seront nommés ne seront nullement forcés de se rendre auprès des Facultés qui ont demandé des agrégés. Ce sera un titre acquis, et voilà tout.</p>
+        <p>Il n'y a même pas de fonds au budget pour cette institutionAussi plusieurs personnes doutent encore que le concours ait lieu.</p>
+        <p>Je compte publier prochainement un travail de cristallographie 1. Je crois que je pourrai le faire suivre d'un autre</p>
+        <p>dans le cours de l'année 1; ce second travail est également commencé.</p>
+        <p>Je ne compte plus du tout retourner à Besançon comme professeur au collège. Je suis presque assuré que je pourrais entrer dans une Faculté, dès qu'il y aura une place de suppléant ou de chargé de cours vacante. J'ai même failli aller à Bordeaux au mois de novembre. Cela serait arrivé, si M. Baudrimont, chimiste déjà bien connu, n'avait accepté la suppléance. J'avais été présenté pour cette place pendant les vacances, sans l'avoir demandé, par MM. Thenard 2 et Dumas. Je suis allé remercier M. Thenard que je ne connaissais pas, et il m'a dit de-regarder comme certain que je serais envoyé sous peu dans une Faculté, parce qu'il y aurait prochainement, ce qu'il savait, une ou plusieurs vacances. Il m'a dit aussi de refuser toute place de professeur de physique dans un collège, en ajoutant même que je réponde, si on m'en offrait une, que M. Thenard m'avait dit de ne pas l'accepter.</p>
+        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
+        <p>Arbois, 25 janvier 1848.</p>
+        <p>Mon cher Louis, Tu nous apprends que tu es heureux et bien portant, tu ne peux nous donner de meilleures nouvelles.</p>
+        <p>Nous t'engageons à prendre de ta santé les plus grands soins, plus que jamais je désire que tu ne sortes pas la nuit.</p>
+        <p>Nous avons eu ici quelques difficultés avec un très mauvais sujet P. cordonnier qui nous emporte 300 francs. Il est parti Pour Paris, je le crois homme à tout. Je ne l'aime pas à Paris a cause de toi. Ainsi reste chez toi la nuit.</p>
+        <p>8</p>
+        <p>J. Voir Œuvres de Pasteur, t. I, p. 61-64 : Mémoire sur la relation qui Peut exister entre la forme cristalline et la composition chimique, et Sur la cause de la polarisation rotatoire.</p>
+        <p>S il- Le baron Thenard (1777-1857), chimiste, avait été professeur à la orbonne, au Collège de France et à l'École polytechnique. Il présidait en 1848 le grand Conseil de l'Université.</p>
+        <p>Quant à toi, ce concours que tu m'annonces est loin de me faire plaisir, toujours un surcroît de travail, je t'en prie n'en fais que ce qu'il faudra pour ne pas nuire à ta santé, tu n'as plus besoin d'autre chose que de la conserver.</p>
+        <p>Mais de tout cela une seule chose préoccupe ton père, c'est toi. Je voudrais te voir travailler, te voir manger, te voir dormir.</p>
+        <p>Nous t'embrassons bien tous.</p>
+        <p>PASTEUR.</p>
+        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
+        <p>Dimanche, le 20 février 1848.</p>
+        <p>Mon cher Louis, J'ai appris hier soir très tard que les journaux faisaient présager que Paris n'était pas tranquille, qu'aujourd'hui même on prévoyait du trouble à l'occasion d'un banquet réformiste1. Je t'en prie, mon cher enfant, ne sors pas de chez toi, je sais bien que je n'ai pas besoin de te recommander de te tenir en dehors de toute manifestation politique, mais on peut se laisser entraîner par des amis imprudents même par la simple curiosité et devenir victime d'une démarche inconsidérée, le danger peut tout à coup se rencontrer dans le lieu où l'on se croyait le plus en sûreté.</p>
+        <p>Ainsi encore une fois reste chez toi et donne-nous immédiatement de tes nouvelles et s'il y a du danger écris-nous tous les jours.</p>
+        <p>J'ai déjà un reproche bien sérieux à te faire : pourquoi restes-tu si longtemps sans nous écrire? de semaine en semaine on croit recevoir une lettre. Il en faut une au retour du courrier.</p>
+        <p>Nous t'embrassons tous comme nous t'aimons.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              <signature>PASTEUR.</signature>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

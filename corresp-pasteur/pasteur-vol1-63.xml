@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
+          <date when="[Août 1852.] Mon cher père, Je n'ai pas été compris dans les promotions pour les décorations. J'en ai été fort surpris et M. Biot tout autant que moi. Il m'avait dit, quelques jours avant, que M. Dumas à qui il avait parlé de moi pour cette affaire lui avait répondu : Ce serait bien malheureux si au 15 août je n'avais pas assez de crédit pour la lui faire donner." resp="">[Août 1852.] Mon cher père, Je n'ai pas été compris dans les promotions pour les décorations. J'en ai été fort surpris et M. Biot tout autant que moi. Il m'avait dit, quelques jours avant, que M. Dumas à qui il avait parlé de moi pour cette affaire lui avait répondu : Ce serait bien malheureux si au 15 août je n'avais pas assez de crédit pour la lui faire donner.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Août 1852.] Mon cher père, Je n'ai pas été compris dans les promotions pour les décorations. J'en ai été fort surpris et M. Biot tout autant que moi. Il m'avait dit, quelques jours avant, que M. Dumas à qui il avait parlé de moi pour cette affaire lui avait répondu : Ce serait bien malheureux si au 15 août je n'avais pas assez de crédit pour la lui faire donner."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Août 1852.] Mon cher père, Je n'ai pas été compris dans les promotions pour les décorations. J'en ai été fort surpris et M. Biot tout autant que moi. Il m'avait dit, quelques jours avant, que M. Dumas à qui il avait parlé de moi pour cette affaire lui avait répondu : Ce serait bien malheureux si au 15 août je n'avais pas assez de crédit pour la lui faire donner.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Hier à l'Institut M. Biot a parlé à M. Dumas et de ma Position et de la décoration. Quant à ma position il a dit a M. Biot : « Je ne veux pas qu'on m'en parle. J'en fais mon affaire. Pour la décotation je croyais que c'était fait. Le Ministre ne m'a pas consulté. Je croyais l'être. »</p>
+        <p>D'ailleurs tu sauras qu'il n'y a pas un seul individu s'occupant de sciences qui ait été décoré : ni mathématicien, 111 physicien, ni chimiste, ni naturaliste. C'est vraiment ridicule. Il n'a présenté que quelques administrateurs et gens qu'il a connus dans les villes où il a été professeur.</p>
+        <p>M. Biot a dit à M. Dumas : « Puisqu'il n'y a aucune domination dans les sciences il me semble que ce serait Une occasion pour vous d'écrire directement au Président. »</p>
+        <p>M- Dumas n'a pas rejeté cette idée.</p>
+        <p>Il ne faut pas trop s'étonner que M. Dumas ait attendu que le Ministre lui demandât conseil. Ces messieurs traitent de puissance à puissance et on dit d'autre part que M. Du-</p>
+        <p>mas pourrait bien être nommé ministre à la place de M. Fortoul, le ministre actuelx.</p>
+        <p>Je regrette beaucoup ce retard à cause de toi et à cause de Marie. Pour moi je suis très consolé et j'espère bien que M. Dumas songera mieux à moi pour ce qui est de notre position. a Marie et les enfants vont très bien. Jeanne a fait de grands progrès.</p>
+        <p>Marie et moi nous avons été voir ta cousine F. Pasteur.</p>
+        <p>Elle nous a dit quelque chose qui nous a fait beaucoup de peine puisque cela retarde beaucoup son départ. Elle t'avait dit et elle avait dit à la sœur supérieure de lui répondre avant le 14 août. Toi tu as écrit et elle a reçu ta lettre, mais elle n'a pas reçu celle de la sœur. Or elle n'a pas pu donner congé de son logement, parce que la limite était le 14 août à midi. Elle dit qu'elle ne peut partir au plus tôt qu'au mois de janvier.</p>
+        <p>J'y retournerai avec Marie afin de la maintenir dans la disposition de partir. Car il est déjà étonnant que quelque confesseur ne l'ait pas détournée de ce voyage.</p>
+        <p>Adieu. Donne-moi des nouvelles d'Emilie qui je crois gagnerait beaucoup en santé si elle maigrissait.</p>
+        <p>Adieu. Porte-toi mieux et dis-nous que tu n'as plus de maux de tête. Je me porte mieux depuis que je travaille moins.</p>
+        <p>L. PASTEUR.</p>
+        <p>Virginie et ses enfants se portent-ils bien? Dis-lui que nous nous portons tous très bien.</p>
+        <p>J.-B. BIOT A PASTEUR.</p>
+        <p>[Paris 21 août 1852.] Pour remettre à M. Pasteur, dès qu'il rentrera: Mon cher Ami, Si vous rentrez ici, avant d'aller dîner, je vous prie de venir chez moi, et de m'y attendre, si je n'étais pas rentré, ayant quelque chose d'agréable à vous dire pour vos travaux.</p>
+        <p>Si vous ne rentrez ici que ce soir, je vous prie d'être chez moi demain à huit heures du matin, avec vos produits s'il est Possible. M. Mitscherlich 1 et M. Rose 2 s'y rendront à neuf heures pour les voir. Ils voulaient venir vous chercher ici, mais je les en ai empêchés, prévoyant qu'ils ne vous trouveraient pas. D'ailleurs il vous en reste en haut qu'il serait bon de leur montrer d'abord, comme ils en ont témoigné le désir.</p>
+        <p>Vous établirez tout cela dans mon salon, et vous seul en feriez les honneurs après mon départ, s'il a lieu avant qu'ils arrivent.</p>
+        <p>Cette complaisance de votre part sera pour eux une marque de politesse qu'ils méritent bien car indépendamment de leur Mérite ils ont une grande estime pour vous.</p>
+        <p>Votre ami, J.-B. BIOT.</p>
+        <p>d 2. Gustave Rose (1798-1873), professeur de minéralogie a l'Université de Berlin.</p>
+        <p>A J.-B. BIOT.</p>
+        <p>[21 août 1852.] Monsieur, MM. Mitscherlich et Rose sont arrivés à 10 heures 1/4 et ne m'ont quitté qu'à 12 heures 1/2. Ils ont pris beaucoup de notes. Mais la monnaie que je leur ai donnée en argent ils me l'ont rendue en or en m'assurant qu'un fabricant de Saxe dont j'ai le nom et l'adresse obtient de l'acide racémique 1. M. Mitscherlich pense (c'est l'opinion du fabricant) que les tartres viennent de Trieste. Cette grande nouvelle m'a mis en émoi et j'ai formé le projet, que j'accomplirai quoi qu'il arrive, de partir le plus tôt possible pour visiter la fabrique, étudier sur place les tartres, et si je le juge nécessaire aller à Trieste.</p>
+        <p>Je suis persuadé que vous m'encouragerez dans cette résolution. Il est impossible d'éclairer une telle question par lettres et par envoi de produits dont l'origine sera toujours douteuse. Il faut que je suive ces tartres jusqu'à leur source, que j'étudie l'espèce de raisins qui les fournit, les fruits acides du pays, l'espèce d'acide malique de ces fruits, etc. Mais dois-je accomplir ce voyage à mes frais?</p>
+        <p>Mme Pasteur s'y oppose avec raison. Depuis quatre ans nous avons un traitement de 2.750 fr. Chaque année nous avons dépensé plus de 2.000 frs en sus de ce traitement, ce que vous comprendrez sans peine. Si je vais à Trieste mon voyage me coûtera peut-être 1.000 frs. C'est pour notre jeune ménage, déjà si fort grevé, une somme trop considérable. Je viens donc vous prier d'avoir l'extrême bonté d'écrire à M. Dumas afin qu'il intervienne auprès du ministre et de l'Académie et que je puisse sans frais extraordinaires aller étudier sur place cette importante question toute française et que la France doit tenir à honneur de voir résolue par un de ses enfants. Qui sait ce qu'elle recèle</p>
+        <p>et tout ce qu'elle peut fournir de résultats utiles à la science?</p>
+        <p>Le temps presse et je crains les lenteurs de l'administration. La saison des raisins est déjà bien avancée mais je trouverai parmi ceux-ci des retardataires qui me seront très utiles je crois. C'est dans les raisins verts surtout que les acides tartrique et malique dominent.</p>
+        <p>J'ai pensé à m'adragser directement au Président de la République comme moyen extrême si je ne réussis pas ailleurs. J'attendrai votre réponse avec impatience. Je pense que lorsque j'aurai communiqué mon projet à MM. Mitscherlich et Rose ils me donneront volontiers une ettre pour le fabricant qui est leur ami.</p>
+        <p>J.-B. BIOT A PASTEUR.</p>
+        <p>Auxerre, le 22 août 1852.</p>
+        <p>Mon cher Ami, Je suis arrivé ici, sans inconvénient. Mais, pendant la route j'ai réfléchi que j'avais oublié de vous recommander de m'écrire le résultat de votre conférence d'hier : d'abord, si MM. Mitscherlich et Rose sont venus, comme ils l'avaient promis; puis, comment tout s'est passé entre vous, et quel jugement ils ont porté de vos curieux produits. Je vous prie de me mander tout cela en détail, au reçu de cette lettre, sans rien omettre de ce qu'ils peuvent vous avoir montré de sentiments favorables.</p>
+        <p>Car, de vous à moi, il n'y a pas de réserve modeste à avoir, Puisque tout le bien qu'on peut penser de vous n'égalera jamais celui que je sais, et que je désire que l'on vous témoigne.</p>
+        <p>C'est donc me faire plaisir que de me le raconter; et, en prenant la chose dans ce sens, vous concevrez que vous ne pouvez pas être trop explicite.</p>
+        <p>Votre ami, » J.-B. BIOT.</p>
+        <p>P.-S. — Je m'aperçois que j'ai écrit ces lignes sur le revers de la feuille, au lieu d'écrire sur le recto. Mais les sentimens que je vous y exprime n'en sont pas moins vrais, et n'ont pas besoin d'être enveloppés de cérémonie.</p>
+        <p>Dites aussi à M. Chautard qu'il n'oublie pas de m'écrire après qu'il aura soutenu sa thèse, ainsi qu'il me l'a promis.</p>
+        <p>J.-B. BIOT A PASTEUR.</p>
+        <p>Atucerre, le 23 août 1852.</p>
+        <p>Mon cher ami, Vous avez prévenu mes vœux en m'écrivant. Je comprends vos espérances et je m'y associe de grand cœur. Mais ma vieille raison ne me laisse pas confondre le certain avec le problématique, le moineau en main et la grue qui vole, comme dit le proverbe espagnol.</p>
+        <p>, Le certain, et, à mon avis le point capital pour vous, c'est que deux hommes tels que Mitscherlich et Rose ont passé avec vous plus de deux grandes heures à étudier vos produits et à prendre des notes s'y rapportant. La réflexion ne fera que fortifier en eux la bonne opinion qu'ils ont dû en concevoir. Ils -ne manqueront pas d'en parler ici à nos savants, et à ceux de Berlin à leur retour. Voilà qui est acquis pour vous, ce qui ne peut manquer de vous faire un grand bien.</p>
+        <p>Quant à l'espoir d'arriver à la source de l'acide racémique, il faut sans doute y attacher une grande importance. Mais la marche à suivre pour réaliser cet espoir me paraît toute contraire à celle que votre ardeur vous indique. Loin d'ébruiter vos projets, il faut les cacher, et en préparer l'accomplissement avant de demander qu'on les seconde.</p>
+        <p>Voilà mon avis et mon conseil.</p>
+        <p>La première chose que vous avez à faire, c'est d'écrire au fabricant de Saxe, pour lui exposer votre bon tour scienti- fique, et lui demander qu'il veuille bien consentir à vous laisser voir ses matériaux et ses opérations. Il est fort possible qu'il vous refuse, c'est son intérêt, et l'esprit du métier.</p>
+        <p>M. Wertheim avait acheté, chez un détaillant, des morceaux d'alun non lamellaire, qui présentaient des phénomènes de masse extrêmement curieux. Cet homme n'a jamais voulu lui indiquer la fabrique d'où il les tirait. Moi-même quand je m'occupais de la construction des objectifs astronomiques, j'ai demandé aux successeurs de Frauenhoffer de m'indiquer</p>
+        <p>ce qu'ils savaient de lui, sur le choix des courbures auxquelles l'avait conduit l'expérience; ils s'y sont bêtement refusés. C'est là l'esprit du commerce. Il faut donc avant tout savoir si le fabricant de Saxe veut, ou ne veut pas vous laisser voir ses procédés. S'il y consent, le voyage jusqu'à lui sera une petite affaire et il n'est pas nécessaire d'émouvoir pour cela le gouvernement et l'Académie. Je vous fournirai volontiers un billet de cinq cents francs pour votre voyage.</p>
+        <p>Ce point exposé, il vous dira d'où il tire ses tartres. Mitscherlich suppose qu'ils viennent de Trieste; soit, mais Trieste est une ville de commerce, qui n'est pas située dans un pays de vignobles. Les plus voisins, ceux de Hongrie, en sont encore bien loin : il peut se faire que ces tartres viennent des isles de la Grèce, ou du Levant. Dans cette éventualité vous iriez futilement à Trieste. La suite immédiate du voyage de Saxe serait donc d'écrire à la maison de Trieste qui fournit les tartres, pour la prier de vous en indiquer la provenance. Si elle la déclare, c'est alors, et seulement alors qu'il sera convenable de vous adresser au gouvernement. Ses appuis rie vous manqueront pas.</p>
+        <p>Si vous faites d'abord des démarches publiques, avant d'avoir assuré vos voies de recherche, ces voies se fermeront au lieu de s'ouvrir, et vous aurez fait du bruit pour rien. Ce sera pour vous une perte de temps, et un discrédit. Je prévois bien que, par le chemin que je vous indique, vous n'arriverez Pas cette année à votre but. Mais si vous pouvez vous assurer les moyens d'y atteindre l'année prochaine, ce serait beaucoup d'obtenu.</p>
+        <p>Voilà, mon cher ami, ce que me suggère mon amitié pour vous, et mon intérêt pour vos travaux. Mes raisonnemens vous paraitront peut-être bien froids, comparativement à l'acuité de vos désirs. Mais si les espérances vivement conçues Plaisent à l'imagination, la réalité qui les déconcerte fait payer cher les illusions de succès qu'elles avaient fait briller dans es premiers momens. Gardez-vous de lâcher la proie pour courir après l'ombre; et commencez par jouir pleinement Aujourd'hui des succès que vous avez mérités.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              <signature>Votre ami, J.-B. BIOT.</signature>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

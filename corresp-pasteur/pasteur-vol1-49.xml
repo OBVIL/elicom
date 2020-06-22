@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Louis Pasteur</title>
+        <author>Louis Pasteur</author>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
+          <date when="[Fin octobre 1849.] Mon cher papa, J'ai reçu aujourd'hui le rapport de M. Biot par le compte rendu de la séance du 22 octobre 1. C'est à la fin de la semaine seulement que je pense en recevoir cent exemplaires et que je pourrai vous en envoyer quelques-uns." resp="">[Fin octobre 1849.] Mon cher papa, J'ai reçu aujourd'hui le rapport de M. Biot par le compte rendu de la séance du 22 octobre 1. C'est à la fin de la semaine seulement que je pense en recevoir cent exemplaires et que je pourrai vous en envoyer quelques-uns.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="[Fin octobre 1849.] Mon cher papa, J'ai reçu aujourd'hui le rapport de M. Biot par le compte rendu de la séance du 22 octobre 1. C'est à la fin de la semaine seulement que je pense en recevoir cent exemplaires et que je pourrai vous en envoyer quelques-uns."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>[Fin octobre 1849.] Mon cher papa, J'ai reçu aujourd'hui le rapport de M. Biot par le compte rendu de la séance du 22 octobre 1. C'est à la fin de la semaine seulement que je pense en recevoir cent exemplaires et que je pourrai vous en envoyer quelques-uns.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ce rapport très étendu est des plus favorables. Je vais transcrire seulement les dernières lignes : « M. Pasteur promet de suivre ces recherches par des investigations nouvelles et nous pouvons tout attendre de sa persévérance comme de sa sagacité.</p>
+        <p>o L'Académie voit que ce travail de M. Pasteur est la continuation à la fois intelligente, habile et patiente de celui qu'il a présenté il y a précisément une année. Comme * nous l'avons dit au commencement de notre rapport, ceci est tout un chapitre nouveau de chimie que M. Pasteur a eu le bonheur, ainsi que le talent de commencer et de finir.</p>
+        <p>Nous le signalons unanimement à l'Académie comme très digne de figurer dans le recueil des savants étrangers.</p>
+        <p>« Sur la proposition unanime de la commission l'Académie arrête qu'un exemplaire du rapport sera adressé de - sa part à M. Kestner de Thann. »</p>
+        <p>M. Kestner est un habile industriel de Thann, représentant à l'Assemblée constituante, qui a bien voulu, ainsi que je te l'ai dit, me faire cadeau de 3 kil. d'acide racémique, acide découvert par lui dans sa fabrique en 1820. Je lui avais promis de signaler à l'attention des savants sa bienveillance et son désintéressement. Je l'ai fait dans mon travail et M. Biot l'a fait également dans son rapport ainsi que vous le verrez bientôt.</p>
+        <p>Tout le monde ici, à commencer par M. Laurent, a pleuré de joie en recevant et en lisant le rapport de M. Biot. Vous serez encore plus heureux que nous.</p>
+        <p>Si tu as vu quelque chose dans le National, mon cher papa, aie la bonté de me l'écrire. Le rapport a quatorze pages des comptes rendus.</p>
+        <p>Adieu tous, je vous embrasse de bon cœur.</p>
+        <p>L. PASTEUR.</p>
+        <p>P.-S. — Que Joséphine prenne les plus grandes précautions.</p>
+        <p>L'hiver commence. Il fait ici très froid déjà.</p>
+        <p>Rien n'est encore décidé sur le jour où nous commencerons le cours. Les examens commenceront le 5, jour de la rentrée.</p>
+        <p>Il paraît à peu près certain que j'aurai encore l'École de pharmacie cette année. Je ne pourrai pas faire grand'chose cet hiver au laboratoire.</p>
+        <p>A CHAPPUIS.</p>
+        <p>Strasbourg, 23 novembre 1849.</p>
+        <p>Ce que tu m'écris au sujet du rapport de M. Biot m'a fait plaisir. Postérieurement à ce rapport, M. Dubois m'a écrit pour me dire qu'on lui avait proposé pour moi la place de répétiteur de chimie à l'École polytechnique. M. Dubois ne m'engageait pas trop à accepter; il penchait au contraire pour un refus de ma part. Mais il me faisait pourtant valoir les raisons pour : que c'était Paris, la chance d'une chaire de professeur à cette École, d'une suppléance à la Sorbonne, qu'enfin l'avenir s'offrait séduisant, que c'était par là qu'avaient commencé les chimistes haut placés. J'ai préféré rester franchement dans l'Université et attendre pour retourner à Paris dans quelques années, si cela est possible.</p>
+        <p>Je crois d'ailleurs le travail en province meilleur, plus solide que celui de Paris pour un jeune homme.</p>
+        <p>Tout le monde ici a été en effet très heureux à la lecture du rapport et personne ne l'a cédé à Marie.</p>
+        <p>M. Kestner m'a écrit pour me remercier et pour me dire qu'il était prêt à essayer en grand les expériences que je lui indiquerais pour la reproduction de l'acide racémique.</p>
+        <p>Je cherche en ce moment quelle circonstance fortuite a Pu lui donner naissance dans la fabrique de Thann; et j'ai écrit à M. Kestner ce que je pensais qu'il y avait à faire.</p>
+        <p>Jusqu'ici je n'ai aucun résultat.</p>
+        <p>[Probablement 1849.] Ma chère Joséphine, Je t'en prie : ne te chagrine pas sur ta position. Tu es dans une mauvaise crise mais qui passera. Il est certain que tu as un poumon malade, mais tu sais que l'on vit très bien avec un seul poumon, et du côté gauche tu n'as pas de mal du tout.</p>
+        <p>Il me tarde bien de te revoir, ma chère Joséphine, ainsi que le papa si bon pour nous.</p>
+        <p>Adieu, ma chère Joséphine, un peu de courage. Ton frère qui t'aime et t'embrasse de tout son cœur. Je te rapporterai beaucoup de billets de la fameuse loterie des Lingots d'or..</p>
+        <p>Un des lots est de 400 mille francs.</p>
+        <p>L. PASTEUR.</p>
+        <p>1850 Pasteur poursuit ses recherches sur la relation entre la composition chimique, la forme cristalline et le Phénomène de la polarisation rotatoire. - Mort de sa soeur Joséphine à Arbois.</p>
+        <p>A CHAPPUIS.</p>
+        <p>Strasbourg, 9 lévrier 1850.</p>
+        <p>J'ai été presque obligé de conserver le cours de chimie de l'Ecole de pharmacie. Personne ne pouvait s'en charger ici et il eût été difficile de trouver quelqu'un à Paris, parce que c'est une suppléance. Le Directeur m'a tant prié de continuer que j'ai accepté, avec regret. Ces quatre leçons Par semaine absorbent tout mon temps. Je n'ai que peu d'instants à consacrer à mes travaux. Cependant j'ai plusieurs recherches en train et je compte présenter un mémoire Inportant aux vacances. J'ai trouvé des faits curieux que j'ai communiqués dernièrement à M. Biot. Mais il me faut un assez long temps pour que mon travail soit complètement achevé. Si toutes mes prévisions se réalisaient, je crois que la chimie serait transportée sur un terrain tout nouveau, dont personne n'a idée, mais qui se rattache à mes deux derniers mémoires.</p>
+        <p>J.-B. BIOT A PASTEUR.</p>
+        <p>Paris, le 7 mai 1850.</p>
+        <p>Mon cher ami, j'aime mieux vous appeler ainsi que de vous appliquer un froid Monsieur : cela m'est plus commode et plus agréable.</p>
+        <p>Suivez infatigablement cette belle voie de recherches, dans laquelle vous êtes, sans vous en laisser détourner par rien.</p>
+        <p>J'ai beaucoup grondé M. Laurent de vous avoir chargé du cours de pharmacie ou d'avoir souffert qu'on vous en chargeât.</p>
+        <p>Un seul cours de chimie, à votre Faculté, est pour votre esprit un bon et utile exercice en le tenant occupé sur l'ensemble de la science; mais un second cours est de trop. C'est une perte de temps et de force, sans profit futur. Ayez les yeux sur l'avenir. Votre but principal, unique, ce doit être de ne quitter Strasbourg que pour l'Institut. Sacrifiez toutes les occupations du dehors à cette pensée fixe. Votre cours de chimie, vos recherches, vos jouissances de famille, voilà tout ce qui doit employer et partager votre temps. Le reste serait une perte et un retard. Vous n'aurez jamais de votre vie autant d'éléments de succès et de bonheur que vous en avez actuellement.</p>
+        <p>Profitez de ces années-là pour développer vos facultés intellectuelles, et fonder votre réputation sur une continuité incessante de travaux actifs. Voilà les vœux que je forme pour vous et que je vous prie de faire agréer pour moitié à Madame Pasteur. Nous la remercions bien, ma femme et moi, du souvenir qu'elle nous accorde, et nous le lui rendons sincèrement.</p>
+        <p>J.-B. BIOT.</p>
+        <p>A. M. OPPERMANN, DIRECTEUR DE L'ÉCOLE DE PHARMACIE.</p>
+        <p>Strasbourg, 8 mai 1850.</p>
+        <p>Monsieur le Directeur, J'ai reçu hier matin de mauvaises nouvelles de l'état de ^•nté d'une de mes sœurs 1. Je me propose de partir aujourd'hui pour Arbois et je viens vous prier de vouloir bien demander pour moi à M. le Recteur un congé de huit jours.</p>
+        <p>Je l'abrégerai si je le puis.</p>
+        <p>Votre très humble et très dévoué serviteur, L. PASTEUR.</p>
+        <p>J.-B. BIOT A PASTEUR.</p>
+        <p>Paris, le 15 juin 1850.</p>
+        <p>Mon cher ami, Je m'empresse de répondre à votre lettre du 11 courant.</p>
+        <p>¡ne contient deux ordres de questions : Les premières scienfiques, je les traiterai d'abord; les dernières politiques ou Plomatiques, j'y reviendrai après.</p>
+        <p>J arrive à la question diplomatique. Qu'il [Balard] a ban°nne l'École normale après avoir été nommé au Collège de prance, cela est certain. Lui-même me parlait de vous, et aussi u grand nombre de compétiteurs 2. Je n'ai énoncé devant lui cune opinion sur ce point, n'ayant aucun droit de le faire, ais, à vous, puisque vous me demandez mon avis, je vais Olls le dire certainement, sans hésiter.</p>
+        <p>Je regarderais la tentative de votre part comme un mauvais</p>
+        <p>Joséphine Pasteur.</p>
+        <p>M. POur la place de maître de conférences à l'École normale, en remuement de Balard.</p>
+        <p>calcul; et le succès, non pas comme un avantage, mais comme un malheur.</p>
+        <p>Vous aurez d'abord le travail de la lutte qu'il faut mettre en ligne de compte et en balance avec le profit. Parmi les nombreux concurrents vous trouverez Persoz qui fait en ce moment le cours à la Sorbonne, comme suppléant, et qui meurt d'envie de se caser à Paris quelque part. Quel bien cela vous fera-t-il de l'en empêcher, ou même de vous présenter à son esprit comme un obstacle? Laissez-lui suivre sa pente, l'idée ne lui viendra point de retourner à Strasbourg. Alors, qui y restera, si ce n'est vous? par vos travaux, vos liaisons, votre exactitude à bien faire le cours de la Faculté, cette position vous est assurée, aussi longtemps qu'elle vous agréera. Je n'al pas besoin de vous en faire sentir les avantages. Vous m'avez paru les bien comprendre. Comparez donc les résultats des deux suppositions, être là, ou ici, en ce moment. A Strasbourg, vous suivez vos travaux librement, dans une profonde pal" d'esprit et de cœur; surtout, j'y mets cette condition expresse, surtout si vous résistez efficacement à toute autre charge, en dehors du cours de chimie. Alors, vous continuez à vous distinguer par votre persistance au travail, par la nouveauté, la netteté de vos recherches. Vous faites votre nom et votre place parmi les chimistes, et vous acquérez des droits à tout ce qui surviendra dans l'avenir. J'ajoute à cela le bonheur singulier de rester avec votre jeune femme dans la douceur et la sécurité de votre famille d'adoption. Supposez vous * Paris, ce sera tout autre chose. Vous serez nécessairement ruele et enfourné dans toutes les intrigues scientifiques. Aux idéeS qui vous sont propres, et que vous suivez exclusivement dans la solitude, il faudra associer celles qui viendront vous assau lir sur toutes sortes de sujets. Il faudra enfin donner une bonne portion de votre temps à votre jeune femme que vous ne pouvez pas vouer à l'austérité d'une retraite sans distractlOn.</p>
+        <p>Comptez tout cela, mon cher ami, et vous ne voudrez paS échanger le certain pour l'incertain, la paix contre le troubi » la sécurité contre le hasard.</p>
+        <p>Recevez l'expression de toute mon amitié.</p>
+        <p>P.-S. — M. Regnault à qui j'ai parlé vaguement, et comme de moi-même, de la question de l'École normale, s'en trouve être, pour ce qui vous concerné, exactement dans la même opinion que je viens de vous présenter et précisément par les blêmes motifs.</p>
+        <p>A CHAPPUIS.</p>
+        <p>[Strasbourg, juillet 1850.]</p>
+        <p>Je suis bien de ton avis sur notre pauvre Université. Leur fameuse loi 1 est très habilement conçue pour la déconsidérer, l'avilir autant que possible. Les Recteurs vont être les valets des Préfets. L'Université est pauvre. Elle se soumettra à toutes les exigences de ces profonds politiques qui ne savent que destituer.</p>
+        <p>M. Laurent n'a pas assez provoqué de destitutions d'instituteurs et de professeurs dans ce département du BasRhin, l'effroi du pouvoir, et pour cette raison il est menacé d'un changement presque inévitable. Aussi avons-nous déjà lOué un logement que nous irons habiter à la fin de juillet.</p>
+        <p>Il se pourrait que mon titulaire, M. Persoz, fût nommé Prochainement à Paris. M. Balard quittera l'École pour le Collège de France où il sera nommé très probablement à la Place de M. Pelouze démissionnaire 2. La place de l'École est demandée par MM. Persoz, Malaguti 3, Cahours 4. J'ai écrit à mon vénérable protecteur, M. Biot, pour lui demander si je ferais bien de me mettre aussi sur les rangs. Il m'a tout à fait dissuadé, et c'était mon avis. Je n'aurais hésité</p>
+        <p>r 3. François Malaguti (1802-1878), chimiste, d'origine italienne, naturalisé français.</p>
+        <p>qu'autant que M. Biot, pour mon avenir scientifique, m'aurait engagé à faire des démarches. Je ne puis te dire, mon cher ami, quel bon conseiller j'ai dans M. Biot, quel intérêt il me porte. Quand tu seras ici, je te montrerai ses lettres pleines d'affection et de bons conseils. Je suis trop heureux d'avoir ainsi l'estime et l'amitié d'une si belle intelligence et d'un si beau caractère.</p>
+        <p>J'ai eu le tort d'accepter cette année le cours de l'École de pharmacie outre celui de la Faculté. Aussi ai-je trop peu de temps pour continuer mes recherches. J'attends avec impatience la fin de l'année scolaire (la fin de juillet); je compte n'aller à Paris présenter un travail qu'à la fin d'octobre, et travailler jusqu'à cette époque, sans désemparer. Car j'ai beaucoup à faire et je crois toujours à de grandes découvertes. En ce moment je prépare des matériaux. J'ai du travail pour des années entières, sans qu'il me vienne d'idées nouvelles.</p>
+        <p>M. de la Provostaye 1 est venu hier à ma leçon. Il m'a ôté un peu d'énergie; j'aurais pu mieux faire. Cependant il a dit à M. Ozaneaux, en présence de M. Laurent, qu'il venait de mon cours et que, pour la forme comme pour 1 le fonds, j'avais été véritable professeur de Faculté. J'al acquis nécessairement l'habitude d'enseigner et, lorsque l'année prochaine je n'aurai plus que mes deux leçons par semaine à la Faculté, ces leçons étant déjà préparées, Je serai tout entier à mon laboratoire et j'ai beaucoup d'espoir d'y faire de belles choses en poursuivant la voie d'études que j'ai créée tout entière par mes deux derniers travaux 2Plus je pense à ma découverte plus je la trouve féconde.</p>
+        <closer>
+          <salute></salute>
+          <signed>
+            <name>
+              <signature>Que n'es-tu professeur de physique ou de chimie! Nous travaillerions ensemble et dans dix ans nous aurions bouleversé la chimie. Il y a des merveilles sous la cristallisation et par elle la constitution intime des corps sera un jour dévoilée. Si tu viens à Strasbourg, tu seras chimiste maIgre toi. Je ne te parlerai que cristaux.</signature>
+            </name>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
