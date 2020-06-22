@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Péronne, 21 octobre 1809." resp="">Péronne, 21 octobre 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu Au Grand-Lemps. (...-...)">A monsieur Aymon de Virieu Au Grand-Lemps.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Péronne, 21 octobre 1809."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Péronne, 21 octobre 1809.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Vive le courage, la résolution, la constance, mon cher ami, tout les seconde ! Quand un parti est bien pris courageusement, il réussit toujours, selon nos principes. Je reçois ta lettre hier matin, je me désole, je me désespère : il partira sans que je le voie, nous serons trois ou quatre ans sans nous être vus, il m'oubliera, il se refroidira, et cependant il m'est impossible d'aller le trouver. Je suis forcé de partir pour Dijon, puis de faire les vendanges de mon père, et puis d'aller en Charollais, etc., etc. — En faisant mes tristes soliloques, je vins hier coucher ici chez une de mes tantes, je passai la soirée bien tristement, et je me mis, avant de me coucher, à lire René au coin de mon feu. Jamais je n'ai pu le lire sans pleurer, et j'y étais encore plus disposé que de coutume : je m'en donnai à coeur joie ; puis vinrent les réflexions tristes sur la vanité de nos projets, de nos désirs, l'instabilité des circonstances, le peu de bonheur qu'on peut goûter ici, la folie de ne pas bien vite saisir tout ce qui s'offre de consolant et doux ; tout cela m'amena à mon sujet du matin qui était ta lettre. Je la relus et je me dis mille injures à moi-même d'avoir pu hésiter une minute à partir malgré tous les risques, toutes les chances, toute l'imprudence d'un tel voyage. Folle prévoyante que tu es, disait ma Bête à l'Autre, force tous les obstacles, c'est là le cas. Montre que u as du coeur et que tu sais vouloir. Voilà quinze jours, un mois de bonheur, qui s'offrent sans retour peut-être. Saisis-les vite !</p>
+        <p>A tes vieux jours, même, il t'en souviendra !</p>
+        <p>CLOTILDE.</p>
+        <p>Hélas ! c'est peut-être les derniers jours heureux qui te sont donnés, tu t'en repentiras peutêtre, mais n'importe !</p>
+        <p>Heureux qui peut se repentir, Car il eut certes du plaisir !</p>
+        <p>Je me suis couché dans ces douces pensées et en m'encourageant moi-même à tout faire pour obtenir seulement la permission de partir. Mon parti était pris ce malin en me levant. Tout occupé de mon idée, je suis venu déjeuner tête à tête avec ma tante. — « Quand pars-tu pour le Charollais ? m'a-t-elle dit. — Je ne sais pas trop, j'ai un autre voyage' en tête qui me plairait bien davantage ; mais je prévois qu'il sera difficile à obtenir. — Et quel voyage ? — Un voyage en Dauphiné, chez M. de Virieu qui va à Paris à la fin de novembre et que je serai peut-être bien longtemps sans revoir ! — Ah ! je conçois que lu aurais bien plus de plaisir à aller voir ton ami qu'une simple connaissance, mais pourquoi t'en empêcherait-on ? — Pour beaucoup de petites raisons, et on m'objectera surtout la folie de dépenser le peu d'économies que j'ai pour mon instruction de cet hiver. — Combien cette petite course le coûterait-elle donc ? — Deux ou trois louis, tout au plus. — Ah ! s'il n'y a que cet empêchement-là, tiens, je veux le lever, voilà l'argent ; tu diras que je te l'ai donné à cette intention afin qu'on t'accorde plus aisément la permission de départ. »</p>
+        <p>Bénie sois-tu, tante, la meilleure, des tantes! Que tous les malheureux neveux de la terre fassent un concert de louanges en ton honneur, et que tous mes amis te bénissent comme moi ! et que nous disions bientôt tous ensemble : Domine, salvam fac ma tante !</p>
+        <p>Je vais ce soir à Mâcon, demain à Milly, solliciter, supplier, obtenir, et je t'écrirai dans deux jours la fin de tout cela. Écris-moi vite quand partira Guichard, mais ne sois pas surpris si j'arrive impromptu chez toi. Je crains seulement d'abuser de la bonté de tes parents. — Je t'écris dans une petite bibliothèque bien de mon goût à Péronne, entre Voltaire, Chateaubriand et autres. C'est un endroit qui ressemble un peu à Lemps. Je l'aime à cause de cela. Adieu, mon cher ami, je me porte un peu mieux; mais point de Paris pour moi, point de ressources, point de voyage, le chagrin me ronge et me mine plus que mon mal de poitrine. Oh ! que je forme de bizarres, de hardis projets ! Oh ! que j'ai besoin d'être quelque temps avec toi !</p>
+        <p>Vous, amis, qui voyez le destin qui m'accable, Daignez être aujourd'hui les maîtres de mon sort ! Est-il quelqu'un de vous d'un esprit assez fort, Assez stoïque, assez au-dessus du vulgaire, Pour oser décider ce que Brutus doit faire?</p>
+        <p>(Brutus, Trag.)</p>
+        <p>Adieu donc, encore une fois adieu, j'espère pour bien peu de temps ; cependant rien de certain encore. J'ai peur d'être bien sot, bien ennuyeux pour les gens qui ne sont pas mes amis. Je dis bien moins que toi ce que je voudrais dire, mais n'importe,</p>
+        <p>L'amitié me suffit, tout le reste n'est rien !</p>
+        <p>ALPH. DE LAMARTINE.</p>
+        <p>Comment s'appelle le village le plus près de Lemps sur la grande route où passe la diligence ? J'y descendrai, si je ne vais pas par Crémieu, ce qui n'est pas vraisemblable, car Guichard m'invite bien fort, et j'ai bien envie de nous voir réunis tous trois au moins quelques jours.</p>
+        <p>Écris-moi tout de suite.</p>
+        <closer>
+          <salute></salute>
+          <signed>Sublimi feriam sidera vertice !</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

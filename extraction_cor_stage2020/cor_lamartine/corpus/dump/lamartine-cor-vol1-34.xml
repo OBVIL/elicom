@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Mâcon, 4 août 1S09." resp="">Mâcon, 4 août 1S09.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu Au Grand-Lemps. (...-...)">A monsieur Aymon de Virieu Au Grand-Lemps.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mâcon, 4 août 1S09."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Mâcon, 4 août 1S09.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Tutto or or' mi troverai Su le labbra espresso il cor.</p>
+        <p>0 paresseux indigne, paresseux négligent, insouciant, indifférent, oublieux de toi et de tes amis, que ne m'as-tu écrit quinze jours, huit jours plus tôt ! Ta lettre m'aurait trouvé prêt à partir pour Lyon. J'y aurais toujours été, mais de là j'aurais pris l'équipage de pèlerin et j'aurais été te joindre et te prendre très-certainement, au lieu d'aller aux eaux de Charbonnières passer des journées agréables à la vérité; j'en aurais passé de délicieuses avec toi, au milieu de toutes nos pensées ardentes, sur les montagnes de la Chartreuse, avec Montaigne, Chateaubriand et Rousseau. Pouvaistu mieux choisir ton temps pour me proposer un voyage à pied, à moi qui viens de lire Jean-Jacques et ses Confessions et les descriptions ravissantes de ses courses pédestres? Nous aurions couché dans quelque grotte comme lui, nous y aurions laissé nos noms et des vers comme lui ! Oh ! quel coup ta lettre m'a porté quand j'ai vu tout cela manqué par notre faute! Je l'ai jetée par terre, j'ai juré, j'ai failli la déchirer, j'ai pleuré... Oui, j'ai pleuré, moi qui ne pleurais plus, un peu de regret de cette partie manquée, un peu en voyant la sympathie de nos peines, de nos idées, de nos tourments, de nos désirs, et ce feu sacré qui commence à te brûler comme moi, ces projets vagues, ces tristesses, cette paresse, cette vie au milieu de la mort (pour parler noblement). Oh! que ne suis-je vieux, vieux comme mon grand-père Laërtes — ou que n'ai-je seulement deux mille francs et la clef des champs!</p>
+        <p>Au lieu de cela, je suis sans le sou, sans société de mon goût, sans occupation assidue, sans espoir d'aucun avancement. On me fait tant de difficultés, tant de querelles pour ce pauvre malheureux cours de droit qu'on m'avail permis ! je vais être forcé d'y renoncer. Heureux, bien heureux si au lieu de cela j'obtiens cinquante ou soixante louis et la permission de les manger à m'instruire pendant l'hiver à Dijon ou ailleurs, et point encore à Paris. Si j'obtenais au moins de passer quelques mois à. Lyon et que tu ne fusses pas à Paris, nous devrions y prendre une chambre de moitié et des maîtres de grec et d'anglais et de basse de moitié, etc. Rêves-y pour cet hiver seulement.</p>
+        <p>Je n'ai rien contre Guichard, tant s'en faut qu'au contraire j'avais seulement paru craindre que sa belle passion ne nuisît un peu à notre amitié commune, voilà tout. Intùs et in cute. Je lui dois une lettre que mon voyage à Lyon a retardée. A propos de ce voyage, je m'y serais passablement désennuyé si tu y avais été, comme je l'espérais d'après deux lettres que tu avais dû recevoir de moi à ce sujet. J'ai vu Elleviou et Henri et madame Hervey et Vertpré et Laporte, l'Arlequin, et encore d'autres acteurs de Paris dont j'ai été vraiment content. Pour N... des Célestins, que tu as vu avec moi cet hiver, il est plus bête et plus plaisant que jamais. L'aimable Dupuis d'heureuse mémoire a eu l'honneur insigne de se battre avec lui pour une petite Houdart, actrice assez jolie. Que dis-tu de ce genre ? On en a fait du bruit, et ses camarades ne le voient pas beaucoup. Genin est encore mille fois meilleur garçon qu'il n'était : il n'y a qu'une voix de louange sur lui. Il est de la grande force sur la basse, et moi j'ai débuté l'autre jour ici dans un concert public, et j'ai fait des basses de symphonie à force, mais j'aurai bientôt poussé mon maître à bout. St-P. est devenu dévot, G. est un peu plus joli garçon et un peu plus froid qu'il n'était, B. est bien le fils gras, pas mal, M. comme un petit enfant de famille, L. et B. travaillent et ont fait d'assez jolies choses, à ce qu'on dit, etc., etc.</p>
+        <p>Depuis deux mois environ je n'ai pas fait un vers, tout est resté là. Mais je retrouve dans mon épître interrompue une histoire de chien, la voici :</p>
+        <p>Ce triste voyageur, père de Télémaque, Revenait inconnu dans la petite Ithaque; La main du temps avait flétri ses cheveux blancs, Son dos s'était courbé sous le poids de ses ans ; Au seuil de son palais sa voix jadis si fière Sollicitait en vain le pain de la misère : Un esclave l'insulte, et le froid courtisan Rit des discours sensés de ce gueux éloquent. Un vieux chien, comme Ulysse, abandonné peut-être. Sous ses tristes haillons a reconnu son maître ; Il s'approche, le flatte, et, seul ami constant, De joie et de douleur meurt en le caressant ! l. 10 Que ce chien, mes amis, nous donne un bel exemple! Le sage Égyptien l'eût honoré d'un temple; Chez le Grec moins sensible il n'a pu l'obtenir, Mais Homère le chante : il ne saurait mourir !</p>
+        <p>En es-tu content ? Je n'y louche plus. Je ne peux plus rien faire, je ne prends ma plume mal taillée que pour l'écrire, je m'ennuie, je dors. Sais-tu ce que je me propose de faire pour me désennuyer un peu (car je ne suis arrivé que d'hier au soir)? Je vais entreprendre des promenades de deux ou trois lieues, tous les soirs, à pied, à cheval, un livre dans ma poche, de la ville à la campagne, de la campagne à la ville. Nous avons bien spectacle, mais, entre nous, je n'ai pas à présent à moi un denier ; je me suis même passé de dîner hier dans la diligence à cause de cela ; ça m'a fait un certain plaisir, j'en étais tout fier et je ne l'ai pas dit cependant. Ce qu'il y a de pis, c'est que j'avais même rapporté de Lyon quelques petites dettes qu'un de mes oncles m'a heureusement mis dans le cas de payer ce matin, sans s'en douter. Je vais vite m'acquitter, et je ne garde rien pour moi. Si l'on se doutait que le peu d'argent qu'on me donne est employé à payer des dettes, je ne serais pas bon à pendre. Ne me demande donc plus de pourquoi, mais donne-moi de longues descriptions de ta course. Je te suis pas à pas, je te vois tantôt ici, tantôt là, ton crayon à la main, la cravate en ceinture ou bien autour de ton chapeau, ton habit sur ton dos, et Gorgo qui te suit en soufflant. J'oubliais la gourde en bandoulière, et le bâton et le livre. O Grillon, où étais-tu? Es-tu seul avec Lefèvre? Allons, écris-moi cela et quelques nouvelles de Grenoble. Mais adieu, je ne finirais pas. Je t'embrasse et t'aime de tout mon coeur. Crescit eundo.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

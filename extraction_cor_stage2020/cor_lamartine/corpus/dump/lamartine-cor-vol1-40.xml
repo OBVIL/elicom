@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Au Grand-Lemps." resp="">Au Grand-Lemps.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Au Grand-Lemps."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Au Grand-Lemps.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 15 septembre 1809.</p>
+        <p>Ma foi ! mon cher ami, je viens de faire une découverte ou plutôt une connaissance charmante. Il m'est tombé hier entre les mains un petit volume intitulé : Poésies de Marguerite Eléonore Clotilde de Surville. Ce sont des poésies gauloises dune femme jusqu'à présent inconnue, et dont les manuscrits, vrais ou faux, ont été récemment mis au jour. Je ne t'en parlerai pas de sang-froid, parce que je suis transporté. Comment ! dans un siècle de la plus profonde ignorance, une femme, qui ne sortit jamais de son châtel gothique, a-t-elle pu faire des choses qu'à mon avis ni Tibulle ni qui que ce soit ne pourrait trouver indignes de lui ? Tu trouveras infailliblemeut cela à Grenoble. Prends-le et lis ; mais, en attendant, je veux me donner le plaisir de t'en donner l'avant-goût. Une héroïde à Bérenger, son mari (jeune et beau chevalier qui suivait Charles VII), une vingtaine de rondeaux ou ballades, une espèce de poëme en quatre petits chants sur les saisons, des élégies, des stances et le conte des Trois plaids d'or, qui n'est autre que celui des trois manières de Voltaire, et qui a dans ce style naïf une grâce infinie ; voilà l'ouvrage. Tu jugeras de l'exécution de tout cela, mais je veux m'amuser à le citer un peu à tort et à travers ce qui m'a le plus fait de plaisir; l'embarras est de choisir. Écoute quelques stances adressées à son premier-né :</p>
+        <p>« Bel amy, cher petiot, que ta pupille tendre Gouste ung sommeil qui plus n'est fait pour moy !</p>
+        <p>Je veille pour te veoir, te nourrir, te defendre... Ainz qu'il m'est doulx ne veiller que pour toy !</p>
+        <p>Estend ses brasselets ; s'espand sur lui le somme ;</p>
+        <p>Se clost son oeil, plus ne bouge.... il s'endort... N'estoit ce tayn floury des couleurs de la pomme,</p>
+        <p>Ne le diriez dans les bras de la mort?...</p>
+        <p>Arreste, cher enfant!... J'en frémy toute engtière !... Reveille-toy ! chasse ung fatal propos !... Mon fils!...pour ung moment... ah! revoy la lumière! Au prilx du tien, rends-moy tout mon repos !... Doulce erreur ! il dormoit... c'est assez, je respire ; Songes légiers, flattez son doulx sommeil! » etc.</p>
+        <p>Écoute cette fin du Chant d'amour en hiver. Elle parle de Bérenger absent :</p>
+        <p>Et maintes fois, durant ces longues nuicts,</p>
+        <p>Du sombre Arcas quand oy bruyr les tempestes,</p>
+        <p>Ou que d'Oryon tombent les froids torrents,</p>
+        <p>Que toictz, battus de cent coulps différents,</p>
+        <p>Semblent aller s'escroulant sur nos testes :</p>
+        <p>« Où porte-t-il, me dis, ses pas errants? etc., etc. »</p>
+        <p>Quelquefois elle est maligne ; dans son conte, elle décrit l'ordre de l'auditoire ainsi :</p>
+        <p>Juges estoient rangés, et d'ugne et d'aultre part. Seyoient ici mamans, en toges violettes, Sévères, sans pitié, plaignantes du vieulx temps ; [lettes. Grognoient, ainz par meschief , tousjours grognoient seuViz à viz, sous couleur des rozes du printemps, Coytement soubrioient gentilles bachelettes, etc.</p>
+        <p>Adieu, comment trouves-tu cela? Mais il faudrait presque tout citer. Nous parlerons de nos affaires une autre fois.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

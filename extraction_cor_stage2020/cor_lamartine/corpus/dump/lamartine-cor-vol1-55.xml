@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Chez M. Comte, médecin, à Grenoble." resp="">Chez M. Comte, médecin, à Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Chez M. Comte, médecin, à Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Chez M. Comte, médecin, à Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>18 avril 1810.</p>
+        <p>Tandis que chacun dans la rue Promène son oisiveté ; Tandis que la jeune beauté Reçoit d'une main ingénue Le billet qu'Amour a dicté, Et qu'à l'ombre de la cohue Un amant glisse en liberté, Malgré le coup d'oeil redouté D'un argus à très-courte vue; Tandis que, dans ce jour fêté, Chacun semble avoir la berlue, J'écris avec facilité Ces vers, enfants de la gaieté, Pour tuer le temps qui me tue.</p>
+        <p>Mais varions un peu mon ton et mon allure, Que mes vers cadencés marquent bien la césure, Qu'enfilés deux à deux, ils tombent lourdement, Imitent du marteau le bruit retentissant, Fatiguent le lecteur de leur monotonie Et soient un sûr garant contre toute insomnie ! J'avais promis en vain qu'au retour du printemps J'irais auprès de toi, plein d'une ardeur nouvelle, Soupirer une idylle en l'honneur de ta belle ; Un dieu cruel s'oppose à mes engagements. Ce dieu, mon cher ami, t'a visité peut-être; A son signalement tu vas le reconnaître. Mais, sur un autre pied, marchons, il en est temps.</p>
+        <p>Visage ovale, OEil enfoncé, Teint noir et pâle, Sourcil froncé, Habit percé, Marche inégale,</p>
+        <p>Regard baissé ;</p>
+        <p>La faim le guide,</p>
+        <p>Et tristement</p>
+        <p>Il va portant Sa bourse vide A tout venant. Jeune grisette Manquant d'amant, Vieille coquette Sans agrément, Charmant poëte Pauvre d'argent, Et tel qui brille Par maint talent, Le vont suivant, Et sont enfants De la famille. Peut-être, un jour, moins pauvre et plus heureux,</p>
+        <p>J'irai, traîné dans un noble équipage,</p>
+        <p>De mon bonheur t'offrir le doux partage,</p>
+        <p>Et prodiguer à l'oeil des envieux</p>
+        <p>D'un luxe fin l'élégant étalage;</p>
+        <p>Le dieu joufflu de la prospérité,</p>
+        <p>Plutus, alors serait à mon côté.</p>
+        <p>En attendant, partageons notre vie</p>
+        <p>Entre l'amour et la philosophie;</p>
+        <p>Sachons jouir du peu que nous avons,</p>
+        <p>Consolons-nous du peu que nous perdons ;</p>
+        <p>Aimons sans art, aimons avec constance,</p>
+        <p>Dans notre sein nourrissons l'espérance,</p>
+        <p>Et si parfois nous trouvons le plaisir,</p>
+        <p>Que notre main s'empresse à le cueillir;</p>
+        <p>Ce n'est, hélas! qu'une fleur passagère.</p>
+        <p>Heureux qui peut la saisir et se taire !</p>
+        <p>Taisons-nous donc quand un regard touchant</p>
+        <p>Du rendez-vous marque l'heureux instant,</p>
+        <p>Quand de l'amour sonne l'heure propice,</p>
+        <p>Et quand pour nous naît un tendre caprice !</p>
+        <p>Taisons-nous donc quand un vers né sans art</p>
+        <p>De la beauté nous mérite un regard !</p>
+        <p>Ou quand aux fruits d'un aimable délire</p>
+        <p>Un bon ami par hasard veut sourire!</p>
+        <p>ALPH. DE LAM.</p>
+        <p>Écris-moi donc. Toujours la même adresse. Virieu m'a écrit et se porte bien : adieu.</p>
+        <closer>
+          <salute></salute>
+          <signed>18</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

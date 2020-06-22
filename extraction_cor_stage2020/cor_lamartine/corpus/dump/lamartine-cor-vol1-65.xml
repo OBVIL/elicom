@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Mâcon, 30 août 1810." resp="">Mâcon, 30 août 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu A Paris. (...-...)">A monsieur Aymon de Virieu A Paris.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mâcon, 30 août 1810."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Mâcon, 30 août 1810.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Je t'ai écrit une lettre immense avant-hier avec un tas de mauvais vers. Heureusement je l'ai oubliée hier à la campagne en venant ici, et, comme je ne veux pas que tu puisses m'accuser de la moindre négligence ni me priver d'une de tes lettres (qui sont mon unique consolation), je t'écris ces deux mots avant de remonter en voiture.</p>
+        <p>Tu as probablement reçu mon avis sur notre voyage d'Italie. Décide en dernier ressort ; mais je ne pourrais pas absolument passer cent louis ou mille écus. Je suis toujours solitairement à la campagne et content de mon application. Je traduis de l'anglais, je travaille au premier chant du poëme des Quatre Ages. Le premier chant est un peu avorté, je m'en aperçois. Je le trouve cependant quelquefois passablement versifié. Je t'envoyais des échantillons dans ma lettre d'avanthier pour avoir ton avis. C'est en vers de dix pieds. Mon projet est de l'envoyer aux Jeux floraux à Toulouse, comme morceau détaché, comme poëme pour la violette; mais tu dois penser que sans ton avis, tes conseils et des corrections, je ne ferai rien ou je travaillerai à autre chose. Je t'en enverrai des fragments bientôt. La Harpe est sur ma table, il m'encourage, il me retient, il me rend sage malgré moi. Plus j'avance, plus je l'estime, ce La Harpe. Comme c'est bien pensé, bien raisonné, bien écrit, sans pointes, sans affectation, sans mignardise ! C'est un bon maître en littérature, comme Montaigne en philosophie.</p>
+        <p>As-tu lu l'ouvrage de M. Aimé Martin, Lettres en vers à Sophie? Je connais l'auteur et j'emporte l'ouvrage.</p>
+        <p>Un voyage qui me séduirait, ce serait un voyage en Suisse ou en Italie, en prose et en vers, mais un peu plus étendu que tout ce que nous avons dans ce genre; qu'en dis-tu? Mais parlons de mon morceau sur l'enfance : en veux-tu quelques vers esquissés hier au soir sur l'éducation? Qu'ai-je aperçu? Quel Raphaël novice A sur ces murs crayonné cette esquisse, Et retracé sous son heureux pastel Le temple antique ou le toit paternel ? Sa main déjà suit un art qu'elle ignore,</p>
+        <p>Aucune loi ne la dirige encore</p>
+        <p>Et cependant je vois dans ce lointain L'objet moins grand fuir mon oeil incertain, L'arbre plier sous le poids qui le presse, Et ces ruisseaux errer avec mollesse.</p>
+        <p>Enfants des arts, ces précoces talents</p>
+        <p>Ne sont encor que des germes naissants :</p>
+        <p>Cultivez-les, secondez la nature ;</p>
+        <p>L'homme n'est rien ou languit sans culture.</p>
+        <p>Avez-vous vu-dans l'atelier bruyant</p>
+        <p>Le marbre informe, arrondi savamment,</p>
+        <p>Perdre bientôt sa dureté première,</p>
+        <p>Vénus enfin naître d'un bloc de pierre?</p>
+        <p>Avez-vous vu l'artiste ingénieux</p>
+        <p>Dont le pinceau, fier de tromper nos yeux,</p>
+        <p>Fixe à la fois sur la toile étonnée</p>
+        <p>Des fleurs, des fruits, doux présents de l'année ?</p>
+        <p>Ce n'est d'abord qu'un mélange confus De tons brisés, d'essais interrompus, De traits divers un informe assemblage, Et de couleurs un bizarre alliage. Bientôt sa main débrouille ce chaos Et, par des tons mariés à propos, Elle adoucit, renforce, éteint, colore</p>
+        <p>Le vernis coule et la fleur vient d'éclore ! Tel, avec art, un guide intelligent Forme, adoucit, les moeurs de l'homme enfant, De ses défauts se sert avec adresse, Par l'amour-propre éveille la paresse, Par l'intérêt ranime le désir, Ou le conduit par l'attrait du plaisir.</p>
+        <p>Heureux celui qui dans le premier âge Reçut des dieux ce maître habile et sage ! Que de talents par cet oubli du sort Sont en naissant condamnés à la mort ! Peut-être ici dans un oubli stérile Dort un rival d'Homère ou de Virgile, Qui n'a jamais fait rendre sous ses doigts Que des sons durs au chalumeau des bois ! Peut-être ici végète sous le chaume L'appui, l'éclat, le vengeur d'un royaume, Jeune César dont le fer inhumain N'arma jamais la généreuse main; Et là peut-être un Caton sans mémoire Vit sans éclat, succombera sans gloire ! etc.</p>
+        <p>Dis-moi, à vue d'oeil, ce que tu penses de tout cela, et figure-toi un morceau de trois ou quatre cents vers et plus dans ce genre-là à peu près. Cela retouché, corrigé, diminué, augmenté, serait-il digne de concourir pour l'églantine ou la violette? Mon projet est de finir par un épisode : Bélisaire et son petit enfant. Ton avis et quelques morceaux à insérer là dedans.</p>
+        <p>Adieu. Es-tu en mer?</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAM.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="A Grenoble." resp="">A Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Lyon, 24 janvier 1809.</p>
+        <p>Pardon mille fois, mon cher ami, si j'ai tant tardé à l'écrire. Je n'ai reçu ta lettre que depuis quelques jours parce qu'elle a passé par Mâcon et qu'on ne me l'a pas envoyée tout de suite. Je suis ici depuis environ un mois, à peu près content, J'ai suivi ton conseil, j'ai voulu être sage et j'ai presque tout oublié. Tu sais de quoi je veux parler. Me voici aussi tranquille sur cet article-là que je l'étais il y a deux mois. Dieu soit béni !</p>
+        <p>Calme heureux, douce indifférence, Vous rentrez enfin dans mon coeur, Ah ! ramenez-y le bonheur Perdu par deux mois de constance ! Nobles travaux, plaisirs si doux, Premiers charmes de ma jeunesse, Goûts d'amitié, goûts de sagesse. Enfin je vous retrouve tous. D'une trop cruelle espérance Tandis que l'amour m'enivrait, Ma muse, hélas ! ne soupirait Que la langoureuse romance. Sous la fenêtre d'une belle, Mêlant ma plainte au bruit des vents, Je chantais des vers languissants Dont se moquait une cruelle ! Je pleurais. Hélas ! à mes cris Elle faisait la sourde oreille. Ami, je lui rends la pareille, Elle pleure aujourd'hui... je ris.</p>
+        <p>Moque-toi de moi, je te le permets, je suis si content d'être sorti de cette galère que je ne me connais plus.</p>
+        <p>Je ne reçois point de lettre de Virieu. Tâche donc d'avoir son adresse ; je n'ai pu la découvrir. Il nous oublie, je crois. Parlons un peu du moyen de nous voir cet hiver. Je ne peux pas encore songer à aller à Grenoble, je suis encore ici chez des parents, et ne serai que dans quinze jours dans mon appartement, libre. Il faudrait bien que tu pusses venir au moins huit jours, au moins deux ou trois jours ici. Ma chambre est grau de, j'ai deux lits, j'ai tout ce qu'il nous faut: je t'attends. Veux-tu savoir comment je vis ici? je me lève à neuf heures, je travaille à l'anglais jusqu'à midi, je vais prendre ma leçon d'anglais à une heure, et puis un peu à la bibliothèque publique; je dîne et vais au grand Théâtre, où je suis abonné, passer ma soirée. Je travaillerai bien plus que ça dans quelque temps, quand je serai chez moi. Adieu. Je suis à t'écrire, à côté d'une aimable cousine qui me fait enrager, et soupirer pour une orange confite dont elle ne veut pas me faire part. La poste part, adieu encore une fois.</p>
+        <p>ALONZO DE LAM.</p>
+        <closer>
+          <salute></salute>
+          <signed>Je triomphe, je suis roi !</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

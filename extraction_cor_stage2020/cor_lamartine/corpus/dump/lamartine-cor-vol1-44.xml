@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Au Grand-Lemps." resp="">Au Grand-Lemps.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Au Grand-Lemps."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Au Grand-Lemps.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 26 novembre 1800.</p>
+        <p>Non, tu ne me plais jamais tant, Poëte heureux de Lucrétile, Que, lorsque au vaisseau de Virgile Adressant un adieu touchant, Aux soins d'un zéphir caressant Tu livres ta barque fragile.</p>
+        <p>Mon projet était bien de continuer comme j'avais commencé, mais je veux te parler et te dire beaucoup de choses, et les vers sont trop longs à suivre les idées. Bien heureux que ces six mauvais soient venus de bonne volonté. Attendons-en d'autres.</p>
+        <p>Je suis à Mâcon, au coin de mon feu, tout seul : j'y suis venu exprès pour t'écrire et mettre tout de suite ma lettre à la poste. Tu pars donc incessamment. Tu nous quittes, tu nous laisses, tu vas être plus heureux que nous. Nous oublieras-tu? Non, tu ne retrouveras plus d'amis qui t'aiment comme nous. Et pour moi, je me suis juré de n'en plus avoir au préjudice de l'un de vous. Adieu donc, serva fidem.</p>
+        <p>Tu me dis que tu ne fais rien ; ni moi non plus. Nous n'avons rien à nous reprocher : depuis six mois je suis le plus grand paresseux de France. Consolons-nous mutuellement et réveillons-nous par des plans, par des projets, par des réflexions grandes et nobles, dignes de nous : Odi profanum vulgus.</p>
+        <p>Mais voici des vers qui me viennent :</p>
+        <p>C'en est fait, mon ami, crois-moi, Quittons cette sotte paresse Que des fainéants comme toi Ont paré du nom de sagesse ! Ne verrons-nous jamais flétrir Cette dame de la jeunesse ? Ce temps, qui doit nous engloutir, Et qui nous amène sans cesse Nouvel espoir, nouveau desir, Nouveau regret, nouveau plaisir, Nouveaux soins, nouvelle tendresse, N'amène-t-il pas la vieillesse? Nous ne sommes plus au bon temps Où, suivant leur humeur légère, Deux agréables ignorants S'immortalisaient sans rien faire. Chapelle partit un matin Pour un très-court pélerinage : Qu'il fut heureux dans son voyage ! Il trouva la gloire en chemin.</p>
+        <p>Ce n'est plus cela, tu le vois mieux que moi.</p>
+        <p>Donnons-nous donc de la peine, conjuguons du grec, de l'italien, de l'anglais. Ne nous rebutons pas.</p>
+        <p>Combien de fois, pour une belle Fatiguant mon esprit glacé, J'ai commencé, recommencé Un billet tendre à la cruelle ! Combien de fois de ses refus J'ai lassé la dure constance Et l'importune vigilance De ses inpertinents argus ! Combien de fois, sous sa fenêtre Mêlant ma plainte au bruit des vents, Je lui chantai des vers touchants Dont elle se moquait peut-être ! Ami, c'est ainsi qu'il faut être : Le poëte est comme l'amant ; Et ces deux maudites pucelles Que nous servons incessamment N'ont pas l'air d'être assurément De nos beautés les moins cruelles.</p>
+        <p>Ne suis-je pas en veine malgré moi aujourd'hui? Je ne sais si c'est parce que je viens de bien dîner. Mais il faut que je m'arrête, car le jour baisse dans ma chambre et bientôt je n'y verrai plus.</p>
+        <p>Il n'y a plus de possibilité à ce que j'aille te voir. Il n'en faudrait même pas parler. Ah! j'en souffre plus que toi, et j'ai terriblement de choses à le dire ! cependant je ne veux pas à toute force renoncer à te voir, ne fût-ce qu'une heure. Où passeras-tu? à Lyon sans doute; dans quel temps, quel jour? entendons-nous. Je pourrais peutêtre m'échapper incognito ou bien même ouvertement.</p>
+        <p>Parle-moi donc un peu dans la première lettre de Guichard, de vos courses qui m'ont fait pleurer de regret, de Belley, de Grenoble, de Crémieu, et que sais-je encore? Je m'ennuie à mourir ici. Rien ne m'y attache. Je perds la seule personne que j'y aimais véritablement, qui m'aimait aussi : c'est ce jeune homme dont je l'ai parlé quelquefois, qui nous quitte pour aller habiter le Bourbonnais. C'est avec lui que j'entreprendrais peutêtre un voyage secret à Paris cet hiver, si je voyais que je ne pusse rien faire du tout à Lyon. Biais je crois qu'avec de la persévérance, de la constance, de la fermeté, je trouverai moyen d'y travailler et avec fruit, le plus longtemps qu'ira ma bourse ; et, en attendant mieux, adieu.</p>
+        <p>Forsan et haec olim meminisse juvabit.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

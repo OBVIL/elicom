@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Mâcon, 1er juin 1809." resp="">Mâcon, 1er juin 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu Au Grand-Lemps. (...-...)">A monsieur Aymon de Virieu Au Grand-Lemps.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mâcon, 1er juin 1809."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Mâcon, 1er juin 1809.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Oh ! que j'aime l'inutile !</p>
+        <p>Corinne.</p>
+        <p>Qu'as-tu fait tous ces beaux jours-ci, mon cher ami? qu'as-tu lu, qu'as-tu pensé ? c'est-à-dire, car je crois que toutes nos actions et tous nos plaisirs sont purement intellectuels et, pour parler comme le bon M.. Wrintz, in futuro contingenti.</p>
+        <p>J'ai été assez content de notre voyage et de nos quinze laquais à Rome, surtout à Rome, mon cher ami. Nous sommes placés pour y vivre au milieu de toutes ces ruines et de ces beautés d'imagination, qui sont les seules occupations dignes de nous dans un temps où toute carrière active nous est fermée, hors celle du génie et des arts, sur lesquels s'est tournée toute ma passion qui ne trouvait qu'obstacles partout ailleurs. Nous serons probablement obligés de réformer un peu notre état de maison, nos chevaux, voitures, etc.; peut-être qu'un cheval, un cabriolet et un laquais pourraient nous suffire, qu'en penses-tu ? On ne va guère à l'immortalité dans un carrosse à six chevaux. Souffrir et ne pas mourir ! voilà notre devise, mon cher ami ; m'y voilà résigné. Athènes ensuite et la vieille Grèce; quelques mois d'hiver dans les montagnes d'Ecosse auprès des ombres d'Ossian et de Fingal; un petit tour aux grandes Indes pour tenter la fortune ; un an ou deux en Amérique pour voir la jeune nature : nous en reviendrons avec des souliers un peu usés, une vieille redingote percée au coude, un chapeau déformé, la cravate noire, la culotte de peau, la pipe à la bouche, il me semble que je m'y vois déjà.</p>
+        <p>Je viens de lire Corinne de madame de Staël : tous mes beaux sentiments, nobles, désintéressés, ardents pour la gloire, purs, naturels, élevés, se sont réveillés à cette lecture. Me voilà le défenseur déclaré de cette femme pour laquelle je n'avais qu'un profond mépris. Hier au soir, je soutins une thèse de deux heures contre ses détracteurs. Je soutins qu'elle avait une imagination aussi riche que Chateaubriand, moins de style à la vérité, moins de raison, moins de force, moins de charme; que je trouvais plus de belles idées dans une de ses pages que dans un volume entier de madame dé Genlis, etc., etc. Quand je sortis de l'assemblée, j'entendis qu'on se disait : c'est un jeune homme, il a dix-huit ans, il a de l'ardeur, de l'enthousiasme, c'est tout simple, je lui en sais bon gré, ça annonce de l'âme, etc., etc.</p>
+        <p>Je suis tombé des nues en apprenant ton élévation subite au trône académique. Quel pas de géant à l'ouverture de la carrière ! Je te respecte et te jalouse presque. Comment diable as-tu fait? Quel ouvrage as-tu présenté? Fais-m'en vile recevoir autant et je te ferai agréger à celles de Dijon et de Mâcon, quand j'en serai, moyennant un petit mémoire od libitum. C'est un bon augure, et puis nous pourrons dire, comme disait un officier de Saint-Louis à qui on faisait compliment sur sa croix: " C'est d'autant plus flatteur que je n'ai jamais servi. » Je me fais gloire de ta gloire devant tout le monde. Je le raconte à qui veut l'entendre. A dix-huit ans ! on n'en revient pas. Je vais passer un jour tout seul à St-Point, et' je n'emporte que l'Orlando furioso. C'est ce qui me presse de finir cette épître : mon cheval m'attend. Adieu. Je ne puis sérieusement songer à te voir d'aucune manière d'ici à six mois entiers pour des raisons qui me désespèrent, comme tu peux te l'imaginer. Mais patience, patience ! je n'ai qu'une faible lueur qui peut-être grossira ! J'ai fait une ode de douze strophes sur l'amour de la gloire : elle refroidit et je te l'enverrai. J'ai cent vers de mon discours sur l'Amitié. Il y en a dont je suis assez content, sauf respect. Je continue, et elle ne verra pas le moindre jour que tu n'aies jugé, changé et corrigé et ajouté et retranché. Travaillons, travaillons, nous n'avons que cela à faire de cinq à six ans, c'est mon avis du moins. Voilà trois jours que je n'ai pas quitté ma chambre, grâce aux muses. Cette histoire me tourmente. Dis-moi ton plan et exhorte-moi. Adieu, porte-toi bien et pense toute la journée à moi ainsi que je fais de toi.</p>
+        <p>AL. DE LAMARTINE.</p>
+        <p>Je te demande pardon de cette plate épître, mais tout le monde est à la procession. Je ne sais que faire, et jai trop mal à la tête pour m'occuper sérieusement. J'ai voulu me distraire, et je t'ai peut-être fort ennuyé. Mais cela m'arrivera bien d'autres fois. Pardonne-moi, et écris-moi vite et longuement. Je suis malade.</p>
+        <closer>
+          <salute></salute>
+          <signed>A. L.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Au Pezeau, par Cosne (Nièvre)." resp="">Au Pezeau, par Cosne (Nièvre).</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Au Pezeau, par Cosne (Nièvre)."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Au Pezeau, par Cosne (Nièvre).</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>14 septembre 1811.</p>
+        <p>Je reçois à l'instant la lettre bien heureuse. Arrive, arrive, mais arrive tout de suite, je te battrais pour ton insouciance et tes retards! Pense donc que nous n'aurons peut-être qu'un mois à être ensemble, si tu ne franchis pas tout de suite les Apennins. Oui, tout de suite : point de retards à Turin, à Milan, à Bologne, ça n'en vaut pas la peine. A Livourne et à Rome tout de suite ! Tu me trouveras encore ici dans à peu près un mois, l'attendant tous les jours et m'ennuyant pour t'attendre et voler à Rome.</p>
+        <p>M. de Fréminville, avec qui j'ai fait connaissance chez le préfet et qui a beaucoup de bonté pour moi, viendra avec nous, si tu arrives à cette époque ; il n'aura que ce moment de libre. Sois ici sans faute le 12 octobre, et écris-moi ce qu'il en est, afin que je m'arrange en conséquence. Je n'irai point à Venise, l'argent me manquerait.</p>
+        <p>Arrive, adieu, point de paresse ni de jours perdus.</p>
+        <p>A. L.</p>
+        <closer>
+          <salute></salute>
+          <signed>P. S. Je ne sais ce que je t'écris, dans l'emportement de ma joie. Pardonne-moi de trop t'aimer.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Milly, 29 novembre 1808." resp="">Milly, 29 novembre 1808.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu Au Grand-Lcmps. (...-...)">A monsieur Aymon de Virieu Au Grand-Lcmps.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Milly, 29 novembre 1808."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Milly, 29 novembre 1808.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Je viens, mon cher ami, de recevoir ta lettre et j'en ai bien payé le plaisir. Voici comment : je sortais de Milly à cheval pour aller faire une visite à une demi-lieue, j'ai rencontré sur la route les gens qui m'ont remis ton aimable épître. Tu imagines bien que je n'ai pas voulu remettre après mon retour le plaisir de la lire. J'ai modéré mon allure et déplié la lettre, et, tandis que je la lisais avec beaucoup de peine à cause du mouvement et de la bise qui agitait les pages, mon coursier s'est ennuyé et a fait un écart qui m'a jeté honteusement par terre contre un buisson. J'ai été seulement déchiré et crotté; heureusement personne n'a été témoin de ma catastrophe. Je me suis relevé et j'ai tourné bride, n'osant pas dans mon état de détresse me présenter chez personne. J'ai ri comme un fou de la romance si spirituelle dont tu as diverti et étonné les belles du Grand-Lemps. Je me suis mis à ta place et j'ai bien compati à ton modeste embarras, le jeune homme est si timide! ! ! J'hésite si je ne mettrai pas encore plusieurs points; mais je crois qu'en voilà assez pour une fois. Dessine bien, mon cher ami, joue bien de la basse, lis de jolies choses, amuse-toi, fréquente les artistes. Tout cela t'est permis; pour moi...</p>
+        <p>C'est bien là le cas d'en mettre. Pour moi donc je n'en ai pas la facilité ni les moyens, je ne peux faire autre chose dans ma solitude et dans le manque total de ressources où je suis que d'envier ton sort et de me soumettre au mien dont je me console avec mes livres, ma plume, mes idées, mes espérances et ma patience un peu forcée.</p>
+        <p>Je vois par le compte que tu me fais que nous sommes à deux de jeu quant à la bourse. Cependant il y a encore une différence, c'est que dans huit jours je vais à la ville et que je vais y être obligé à de la dépense. Je n'ai maintenant pour tout bien que 4 francs 10 sous dans ma bourse et 12 francs de dettes, et j'ai peu d'espérance pour le jour de l'an. Te voilà au fait de mes ressources comme moi des tiennes.</p>
+        <p>J'ai reçu aussi avant-hier une lettre de Guichard : il sortait du spectacle où on avait donné OEdipe à Colone , et sa lettre était pleine de ce feu et de ce beau désordre qu'il y avait puisé. Nous avons aussi à Mâcon des comédiens assez passables pendant les trois quarts et demi de l'année; mais je t'assure que si j'en profite une douzaine de fois cet hiver, ce sera beaucoup. Je me défie un peu du goût qu'on y respire. Tu me demandais l'autre jour ce que c'était que cette collection de voyages qui vient de paraître; je suis d'avis que c'est un livre à avoir et je t'engage à l'acheter. Tout y est à peu près fait de main de maître, et avec cela on ne risque jamais rien.</p>
+        <p>Je ne sais sur quoi m'exercer un peu la verve, et cependant il le faut, d'après ton vers ingenium hebescit. Pour l'Académie, c'est une plaisanterie, et je n'y songe certainement pas plus que toi. Je veux montrer mes travaux à très-peu de gens, vivre seul et très-occupé sans prétentions actuelles. Je crois que c'est ce que j'ai de mieux à faire. Trouves-tu ma lettre assez longue? Pour moi j'aurais voulu que la tienne le fût encore davantage et que tu l'eusses écrite un peu plus fin. Suis mon exemple. Si M. Lefèvre est toujours chez loi, je te prie de lui faire mille compliments de la part d'un de ses anciens écoliers. R., qui est venu me voir pendant mon absence, est à Beaune. Il y passe son année. Si je voulais plaisanter un aussi bon garçon, je dirais qu'il est au milieu des siens, mais je l'aime trop pour vouloir m'en moquer et je suis très-fâché de ne l'avoir pas vu. Adieu donc, je n'entends parler ni de B., ni des L. et G. et compagnie. Je t'aime tous les jours davantage.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

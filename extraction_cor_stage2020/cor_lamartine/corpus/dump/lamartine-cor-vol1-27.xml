@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Au Grand-Lemps." resp="">Au Grand-Lemps.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu (...-...)">A monsieur Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Au Grand-Lemps."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Au Grand-Lemps.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>13 mars 1809.</p>
+        <p>Quelle bonne idée tu as là, mon cher ami! Concourons à Besançon. Mille francs, morbleu ! quel stimulant pour de pauvres diables qui n'ont pas le sou ! El puis de la gloire, et puis par-dessus tout un but de travail, qui ne peut que nous être dans ce moment-ci d'une extrême utilité! Concourons, concourons ! conflit, conflit !</p>
+        <p>Dès que je reçus la lettre, je me décidai; j'y vis mille genres d'utilité, et je pensai, je sentis que peut-être nous aurions les prix entre nous trois, car il faut engager Guichard à en être, absolument. Travaillons séparément; nous ne pourrions pas, comme tu le dis, faire différemment, nous sommes trop loin ; mais ne nous relâchons pas que cela ne soit fait de notre mieux! Que toutes nos discussions roulent là-dessus ! consultonsI. consultonsI. nous, corrigeons-nous, donnons-nous mutuellement des idées.</p>
+        <p>J'ai déjà parcouru le président Hénault et je choisis la fameuse querelle des ducs de Bourgogne et d'Orléans, sauf meilleur avis. C'est dans le règne de Charles VI. Qu'en penses-tu ? et que prends-tu? Écris-moi longuement là-dessus. Ça fera tort à l'italien, mais qu'importe ! Si tu savais aussi quelque prix de poésie, mande-le-moi ; mais cela ne serait qu'un délassement. Mon morceau me semble brillant : que de portraits, que de conjurations, que d'assassinats, que de parallèles, que de trahisons, que de crimes, que de querelles ! Peut-être un peu trop, mais, comme dit Panurge, ce qui abonde n'est pas vice.</p>
+        <p>Envoie-moi ton plan de comédie, et j'en ferai un proverbe ou un vaudeville. Je te dirai mon avis. Adieu, je vais me mettre à l'ouvrage et je suis très-pressé. — Amitié, constance, étude. — Post gloriam lucrum. — 0 âme vile !</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

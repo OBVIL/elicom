@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Chez M. Comte, à Grenoble." resp="">Chez M. Comte, à Grenoble.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Chez M. Comte, à Grenoble."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Chez M. Comte, à Grenoble.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 14 décembre 1808. Que les Athéniens étaient un peuple aimable !</p>
+        <p>VOLTAIRE,</p>
+        <p>Voilà, mon cher ami, une épigraphe qui l'annonce que je vais te parler du théâtre, mais je laisse cela pour la fin. Commençons par parler d'autres choses plus intéressantes encore à mon avis. C'est de les vers qu'il s'agit : tu as fait des progrès visibles et frappants depuis que tu lis et que tu t'exerces davantage. Tu me fais trop d'honneur de m'en donner la gloire, elle ne m'est certainement pas due. Permets-moi de te faire l'examen de ceux que tu m'as fait le plaisir de m'écrire. Tu vas voir que je motive mes louanges comme mes critiques; reste à savoir si elles sont bien ou mal motivées. Ta première tirade est bien, il y a cependant des fautes de versification, faciles à corriger, mais que ta seule paresse t'a engagé à y laisser : j'y trouve entre autres quatre rimes masculines de suite, quelques épithètes pour la rime et un peu vagues. Tâche de plus en plus d'éviter ce défaut-là ; il est déjà diminué. Il y a des vers à merveille, coulants, faciles, de jolies idées, comme ceux-ci « Même dédain pour cette foule impure, » et celles-ci : encore en parlant de l'amitié : « fruit précieux, etc. » Quant au second morceau « Quant à l'amour dont tu contes la vie, etc., » il m'a fait le plus grand plaisir et à un autre juge qui me vaut bien à coup sûr et à qui je me suis permis d'en faire part. « Crédules amours » est on ne peut pas mieux, l'épithète est juste, élégante, choisie; voilà comme u dois à présent l'appliquer à en chercher. Le dernier vers est de trop et banal ; mais en voilà assez sur ce sujet. Dis-moi si tu as trouvé mes remarques bonnes et justes, et n'oublie donc pas de me rendre sévèrement la pareille. Je vais l'en fournir une belle occasion : je t'envoie deux méchants couplets que je fis l'autre jour dans un souper de campagne, c'est une espèce d'impromptu. Voici l'histoire : une demoiselle assez gentille nous chanta une fort jolie romance sur l'espérance. Quelqu'un de la compagnie dit qu'il voulait y ajouter un couplet de sa façon; je le prévins, et je fus dans une chambre à côté enfanter cette petite bêtise que je chantai, lorsque ce fut mon tour, à la susdite demoiselle. N'est-ce pas du brillant et du galant?</p>
+        <p>L'Amour un jour à l'Espérance, etc. (1).</p>
+        <p>J'eus dans cette même après-dînée une autre bonne fortune, ce fut un impromptu réel à une autre demoiselle qu'on blâmait de rougir et de trembler en chantant. Quand elle eut fini, je chantai ce petit couplet en rougissant au moins autant qu'elle, c'est sur l'air de Mon père était pot.</p>
+        <p>Lise, dites-vous, en chantant</p>
+        <p>Tremble, hésite et balance. J'aime mieux ce défaut charmant Qu'un peu trop d'assurance.</p>
+        <p>De son embarras</p>
+        <p>Eglé rit tout bas, Même quand elle enrage ;</p>
+        <p>Pour moi franchement,</p>
+        <p>En la regardant Je tremble davantage.</p>
+        <p>(1) Voir page 85. On le trouva à merveille, mais ce vers de Boileau vint abaisser la fumée de ma gloire :</p>
+        <p>Un sot trouve toujours un plus sot qui l'admire.</p>
+        <p>Tu me confonds en me demandant mon sentiment sur les spectacles; tu devrais au moins attendre que j'eusse soixante ou quatre-vingts ans, car qu'est-ce que tu veux que je dise contre eux, moi qui les aime à la folie et qui trouve que c'est là le seul amusement digne d'un homme de goût et de bon sens ? Cependant je ne l'engagerais pas à y aller bien souvent dans une petite ville comme Grenoble, et, fût-ce même à Paris, tant que tu n'auras pas quarante ans. C'est un peu trop chaud pour un jeune homme et surtout pour quelqu'un qui se propose de travailler et qui travaille en effet; cela dissipe un peu trop et peut entraîner à la débauche plus quam decet. Je veux y aller quelquefois aux meilleures pièces, une fois par semaine à peu près, mais guère davantage el souvent moins. Je le conseillerai d'en faire autant à peu près. Je n'aurais pas grand chose à répondre à tes arguments si l'expérience n'était pas la meilleure de toutes les réfutations; elle a fait voir suf fisamment que ce n'est rien moins qu'une bonne école que le théâtre, surtout pour nous autres jeunes gens. Il est vrai qu'il polit les moeurs et les manières; qu'il forme un peu à la déclamation, qu'il donne un aperçu exagéré du caractère des hommes, et en cela il est bon. Mais je t'exhorte toujours à ne pas t'y livrer bien souvent. Ce n'est guère un petit théâtre de province et de mauvais acteurs ambulants qui te donneront le bon goût elles belles manières. Attendons que nous soyons à Paris ou à Lyon même. C'est une différence totale. D'ailleurs il peut être bon ou nuisible suivant les caractères. En voici un exemple rimé cette nuit, mais il est digne de l'incognito et il y compte :</p>
+        <p>Rose est piquante, elle est tendre, elle est vive, Trop simple encor, peut-être, et trop naïve. Est-ce à quinze ans qu'un coeur sensible et bon Peut de l'amour concevoir un soupçon ? De mille amants la troupe mensongère, Sans trop l'aimer, voudraient pourtant lui plaire. Jusqu'à présent, elle a gardé son coeur, Son innocence et partant son bonheur. Vois, mon enfant, lui dit souvent sa mère, De papillons cette troupe légère Qui tour à tour caressent cette fleur. Ont-ils flétri son calice enchanteur, Vois-les s'enfuir, et cet essaim volage Porter ailleurs son fugitif hommage. De ces messieurs, Rose, telle est l'ardeur: Ces papillons, eh bien! c'est leur image. Rose, tout bas, répond : C'est bien dommage. Et puis soupire. Enfin Rose a seize ans. Avec éclat quelque jour on la mène Pleurer aux vers d'Alzire ou de Chimène : Quel nouveau jour vient éclairer ses sens! Il est, dit-elle, il est de vrais amants; On me le cache.. Elle dit, et la belle Croit à l'espoir que son coeur lui révèle. Bien pardonnable, hélas ! est son erreur. Il est si doux de rêver le bonheur ! Rêvant ainsi, fille est bientôt vaincue. D'adorateurs arrive une cohue; Rose succombe, hélas, la pauvre enfant! En pareil cas qui n'en ferait autant?</p>
+        <p>Voilà l'exemple en mal ; je voulais rimer aussi l'opposé, mais la verve et le papier me manquent. Tu vois que mes vers deviennent indiscrets, à force d'être bien accueillis de loi. Mais c'est ta faute, et puis tu sais à quelle condition. Je suis surpris que tu croies Vignet entièrement changé, il y a toujours quelque chose quelque part qui ne change jamais. Au reste sa société et celle de de Vence peut t'être très-agréable, je te l'envie.</p>
+        <p>Fais-leur bien des compliments de ma part. Attends : voilà le conseil que j'ai à le donner quant au choix d'un état. Dans un an je le donnerai peut-être encore le même. Pour la société je suis comme toi et pire encore. Je ne vois presque personne et vis sans autre plaisir que le travail et tes lettres. Je suis embarrassé, gauche et timide comme toi. Je ne sais ni dire une chose aimable ni même répondre à un compliment. Cela me dégoûte tout comme loi. Je deviens amoureux tout comme toi encore de toutes les femmes que je vois, et cependant je n'ose pas faire un pas vers une. Le temps, les voyages, l'habitude, guériront toutes ces maladies-là. Voilà leur vrai médecin. J'ai été un peu coulant pour les mathématiques, et cela ne me sera pas si à charge que je l'aurais cru, grâce à la bonhomie de mon maître. Je ferai un peu semblant, et on s'en contentera. Je vais passer trois semaines à Lyon pendant le carnaval. Que diraistu si, prenant sans bruit la diligence de Grenoble, j'allais à neuf heures du soir le surprendre au coin de ton feu? C'est une plaisanterie, comme tu penses, mais j'en serais terriblement tenté si mes moyens étaient plus considérables et mes besoins d'économie moins pressants. Adieu, je t'embrasse de tout mon coeur. Je lis Montaigne, La Harpe, Voltaire, Pope et Richardson.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAM.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

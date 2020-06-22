@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Lyon, le 30 janvier 1808." resp="">Lyon, le 30 janvier 1808.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu Au collége de Belley. (...-...)">A monsieur Aymon de Virieu Au collége de Belley.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Lyon, le 30 janvier 1808."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Lyon, le 30 janvier 1808.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mon cher ami.</p>
+        <p>C'est avec beaucoup de plaisir que je m'acquitte de la promesse que je l'avais faite en partant. J'espère bien aussi que tu tiendras la tienne et que tu me donneras promptement de tes nouvelles. Je reste ici beaucoup plus de temps que je n'avais intention d'y demeurer, et je ne partirai que dans le courant de la semaine prochaine parce que je suis entre les mains des médecins. Le voyage ne m'a fait encore aucun bien et je souffre toujours beaucoup de mes maux de tête. Tu dois bien t'imaginer que. dans un pareil état, je ne peux guère me divertir ici ; aussi, malgré tous les soins qu'on a de moi, je m'ennuie on ne peut pas plus et je désire bien impatiemment d'être guéri pour vous aller rejoindre.</p>
+        <p>J'ai été trois ou quatre fois chercher R.... mais je n'ai jamais pu réussir à le rencontrer : il est parti pour la campagne avant-hier, et, comme il ne revient que lundi, je ne le verrai peut-être pas.</p>
+        <p>Le carnaval commence ici avec beaucoup d'éclat, mais tout cela m'est parfaitement indifférent, comme tu peux le penser, et je n'ai de ma vie été si triste et si peu avide de plaisirs, surtout de ceux-là.</p>
+        <p>Tout le monde paraît convaincu à Lyon que la tempête- excitée contre ces messieurs ne tournera qu'à leur avantage, et j'en suis moi-même bien persuadé; aussi, mon cher ami, nous nous reverrons probablement bientôt, si ma tête redevient un peu meilleure qu'elle n'est. Je ne peux absolument rien faire, pas même lire un peu trop longtemps, et j'ai fait un grand effort de l'écrire cette méchante lettre; ainsi tu me pardonneras si je ne te l'écris pas plus longue.</p>
+        <p>Tu voudras bien présenter mes devoirs à MM. Debrosse, Génisseau, ainsi qu'à M. Dumouchel. Je te prie aussi de me rappeler au souvenir de Guichard, Laboré, Galtier et de toute notre classe. Adieu , mon cher ami, je t'embrasse de tout mon coeur. Souviens-toi de moi comme je pense à toi.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

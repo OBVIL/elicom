@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Mâcon, 24 avril 1810." resp="">Mâcon, 24 avril 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymon de Virieu Au Grand-Lemps. (...-...)">A monsieur Aymon de Virieu Au Grand-Lemps.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mâcon, 24 avril 1810."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Mâcon, 24 avril 1810.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Puisque tu m'as donné des louanges qui m'ont d'autant plus flatté que je te connais bon juge et peu flatteur, je. m'en vais te régaler ou l'ennuyer d'un petit morceau presque impromptu, et à peine achevé, que j'ai fait ce malin, et ces deux ou trois jours-ci, c'est la première édition, dis-m'en ton avis franchement, quoique cela n'en vaille guère la peine; je l'en saurai bon gré. Préfères-tu des vers de dix pieds?</p>
+        <p>Ah ! donne-moi Lucrèce de quinze ans, Simple et gentille, et pourtant point volage, Que j'aime bien, qui m'aime davantage ! Je te le jure, Amour, je serai sage; Toi qui peux tout, punis-moi, si je ments. O donne-moi ce brillant équipage, Divin Plutus, où, mollement porté, Ton serviteur de faquins escorté, Soir et matin, commodément voyage ! Bien qu'en tout temps du sage maltraité, Et du poëte à bon droit délesté, Dans mes écrits, tu seras respecté.</p>
+        <p>Et vous aussi, pucelles surannées, A nos fadeurs si bien accoutumées, De ma requête il faut avoir pitié. Accordez-moi, grâce à ma modestie, Un peu d'esprit, point ou peu de génie, Mais l'heureux don de peindre en jolis vers Églé, l'amour, le monde et ses travers ; C'en est assez. Qu'un heureux infidèle A mille appas prodigue ses amours, Qu'Orgon jouisse et désire toujours, Il me suffît d'être aimé d'une belle; II me suffit d'être vanté deux jours.</p>
+        <p>C'en est assez, je l'ai dit ô nature,</p>
+        <p>Pourquoi fis-tu l'homme, ta créature,</p>
+        <p>Riche en désirs et vain dans ses projets,</p>
+        <p>Sage en idée et si faible en effets,</p>
+        <p>Demain peut-être un honnête héritage</p>
+        <p>Va m'enrichir, beaux yeux, joli visage,</p>
+        <p>Gentil maintien, air innocent et sage,</p>
+        <p>Esprit, amour vont être mon partage.</p>
+        <p>Bon, m'y voilà, je suis heureux enfin !</p>
+        <p>Oui, si j'avais le champ de mon voisin,</p>
+        <p>Où si ma femme, ou moins belle, ou plus fière,</p>
+        <p>A mes amis savait un peu moins plaire</p>
+        <p>Ainsi tout charme et tout trompe mon coeur, Tout, mais en vain, me promet le bonheur. Vous connaissez ces antiques coquettes Sans embonpoint, sans gorge, sans fraîcheur, Qui veulent plaire, et d'un art séducteur, Chaque matin, épuisent les recettes? Elles ont beau d'un sourire enchanteur, Étudier les trompeuses grimaces, Et pour le soir, se préparer des grâces, Feindre à propos le plaisir, la douleur, D'un long soupir exagérer l'ardeur ; Il n'est plus temps, les ans sur leur visage, En traits cruels ont gravé leur fureur; De nos désirs leurs efforts sont l'image.</p>
+        <p>Au temps jadis, on m'a conté qu'un sage Était heureux, quel sage ne l'est pas? Me dira-t-on, richesse a des appas, Mais elle lasse, amour est trop volage, Gloire n'est rien, sagesse seule est tout... Hé ! mes amis, écoutez jusqu'au bout.</p>
+        <p>Un jeune prince, avide de connaître, Voulut le voir, vint, et lui dit: Mon maitre, Rien, m'a-t-on dit, ne manque à ton bonheur ; Tu crains les dieux, tu sais dompter ton coeur ; Es-tu content? — Je le serais, seigneur, Sans le désir que j'ai de le paraître!....</p>
+        <p>Qu'en penses-tu? qu'est-ce que c'est? quel titre faut-il lui donner? Est-ce une épître, un discours en vers, une boutade, un caprice, etc., etc.? Mets-y le, si tu la trouves passable. Je suis toujours dans les mêmes tristes circonstances et j'ai besoin d'avis et d'amis. Je pars pour Dijon un de ces jours, seulement pour quelques semaines. Écris-moi toujours bien vite à la même adresse, à Mâcon ; on me fera passer les lettres où je serai.</p>
+        <p>Adieu, la poste part; je vais me mettre à notre morceau d'histoire, sérieusement; travailles-y aussi tout de suite. Voilà le beau temps qui me réjouit ; je me lève à six heures, j'ouvre ma fenêtre, qui donne sur un petit jardin, et je m'occupe jusqu'à une heure; c'est là ma plus grande, mon unique jouissance, vos lettres à part.</p>
+        <p>Dieu des êtres pensants, dieu des coeurs fortunés, Conservez les désirs que vous m'avez donnés, Ce goût de l'amitié, cette ardeur pour l'étude, Cet amour des beaux-arts et de la solitude Voilà mes passions, etc., etc.</p>
+        <closer>
+          <salute></salute>
+          <signed>VOLTAIRE, Disc, en vers.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

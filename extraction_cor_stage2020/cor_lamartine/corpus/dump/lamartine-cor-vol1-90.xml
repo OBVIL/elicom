@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Naples, mercredi 22 janvier 1812." resp="">Naples, mercredi 22 janvier 1812.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur de Virieu (...-...)">A monsieur de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Naples, mercredi 22 janvier 1812."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Naples, mercredi 22 janvier 1812.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Pourquoi donc ne mets-tu jamais de date à tes lettres ? En voilà une qui m'arrive de Florence, et je te croyais pour le moins déjà à Rome. Mais enfin je me console, si tu ne t'y arrêtes qu'un jour et si tu viens me joindre sur-le-champ. Oui. mon ami, je l'attends; tous les matins, je me dis: C'est aujourd'hui que je l'embrasserai. Serai-je toujours trompé?</p>
+        <p>Tu auras déjà trouvé une lettre de moi à Rome, et tu m'y auras, je pense, tout de suite répondu. Comment viens-tu ? en poste, en voiturin ou par le courrier ? Je te conseille la dernière manière comme la plus prompte. Arrive donc tout de suite.</p>
+        <p>Nous passerons ensemble quelques jours à Naples, et, comme tu le dis, nous reviendrons ensemble à Rome, partout où tu voudras; car pour moi, mon seul désir est d'être avec toi. Je n'ai plus d'émulation ni de curiosité pour rien. Viens t'attrister, viens fantasticare avec moi. Je te conduirai partout : j'ai tout vu depuis longtemps, et, sans l'espoir de te voir arriver, il y a longtemps que j'aurais secoué la poussière de mes pieds.</p>
+        <p>Je suis sans le sol. Je viens de me mettre à jouer. J'ai gagné en deux jours une quarantaine de piastres. Je vais peut-être les reperdre ce soir en voulant pousser plus loin. Je maudis tout.</p>
+        <p>Le Vésuve fume beaucoup encore. Combien je t'ai regretté le jour de cette belle éruption! Pourquoi aussi t'arrêtes-tu à Livourne, à Gênes, à Florence ? Ce sont des villes à voir en un jour. Tu verras autre chose à Rome et à Naples, mais surtout à Rome.</p>
+        <p>Adieu, j'espère t'embrasser dans deux jours. Écris-moi le moment où tu dois entrer à Naples, que j'aille à ta rencontre, ou que j'y envoie mon domestique qui sera aussi le tien. Adresse ton billet chez M. Duchaliot et mets pressé sur l'enveloppe.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALP. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

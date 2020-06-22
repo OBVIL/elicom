@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="À Bienassis." resp="">À Bienassis.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="À Bienassis."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>À Bienassis.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Milly, 23 septembre 1810.</p>
+        <p>Non, mon ami, je n'arriverai pas à Bienassis le 20 de ce mois-ci; peut-être même pas le 30. Ce n'est point ma belle inconnue, à présent trèsconnue, qui m'en empêchera, c'est la liberté qui me manque, ce sont mes moyens qui sont courts pour le moment, c'est la permission qu'on me refuse. Cependant je l'ai dit, je le veux, j'irai, je vaincrai tous les obstacles, fallût-il me mettre en insurrection complète, fallût-il y aller à pied et mon paquet sur le dos. Ma devise n'est pas : Tout pour l'amour, mais tout pour l'amitié!</p>
+        <p>Je comprends parfaitement ton inexplicable coeur et ta double passion, j'ai passé moi-même quelques jours dans cet état. Sais-tu qu'un homme comme cela, dans l'embarras d'un double amour, dans l'incertitude du choix, fournirait un assez bon sujet au théâtre. Ta lettre même pourrait y entrer tout entière. Ce serait un monologue parfait. Tu écris divinement, et je te prédis que si, malgré toi, malgré moi, tu deviens avocat, tu n'auras point de rivaux dans le pathétique. Je le dis cela comme je le pense, très-sérieusement. Mais à propos du barreau, je vais aller incessamment commencer un cours de droit à Dijon, comme amateur. Mon père y consent. Il augmente de quatre cents francs ma pension ordinaire. Mon oncle me meuble un logement et me nourrit pendant l'hiver. Il me fournit bois, vin, etc. J'aurai donc infiniment peu de dépenses à faire, et je pourrai économiser pour nos voyages à venir. A présent que je suis libre de partir ou de rester, me voilà dans l'incertitude : ne vàudraitil pas mieux demeurer ici encore toute une année pour aller ensuite passer mes hivers à Paris ou pour faire notre fameux voyage d'Italie? Il faut encore que j'aille discuter avec toi tout ceci; je ne peux rien faire sans ton avis et tes décisions. A quoi me mènera un insipide cours de droit ? Je ne veux pas être avocat, et je préfère aux places du gouvernement une liberté ignorée, précieuse et consacrée à mes goûts. D'un autre côté, Dijon est une ville charmante et pleine de ressources pour les arts et le travail. C'est un joli séjour en attendant mieux : je pourrai y vivre à peu de frais; je serai auprès d'un oncle qui ne me refuse rien, qui me regarde comme son fils unique, et qui peut aussi aisément me payer cent louis de dettes que moi donner un louis à un pauvre diable. Il faut peser tout cela. Au reste, il ne tient qu'à moi d'y passer le temps que je voudrai; et si je m'y ennuie, je le quitte et tout est dit. Ce n'est point par devoir, mais par goût, que j'y serai. Mandemoi ton avis.</p>
+        <p>Je commence à me ralentir sur le travail depuis que je ne suis plus seul et que mes parents sont de retour ici. Vive la solitude ! Il faut de toutes les manières que j'aille me ranimer près de toi. Nous passerons nos matinées dans ta bibliothèque à faire des plans, des vers, des projets d'ouvrages, à revoir nos essais précédents, à juger nos progrès. Nous reviendrons dîner avec ton aimable mère, nous repartirons pour aller nous promener dans les environs, un livre dans notre poche, la Nouvelle Héloïse, par exemple. Je me ménage le plaisir de la relire avec toi, ton style en approche souvent. Tu dois, d'ailleurs, y trouver des beautés que je n'y ai peut-être pas remarquées moi-même. Nous partagerons ainsi nos jouissances, et elles seront doublées. Le soir, nous reviendrons causer en famille ou lire une tragédie de Voltaire. Tout ceci sera entremêlé de nos aventures passées, de tout ce qui nous est arrivé depuis que nous nous sommes quittés, de nos jugements divers sur une même chose, ou de notre sympathie sur presque toutes. Nous passerons en revue nos penchants, nos désirs, nos projets, nos moyens, nos ressources. Que d'intérêt, et quels jours dans notre vie vaudront les journées de Bienassis !</p>
+        <p>J'ai une petite collection d'élégies faites dans mes moments perdus. Quelques-unes sont passables. Je porterai tout cela, tu jugeras. J'ai un fatras horrible de pièces en vers ou en prose, commencées, esquissées, abandonnées ; tu dois en avoir autant. Nous verrons tout cela. Il faut concourir pour l'églantine ou la violette aux Jeux floraux prochains. Qu'en penses-tu? La vue n'en coûte rien. Mais adieu, tu dois t'apercevoir du plaisir que j'ai à m'entretenir avec toi par la longueur de cette épître, et je n'ai encore rien dit de cette nouvelle amour qui te brûle; c'est que je ne sais qu'en dire : il me faudrait plus de détails, il me faudrait avoir vu cette charmante jeune personne, il me faudrait causer avec toi. Attends-moi dans les premiers jours d'octobre. En sortant de ma chambre, je vais plaider pour obtenir de partir alors.</p>
+        <p>Ton éternel ami,</p>
+        <p>ALPH. DE LAM.</p>
+        <p>Je n'ai point reçu encore de lettre de Virieu. Il est toujours bien paresseux. Il quittera Paris après cet hiver et s'en ira en Limousin avec sa mère et sa soeur. En as-tu des nouvelles plus fraîches ? — Écris-moi toujours dès que tu auras reçu cette lettre : tant de choses s'opposent encore</p>
+        <p>à l'exécution de mes projets !</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

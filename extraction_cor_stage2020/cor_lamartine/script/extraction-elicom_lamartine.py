@@ -33,7 +33,7 @@ RE_SALUTE = re.compile(r"Adieu")
 
 RE_PS = re.compile(r"P\.-S\..*")
 
-RE_DATELINE = re.compile(r"[Milly|Mâcon|Lyon|Saint\-Point|Péronne|Dijon|Bologne|Livorno|Florence|Napoli|Naples|Lausanne].+[0-9]{4}")
+RE_PLACENAME = re.compile(r"[Milly|Mâcon|Lyon|Saint\-Point|Péronne|Dijon|Bologne|Livorno|Florence|Napoli|Naples|Lausanne].+[0-9]{4}")
 
 #LE FILEPATH
 filepath = "lamartine-cor-vol1.html"
@@ -60,41 +60,27 @@ for p in soup.body.find_all('p'):
 		lettre.append(text)
 
 
+
 E = ElementMaker(namespace="http://www.tei-c.org/ns/1.0", nsmap={None: "http://www.tei-c.org/ns/1.0"})
 for i, lettre in enumerate(lettres[1:]):
-	n, to, date, dateline, salut, salute, signature, ps = "", "", "", "", "", "", "", ""
+	n, to, date, signature = "", "", "", ""
+	ps, salut, salute, placeName = "", "", "", ""
+
 	try:
-		n, to, date, dateline, salut, *corps, salute, signature, ps = lettre
-		#print(signature, signature.isupper())
-		#print("Lamartine %s" %to)
-		if RE_DATELINE.findall(dateline):
-			pass 
-		#if not RE_DATELINE.search(' '.join(corps)):
-			#pass
+		n, to, date, *corps, signature = lettre
 		if RE_LAMARTINE.findall(signature):
 			pass
-		#if RE_DEST.findall(to):
-			#print(to)
-			pass
-			#print(RE_LAMARTINE.findall(signature)) N'en matche que 60 ?!
-		if RE_SALUT.findall(salut):
-			#print(salut)
-			pass
-		#if not RE_SALUT.search(' '.join(corps)):
-			#pass
-		#if not RE_DEST.search(' '.join(corps)):
-			#pass
-			#print('-',corps) PB : le corps matche tout, signature comprise...
-		if RE_SALUTE.findall(salute):
-			#print(salut)
-			pass
-		#if not RE_SALUTE.search(' '.join(corps)):
+		if RE_DEST.findall(to): 
 			pass
 		if RE_PS.findall(ps):
-			#print(ps)
 			pass
-		#if not RE_PS.search(' '.join(corps)):
-			#pass
+		if RE_SALUTE.findall(salute):
+			pass
+		if RE_PLACENAME.findall(placeName):
+			pass
+		if RE_SALUT.findall(salut):
+			pass
+
 	except ValueError:
 		pass
 
@@ -114,7 +100,7 @@ for i, lettre in enumerate(lettres[1:]):
 			E.profileDesc (
 				E.correspDesc(
 					E.correspAction(
-						E.persName("Alphonse de Lamartine", key="Alphonse de Lamartine (...-...)"),
+						E.persName("Alphonse de Lamartine", key="de Lamartine, Alphonse (1790-1869)", ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/"),
 						E.date(date, when="%s" %date, resp=""),
 						type="sent"
 					),
@@ -135,19 +121,16 @@ for i, lettre in enumerate(lettres[1:]):
 		E.text(
 			E.body(E.div(
 				E.opener(
-					E.dateline(date),
-					E.salute(),
+					E.dateline(
+						E.placeName(placeName),
+						E.date(date)
+						),
+					E.salute(salut)
 					),
 				*[E.p(p) for p in corps],
 				E.closer(
-					E.salute(),
-					E.signed(
-						E.name(
-							E.signature()
-							)
-						
-					),
-                                # Il manquait la virgule surement
+					E.salute(salute),
+					E.signed(signature),
 				E.postscript(ps)	
 				), type="letter")
 		)

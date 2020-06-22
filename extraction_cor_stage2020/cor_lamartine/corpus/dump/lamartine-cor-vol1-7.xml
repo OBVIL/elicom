@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="A Belley." resp="">A Belley.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A Belley."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A Belley.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Mâcon, 13 mars 1808.</p>
+        <p>Répondre à la fois à Virieu et à toi, mon cher ami, ce serait trop de plaisir, c'est pourquoi je partage mes jouissances et je commence par le commencement. Je ne te parlerai plus du bonheur de recevoir de tes lettres, c'est une affaire convenue qu'elles me procurent le plus grand plaisir. Je souhaite que les miennes fassent un effet semblable. Tous ces compliments-là sont des lieux communs, comme le dit fort bien Virieu, et dans les lettres comme ailleurs odi profanum vulgus et arceo. Cependant, avant de quitter tout à fait les lieux communs, je veux le dire qu'il fait ici un temps superbe et que j'en profite de mon mieux. C'est bien là parler de la pluie et du beau temps, parlons maintenant d'autre chose.</p>
+        <p>Me voilà décidément livré aux arts libéraux et même aux sciences abstraites. Comme Serpius et Vorion, et même plus qu'eux, je ne m'amuse presque pas, mais aussi je ne m'ennuie jamais. Toutes mes occupations y mettent bon ordre, elles sont très-variées, et elles le seraient encore plus si la maudite paresse, qui se glisse partout, ne venait pas se fourrer jusque dans mon cabinet d'étude. Malgré les précautions que je prends pour la chasser, il m'arrive encore quelquefois de prendre Chateaubriand au lieu de Rollin et de la Caille, et d'écrire à un de mes amis lorsque je devrais traduire une ode d'Horace ou un discours de Cicéron. Nature, nature, qu'on a de peine à te vaincre ! Voilà un aveu un peu honteux, mais qui est-ce qui n'en a pas de honteux à faire?</p>
+        <p>J'ai reçu, il y a quelque temps, une lettre de monsieur Debrosse, datée de Lyon. Je présume qu'il est à présent de retour à Belley et que tout y est plus calme.</p>
+        <p>Au mois de mai je pars pour la campagne. Je laisserai là tous mes maîtres et je compte y passer six semaines. C'est un pays extrêmement sauvage que celui où je vais ; il est tout en prés et en bois ; il n'en sera que plus délicieux au printemps. J'y porterai tous mes livres, surtout ceux qui font compagnie dans la solitude, et ceux qui en parlent si bien, tu sais celui dont je parle. Qu'est-ce qui me manquerait si je pouvais vous y rencontrer ?"</p>
+        <p>J'ai passé un carnaval bien plus tranquille que vous et vous avez eu certainement plus de bruit et de plaisir que moi pendant ces jours gras. Monsieur Vrintz a-t-il fait quelque beau mardi gras, et toi un testament en forme bien long et bien malin ? Virieu a-t-il chanté le roi' Dagobert et Revoux joué une marche ou une bourrée, et quelque nouveau Fougas n'a-t-il pas paru sur l'horizon ?</p>
+        <p>Adieu, mon cher ami, je t'embrasse de tout moncoeur; moncoeur; te charge de mille choses pour Virieu,</p>
+        <p>Laboré, GalLier, Revoux, St.-Pulgent, etc., etc., et je suis pour toujours ton ami,</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

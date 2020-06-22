@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Étudiant au collége de Belley." resp="">Étudiant au collége de Belley.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Étudiant au collége de Belley."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Étudiant au collége de Belley.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Le 26 juillet 1808.</p>
+        <p>Pourquoi, mon cher ami, m'as-tu fait des reproches aussi vifs de ma négligence à écrire? Qu'y as-tu gagné? Pas grand'chose. peut-être même un peu d'ennui: je t'accable de lettres, et je suis sûr que tu gémis déjà sous le poids de mon amitié. Cependant j'ai tant de plaisir à l'écrire que, sans m'inquiéter si cela t'ennuie ou si cela t'amuse, je ne taris plus. Peut-être que je montre un peu d'égoïsme, mais tu devais me mieux connaître quand tu m'as mis au rang de tes amis. J'ai ri en l'entendant faire de si jolis châteaux en Espagne sur ton bonheur futur à Bienassis. Je souhaite de tout mon coeur qu'ils se réalisent pleinement ; mais tu m'en diras des nouvelles. J'ai écrit ces jours passés à Revoux et à Remondange, ils ont dû recevoir mes lettres. Je vois d'après ce que tu me mandes que vous êtes dans les grandeurs, et je vous en félicite de tout mon coeur. Vous allez avoir bien des compliments à faire, mais aussi bien des congés.</p>
+        <p>Tu vas, dis-tu, être tourmenté pour choisir un état de vie, et tu es résolu à n'en choisir aucun. Tu. te trouves précisément dans une position absolument opposée à la mienne. Au reste je suis bien aise de te voir dans ces dispositions-là. Cela me console, nous serons deux, et nous n'aurons apparemment autre chose à faire qu'à nous ennuyer et à nous écrire. Nous nous visiterons l'un l'autre, et s'il m'est permis de faire aussi des projets, nous voyagerons ensemble quando res sinebit. Nous raconterons ensuite ce que nous aurons vu et ce que nous n'aurons pas vu, nous dirons les périls que nous n'aurons pas essuyés et les jolis vers impromptu que nous n'aurons pas faits. Peut-être as-tu bien raison de préférer la tranquillité, le commerce de tes amis et les lettres à tout le tumulte des affaires, et de dire, comme Sosie :</p>
+        <p>Un mal d'opinion ne touche que les sots ; Et moi, je prends pour ma devise : Moins d'honneur et plus de repos. Je crois que cela fait honneur à ion jugement, et cependant j'avoue que pour, mon compte je ne pense pas de même. Je dirais volontiers, comme quelqu'un que tu connais : De la gloire et de l'argent! Tu vas peut-être bien le moquer de moi de ce que je mets ainsi ensemble deux choses que la nature sépare toujours, et tu vas rougir d'avoir un ami qui tient à l'argent. Rassure-toi cependant, je n'y tiens point réellement, j'en voudrais seulement pour en jouir et le dépenser noblement, pour en faire jouir mes voisins et mes amis ; car il en faut, quoi qu'on en dise.</p>
+        <p>La gloire ne promet qu'un nom et des lauriers.</p>
+        <p>À propos de gloire, tu vas sans doute en acquérir une bonne dose. Je le vois d'ici monté sur des tréteaux, l'oeil fier, le sourcil froncé, la tête haute, l'air rébarbatif, prêt à répondre à tout venant, ou bien déjà dans la chaleur de la dispute, crachant le latin à pleine bouche, armé d'un dilemme invincible, confondre, terrasser un malheureux savant du voisinage qui sera venu là pour son malheur. Courage, mon cher ami, la victoire approche! Quel plaisir n'auras-tu pas ensuite de voir ta chambre tapissée de thèses que. ion nom embellira, d'en distribuer à tes amis, à tes parents, à tes oncles qui ne sauront plus le latin, et surtout à ta tante la religieuse ! Où en es-tu de ta philosophie? Comment se porte M. Vrintz? Ne m'oublie pas auprès de lui. Il est temps que je finisse ; mais je veux auparavant te prier de m'écrire toujours aussi exactement que tu l'as fait ces deux dernières fois, toujours avec autant de détails et même plus. Ne sépare pas tant tes lignes ni tes mots et écris toujours quatre pages. Si je voulais y regarder d'un peu près, je dirais bien que deux des miennes écrites bien serrées en tiennent quatre des tiennes. Mais j'espère que nous en viendrons à doubler les feuilles. Adieu, regarde-moi toujours comme le meilleur de tes amis. Dis-moi si tu as eu des nouvelles récentes de Virieu.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

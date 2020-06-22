@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="Parce juvenilibus." resp="">Parce juvenilibus.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Aymoa de Virieu Au Grand-Lemps. (...-...)">A monsieur Aymoa de Virieu Au Grand-Lemps.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Parce juvenilibus."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Parce juvenilibus.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Tandis que d'un léger coton Mon visage frais se colore, Que tout sourit à mon aurore, Et que raisonner en Caton Chez moi serait risible encore, De mon espoir, de mes désirs Je veux divertir ta paresse, Et, laissant l'ingrate vieillesse S'affliger sur ses souvenirs, Une heure ou deux de ma jeunesse, Parler au moins de mes plaisirs.</p>
+        <p>Sur une plus courte mesure Pour toi je vais mouler mes vers Et dans mille sentiers divers Courir à huit pieds sans césure.</p>
+        <p>Voilà, mon cher ami, le début de l'épître que je te destine; elle sera intitulée : Ma jeunesse. Tu vois que je me donne un large champ. Il y a de</p>
+        <p>I. 7 quoi semer. Il y aura un morceau pour l'amour et un autre pour l'espérance, un autre sur les charmes de la poésie pour un jeune homme, etc., etc. Je viens d'accoucher de cet exorde, qu'en pensestu? Dis-moi franchement ton avis sur le moindre mot. Si j'en fais encore quelques morceaux, je le les enverrai de même pour être critiqués, si toutefois ils en valent la peine; mais ne sois point flatteur ni même trop indulgent.</p>
+        <p>Quels autres conseils veux-tu que je le donne que celui de profiter de l'heureuse position dans laquelle tu te trouves avec M. Lefèvre, de dessiner à force et de continuer lorsque tu seras à Paris. Mais avec cela lis toujours et écris, traite quelque sujet qui te passe par l'esprit, bien ou mal ; cela t'exercera et ensuite tu en recueilleras les fruits. Voilà ce que je fais, j'espère que cela me sera utile par la suite. Je viens d'aller chercher tout à l'heure le cours de littérature de La Harpe et je me dispose à le lire avec attention et suite. J'ai tu Ossian ces jours-ci, et, ne sachant que faire, j'avais commencé à en mettre en vers un épisode qui m'avait touché. C'est celui d'un vieillard qui pleure son chien mort. Je veux que mon premier chien s'appelle Gorban comme le sien; ça ressemble à Gorgo. Voici mon début :</p>
+        <p>Toi qui chantais l'amour et les héros, Toi d'Ossian la compagne assidue, Harpe plaintive, en ce triste repos Ne reste pas plus longtemps suspendue ! Du vent du soir j'entends les sifflements; L'obscur brouillard se promène à pas lents; Porté vers nous sur des nuages sombres, Je vois venir le peuple heureux des ombres : Chante ! la voix saura les arrêter. De leurs exploits recueille la mémoire. Sans doute encore elles aiment leur gloire ; Oui, je le vois, elles vont t'écouter ! L'air est serein, la nuit devient plus pure, Et le zéphir, qui craint de te troubler, En soupirant ose à peine ébranler De ce gazon la mobile verdure.</p>
+        <p>Tu sais que les ombres ou les nuages étaient leurs ancêtres.</p>
+        <p>Voici comment commence l'aventure, comme tous les contes de fées :</p>
+        <p>Il était nuit ; l'azur calme des flots Réfléchissait les feux de mille étoiles, Un doux zéphir se jouait dans mes voiles, Et le sommeil sur tous mes matelots. A pleines mains répandait ses pavots ; Seul je veillais, et ma harpe fidèle, Qu'accompagnaient mes douloureux accents, Mêlait ses sons au murmure des vents, Au bruit des flots que tendait la nacelle, Quand tout à coup de son disque argenté L'astre des nuits dérobe la clarté ; Le vent s'élève, et l'onde qui s'agite Sur des écueils tremblants nous précipite...</p>
+        <p>J'en ai fait une centaine de vers; qu'en dis-tu? C'est un mauvais genre. J'ai lâché cependant d'y mettre de la simplicité, mais je crains de t'ennuyer, et c'est peut-être déjà fait. Au reste je ne finirais pas.</p>
+        <p>Je pars le 16 pour Lyon. Viens-y donc ! je n'y resterai que quinze jours. Ne m'écris plus à Mâcon, à moins que tu n'imagines que ta lettre puisse encore m'arriver. Tu n'as pas eu Guichard ni les autres convives que tu attendais. J'ai eu de leurs nouvelles. Adieu, mon cher ami, si tu m'écris à Lyon, mon adresse est à M. Alphonse de Lamartine, chez madame Vasse-Roquemont, rue Saint-Dominique, à Lyon.</p>
+        <p>Si tu as des commissions, je m'en chargerai volontiers. Adieu encore une fois.</p>
+        <closer>
+          <salute></salute>
+          <signed>AL. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

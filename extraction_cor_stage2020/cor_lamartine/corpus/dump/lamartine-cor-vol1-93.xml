@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)" ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de Lamartine</persName>
+          <date when="A Bienassis." resp="">A Bienassis.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A monsieur Guichard de Bienassis (...-...)">A monsieur Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A Bienassis."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A Bienassis.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <p>Dijon, 7 juillet 1812.</p>
+        <p>Où es-tu donc ? que deviens-tu donc, mon cher ami? Ne te souvient-il plus que tu as par le monde un ancien et fidèle ami, que tu as passé la jeunesse avec lui, que tu devais y passer ta vie, que pendant cinq ou six ans un commerce fréquent mettait en commun vos plaisirs et vos peines, vos projets, vos folies et jusqu'à vos amours ? que vous vous étiez juré vingt fois de ne jamais laisser éteindre ce feu sacré qui vous unissait ? As-tu oublié nos jours heureux passés à Bienassis ou au Lemps ? As-tu craint que l'absence ail altéré la vivacité de notre liaison ? Pourquoi ne pas me répondre une seule ligne à cinq où six lettres que je t'ai adressées depuis mon voyage ? Pourquoi ne pas me dire au moins où tu es ? J'ai su seulement que tu devais aller à Paris. Y es-tu déjà ? Qu'y fais-tu? A tout hasard, j'écris toujours à Crémieu. Je pense que la mère le fait passer les lettres.</p>
+        <p>Tu as peut-être su que j'avais passé l'hiver à Naples avec Aymon ? Nous l'y avons tous les jours regretté. Nous t'avons écrit en commun. Rien n'a pu le réveiller de la paresse, ni faire cesser ton silence obstiné. Tu as beau faire et beau vouloir, je ne consentirai jamais à cette langueur dans nos rapports, que tu parais vouloir établir. J'irai plutôt te poursuivre à Grenoble, à Paris, à Bienassis, et te sommer des paroles que tu m'as données mille fois. Que me répondras-tu ? Les mauvaises raisons que tu nous as écrites dix fois, et qui, lors même qu'elles seraient fondées (et certes elles ne le sont pas), prouveraient seulement que tu as une bien mauvaise opinion de mon coeur. Tout ce que lu prétends devoir nous séparer de notre carrière devrait au contraire nous réunir. Ne suisje pas dans la même position que toi ? Tu as une petite fortune et moi aussi ; tu es gêné dans tes goûts et moi aussi.</p>
+        <p>(Une partie de cette feuille est déchirée. Je vais passer une semaine ou deux à Paris. J'espère, à mon retour, trouver deux mots de toi. En attendant, bon gré, mal gré, jet aime et t'embrasse comme autrefois, et t'aimerai toute ma vie de même.</p>
+        <closer>
+          <salute></salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+          <postscript></postscript>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
