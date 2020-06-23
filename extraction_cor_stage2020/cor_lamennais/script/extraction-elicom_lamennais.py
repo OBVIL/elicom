@@ -45,8 +45,6 @@ for p in soup.body.find_all('p'):
 		lettre.append(text)
 
 
-print(lettres)
-
 E = ElementMaker(namespace="http://www.tei-c.org/ns/1.0", nsmap={None: "http://www.tei-c.org/ns/1.0"})
 for i, lettre in enumerate(lettres[1:]):
 	n, to, date, signature = "", "", "", ""
