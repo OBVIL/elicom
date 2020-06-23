@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="J'ai reçu la lettre de la bonne Villiers, qui m'a fait un grand, grand plaisir. Elle m'en annonçait une de vous, Mlle Ninette, et c'est de celle-ci qu'il est bien juste que je vous remercie directement. J'admire que dans les embarras de la rougeole d'Antoinette et dans la joie de vos indemnités enfin liquidées, vous avez trouvé le moyen de vous souvenir de moi, et celui de me le dire, et de me donner de vos nouvelles à toutes, et d'autres nouvelles encore, et enfin de m'écrire quatre pages gaies, aimables, comme tout ce que vous écrivez. Je ne saurais trop vous en rendre grâces : voilà ce qui s'appelle de l 'ainitié. J'ai pourtant quelques petits scrupules, et d'abord la crainte qu'en suivant le mouvement de votre cœur sans assez consulter vos forces, vous ne vous soyez fatiguée hors de mesure; et puis le temps que vous avez dérobé à votre broderie, et peut-être, hélas ! à vos poules, à vos serins, à Mako lui-même... Ces pensées me troublent un peu; car enfin, chaque chose a son rang, et je suis loin de prétendre à de si grands sacrifices. Au moins, à présent, reposez-vous, respirez, prenez haleine; je puis attendre désormais ; trop serait trop, aussi. Modérez cette bonté excessive dont je serais peu digne, si je l abandonnais à ses inspirations. Dites-moi, je vous supplie, — car une crainte en fait naître une autre,—dites-moi, n'aurais-je point été innocemment la cause malheureuse d'un de ces dérangements pénibles, que vous avez la discrétion d'appeler des douleurs d 'estomac, mais qui sont bien plutôt des souffrances du cœur, qui vous saisissent toutes les fois qu'à table ou ailleurs -vous venez" resp="">J'ai reçu la lettre de la bonne Villiers, qui m'a fait un grand, grand plaisir. Elle m'en annonçait une de vous, Mlle Ninette, et c'est de celle-ci qu'il est bien juste que je vous remercie directement. J'admire que dans les embarras de la rougeole d'Antoinette et dans la joie de vos indemnités enfin liquidées, vous avez trouvé le moyen de vous souvenir de moi, et celui de me le dire, et de me donner de vos nouvelles à toutes, et d'autres nouvelles encore, et enfin de m'écrire quatre pages gaies, aimables, comme tout ce que vous écrivez. Je ne saurais trop vous en rendre grâces : voilà ce qui s'appelle de l 'ainitié. J'ai pourtant quelques petits scrupules, et d'abord la crainte qu'en suivant le mouvement de votre cœur sans assez consulter vos forces, vous ne vous soyez fatiguée hors de mesure; et puis le temps que vous avez dérobé à votre broderie, et peut-être, hélas ! à vos poules, à vos serins, à Mako lui-même... Ces pensées me troublent un peu; car enfin, chaque chose a son rang, et je suis loin de prétendre à de si grands sacrifices. Au moins, à présent, reposez-vous, respirez, prenez haleine; je puis attendre désormais ; trop serait trop, aussi. Modérez cette bonté excessive dont je serais peu digne, si je l abandonnais à ses inspirations. Dites-moi, je vous supplie, — car une crainte en fait naître une autre,—dites-moi, n'aurais-je point été innocemment la cause malheureuse d'un de ces dérangements pénibles, que vous avez la discrétion d'appeler des douleurs d 'estomac, mais qui sont bien plutôt des souffrances du cœur, qui vous saisissent toutes les fois qu'à table ou ailleurs -vous venez</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="28 mai 1827. (...-...)">28 mai 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'ai reçu la lettre de la bonne Villiers, qui m'a fait un grand, grand plaisir. Elle m'en annonçait une de vous, Mlle Ninette, et c'est de celle-ci qu'il est bien juste que je vous remercie directement. J'admire que dans les embarras de la rougeole d'Antoinette et dans la joie de vos indemnités enfin liquidées, vous avez trouvé le moyen de vous souvenir de moi, et celui de me le dire, et de me donner de vos nouvelles à toutes, et d'autres nouvelles encore, et enfin de m'écrire quatre pages gaies, aimables, comme tout ce que vous écrivez. Je ne saurais trop vous en rendre grâces : voilà ce qui s'appelle de l 'ainitié. J'ai pourtant quelques petits scrupules, et d'abord la crainte qu'en suivant le mouvement de votre cœur sans assez consulter vos forces, vous ne vous soyez fatiguée hors de mesure; et puis le temps que vous avez dérobé à votre broderie, et peut-être, hélas ! à vos poules, à vos serins, à Mako lui-même... Ces pensées me troublent un peu; car enfin, chaque chose a son rang, et je suis loin de prétendre à de si grands sacrifices. Au moins, à présent, reposez-vous, respirez, prenez haleine; je puis attendre désormais ; trop serait trop, aussi. Modérez cette bonté excessive dont je serais peu digne, si je l abandonnais à ses inspirations. Dites-moi, je vous supplie, — car une crainte en fait naître une autre,—dites-moi, n'aurais-je point été innocemment la cause malheureuse d'un de ces dérangements pénibles, que vous avez la discrétion d'appeler des douleurs d 'estomac, mais qui sont bien plutôt des souffrances du cœur, qui vous saisissent toutes les fois qu'à table ou ailleurs -vous venez"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>4 Réponse à une lettre que je devais écrire et que je n'avais pas écrite (Note de Mlle de Lucinière.)</p>
+        <p>à vous ressouvenir de vos amis absents? Que Dieu vous guérisse et qu'il me pardonne si j'étais, moi pauvret, pour quelque chose dans ces maux cruels dont vous afflige, entre la soupe et le bouilli, votre extrême sensibilité!</p>
+        <p>J'espère qu'Antoinette est tout à fait rétablie de sa rougeole, et Adèle de sa longue indisposition.</p>
+        <p>Jeudi, jour de l'Ascension, j'eus encore une attaque de ma maladie. J'ai renoncé au maigre, suivant le conseil de Mlle de Villiers. Mlle de Tremereuc m'a mandé que je ne la verrais point à la Chenaie, ce qui me peine beaucoup ; car en voilà encore pour deux ans, probablement.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Mon frère vous fait part, dans la lettre qui accompagne celle-ci1, du projet conçu par quelques prélats d'une condam-" resp="">Mon frère vous fait part, dans la lettre qui accompagne celle-ci1, du projet conçu par quelques prélats d'une condam-</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, le 14 avril 1827. (...-...)">Paris, le 14 avril 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mon frère vous fait part, dans la lettre qui accompagne celle-ci1, du projet conçu par quelques prélats d'une condam-"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>' Voici la lettre de l'abbé Jean de Lamennais. Après l'avoir lue, on ne nous demandera pas pourquoi nous la citons.</p>
+        <p>« A M. LE COMTE DE SENFFT.</p>
+        <p>« Paris, le 9 avril 1827.</p>
+        <p>" Mon très-cher et respectable ami,</p>
+        <p>« Une occasion de vous écrire se présente : je la saisis avec empressement, car 'ai besoin de vous dire combien nous souffrons de vous savoir toujours souffrant:</p>
+        <p>nation du sens commun. On cherche à y préparer les esprits par des brochures et par des mandements. C'est le moyen qu'a imaginé la faction gallicane pour attaquer, sans trop se commettre, les défenseurs du Saint-Siège et de ses doctrines, que l'évêque de Dijon appelle des doctrines diverses et étrangères. Voilà où en sont déjà quelques évêques en France. Il me semble que cela devrait faire faire des réflexions sérieuses. Je vois tout s'apprêter pour un grand combat. Le parti antiromain s'organise et s'empare peu à peu de l'épiscopat. Si on le laisse user tranquillement du pouvoir qui est entre ses mains pour arriver au but qu'il se propose d'atteindre, s'il ne trouve aucun obstacle aux projets qu'il ne craint pas d'avouer, on verra le schisme éclater au moment même où le clergé est plus catholique, peut-être, qu'il ne le fut à aucune époque de la monarchie; car les bonnes doctrines en tout genre se répandent de jour en jour avec une rapidité qui</p>
+        <p>les dernières nouvelles de M— de Senfft nous ont profondément attristés, et il nous tarde bien d 'en recevoir de plus consolantes. Ah! que ne sommes-nous plus près de vous !</p>
+        <p>« Je suis venu ici pour chercher mon frère et l'emmener en Bretagne : quoique sa santé soit meilleure, je n'ai pas voulu qu'il s'exposât à voyager seul, ni qu'il fit la route tout d 'un trait : nous ne prenons donc la malle-poste que pour jusqu'à Mayenne : là, nous trouverons ma voiture et mes chevaux, qui nous conduiront jusqu'à la Chenaie à^ petites journées, et nous coucherons tous les soirs. Moyennant ces précautions, j 'ai tout lieu d'espérer que Féli n'éprouvera aucun accident. A la Chenaie, seul au. milieu de ses bois et de ses livres, il jouira de quelque repos, et il en a grand besoin après tant de secousses douloureuses. Hélas! il n'en goûtera jamais un parfait. pieu l'a fait soldat; sa vie est un grand combat contre tous les ennemis de la vérité, dont la haine est infatigable. Ils préparent, dit—on, une attaque nouvelle, non plus contre l'ultramontanisme, du moins d'une manière directe, mais contre le sens commun, que quelques prélats ont pris en une singulière aversion. Au reste, il est bien clair que ce n'est pas de cette doctrine purement philosophique qu 'on s'effraye sérieusement, mais qu'on voudrait flétrir le défenseur du Saint-Siége, afin de diminuer son autorité toujours croissante sur les esprits, et de mettre obstacle aux témoignages de haute bienveillance qu'il pourrait recevoir d'ailleurs. Quels hommes, et quel siècle!</p>
+        <p>« Si vous reveniez à Paris, vous seriez surpris du changement qui s'est opéré dans les esprits depuis votre départ : on n'en trouve pas deux qui soient d'accord ni qui s entendent : c'est vraiment quelque chose de prodigieux, et l'indice le plus certain d une inévitable et complète dissolution de la société.</p>
+        <p>« Adieu, mon très-cher et respectable ami : conservez-moi toujours, je vous en prie, une place dans votre souvenir et dans votre cæur. Je demande la même irrâeo L il M.. de Senfft et à )1". Louise, et je suis, pour la vie,</p>
+        <p>« Votre tout dévoué,</p>
+        <p>« JEA-,. »</p>
+        <p>m'étonne. Mais les pervers et les ambitieux, armés de la force et de l'autorité, triompheront à la fin de la conscience des masses.</p>
+        <p>M. de Trevern va définitivement à Strasbourg; j'ignore les détails de cette affaire. Le résultat surprend tout le monde. Certaines gens y attachaient une grande importance, et se vantent de cette translation comme d'une victoire due à leur fermeté. ûn ne dit point si M. Tharin reprendra ses fonctions de précepteur. Peu importe, au fond. La France est jugée ; il faudra qu'elle subisse son supplice. Il n'est personne, même parmi les plus ministériels, qui n'attende une catastrophe. Cela -ne peut pas durer; voilà le mot qui est dans toutes les bouches; et je ne sais, en vérité, si l'on trouverait quelqu'un qui désire que cela dure. Vous ne vous représentez pas à quel point on est las de ce que nous avons. Le mépris et le dégoût sont au comble. Tirez notre horoscope d'après cela.</p>
+        <p>J'ai revu le N., et j'en ai été on ne peut pas plus content.-Prions Dieu; il n'y a de paix et d'espérance qu'en lui.</p>
+        <p>Adieu, adieu; je tombe de fatigue. La pensée me manque, et je n'ai plus à mettre ici que mon cœur, qui vous sera toujours, toujours, si tendrement dévoué1.</p>
+        <p>1 Encore une lettre dont l'insertion nous paraît utile.</p>
+        <p>« ),' ABnÉ GERBET A Il. LE COMTE DE SENFFT.</p>
+        <p>« Paris, 1" mai 1827.</p>
+        <p>, « Monsieur le comte,</p>
+        <p>« Je vois, par les lettres qui arrivent de Gênes à l'adresse de l'abbé de Lamennais à Paris, que vous n'êtes pas encore informé de son retour en Bretagne ; et vous pourriez être inquiet de ne pas recevoir de réponse aussitôt que d'ordinaire. Il est parti d'ici, avec l'abbé Jean, le lundi de Pâques, en assez bon état. Avant de reutrer à la Chênaie, il devait passer quelques jours à la campagne de M. Blaize. C'est de là que j'ai reçu dernièrement une lettre de lui, qui m'annonce qu'il a bien supporté le voyage, à la fatigue près : il devait se rendre incessamment à la Chênaie, le lui ai adressé les lettres envoyées ici.</p>
+        <p>« Nous avons changé de logement quelques jours avant son départ. Le nouvel .appartement, qui a moins de bruit, très-bon air et très-belle vue, est plus de son goût. Mais la Chenaie vaut toujours mieux pour sa santé et ses travaux. J'irai le retrouver au mois de juillet.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Ce que vous me dites de vos voyages, monsieur le marquis, s'appliquerait parfaitement au ,Château par excellence ', que tant de gens aussi prennent pour une auberge, et c'est à qui pourra y descendre; descendre est le mot. Tant y a que chacun dit des occupants actuels qu'ils ne se relèveront jamais. Mais qui se lève et se relève, c'est bien M. de Ch Miséricorde ! quel homme, malgré la privation de place, d honneurs et de" resp="">Ce que vous me dites de vos voyages, monsieur le marquis, s'appliquerait parfaitement au ,Château par excellence ', que tant de gens aussi prennent pour une auberge, et c'est à qui pourra y descendre; descendre est le mot. Tant y a que chacun dit des occupants actuels qu'ils ne se relèveront jamais. Mais qui se lève et se relève, c'est bien M. de Ch Miséricorde ! quel homme, malgré la privation de place, d honneurs et de</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Chenaie, le 15 novembre 1825, (...-...)">A la Chenaie, le 15 novembre 1825,</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Ce que vous me dites de vos voyages, monsieur le marquis, s'appliquerait parfaitement au ,Château par excellence ', que tant de gens aussi prennent pour une auberge, et c'est à qui pourra y descendre; descendre est le mot. Tant y a que chacun dit des occupants actuels qu'ils ne se relèveront jamais. Mais qui se lève et se relève, c'est bien M. de Ch Miséricorde ! quel homme, malgré la privation de place, d honneurs et de"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>le Château ; — sous la Restauration, le palais des Tuileries était ;¡insi désigné. Le même mot signifiait l'entourage, le conseil intime du monarque.</p>
+        <p>fortune*, dans laquelle il languit si pitoyablement ! Le roi et lui, lui et le roi, voilà toute l'histoire de France. Vous autres Français, vous ne saviez pas cela, mais il vous l'apprend. Vous voudrez bien aussi vous souvenir que la bonté est une vertu qui semble avoir été faite expias pour Charles X, quoique lui, Ch , soit persécuté par CharlesX, qui ne lui a pas encore accordé de trêve. Patience pourtant, cela viendra, et le grand homme se verra dans la gloire de Niquée, à moins cependant qu'on ne soit résolu d'en finir de la monarchie. Il promet probablement de la protéger jusqu'au bout, et il faut lui en savoir gré, car, du reste, il s'accommoderait parfaitement de la République, « à laquelle nous courons, » dit-il avec trop de raison, bien qu'il ne soit pas tout à fait exact qu'il soit le premier à le dire.</p>
+        <p>Le monde chère Agnès, esl line étrange chose.</p>
+        <p>Autre auberge, l'Académie, où il ne tiendra qu'à vous, monsieur, de surprendre M. le duc de Montmorenci au débotté. Ce n'est pas précisément, dit-on, « un talent littéraire, » mais c'est un « talent de tribune ; » il y est clair et même élégant., ainsi qu'en conversation. Lui et les siens disposant d'ailleurs de plusieurs lits aux Incurables, on ne saurait s'empêcher d'avouer que c'est une acquisition précieuse pour l'Académie. Je serais curieux de savoir s'il est vrai que M. de Corbière se soit mis sur les rangs. Ce serait pousser bien loin les prévoyances de la paresse. Il y aurait le discours, à la vérité; mais c'est une fois pour toutes. Et puis, n'y a-t-il pas M. Godiche'?</p>
+        <p>On raconte merveilles des trois « Ourika mâles » qui nous</p>
+        <p>1 « Qu'aurait-il (Chateaubriand) à perdre avec la République? Comme il le dit, il est sans place, sans honneurs, sans fortune..., ce qui est incontestable, car il n'a de place que la pairie et le ministère d'État, d'honneurs que les Ordres du roi, la croix de Saint-Louis, la Légion, et, Dieu me pardonne, la Toison-d'Or, etc., etc. A l'égard de la fortune, les traitements ordinaires et extraordinaires ..... » — M. de Coriolis à Lamennais, 8 novembre 1825.</p>
+        <p>2 Secrétaire particulier de M. de Corbière, dont le nom malheureux défrayait alors tous les faiseurs d'épigrammes.</p>
+        <p>sont arrivés d'HaHi l, La sensibilité exquise qu'ils ont montrée à l'occasion de M. Grégoire 2 et pour M. Grégoire mé-riterait mé-riterait l'indépendance dont les a gratifiés M. de Villèle". On aime que les hommes d'État apprécient les choses du cœur. Je ne suis pas, à beaucoup près, aussi satisfait de M. Laffitte; c'est réellement un rude prêteur. Il n'a été sensible que jusqu'à 76, ce qui n'a pas peu déconcerté les Ourika, qui avaient fixé leur minimum à 90. Ils prétendent, les bonnes gens, que le banquier libéral traite avec eux de Turc à Maure; mais ils se trompent. M. Laffitte n'est pas Turc; je le soupçonne plutôt d'être Grec.</p>
+        <p>Ceci me ramène à la politique, j'entends la haute politique. Savez-vous, Monsieur, qui sera roi bientôt ? les savants, les artistes et les industriels. Ne vous moquez pas, je le tiens de bonne part; cela est même presque officiel, puisque je l'ai lu dans le Producteur, journal nouveau, qui paraît à la Bourse tous les samedis.</p>
+        <p>Il fait, de plus, un appel aux gens bien pensants, afin qu'ils s'entendent pour détruire tout ce qui reste des idées vagues et mystiques, c'est-à-dire ce monarchisme dont la France ne veut plus, comme nous l'assure feu le Génie du Christianisme. Que dirait aujourd'hui celui qui disait : Nos neveux verront un beau tapage?</p>
+        <p>Sérieusement, nous allons Dieu sait où, et nous allons vite. La société ressemble à ces chars qu'une force invisible et pro-</p>
+        <p>1 Envoyés haïtiens qui venaient négocier l'emprunt. Allusion au roman de M"* de Duras.</p>
+        <p>Il Grégoire, ancien évêque constitutionnel de Blois, conventionnel, ayant non pas voté, comme on l'a dit, mais publiquement approuvé la condamnation de Louis XVI, depuis sénateur et comte de l'Empire; resté fidèle malgré tout, à ses doctrines émancipatrices et philanthropiques. Son élection comme député de l'Isère, en 1819, attaquée par MM. Laine et La Bourdonnaie, défendue par Benjamin Constant et Manuel, devint l'occasion d'une des premières grandes luttes parlementaires qui signalèrent les/débuts dp. la réaction libérale. Grégoire était un des abolitionnistes les plus zélés et les plus actifs.</p>
+        <p>r&gt; L'Indépendance de la République d'Haïti avait été reconnue de fait par M. de Villèle, en 1825 (ordonnance du 17 avril). Elle fut consacrée par une loi que les deux Chambres votèrent les 20 mars et 25 avril 1826.</p>
+        <p>digieuse emporte dans des chemins de fer. Peut-être nya-t-il plus qu'à la laisser aller, puisque ce mouvement amuse et les rois et les peuples. Je conviens, cependant, qu'un bon journal pourrait encore faire quelque bien; mais où est-il, ce journal? et où sont ceux qui consentiront à s'unir pour une pareille guerre? Chacun cherche sa place, ses honneurs, sa fortune, et voilà tout. Et puis, que dire à des gens qui aujourd'hui, en France, s'évertuent pour être duc? J'aimerais autant celui qui solliciterait une place de cocher dans une entreprise de voitures à vapeur. Que d'hommes pourtant en sont là!</p>
+        <p>Je me plais tellement dans ma solitude, que j'ignore tout à fait quand je la quitterai pour retourner à Paris.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

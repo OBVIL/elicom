@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Il y a, monsieur le marquis.'quoi que disent aucuns, de doux et d'heureux moments dans la vie, et c'est une réflexion qui me vient toujours chaque fois que je lis une de vos lettres ; car, outre le plaisir qu'y Irouve mon esprit, je suis touché et fier d'être un peu aimé de vous. Soyez sûr que je vous le rends bien, et qu'en ce sens-là j'ai beaucoup de rancune. Il parait qu'il y en a d'une autre espèce entre M. de Bonald et M. de Chateaubriand. Tout le monde, en province, a reçu l'écrit du premier, dans lequel il prouve qu'il n'est pas léger, — je veux dire qu'il ne change pas légèrement d'opinion, — et même qu'il n'en change jamais, ce qui est encore plus sûr. Il y a aujourd'hui une louable émulation entre nos écrivains politiques, à qui ressemblera le plus à Dieu : ils sont tous « infaillibles et immuables ; » ce n'est déjà pas mal ; cependant leur zèle va plus loin encore, et ils seraient surtout charmés d'être « tout-puissants. » Je remarque que l'illustre auteur de la Législation primitive se familiarise de plus en plus avec la législation de la Charte, qui n'est pas primitive du tout. Quant au ministère, savez-vous pourquoi il n'est pas, — car il faut l'avouer, — absolument parfait? C'est qu'on lui donne des distractions, et qu'au milieu de tout le bruit qu'on fait, il est impossible qu'il ne perde pas quelquefois sa présence d'esprit. Or donc, pour la lui rendre, il faut obliger le public à se taire, au moins le public qui écrit ; d'où la nécessité de la censure. Nous serons donc censurés, parce qu'il y a, nous dit-on, absence d'esprit chez ceux qui nous gouvernent; cela est consolant." resp="">Il y a, monsieur le marquis.'quoi que disent aucuns, de doux et d'heureux moments dans la vie, et c'est une réflexion qui me vient toujours chaque fois que je lis une de vos lettres ; car, outre le plaisir qu'y Irouve mon esprit, je suis touché et fier d'être un peu aimé de vous. Soyez sûr que je vous le rends bien, et qu'en ce sens-là j'ai beaucoup de rancune. Il parait qu'il y en a d'une autre espèce entre M. de Bonald et M. de Chateaubriand. Tout le monde, en province, a reçu l'écrit du premier, dans lequel il prouve qu'il n'est pas léger, — je veux dire qu'il ne change pas légèrement d'opinion, — et même qu'il n'en change jamais, ce qui est encore plus sûr. Il y a aujourd'hui une louable émulation entre nos écrivains politiques, à qui ressemblera le plus à Dieu : ils sont tous « infaillibles et immuables ; » ce n'est déjà pas mal ; cependant leur zèle va plus loin encore, et ils seraient surtout charmés d'être « tout-puissants. » Je remarque que l'illustre auteur de la Législation primitive se familiarise de plus en plus avec la législation de la Charte, qui n'est pas primitive du tout. Quant au ministère, savez-vous pourquoi il n'est pas, — car il faut l'avouer, — absolument parfait? C'est qu'on lui donne des distractions, et qu'au milieu de tout le bruit qu'on fait, il est impossible qu'il ne perde pas quelquefois sa présence d'esprit. Or donc, pour la lui rendre, il faut obliger le public à se taire, au moins le public qui écrit ; d'où la nécessité de la censure. Nous serons donc censurés, parce qu'il y a, nous dit-on, absence d'esprit chez ceux qui nous gouvernent; cela est consolant.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Chenaie, le 12 novembre 18'27. (...-...)">A la Chenaie, le 12 novembre 18'27.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Il y a, monsieur le marquis.'quoi que disent aucuns, de doux et d'heureux moments dans la vie, et c'est une réflexion qui me vient toujours chaque fois que je lis une de vos lettres ; car, outre le plaisir qu'y Irouve mon esprit, je suis touché et fier d'être un peu aimé de vous. Soyez sûr que je vous le rends bien, et qu'en ce sens-là j'ai beaucoup de rancune. Il parait qu'il y en a d'une autre espèce entre M. de Bonald et M. de Chateaubriand. Tout le monde, en province, a reçu l'écrit du premier, dans lequel il prouve qu'il n'est pas léger, — je veux dire qu'il ne change pas légèrement d'opinion, — et même qu'il n'en change jamais, ce qui est encore plus sûr. Il y a aujourd'hui une louable émulation entre nos écrivains politiques, à qui ressemblera le plus à Dieu : ils sont tous « infaillibles et immuables ; » ce n'est déjà pas mal ; cependant leur zèle va plus loin encore, et ils seraient surtout charmés d'être « tout-puissants. » Je remarque que l'illustre auteur de la Législation primitive se familiarise de plus en plus avec la législation de la Charte, qui n'est pas primitive du tout. Quant au ministère, savez-vous pourquoi il n'est pas, — car il faut l'avouer, — absolument parfait? C'est qu'on lui donne des distractions, et qu'au milieu de tout le bruit qu'on fait, il est impossible qu'il ne perde pas quelquefois sa présence d'esprit. Or donc, pour la lui rendre, il faut obliger le public à se taire, au moins le public qui écrit ; d'où la nécessité de la censure. Nous serons donc censurés, parce qu'il y a, nous dit-on, absence d'esprit chez ceux qui nous gouvernent; cela est consolant."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Et que dites-vous, monsieur, de ces soixante-quinze boules lancées à la fois dans la Chambre des pairs? Cela neressemblet-il pas un peu à une conscription extraordinaire, à I'ouver-</p>
+        <p>i M. de Bonald.</p>
+        <p>turc d'une campagne douteuse? La différence, c'est qu'on ne voit que gens désespérés de n'être pas conscrits. 0 quantum est in rébus inane ! Je ne saurais concevoir cette rage de pairie qui, depuis quelque temps, a saisi toute la France. Cependant, si MM. les pairs sont, comme l'assure M. de Bonald, autant de petits rois, cela prouve au moins que le nombre des royalistes, même zélés, n'a pas diminué autant que certaines personnes le prétendent.</p>
+        <p>Il n'y a guère moins d'empressement pour se faire nommer à la Chambre démocratique, comme on l'appelle. Tout le monde veut en être ; mais le ministère ne veut pas que tout le monde en soit, d'où il va résulter un combat dont j'attends l'issue avec une curiosité assez tranquille, car quels que soient les députés, ils ne feront pas nos destins, et c'est ce que bien peu de gens savent ou veulent comprendre. Le sort du monde, encore incertain, se pèse dans une balance qui n'est pas entre les mains des hommes. Pour quiconque a des yeux, il est évident que la société est emportée par une force dont nulle puissance humaine n'a la direction. Elles ne sont toutes que des instruments aveugles, et c'est ce qui les sauve en partie de l'horreur qu'elles inspireraient, si elles avaient la moindre idée de ce qu'elles font et de ce qu'elles laissent faire. Les ténèbres sont sur la surface de l'abîme. Y aura-t-il un fiai lux? Dieu seul le sait.</p>
+        <p>Je suis ravi d'apprendre que vous êtes en relations avec le Nonce. Vous l'avez parfaitement jugé : c'est un homme d'un grand sens, d'un commerce sÙr, d'un caractère fort doux, qui connaît bien l'état de l'Europe, et qui ferait beaucoup de bien, s'il était possible d'en faire aujourd'hui. Partout on est en attente, en crainte même (pour nommer tout crûment ce que M. de Maistre appelle la froide déesse), et personne n'ose ouvrir l'ère de la vérité. Cela est encore, sans doute, dans les desseins de Dieu. Quelque chose doit se faire qui n'est pas fait. Je baisse la tête et j'adore.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="La voilà, cette excellente et aimable lettre du 16, que j'attendais depuis quelques jours. Elle me ferait plus de plaisir encore si j'entrevoyais un terme à tant de chagrins, de tracasseries et d'inquiétudes. Mais ce ue serait plus cette vie, si nous étions débarrassés dg ces misères. Disons-nous bien une fois que, sous une forme ou sous une autre, elles nous suivront jusqu 'au bout; que c'est l'apanage de notre condition présente; que nous ne sommes ici-bas qu'à ce prix; et puis, remercions Dieu qui appelle ainsi nos regards et nos désirs en avant, et délie peu à peu nos liens, au lieu de les rompre." resp="">La voilà, cette excellente et aimable lettre du 16, que j'attendais depuis quelques jours. Elle me ferait plus de plaisir encore si j'entrevoyais un terme à tant de chagrins, de tracasseries et d'inquiétudes. Mais ce ue serait plus cette vie, si nous étions débarrassés dg ces misères. Disons-nous bien une fois que, sous une forme ou sous une autre, elles nous suivront jusqu 'au bout; que c'est l'apanage de notre condition présente; que nous ne sommes ici-bas qu'à ce prix; et puis, remercions Dieu qui appelle ainsi nos regards et nos désirs en avant, et délie peu à peu nos liens, au lieu de les rompre.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 30 novembre 1827. (...-...)">Le 30 novembre 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="La voilà, cette excellente et aimable lettre du 16, que j'attendais depuis quelques jours. Elle me ferait plus de plaisir encore si j'entrevoyais un terme à tant de chagrins, de tracasseries et d'inquiétudes. Mais ce ue serait plus cette vie, si nous étions débarrassés dg ces misères. Disons-nous bien une fois que, sous une forme ou sous une autre, elles nous suivront jusqu 'au bout; que c'est l'apanage de notre condition présente; que nous ne sommes ici-bas qu'à ce prix; et puis, remercions Dieu qui appelle ainsi nos regards et nos désirs en avant, et délie peu à peu nos liens, au lieu de les rompre."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je ne-sais si M. de Villèle est d humeur à délier les siens, mais ils paraissent bien près d'être rompus, et par ses propres mains, ce qui est plus piquant. Vous avez vu les nominations et les calculs que fout les journaux. Il est possible que les</p>
+        <p>grands collèges rendent au ministère une telle quelle majorité. Cependant, le contraire est possible aussi; et, dans tous les cas, il semble très-difficile que nos gens résistent à la force morale de l'opposition qu'ils ont créée eux-mêmes dans la Chambre. Ils voulaient rapprocher d'eux les royalistes au moyen de la peur, qui est une des puissances de ce temps-ci, et pour cela ils ont adroitement et savamment imaginé de recourir aux élections, comptant bien exclure les députés récalcitrants du côté droit, et fortifier le côté gauche en conservant le centre bien-aimé. Us ont réussi à moitié, et au delà de leurs prévoyances. Les petits collèges leur ont envoyé 170 bons libéraux. M. de Villèle fait dire à ses journaux que c'est très-bien. Pour mon compte je trouve que c'est mieux, sans comparaison, que ce que nous avions; toutefois, il y a de la bonté à M. de Villèle d'en convenir. lie résultat prochain de ceci pourrait bien être une nouvelle dissolution de la Chambre, et, comme on dit « un nouvel appel à l'opinion publique, » qui est toujours prête à répondre ; .mais je ne vois pas clairement ce qu'on gagne à la questionner. Au reste, il sera curieux, après une « septennalité » de quatre ans, d'en avoir une de deux, ou même d'un, peut-être. La plus triste chance pour la royauté est que le ministère tienne; il en résulterait infailliblement quelque catastrophe violente. D'un autre côté, les cartes se brouillent de plus en plus entre les Puissances, dont jusqu'à présent la haute sagesse n'a imaginé rien de mieux que de mettre des bâtons dans les roues du Temps. Elles se tuent à refouler les événements sur eux-mêmes, comme si l'on pouvait empêcher qu'il arrive quelque chose en ce monde, et que l'avenir sorte du présent. Elles accumulent la vapeur dans le récipient; idée merveilleuse! Quand la force d'expansion qui croit sans cesse surmontera celle de pression, nous verrons un beau tapage. Ce qu'on devrait d'abord se dire, c'est que rien ne peut rester tel qu'il est. Le statu quo est aujourd'hui une des plus prodigieuses folies qui puissent monter dans une tête humaine. Mais qui devinera ce qui doit être, pour le préparer et y arriver sans de trop vives secousses?</p>
+        <p>Je vous fais mille remerciments des Promessi Sposi. Je viens d'achever le second volume avec un extrême intérêt. Il y a des parenthèses un peu longues, comme la sédition de Milan, décrite d'ailleurs avec tant de vérité. Tout compensé, je préfère Manzoni à Walter Scott. Il n'aura pourtant pas, à beaucoup près, la même vogue, car il est religieux et catholique jusqu'au fond de l'âme. On voit aussi qu 'il y a en lui quelque chose des sentiments qui animaient les Italiens au moven âge, alors que les Papes travaillaient avec tant d 'ardeur et de constance à l'affranchissement de 1 Italie. On avait, dans ce temps-là, des idées bien différentes de celles qui ont régné depuis sur les grandes questions sociales. Renaîtront-elles? Dieu le sait. Aujourd'hui on n'a aucune idée du tout; — c'est plus court.</p>
+        <p>L'auteur peint avec énergie les énormes abus de la féodalité, et à cet égard il ne fait que parler le langage des chroniques. Mais qu'on lise l'Histoire des Républiques pendant les XIVe .\ve et xvie siècles, celle de Florence, par exemple ; c'est un ruisseau de sang.</p>
+        <p>Il en faut revenir au mot de Montaigne : Il n y a point de pire bête à l'homme que l'homme. Conclusion sur les Promessi, j'aime ce bon Manzoni autant que j estime son rare talent. Son ouvrage est du nombre de ceux qui sont les plus propres à faire du bien dans l'état actuel des esprits.</p>
+        <p>M. de Trevern a défendu le Mémorial dans son diocèse, et il travaille à y abolir la liturgie romaine, toujours pacifiquement. On dit l'archevêque de Reims très-malade. Ce sera une place pour le duc-abbé, puisqu'il a quitté celle qu'il devait à la générosité de la comtesse Louise. Je vous donnerai des nouvelles de Mgr d'Herm..... quand vous m'en donnerez de don Abbondio'. En attendant, allons en paix! L'avenir est noir sans doute ; mais si la foudre est dans ce nuage épais et sinistre, la main de Dieu y est aussi pour la diriger.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

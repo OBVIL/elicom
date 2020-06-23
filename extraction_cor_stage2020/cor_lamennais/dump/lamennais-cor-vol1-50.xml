@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="J'ai lu enfin, mon cher ami, ce curieux manifeste. Il n'est pas effrayant, mais il est instructif. On me mande qu'il est de***, mais cela ne se peut; je le crois de Bertin. Sans doute ce sont là, et d'un bout à l'autre, d'énormes stupidités. Il ne faut pas croire, pourtant, qu'elles paraissent telles aux hommes de ce temps-ci. Rien n'est trop fort et rien n'est trop sot pour le public qu'on nous a fait ; et c'est là ce qui doit faire trembler pour l'avenir. J'ai vu, en Angleterre, l'effet de ces conspirations générales contre la vérité. A l'aide d'un système d'impostures suivi, on parvient à vicier l'intelligence de tout un peuple, à l'abuser sur les faits les mieux connus et les plus palpables, à le séparer totalement de la raison humaine sur certains points, et je ne serais nullement surpris" resp="">J'ai lu enfin, mon cher ami, ce curieux manifeste. Il n'est pas effrayant, mais il est instructif. On me mande qu'il est de***, mais cela ne se peut; je le crois de Bertin. Sans doute ce sont là, et d'un bout à l'autre, d'énormes stupidités. Il ne faut pas croire, pourtant, qu'elles paraissent telles aux hommes de ce temps-ci. Rien n'est trop fort et rien n'est trop sot pour le public qu'on nous a fait ; et c'est là ce qui doit faire trembler pour l'avenir. J'ai vu, en Angleterre, l'effet de ces conspirations générales contre la vérité. A l'aide d'un système d'impostures suivi, on parvient à vicier l'intelligence de tout un peuple, à l'abuser sur les faits les mieux connus et les plus palpables, à le séparer totalement de la raison humaine sur certains points, et je ne serais nullement surpris</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Cbenaie, le 18 novembre 1825. (...-...)">A la Cbenaie, le 18 novembre 1825.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'ai lu enfin, mon cher ami, ce curieux manifeste. Il n'est pas effrayant, mais il est instructif. On me mande qu'il est de***, mais cela ne se peut; je le crois de Bertin. Sans doute ce sont là, et d'un bout à l'autre, d'énormes stupidités. Il ne faut pas croire, pourtant, qu'elles paraissent telles aux hommes de ce temps-ci. Rien n'est trop fort et rien n'est trop sot pour le public qu'on nous a fait ; et c'est là ce qui doit faire trembler pour l'avenir. J'ai vu, en Angleterre, l'effet de ces conspirations générales contre la vérité. A l'aide d'un système d'impostures suivi, on parvient à vicier l'intelligence de tout un peuple, à l'abuser sur les faits les mieux connus et les plus palpables, à le séparer totalement de la raison humaine sur certains points, et je ne serais nullement surpris"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>qu on en vînt là dans le royaume constitutionnel du Roi Très-Chrétien. A cela nous ne pouvons rien, puisque tous ceux qui devraient parler se taisent. Dieu en décidera dans sa justice, ou dans sa miséricorde. Mais ce" que je remarque toujours avec une admiration nouvelle, c'est la puissance de la vérité qui, sans autre appui qu'elle-même, jette, sitôt qu'elle se montre, ses ennemis dans la rage et dans l'effroi. Ils sentent que la mort est là pour eux ; ils ne savent pas le moment, voilà tout. Rappelez-vous là-dessus ce que tant de fois nous avons dit ensemble, comment on perd toute espèce de force en la cherchant où elle n'est pas; quel ascendant prendraient des hommes qui, laissant de côté toute considération humaine, se consacreraient tout entiers à la défense des éternelles maximes du vrai. Mais il en est d'un pareil accord comme du festin de l'Évangile : les conviés ont tous les meilleures excuses pour ne s'y point rendre, et il faut qu'on s'en aille sur les chemins et les places publiques recueillir les pauvres et les estropiés. Il serait digne de vous de tenter un nouvel effort; nous ne vaincrons pas, peut-être, mais nous combattrons, mais nous laisserons après nous un nom honoré et une mémoire pure; mais, avant de mourir, nous déposerons en terre le feu sacré, et d autres l en tireront un jour. Voyez, essayez, cherchez. J'ai depuis longtemps un projet; mais, pour l'exécuter, il faudrait ou 15,000 fr. par an, et je n'en ai pas le premier sou. Voilà l'homme qui remue, dit-on, une partie de l'Europe. Au moins conviendra-t-on que ce n'est pas à son profit. Je voudrais aller vous rejoindre, causer avec vous, parler de nos craintes, plus, hélas! que de nos. espérances. Une chose m'en empêche, outre ma santé toujours faible et chancelante : j'ai à cœur de faire la seconde partie de ma brochure. J 'y traiterai plus d une question importante aujourd 'hui; et, comme je dirai la vérité sans aucuns ménagements, il y aura certainement de beaux cris. Tout ce que je demande à Dieu dans cette vie, c'est qu'il me soutienne dans cette lutte entreprise pour sa gloire, et où je me suis engagé presque seul. Les journaux me déchirent journellement, à deux exceptions près, et ce sont des exceptions de silence. N'importe :</p>
+        <p>j'irai jusqu'au bout, et peut-être ce bout n'est-il pas bien loin.</p>
+        <p>Je suis sans nouvelles de notre ami ; savez-vous quand il revient ?</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

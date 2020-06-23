@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Je ne saurais, cher ami, me refuser le plaisir de vous griffonner deux mots en arrivant. Cela ne vaut certainement pas cinq minutes de conversation; mais, faute de mieux, cela console toujours. J'avais réellement besoin du repos que je trouve ici ; l'agitation du lieu où vous êtes vous ôte en partie le sentiment de la fatigue, qui n'en est pas moins réelle. Tout, à Paris, ou presque tout, est tromperie et illusion." resp="">Je ne saurais, cher ami, me refuser le plaisir de vous griffonner deux mots en arrivant. Cela ne vaut certainement pas cinq minutes de conversation; mais, faute de mieux, cela console toujours. J'avais réellement besoin du repos que je trouve ici ; l'agitation du lieu où vous êtes vous ôte en partie le sentiment de la fatigue, qui n'en est pas moins réelle. Tout, à Paris, ou presque tout, est tromperie et illusion.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="V la Chênaie, le 22 juin 1825. (...-...)">V la Chênaie, le 22 juin 1825.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Je ne saurais, cher ami, me refuser le plaisir de vous griffonner deux mots en arrivant. Cela ne vaut certainement pas cinq minutes de conversation; mais, faute de mieux, cela console toujours. J'avais réellement besoin du repos que je trouve ici ; l'agitation du lieu où vous êtes vous ôte en partie le sentiment de la fatigue, qui n'en est pas moins réelle. Tout, à Paris, ou presque tout, est tromperie et illusion."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai vu un moment mon frère à Rennes ; il vous dit mille choses tendres. Ses établissements prospèrent d'une manière admirable. Que de choses on ferait encore, si on savait et si on voulait</p>
+        <p>Mon beau-frère, que j'ai précédé ici, aura été vous voir avant son départ. Il vous aura parlé de ce triste et interminable compte. Si, en attendant qu'il puisse vous remettre ses Obser-</p>
+        <p>' l,etti-es supprimées : -A il. le baron de Vitt'nlll's P,ni&gt;. IS2.j, avril im mai. La Clunuie, le 2J juin 1825. — A 5lm" lu baronne Ch(iiiipy. Taris 13 juin 1825.</p>
+        <p>votions, s'il vous était possible de finir avec M. Nicole ce qui regarde la Bibliothèque des Dames chrétiennes, vous me rendriez un grand service ; car il m'importe de faire imprimer mon Imitation in-32, et je voudrais bien aussi publier un deuxième volume de Mélanges où je compte insérer les diverses préfaces que j'ai fournies à M. de S.-V., et peut-être le Dialogue sur les Dangers du monde dans le premier âge.</p>
+        <p>Mille hommages respectueux à Mille Berryer.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

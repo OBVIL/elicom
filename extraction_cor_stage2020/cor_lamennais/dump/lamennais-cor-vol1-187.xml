@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Que je vous remercie, mon cher et respectable ami, de l aimable préférence que vous m'avez accordée en m 'aiiiionçant une des choses qui pouvaient me causer le plus de joie ! Je ne doutaispasque la Providence ne mêlât bientôt quelque grande consolation aux amertumes par lesquelles elle a voulu d abord ('prouver votre patience et perfectionner vos vertus. Il suffit, avec elle, de croire et d'attendre. Je forme les vœux les plus ardents pour que vous trouviez tous, dans l'avenir qui se prépare, ce bonheur qui, bien que toujours imparfait sur la terre, est encore néanmoins un bienfait de Dieu, et comme une image de sa grâce dans l'ordre terrestre." resp="">Que je vous remercie, mon cher et respectable ami, de l aimable préférence que vous m'avez accordée en m 'aiiiionçant une des choses qui pouvaient me causer le plus de joie ! Je ne doutaispasque la Providence ne mêlât bientôt quelque grande consolation aux amertumes par lesquelles elle a voulu d abord ('prouver votre patience et perfectionner vos vertus. Il suffit, avec elle, de croire et d'attendre. Je forme les vœux les plus ardents pour que vous trouviez tous, dans l'avenir qui se prépare, ce bonheur qui, bien que toujours imparfait sur la terre, est encore néanmoins un bienfait de Dieu, et comme une image de sa grâce dans l'ordre terrestre.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 16 octobre 1828. (...-...)">Le 16 octobre 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Que je vous remercie, mon cher et respectable ami, de l aimable préférence que vous m'avez accordée en m 'aiiiionçant une des choses qui pouvaient me causer le plus de joie ! Je ne doutaispasque la Providence ne mêlât bientôt quelque grande consolation aux amertumes par lesquelles elle a voulu d abord ('prouver votre patience et perfectionner vos vertus. Il suffit, avec elle, de croire et d'attendre. Je forme les vœux les plus ardents pour que vous trouviez tous, dans l'avenir qui se prépare, ce bonheur qui, bien que toujours imparfait sur la terre, est encore néanmoins un bienfait de Dieu, et comme une image de sa grâce dans l'ordre terrestre."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai maintenant trop peu de relations à Paris pour être en &lt;'tat de vous mander quelques particularités intéressantes. Il</p>
+        <p>1 Allusion au Songe de Clovis, poëme déjà mentionné de M. de Coriolis.</p>
+        <p>2 Lettre supprimée: — A la baronneChampy. La Chênaie, 14 octobre 1828. et On doit s'attendre à peu de tranquillité désormais. J'ai toujours cru à une révolution nouvelle, ou plutôt à une nouvelle crise dans la Révolution qui ne fait guère que commencer, quoique aussi vieille que moi. »</p>
+        <p>y a d'ailleurs aujourd'hui dans toutes les âmes une sorte d'abattement qui tue la curiosité même. Jamais je n entendis moins parler de politique. On laisse couler le temps sans se demander ce qu'il nous apportera. Le mépris pour les hommes qui gouvernent est si profond, qu 'il a atteint jusqu 'à la haine. On sent que ce qui est ne durera pas; qu'une catastrophe est nécessaire, prochaine, inévitable; qu'elle entraînera des maux sans nombre, et néanmoins je ne vois de crainte nulle part. Quoi qu'il en arrive on sera soulagé, car ce sera autre chose : voilà où nous en sommes. L orgueil moscovite humilié devant Schoumla, la fuite du géant déguenillé, la Grèce, l'Angleterre, le Portugal, l'Espagne, tout cr. qui se passe de si remarquable dans ces malheureuses contrées n'excite pas le moindre intérêt. Mais un pareil état ne saurait être durable, et de ce calme sinistre sortiront tôt ou tard d'affreuses tempêtes.</p>
+        <p>Nos affaires ecclésiastiques sont dans une sorte de stagnation. Les ministres, aidés de Mgr Bernetti, travaillent les évêques individuellement. Quelques-uns cèdent, les autres résistent 1. On atteindra de cette manière la session, et alors il y aura un grand pas en avant. Pour moi, vous savez ma devise : Quod facÍs, fac citiiLs. —Je les défie d'aller plus vite que mes désirs.</p>
+        <p>Je vous manderai l'époque de mon changement de demeure. Elle n'est pas encore fixée. Les réparations retardent. Les choses vont d'ailleurs, grâce à Dieu, d'une façon qui passe, et de bien loin, toutes mes espérances. Priez, je vous en supplie, pour que Dieu continue de nous bénir. Je de-</p>
+        <p>1 Il n'y eut de résistance marquée et remarquée que celle du cardinal de Clermont-Tonneri -e, signataire de la Protestation des évêques. Invité à transmettre au ministre des Affaires ecclésiastiques les renseignements exigés par les ordonnances du 16 juin, l'orgueilleux prélat répondit en ces termes :</p>
+        <p>« Monseigneur, — la devise de ma famille, qui lui a été donnée, en 11 ?0, par Caliste 11, est celle-ci : Eliamsi omnes, ego non. C'est aussi celle de ma conscience.</p>
+        <p>« J'ai l'honneur d'être, avec la respectueuse considération qui est due au ministre du Roi,</p>
+        <p>« A. J., cardinal, archevêque de Toulouse. »</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

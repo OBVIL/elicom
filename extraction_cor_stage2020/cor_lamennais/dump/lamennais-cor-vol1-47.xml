@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Il est bien vrai, mon cher ami, qu'on n'eut jamais plus besoin de se consoler mutuellement, et je remercie Dieu q«i me prête l'appui de votre affection, si douce à mon coeur à demi brisé. Ce que je vois, ce que je prévois, to.t me c..sterne. -Le- tableau que vous faites de notre état est aussi vrai qu'effrayant. Bon Dieu ! quel avenir ! De jour en jour il devient plus sombre. Les esprits ne connaissent plus de bories iien plus que les espérances du crime. Le langage même, au moins celui du Constitutionnel, semble renouvelé de 93. On appelle hautement, et l'on annonce sans hésiter, la dernière catastrophe, l'abolition finale de la Religion et de la société. Les uns, nous offrent pour modèle la révolution de l'Amérique espagnole j les autres vont encore plus loin. Un nouveau j'UBal t, misérable à la vérité sous tous les rapports, engage à s'unir pour faire disparaître tout ce qui reste des idées vagues et mystiques, et prédit à nos neveux qu'ils seront gouvernés par les suféri»rités scientifiques et industrielles; c'est là qu'on doit tendre à son avis. La France catholique provoque au schisme avec urne fureur, dont il n'existait pas encore d'exemple. Plus modérés dans l'expression, les Débats ne valent pas mieux au r.... Et voilà l'unique puissance dans notre malheureux pays 1 Vaus espérez encore, dites-vous ; c'est un bonheur que je n'ai pas ; mais je conviens que, jusqu'au bout, on doit faire tout-ce qu'il est possible, et que nul motif ne peut dispenser du cMnkat, Vous savez mieux que personne ce que j'ai toujours pensé là-dessus, et que ce n'est pas ma faute -sÍ on a perdu um temps qu'on aurait -pu rendre si précieux. Aujourd'hui, que faire? à" resp="">Il est bien vrai, mon cher ami, qu'on n'eut jamais plus besoin de se consoler mutuellement, et je remercie Dieu q«i me prête l'appui de votre affection, si douce à mon coeur à demi brisé. Ce que je vois, ce que je prévois, to.t me c..sterne. -Le- tableau que vous faites de notre état est aussi vrai qu'effrayant. Bon Dieu ! quel avenir ! De jour en jour il devient plus sombre. Les esprits ne connaissent plus de bories iien plus que les espérances du crime. Le langage même, au moins celui du Constitutionnel, semble renouvelé de 93. On appelle hautement, et l'on annonce sans hésiter, la dernière catastrophe, l'abolition finale de la Religion et de la société. Les uns, nous offrent pour modèle la révolution de l'Amérique espagnole j les autres vont encore plus loin. Un nouveau j'UBal t, misérable à la vérité sous tous les rapports, engage à s'unir pour faire disparaître tout ce qui reste des idées vagues et mystiques, et prédit à nos neveux qu'ils seront gouvernés par les suféri»rités scientifiques et industrielles; c'est là qu'on doit tendre à son avis. La France catholique provoque au schisme avec urne fureur, dont il n'existait pas encore d'exemple. Plus modérés dans l'expression, les Débats ne valent pas mieux au r.... Et voilà l'unique puissance dans notre malheureux pays 1 Vaus espérez encore, dites-vous ; c'est un bonheur que je n'ai pas ; mais je conviens que, jusqu'au bout, on doit faire tout-ce qu'il est possible, et que nul motif ne peut dispenser du cMnkat, Vous savez mieux que personne ce que j'ai toujours pensé là-dessus, et que ce n'est pas ma faute -sÍ on a perdu um temps qu'on aurait -pu rendre si précieux. Aujourd'hui, que faire? à</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Chênaie, le 3 novembre 1825. (...-...)">A la Chênaie, le 3 novembre 1825.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Il est bien vrai, mon cher ami, qu'on n'eut jamais plus besoin de se consoler mutuellement, et je remercie Dieu q«i me prête l'appui de votre affection, si douce à mon coeur à demi brisé. Ce que je vois, ce que je prévois, to.t me c..sterne. -Le- tableau que vous faites de notre état est aussi vrai qu'effrayant. Bon Dieu ! quel avenir ! De jour en jour il devient plus sombre. Les esprits ne connaissent plus de bories iien plus que les espérances du crime. Le langage même, au moins celui du Constitutionnel, semble renouvelé de 93. On appelle hautement, et l'on annonce sans hésiter, la dernière catastrophe, l'abolition finale de la Religion et de la société. Les uns, nous offrent pour modèle la révolution de l'Amérique espagnole j les autres vont encore plus loin. Un nouveau j'UBal t, misérable à la vérité sous tous les rapports, engage à s'unir pour faire disparaître tout ce qui reste des idées vagues et mystiques, et prédit à nos neveux qu'ils seront gouvernés par les suféri»rités scientifiques et industrielles; c'est là qu'on doit tendre à son avis. La France catholique provoque au schisme avec urne fureur, dont il n'existait pas encore d'exemple. Plus modérés dans l'expression, les Débats ne valent pas mieux au r.... Et voilà l'unique puissance dans notre malheureux pays 1 Vaus espérez encore, dites-vous ; c'est un bonheur que je n'ai pas ; mais je conviens que, jusqu'au bout, on doit faire tout-ce qu'il est possible, et que nul motif ne peut dispenser du cMnkat, Vous savez mieux que personne ce que j'ai toujours pensé là-dessus, et que ce n'est pas ma faute -sÍ on a perdu um temps qu'on aurait -pu rendre si précieux. Aujourd'hui, que faire? à"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>1 On verra plus loin qu'il s'agit du Producteur, organe des idées qu'on n'appelait pas encore « socialistes. v Auguste Comte y a publié quelques-uns de ses curieux travaux. *</p>
+        <p>qui s'unir? à qui s'adresser? Y a-t-il encore des cœurs qui battent, des hommes qui ne soient pas morts à l'amour du bien et de la vérité? Voyez, cherchez : pour moi, je suis prêt. S'il y a encore des âmes élevées, qu'elles se rapprochent, qu'elles s'entendent, qu'elles se liguent pour sauver au moins l'honneur. Dans le déclin de mes forces, peut-être en retrouverai-je quelque reste pour le consacrer à la sainte cause que je voudrais défendre jusqu'à mon dernier soupir.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

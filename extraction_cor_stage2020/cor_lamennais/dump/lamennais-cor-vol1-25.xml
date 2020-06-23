@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Voilà juste un mois, ma bien bonne amie, que j'ai quitté la capitale de toutes les sottises, de toutes les bassesses et de toutes les noirceurs. Je suis encore à comprendre comment on reste au milieu de tout cela, lorsqu'on peut en sortir." resp="">Voilà juste un mois, ma bien bonne amie, que j'ai quitté la capitale de toutes les sottises, de toutes les bassesses et de toutes les noirceurs. Je suis encore à comprendre comment on reste au milieu de tout cela, lorsqu'on peut en sortir.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Chênaie, le 19 novembre 1823. (...-...)">A la Chênaie, le 19 novembre 1823.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Voilà juste un mois, ma bien bonne amie, que j'ai quitté la capitale de toutes les sottises, de toutes les bassesses et de toutes les noirceurs. Je suis encore à comprendre comment on reste au milieu de tout cela, lorsqu'on peut en sortir."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous me direz qu'outre ces belles choses, il y en a d'autres qui ne leur ressemblent pas : — j'en conviens ; mais le tout ensemble fait une vilaine ripopèe ; — convenez-en aussi. J'ai souffert à mon arrivée de la migraine et du mal de dents. J'ai fait mon remède ordinaire, et à présent je suis bien; cependant je n'ai qu'à peine commencé mon travail ; il m'inspire tant de dégoût, que je ne saurais prévoir quand je finirai. Je compte toujours sur votre présence à la Chenaie' dans le mois de février. Vous trouverez une petite maison fort propre; Peggy2 même en serait satisfaite. J'ai acheté en votre honneur une boîte de jeu et des cartes; mais il me manque une carte explicative des payements du boston; je vous prie de m'en envoyer une. Marie-Ange et Lise, avec qui j'ai beaucoup parlé de vous et de vos chères compagnes, se font une grande fête de vous voir; leurs parents en sont tout joyeux aussi ; mais on voudrait que vous vinssiez toutes trois : n'y aurait-il donc pas quelque moyen d'arranger cela? Je vous dirai que, sans être absolument un homme du monde, je suis fort répandu dans nos bois, dans nos champs, voire</p>
+        <p>1 Lettres supprimées A M. le baron de Vitrolles. Paris, 1823. — La plupart de ces lettres sont de simples billets, précieux cependant à titre de renseignements biographiques. Deux seulement ont date certaine comme mois et jour. Ils sont au nombre de seize.</p>
+        <p>S Bonne anglaise au service des Feuillantines.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

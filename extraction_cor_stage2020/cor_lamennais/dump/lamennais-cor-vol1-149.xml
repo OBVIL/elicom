@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Que j'ai eik de joie, mon cher et respectable ami, en revoyant votre écriture! Il faudrait encore entendre votre voix, -qui va si droit à mon cœur, et qui y descend si ayant. Cela viendra, je l'espère. Attendons les moments de Dieu, et adorons toujours son aimable et sainte volonté, que nous comprenons si peu dans nos ténèbres de la terre. Je n'ai pas besoin de vous dire comment je réponds à vos vœux, et tout ce que je demande, pour vous et pour les vôtres, à Celui qui peut tout donner et qui n'aspire qu'à se donner lui-même. Vos réflexions sur le mot gut, de même racine que gott, et identique avec lui, sont frappantes. C'est ce qui est dit dans l'Évangile : 1 Nullus bonus nisi Deus. Nous n'avons pas, malheureusement, celte belle analogie dans notre langue, et je ne sais même d'où vient primitivement notre mot bon; mais il est bon de quelque part qu'il vienne. Vous le seriez aussi, mon cher ami, et même bien bon, si vous consentiez à ménager davantage votre santé. Vous vous excédez de soins et de travail. Ayez un peu pitié de nous, je vous prie. Votre vie n'est pas à vous seulement; elle est celle de plusieurs autres. C'est pour eux que je vous demande de la conserver précieusement. Je crois -que vous le devez en conscience." resp="">Que j'ai eik de joie, mon cher et respectable ami, en revoyant votre écriture! Il faudrait encore entendre votre voix, -qui va si droit à mon cœur, et qui y descend si ayant. Cela viendra, je l'espère. Attendons les moments de Dieu, et adorons toujours son aimable et sainte volonté, que nous comprenons si peu dans nos ténèbres de la terre. Je n'ai pas besoin de vous dire comment je réponds à vos vœux, et tout ce que je demande, pour vous et pour les vôtres, à Celui qui peut tout donner et qui n'aspire qu'à se donner lui-même. Vos réflexions sur le mot gut, de même racine que gott, et identique avec lui, sont frappantes. C'est ce qui est dit dans l'Évangile : 1 Nullus bonus nisi Deus. Nous n'avons pas, malheureusement, celte belle analogie dans notre langue, et je ne sais même d'où vient primitivement notre mot bon; mais il est bon de quelque part qu'il vienne. Vous le seriez aussi, mon cher ami, et même bien bon, si vous consentiez à ménager davantage votre santé. Vous vous excédez de soins et de travail. Ayez un peu pitié de nous, je vous prie. Votre vie n'est pas à vous seulement; elle est celle de plusieurs autres. C'est pour eux que je vous demande de la conserver précieusement. Je crois -que vous le devez en conscience.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 16 janvier 1828. (...-...)">Le 16 janvier 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Que j'ai eik de joie, mon cher et respectable ami, en revoyant votre écriture! Il faudrait encore entendre votre voix, -qui va si droit à mon cœur, et qui y descend si ayant. Cela viendra, je l'espère. Attendons les moments de Dieu, et adorons toujours son aimable et sainte volonté, que nous comprenons si peu dans nos ténèbres de la terre. Je n'ai pas besoin de vous dire comment je réponds à vos vœux, et tout ce que je demande, pour vous et pour les vôtres, à Celui qui peut tout donner et qui n'aspire qu'à se donner lui-même. Vos réflexions sur le mot gut, de même racine que gott, et identique avec lui, sont frappantes. C'est ce qui est dit dans l'Évangile : 1 Nullus bonus nisi Deus. Nous n'avons pas, malheureusement, celte belle analogie dans notre langue, et je ne sais même d'où vient primitivement notre mot bon; mais il est bon de quelque part qu'il vienne. Vous le seriez aussi, mon cher ami, et même bien bon, si vous consentiez à ménager davantage votre santé. Vous vous excédez de soins et de travail. Ayez un peu pitié de nous, je vous prie. Votre vie n'est pas à vous seulement; elle est celle de plusieurs autres. C'est pour eux que je vous demande de la conserver précieusement. Je crois -que vous le devez en conscience."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous avez vu par les journaux que personne ne croit à la durée du ministère. Il ne paraît pas qu'il puisse même ouvrir</p>
+        <p>la session sans se modifier. Mais comment? et de quel côté cherchera-t-on la majorité? Je pense qu'on aura moins de répugnance pour la gauche que pour l'extrême droite ; et alors nous irons grand train. Déjà l'on parle d'une réorganisation de l'instruction publique, par suite de laquelle les congrégations seraient exclues de l'enseignement. Viendront, après, bien d'autres mesures. On demandera au clergé des garanties, des souscriptions1, des serments peut-être. Qui nous a conduits là? L'ancienne administration. Je persiste à ne pas juger M. de Villèle aussi favorablement que vous. Il voulait à toute force s'allier au parti libéral pour conserver sa place; il n'est point de démarches qu'il n'ait faites pour cela. On a refusé son alliance, et c'est alors qu'il s'est retiré en laissant derrière lui un ministère qui, dans sa majorité, n'est encore que lui-même. Il croyait, dites-vous, avoir raison; pour cela, il faut soutenir quelque chose, avoir des principes, une doctrine quelconque. Jamais il n'a tenu à rien. Tout son système était d'aller chaque jour, avec ceux qui pouvaient le soutenir chaque jour. Il gageait quiconque voulait se vendre, et levait, par la ruse et la corruption, des bandes de masnadieri'i politiques, à l'aide desquels il faisait la loi et maintenait son pouvoir. Son habileté, qu'il croyait grande, et qui lui a réussi en effet pendant six ans, consistait à tromper tous les partis, à se jouer de la vérité comme de l'erreur. Il s'imaginait, ainsi que Buonaparte, qu'il fallait avilir les hommes pour se les attacher! Voyez que de réputations il a détruites, et des plus pures jusque-là. Il faut savoir gré à la France de n'avoir pu supporter une si basse oppression. Elle aurait, en se perpétuant, achevé d'anéantir tout ce qui reste d'honneur et de conscience. Aujourd'hui, ses créatures mêmes n'osent pas le défendre sous ce rapport ; mais elles disent qu'au moins il a empêché beaucoup de mal. C'est ce qu'on dit de tous ceux qu'on ne peut louer d'aucun</p>
+        <p>1 Souscriptions ne doit pas s'entendre ici dans le sens qu'on attache le plus généralement à ce mot, mais dans celui de signatures apposées à telle ou telle déclaration de principes, auxquels on déclare souscrire.</p>
+        <p>- Masnadieri, brigands, bandits. Les masnadieri sont aux condottieri ce que les pirates sont aux corsaires.</p>
+        <p>bien. Au temps du Déluge, on aurait dit que, sans eux, les jeaux auraient surmonté les plus hautes montagnes, de cent coudées au lieu de quarante. Mais, de plus, cette prétention n'a pas le moindne fondement. Je ne parlerai point de la politique extérieure de cet homme on la connaît. Au dedans, qu a-t-il fait? Il a écarté du trône presque tous "ceux qui devaient l'entourer; il a divisé, subdivisé le parti qui l'avait élevé, de sorte que ce parti est maintenant -sans force; il a poussé dans les rangs des révolutionnaires une masse effrayante d'hommes que sa fourberie et sa corruption révoltaient ; il a rendu la royauté méprisable et odieuse, en se servant d'elle comme d'un instrument pour ses fins personnelles; il a-favorisé le développement de toutes les idé,ës et de toutes les passions anti-sociales, et cela de plusieurs manières : en les prêchant lui-même, dans le Pilote, par exemple; en étouffant, en persécutant les doctrines contraires ; en faisant de sa religion gallicane un moyen de pouvoir et d'intrigue, ce qui a rassemblé autour de lui une race détestable d'imbéciles et d'hypocrites qui n'ont fourni que trop de prétextes aux déclamations contre l'Église ; et c'est ici le plus grand des maux qu'a faits la der-11Îère administration1. On ne s'imagine pas combien ces malheureux, à rapidité desquels nulle bassesse ne rèpugnait, ont nui à la religion catholique qu'ils déshonoraient. De toutes ces causes, il est résulté que le parti libéral a pris un immense as-</p>
+        <p>t Veut-on rapprocher du jugement porté par Lamennais celui que l'histoire semble avoir définitivement sanctionné? Ln comparaison est facile : — « La carrière de M. de "Villèle fut un continuel sacrifice de ses convictions à son amour dévorant pour le pouvoir... Opposé à la plupart des mesures. qui ont marqué son administration, il en signalait l'imprudence ou le péril, menaçait d'y résister, puis les adoptait... La situation du parti royaliste", au début de son administration et au moment de sa chute, détermine sa mesure comme homme de gouvernement. En 1824, toute opposition avait, pour ainsi dire, disparu; Charles X était populaire, l'opinion monarchique compacte, le Trésor prospère, l'administration forte, les fonctionnaires redoutés; en 1827, l'opposition se trouvait plus nombreuse et plus puissante qu'à aucune autre époque-, Charles X dépopularisé, l'opinion monarchique divisée, le Trésor en déficit, l'administration affaiblie, les fonctionnaires déconsidérés. M. de Vil"lèle et ses collègues avaient fatigué tous les ressorts du pouvoir en les tendant outre mesure, » etc., -etc. — ■ Vaulabelle, Histoire des Deux Restaurations, 5e 'édit., tom.YII, p. 335-336.</p>
+        <p>cendant, dont nous ne tarderons pas à ressentir l'effet. Quand les conséquences viendront, on ne manquera pas de dire : « Ce n'était pas ainsi sous M. de Villèle. Ah! si M. de Villèle « était encore aux affaires! » J'entends; il a donné le poison et puis il est parti : il est clair que, s'il était là, le malade se porterait bien. Que j'aurais de choses, mon ami, à vous dire là-dessus! Que de réflexions fait naître l'état de la société! et qu'on s'aveugle encore sur cet état qu'on ne veut pas reconnaître! Un jour, j'espère, nous en causerons. Une lettre ne dit rien, et des volumes ne remplacent pas une soirée de conversation. Adieu, cher et bien cher ami ; je suis tout à vous du fond de mon cœur.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Vos lettres à tous, si bonnes, si aimables, si tendres, font ma seule joie, et, après Dieu, ma seule consolation. Ce qui se passe à H. 2 achève de me prouver que là aussi les deux partis sont maintenant en présence. Tant mieux; le dénoûment en sera moins éloigné." resp="">Vos lettres à tous, si bonnes, si aimables, si tendres, font ma seule joie, et, après Dieu, ma seule consolation. Ce qui se passe à H. 2 achève de me prouver que là aussi les deux partis sont maintenant en présence. Tant mieux; le dénoûment en sera moins éloigné.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, 15 novembre 1826. (...-...)">Paris, 15 novembre 1826.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Vos lettres à tous, si bonnes, si aimables, si tendres, font ma seule joie, et, après Dieu, ma seule consolation. Ce qui se passe à H. 2 achève de me prouver que là aussi les deux partis sont maintenant en présence. Tant mieux; le dénoûment en sera moins éloigné."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Le Pape est instruit; il a une grande âme; l'Esprit-Saint ne l'abandonnera pas. Il fera ce que la Providence lui inspirera pour l accomplissement de ses desseins sur la société et sur l'Église. Croyons, et ne nous laissons point ébranler. Je suis prodigieusement faible par nature, mais le bon Dieu me donne</p>
+        <p>1 Date de lu Déclaration demandée aux évèques, et qu'avait sans doute signée le malheureux prélat dont il est ici question.</p>
+        <p>- A Home.</p>
+        <p>le courage dont nous avons besoin dans ces tristes circonstances, et j 'ai la confiance qu'il me le conservera.</p>
+        <p>Le mal fait ici des progrès rapides. Vous avez vu la destitution de Laurenlie, comme prévenu d'ultramontanisme, Le même genre de persécution s'exerce plus obscurément dans les provinces. L'archevêque de Reims se distingue surtout dans cette guerre contre le Saint-Siège et ses fidèles sujets. Les Fr. les CI. 2, et ce qui les entoure, sont pleins d'une rage qu'on ne saurait peindre. Rien désormais ne les arrêtera. Tout le reste, ministère, Chambre, magistrature, journaux, pousse de son mieux au schisme ; l'Église nationale est. dans toutes les têtes, sans excepter celles du faubourg Saint-Germain. La force de résistance est uniquement dans les provinces; dans le clergé, excellent en masse ; dans le peuple, attaché profondé nient à la foi catholique, à l'Église et à son chef. Si quelques esprits hésitent encore sur des questions importantes, c'est qu 'oii a l 'art de leur faire croire que le Pape approuve le gallicanisme actuel et blâme ceux qui le combattent. On les détache du Pape par l'autorité du Pape.</p>
+        <p>Vous recevrez encore bientôt quelques nouveaux écrits, ainsi que l'ouvrage de l'abbé Gerbet5. dont le Mémorial a donné précédemment un chapitre. Cet ouvrage théologicophilosophique est excellent et fera beaucoup de bien.</p>
+        <p>On fait signer, dans le ressort de toutes les cours royales, des pétitions contre les Jésuites. M. de Villèle a retiré ses neveux de Saint-Acheul. Nous verrons un beau bruit, incessamment .</p>
+        <p>Je ne puis que vous redire combien je désirerais être près de vous. Ce n'est, croyez-moi, rien d'agréable qui me retient ici. Ma vie est une vie de souffrance, d'inquiétude et de travail. Le motif principal et presque unique qui me décide à rester ne</p>
+        <p>1 Frayssinous.</p>
+        <p>- Clausel.</p>
+        <p>5 Quelques recherches bibliographiques, un peu sommaires à la vérité, ne nous ont fait découvrir qu'un seul ouvrage de l'abbé Pli. Gerbet; il est intitulé : Considérations sur le dogme générateur de la piété catholique, in-81 de 19 feuilles, publié chez Belin-Mandar et Devaux.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

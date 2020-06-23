@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Je croyais, ma chère bonne amie, que vous m'aviez tout à fait oublié, comme tant d'autres ; ainsi, votre lettre m'a fait un double plaisir. Quand votre vue ne vous permettra pas d'écrire, dictez à Adèle; mais ne me laissez pas si longtemps sans avoir de vos nouvelles. Je vois que vous avez eu aussi des malades; le nombre en a été grand partout cette année. Pour moi, je ne suis pas mal; cependant toujours faible, et des spasmes de temps en temps. Je suis plus usé que vous ne l'êtes; et ainsi tranquillisez-vous aussi longtemps que vous me - verrez sur la terre. Mes tribulations n'y sont pas finies; il m'en vient chaque jour de nouvelles, ce qui fait que « je me restaure » comme la Monarchie. Il est sûr que de grands événements se préparent. Nous ne touchons pourtant pas à la crise. On commencera cette année à attaquer le clergé, et particulièrement en ce qui regarde l'éducation. Le reste viendra" resp="">Je croyais, ma chère bonne amie, que vous m'aviez tout à fait oublié, comme tant d'autres ; ainsi, votre lettre m'a fait un double plaisir. Quand votre vue ne vous permettra pas d'écrire, dictez à Adèle; mais ne me laissez pas si longtemps sans avoir de vos nouvelles. Je vois que vous avez eu aussi des malades; le nombre en a été grand partout cette année. Pour moi, je ne suis pas mal; cependant toujours faible, et des spasmes de temps en temps. Je suis plus usé que vous ne l'êtes; et ainsi tranquillisez-vous aussi longtemps que vous me - verrez sur la terre. Mes tribulations n'y sont pas finies; il m'en vient chaque jour de nouvelles, ce qui fait que « je me restaure » comme la Monarchie. Il est sûr que de grands événements se préparent. Nous ne touchons pourtant pas à la crise. On commencera cette année à attaquer le clergé, et particulièrement en ce qui regarde l'éducation. Le reste viendra</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 21 janvier 1828. (...-...)">Le 21 janvier 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Je croyais, ma chère bonne amie, que vous m'aviez tout à fait oublié, comme tant d'autres ; ainsi, votre lettre m'a fait un double plaisir. Quand votre vue ne vous permettra pas d'écrire, dictez à Adèle; mais ne me laissez pas si longtemps sans avoir de vos nouvelles. Je vois que vous avez eu aussi des malades; le nombre en a été grand partout cette année. Pour moi, je ne suis pas mal; cependant toujours faible, et des spasmes de temps en temps. Je suis plus usé que vous ne l'êtes; et ainsi tranquillisez-vous aussi longtemps que vous me - verrez sur la terre. Mes tribulations n'y sont pas finies; il m'en vient chaque jour de nouvelles, ce qui fait que « je me restaure » comme la Monarchie. Il est sûr que de grands événements se préparent. Nous ne touchons pourtant pas à la crise. On commencera cette année à attaquer le clergé, et particulièrement en ce qui regarde l'éducation. Le reste viendra"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>successivement, et plus ou moins vite selon les circonstances. Opportet hœreses esse; vous entendez ce latin-là, autant au moins que l'évoque d'Hermopolis. Le pauvre homme est bien à plaindre si sa conscience vit encore, et plus à plaindre si elle ne vit plus.</p>
+        <p>Angélique est tout occupée de la conversion du frère de sa belle-sœur. Je lui ai envoyé quelques petits traits pour faire lire au néophyte. Il a, d'abord et avant tout, consulté son estomac; il paraît qu'il n'y a pas d'objection de ce côté, ce qui console infiniment Angélique, car la question du maigre l'inquiétait. Je lui mande qu'il me semble aussi que, d'après ce commencement, il y a beaucoup à espérer, et qu'il n'est rien que ne doive digérer un homme en état de digérer la morue. N'est-il pas vrai que ces Anglais sont drôles, et plus que drôles, quand ils s'y mettent?</p>
+        <p>Il y a tout à l'heure un'aii que je n'ai vu personne de Trémigon, excepté mon beau-frère qui, de loin en loin, passe-ici comme une ombre. Ils sont maintenant à Saint-Malo, où la mort de Mme Biaise les a forcés d'aller. Quant à mon frère, il vient irès-rarement- Je l'attends demain 22, et il partira le 25, pour ne revenir, je pense, qu'après Pâques.</p>
+        <p>Ainsi, c'est à moi de me faire compagnie de mon mieux. Je m'arrange, du reste, de cette solitude beaucoup plus que de la vie du monde, et si mes désirs s'accomplissent, je ne changerai pas de chambre désormais.</p>
+        <p>Mais qui peut prévoir son avenir, dans les temps où nous sommes?</p>
+        <p>Je vous embrasse toutes bien tendrement, vous, la bonne Villiers, Adèle, ma petite Hélène, et notre cher M. Carissan.</p>
+        <p>Je vous souhaite tout ce que vous vous souhaitez vous-même, de la tranquillité au dehors, de la joie au dedans, et enfin le vrai bonheur, qui n'est pas de la terre. Quels que soient les événements politiques, vous n'avez rien à craindre personnellement, je vous l'ai dit bien des fois, et je vous le répète, pour que vous n'alliez pas vous jeter dans des frayeurs sans aucun fondement. Quant à ceux qui peuvent être atteints par la persécution, ils n'ont rien à craindre non plus, ils ont</p>
+        <p>au contraire tout à espérer; et ainsi ne vous troublez pas à leur sujet.</p>
+        <p>Savez-vous ce qu'est devenu le pauvre abbé L....? Il a quitté l'Italie comme un fou, en annonçant qu'il allait défendre à Paris sa réputation, que ses procurateurs compromettaient.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

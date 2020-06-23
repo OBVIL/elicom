@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Je ne sache point de plus grandes contradictions et de plus pénibles, dans le détail de la vie, que celles que vous éprouvez. Ce sont des angoisses de tous les moments et contre lesquelles on ne se sent pas le courage de lutter. J'en puis parler avec connaissance de cause, puisqu'elles ont achevé de ruiner ma santé et certainement abrégé mes jours. A présent même, quoique dépouillé complètement par des misérables, l'un desquels est presque ministre de la maison du roi1, je ne suis pas encore tout à fait dégagé de leurs mains sales et crochues. Au nom de votre repos, ne négligez rien pour sortir d'un pareil état; ne regrettez aucun sacrifice, et ne renvoyez pas à demain ce que vous pouvez faire aujourd'hui, car le temps complique ces sortes d'embarras et les rend inextricables. C'est un admirable trait de la Providence que le mieux qu'éprouve la comtesse Louise, qui vous devient ainsi un appui et une consolation inestimable. Mais ayez bien soin de votre santé, et que M. de S ménage aussi la sienne; c'est un grand devoir pour lui. Allons chaque jour avec les forces de chaque jour, pleins de confiance en Celui qui nous guide et qui ne nous abandonnera pas." resp="">Je ne sache point de plus grandes contradictions et de plus pénibles, dans le détail de la vie, que celles que vous éprouvez. Ce sont des angoisses de tous les moments et contre lesquelles on ne se sent pas le courage de lutter. J'en puis parler avec connaissance de cause, puisqu'elles ont achevé de ruiner ma santé et certainement abrégé mes jours. A présent même, quoique dépouillé complètement par des misérables, l'un desquels est presque ministre de la maison du roi1, je ne suis pas encore tout à fait dégagé de leurs mains sales et crochues. Au nom de votre repos, ne négligez rien pour sortir d'un pareil état; ne regrettez aucun sacrifice, et ne renvoyez pas à demain ce que vous pouvez faire aujourd'hui, car le temps complique ces sortes d'embarras et les rend inextricables. C'est un admirable trait de la Providence que le mieux qu'éprouve la comtesse Louise, qui vous devient ainsi un appui et une consolation inestimable. Mais ayez bien soin de votre santé, et que M. de S ménage aussi la sienne; c'est un grand devoir pour lui. Allons chaque jour avec les forces de chaque jour, pleins de confiance en Celui qui nous guide et qui ne nous abandonnera pas.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 13 juillet 1827. (...-...)">Le 13 juillet 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Je ne sache point de plus grandes contradictions et de plus pénibles, dans le détail de la vie, que celles que vous éprouvez. Ce sont des angoisses de tous les moments et contre lesquelles on ne se sent pas le courage de lutter. J'en puis parler avec connaissance de cause, puisqu'elles ont achevé de ruiner ma santé et certainement abrégé mes jours. A présent même, quoique dépouillé complètement par des misérables, l'un desquels est presque ministre de la maison du roi1, je ne suis pas encore tout à fait dégagé de leurs mains sales et crochues. Au nom de votre repos, ne négligez rien pour sortir d'un pareil état; ne regrettez aucun sacrifice, et ne renvoyez pas à demain ce que vous pouvez faire aujourd'hui, car le temps complique ces sortes d'embarras et les rend inextricables. C'est un admirable trait de la Providence que le mieux qu'éprouve la comtesse Louise, qui vous devient ainsi un appui et une consolation inestimable. Mais ayez bien soin de votre santé, et que M. de S ménage aussi la sienne; c'est un grand devoir pour lui. Allons chaque jour avec les forces de chaque jour, pleins de confiance en Celui qui nous guide et qui ne nous abandonnera pas."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Il a paru un nouvel écrit de Clausel. Ce sont toujours les mêmes fureurs et la même rage de destruction, et les mêmes folies, et les mêmes mensonges. Il se moque du Pape et des Brefs où il approuve des ouvrages dans lesquels lui, Clausel, a montré plus de mille erreurs. Son principal objet est de provoquer la dissolution de la Société Catholique des Bons Livres. Il s'identifie avec les Jésuites, rapporte la Déclaration par laquelle ils s'engageaient, avant leur suppression, à soutenir et enseigner la doctrine des Quatre Articles, même quand leur général leur ordonnerait d'y renoncer; puis, nouvelle édition des Sept Propositions supposées extraites de mes livres et</p>
+        <p>1 M. de la Bouillerie, intendant général de la liste civile.</p>
+        <p>proscrites parmi eux. Là-dessus il exalte leur autorité, et dit avec raison que si, dans tout cela, l'on supposait qu'ils n'ont pas été et ne sont pas de bonne foi, ce serait les supposer les plus infâmes de tous les hommes. Il y a eu un pacte entre eux et l'évêque d'Hermopolis. En vertu de ce pacte, ils ont livré la « défense secrète » de leur général, et se sont séparés de ce qu'on appelle « le parti ultramontain. » Tel est et tel fut toujours l'esprit de l'Ordre. Il les conduira très-certainement là où ils sont déjà arrivés une première fois. Leurs colléges sont pitoyables pour les études et très-dangereux sous les autres rapports. Presque tous les jeunes gens se perdent en sortant de chez eux.</p>
+        <p>On continue de dire que le ministère songe à créer des pairs et à dissoudre la Chambre, pour tenter des élections qui prolongeraient son règne.</p>
+        <p>Personne ne croit à ce résultat. La haine et le dégoût sont trop grands. L'irritation contre la censure est universelle. Les sots articles du Moniteur détachent plus de gens du gouvernement que ne pourraient en détacher trente journaux jacobins.</p>
+        <p>Le parti populaire prend partout des forces; aussi lui donne-t-on beau jeu. On en a fait le parti de la raison, de la justice et de l'honneur. Voyez la Grèce qu'on laisse périr, voyez le Portugal; chaque souverain ne songe qu'à soi, à ses intérêts propres, à sa personne. Cependant il y a autre chose dans le monde; l'avenir l'apprendra à ceux qui l'ignorent.</p>
+        <p>J'oubliais de vous dire que Clausel reproche pieusement à Mah...1 d'avoir refusé un duel. Il a volé ce trait-là à un autre prêtre, à l'abbé Féletz. Enfin, vous voyez que nous avons aussi notre morale gallicane,</p>
+        <p>Mon genre de vie, seul à la campagne, est si monotone, il serait si difficile de trouver quelqu'un qui ne s'en fatiguât pas promptement, que j'ai tout à fait renoncé au projet dont je vous avais fait part. On se passe de ce qui manque : c'est un</p>
+        <p>1 M. O'Mahony, dont il a déjà été fréquemment question dans ces Lettres.</p>
+        <p>mal négatif; mais le tête-à-tête entre deux personnes qui ne se conviendraient pas serait, bien positivement, la chose du monde la plus insupportable. Il vaut mieux n'en pas courir le risque.</p>
+        <p>Que devient le pauvre L... 1? Il lui faudrait une girafe avec ses longues jambes pour courir à sa fantaisie. Le roi a fait venir à Saint-Cloud celle dont lui a fait présent le pacha d'E-gypte. La cour a été enchantée, ce qui me donne une haute idée de-l'animal.</p>
+        <p>On dit que M. de Brézé en est un peu jaloux 2.</p>
+        <p>1 L'abbé de Lowenbruck.</p>
+        <p>La correspondance de Lamennais subit ici une lacune qu'explique la grave maladie à laquelle il faillit succomber, en juillet-août 1827. Nous pensons qu'on ne lira pas sans intérêt les lettres de l'abbé Gerbet qui en rendent compte à la famille de Senfft</p>
+        <p>L'ABBÉ GERBET A M. LE COMTE DE SENFFT,</p>
+        <p>« A Ia -Chenaie., 18 juillet 1827.</p>
+        <p>« Monsieur le comte,</p>
+        <p>« M. Féli, depuis sa dernière lettre, en a reçu deux de Mmo la comtesse de Senfft dont il la remercie beaucoup, et auxquelles il répondrait en ce moment, si l'état de sa santé le lui permettait. Il garde le lit, et sort d'un accès de fièvre qui a duré dix-huit heures. C'est dimanche dernier qu'il a commencé à en ressentir les atteintes. 11 est beaucoup mieux maintenant, mais, comme par suite de cette crise il pourra être pendant plusieurs jours trop faible .pour écrire, il m'a chargé de vous en prévenir, afin que son silence ne vous surprenne pas. Du reste, il désire aussi que vous sachiez que cette crise momentanée n'est pas de nature à donner des alarmes.</p>
+        <p>« Il a reçu dernièrement une lettre de Mme la comtesse Riccini. Il vous prie d'avoir la bonté de lui écrire, pour lui faire savoir qu'étant malade en ce moment il ne pourra lui répondre aussi tôt qu'il l'aurait désiré, et qu'elle ne devra pas non plus être étonnée de son silence pendant quelque temps. Il a reçu dernièrement la nouvelle brochure de l'abbé Clausel, qui est la -seconde contre la Société Catholique. Cette brochure est parvenue, sous le couvert du ministère des affaires ecclésiastiques, à M. le duc de Rivière, qui l'a renvoyée à M. Frayssinous, en lui écrivant « qu'il ne pouvait croire qu'elle lui eût été adressée avec son autorisation, et « que, pour le prévenir de cet abus de confiance, il lui renvoyait ce pamphlet sans r: l'avoir lu. *</p>
+        <p>« M. l'abbé Jean ne reviendra à la Chenaie que dans le mois de septembre ; sa santé est bonne.</p>
+        <p>« Permettez-moi, monsieur le comte, de terminer ce bulletin par l'expression de mon profond respect. »</p>
+        <p>LE MÊME AU MÊME.</p>
+        <p>« Monsieur le comte, « La Chenaie, 27 juillet 1827.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -14,11 +14,11 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 from lxml import etree
 from lxml.builder import ElementMaker
 
-RE_CHIF_AR = re.compile(r">[0-9]{1,3}\.") #pour matcher les débuts de lettres. 153 matches au lieu de 197
+RE_CHIF_AR = re.compile(r"^[0-9]{1,3}\.") #pour matcher les débuts de lettres. 153 matches au lieu de 197
 RE_DEST = re.compile(r"(A [A-Z][A-Z.]+)|^(?:A[A-Z.]+)")# 215 matches non complets
 
 #LE FILEPATH
-filepath = "lamennais-cor-vol1.html"
+filepath = "corpus/lamennais-cor-vol1.html"
 
 def strip_spaces(text):
 	return ' '.join(text.split())
@@ -42,6 +42,7 @@ for p in soup.body.find_all('p'):
 		lettre.append(text)
 
 
+print(lettres)
 
 E = ElementMaker(namespace="http://www.tei-c.org/ns/1.0", nsmap={None: "http://www.tei-c.org/ns/1.0"})
 for i, lettre in enumerate(lettres[1:]):

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Voilà bien des jours déjà que je n'ai reçu de vos nouvelles, et je ne vous ai pas écrit moi-même depuis mon départ de Paris, ayant été obligé de m'arrêter à Rennes, où je suis arrivé épuisé de fatigue. Je n'ai pas encore recouvré mes forces, et cependant il m 'a fallu me remettre au travail; jamais je ne m'y étais senti moins disposé; aussi n'avancé-je guère, et cela me contrarie. Je ne sais quel temps vous avez à Saint-Gervais; ici, nous en avons un qui nous désole. Il n'a pas cessé de pleuvoir depuis l'Ascension. Dans la Beauce et la Normandie, la récolte est presque entièrement perdue ; en Bretagne, il ne reste plus d'espérance que pour les blés noirs : il ne nous manquait que la disette, la voilà. L'année 1829 sera triste sous plus d'un rapport. J'ai trouvé dans tous les esprits un grand effroi de la session prochaine, et je crois qu'en effet elle nous conduira bien près de la catastrophe inévitable. On ne sait pas encore quel parti prendront les évêques sur l'ordonnance relative aux petits séminaires. La plupart se sont montrés disposés à la résistance; mais de toutes ces velléités il n'est encore résulté que peu de chose. Feutrier, comme vous l'avez vu, a publiquement annoncé aux Chambres qu'ils plieraient. Il pourrait bien s'y tromper, pourtant. Cet homme s'enfonce dans le mal tout naturellement, comme une pierre descend dans l'eau. Presque tout l'épiscopat a rompu avec lui; il n'est entouré que de prêtres déshonorés dans l'opinion, et de quelques jacobins qui mangent ses dîners, et vont ensuite se moquer de lui aux cafés du Palais-Royal. Il s'est trouvé cependant quelques prélats plus complaisants, notamment Frayssinous, l'archevêque de Bordeaux, et, je le dis à regret, le cardinal Isoard. Il semble que la pourpre romaine \ ne puisse être, en France, que prostituée." resp="">Voilà bien des jours déjà que je n'ai reçu de vos nouvelles, et je ne vous ai pas écrit moi-même depuis mon départ de Paris, ayant été obligé de m'arrêter à Rennes, où je suis arrivé épuisé de fatigue. Je n'ai pas encore recouvré mes forces, et cependant il m 'a fallu me remettre au travail; jamais je ne m'y étais senti moins disposé; aussi n'avancé-je guère, et cela me contrarie. Je ne sais quel temps vous avez à Saint-Gervais; ici, nous en avons un qui nous désole. Il n'a pas cessé de pleuvoir depuis l'Ascension. Dans la Beauce et la Normandie, la récolte est presque entièrement perdue ; en Bretagne, il ne reste plus d'espérance que pour les blés noirs : il ne nous manquait que la disette, la voilà. L'année 1829 sera triste sous plus d'un rapport. J'ai trouvé dans tous les esprits un grand effroi de la session prochaine, et je crois qu'en effet elle nous conduira bien près de la catastrophe inévitable. On ne sait pas encore quel parti prendront les évêques sur l'ordonnance relative aux petits séminaires. La plupart se sont montrés disposés à la résistance; mais de toutes ces velléités il n'est encore résulté que peu de chose. Feutrier, comme vous l'avez vu, a publiquement annoncé aux Chambres qu'ils plieraient. Il pourrait bien s'y tromper, pourtant. Cet homme s'enfonce dans le mal tout naturellement, comme une pierre descend dans l'eau. Presque tout l'épiscopat a rompu avec lui; il n'est entouré que de prêtres déshonorés dans l'opinion, et de quelques jacobins qui mangent ses dîners, et vont ensuite se moquer de lui aux cafés du Palais-Royal. Il s'est trouvé cependant quelques prélats plus complaisants, notamment Frayssinous, l'archevêque de Bordeaux, et, je le dis à regret, le cardinal Isoard. Il semble que la pourpre romaine \ ne puisse être, en France, que prostituée.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Chenaie, le 7 août 1828. (...-...)">A la Chenaie, le 7 août 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Voilà bien des jours déjà que je n'ai reçu de vos nouvelles, et je ne vous ai pas écrit moi-même depuis mon départ de Paris, ayant été obligé de m'arrêter à Rennes, où je suis arrivé épuisé de fatigue. Je n'ai pas encore recouvré mes forces, et cependant il m 'a fallu me remettre au travail; jamais je ne m'y étais senti moins disposé; aussi n'avancé-je guère, et cela me contrarie. Je ne sais quel temps vous avez à Saint-Gervais; ici, nous en avons un qui nous désole. Il n'a pas cessé de pleuvoir depuis l'Ascension. Dans la Beauce et la Normandie, la récolte est presque entièrement perdue ; en Bretagne, il ne reste plus d'espérance que pour les blés noirs : il ne nous manquait que la disette, la voilà. L'année 1829 sera triste sous plus d'un rapport. J'ai trouvé dans tous les esprits un grand effroi de la session prochaine, et je crois qu'en effet elle nous conduira bien près de la catastrophe inévitable. On ne sait pas encore quel parti prendront les évêques sur l'ordonnance relative aux petits séminaires. La plupart se sont montrés disposés à la résistance; mais de toutes ces velléités il n'est encore résulté que peu de chose. Feutrier, comme vous l'avez vu, a publiquement annoncé aux Chambres qu'ils plieraient. Il pourrait bien s'y tromper, pourtant. Cet homme s'enfonce dans le mal tout naturellement, comme une pierre descend dans l'eau. Presque tout l'épiscopat a rompu avec lui; il n'est entouré que de prêtres déshonorés dans l'opinion, et de quelques jacobins qui mangent ses dîners, et vont ensuite se moquer de lui aux cafés du Palais-Royal. Il s'est trouvé cependant quelques prélats plus complaisants, notamment Frayssinous, l'archevêque de Bordeaux, et, je le dis à regret, le cardinal Isoard. Il semble que la pourpre romaine \ ne puisse être, en France, que prostituée."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous avez, je pense, près de vous le bon évêque de Pignerol. Veuillez bien lui offrir mon tendre respect. L'abbé Gerbet</p>
+        <p>vous présente les siens. Je l'ai ramené avec moi à la Chenaie, où il se porte mieux qu'à Paris.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

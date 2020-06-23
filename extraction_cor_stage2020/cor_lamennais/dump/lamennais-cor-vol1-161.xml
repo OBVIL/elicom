@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="J'ai reconnu votre cœur, cher ami, dans ce que vous m'écrivez sur la mort de mon pauvre père; et Jean n'en sera pas moins touché que moi. Chaque jour je goûte davantage cette parole de l'Écriture : Beati mortui qui in Domino moriuntur. La vie devient de plus en plus pénible, et cependant il la faut porter, car c'est la croix, et ne pas se lasser de monter au Calvaire, là où il fut dit et où nous dirons : Je remets mon âme entre vos mains : tout est consommé ! — Que Dieu, en attendant, soit notre paix, et sa sainte volonté toute notre joie sur la terre!" resp="">J'ai reconnu votre cœur, cher ami, dans ce que vous m'écrivez sur la mort de mon pauvre père; et Jean n'en sera pas moins touché que moi. Chaque jour je goûte davantage cette parole de l'Écriture : Beati mortui qui in Domino moriuntur. La vie devient de plus en plus pénible, et cependant il la faut porter, car c'est la croix, et ne pas se lasser de monter au Calvaire, là où il fut dit et où nous dirons : Je remets mon âme entre vos mains : tout est consommé ! — Que Dieu, en attendant, soit notre paix, et sa sainte volonté toute notre joie sur la terre!</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 22 février 1828. (...-...)">Le 22 février 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'ai reconnu votre cœur, cher ami, dans ce que vous m'écrivez sur la mort de mon pauvre père; et Jean n'en sera pas moins touché que moi. Chaque jour je goûte davantage cette parole de l'Écriture : Beati mortui qui in Domino moriuntur. La vie devient de plus en plus pénible, et cependant il la faut porter, car c'est la croix, et ne pas se lasser de monter au Calvaire, là où il fut dit et où nous dirons : Je remets mon âme entre vos mains : tout est consommé ! — Que Dieu, en attendant, soit notre paix, et sa sainte volonté toute notre joie sur la terre!"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai mandé à Mlue de Senfft ce que Frayssinous et l'archevêque avaient exigé des Jésuites. Ils ne sont plus que vingt à Montrouge, « pour se tenir dans les termes de la loi, » à ce qu'on dit. Les autres ont été envoyés à Fribourg. L'abbé de Rohan remplace le P. Ronsin, rue du Bac. Voilà, pour eux, les suites du traité auquel le Mémorial a fait allusion, et le prix d'une lâcheté sans excuse. Encore n'est-ce que le commencement. On a trouvé, dans les Archives du ministère ecclésiastique, une déclaration faite en 1809 à Portalis par le P. Varin, dans laquelle il assurait (avec raison) que ni lui ni ses</p>
+        <p>confrères n'étaient Jésuites; qu'ils ne le seraient jamais ; qu'ils avaient toujours enseigné et qu'ils enseigneraient toujours le maximes gallicanes. Or, il se trouve que c'est le même P. Va-s rin qui est venu, il y a deux ans, déclarer à Frayssinous qu'ils étaient Jésuites, et qu'ils avaient toujours eu l'intention de l'être. Jugez de l'effet que produisent ces belles déclarations, qui ne sont pas de 1682;—elles seraient au moins plus franches.</p>
+        <p>La gauche ne s'est pas réunie au centre gauche, comme on l avait dit. Rover-Collard n'a pas voulu. On lui a dit : « Vous prétendez donc marcher tout seul? » Il a répondu : « C'est vrai, j'ai le défaut d'aller tout seul. » Cela divise et affaiblit le parti. Il y a même eu de grandes querelles entre eux dans l "ur réunion de la rue Grange-Batelière; ils sentent qu'il leur faudrait un chef, un nom; mais où le prendre? On n'a pas toujours sous la main un Mirabeau, ni même un Robespierre. Au reste, si l'indiscipline retarde leur triomphe, elle le rend peut-être plus certain, parce qu'il ne dépendra pas des combinaisons d'un seul homme que d'autres hommes et les événements peuvent déconcerter; mais il sera le résultat de la force propre de l'opinion, à laquelle rien ne résiste, pour laquelle il n'y a point de mécomptes, qui va croissant lorsqu'on la ménage, et plus encore lorsqu'on essaye de l'opprimer.</p>
+        <p>Les royalistes, comme on les nomme aujourd'hui, sont fort en peine au milieu de tout cela. L'opposition de droite s'était acquis de la considération et de l'estime en attaquant l'infâme arbitraire et le vil despotisme de l'ancienne administration. C'était très-bien jusque-là. Toute la France non-payée applaudissait, par un sentiment de conscience et d'honneur, sans d'ailleurs se douter de quoi il s'agissait. Aujourd'hui, cette même droite s'est aperçue, d'un côté, que l'exécution loyale des lois nous menait droit de la République voilée à la République patente ; et, d'un autre côté, que le pouvoir, qu'elle se croit près de saisir, lui échapperait à l'instànt même si elle ne conservait pas le despotisme administratif. C'est pourquoi, renonçant à ses principes d'hier, elle s'est mise *à défendre le despotisme, à pallier ses fraudes, à excuser, à louer ses violences, dans les discussions qui ont eu lieu à propos de la vé-</p>
+        <p>rification des pouvoirs. Je ne sache rien de plus malhabile; car bientôt toute la haine qu'inspirait l ancien ministère retombera sur le nouveau et sur la droite qui le soutiendra, par une indigne contradiction avec ce qu'elle n a cessé de dire depuis quatre ans'. L'influence libérale sur l'opinion s'en accroîtra démesurément, parce que la raison, le droit, la justice, seront visiblement de ce côté, et qu'on ne verra de l 'autre, qu 'oppression morale, mauvaise foi, déception, mensonge. Il y a cent fois moins de danger à renverser violemment les lois qu 'à les rendre dérisoires, en protestant d un grand respect pour elles. Cette hypocrisie irrite au plus haut degré, et ne se pardonne point.</p>
+        <p>La commission Portalis s'est ajournée à six mois', ses opérations devant dépendre des volontés que les Chambres manifesteront. Un peu plus tôt ou un peu plus tard, la persécution est inévitable, et je n'espère qu'en Dieu pour sauver la Foi dans notre malheureux pays. On dit qu'il y a là beaucoup de sagesse; je n'y vois que beaucoup de faiblesse et un aveuglement effrayant. On s'effraye de la moindre action, on tremble de __ remuer, on sacrifie l'avenir à la peur qu'on a de la plus légère résistance immédiate. « E natura comune degli uornini, dit « Guichardin, temere prima i pericoli piit vicini, e stirnare piit « che non conviene le cose pre senti, e tenere minor conto che « non si debbe delle future, è lontane, perche a quelle si pos-</p>
+        <p>1 Cette prédiction, datée du mois de février, commençait à se réaliser dès le mois d'avril suivant, à l'occasion de la loi sur la presse.</p>
+        <p>2 Il y a erreur dans cette affirmation. La commission Portalis, autrement dite la Commission des Études ecclésiastiques, nommée le 22 janvier, présenta son rapport le 28 mai, après quatre mois de délibérations. A la majorité de cinq voix contre quatre, elle décidait que la direction des écoles secondaires ecclésiastiques, confiée par des évêques de France à des prêtres « suivant la règle de saint Ignace, » n'était pas contraire aux lois du royaume. Une grande irritation de l'opinion publique fut le résultat de cette imprudente bravade. Cette irritation se traduisit, dans la Chambre, par la reprise du projet de mettre en accusation les anciens ministres. Le cabinet Martignac se servit de cette menace parlementaire pour obtenir les ordonnances du 16 juin qui consacraient virtuellement l'illégalité de l'existence des Jésuites en France. Il ne fallut rien moins que l'offre d'une démission collective de tous les ministres pour arracher ces mesures aux scrupules religieux du monarque.</p>
+        <p>« sano sperate molli remedj, dagli accidenti e dal tempo 1. » Un des inconvénients de ce funeste système est que les agents, n'ayant qu'une pensée, leur intérêt propre, ne s'occupent que de verser le sommeil dans les âmes déjà assoupies.</p>
+        <p>Adieu, cher ami, ménagez-vous, et n'entreprenez pas de faire le carême; vous savez par expérience que votre santé ne le supporte pas.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

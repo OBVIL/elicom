@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Vous avez, chère demoiselle, des manières de voyager qui déconcertent vos amis. Je vous avais écrit à Angers, je me faisais une fète de me présenter à vous dans cette belle maison de Saint-Nicolas, et point du tout : vous arrivez, vous voyez, comme César, et vous repartez sans vous douter seulement qu'on est en route pour venir vous rendre ses hommages; et" resp="">Vous avez, chère demoiselle, des manières de voyager qui déconcertent vos amis. Je vous avais écrit à Angers, je me faisais une fète de me présenter à vous dans cette belle maison de Saint-Nicolas, et point du tout : vous arrivez, vous voyez, comme César, et vous repartez sans vous douter seulement qu'on est en route pour venir vous rendre ses hommages; et</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Chenaie, le 2k juillet 1819. (...-...)">A la Chenaie, le 2k juillet 1819.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Vous avez, chère demoiselle, des manières de voyager qui déconcertent vos amis. Je vous avais écrit à Angers, je me faisais une fète de me présenter à vous dans cette belle maison de Saint-Nicolas, et point du tout : vous arrivez, vous voyez, comme César, et vous repartez sans vous douter seulement qu'on est en route pour venir vous rendre ses hommages; et"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>assemblées législatives, et plus particulièrement, le 2 décembre 1851, à la mairie du Xe arrondissement. lU. Denys-Benoît fut longtemps honoré de n mi lié de Lamennais, et a conservé beaucoup de ses Lettres. L'éditeur a malheureusement toute raison de penser que des scrupules de diverse nature empêcheront la publication de ces précieux documents.</p>
+        <p>1 On verra. par la lettre suivante, qu'il était question d'acquérir. i. AlIgers. une maison dite de « Saint-Nicolas. » Pour quel genre d'établissement, c'est ce que nous n'avons pu savoir.</p>
+        <p>l'on perd toute sa peine, parce que vous êtes trop habile à gagner du temps. Je suis ravi de vos ravissements ; c'est donc bien beau? Mais le difficile est d'y entrer. Je crois pourtant que si le conseil du département fait son devoir, s 'il se prononce avec force, il ne sera pas aisé au ministre de refuser son autorisation ; ce pourquoi j'espère et espérerai jusqu'au bout : cela ne coûte rien, et cela fait du bien, deux grandes choses. J'étais bien sûr que ce bon Denys 1 vous plairait; il a bien à cœur le succès de notre affaire, et son père de même. Quelle différence de ces gens-là à d'autres gens! Mais j'en dirais trop. J'en avais trop dit, je crois, en vous annonçant l'arrivée de ma sœur : il devient probable qu'elle restera près de son nouveau-né, ce que je regrette pour moi, pour elle et pour ses petites filles. Cela me déterminera vraisemblablement à partir plus tôt. Cependant je n'ai pas vu encore mon frère. Il doit venir le 10 à Dinan, et être de retour le 12 à Saint-Brieuc. On ne sait où le prendre. Mille choses tendres à tous nos chers feuillantins et feuillantines. Adieu, mon excellente amie; écrivez-moi et dîtes-moi que vous aimez toujours un peu le pauvre voyageur. Je vous en demande autant, mademoiselle Ninette5, et c'est le moins que je puisse demander pour expiation de ce long silence, que vous ne justifierez jamais, quoi que vous fassiez. Je vois bien qu'il faut que je m'en retourne en hâte, si je ne veux pas être oublié. Mais, m'en retourner, c'est bientôt dit. Y a-t-il sûreté pour ma foi, maintenant, aux Feuillantines? Peut-on communiquer en conscience avec tous les habitants? Encore si ce n'était qu'une petite hérésie passante, une de ces opinions qui arrivent, s'en vont et ne reviennent plus ; mais, à vous entendre, c'est bien pis, et le coupable est au moins relaps ; cela me désole. Je voudrais lui écrire aujourd'hui, je n'en ai pas le temps. Dites-lui, s'il vous plaît, que je le remercie mille fois de son souvenir, et que, bien certain qu'il est venu à résipiscence, je le révère et l'aime de tout mon cœur comme devant. Je vous prie de distribuer mes respects, amitiés, compliments et souvenirs, de droite et de gauche, à qui de droit.</p>
+        <p>1 M. Denys-Benoît.</p>
+        <p>- M11* de Lucinière; — voir la lettre 4.</p>
+        <p>M. Genoude vous présente ses hommages. Il continue de se traiter, et moi d'en rire. Nous sommes contents tous les deux; mais je suis le mieux portant. Adieu, ma bien bonne amie; priez pour mon bonheur, c'est-à-dire pour mon prompt retour.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="14 décembre 1825." resp="">14 décembre 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="w (...-...)">w</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="14 décembre 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous aviez deviné, mon cher ami, le besoin que j'aurais de voire lettre; ainsi, je vous remercie doublement, et de la lettre, et du sentiment qui vous l'a fait écrire. Je ne puis rien vous dire encore du voyage que vous m'engagez à faire, parce qu'il faut qu'auparavant je sache de mon beau-frère s'il voudrait lui-même aller à Paris, ce qui serait le mieux. Ayant refait les comptes, il les expliquerait mieux que personne. Mais c'est assez, pour aujourd'hui, vous parler de cette triste affaire. Je reviens au voyage. Je désire vivement finir ma seconde partie avant de quitter ma Bretagne.</p>
+        <p>Je crois ce travail très-important dans les circonstances présentes. Or, il me faut deux mois pour l'achever. J'ai fait à la hâte quelques réflexions sur les deux jugements t. Cela m'a paru nécessaire. Elles seront publiées très-peu de jours après que vous aurez reçu cette lettre. Au point où en sont les choses, il faut s'expliquer nettement; les ménagements ne serviraient de rien ; les ennemis eux-mêmes n'en gardent plus aucuns. Puisqu'on commence la persécution, parlons en persécutés, avec la hardiesse de la foi, qui se rit de ceux qui ne peuvent tuer que le corps. Ayons tout le courage de la vérité. Que peut-on nous faire ? Si on nous ôte à elle en ce monde, elle se rendra elle-même à nous dans l'autre ; voilà tout. Et puis, même humainement parlant, plus vous osez, moins on ose</p>
+        <p>1 Quelques réflexions sur le procès du CONSTITUTIONNEL et du COURRIER, Paris, au bureau du Mémorial catholique. Cette brochure, de 45 pages in-8°, a été réimprimée, en 1835, dans les Troisièmes Mélanges de Lamennais, qui forment le tome X de ses OEuvres complètes (in-8°, 1836-37, Cailleux).</p>
+        <p>contre vous. La vaillance de l'un n'est presque jamais que la couardise de l'autre. J'espère, avec l'aide de Dieu, n'être pas couard. Adieu, cher; embrassez pour moi notre ami à son arrivée, et demandez à votre cœur ce que vous dit le mien.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

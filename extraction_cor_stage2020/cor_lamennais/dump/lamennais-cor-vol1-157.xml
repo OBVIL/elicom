@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="C'est aujourd'hui que le roi a ouvert la session, dont les résultats tiennent la France dans une si vive attente. Il n'a pas dû prononcer, sans quelque émotion, le discours insignifiant qu'on lui a prescrit, et sur lequel ses ministres mêmes ont eu tant de peine à s'accorder. Pour lui commence une série nouvelle d'embarras, d'amertumes, de dangers, dont le terme est aussi inconnu que le développement en sera probablement orageux, et que l'issue en paraît à craindre. La Révolution rajeunie et pleine de force, quoique divisée en deux partis, dont le plus modéré est le plus redoutable, parce qu'il a réduit le désordre en théorie ; le royalisme dissous de telle sorte qu'on ne trouverait pas, parmi ceux dont il se composait il y six ans, dix hommes ayant la même opinion; la pente générale des esprits vers de nouveaux essais politiques ; la croyance universelle que quelque grand changement doit s'opérer; les hautes classes et la classe moyenne animées d'une haine égale" resp="">C'est aujourd'hui que le roi a ouvert la session, dont les résultats tiennent la France dans une si vive attente. Il n'a pas dû prononcer, sans quelque émotion, le discours insignifiant qu'on lui a prescrit, et sur lequel ses ministres mêmes ont eu tant de peine à s'accorder. Pour lui commence une série nouvelle d'embarras, d'amertumes, de dangers, dont le terme est aussi inconnu que le développement en sera probablement orageux, et que l'issue en paraît à craindre. La Révolution rajeunie et pleine de force, quoique divisée en deux partis, dont le plus modéré est le plus redoutable, parce qu'il a réduit le désordre en théorie ; le royalisme dissous de telle sorte qu'on ne trouverait pas, parmi ceux dont il se composait il y six ans, dix hommes ayant la même opinion; la pente générale des esprits vers de nouveaux essais politiques ; la croyance universelle que quelque grand changement doit s'opérer; les hautes classes et la classe moyenne animées d'une haine égale</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 5 février 1828. (...-...)">Le 5 février 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="C'est aujourd'hui que le roi a ouvert la session, dont les résultats tiennent la France dans une si vive attente. Il n'a pas dû prononcer, sans quelque émotion, le discours insignifiant qu'on lui a prescrit, et sur lequel ses ministres mêmes ont eu tant de peine à s'accorder. Pour lui commence une série nouvelle d'embarras, d'amertumes, de dangers, dont le terme est aussi inconnu que le développement en sera probablement orageux, et que l'issue en paraît à craindre. La Révolution rajeunie et pleine de force, quoique divisée en deux partis, dont le plus modéré est le plus redoutable, parce qu'il a réduit le désordre en théorie ; le royalisme dissous de telle sorte qu'on ne trouverait pas, parmi ceux dont il se composait il y six ans, dix hommes ayant la même opinion; la pente générale des esprits vers de nouveaux essais politiques ; la croyance universelle que quelque grand changement doit s'opérer; les hautes classes et la classe moyenne animées d'une haine égale"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>contre l'Église; une administration sans consistance qui cherche de tous côtés de l'appui, et qui n'a trouvé jusqu'à présent que des individus à acheter; l'influence de la Royauté dévolue à M. le Dauphin; la confiance perdue, toutes les ambitions exaltées, tous les désirs en mouvement, sans une seule pensée de bien public au milieu de tout cela, au'moins dans ceux en qui cette pensée pourrait être efficace : voilà notre état présent. Je ne crois pas, néanmoins, à une crise prochaine. La Révolution est trop puissante; elle a des espérances trop solides, et on peut le dire, trop de certitude de succès en laissant les choses suivre leur cours, pour compromettre sa position par des violences prématurées, et pour remettre ainsi en question un triomphe qu'elle a droit de regarder comme assuré. Son plus grand soin doit être aujourd'hui de retenir en de certaines bornes les esprits impétueux qui ne manquent pas parmi les siens ; et c'est encore en cela que le centre gauche ou les doctrinaires la serviront merveilleusement. Sans jamais détourner l'œil de la boussole, ils gouvernent droit sur l'écueil, avec tout le sang froid de lascience, et c'est ce qui charme beaucoup de gens, qui n'ont jamais vu de naufrage si régulier.</p>
+        <p>Que voulez-vous? le monde politique suit ses destinées; il « marche dans ses voies, » selon le langage de l'Écriture. Il faut s'élever au-dessus de la terre, et contempler de là ce grand spectacle, qui, en un sens, n'a rien d'humain. D'intérêt véritable et pris dans le fond de l'âme, je ne pense pas qu'on puisse en sentir, au temps où nous vivons, pour quelque autre chose que l'Église. Elle sera sans doute, et bientôt, attaquée, persécutée. Après dix-huit siècles d'épreuve, l'orgueil ne se croit pas encore vaincu; il a même, en ce moment, un caractère particulier de confiance en lui-même qui excite un effroi profond et un indicible étonnement; et j'en conclus deux choses : que la guerre contre Dieu sera terrible, atroce, désespérée, et le châtiment, effroyable. Non dormiet neque dormit et qui custodit Israël.</p>
+        <p>Ne vous laissez point abattre par les peines de tout genre que la Providence vous envoie. Recevez-les de sa main avec le calme de la soumission et l'allégresse de la foi. Fermez avec</p>
+        <p>soin votre âme au trouble. Songez que c est à vous aussi qu 'il a été dit . Je vous laisse ma paix, je vous donne ma paix. Mais écoutez ce qui suit : Non comme le monde la donne. Les succès, les prospérités, voilà la paix du monde; la Croix, voilà celle de Dieu. Je suis aussi fort éprouvé, et à peu près comme vous. Les hommes qui m'ont déjà fait tant de mal, continuent de me poursuivre avec un acharnement qui m'afflige pour eux encore plus que pour moi. En vérité, ils sont bien à plaindre. Il faut prier pour eux.</p>
+        <p>J'ai été extrêmement touché de la lettre de Manzoni. J'en remercie la comtesse Louise. Il y a là un charme de douceur modeste et d'humilité naïve qui ravit. J'avais une grande estime pour l'auteur des Promessi sposi; mais j'aime de tout mon cœur l'auteur de la lettre.</p>
+        <p>Je lis à présent Guichardin, comme nous l'appelons. Je perds ' souvent haleine à le suivre dans ses interminables phrases; il a, d'ailleurs, de l'intérêt et un mérite réel. Ce qui m'étonne, c'est d'y retrouver à peu près toutes les idées protestantes et gallicanes, avec les erreurs historiques dont on est convenu de les appuyer, sur Rome, et sa puissance temporelle, et son ambition, et ses richesses prétendues immenses, fruit du pillage de la chrétienté. Bossuet et maître Dupin n'auraient pas mieux dit.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

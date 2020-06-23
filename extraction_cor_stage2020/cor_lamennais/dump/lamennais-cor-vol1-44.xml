@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Si je ne vous ai pas écrit, mon cher ami, c'est qu'outre mille occupations, j'ai été extrêmement faible et souffrant. Je ne sais d'où cela vient, mais il ne se passe guère de jour où je n'aie des espèces d'évanouissements. Cela finira, mais vous concevez que je n'ai pu guère m'occuper d'une affaire qui me fait beaucoup de mal toutes les fois que je suis forcé d'y penser." resp="">Si je ne vous ai pas écrit, mon cher ami, c'est qu'outre mille occupations, j'ai été extrêmement faible et souffrant. Je ne sais d'où cela vient, mais il ne se passe guère de jour où je n'aie des espèces d'évanouissements. Cela finira, mais vous concevez que je n'ai pu guère m'occuper d'une affaire qui me fait beaucoup de mal toutes les fois que je suis forcé d'y penser.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Chenaie, le 18 septembre 1825. (...-...)">A la Chenaie, le 18 septembre 1825.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Si je ne vous ai pas écrit, mon cher ami, c'est qu'outre mille occupations, j'ai été extrêmement faible et souffrant. Je ne sais d'où cela vient, mais il ne se passe guère de jour où je n'aie des espèces d'évanouissements. Cela finira, mais vous concevez que je n'ai pu guère m'occuper d'une affaire qui me fait beaucoup de mal toutes les fois que je suis forcé d'y penser."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai écrit deux fois à notre ami', et je n'en ai point de réponse. Cela m'afflige, car ce silence n'est pas dans son caractère. Je conçois bien peu de chose à son état. Jouissez de la campagne, mon cher ami, pendant les beaux jours qui nous l estent, et, en vous promenant sous vos ombrages, songez qu'on pense à vous et qu'on vous aime sous d'autres om. brages lointains. Hélas! comment ne vous aimerait-on pas! Vous êtes si bon, cher. Mon pauvre cœur se repose dans le vôtre, et là il sent que tout n'est pas tristesse et douleur sur la terre. Aimez-moi aussi, cher, et dites-le-moi ; cette douce parole va bien avant; elle ranime mon âme, qui plie quelquefois sous le poids de tout ce qui la presse.</p>
+        <p>Mille tendres hommages à M'"e Berryer. J'embrasse notre cher petit Arthur, et son père, s'il me le permet. Mon frère vous offre une amitié inaltérable comme la miennc 2.</p>
+        <p>! M. de Vitrolles;</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

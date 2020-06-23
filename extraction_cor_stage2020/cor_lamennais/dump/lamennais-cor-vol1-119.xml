@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Que Dieu soit béni mille fois, monsieur et vénérable ami, de ce qu'il vous a conservé au monde qui a si grand besoin de vous, à votre digne frère, et à des amis parmi lesquels je ne le cède à aucun dans le tendre attachement à votre personne, non plus que dans la vénération pour votre beau génie." resp="">Que Dieu soit béni mille fois, monsieur et vénérable ami, de ce qu'il vous a conservé au monde qui a si grand besoin de vous, à votre digne frère, et à des amis parmi lesquels je ne le cède à aucun dans le tendre attachement à votre personne, non plus que dans la vénération pour votre beau génie.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, le 8 août 1827. (...-...)">Paris, le 8 août 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Que Dieu soit béni mille fois, monsieur et vénérable ami, de ce qu'il vous a conservé au monde qui a si grand besoin de vous, à votre digne frère, et à des amis parmi lesquels je ne le cède à aucun dans le tendre attachement à votre personne, non plus que dans la vénération pour votre beau génie."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je vous peindrais mal les angoisses où m'a jeté l'article du journal qui m'a appris en même temps votre danger et votre maladie. Ces inexprimables angoisses ont duré jusqu'au moment où l'on m'a pleinement rassuré sur vos jours au bureau du Mémorial. Depuis assez longtemps je me plaignais de votre silence, et malgré ce que m'avaient dit de votre santé et M. de Vitrolles et Mme de Talaru, j'étais fort éloigné, assuré-</p>
+        <p>1 A Rome.</p>
+        <p>ment, de soupçonner une excuse qui a pensé n'être que trop cruellement valable.</p>
+        <p>Au nom de Dieu, modérez votre ardeur pour le travail, qui a peut-être causé cette maladie; et foulez aux pieds l'injustice des hommes, qui ne sont pas dignes de vous causer des chagrins. Je me sens trop ému, et incapable de vous en dire davantage aujourd'hui. De grâce, faites-moi donner des nouvelles de votre convalescence, et ne m'écrivez que lorsque vous le pourrez sans nulle fatigue. Mme de Coriolis et mon plus jeune fils, qui est auprès de moi, ont partagé toutes mes sollicitudes.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

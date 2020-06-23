@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Si votre itinéraire n'a pas été dérangé depuis la dernière lettre de M. de Senfft, vous avez dû passer quelques jours à Arona, et vous devez être maintenant à Turin. Vous n'y aurez pas retrouvé, j'espère, les chaleurs du mois de juin. Ici, nous en avons eu d'assez fortes depuis le commencement de septembre ; mais un orage qui s'est déclaré ce matin a beaucoup rafraîchi l'atmosphère. Encore trois ou quatre semaines, et nous ne pourrons plus guère attendre que pluie, vent, grèle, gelée, brouillards, enfin l'hiver avec tout son cortège, et cela ressemblera tout à fait à la politique du moment. Le ministère regarde la girouette pour savoir de quel côté il doit se tourner; et, comme la Révolution souffle fort et ne s'épuise jamais, il suit naturellement la direction qu'elle lui indique. Je ne crois pourtant pas qu'il presse avec beaucoup de chaleur l'exécution des ordonnances1 jusqu'à la session prochaine, époque à laquelle on doit s'attendre à des mesures encore plus violentes. Les journaux de la faction les sollicitent à grands cris, et je ne doute pas qu ils n obtiennent tout de la faiblesse du gouvernement. Celui-ci doit avoir envoyé un agent à Rome. Les ministres comptent, dit-on, sur le cardinal Bernetti : puissent-ils compter sans leur hôte' De la mollesse de la part de Rome ferait un mal immense, et de longtemps irréparable. J'espère que le Pape, personnellement si ferme et si éclairé, le sentira. L'épiscopat s'est avancé; il a fait plus qu'on n'attendait de lui, mais il a besoin d être soutenu. Six évêques seulement ont refusé de signer les réclamations. On nomme l'évêque de Strasbourg et l'archevêque de Bordeaux. Auch est très-faible, Besançon aussi. 11 ne faut pas croire, d'ailleurs, à un concert bien parfait sur tous les points. Des" resp="">Si votre itinéraire n'a pas été dérangé depuis la dernière lettre de M. de Senfft, vous avez dû passer quelques jours à Arona, et vous devez être maintenant à Turin. Vous n'y aurez pas retrouvé, j'espère, les chaleurs du mois de juin. Ici, nous en avons eu d'assez fortes depuis le commencement de septembre ; mais un orage qui s'est déclaré ce matin a beaucoup rafraîchi l'atmosphère. Encore trois ou quatre semaines, et nous ne pourrons plus guère attendre que pluie, vent, grèle, gelée, brouillards, enfin l'hiver avec tout son cortège, et cela ressemblera tout à fait à la politique du moment. Le ministère regarde la girouette pour savoir de quel côté il doit se tourner; et, comme la Révolution souffle fort et ne s'épuise jamais, il suit naturellement la direction qu'elle lui indique. Je ne crois pourtant pas qu'il presse avec beaucoup de chaleur l'exécution des ordonnances1 jusqu'à la session prochaine, époque à laquelle on doit s'attendre à des mesures encore plus violentes. Les journaux de la faction les sollicitent à grands cris, et je ne doute pas qu ils n obtiennent tout de la faiblesse du gouvernement. Celui-ci doit avoir envoyé un agent à Rome. Les ministres comptent, dit-on, sur le cardinal Bernetti : puissent-ils compter sans leur hôte' De la mollesse de la part de Rome ferait un mal immense, et de longtemps irréparable. J'espère que le Pape, personnellement si ferme et si éclairé, le sentira. L'épiscopat s'est avancé; il a fait plus qu'on n'attendait de lui, mais il a besoin d être soutenu. Six évêques seulement ont refusé de signer les réclamations. On nomme l'évêque de Strasbourg et l'archevêque de Bordeaux. Auch est très-faible, Besançon aussi. 11 ne faut pas croire, d'ailleurs, à un concert bien parfait sur tous les points. Des</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 9 septembre 1828. (...-...)">Le 9 septembre 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Si votre itinéraire n'a pas été dérangé depuis la dernière lettre de M. de Senfft, vous avez dû passer quelques jours à Arona, et vous devez être maintenant à Turin. Vous n'y aurez pas retrouvé, j'espère, les chaleurs du mois de juin. Ici, nous en avons eu d'assez fortes depuis le commencement de septembre ; mais un orage qui s'est déclaré ce matin a beaucoup rafraîchi l'atmosphère. Encore trois ou quatre semaines, et nous ne pourrons plus guère attendre que pluie, vent, grèle, gelée, brouillards, enfin l'hiver avec tout son cortège, et cela ressemblera tout à fait à la politique du moment. Le ministère regarde la girouette pour savoir de quel côté il doit se tourner; et, comme la Révolution souffle fort et ne s'épuise jamais, il suit naturellement la direction qu'elle lui indique. Je ne crois pourtant pas qu'il presse avec beaucoup de chaleur l'exécution des ordonnances1 jusqu'à la session prochaine, époque à laquelle on doit s'attendre à des mesures encore plus violentes. Les journaux de la faction les sollicitent à grands cris, et je ne doute pas qu ils n obtiennent tout de la faiblesse du gouvernement. Celui-ci doit avoir envoyé un agent à Rome. Les ministres comptent, dit-on, sur le cardinal Bernetti : puissent-ils compter sans leur hôte' De la mollesse de la part de Rome ferait un mal immense, et de longtemps irréparable. J'espère que le Pape, personnellement si ferme et si éclairé, le sentira. L'épiscopat s'est avancé; il a fait plus qu'on n'attendait de lui, mais il a besoin d être soutenu. Six évêques seulement ont refusé de signer les réclamations. On nomme l'évêque de Strasbourg et l'archevêque de Bordeaux. Auch est très-faible, Besançon aussi. 11 ne faut pas croire, d'ailleurs, à un concert bien parfait sur tous les points. Des"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>1 Ordonnances du mois de juin.</p>
+        <p>vues étrangères au bien se mêlent à ce que le zèle de la foi inspire de plus pur et de plus consolant. Le gallicanisme se remue sous terre; il se rallie autour du ministère tombé, et la Gazette en est l'organe; mais quelques bouches flétries auront beau répéter : 1682 ! elles ne trouveront point d'échos. La fièvre gallicane ressemble à la fièvre quarte qu'on n'a jamais deux fois. — En vérité, c'est bien assez d'une.-</p>
+        <p>Mes petites affaires s'arrangent un peu : je viens d'acheter près de Malestroit une maison commode que j'irai, je crois, habiter après la Toussaint. J'y serai fort tranquille; mais elle a besoin de quelques réparations avant d'être occupée. Je me trouverai là près de mon frère, qui ne vient guère ici et qui est fort souvent à Ploërmel.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

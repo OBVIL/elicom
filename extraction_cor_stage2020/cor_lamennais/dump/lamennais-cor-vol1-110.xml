@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Vous vous justifiez si bien, mon excellente amie, qu'il n'y a pas moyen de ne pas faire la paix ; mais je vous déclare qu'elle ne tiendra pas, si je suis trop longtemps sans recevoir de vos nouvelles : il faut absolument que je sache comment vous vous portez toutes et tous. Je ne suis point tranquille sur la bonne Villiers, ni sur Adèle. J'espère qu'à l'arrivée d'Angélique, que mon frère aura le plaisir de voir ces jours-ci il Saint-Brieuc, vous vous partagerez la peine, le travail, le soin, comme vous voudrez l'appeler, de la correspondance avec la Chenaie. Je suis très-fâché du départ d'Antoinette ; ce sera une grande privation pour vous. Mais, en vérité, tout le monde part. Mon frère partit hier aussi. Je ne le reverrai qu'au mois de septembre, car je ne compte pas deux jours qu'il m'a promis en juillet. Ses établissements l'occupent tout entier, et grâce à Dieu, ils vont à merveille. Voilà M. Frayssinous et ses amis qui attaquent la Société Catholique, la seule œuvre qu'on ait opposée à la propagation des mauvais livres, et l'une de celles qui faisaient le plus de bien. Que dites-vous de cela? Ce zèle est-il selon voire cœur? Il y a des scandales que Dieu permet ; mais que le châtiment en sera terrible ! On vous aura conté tous les détails, qui font trembler pour l'avenir. Ce que vous me mandez du pauvre L.' fait grand'pitié. Il est mainte-" resp="">Vous vous justifiez si bien, mon excellente amie, qu'il n'y a pas moyen de ne pas faire la paix ; mais je vous déclare qu'elle ne tiendra pas, si je suis trop longtemps sans recevoir de vos nouvelles : il faut absolument que je sache comment vous vous portez toutes et tous. Je ne suis point tranquille sur la bonne Villiers, ni sur Adèle. J'espère qu'à l'arrivée d'Angélique, que mon frère aura le plaisir de voir ces jours-ci il Saint-Brieuc, vous vous partagerez la peine, le travail, le soin, comme vous voudrez l'appeler, de la correspondance avec la Chenaie. Je suis très-fâché du départ d'Antoinette ; ce sera une grande privation pour vous. Mais, en vérité, tout le monde part. Mon frère partit hier aussi. Je ne le reverrai qu'au mois de septembre, car je ne compte pas deux jours qu'il m'a promis en juillet. Ses établissements l'occupent tout entier, et grâce à Dieu, ils vont à merveille. Voilà M. Frayssinous et ses amis qui attaquent la Société Catholique, la seule œuvre qu'on ait opposée à la propagation des mauvais livres, et l'une de celles qui faisaient le plus de bien. Que dites-vous de cela? Ce zèle est-il selon voire cœur? Il y a des scandales que Dieu permet ; mais que le châtiment en sera terrible ! On vous aura conté tous les détails, qui font trembler pour l'avenir. Ce que vous me mandez du pauvre L.' fait grand'pitié. Il est mainte-</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, le 18 juin 1827. (...-...)">Paris, le 18 juin 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Vous vous justifiez si bien, mon excellente amie, qu'il n'y a pas moyen de ne pas faire la paix ; mais je vous déclare qu'elle ne tiendra pas, si je suis trop longtemps sans recevoir de vos nouvelles : il faut absolument que je sache comment vous vous portez toutes et tous. Je ne suis point tranquille sur la bonne Villiers, ni sur Adèle. J'espère qu'à l'arrivée d'Angélique, que mon frère aura le plaisir de voir ces jours-ci il Saint-Brieuc, vous vous partagerez la peine, le travail, le soin, comme vous voudrez l'appeler, de la correspondance avec la Chenaie. Je suis très-fâché du départ d'Antoinette ; ce sera une grande privation pour vous. Mais, en vérité, tout le monde part. Mon frère partit hier aussi. Je ne le reverrai qu'au mois de septembre, car je ne compte pas deux jours qu'il m'a promis en juillet. Ses établissements l'occupent tout entier, et grâce à Dieu, ils vont à merveille. Voilà M. Frayssinous et ses amis qui attaquent la Société Catholique, la seule œuvre qu'on ait opposée à la propagation des mauvais livres, et l'une de celles qui faisaient le plus de bien. Que dites-vous de cela? Ce zèle est-il selon voire cœur? Il y a des scandales que Dieu permet ; mais que le châtiment en sera terrible ! On vous aura conté tous les détails, qui font trembler pour l'avenir. Ce que vous me mandez du pauvre L.' fait grand'pitié. Il est mainte-"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>1 Lettre supprimée : — A Mme la baronne Champy. La Chenaie, 14 juin 1827.</p>
+        <p>a L abbé de Lowenbruck.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

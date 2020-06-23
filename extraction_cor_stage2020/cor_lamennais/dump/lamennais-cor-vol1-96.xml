@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Votre dernière lettre me tranquillise un peu sur la comtesse Louise, dont j'étais extrêmement inquiet." resp="">Votre dernière lettre me tranquillise un peu sur la comtesse Louise, dont j'étais extrêmement inquiet.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="lParis, 24 février 1827. (...-...)">lParis, 24 février 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Votre dernière lettre me tranquillise un peu sur la comtesse Louise, dont j'étais extrêmement inquiet."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon Dieu, que ces épreuves sont cruelles pour nous tous! Mais aussi que la récompense sera grande, si l'acceptation est entière, douce, résignée, parfaite; j'entends parfaite par le fond secret de la volonté, ce qui n'empêche certainement pas la nature de pâtir. Et c'est à cette pauvre nature que je me joins pour craindre, espérer, souffrir avec vous. Je suis malade aussi; mais qu'est-ce que cela? Je ne le compterais pour quelque chose que si cela pouvait être en diminution de votre part. 1</p>
+        <p>Je vous ai écrit, il y a quelques jours, par la voie de Genève; car j'ai peur un peu d'abuser de l'autre. Je vous parlais de l'affaire d'A-y 1. Il n'en est plus guère question maintenant, et, si on ne la réveille pas maladroitement, ce sera chose à peu près finie. La révolution ne tient guère à ces titres féodaux, et la cour encore moins; mais il faudrait prendre garde de blesser, par des gaucheries, l'orgueil de la nation et celui de l'armée. C'est ce qui a eu lieu. Heureusement d'autres discussions ont fait à peu près oublier celle-là.</p>
+        <p>On parle diversement du voyage de M. Tharin. Les uns prétendent qu'il est parti brouillé avec le Dauphin; d'autres le nient très-expressément. Je crois que la vérité est entre les deux. Le fait est que le prélat ne veut plus à présent se démettre de son évêché, et j'ai bien de la peine à me persuader, surtout d'après des faits antérieurs, que sa santé soit la seule cause qui le fasse hésiter à continuer ses fonctions à la cour. Dans le cas où il se retirerait, on nomme l'évêque de Beau-</p>
+        <p>1 Voir la lettre précédente.</p>
+        <p>vais pour son successeur. Cela ne vous étonnerait point, ni moi non plus. M. le Dauphin serait content, et le libéralisme aussi.</p>
+        <p>Je n'ai pas revu Mgr L. 1 depuis ma dernière lettre. Il est dans tous les embarras d'un premier établissement, et je veux éviter jusqu'à l'apparence de l'indiscrétion. Il sait que je suis à ses ordres : cela suffit.</p>
+        <p>M"*** épouse demain une demoiselle de Fn*****, dont la famille habite près de Laigle. Ce mariage s'est conclu assez brusquement.</p>
+        <p>Comprenez-vous ce second oui prononcé au milieu de tant de souvenirs, et ce partage du cœur entre ce qui est là vivant et ce qui dort dans la tombe Y - Oh ! l'étrange chose que l'homme !</p>
+        <p>A propos d'homme, je ne sais comment il me vient à l'esprit de vous parler de M. de Bonald; la- transition est brusque, On dit donc que le pauvre homme s'affaiblit extrêmement, — non pas de corps, il est bien portant, — mais c'est l'esprit qui se matérialise, et cela fait peine. Quand l'âme plie, tout s'écroule. Chose admirable, que la vigueur de la conscience soit aussi la vigueur du génie ! Il y a une image de cela, même dans le mal. J'entends dire que la frénésie des plaisirs n'a jamais été portée si loin qu'elle l'est dans ce moment à Paris. Le fils d'un banquier hollandais nommé Hope, jeune homme de 25 ans, maladif, cacochyme, s'est mis dans la tête de dépenser 120,000 fr. dans une soirée. Si ce n'est pas là un crime nouveau, c'est au moins un crime rare.</p>
+        <p>J'oubliais de vous dire que le Nonce a déclaré qu'il n'assisterait à aucun spectacle ni à aucun bal de la cour. Son prédécesseur lui a fait là-dessus des représentations inutiles.</p>
+        <p>Adieu, j'espère recevoir bientôt des nouvelles entièrement consolantes de la santé de la comtesse Louise.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

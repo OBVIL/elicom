@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="J'ai reçu toutes vos lettres, si bonnes, si aimables, si tendres, jusqu'à celle de Mme la comtesse de Senfft, du 14 janvier. Je suis fort en retard dans mes réponses, à cause de je ne sais combien de misères qui se sont succédé sans interruption : des souffrances continuelles, des affaires multipliées ; et puis il m'a fallu changer de chambre, et celle que j'occupe mainte-" resp="">J'ai reçu toutes vos lettres, si bonnes, si aimables, si tendres, jusqu'à celle de Mme la comtesse de Senfft, du 14 janvier. Je suis fort en retard dans mes réponses, à cause de je ne sais combien de misères qui se sont succédé sans interruption : des souffrances continuelles, des affaires multipliées ; et puis il m'a fallu changer de chambre, et celle que j'occupe mainte-</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, 22 janvier 1827. (...-...)">Paris, 22 janvier 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'ai reçu toutes vos lettres, si bonnes, si aimables, si tendres, jusqu'à celle de Mme la comtesse de Senfft, du 14 janvier. Je suis fort en retard dans mes réponses, à cause de je ne sais combien de misères qui se sont succédé sans interruption : des souffrances continuelles, des affaires multipliées ; et puis il m'a fallu changer de chambre, et celle que j'occupe mainte-"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>— se déclara néanmoins incompétente. Fort de cet arrêt, M. de Montlosier se décida à solliciter l'intervention du pouvoir politique. Il adressa sa Dénonciation à la Chambre des pairs. Le 48 et le 1!1 janvier 182». s'engagea un vif débat sur le rapport de la commission nommée pour l'examiner. Ce rapport concluait au renvoi de la Dénonciation au président du conseil, « pour la partie relative à l'établissement, en France, d'un ordre monastique non autorisé par le roi. » M. de Bonald, le duc de Fitz-James, le cardinal de La Fare, l'évêque d'Hermopolis, combattirent en vain ce renvoi. Les conclusions du rapport furent adoptées à la majorité de 113 voix contre 73.</p>
+        <p>nant est tellement glaciale et glacée, que plusieurs jours se sont passés avant que mes doigts pussent tenir une plume. Je commence depuis hier à me réchauffer un peu, et je profite de ce moment pour reprendre ma narration.</p>
+        <p>Presque tout le monde ici s'accorde à regarder la guerre comme inévitable. Si elle a lieu, elle sera le fruit de la lâcheté de M. de Villèle, car l'Angleterre ne la voulait pas, et jamais elle ne se serait avancée comme elle l 'a fait, si la France n 'avait promis, pour elle-même et pour l'Espagne, plus qu'elle ne peut tenir aujourd'hui. L'énergie que déploie la nation espagnole, la prévoyance et le bon sens qui déterminent ses résolutions sages et hardies, sont bien remarquables dans le temps présent. La France, avec un milliard d'impôts, ne pourrait, sans emprunts, soutenir la plus petite guerre. L Espagne, désorganisée, privée de gouvernement, d'administration, de finances, fera, s'il le faut, une guerre de dix ans; la foi, l'honneur, lui tiennent lieu de tout, et elle les oppose sans hésiter à la puissance de l'Angleterre, qui tremble des suites d'une pareille lutte. Est-ce assez frappant? La décision de la Chambre des pairs sur la pétition de M. de Montlosier présage la chute prochaine des Jésuites. Ils ne résisteront point à l'entraînement des choses, et c'est ce qu'ils ne comprennent pas. Ils n'ont rien fait, absolument rien de ce qui pouvait leur donner de la force. Il n'y a pas d'exemple d'une nullité pareille ; leurs plus chauds amis en conviennent franchement, et s'étonnent de ce qui pourtant n'est pas difficile à expliquer Je crois cette Société finie. Ses connivences avec les gallicans, avec les persécuteurs de l'Église, mille autres faits que je ne puis raconter, m'ont éclairé sur elle, sur les vices inhérents à son organisation, et qui l'empêcheront toujours d'opérer le bien que beaucoup de gens, et moi le premier, s'en étaient promis. A tout prendre, elle a fait plus de mal que de bien en France. Ses gaucheries, ses intrigues, ses petites finesses, ses petites menées sourdes, ont fait un tort infini à la Religion, à laquelle sa cause est intimement liée aux yeux du public. Rien de plus respectable, de plus exemplaire que les individus : on ne peut ni les trop louer, ni les estimer trop ; mais plus je considère le</p>
+        <p>Corps dans son ensemble, plus je suis persuadé que les inconvénients en passent les avantages.</p>
+        <p>Le ministère ecclésiastique continue de poursuivre les professeurs des séminaires et des colléges qui s'avisent d'être catholiques romains. Il profite pour cela de la faiblesse de certains évêques. Il vient de faire renvoyer du séminaire de Cahors, à cause de ses bonnes doctrines, un lazariste plein de mérites, nommé M. Brioude.</p>
+        <p>Vous avez entendu parler de cette croix lumineuse qui a tout à coup paru dans le ciel, au moment même où se faisait la plantation de la croix, à la fin d'une mission près de Poitiers 1. Des procès-verbaux de cet événement extraordinaire ont été envoyés par le préfet au ministère, qui s'est bien gardé de les publier. M. le Dauphin a paru surpris que Dieu montrât si peu de prudence dans ce moment-ci : « Cependant, a-t-il ajouté, il est bien le maître. »</p>
+        <p>Encore un trait pour la comtesse Louise. Le graveur de ma médaille me racontait que son père lui avait fait faire sa première communion deux fois. « C'est une fois de plus que de coutume, lui dis-je. — Oui, reprit-il; mais, comme c'était pendant la Révolution, il me fit recommencer deux ans après. »</p>
+        <p>Le frère de Mme la duchesse d'Anhalt m'a fait l'honneur de venir me voir hier. C'est un esprit très-distingué et une âme bien droite. Il m'a dit que c'était l'Essai qui 1 avait converti.</p>
+        <p>1 Le dimanche 17 décembre 1826, à Migné, au moment où se terminait une station du jubilé par l'érection d'une croix, — et justement lorsqu'un des prédicateurs rappelait aux fidèles la croix que virent autrefois Constantin et son fils en marchant contre Maxence, — « on vit, disent les procès-verbaux, une croix lumineuse à cent pieds du sol... Sa longueur paraissait être de quatre-vingts pieds... ses proportions étaient très-régulières, et ses contours déterminés avec la plus grande netteté sur un ciel sans nuages. Le phénomène dura, sans altération, durant une demi-heure, et la croix disparut seulement lorsque la procession rentra dans l'église. »</p>
+        <p>Un rapport, en date du 22 décembre, signé de trois ecclésiastiques, du maire de Migné et de son adjoint, de deux membres de la fabrique, d'un maréchal-des-logis de gendarmerie, d'un ancien adjudant sous-officier, et de quarante el un autres témoins, établit que les choses se sont ainsi passées devant deux à trois mille spectateurs. — « Il y a des miracles tant qu "on y croit, a dit quelque part Lamennais. Dès qu'on cesse d'y croire, il n'y en a plus. »</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

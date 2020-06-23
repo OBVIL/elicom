@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Nous devions partir le 20 ; mais voilà que M. de V. est retardé de deux ou trois jours par son ministre. Veuillez me mander le plus tôt possible à Vitrolles, par Gap, Hautes-Alpes, l'époque de votre arrivée à Turin, afin que je vous y rejoigne sans perdre un jour. Je désirerais vivement que ce ne fùt pas plus tard que le commencement de juin, car des devoirs rigoureux ne tarderont pas à me rappeler ici. Mille circonstances peuvent avancer le moment décisif. La catastrophe" resp="">Nous devions partir le 20 ; mais voilà que M. de V. est retardé de deux ou trois jours par son ministre. Veuillez me mander le plus tôt possible à Vitrolles, par Gap, Hautes-Alpes, l'époque de votre arrivée à Turin, afin que je vous y rejoigne sans perdre un jour. Je désirerais vivement que ce ne fùt pas plus tard que le commencement de juin, car des devoirs rigoureux ne tarderont pas à me rappeler ici. Mille circonstances peuvent avancer le moment décisif. La catastrophe</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 25 avril 1828. (...-...)">Le 25 avril 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Nous devions partir le 20 ; mais voilà que M. de V. est retardé de deux ou trois jours par son ministre. Veuillez me mander le plus tôt possible à Vitrolles, par Gap, Hautes-Alpes, l'époque de votre arrivée à Turin, afin que je vous y rejoigne sans perdre un jour. Je désirerais vivement que ce ne fùt pas plus tard que le commencement de juin, car des devoirs rigoureux ne tarderont pas à me rappeler ici. Mille circonstances peuvent avancer le moment décisif. La catastrophe"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>ne tient presque à rien, et déjà la puissance est entre les mains des minorités violentes, ce qui est toujours le dernier symptôme de la maladie révolutionnaire. M. Laffitte, insulté chez lui par la démocratie industrielle, disait dernièrement :</p>
+        <p>« La bête est démuselée. » Cela est vrai, et je ne vois pas qui pourrait la remuseler désormais. Dans un des collèges de Paris, un ex-conventionnel, vieillard à cheveux blancs, pérorant comme dans les beaux jours de sa gloire législative, disait :</p>
+        <p>« Je déclare que tous ceux qui ne voteront pas pour le général Demarçay doivent être considérés comme les modérés de la Convention. » Et le général a été nommé. Je vous cite ces 1 deux anecdotes comme un échantillon de ce qui se dit et de ce qui se fait, et ce n'est pas ce qu'il y a de plus alarmant. Le reste ex vivâ voce.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

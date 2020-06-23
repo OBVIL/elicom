@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Je ressens toutes vos peines, madame, et je prie le bon Dieu de les alléger. Hélas! combien il faut que cette vie soit dangereuse, puisque la Providence est si attentive à reporter notre pensée et nos désirs vers une existence meilleure! Cet autre état, ce beau ciel qui chaque jour s'entr'ouvre à nos regards, doit être ici-bas notre consolation. Tout le reste est du temps, tout le reste passera ; mais la félicité qui nous est promise ne passera point, et cela doit suffire à notre paix. Je m'en vais devant, pottr vous préparer une demeure : et puis, un peu après, nous nous en irons occuper cette demeure; car nous n'en avons point sur la terre. Nous attendons que notre Maître revienne nous appeler. Qu'importe jusque-là ce qui nous arrive, ce qu'on nous fait, ce qu'on nous dit? Ne saurions-nous, près de l'éternité, prendre patience un petit moment?— adhuc mo-" resp="">Je ressens toutes vos peines, madame, et je prie le bon Dieu de les alléger. Hélas! combien il faut que cette vie soit dangereuse, puisque la Providence est si attentive à reporter notre pensée et nos désirs vers une existence meilleure! Cet autre état, ce beau ciel qui chaque jour s'entr'ouvre à nos regards, doit être ici-bas notre consolation. Tout le reste est du temps, tout le reste passera ; mais la félicité qui nous est promise ne passera point, et cela doit suffire à notre paix. Je m'en vais devant, pottr vous préparer une demeure : et puis, un peu après, nous nous en irons occuper cette demeure; car nous n'en avons point sur la terre. Nous attendons que notre Maître revienne nous appeler. Qu'importe jusque-là ce qui nous arrive, ce qu'on nous fait, ce qu'on nous dit? Ne saurions-nous, près de l'éternité, prendre patience un petit moment?— adhuc mo-</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, le 12 mars 1826. (...-...)">Paris, le 12 mars 1826.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Je ressens toutes vos peines, madame, et je prie le bon Dieu de les alléger. Hélas! combien il faut que cette vie soit dangereuse, puisque la Providence est si attentive à reporter notre pensée et nos désirs vers une existence meilleure! Cet autre état, ce beau ciel qui chaque jour s'entr'ouvre à nos regards, doit être ici-bas notre consolation. Tout le reste est du temps, tout le reste passera ; mais la félicité qui nous est promise ne passera point, et cela doit suffire à notre paix. Je m'en vais devant, pottr vous préparer une demeure : et puis, un peu après, nous nous en irons occuper cette demeure; car nous n'en avons point sur la terre. Nous attendons que notre Maître revienne nous appeler. Qu'importe jusque-là ce qui nous arrive, ce qu'on nous fait, ce qu'on nous dit? Ne saurions-nous, près de l'éternité, prendre patience un petit moment?— adhuc mo-"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>1 Il s'agit évidemment de l'Institut des Jésuites, autorisés, peu auparavant, à rentrer en Autriche.</p>
+        <p>dicum, dit Jésus. N'espérons rien des hommes, n'en souhaitons rien, et rien ne nous troublera.</p>
+        <p>Vous avez dû recevoir une lettre que je vous ai écrite par une occasion particulière. Je vous y parlais de ma santé fort mauvaise alors; elle est un peu meilleure en ce moment. La maladie dont j'ai en moi le germe n'est pas assez avancée pour être inquiétante. Ce qui me contrarie le plus en ce moment, c'est mon affaire avec M. de Saint-Y. Je suis venu ici pour la terminer; voilà un mois que j'y suis, et les choses en sont au même point que le premier jour. Je crains beaucoup, en outre, qu'il faille nécessairement recourir à un tiers arbitre. Alors nouveaux délais, et des embarras sans fin. Ce n'est pas ici le lieu du repos.</p>
+        <p>Je vous ai fait adresser la seconde partie de mon ouvrage sur la Religion considérée dans ses rapports avec l'ordre politique et civil. J'ai tâché de dire la vérité, et toute la vérité. Jusqu'à présent on ne m'a point répondu, et je doute fort qu'on me réponde, car je ne vois pas ce qu'on dirait. Le Constitutionnel et les Débats se sont tus. La Quotidienne et le Drapeau blanc seuls ont donné des extraits de cet écrit, qui, à ce qu'on m'assure, produit généralement de l'impression sur les esprits. La cour royale a délibéré sur la question de savoir si on le déférerait. II parait certain que la cour s'est décidée pour la négative ; ainsi je n'aurai pas encore cette fois le bonheur de confesser Dieu devant les tribunaux, et de souffrir pour sa cause. L'évêque el' H, t est très-affecté; je le plains de tout mon cœur, et je contemple en lui, avec une sorte d'effroi, toutes les suites de la faiblesse. Il est entouré de flatteurs qui le tranquillisent et qui le perdent. Mon Dieu! que la condition des hommes en pouvoir est triste ! Nul ne saurait se répondre qu'à leur place, il ne serait point entraîné comme eux, et doit croire qu'il le serait, tant la pente est rapide.</p>
+        <p>Nous ne sommes que misère; et c'est pourquoi, dit le Sauveur, veillez et priez, afin que vous n'entriez point en ien-Ifition!</p>
+        <p>1 ]&gt;'Hermopolis.</p>
+        <p>J'espère que votre première lettre m'apportera de meilleures nouvelles de votre santé. J'engage la comtesse Louise à prendre grand soin de la sienne, et j'engage aussi mon cher et bien-aimé comte à se ménager. Qu'il prenne garde surtout à ne pas fatiguer son estomac par le jeûne, qui lui 'est tout à fait contraire. Courage! Dieu aidera. Daignez toujours aimer un peu celui qui ne cessera de vous être bien tendrement dévoué.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

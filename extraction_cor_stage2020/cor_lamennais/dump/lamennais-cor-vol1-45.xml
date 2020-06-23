@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Il faut être équitable envers messieurs des Débats; il leur serait assez difficile de trouver une transition de leur prose à vos vers; et je conçois qu'ils y rêvent longtemps. Vous savez mieux que moi qu'aujourd'hui justice, raison, goût, bon sens, tout est subordonné aux intérêts de coteries ou de factions; et, si le divin Homère se présentait pour la première fois avec son Iliade, avant de juger le poëme et d'en parler, on s'informerait d'abord si l'auteur est libéral, doctrinaire, politique ou ministériel. Votre Prophétie1 est, pour certaines gens, ce que serait une bulle du Pape pour l'archevêque de Cantorbéry. A coup sûr, il n'y verrait qu'une idée particulière opposée à ses idées particulières; et voilà justement où vojis en êtes avec les Débats, qui, s'ils avaient la force en main, porteraient peut-être l'esprit de conséquence aussi loin que les Espagnols; rien ne m'étonnerait de pareilles gens. Car enfin, monsieur, n'oubliez pas que vous êtes, suivant eux, un révolutionnaire, puisqu'il n'y a plus rien de révolutionnaire en Europe que les entreprises du despotisme, ainsi que nous l'apprenait dernièrement M. Fiévêe. Or je vous soupçonne fort de favoriser ces entreprises du despotisme, et vous aurez bien de la peine à sortir net du procès qu'on vous en fera. Mais, de grâce, voyez le progrès : que de pareilles choses soient dites, en 1825, sous la bannière de M. de Ch !" resp="">Il faut être équitable envers messieurs des Débats; il leur serait assez difficile de trouver une transition de leur prose à vos vers; et je conçois qu'ils y rêvent longtemps. Vous savez mieux que moi qu'aujourd'hui justice, raison, goût, bon sens, tout est subordonné aux intérêts de coteries ou de factions; et, si le divin Homère se présentait pour la première fois avec son Iliade, avant de juger le poëme et d'en parler, on s'informerait d'abord si l'auteur est libéral, doctrinaire, politique ou ministériel. Votre Prophétie1 est, pour certaines gens, ce que serait une bulle du Pape pour l'archevêque de Cantorbéry. A coup sûr, il n'y verrait qu'une idée particulière opposée à ses idées particulières; et voilà justement où vojis en êtes avec les Débats, qui, s'ils avaient la force en main, porteraient peut-être l'esprit de conséquence aussi loin que les Espagnols; rien ne m'étonnerait de pareilles gens. Car enfin, monsieur, n'oubliez pas que vous êtes, suivant eux, un révolutionnaire, puisqu'il n'y a plus rien de révolutionnaire en Europe que les entreprises du despotisme, ainsi que nous l'apprenait dernièrement M. Fiévêe. Or je vous soupçonne fort de favoriser ces entreprises du despotisme, et vous aurez bien de la peine à sortir net du procès qu'on vous en fera. Mais, de grâce, voyez le progrès : que de pareilles choses soient dites, en 1825, sous la bannière de M. de Ch !</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Clienaie, le 1'2 odobre 1825. (...-...)">A la Clienaie, le 1'2 odobre 1825.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Il faut être équitable envers messieurs des Débats; il leur serait assez difficile de trouver une transition de leur prose à vos vers; et je conçois qu'ils y rêvent longtemps. Vous savez mieux que moi qu'aujourd'hui justice, raison, goût, bon sens, tout est subordonné aux intérêts de coteries ou de factions; et, si le divin Homère se présentait pour la première fois avec son Iliade, avant de juger le poëme et d'en parler, on s'informerait d'abord si l'auteur est libéral, doctrinaire, politique ou ministériel. Votre Prophétie1 est, pour certaines gens, ce que serait une bulle du Pape pour l'archevêque de Cantorbéry. A coup sûr, il n'y verrait qu'une idée particulière opposée à ses idées particulières; et voilà justement où vojis en êtes avec les Débats, qui, s'ils avaient la force en main, porteraient peut-être l'esprit de conséquence aussi loin que les Espagnols; rien ne m'étonnerait de pareilles gens. Car enfin, monsieur, n'oubliez pas que vous êtes, suivant eux, un révolutionnaire, puisqu'il n'y a plus rien de révolutionnaire en Europe que les entreprises du despotisme, ainsi que nous l'apprenait dernièrement M. Fiévêe. Or je vous soupçonne fort de favoriser ces entreprises du despotisme, et vous aurez bien de la peine à sortir net du procès qu'on vous en fera. Mais, de grâce, voyez le progrès : que de pareilles choses soient dites, en 1825, sous la bannière de M. de Ch !"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Et cette année 1825 n'est pas encore finie; nous en entendrons bien d'autres, si je ne me trompe. Les esprits se précipitent et précipitent la société dans un abîme dont nul ne connaît le fond. Je défie tous les partis de dire ce qu'ils veu-</p>
+        <p>1 On sait. qu'il faut entendre par là le poëme de M. de Coriolis, le Songe de Clovis, dOllt il a été déjà question plus d'une fois, et dont le Journal des Débats ajournait sans doute le compte rendu.</p>
+        <p>lent; les imbéciles [seuls l'essayeraient. On travaille aveuglément à détruire, et puis c'est tout. Le succès en ce genre a été si grand, qu'il ne reste pas même d'éléments pour reconstruire après le bouleversement inévitable qui nous menace dans un avenir prochain. Maintenant, tous les efforts se réunissent contre la Religion; elle est le seul ennemi qu'on craigne. Il n'est pas jusqu'à M. de Montlosicr qui ne reproche à ces pauvres ministres « l'influence qu'ils ont, dit-il, laissé prendre au clergé. » Les bras tombent de surprise; mais, enfin, voilà ce qui s'imprime; voilà le canevas sur lequel une demi-douzaine de journaux et des brochuriers sans nombre brodent chaque jour leurs impertinences, leurs sottises et leurs impiétés. On pousse de toutes parts à une rupture avec Rome et à l'établissement d'une Église nationale, d'une Église représentative, qui ne représenterait que la folie, les funestes opinions, le doute pratique, la bassesse et la lâcheté des temps actuels. On poursuit l'ordre jusque dans le sein de Dieu même. Certes, jamais le monde n avait rien vu de semblable, et nous verrons mieux encore; ce n'est là que le commencement.</p>
+        <p>Ma santé est si mauvaise, que je n'ai pu encore reprendre * mon travail. Ménagez la vôtre, monsieur le marquis; elle est précieuse aux gens de bien, précieuse à tous vos amis, et à nul autre plus particulièrement qu'à votre dévoué.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

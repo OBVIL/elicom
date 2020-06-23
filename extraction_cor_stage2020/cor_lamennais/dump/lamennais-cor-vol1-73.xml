@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="J'écris à la fois à Mnic de Senfft, à la comtesse Louise et à mon cher comte, qui tous trois ensemble ne font qu'un, il y a peu de choses nouvelles à leur dire sur l'état de la France. Nous nous en allons tout doucement, sans résistance et sans bruit, sans regret apparent, comme un pauvre, mort qu'on porte à son dernier gîte. Chaque jour le gouvernement perd quelque chose de ce qui lui restait d'autorité dans l'opinion. Il reste debout comme le tronc d'arbre qui n'a plus ni séve ni racines vivantes. Aussi les événements les plus extraordinaires et les plus graves par leurs suites se passent autour de nous, sans que nous ayons l'air d'y prendre seulement garde. Voyez le Portugal et sa constitution importée du Nouveau-Monde3," resp="">J'écris à la fois à Mnic de Senfft, à la comtesse Louise et à mon cher comte, qui tous trois ensemble ne font qu'un, il y a peu de choses nouvelles à leur dire sur l'état de la France. Nous nous en allons tout doucement, sans résistance et sans bruit, sans regret apparent, comme un pauvre, mort qu'on porte à son dernier gîte. Chaque jour le gouvernement perd quelque chose de ce qui lui restait d'autorité dans l'opinion. Il reste debout comme le tronc d'arbre qui n'a plus ni séve ni racines vivantes. Aussi les événements les plus extraordinaires et les plus graves par leurs suites se passent autour de nous, sans que nous ayons l'air d'y prendre seulement garde. Voyez le Portugal et sa constitution importée du Nouveau-Monde3,</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Versailles, le 8 juillet 1820. (...-...)">Versailles, le 8 juillet 1820.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'écris à la fois à Mnic de Senfft, à la comtesse Louise et à mon cher comte, qui tous trois ensemble ne font qu'un, il y a peu de choses nouvelles à leur dire sur l'état de la France. Nous nous en allons tout doucement, sans résistance et sans bruit, sans regret apparent, comme un pauvre, mort qu'on porte à son dernier gîte. Chaque jour le gouvernement perd quelque chose de ce qui lui restait d'autorité dans l'opinion. Il reste debout comme le tronc d'arbre qui n'a plus ni séve ni racines vivantes. Aussi les événements les plus extraordinaires et les plus graves par leurs suites se passent autour de nous, sans que nous ayons l'air d'y prendre seulement garde. Voyez le Portugal et sa constitution importée du Nouveau-Monde3,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>1 Probablement cette périphrase singulière désigne Mgr. Lambruschini. L'ambiguïté de ces lignes permettrait cependant de croire qu'il s'agit du prédécesseur de ce prélat.</p>
+        <p>* Uue le brUIt mensonger du voyage ait a lurin.</p>
+        <p>U Apres la mort du roi de Portugal, Dom Jean VI ,lU mars), Dom IJedro, sou fils aîné, vice-empereur du Brésil, eut à décider la question de savoir</p>
+        <p>calculez-en les conséquences pour ce malheureux pays, pour l'Espagne bientôt après, ensuite pour la France et le reste de l'Europe, et tâchez d'expliquer notre inexplicable apathie. D'une autre part, considérez les actes du roi des Pays-Bas, le protocole d'acceptation de la bulle du Jubilé, cette tendre sollicitude d'un prince calviniste pour le maintien des libertés de l'Église catholique roniaine-belge ; rapprochez cela des Déclarations des évêques français et des évêques d'Irlande et d'Angleterre ; songez à ce qui peut et doit arriver en Portugal et en Espagne, quand les principes constitutionnels y auront pr.évalu, et voyez ce qui doit résulter de cette tendance universelle &lt;nii porte chaque Église à stipuler elle-même, sous la direction du gouvernement civil, ses libertés particulières. Que deviendra l'unité? Que deviendra l'influence du chef suprêmel dont le pouvoir est nié fondamentalement par de tels actes? Il serait temps, grand temps d'y penser. Les esprits peuvent encore être arrêtés dans cette voie funeste ; mais ce qu'on peut au- -jourd'hui, le pourra-t-on demain, le pourra-t-on dans quelques années? J'en doute fort. Tous les yeux sont fixés sur R. 2. Les préjugés commentent son silence, et les passions l'expliquent à la faiblesse. Qu'elle continue de se taire, qui osera, qui pourra parler? Je vois, pour moi, un schisme effroyable germer au sein de l'Europe. Qu'on ne fasse rien pour le prévenir, cela étonne, je l'avoue. Peut-être faut-il qu'il arrive; peut-être est-ce une de ces épreuves réservées aux derniers temps.</p>
+        <p>La famille Clausel remue ciel et terre en faveur du gallica-</p>
+        <p>s'il conserverait les deux couronnes qui constituaient l'héritage paternel. Il ne le jugea pas possible, et, après avoir confirmé par un décret du 6 avril, dans les fonctions de régente, sa sœur l'infante dona Isabel-Maria, il octroya à ses sujets, le 29 du même mois, une charte contitutionuelle. L'art. 5 de cet acte consacrait la renonciation formelle de Dom Pedro à la couronne de Portugal, et statuait que la dynastie régnante se continuerait, pour ce royaume, dans la-personne de dona Maria da Gloria, sa fille, en faveur de laquelle il abdiquait. Ces acles furent apportés à Lisbonne, le 2 juillet, par sir Charles Stuart, chargé d'affaires anglais auprès de la maison de Bragance, et dont l'influence avait eti, dit-on, un grand poids sur les résolutions de Dom Pedro.</p>
+        <p>1 Le Pape. *</p>
+        <p>8 Borne.</p>
+        <p>nisnie dont Saint-Sulpice parait devenir le centre. Leurs écrits, pleins d injures et vides de raison, n ont pas, jusqu'à présent, produit beaucoup d'effet; cependant il faut répondre; c'est ce qu 'oii fera. J'estime que les neuf dixièmes du clergé, au moins, sont profondément attachés aux vrais principes catholiques. Quel parti on pourrait tirer de cette disposition des esprits, pour affermir le dogme et ruiner les erreurs contraires ! Un mot suffirait. Le dira-t-on ?</p>
+        <p>Les ^ ........ toujours les mêmes, tiennent à chacun son langage particulier. Avec eux, tout le monde a tort et tout le monde a raison. Vous ne signeriez pas les Quatre articles? -« Ni eux non plus assurément; hier encore le P. un tel disait qu 'il se ferait plutôt couper le bras. » —Les signeriez-vous?... « Ah! c'est autre chose. Il y a aussi plusieurs de leurs P. qui trouvent qu'on s'échauffe trop là-dessus ; on peut certainement apporter de fortes raisons pour et contre, et l'on a grand tort d'imaginer que la Compagnie se prononce sur cette question. » Cette politique serait très-gaie, si elle était moins affligeante.</p>
+        <p>J 'ai dîné hier avec M. de Faverney, qui m'a beaucoup demandé de vos nouvelles. L'abbé G. vous offre son respect, 11 se fait un grand nombre de conversions parmi les Juifs et les protestants. Une famille entière de Berne, le mari, la femme, cinq enfants et une domestique, viennent, tout dernièrement, de rentrer dans l'Église catholique.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

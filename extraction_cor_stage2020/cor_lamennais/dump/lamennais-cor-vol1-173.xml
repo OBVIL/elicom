@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="J'ai reçu, au moment où je partais de Lyon, mon cher ami, votre lettre du 6, et votre petit billet postérieur m'est par-" resp="">J'ai reçu, au moment où je partais de Lyon, mon cher ami, votre lettre du 6, et votre petit billet postérieur m'est par-</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, le 17 juillet 1828. (...-...)">Paris, le 17 juillet 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'ai reçu, au moment où je partais de Lyon, mon cher ami, votre lettre du 6, et votre petit billet postérieur m'est par-"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>1 Féli, abréviation familière du nom de baptême de Lamennais.</p>
+        <p>venu depuis. Vous attendiez toujours votre nouveau secrétaire, et vous aviez le projet, si ce retard continuait, de vous rendre à Arona. Ainsi nous allons encore nous éloigner davantage ; car, de mon côté, je repars, le 25, pour la Bretagne. La°viê de ce pays-ci me fatigue extrêmement, et d'ailleurs il est nécessaire de parler dans les circonstances présentes; or à Paris cela me serait impossible. Il y a un commencement de résistance dans l'épiscopat; cependant la faiblesse y prédomine encore. Je n'entrerai point dans les détails, qui seraient trop longs, et en partie de nature à n'être pas confiés à la poste.</p>
+        <p>Je m'occupe de vos commissions. Je vis hier M. Maury, et je dois le revoir de nouveau. Ce n'est qu'après ce second entretien que je pourrrai vous mander sur nos affaires quelque chose de positif.</p>
+        <p>Je suis fort embarrassé en ce qui touche M. Grivel, que je ne connais aucunement. J'essayerai néanmoins de trouver, s'il est possible, quelque moyen naturel de lui parler ; mais cela me paraît très-difficile. Ces pauvres gens1 ont cru jusqu'au bout qu'ils échapperaient à la persécution, et il y a très-peu de jours qu'ils rêvaient encore la révocation des ordonnances. Feutrier, abandonné des honnêtes gens, n'a autour de lui que des hommes perdus. Immédiatement après cette espèce de Cranmer viennent les archevêques d'Alby et de Bordeaux, puis le duc de Rohan, le cardinal Isoard, et quelques autres. L'archevêque de Paris n'est rien moins que sûr2.</p>
+        <p>1 Bien évidemment, les membres de la Compagnie de Jésus.</p>
+        <p>Ce fut pourtant M. de Quélen qui rédigea, du moins en grande partie, la Déclaration des Evêques, laquelle se terminait ainsi : « Ils ont examiné dans le secret du sanctuaire, en présence du souverain Juge..., ce qu'ils devaient à César comme ce qu'ils devaient à Dieu. Leur conscience leur a répondu qu'il valait mieux obéir à Dieu qu'(.ux hommes... Ils ne résistent point: ils ne profèrent pas tumultueusement des paroles hardies... Ils se contentent de dire avec respect, comme les Apôtres : Non possumus. — Nous ne pouvons pas. »</p>
+        <p>Ce document était ainsi signé : les Cardinaux, Archevêques et Évêques de France; A. J., cardinal de Clermont-Tonnerre, archevêque de Toulouse, doyen des évêques de France, au nom de l'épiscopat français.</p>
+        <p>L'Association Catholique prend un accroissement merveilleux. Je finis pour ne pas manquer la poste. J'ai été interrompu plus de dix fois en écrivant ce peu de lignes.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

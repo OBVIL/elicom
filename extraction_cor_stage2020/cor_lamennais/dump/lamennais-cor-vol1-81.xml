@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="J'ai répondu sur-le-champ par la poste, mon excellent et bien cher ami, à votre lettre du 14, et je profite d'une occasion qu'on dit sûre pour vous écrire quelques mots fort à la hâte, car on me presse extrêmement." resp="">J'ai répondu sur-le-champ par la poste, mon excellent et bien cher ami, à votre lettre du 14, et je profite d'une occasion qu'on dit sûre pour vous écrire quelques mots fort à la hâte, car on me presse extrêmement.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, 25 octobre 1826. (...-...)">Paris, 25 octobre 1826.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="J'ai répondu sur-le-champ par la poste, mon excellent et bien cher ami, à votre lettre du 14, et je profite d'une occasion qu'on dit sûre pour vous écrire quelques mots fort à la hâte, car on me presse extrêmement."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je n'ai rien su que par vous touchant la chose dont il était question dans votre dernière lettre2. Personne non plus n'en</p>
+        <p>1 Ces troubles commencèrent le 15 octobre, à l'occasion d'une représentation de Tartufe, réclamée par le public, et différée par l'autorité, à cause de la présence d'une compagnie de missionnaires, dirigée par l'abbé Guyon. A la suite de violentes rixes, le théâtre fut fermé. La lutte alors menaça de s'engager dans les églises mêmes où prêchaient Les missionnaires. « Vainement, dit Vaulabelle, les habitants les plus notables sollicitèrent l'abbé Guyon de quitter la ville. Fort de l'appui des autorités de tous les ordres, il déclare qu'il ne sortira de Brest qu'après avoir achevé la mission. Elle se termine enfin, et, le 24 octobre, les missionnaires s'éloignent sous la protection d'une forte escorte de dragons. » — Bist. des deux Restaurations, 3e éd., t. VII, p. 256-57.</p>
+        <p>2 Nous supposons qu'il s'agit de la promotion projetée de Lamennais au cardinalat. Ceci, pourtant, n'est qu'une induction tirée-des termes mêmes de la lettre qui passe sous nos yeux. Nous la soumettons au lecteur, sans prétendre lui faire partager nos idées à cet égard.</p>
+        <p>est instruit ici, à ce que je crois. Je tous avoue qu'elle me paraît, quoi qu'en puisse penser votre amitié, bien peu vraisemblable en elle-même. Si néanmoins cela était entré dans les desseins de Dieu, il m'importerait fort de le savoir avec quelque certitude, par mille et mille raisons que je ne puis déduire ici. Veuillez donc me mander, d'une manière générale, le degré 4e croyance que vous y attachez vous-même, d'après la nature et la source des informations que vous avez reçues.</p>
+        <p>Je ne sais si vous avez lu les dernières brochures de Clausel, le conseiller. C'est le dernier degré de la fureur, à ce qu'on m'a dit, car pour moi je n'ai pas eu le temps d'y jeter les yeux. Les injures de ces gens-là ne nuisent qu'à eux-mêmes ; tout le monde sent qu'ils outragent parce qu'us ne peuvent répondre. Mais le- pouvoir qu'ils ont en main, la crainte qn'ils inspirent, l'argent et les places qu'ils distribuent, leur donnent une influence d'autant plus dangereuse qu'elle n'a presque aucun contre-poids. Les persécutions particulières se multiplient tous les jours, en même temps qu'on cherche à corrompre, .par des mesures générales, l'enseignement des collèges et des séminaires. La rage est poussée à un tel point dans le ministère des affaires ecclésiastiques., que toute œuvre pieuse y fait ombrage, qu'on intrigue même déjà contre la Société catholique des Bons-Livres, et qu'on fait tout au monde pour la détruire comme ultramontaine. L'évêque d'Hsrmopolis, sous des dehors froids, se prête avec ardeur auTnal qu'on lui conseille, et « prend avec les évêques qui ne secondent pas ses vues un ton -d'autorité violente-qu'â peine se permettrait un Patriarche institué. Il commence aussi-à attaquer directement les J ; il vient de porter un coup funeste à leur collège de Dôle, en leur défendant d'y recevoir des externes : ils en avaient 25..</p>
+        <p>Dhm autre côté, vous avez vu ce qui s'est passé à la mission de Brest ; on craint également pour-celle de Lyon. Le gomvernement souffre tout; l'esprit, de l'armée se détériore chaque jour, et M. de V. 1. vient de donner un nouveau et grand triomphe à la Révolution en reconnaissant les républiques de</p>
+        <p>1 H. de Villèle.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

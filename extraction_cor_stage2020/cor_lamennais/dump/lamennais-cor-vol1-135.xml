@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Je vois d'ici tous les chagrins, toutes les inquiétudes, toutes les tracasseries qui vous environnent, ou plutôt je les sens comme si j'étais là. Cela ne fait que redoubler mon désir de ce que vous avez cru possible un moment, et qui le redeviendra, j'espère l, Cependant, soumission parfaite là-dessus, ainsi que sur tout le reste. Si nous nous remuons trop dans la main de Dieu, il nous laisse tomber. Cela vaut bien la peine d'y prendre garde." resp="">Je vois d'ici tous les chagrins, toutes les inquiétudes, toutes les tracasseries qui vous environnent, ou plutôt je les sens comme si j'étais là. Cela ne fait que redoubler mon désir de ce que vous avez cru possible un moment, et qui le redeviendra, j'espère l, Cependant, soumission parfaite là-dessus, ainsi que sur tout le reste. Si nous nous remuons trop dans la main de Dieu, il nous laisse tomber. Cela vaut bien la peine d'y prendre garde.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 16 novembre 1827. (...-...)">Le 16 novembre 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Je vois d'ici tous les chagrins, toutes les inquiétudes, toutes les tracasseries qui vous environnent, ou plutôt je les sens comme si j'étais là. Cela ne fait que redoubler mon désir de ce que vous avez cru possible un moment, et qui le redeviendra, j'espère l, Cependant, soumission parfaite là-dessus, ainsi que sur tout le reste. Si nous nous remuons trop dans la main de Dieu, il nous laisse tomber. Cela vaut bien la peine d'y prendre garde."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je ne connais point M. Lacroix, mais je connais è loginquo M. l'abbé de Retz, et je ne suis pas encore revenu de l'étonnement que j'éprouvai en apprenant qu'on l'envoyait juger des procès à Rome. Il y a sans doute des grâces d'état, mais il faudra que la sienne soit forte. Enfin, il faut que notre pauvre France soit à peu près également bien représentée partout. Elle est en ce moment dans la crise très-vive des élections. Il est difficile d'en prévoir d'avance exactement le résultat; toutefois, je pense que le ministère aura encore la majorité, quoique le contraire m'étonnât peu, à raison de la haine qu'il inspire. Ce n'est plus de la haine seulement, c'est de la rage; , et cette rage commence à s'adresser directement au trône même. Vous connaissez l'usage des spectacles gratis le jour de la fête du roi ; on ne manque pas de composer pour ce jour-là des pièces analogues à la circonstance. Elles ont été, cette année, sifflées outrageusement à tous les théâtres. Notre position n'a rien d'agréable. On ne peut attendre désormais, si le ministère tombe, qu'un ministère libéral, n'importe les noms qu'on lira dans l'ordonnance. Si le ministère actuel se soutient, il faudra qu'il multiplie les infamies et les violences, lesquelles amèneront bientôt une épouvantable catastrophe. On</p>
+        <p>1 La nomination de M. de Senfft à l'ambassade de Rome;</p>
+        <p>entend aujourd'hui les plus tranquilles et les plus honnêtes gens du monde dire avec un grand sang-froid : « Nous allons encore essayer une fois, et, si cela ne réussit pas, nous nous révolterons ; » comme ils diraient de leur cuisinier : i( Je le chasserai; s'il brûle le rôt encore une fois. » Cela fait naître bien des réflexions.</p>
+        <p>Je voudrais pour beaucoup que l'on me donnât une réponse nette aux questions suivantes :</p>
+        <p>Pourquoi l'idée de renverser un gouvernement qui déplaît parait-elle aussi simple aujourd'hui que celle de renvoyer un domestique dont on est mécontent?</p>
+        <p>Pourquoi n'y a-t-il pas maintenant l'ombre de déshonneur attaché à ce qu'on appelle « les crimes politiques, » quand il ne s'y mêle pas d'atrocités individuelles? J'observe que, là où il existe un pouvoir bien reconnu et dont la légitimité ne peu souffrir le plus léger doute, comme celui du Pape, par exemple, — il en est tout autrement. Qu'on s'avise quelque part de créer un anti-Pape, et l'on verra si la conscience catholique du monde entier hésite un seul instant. Il y a plus; les auteurs du schisme sauront très-parfaitement qu'ils n'ont pas fait un Pape. Je vois mille réponses que l'on se hâtera de faire à mes demandes ; mais, dans toutes ces réponses, je ne vois pas une solution.</p>
+        <p>Il est évident qu'il n'y a plus de conscience européenne en politique, ou que les données fondamentales ont changé.</p>
+        <p>L événement de Navarin1 pourra changer bien d'autres choses. En attendant, il en fait dire de passablement singulières; et c'est encore nous, je veux dire notre gouvernement, qui en a la gloire.</p>
+        <p>Le Moniteur vient de nous apprendre que la destruction de</p>
+        <p>/</p>
+        <p>1 La bataille de Navarin commença le 20 octobre, dans l'après-midi, vers deux heures et demie; à sept heures, la flotte turque était détruite. Les escadres coalisées ne perdirent que 140 morts, et pas même une chaloupe. Il y eut de plus 300 blessés. Trois vaisseaux de ligne, 16 frégates, 26 corvettes, 12 bricks et 5 brûlots détruits, plus 6,000 hommes tués, telles lurent, dit-on, les pertes de la marine turque. D'après ce simple exposé, ne semble-t-il pas que 1 'a (l'a ire de Navarin, pas plus que celle de Sinope, ne mérite le nom de « bataille? » L'histoire pourtant le lui conserve.</p>
+        <p>la flotte turque était un bonheur tout particulier pour Mahmoud et pour Méhémet-Ali : pour Mahmoud, parce qu'il sentirait les douceurs de la paix; pour Méhémet-Ali, parce qu'il pourrait s'occuper plus tranquillement de civiliser l'Egypte. Ses vaisseaux lui donnaient des distractions, comme les journaux en donnent à nos ministres. Ces réflexions sont officielles; je jurerais même, s'il le fallait, qu'elles émanent directement du génie de M. de Damas. Après cela, dormons en paix.</p>
+        <p>On ne m'a rien mandé de Paris sur le pauvre L 1 ; je doute même qu'il y soit, du moins publiquement. Vous me feriez grand plaisir de m'apprendre que ses nouvelles folies n'ont pas eu de suites désagréables pour vous.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

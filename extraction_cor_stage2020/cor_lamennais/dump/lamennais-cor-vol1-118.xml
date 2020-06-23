@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Me voici donc encore de ce monde : après avoir touché au port, une main puissante me repousse au milieu des flots, iterùm jactatus in alto. Hélas! j'en avais pourtant assez de la terre, et je ne la regrettais pas. En cet état, que dirai-je? que ferai-je? Je bénirai du fond de mon cœur la miséricorde immense de mon Dieu, qui a voulu m'accorder le temps de me mieux préparer à paraître devant lui. Ce doit être désormais l'unique pensée, l'occupation unique de ce qui me reste de vie. Hors de là tout est vanité : je le savais bien déjà, mais il me semble que je le sens plus vivement, et que la croix qu'il faut porter jusqu'à l'instant du sacrifice m'en devient plus chère." resp="">Me voici donc encore de ce monde : après avoir touché au port, une main puissante me repousse au milieu des flots, iterùm jactatus in alto. Hélas! j'en avais pourtant assez de la terre, et je ne la regrettais pas. En cet état, que dirai-je? que ferai-je? Je bénirai du fond de mon cœur la miséricorde immense de mon Dieu, qui a voulu m'accorder le temps de me mieux préparer à paraître devant lui. Ce doit être désormais l'unique pensée, l'occupation unique de ce qui me reste de vie. Hors de là tout est vanité : je le savais bien déjà, mais il me semble que je le sens plus vivement, et que la croix qu'il faut porter jusqu'à l'instant du sacrifice m'en devient plus chère.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Le 25 septembre 1827. (...-...)">Le 25 septembre 1827.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Me voici donc encore de ce monde : après avoir touché au port, une main puissante me repousse au milieu des flots, iterùm jactatus in alto. Hélas! j'en avais pourtant assez de la terre, et je ne la regrettais pas. En cet état, que dirai-je? que ferai-je? Je bénirai du fond de mon cœur la miséricorde immense de mon Dieu, qui a voulu m'accorder le temps de me mieux préparer à paraître devant lui. Ce doit être désormais l'unique pensée, l'occupation unique de ce qui me reste de vie. Hors de là tout est vanité : je le savais bien déjà, mais il me semble que je le sens plus vivement, et que la croix qu'il faut porter jusqu'à l'instant du sacrifice m'en devient plus chère."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma maladie s'annonça d'abord comme une fièvre bilieuse ; mais au moment où cessait l'accès, commençait une autre petite fièvre dont je reconnus bientôt le caractère nerveux. J'en</p>
+        <p>ma prochaine lettre, j'ajouterai encore quelques détails sur les circonstances de cette maladie.</p>
+        <p>« Venons aux projets de voyage. Je crois que ce n'est pas encore le moment de lui en parler. J'attendrai le retour de M. l'abbé Jean, qui doit être ici le 19. Je suis persuadé comme vous que rien ne serait plus utile à sa santé sous tous les rap ports : il serait si bien auprès de vous! Mais, quoique je lui en aie déjà dit quelques mots, il m'a paru que ce projet, si bien d'accord avec ses sentiments, ne lui paraît pas compatible avec ses travaux. J'en conférerai prochainement avec M. l'abbé Jean, et nous agirons de concert. Du reste, il ne pourrait pas, vu sa faiblesse, entreprendre incessamment ce long voyage. Pour moi, ce me serait un double bonheur de l'accompagner à Turin : je suis plus sensible que je ne puis le dire à la bonté avec laquelle vous m'y invitez.</p>
+        <p>« J'ai reçu de Paris des nouvelles qui me peinent, au sujet de la Société cathoh que : mais la conduite de Laurentie est toujours admirable. Mille et mille hom mages. »</p>
+        <p>avertis le médecin, je l'assurai que c'était là la maladie principale; il n'y fit aucune attention, et le mal s'accrut rapidement. Mon frère et mon beau-frère, qu'on avait demandés, étaient près de moi. Je reçus, avec pleine connaissance et beaucoup de consolation, mes derniers sacrements. Dieu m'a fait la grâce de n'avoir pas un moment de regret ni d'inquiétude, quoique je connusse et que je sentisse parfaitement mon état. Comme il devenait d'heure en heure plus alarmant, on se décida à faire venir un autre médecin de Dinan, et Dieu voulut qu'il eût la pensée, d'après ce qu'on lui mandait, d'apporter les choses nécessaires pour une opération dont le plus léger retard entraînait infailliblement la mort. Dieu voulut encore qu'il ne se trompât pas un seul moment sur la nature de la maladie et sur le traitement qu'elle exigeait ; la moindre hésitation eût rendu tous les secours inutiles. Cependant, malgré ces secours, le mal faisait des progrès effrayants. Le dimanche 29 juillet, je fus jusqu'aux dernières extrémités de l'agonie. Sans pouls, sans respiration pendant plusieurs minutes, le médecin n attendait que l'instant où j'allais passer. Néanmoins, pour ne négliger jusqu'au bout aucun moyen, il demande de l 'alkali volatil; on en cherche, on en trouve dans mon armoire ; il parvient à faire renaître un petit battement de cœur: ce fut le commencement de mon retour à la vie. Le danger dura encore plusieurs jours; il cessa tout à fait le jour de la fête de Saint-Pierre-aux-Liens. Mais la convalescence a été longue et pénible, contrariée par des spasmes, suspendue par une rechute que me causa la mort presque soudaine d'un domestique de confiance, près duquel je fus appelé au milieu de la nuit pour le confesser à la hâte. Maintenant il ne me manque que des forces, qui viendront progressivement. Mais c'est trop vous parler de moi. J'aurais dû vous dire d'abord combien je suis touché du mieux qu'éprouve la comtesse Louise. Si la guérison n'est pas absolument complète cette année, la saison prochaine l'achèvera, moyennant les soins et les ménagements indispensables pour conserver pendant l'hiver l'amélioration obtenue. J'aurais certainement un vif désir de me retrouver près de vous, de me reposer dans le sein de votre</p>
+        <p>si douce amitié; mais je ne puis à présent songer à aucun voyage ; je ne serais pas en état de le supporter. Et puis il faut que j'emploie à la défense de l'Église le temps que Dieu peut-être ne m'a laissé que pour cela.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

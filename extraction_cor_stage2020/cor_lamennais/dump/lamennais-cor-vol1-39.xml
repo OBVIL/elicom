@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Mille grâces, monsieur le marquis, et de vos vers et de votre prose; ce ne sont, en aucun sens, ni de la prose ni des vers de ce temps-ci, mais comme on en faisait, il y a quelque cinquante ans, ou plus anciennement encore, sous ce vieux roi nommé Louis XIV, à cette grande époque de « ténèbres »; et vous êtes un obscurant, si vous le voulez bien. Mme de Chastellus est aussi une « obscurante, » et Mme de Hohan, et Mme d'Escars, et Mme de la Trémoille, malgré son gallicanisme, qui ne lui sera pas compté seulement pour une petite chandelle ; et voilà ce qu'on" resp="">Mille grâces, monsieur le marquis, et de vos vers et de votre prose; ce ne sont, en aucun sens, ni de la prose ni des vers de ce temps-ci, mais comme on en faisait, il y a quelque cinquante ans, ou plus anciennement encore, sous ce vieux roi nommé Louis XIV, à cette grande époque de « ténèbres »; et vous êtes un obscurant, si vous le voulez bien. Mme de Chastellus est aussi une « obscurante, » et Mme de Hohan, et Mme d'Escars, et Mme de la Trémoille, malgré son gallicanisme, qui ne lui sera pas compté seulement pour une petite chandelle ; et voilà ce qu'on</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Chenaie, le 1i juillet 1825. (...-...)">A la Chenaie, le 1i juillet 1825.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Mille grâces, monsieur le marquis, et de vos vers et de votre prose; ce ne sont, en aucun sens, ni de la prose ni des vers de ce temps-ci, mais comme on en faisait, il y a quelque cinquante ans, ou plus anciennement encore, sous ce vieux roi nommé Louis XIV, à cette grande époque de « ténèbres »; et vous êtes un obscurant, si vous le voulez bien. Mme de Chastellus est aussi une « obscurante, » et Mme de Hohan, et Mme d'Escars, et Mme de la Trémoille, malgré son gallicanisme, qui ne lui sera pas compté seulement pour une petite chandelle ; et voilà ce qu'on"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>* M. de Villèle.</p>
+        <p>* M. de Corbi(!rei</p>
+        <p>gagne à pactiser. C'est ce que vous n'avez pas fait avec M. l'abbé Feletz *, qui a fait un pacte, je ne sais avec qui, contre le sens commun, et qui le tient en honnête homme.</p>
+        <p>Un de mes amis a rhabillé un ancien couplet sur les Cinq-Cents, et le voici tout prêt à être chanté sur l'air : Oui, mon père, je te le jure, par les dames qui ont la voix juste, comme elles l'ont pour la plupart, et un caractère indépendant, comme elles l'ont toutes, à ce que j'imagine :</p>
+        <p>Près du jardin des Tuileries Est un chantier fort apparent,</p>
+        <p>Où quatre cents bûches pourries Sont à vendre dans ce moment.</p>
+        <p>Le vendeur dit à qui l'aborde :</p>
+        <p>— Qui veut des bûches à bas prix?</p>
+        <p>Mais, bien entendu, mes amis,</p>
+        <p>On ne les livre qu'à la corde.</p>
+        <p>Je suis lout à fait de votre avis au sujet du Mémorial. Il fau drait qu'il prit un nouvel essor. Un des propriétaires doit venir passer quelque temps avec moi dans le mois d'août ; je ferai de mon mieux pour l'engager, lui et les autres, à entrer dans vos vqes, qui sont excellentes. Je n'ai que le droit de conseil, mais on veut bien avoir confiance en moi. Le commencement de l'année prochaine me paraît l'époque convenable pour opérer le changement que vous désirez. On pourrait alors essayer de paraître une fois la semaine. J'espère qu'on aura eu assez de goût et d'esprit pour citer quelques-uns de vos beaux vers. Cependant rien, en ce genre, ne va comme il devrait aller; parce que personne ne se mêle assidûment de la direction.</p>
+        <p>Je ne négligerai rien pour faire sentir les inconvénients qui résultent de cette espèce d'abandon dans lequel on laisse, sous ce rapport, le Mémorial. Les deux frères vous offrent l'hommage du plus tendre attachement 2.</p>
+        <p>1 Rédacteur littéraire du Journal des Débats. — « J'ai eu l'autre jour avec M. Feletz une conversation, et presque une altercation assez vive, à votre sujet, chez Mmp de Vence. Il y avait beaucoup de monde, » etc., etc. — M. de Coriolis à Latne?inais, 8 juillet 1825</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

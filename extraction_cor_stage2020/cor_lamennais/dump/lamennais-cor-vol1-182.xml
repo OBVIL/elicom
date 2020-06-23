@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="....A. propos de sottises, que dites-vous de la théologie du Moniteur au sujet des ordonnances t? Il faut qu'une cause soit bien abandonnée pour ne pas trouver de meilleurs avocats. D'autre part, je souhaiterais aussi de meilleurs avocats à la bonne cause. On ne s'avise pas assez de rendre populaire ce qu'il serait plus aisé qu'on ne pense de rendre tel. En vérité, les écrivains d'aujourd'hui ont quelque affinité avec le grand prêtre Melchisédech : non qu'ils écrivent « comme des anges, » non qu'ils s'exposent aussi à ce qu'on les prenne « pour le Saint-Esprit, » mais parce que leurs œuvres « n'ont ni père ni mère. »" resp="">....A. propos de sottises, que dites-vous de la théologie du Moniteur au sujet des ordonnances t? Il faut qu'une cause soit bien abandonnée pour ne pas trouver de meilleurs avocats. D'autre part, je souhaiterais aussi de meilleurs avocats à la bonne cause. On ne s'avise pas assez de rendre populaire ce qu'il serait plus aisé qu'on ne pense de rendre tel. En vérité, les écrivains d'aujourd'hui ont quelque affinité avec le grand prêtre Melchisédech : non qu'ils écrivent « comme des anges, » non qu'ils s'exposent aussi à ce qu'on les prenne « pour le Saint-Esprit, » mais parce que leurs œuvres « n'ont ni père ni mère. »</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, 9 septembre 1828. (...-...)">Paris, 9 septembre 1828.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="....A. propos de sottises, que dites-vous de la théologie du Moniteur au sujet des ordonnances t? Il faut qu'une cause soit bien abandonnée pour ne pas trouver de meilleurs avocats. D'autre part, je souhaiterais aussi de meilleurs avocats à la bonne cause. On ne s'avise pas assez de rendre populaire ce qu'il serait plus aisé qu'on ne pense de rendre tel. En vérité, les écrivains d'aujourd'hui ont quelque affinité avec le grand prêtre Melchisédech : non qu'ils écrivent « comme des anges, » non qu'ils s'exposent aussi à ce qu'on les prenne « pour le Saint-Esprit, » mais parce que leurs œuvres « n'ont ni père ni mère. »"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>voulut justifier ceux des royalistes qui, comme lui et ses amis, s'étaient unis, dans certains votes, à l'opposition libérale, sans pour cela renoncer à leurs convictions monarchiques. Il prêchait la conciliation des partis, assurant que le royalisme était devenu libéral, et le libéralisme monarchique.</p>
+        <p>1 Ordonnances du 16 juin.</p>
+        <p>Quand nous enverrez-vous donc les vôtres ? On en a soif ici, et personne n'en a plus soif que moi. Au reste, si chacun s'étonne que vous n'ayez pas encore fait entendre cette voix qui fait taire toutes les voix,</p>
+        <p>Moi, qui ne juge point ainsi que le vulgaire,</p>
+        <p>je ne sais pas m'en étonner. J'attends donc en toute confiance, certain que je suis que vous arriverez quand et comme il faudra.</p>
+        <p>Mon voisin l'Apost. 1 continue d"être l'homme le mieux informé de ce qu'il n'importe pas de savoir. C'est un parti pris par les cabinets, d'où il advient que les cabinets sont aujourd'hui des carrefours. C'est ce qui s'appelle « toiser les affaires en grand. »</p>
+        <p>Que si, par hasard, vous me demandez ce que deviennent, dans tout cela, los royalistes prétendus, je vous répondrai qu'ils sont toujours divisés « à faire plaisir. » A l'égard de ce que, vous et moi, nommons à bon escient royalistes, nous n'en avons ici « ni vent, ni voie. » C'est l' Indifférence en matière générale, terme où mène inévitablement cette autre indifférence que vous avez marquée d'un fer si brûlant.</p>
+        <p>Quand cette maladie-là pourra m'atteindre en ce qui vous touche, vous pourrez aussi compter que vous trouverez des lecteurs « indifférents. »</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

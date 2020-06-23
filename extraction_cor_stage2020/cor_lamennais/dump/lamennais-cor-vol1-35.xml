@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Je ne veux pas, mon excellente amie, perdre un moment pour vous remercier de votre bonne et aimable lettre. Ce que vous me dites de votre santé à toutes m'intéresse plus qu'aucune chose ; après cela j'ai été enchanté des détails et des faits que vous m'apprenez. Je savais déjà bien qu'il fallait à présent une espèce de courage pour m'avouer; mais, comme je n'écris pas pour plaire aux hommes, peu m'importe ce qu'ils peuvent penser et dire de moi. Il y aura bien du malheur si je ne leur fournis pas, avant la fin de l'année 2, quelque nouveau motif de me" resp="">Je ne veux pas, mon excellente amie, perdre un moment pour vous remercier de votre bonne et aimable lettre. Ce que vous me dites de votre santé à toutes m'intéresse plus qu'aucune chose ; après cela j'ai été enchanté des détails et des faits que vous m'apprenez. Je savais déjà bien qu'il fallait à présent une espèce de courage pour m'avouer; mais, comme je n'écris pas pour plaire aux hommes, peu m'importe ce qu'ils peuvent penser et dire de moi. Il y aura bien du malheur si je ne leur fournis pas, avant la fin de l'année 2, quelque nouveau motif de me</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A la Chenaie, le 28 mars 182J. (...-...)">A la Chenaie, le 28 mars 182J.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Je ne veux pas, mon excellente amie, perdre un moment pour vous remercier de votre bonne et aimable lettre. Ce que vous me dites de votre santé à toutes m'intéresse plus qu'aucune chose ; après cela j'ai été enchanté des détails et des faits que vous m'apprenez. Je savais déjà bien qu'il fallait à présent une espèce de courage pour m'avouer; mais, comme je n'écris pas pour plaire aux hommes, peu m'importe ce qu'ils peuvent penser et dire de moi. Il y aura bien du malheur si je ne leur fournis pas, avant la fin de l'année 2, quelque nouveau motif de me"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>1 «... Vous devriez bien, non pour moi, mais pour la benne cause, dérober un quart d'heure à vos travaux pour écrire quelques lignes qui précéderaient l'insertion, dans le Mémorial, de cet ancien article du Conservateur dont vous avez pris note, sur les discours prononcés aux inhumations par les séculiers. — On a dernièrement débité d'étranges choses aux obsèques d'une madame Dufrénoy. D—Af. de Coriolis à Lamennais, Paris, 16 mars 1825.</p>
+        <p>- Allusion très-claire à la publication du livre intitulé: De la Ihiigion considérée dans ses rapports avec l'ordre politique et civil, dans lequel Lamennais attaquait la Déclaration de 1682, d'où, selon lui, résultait un schisme vainement désavoué par les gallicans. Cet ouvrage, on le verra, fut déféré aux tribunaux.</p>
+        <p>déserter encore davantage. C'est à peu près la seule consolation de ce monde. Quand les hommes vous maudissent, c'est alors que Dieu vous bénit. Je n'attends ni ne veux rien sur la terre ; ainsi l'on ne peut rien contre moi. Il y a un lieu où, leur haine ne saurait m'atteindre, et c'est le seul où je désire aller.</p>
+        <p>Je crois comme vous que l'abbé Le Tourneur ne restera pas longtemps à S. Il lui faut Paris. Pour moi, je n'aime que nos champs, et nos eaux, et nos forêts. Je les aimerais beaucoup plus encore, si l'on vous y voyait quelquefois. L'idée dont vous me faites part1, et dont vous m'aviez déjà parlé, me plairait extrêmement; mais, comme je vous l'ai dit, pour que cela fût possible, il ne faudrait pas qu'on cherchât une grande fortune. Il y a, pour notre province, de l'aisance, et voilà tout. Du reste, rien ne pourrait me faire plus de plaisir. Ce serait pour nous comme un nouveau lien, et, quoique je ne puisse vous aimer davantage, tout ce qui rapproche encore plus est doux.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

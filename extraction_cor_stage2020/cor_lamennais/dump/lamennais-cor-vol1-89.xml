@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="M. de Haller m'envoie à l'instant les. lettres dont vous l'aviez chargé pour moi. Si nous avions été brouillés, ilaurait pris un" resp="">M. de Haller m'envoie à l'instant les. lettres dont vous l'aviez chargé pour moi. Si nous avions été brouillés, ilaurait pris un</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Paris, le 22 décembre 1826. (...-...)">Paris, le 22 décembre 1826.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="M. de Haller m'envoie à l'instant les. lettres dont vous l'aviez chargé pour moi. Si nous avions été brouillés, ilaurait pris un"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>1 Lettre supprimée : — A M. le baron de Vitrolles. Paris, f9 décembre 1826. — Simple billet relatif à l'affaire dont noas avons dit que M. de Vitrolles s'occupait avec zèle pour le compte de Lamennais.</p>
+        <p>sur moyen de me raccommoder avec lui. Mou cœur, habituellement si serré et si triste, s'épanouit à la seule vue de vos écritures. Oh! oÜi, je vous aime; je vous aime comme personne ne vous aima jamais. Puisse, puisse le bon Dieu nous réunir ici-bas, et ensuite dans cette belle éternité, qui doit nous être sans cesse présente, et où toutes nos douleurs seront consolées! — Euntes ibant et flebant, mittentes semina sua; venientes autem venient cum exultations, portantes manipulos suos.</p>
+        <p>Je vous ai déjà dit ce qui me retient ici : le devoir, un devoir rigoureux. Je suis honteux de le dire, — mais je ne crois pas y mettre d'amour-propre, — par le pur effet des circonstances je me trouve être le centre de ceux qui aiment et défendent la Heligion dans ce pays. Moi parti, tout se dissoudrait. Je travaille à ce que le bien que j'ai eu le désir de faire me survive, et j'ai l'espoir d'y réussir, malgré d'innombrables obstacles. Si j'abandonnais l'œuvre, elle tomberait à l'instant. N'en répondrais-je pas alors devant Dieu? Il y a beaucoup d'éléments du bien, mais ils sont épars et faibles; c'est comme un germe qu'il faut cultiver soigneusement pour qu'il se développe. Je donnerais tout au monde pour en causer deux heures avec vous. Il faut que je vous parle maintenant de notre état religieux et de notre état politique.</p>
+        <p>Sur le premier point, le gouvernement est disposé à faire tout ce que les révolutionnaires demanderont, pourvu qu'ils ne le poussent pas trop vite. On a défendu à tous les employés civils et militaires de Lyon d'assister à la plantation de la croix, ce qui fait qu'elle n'a pas eu lieu. Les préfets sont chargés de surveiller strictement le clergé, et d'envoyer des notes sur tous les prêtres. C'est une mesure préparatoire. On n'est pas décidé encore à agir contre les missions, malgré ce qui avait très-certainement été résolu dans le conseil. Pour les J , leur sort est fixé; l'exécution seule embarrasse. L'évêque d'Hermopolis demandait dernièrement à l'évêque d'Amiens 1 quelle serait sa conduite dans le cas où l'on dissoudrait Saint-Acheul. Le prélat</p>
+        <p>1 M. de Cliabons, c\eque d'Amiens. Il avait été l'ail pair en 1821, en tourne temps que M. le comte de Yi lèle, archevêque de Bourges, et M. Salmon du Chàtellier, évèque d'Evreux.</p>
+        <p>répondit « qu'il suivrait l'exemple des autres évêques. » Cela n est pas trop effrayant pour l'administration. D'un autre côté, les J s'aliènent peu à peu tous leurs partisans, et particulièrement le clergé, par leur extrême faiblesse, leurs petites ruses, leur dissimulation visible, leur séparation absolue de tout ce qui n est pas eux, etc., etc., etc.; de sorte qu'on les regrettera généralement très-peu. Ils succomberont sans aucun doute, et ils succomberont sans honneur. Ces chutes-là sont, mortelles pour les Corps. L'opinion presque universelle est que c'est un Ordre fini, et qui n'a rien en soi qui réponde à l'état et aux besoins actuels de la société.</p>
+        <p>Quant au clergé séculier, la masse est excellente ; il est diffit cile de s imaginer à quel po:nt toutes les doctrines catholiques ont pénétré dans les esprits depuis un an. Plus j'y pense, plus j 'y vois quelque chose de merveilleux. Le nombre des prêtres dévoués parait le double de ce qu'il était jadis, et chaque jour la vérité fait des progrès. Mais voici le revers de la médaille. Le ministère ecclésiastique travaille avec ardeur à corrompre toutes les sources de l'enseignement. Il menace, destitue les uns, séduit les autres, et ce système, à la longue, doit amener des conséquences fâcheuses, surtout lorsque l'épiscopat, déjà si faible, aura été constitué selon les vues du gouvernement. Deux évèques viennent d'être nommés : l'un, M". Savv, était proviseur du collège de Toulouse, établissement détestable; l 'auti-e, M. de Villeneuve, vivait plus en laïque qu'en prêtre, se promenant à Paris en pantalons, etc. Toutes les places sont données à des gens de cette espèce.</p>
+        <p>Un autre mal très-grand, c'est Saint-Sulpice, où l'on élève des jeunes gens de tous les diocèses. Le gallicanisme y domine, et de là il donne la innin à tous ses partisans dans les provinces.</p>
+        <p>Mille de S. m'engage à voir le C. Bli 1. Il faudrait pour cela le rencontrer, et je ne vais nulle part. Notre position, d'ailleurs, est très-singulière. On flatte les ennemis; tous les égards, toutes les caresses sont pour eux. Vous sentez à combien de réserve</p>
+        <p>1 Le cardinal Bernelti, alors à Paris.</p>
+        <p>une politique si sage et si élevée nous oblige. Et puis, pour conserver la seule force que nous ayons, il y aune chose dont nous ne devons jamais faire le sacrifice, la digmté du courage et de l'abnégation. La lâcheté, l'aveuglement, l'esprit de vertige est partout aujourd'hui, et c'est là le symptôme le plus marqué d'un avenir terrible. &lt;.</p>
+        <p>Je viens à la politique. Il n'est question en ce moment que du Portugal. Le conseil, -comme je vous l'ai mandé, était divisé. M. de ViIlèl-e l'a emporté, et cela devait être. Le baron de Damas1 a été chargé d'annoncer à l'Europe que l'Angleterre usait de son droit et remplissait strictement son devoir, en portant la révolution dans le Portugal; que l'Espagne, menacée dans son existence, n'avait pas la moindre raison de se plaindre ni de s'inquiéter; que la France le lui avait bien dit, et qu'elle s'entendrait avec l'Angleterre pour le lui faire sérieusement comprendre, s'il n'y avait pas moyen de la persuader autrement. Le parti révolutionnaire pousse des cris de joie; il porte aux nues M. Canning, et même M. de Villèle. C'est, en effet, le plus grand triomphe qu'on lui ait ménagé depuis longtemps. Le marquis de Chaves 2 succombera, je n'en doute pas ; les Anglais seront à Lisbonne avant lui ; ils affermiront les Cortès, jetteront en Espagne les réfugiés qui se rendent en foule sur leur flotte, et la grande tragédie commencera. La Chambre des pairs est, en général, prononcée pour la politique anglaise et ministérielle. La Chambre des députés n'a d'autre politique que d'obéir. Sa servi- ) lité augmente chaque année, quels que soient les mécontentements individuels. La magistrature- s'anime de plus en plus</p>
+        <p>1 Le baron de Damas, d'abord ministre de la .guerre, avait, depuis deux ans, cédé ce portefeuille an marquis de Clermont-Tonnerre, ministre de la marine. Il était devenu ministre des affaires étrangères. Il annonça effectivement aux Chambres que la France, mécontente de n'avoir pas été écoutée par l'Espagne, à qui elle avait démontré les dangers d'une intervention dans les affaires du Portugal, venait de rappeler de Madrid M. de Moustiers, son représentant.</p>
+        <p>2 Le comte d'Amarante, depuis marquis de Chaves, principal promoteur de la conspiration du 5 février 1823, qu'il avait organisée de concert avec la fameuse Charlotte,, femme de Jean VI et sœur aînée de Ferdinand VII. Il était encore, en 4826, à la tête du-mouvement contre-révolutionnaire. -</p>
+        <p>contre le clergé, pour se donner de l'importance. Elle veut le protestantisme ; des magistrats me l'ont avoué franchement. Il vient de paraître un ouvrage analogue à celui de M. deMontlosier, où, paMe fait, on demande l'abolition pleine et entière de la religion catholique. L'auteur est M. Cottu. Les journaux du libéralisme en ont fait grand bruit.</p>
+        <p>On ne saurait prévoir encore le sort de la loi sur la presse. Le résultat, si elle passe, sera désastreux pour la Religion. Des imbéciles l'ont sollicitée; il ne sera pas étonnant que d'autres imbéciles la votent. Au milieu de cet immense désordre, la nation fatiguée tombe dans une indifférence complète. Personne ne tient au gouvernement; on le verrait tomber, les uns avec joie, les autres sans aucun regret. Nul n'étendrait seulement la main pour le soutenir. Parmi les libéraux honnêtes, et il y en a beaucoup de cette espèce dans les provinces religieuses, il règne une disposition d'esprit, qui serait fort heureuse en un autre temps. Ils ne voient rien à quoi se rattacher, ni doctrines, ni intérêts, et cela les rapproche de l'Église, qui offre seule cette stabilité qu'ils n'aperçoivent nulle part ailleurs. L'essentiel serait de leur montrer que le christianisme est compatible avec tous les désirs sages; qu'il ne livre pas les peuples au pouvoir comme de vils troupeaux ; qu'il protège et maintient tous les droits ; qu'en lui seul est la garantie de toutes les libertés légitimes. Ces hommes-là repoussent avec horreur le servile gallicanisme. Ils prêteraient une grande force à l'ordre public, un puissant appui it l'Église, si ceux qui doivent parler croyaient à ce devoir et le remplissaient dans toute son étendue. Le monde a changé; il cherche un maître : il est orphelin, il cherche un père. Le trouvera-t-il? Voilà la question1.</p>
+        <p>Je ferai votre commission à Mahony. Nous ne le voyons guère, attendu qu'il ne quitte guère Versailles; mais on va lui écrire de ma part pour l'engager à venir.</p>
+        <p>Oserai-je vous offrir, au commencement de l'année qui</p>
+        <p>1 Est-il besoin d'appeler l'attention du lecteur sur ce curieux et admirable passage? Est-il nécessaire de faire remarquer qu'il explique et justifie, mieux qu'aucune apologie, ces « variations » tant reprochées à l'éloquent défenseur du catholicisme, devenu, en fin de compte, un des apôtres de la foi démocratique ?</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
