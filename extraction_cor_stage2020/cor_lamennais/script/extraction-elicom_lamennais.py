@@ -16,6 +16,7 @@ from lxml.builder import ElementMaker
 
 RE_CHIF_AR = re.compile(r"^[0-9]{1,3}\.") #pour matcher les débuts de lettres. 153 matches au lieu de 197
 RE_DEST = re.compile(r"(A [A-Z][A-Z.]+)|^(?:A[A-Z.]+)")# 215 matches non complets
+RE_NOTES = re.compile(r"^\d [A-Z].+")
 
 #LE FILEPATH
 filepath = "corpus/lamennais-cor-vol1.html"
@@ -38,6 +39,8 @@ for p in soup.body.find_all('p'):
 
 		lettre = []
 		lettre.append(text)
+	elif RE_NOTES.search(text):
+		pass
 	else:
 		lettre.append(text)
 
