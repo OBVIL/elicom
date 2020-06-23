@@ -15,7 +15,13 @@ from lxml import etree
 from lxml.builder import ElementMaker
 
 RE_CHIF_AR = re.compile(r">[0-9]{1,3}\.") #pour matcher les débuts de lettres. 153 matches au lieu de 197
-RE_DEST = re.compile(r"(A [A-Z][A-Z.]+)|^(?:A[A-Z.]+)")# 215 matches non complets
+RE_DEST = re.compile(r"(A [A-Z][A-Z.]+)|^(?:A[A-Z.]+)")# Pour matcher les destinataires. 215 matches non complets
+#RE_NOTES = re.compile(r">1 .+ -|>1 .+—") #pour matcher les notes. Pour l'instant 20 matches dont un non pertinent
+#RE_NOTES = re.compile(r"1 .+ -|>1 .+—|1 [A-Z].+") #pour matcher les notes. Pour l'instant 191 matches dont plusieurs non pertinents
+# 2 .+ -|>1 .+—|1 [A-Z].+  ICI 190 
+RE_NOTES = re.compile(r">\d [A-Z].+")
+# >\d [A-Z].+ 214 matches. Soit matche trop, soit pas assez... 
+#Les retours à la ligne ne sont pas pris en compte, donc seule une petite partie de la note est supprimée, ce qui est fort problématique.
 
 #LE FILEPATH
 filepath = "lamennais-cor-vol1.html"
@@ -38,6 +44,8 @@ for p in soup.body.find_all('p'):
 
 		lettre = []
 		lettre.append(text)
+	elif RE_NOTES.search(text):
+		pass
 	else:
 		lettre.append(text)
 
