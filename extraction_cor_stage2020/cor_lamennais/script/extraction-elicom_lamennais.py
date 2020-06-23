@@ -26,8 +26,8 @@ def strip_spaces(text):
 with open(filepath, 'r', encoding="utf-8") as fhtml:
     soup = BeautifulSoup(fhtml, 'html.parser') #-> pour parser le html. Librairie en python. 
 
-#La variable lettre contient 1 lettre, la variable lettres, plusieurs lettres. J'ajoute texte si chiffre romain. 
-#A chaque nouveau chiffre romain, extrait lettres.
+#La variable lettre contient 1 lettre, la variable lettres, plusieurs lettres. J'ajoute texte si chiffre arabe. 
+#A chaque nouveau chiffre arabe, extrait lettres.
 
 lettres = []
 lettre = []
