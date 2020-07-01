@@ -37,7 +37,7 @@
           <persName key="de Lamartine, Alphonse (1790-1869)"
             ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
             Lamartine</persName>
-          <date when="1812-10-29" resp="author, editor">29 octobre 1812</date>
+          <date when="1812-10-29" resp="author">29 octobre 1812</date>
           <date when="1812-10-30" resp="author, editor">30 octobre [1812]</date>
         </correspAction>
         <correspAction type="received">
