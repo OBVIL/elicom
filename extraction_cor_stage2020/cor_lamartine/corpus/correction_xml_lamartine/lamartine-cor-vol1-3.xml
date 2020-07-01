@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1808-01-10" resp="author">10 janvier 1808.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1808-01-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon, </placeName>
+            <date>10 janvier 1808.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <epigraph>
+          <l>Nihil est ab omni parte beatum.</l>
+        </epigraph>
+        <p>J'ai reçu hier ta lettre. Je suis au désespoir de l'inquiétude que mon silence t'a
+          donnée. Je t'en ai dit les raisons et je pense avoir obtenu ma grâce. L'ode que tu m'as
+          fait le plaisir de m'envoyer m'a plu infiniment. Tu fais des progrès qui commencent à me
+          faire peur. Je voudrais seulement que tu ne délayasses pas tant les vers latins pour faire
+          les français, surtout dans le commencement de l'ode. Pour les autres vers sur le paysage,
+          ils sont un peu trop longs, il n'en faudrait que deux ou trois. Du reste ils sont bien
+          plus purs et plus soignés qu'à l'ordinaire. Continue et dans un an nous ne serons pas
+          dignes de délier les cordons de les souliers. Je le dis cela franchement et comme je le
+          pense. Je ne fais rien depuis un mois. J'ai été obligé de céder ma chambre à des officiers
+          qui sont ici en très-grand nombre. J'ai été malade et tout cela m'a dérangé beaucoup. Je
+          ne dirai pas comme toi : « tristitiam et metus, » tant s'en faut, mais comme Gilbert :</p>
+        <lg>
+          <l>Au banquet de la vie, infortuné convive.</l>
+          <l>J'apparus un jour, et je meurs. </l>
+          <l>Je meurs, et sur la tombe où lentement j'arrive</l>
+          <l>Viendra-t-on répandre des pleurs?</l>
+        </lg>
+        <p>Cependant il y a quelque temps que je faisais encore le gentil dans le commencement d'une
+          épître à Virieu :</p>
+        <lg>
+          <l>Tandis que d'un léger coton</l>
+          <l>Mon visage frais se colore,</l>
+          <l>Que tout sourit à mon aurore,</l>
+          <l>Et que raisonner en Caton</l>
+          <l>Chez moi serait risible encore.</l>
+          <l>De mon espoir, de mes désirs,</l>
+          <l>Je veux divertir ta paresse,</l>
+          <l>Et, laissant l'ingrate vieillesse</l>
+          <l>S'affliger de ses souvenirs.</l>
+          <l>Une heure ou deux de ma jeunesse,</l>
+          <l>Parler au moins de mes plaisirs.</l>
+        </lg>
+        <lg>
+          <l>Sur une plus courte mesure</l>
+          <l>Pour toi je vais mouler ces vers</l>
+          <l>Et laisser mes pensers divers</l>
+          <l> Courir à huit pieds sans césure.</l>
+        </lg>
+        <lg>
+          <l>Vois-tu ce délicat gourmand,</l>
+          <l>Cherchant quelque mets qu'il préfère,</l>
+          <l>Promener son oeil inconstant</l>
+          <l>Autour d'un service brillant,</l>
+          <l>Incertain du choix qu'il va faire ;</l>
+          <l>Mille plats exquis tour à tour</l>
+          <l>Tentent son appétit volage.</l>
+          <l>Mes amis, voilà mon image :</l>
+          <l>Le repos, la gloire et l'amour</l>
+          <l>Voudraient mon âme sans partage.</l>
+          <l>La raison me dit d'être sage,</l>
+          <l>Et me montre dans le lointain</l>
+          <l>Un bonheur qu'elle dit certain ;</l>
+          <l>Mon coeur prétend que le voyage</l>
+          <l>Est bien court, et que du bel âge</l>
+          <l>Les fleurs se flétriront demain.</l>
+          <l>J'espère, je crains, je balance,</l>
+          <l>Et, si je penche d'un côté,</l>
+          <l>Une flatteuse confiance</l>
+          <l>Tient des rêves de l'espérance</l>
+          <l>Amuser ma crédulité.</l>
+          <l>« Vois-tu ces lauriers, me dit-elle,</l>
+          <l>« Bientôt ta main va les cueillir !</l>
+          <l>« Tu verras ton front s'embellir</l>
+          <l>« De cette couronne immortelle</l>
+          <l>« Que ta déesse va t'offrir, » etc.. etc.</l>
+        </lg>
+        <p>Je les ai laissés là. Qu'en penses-tu franchement? La conscription vient de retarder mon
+          petit voyage de Lyon, je ne le ferai que dans huit jours, après avoir tiré. Écris-moi, à
+          Monsieur Alphonse de Lamartine, chez Mme Vasse Roquemont, rue Saint-Dominique, à Lyon. J'y
+          resterai peut-être quinze jours.</p>
+        <closer>
+          <salute>Adieu,</salute>
+          <signed>ton meilleur ami,<lb/><name>ALPHONSE DE LAMARTINE.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1811-12-15" resp="author">15 décembre 1811</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1811-12-15">15 décembre 1811</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Naples, </placeName>
+            <date>15 décembre 1811.</date>
+          </dateline>
+          <salute>Mon ami, </salute>
+        </opener>
+        <p>je t'attends à Naples où je suis depuis quinze jours. Ta dernière lettre
+          m'annonce enfin ton arrivée. Écris-moi bien toute ta marche, jour par jour, sans quoi nous
+          ne nous trouverons nulle part. Si tu n'arrives pas aussitôt à Naples, au moins faut-il que
+          nous nous embrassions à Rome. Voici mon adresse dans ces deux villes : Chez Camille
+          Bertarelli, banquier, à Rome; — chez M. Duchaliot, banquier, à Naples.—Ne sois pas
+          paresseux pour m'écrire, une lettre de moins peut nous faire manquer notre
+          rendez-vous.</p>
+        <closer>
+          <salute>Adieu, j'arrive d'Herculanum. Je suis ici peutêtre encore pour un petit mois, et qui
+            sait? peut-être plus. Je n'ai fait aucune économie, parce qu'étant tout seul, je n'ai pas
+            le courage d'en faire. J'a tout jeté par les fenêtres et je suis à sec.</salute>
+          <signed>Adieu, ton ami.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

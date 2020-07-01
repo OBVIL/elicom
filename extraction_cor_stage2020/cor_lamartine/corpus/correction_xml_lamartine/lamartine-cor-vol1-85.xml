@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1811-12-08" resp="author">8 décembre 1811</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>      
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1811-12-08">8 décembre 1811</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Napoli, </placeName>
+            <date>8 décembre 1811.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Cher ami, ta lettre tant désirée, tant attendue, m'a fait beaucoup de peine. Je t'ai bien
+          reconnu à tes injustes et bizarres craintes, à tes soupçons presque injurieux pour ton
+          ami. Ce n'est pas la première fois que tu me les manifestes depuis que nous nous
+          connaissons; ce n'est pas la première fois que je m'efforce de les détruire et de les
+          déraciner tout à fait de ton coeur toujours trop prompt à s'aigrir. Que me dis-tu? Que
+          signifient ces comparaisons plus qu'inutiles entre nos deux existences futures dans ce
+          monde, entre nos sorts, entre nos prétendues fortunes? Ne t'ai-je pas prouvé vingt fois
+          que même en cela nous n'étions que trop égaux; et que, si mon état avait en apparence
+          quelque chose de plus brillant que le tien, ces avantages apparents étaient bien rachetés
+          et plus que compensés par une servitude et mille et mille assujettissements qui le rendent
+          dépendant et plus incertain que le tien? Et d'ailleurs, ô mon ami, lors même que ma
+          fortune l'emporterait un jour sur la tienne (ce qui probablement ne sera jamais), la
+          véritable amitié qui non plus que le véritable amour n'est point une vaine liaison de
+          convenances et de richesses, mais un dévouement entier et parfait des coeurs nobles et
+          sincères, s'inquiéterait-elle de quelques disparates dans nos deux conditions?
+          M'oublierais-tu parce que je serais en carrosse? t'oublierais-je parce que tu serais à
+          pied? Sonde ton âme, et-lis-y toi-même ton arrêt et la peine que ces phrases-là ont dû me
+          faire ! Non, mon ami, soit que je sois destiné par le sort à promener par le monde mon
+          inquiète oisiveté et à cacher sous des dehors brillants les maux secrets qui me rongent,
+          soit qu'un grand revers de fortune mérité noblement me réduise au dernier rang des
+          créatures pensantes, sois-en sûr, mon coeur ne trahira jamais ses intérêts les plus chers,
+          n'étouffera jamais les plus doux sentiments qu'il ait pu sentir. Je ne le ferai jamais
+          rougir, ton coeur m'en répond. Pourquoi donc ne me crois-tu pas une âme aussi noble et
+          aussi ferme que la tienne ? Pourquoi travailles-tu sans cesse ton imagination ardente sur
+          des probabilités qui ne peuvent que me faire souffrir de toutes manières? Taisons-nous, ne
+          parlons plus de tout ceci. Ne m'y reponds pas même. Ce sont autant de paroles perdues.
+          Aime-moi, ne me refuse plus une amitié que tu sembles chercher à me ravir, et sois sûr que
+          ni toi ni moi nous ne retrouverions jamais ce que nous perdrions en nous perdant.</p>
+        <p>Pourquoi ne me donnes-tu pas plus de détails sur ce nouvel ou ancien attachement qui l'a
+          mis dans un état presque semblable au mien ? Parlemoi plus ouvertement, et dis-moi surtout
+          si l'objet qui l'a fait tant de maux est le même qui te fit rêver tant de félicités la
+          première année de ton séjour à Grenoble? ou si c'est cette autre aimable jeune personne
+          qui paraissait devoir lui succéder dans ton coeur? Pour moi, mon ami, je traîne, je
+          promène, je berce par toute l'Italie mes ennuis déchirants. Quelquefois ils paraissent
+          s'endormir un instant, mais ils se réveillent bientôt avec plus de force. Je suis comme un
+          malade à qui la force de la douleur en ôte parfois le sentiment, mais qui revient, trop
+          tôt pour lui, à la souffrance et à la vie.</p>
+        <p>Rome, que j'ai habitée près de deux mois me plaisait beaucoup. Je m'en suis arraché avec
+          peine pour venir passer quelques jours dans cette incomparable Naples ; et m'y voilà
+          retenu, moitié par des instances réitérées, moitié par insouciance, au moins encore pour
+          un grandissime mois, sinon pour plus longtemps. Virieu arrive, dit-on, en Italie : je ne
+          sais si cela est vrai, et si nous pourrons nous rencontrer quelques minutes quelque part.
+          Une cruelle et opiniâtre fatalité nous a séparés dans les moments peut-être où nous
+          aurions eu le plus besoin l'un de l'autre. Mais je dis à présent comme Job : la volonté de
+          Dieu soit faite !</p>
+        <p>T'ai-jemandé que Vignet m'écrivait à présent des lettres charmantes, qu'il m'avait
+          demandé ainsi qu'à Virieu notre amitié? En passant, au mois de juin, par Chambéry, je fus
+          le voir, il n'y était pas ; et de là vint ce raccommodement qui m'a fait plaisir. Tu me
+          parles beaucoup de madame de ..... en serais-tu épris?</p>
+        <p>Je vais demain matin à Pouzzoles, à Baïa, à la Solfatare; j'arrange une partie pour aller
+          au Vésuve avec des dames napolitaines. J'emploie mon temps à courir, à voir sans suite et
+          sans raison ; je n'écris presque plus rien, je suis mort au monde, aux projets de ma
+          jeunesse, je m'endors. Endormons-nous ensemble, mon ami, laissons-nous bonnement conduire
+          par les circonstances, sans plus chercher à les gouverner ni à les vaincre : c'est une
+          folie. Suivons le gros du troupeau, qui mange et qui dort, et vit au jour la journée, sans
+          s'inquiéter d'amour, ni d'avenir, ni de gloire. Ces noms-là nous font encore battre le
+          coeur: tant pis ! Heureux celui qui ne les entend ni ne les comprend ! Mais, hélas ! mon
+          ami, quand parviendrons-nous à ce haut degré d'abrutissement ou de sagesse? que de chemin
+          nous avons encore à faire l'un et l'autre! Tu l'as dit : nous sommes nés tous deux pour
+          être toute notre vie persécutés et malheureux. Que le ciel accomplisse ses desseins,
+          fournissons patiemment la carrière! Un jour succède à l'autre, une souffrance à une autre
+          ; mais il vient enfin ce jour qui est le dernier, cette douleur qui finit tout, et alors
+          la paix ! Ne hâtons pas le moment. Mon coeur me dit de l'attendre, mon coeur me dit bien
+          des choses qui me consolent. Que bénie soit la main d'où me viennent les maux et les
+          consolations! Je commence à l'entrevoir, et j'aime à la sentir.</p>
+        <closer>
+          <salute>Adieu, pardon de mon bavardage, sicut aegri somnia. Écris-moi ici, à M. Alph. de
+            Lamart., chez M. Duchaliot, banquier, à Naples., — ou poste restante à Rome, c'est
+            égal.</salute>
+          <signed></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

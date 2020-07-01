@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1809-11-09" resp="author">9 novembre 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1809-11-09">9 novembre 1809.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Milly,</placeName>
+            <date>9 novembre 1809.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <epigraph>
+          <quote><l>Le ciel, en nous formant, mélangea notre vie</l>
+            <l>De désirs, de dégoûts, de raison, de folie,</l>
+            <l>De moments de plaisirs et de jours de tourments.</l></quote>
+        </epigraph>
+        <p>... Voilà, comme tu vois, une assez triste épigraphe, malheureusement le sujet y répond.
+          Je viens de passer encore du plus vif bonheur à la plus amère tristesse. Point de voyage à
+          Lemps, dû moins pas sitôt. La veille ou l'avant-veille de mon départ, mon père a fait une
+          chute à la chasse et s'est cassé la main. Tu penses bien que tout a été dérangé par un
+          pareil accident. Il m'a fallu rester ici, faire ses vendanges, ses affaires, et avoir
+          l'air de trouver tout cela naturel, comme ça ne l'était que trop. Adieu donc, et ne nous
+          plaignons pas : Sic voluere dii. Redoublons seulement, pour nous consoler, d'exactitude à
+          nous écrire. C'est, comme je te l'ai dit bien souvent, mon seul, mon plus grand plaisir.
+          Dieu veuille que ce soit le tien ! Il me semble d'après tes dernières lettres et celles de
+          Guichard que tu as fait un voyage blanc à Bienassis ; le seigneur en était parti. Il m'a
+          écrit de Pont-de-Beauvoisin, où il allait, disait-il, passer huit jours et de là nous
+          préparer nos logements dans sa cellule à Grenoble. Quel coup manqué, grand Dieu ! Je ne me
+          possède plus. Console-moi-donc. Dis-moi donc de bonnes raisons. Écris-moi tous les jours,
+          j'en ai besoin. Demande-moi ce que j'ai fait pour me consoler moi-même. Rien, j'ai pris
+          les jours sans les compter, comme ils sont venus, bons, mauvais, tristes, gais. J'ai mené
+          une vraie vie de fainéant, d'insouciant, une vie commune et banale, comme celle de tous
+          les désoeuvrés, de tous les imbéciles du monde : visites, dîners, soupers, promenades et
+          je ne sais quoi. Je n'ai pas voulu rentrer en moi-même.</p>
+        <p>Je lis cependant un peu depuis quelques jours et pour tromper un peu mon ennui. Je lis ce
+          que nous devrions lire ensemble, l'ami Montaigne, oui, l'ami; je l'aime infiniment plus
+          cette fois que la première. J'en avais trop entendu dire du bien et du mal. Je ne le
+          quitte pas. Il est là sur ma table tout ouvert. Il est sur la cheminée, il est dans ma
+          poche. O le bon homme, le beau caractère, le coeur délicat et fin ! Rien ne lui échappe de
+          tout ce qu'une belle âme et un esprit simple peuvent sentir de beau, de doux, de tendre,
+          de naïf. Je suis bien aise que ce soit là ton avis. Pour moi je ne sais plus le français
+          d'aujourd'hui. Plutarque et lui m'ont jeté dans le gaulois ainsi que Clotilde de Surville.
+          Je viens aussi de lire Werther : il m'a fait la chair de poule, comme tu dis. Je l'aime
+          pas mal non plus. Il m'a redonné de l'âme, du goût pour le travail, le grec, etc. Il m'a
+          aussi un peu attristé et assombri. Mais vive cette tristesse-là! c'est celle que Montaigne
+          aime tant. Je n'ai pas là le passage, je te l'aurais transcrit, mais tu le sais.</p>
+        <p>A propos de travail, voici mon plan en gros que je l'envoie à retoucher et à retourner et
+          à amplifier à ta fantaisie. Cet hiver, maître de grec si je peux le trouver, autrement
+          anglais et italien; 2° maître de dessin, je m'y remets pour nos voyages afin de pouvoir
+          faire lestement un croquis de 12 paysage en Suisse, en Grèce, en Italie, en Amérique ; 3°
+          littérature et poésie, ni plus ni moins qu'une tragédie : donne-moi un sujet, je veux suer
+          et me fondre; 4° lecture — 8 heures de travail en tout. — Qu'en penses-tu ? Je ne veux
+          presque pas voir de société, quoi qu'on me dise, à Lyon. Ça me perdrait mon temps et je me
+          trouverais sec et vide au bout. Je n'emporte à peu près que quarante louis au mois de
+          janvier. Je ferai infiniment petit, hors le spectacle. Je ne me passe rien. Une fois que
+          j'y serai, si je peux y être une fois, je prolongerai trois, quatre, cinq, six mois, si
+          cela va bien. Autrement, je vais me sauver et me perdre deux ou trois ou quatre mois en
+          Suisse.</p>
+        <closer>
+          <salute> Adieu, écris-moi plus longuement que je ne fais cette fois-ci. Ouvre de bons avis
+            selon ton usage. Ne me parle plus de notre projet manqué. Je veux l'oublier, le coeur
+            m'en saigne trop.</salute>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+        </closer>
+        <epigraph>
+          <l>La joie est passagère et le rire est trompeur !</l>
+        </epigraph>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

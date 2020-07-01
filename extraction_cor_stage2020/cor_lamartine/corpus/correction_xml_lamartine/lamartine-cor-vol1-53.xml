@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-03-20" resp="author">20 mars 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-03-20">20 mars 1810.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Lyon, </placeName>
+            <date>20 mars 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Enfin le plus paresseux des amis m'a donné de ses nouvelles. Ne s'avise-t-il pas encore
+          pour comble d'impudence de nous accuser! Je lui ai répondu comme il le mérite, en lui
+          faisant cependant entrevoir un léger espoir de pardon. Gronde-le aussi d'importance, il
+          l'a bien mérité. Écoule un méchant impromptu en l'honneur de mon masque que je liens
+          presque :</p>
+        <lg>
+          <l>Quand je te vis, ô ma maîtresse,</l>
+          <l>Couverte d'un masque élégant ;</l>
+          <l>Quand tu m'avouas ta tendresse</l>
+          <l>A l'aide d'un fausset charmant,</l>
+          <l>Non, je n'eus point la folle envie</l>
+          <l>De m'assurer de tes appas.</l>
+          <l>Femme aimable est toujours jolie.</l>
+          <l>Non, non, ne te démasque pas !</l>
+        </lg>
+        <lg>
+          <l>Tu me disais d'une voix tendre</l>
+          <l>Que j'avais su gagner ton coeur.</l>
+          <l>Ah ! je crois encor les entendre</l>
+          <l>Ces serments d'une longue ardeur !</l>
+          <l>Ma confiance fut entière,</l>
+          <l>Et je te répondis tout bas :</l>
+          <l>Tu parais naïve et sincère....</l>
+          <l>Non, non, ne te démasque pas !</l>
+        </lg>
+        <lg>
+          <l>Pour user de toutes tes armes,</l>
+          <l>Malgré moi le masque tomba ;</l>
+          <l>Mais la pudeur avec ses charmes</l>
+          <l>Tout aussitôt le remplaça.</l>
+          <l>La rougeur t'avait embellie.</l>
+          <l>Dieu ! que j'aimai ton embarras !</l>
+          <l>Si c'est un masque, ah ! je t'en prie,</l>
+          <l>Non, non, ne te démasque pas !</l>
+        </lg>
+        <p>Ce sont des couplets, comme tu vois. Je ne trouve que le dernier de supportable. J'ai
+          entrepris ces jours-ci un petit vaudeville de moitié avec un des jeunes gens de ma
+          connaissance. Je ne sais pas si nous passerons la première scène. On nous donne ici des
+          pièces nouvelles à force. Hier au soir, nous eûmes un très-joli opéra-comique de M.
+          Etienne, celui qui a fait Un jour à Paris. Je suis trop fidèle au spectacle. Je ferais
+          peut-être mieux d'aller quelquefois en bonne compagnie, mais j'aime trop la vie libre, et
+          je ne peux être une heure assis à une sotte partie sans avoir l'esprit ou tout au moins le
+          coeur agréablement occupé.</p>
+        <p>A propos de voyage, j'ai été avant-hier deux fois retenir ma place pour Grenoble, et deux
+          fois je me suis dédit pour de trop fortes raisons. Je t'aurais surpris, car je crois que
+          tu ne m'attends plus guère ; cependant je ne désespère toujours de rien. Donne-moi la rue
+          et l'adresse de la bonne auberge pour que j'y aille débarquer si cela m'arrive. Donne-moi
+          la tienne pour que j'aille aussitôt le trouver.</p>
+        <lg>
+          <l>Je ne verrai point sans envie</l>
+          <l>Ce réduit où coulent tes jours,</l>
+          <l>Où le travail, où les amours </l>
+          <l>Tour à tour enchantent ta vie.</l>
+          <l>Je me dirai : Pour être heureux,</l>
+          <l>Que faut-il? Très-peu de sagesse,</l>
+          <l>Peu de désirs, peu de richesse.</l>
+          <l> Peu de visiteurs ennuyeux;</l>
+          <l>Ne pas prodiguer sa tendresse,</l>
+          <l> N'avoir intrigue ni souci,</l>
+          <l>Et n'aimer dans ce monde-ci</l>
+          <l>Que deux amis et sa maîtresse.</l>
+        </lg>
+        <closer>
+          <salute/>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p>J'oubliais de te donner l'adresse du voyageur : à M. Aymon de Virieu, rue de Lille. n°
+            92. à Paris.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

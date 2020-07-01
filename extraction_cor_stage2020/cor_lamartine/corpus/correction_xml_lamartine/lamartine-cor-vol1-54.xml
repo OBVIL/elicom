@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-03-28" resp="author">28 mars 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-03-28">28 mars 1810.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Lyon, </placeName>
+            <date>28 mars 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Tu n'as guère le temps de m'écrire, mon cher ami ; je me contenterai donc pendant quelque
+          temps de petites mais de fréquentes preuves de ton souvenir, et je m'en dédommagerai en
+          l'écrivant moi-même bien longuement, car on a toujours le temps de lire une lettre, cela
+          me distrait et m'encourage même. Je ne sais si cela te fait le même effet : je ménage ce
+          plaisir-là, je le savoure, je veux que rien ne me trouble quand je lis une de vos épîtres.
+          Je choisis ordinairement l'heure où j'entre dans mon lit. Je me recueille et je rêve par
+          là-dessus.</p>
+        <p>Je passe ma vie ici avec des Anglais qui heureusement parlent très-bien français, car je
+          ne les entendrais presque pas, tant leur prononciation est difficile à saisir. Nous allons
+          faire de petits dîners de poëtes chez les différents traiteurs des environs, des
+          Brotteaux, de Saint-Just. Nous portons livres, crayons, papier, et, tandis que nous vidons
+          quelques bouteilles de bordeaux que ces messieurs aiment fort, leur verve et la mienne
+          s'échauffent ; nous parlons poésie, littérature, voyages, et griffonnons quelques
+          impromptus. La nuit nous prend quelquefois dans ces doux loisirs, dans ces charmantes
+          folies. Oh! que n'es-tu là, et que n'ai-je la maîtresse que je me crée! et je serais
+          heureux, oui heureux, comme on peut l'être en ce diable de monde ! L'un d'eux nous
+          montrait hier des vers anglais qu'il adressait à sa maîtresse qu'il avait laissée à
+          Florence ; ils sont délicieux en anglais et ont un certain moelleux, une certaine teinte
+          mélancolique qui ne peut guère se rendre en français. J'essayai cependant, à sa prière, de
+          les traduire tant bien que mal, et sur-le-champ. Les voici :</p>
+        <lg>
+          <l>Pense à moi lorsque tu soupires,</l>
+          <l>Alors que minuit sonnera,</l>
+          <l>Et crois-moi, l'amour entendra</l>
+          <l>Le soupir que l'amour inspire.</l>
+        </lg>
+        <lg>
+          <l>Pense à moi lorsque de tes yeux</l>
+          <l>Couleront des pleurs pour l'absence,</l>
+          <l>Quand pour invoquer l'espérance</l>
+          <l>Tu baisseras ton front pieux ;</l>
+        </lg>
+        <lg>
+          <l>Et si quelque songe volage</l>
+          <l>Te retrace un doux souvenir,</l>
+          <l>Oh! que l'amour et le plaisir</l>
+          <l>S'offrent à toi sous mon image !</l>
+        </lg>
+        <p>On voit que c'est une traduction. C'est un peu tiré, parce que j'ai voulu être
+          très-fidèle et traduire à la lettre et au vers. Il en fut cependant assez content ainsi
+          que mon maître.</p>
+        <lg>
+          <l>Enfants trop négligés d'une aimable paresse,</l>
+          <l>Coulez, coulez mes vers, plus faciles, plus doux;</l>
+          <l>Apprenez de l'amour à célébrer l'ivresse,</l>
+          <l>Peut-être enfin m'aiderez-vous</l>
+          <l>A chanter ma propre tendresse !</l>
+          <l>Tout me parle d'amour, de tourment, de douceur;</l>
+          <l>Puissante volupté, tout ressent ton empire !</l>
+          <l>On aime, on brûle, on se plaint, on soupire,</l>
+          <l>Des larmes on passe au bonheur ;</l>
+          <l>Tout, en un mot, semble me dire :</l>
+          <l>Ah ! sors enfin de ta langueur !</l>
+        </lg>
+        <lg>
+          <l>Si je vois Parny sur ma table,</l>
+          <l>Je l'ouvre, et quelques pleurs s'échappent de mes yeux ;</l>
+          <l>Quand je l'entends peindre des feux,</l>
+          <l>Dignes de l'amour ou du diable,</l>
+          <l>Je dis : Tous qui fûtes ses dieux,</l>
+          <l>Tendre amour, doux plaisir, qui l'inspirez encore,</l>
+          <l>Donnez-moi de sa voix l'accent mélodieux,</l>
+          <l>Mais surtout .. une Éléonore!</l>
+        </lg>
+        <p>Ne crains point, mon cher ami, qu'un autre usurpe la place dans mon coeur. Ce jeune homme
+          dont je te parle n'est qu'un bien aimable garçon, rempli d'assez, de moyens, mais personne
+          ne me sera jamais ce que Virieu et toi vous m'êtes.</p>
+        <p>Notre vaudeville en reste là. Je viens de déjeuner avec un autre original, amateur comme
+          nous de vieux livres ; nous avons couru les bouquinistes, ce qui nous arrive souvent
+          ensemble, et nous faisons de temps en temps d'assez bonnes.moissons. Quelques vieux
+          auteurs grecs, latins, anglais, italiens, gaulois, tout nous est bon, pourvu que cela ne
+          soit pas cher.</p>
+        <closer>
+          <salute>Adieu, aime-moi toujours comme je t'aime. Je suis de nouveau ruiné pour avoir
+            prêté de l'argent à Dupuis, à Rivat, à mon maître d'anglais. Personne ne me rend un sol.
+            Nous combinerons cependant ce voyage qui me tient tant au coeur, si cela se peut.
+            Adieu.</salute>
+          <signed>ALPHONSE DE LAMARTINE</signed>
+        </closer>
+        <postscript>
+          <p>Chez M. Roland, traiteur, rue de l'Arsenal, 24.</p>
+        </postscript>
+        <epigraph>
+          <quote><l>. . . Fuge magna ; licet sub paupere tecto </l><l>Reges et regum vita
+              praecurrere amicos.</l></quote>
+          <bibl>Horace.</bibl>
+        </epigraph>
+      </div>
+    </body>
+  </text>
+</TEI>

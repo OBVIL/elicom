@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1807-10-03" resp="author">3 octobre 1807</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1807-10-03">3 octobre 1807</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon, </placeName>
+            <date>3 octobre 1807.</date>
+          </dateline>
+          <salute>Mon cher ami,</salute>
+          <!-- Je mets mon cher ami dans le salute même si en soit c'est sur la même ligne que le reste. 
+            Choix d'encodage déterminé avec Arthur. -->
+        </opener>
+        <p> il est minuit ; tout le monde dort dans la maison, moi seul je veille, et c'est pour
+          t'écrire; ainsi juge si je t'aime et si j'ai du plaisir à m'entretenir avec toi. Ta lettre
+          que j'ai reçue ce matin m'a fait le plus sensible plaisir: je vois que tes occupations
+          ressemblent beaucoup aux miennes et que les plaisirs sont aussi les miens.</p>
+        <p>Je viens de passer une semaine charmante chez une de mes tantes à la campagne. Il faisait
+          un très-vilain temps, mais la lecture nous a dédommages de tout le reste. Nous lisions
+          tous les jours une ou deux tragédies, et autant de comédies. J'ai relu Mérope, Zaïre,
+          Iphigéme, Phèdre, Alzire, avec un nouvel intérêt ; et les pièces de Molière, de Regnard,
+          de Graffigny et de plusieurs autres m'ont beaucoup amusé. Il y avait dans notre société un
+          homme qui lisait très-bien, qui ajoutait un nouveau charme à nos lectures et qui en même
+          temps me formait par son exemple.</p>
+        <p>Je suis venu aujourd'hui à la ville, où, malgré mes grandes occupations, j'ai trouvé le
+          temps de lire un ouvrage de madame Cottin, Elisabeth ou les Exilés de Sibérie, que j'ai
+          trouvé assez bien écrit et où l'on ne peut puiser que de beaux sentiments d'amour filial.
+          J'ai quelque envie d'aller un de ces jours voir Corcelette, si j'en puis trouver le temps,
+          ce qui est difficile.</p>
+        <p>Je retournerai très-vraisemblablement à Belley cette année, et ce qui m'y consolera,
+          comme je te l'ai déjà dit, ce sont les douceurs de l'amitié et la sincérité de la nôtre.
+          Malheureusement pour moi, je ne peux guère avoir d'occasion d'aller à Crémieu, mais, mon
+          cher ami, un commerce suivi de lettres réciproques me dédommager a de ton absence. J'ai un
+          plaisir infini à recevoir les tiennes ; il est si doux de savoir qu'on a dans le monde un
+          ami qui pense à nous ! Je ne sais pas si on vit ou si on est mort à Belley ; je n'ai reçu
+          aucune lettre de personne de ce pays-là. Je pense que l'on ne s'y divertit pas beaucoup,
+          et je l'avouerai que je repousse, autant que je peux, toutes ces idées de collége pendant
+          les vacances, je n'ai pas besoin d'anticiper sur mes ennuis avenir. " Sufficit dieimalitia
+          sua. » Mande-moi cependant quand tu comptes y retourner. Je vois fort peu de jeunes gens
+          ici, et je n'ai affaire qu'à des personnages âgés et raisonnables. Si le plaisir n'est pas
+          toujours de leur côté, la raison et la sagesse y sont. Je m'aperçois que je suis déjà
+          verbeux comme les vieilles gens. Ainsi je finis mon épître en t'embrassant de tout mon
+          coeur. Aussi bien il est tard, ma main se fatigue, mes yeux s'appesantissent, et, pour peu
+          que je tarde, je ne saurai plus ce que je dis.</p>
+        <closer>
+          <salute>Adieu donc, je vais me coucher et je profite du peu de bon sens qui me reste pour
+            te dire que je me crois le plus sincère et le meilleur de les amis,</salute>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

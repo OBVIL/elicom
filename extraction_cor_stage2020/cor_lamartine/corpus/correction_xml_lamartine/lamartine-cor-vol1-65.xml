@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-08-30" resp="author">30 août 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-08-30">30 août 1810</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon,</placeName>
+            <date>30 août 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je t'ai écrit une lettre immense avant-hier avec un tas de mauvais vers. Heureusement je
+          l'ai oubliée hier à la campagne en venant ici, et, comme je ne veux pas que tu puisses
+          m'accuser de la moindre négligence ni me priver d'une de tes lettres (qui sont mon unique
+          consolation), je t'écris ces deux mots avant de remonter en voiture.</p>
+        <p>Tu as probablement reçu mon avis sur notre voyage d'Italie. Décide en dernier ressort ;
+          mais je ne pourrais pas absolument passer cent louis ou mille écus. Je suis toujours
+          solitairement à la campagne et content de mon application. Je traduis de l'anglais, je
+          travaille au premier chant du poëme des Quatre Ages. Le premier chant est un peu avorté,
+          je m'en aperçois. Je le trouve cependant quelquefois passablement versifié. Je t'envoyais
+          des échantillons dans ma lettre d'avanthier pour avoir ton avis. C'est en vers de dix
+          pieds. Mon projet est de l'envoyer aux Jeux floraux à Toulouse, comme morceau détaché,
+          comme poëme pour la violette; mais tu dois penser que sans ton avis, tes conseils et des
+          corrections, je ne ferai rien ou je travaillerai à autre chose. Je t'en enverrai des
+          fragments bientôt. La Harpe est sur ma table, il m'encourage, il me retient, il me rend
+          sage malgré moi. Plus j'avance, plus je l'estime, ce La Harpe. Comme c'est bien pensé,
+          bien raisonné, bien écrit, sans pointes, sans affectation, sans mignardise ! C'est un bon
+          maître en littérature, comme Montaigne en philosophie.</p>
+        <p>As-tu lu l'ouvrage de M. Aimé Martin, Lettres en vers à Sophie? Je connais l'auteur et
+          j'emporte l'ouvrage.</p>
+        <p>Un voyage qui me séduirait, ce serait un voyage en Suisse ou en Italie, en prose et en
+          vers, mais un peu plus étendu que tout ce que nous avons dans ce genre; qu'en dis-tu? Mais
+          parlons de mon morceau sur l'enfance : en veux-tu quelques vers esquissés hier au soir sur
+          l'éducation? </p>
+        <lg>
+          <l>Qu'ai-je aperçu? Quel Raphaël novice</l>
+          <l> A sur ces murs crayonné cette esquisse,</l>
+          <l>Et retracé sous son heureux pastel</l>
+          <l>Le temple antique ou le toit paternel ?</l>
+          <l>Sa main déjà suit un art qu'elle ignore,</l>
+          <l>Aucune loi ne la dirige encore</l>
+          <l>Et cependant je vois dans ce lointain</l>
+          <l> L'objet moins grand fuir mon oeil incertain,</l>
+          <l>L'arbre plier sous le poids qui le presse,</l>
+          <l>Et ces ruisseaux errer avec mollesse.</l>
+        </lg>
+        <lg>
+          <l>Enfants des arts, ces précoces talents</l>
+          <l>Ne sont encor que des germes naissants :</l>
+          <l>Cultivez-les, secondez la nature ;</l>
+          <l>L'homme n'est rien ou languit sans culture.</l>
+          <l>Avez-vous vu-dans l'atelier bruyant</l>
+          <l>Le marbre informe, arrondi savamment,</l>
+          <l>Perdre bientôt sa dureté première,</l>
+          <l>Vénus enfin naître d'un bloc de pierre?</l>
+          <l>Avez-vous vu l'artiste ingénieux</l>
+          <l>Dont le pinceau, fier de tromper nos yeux,</l>
+          <l>Fixe à la fois sur la toile étonnée</l>
+          <l>Des fleurs, des fruits, doux présents de l'année ?</l>
+        </lg>
+        <lg>
+          <l>Ce n'est d'abord qu'un mélange confus</l>
+          <l>De tons brisés, d'essais interrompus,</l>
+          <l> De traits divers un informe assemblage,</l>
+          <l>Et de couleurs un bizarre alliage.</l>
+          <l>Bientôt sa main débrouille ce chaos</l>
+          <l> Et, par des tons mariés à propos,</l>
+          <l>Elle adoucit, renforce, éteint, colore</l>
+          <l>Le vernis coule et la fleur vient d'éclore !</l>
+          <l>Tel, avec art, un guide intelligent</l>
+          <l>Forme, adoucit, les moeurs de l'homme enfant,</l>
+          <l>De ses défauts se sert avec adresse,</l>
+          <l>Par l'amour-propre éveille la paresse,</l>
+          <l>Par l'intérêt ranime le désir,</l>
+          <l>Ou le conduit par l'attrait du plaisir.</l>
+        </lg>
+        <lg>
+          <l>Heureux celui qui dans le premier âge</l>
+          <l>Reçut des dieux ce maître habile et sage !</l>
+          <l>Que de talents par cet oubli du sort</l>
+          <l>Sont en naissant condamnés à la mort !</l>
+          <l>Peut-être ici dans un oubli stérile</l>
+          <l>Dort un rival d'Homère ou de Virgile,</l>
+          <l>Qui n'a jamais fait rendre sous ses doigts</l>
+          <l>Que des sons durs au chalumeau des bois !</l>
+          <l>Peut-être ici végète sous le chaume </l>
+          <l>L'appui, l'éclat, le vengeur d'un royaume,</l>
+          <l>Jeune César dont le fer inhumain</l>
+          <l>N'arma jamais la généreuse main;</l>
+          <l>Et là peut-être un Caton sans mémoire</l>
+          <l>Vit sans éclat, succombera sans gloire ! etc.</l>
+        </lg>
+        <p>Dis-moi, à vue d'oeil, ce que tu penses de tout cela, et figure-toi un morceau de trois
+          ou quatre cents vers et plus dans ce genre-là à peu près. Cela retouché, corrigé, diminué,
+          augmenté, serait-il digne de concourir pour l'églantine ou la violette? Mon projet est de
+          finir par un épisode : Bélisaire et son petit enfant. Ton avis et quelques morceaux à
+          insérer là dedans.</p>
+        <closer>
+          <salute>Adieu. Es-tu en mer?</salute>
+          <signed>ALPH. DE LAM.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

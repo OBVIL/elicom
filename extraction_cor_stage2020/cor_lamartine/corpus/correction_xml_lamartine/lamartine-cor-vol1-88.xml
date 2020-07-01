@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1811-12-28" resp="author">28 décembre 1811</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1811-12-28">28 décembre 1811</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Naples, </placeName>
+            <date>28 décembre 1811.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Hier je reçois ta lettre, datée de Turin : j'espère que tu m'annonces ton arrivée
+          prochaine ici ou à Rome, et je vois encore cette maudite fièvre quarte qui te relient pour
+          je ne sais combien de temps dans la plus insignifiante ville de toute l'Italie. C'est ta
+          faute aussi. Pourquoi n'as-tu pas pressé davantage ton départ ? pourquoi passer à
+          Grenoble, séjourner à Lemps, perdre du temps ? Tu serais déjà près de moi ; je te
+          soignerais, et il faudrait que cette fièvre fût bien maligne pour résister à nos efforts
+          réunis. Mais pourquoi le gronder, n'es-tu pas déjà assez à plaindre ! Je le suis autant
+          que toi, et ce retard me chagrine peutêtre davantage.</p>
+        <p>Il y a un mois que je suis établi à Naples ; j'y étais venu pour huit jours et peut-être
+          y suis-je encore pour deux mois, pour tout le gros hiver, qui ressemble ici au plus
+          charmant printemps. Tout cela dépend en grande partie de loi, de ta marche. Si tu arrives
+          tout de suite, je t'attends ici, pour repartir ensuite avec toi pour Rome où tu ne feras
+          que passer. Si tu t'arrêtes bêtement à Florence, à Livourne, tout est perdu. Nous ne nous
+          voyons pas ou presque pas, et j'en ai besoin. Je veux passer avec toi des journées tête à
+          tête sans tiers aucun : tout est importun entre deux amis comme entre deux amants.</p>
+        <p>Je t'ai écrit deux ou trois fois d'ici ; j'ai adressé mes lettres à Bologne, à Florence,
+          je ne sais où. Écoute-moi, mon ami : Turin, Gênes, Livourne. Florence même, tout cela
+          n'est pas de l'Italie. Tu ne la trouveras qu'à Rome, à Rome et à Naples. Tu regretteras
+          tout le temps perdu ailleurs : il n'y a que Rome et Naples dignes d'un curieux et d'un
+          homme qui sait voir et sentir. Viens-y vite.</p>
+        <p>Sais-tu que. dans ma belle indifférence, j'étais tenté de ne pas venir à Naples: j'aurais
+          perdu le plus beau spectacle du monde entier qui ne sortira plus de mon imagination.
+          J'aurais manqué ce qu'il y a de plus intéressant en Italie pour une tête faite comme la
+          nôtre. Les mots me manqueraient pour te décrire cette ville enchantée, ce golfe, ces
+          paysages, ces montagnes uniques sur la terre, cet horizon, ce ciel, ces teintes
+          merveilleuses. Viens vile, te dis-je, et tu crieras plus haut que moi.</p>
+        <p>Je suis solitaire, je vis seul, partout seul, avec mon domestique et un guide. Je suis
+          monté seul au Vésuve, j'ai déjeûné seul dans l'intérieur du cratère, je suis allé seul à
+          Pompéï, à Herculanum, à Pouzzoles, partout ; demain je vais seul à Baïa. Ah ! que n'es-tu
+          ici ! Pourquoi le ciel a-t-il refusé à mes prières un compagnon tel que toi ? Mais je me
+          soumets et me tais. Respectons les décrets de cette Providence inconnue que je cherche
+          toujours et que je crois sentir quelquefois, surtout dans le malheur. Qu'en penses-tu
+          ?</p>
+        <p>Je me trouve en ce moment-ci sans le sol et avec des dettes à Naples. Je ne pourrais pas
+          en partir, si je ne trouvais pas ici une âme charitable qui eût la complaisance de me
+          prêter quelques ducats. Je ne sais trop si je les trouverai. Je m'endors là-dessus et fais
+          une dépense de fol, en attendant. Tu ne saurais croire à présent à quel point je porte
+          l'insouciance et l'imprévoyance partout, c'est l'air du pays : je deviens un vrai
+          lazzarone. J'ai gagné enfin le sommet élevé du haut duquel je vois tout sans que rien
+          m'atteigne. Je dors : j'oublie le beau toscan, le majestueux romain, je parle napolitain,
+          c'est une autre langue ; je ne fais rien, rien du tout, je lis à peine des bêtises que
+          j'ai lues cent fois ; je ne vais ni dans la société ni même aux théâtres ; je ne suis plus
+          qu'un lourd composé de paresse, de mollesse, de fierté et de petitesse : ça m'est
+          égal.</p>
+        <p>Tu seras, j'espère, à Gênes quand cette lettre t'arrivera. Pars tout de suite, viens à
+          Rome et tout de suite à Naples. Nous nous arrangerons pour passer au moins un bon mois
+          ensemble. Mon adresse ici est à M. Al. de Lamartine, chez M.Duchaliot, banquier, strada di
+          Chiaja, ou bien à Rome toujours chez Bertarelli.</p>
+        <closer>
+          <salute>Adieu, je t'embrasse et suis à jamais ton meilleur ami.</salute>
+          <signed>A. DE LAM.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

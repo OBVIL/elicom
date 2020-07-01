@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1809-09-15" resp="author">15 septembre 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1809-09-15">15 septembre 1809.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon,</placeName>
+            <date>15 septembre 1809.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ma foi ! mon cher ami, je viens de faire une découverte ou plutôt une connaissance
+          charmante. Il m'est tombé hier entre les mains un petit volume intitulé : Poésies de
+          Marguerite Eléonore Clotilde de Surville. Ce sont des poésies gauloises dune femme jusqu'à
+          présent inconnue, et dont les manuscrits, vrais ou faux, ont été récemment mis au jour. Je
+          ne t'en parlerai pas de sang-froid, parce que je suis transporté. Comment ! dans un siècle
+          de la plus profonde ignorance, une femme, qui ne sortit jamais de son châtel gothique,
+          a-t-elle pu faire des choses qu'à mon avis ni Tibulle ni qui que ce soit ne pourrait
+          trouver indignes de lui ? Tu trouveras infailliblemeut cela à Grenoble. Prends-le et lis ;
+          mais, en attendant, je veux me donner le plaisir de t'en donner l'avant-goût. Une héroïde
+          à Bérenger, son mari (jeune et beau chevalier qui suivait Charles VII), une vingtaine de
+          rondeaux ou ballades, une espèce de poëme en quatre petits chants sur les saisons, des
+          élégies, des stances et le conte des Trois plaids d'or, qui n'est autre que celui des
+          trois manières de Voltaire, et qui a dans ce style naïf une grâce infinie ; voilà
+          l'ouvrage. Tu jugeras de l'exécution de tout cela, mais je veux m'amuser à le citer un peu
+          à tort et à travers ce qui m'a le plus fait de plaisir; l'embarras est de choisir. Écoute
+          quelques stances adressées à son premier-né :</p>
+        <lg>
+          <l>« Bel amy, cher petiot, que ta pupille tendre</l>
+          <l> Gouste ung sommeil qui plus n'est fait pour moy !</l>
+          <l>Je veille pour te veoir, te nourrir, te defendre...</l>
+          <l>Ainz qu'il m'est doulx ne veiller que pour toy !</l>
+        </lg>
+        <lg>
+          <l>Estend ses brasselets ; s'espand sur lui le somme ;</l>
+          <l>Se clost son oeil, plus ne bouge.... il s'endort...</l>
+          <l> N'estoit ce tayn floury des couleurs de la pomme,</l>
+          <l>Ne le diriez dans les bras de la mort?...</l>
+        </lg>
+        <lg>
+          <l> Arreste, cher enfant!... J'en frémy toute engtière !...</l>
+          <l> Reveille-toy ! chasse ung fatal propos !... </l>
+          <l>Mon fils!...pour ung moment... ah! revoy la lumière!</l>
+          <l>Au prilx du tien, rends-moy tout mon repos !...</l>
+        </lg>
+        <lg>
+          <l>Doulce erreur ! il dormoit... c'est assez, je respire ;</l>
+          <l> Songes légiers, flattez son doulx sommeil! » etc.</l>
+        </lg>
+        <p>Écoute cette fin du Chant d'amour en hiver. Elle parle de Bérenger absent :</p>
+        <lg>
+          <l>Et maintes fois, durant ces longues nuicts,</l>
+          <l>Du sombre Arcas quand oy bruyr les tempestes,</l>
+          <l>Ou que d'Oryon tombent les froids torrents,</l>
+          <l>Que toictz, battus de cent coulps différents,</l>
+          <l>Semblent aller s'escroulant sur nos testes :</l>
+          <l>« Où porte-t-il, me dis, ses pas errants? etc., etc. »</l>
+        </lg>
+        <p>Quelquefois elle est maligne ; dans son conte, elle décrit l'ordre de l'auditoire ainsi
+          :</p>
+        <lg>
+          <l>Juges estoient rangés, et d'ugne et d'aultre part.</l>
+          <l>Seyoient ici mamans, en toges violettes,</l>
+          <l>Sévères, sans pitié, plaignantes du vieulx temps ; [lettes.</l>
+          <l>Grognoient, ainz par meschief , tousjours grognoient seu-</l>
+          <l>Viz à viz, sous couleur des rozes du printemps,</l>
+          <l>Coytement soubrioient gentilles bachelettes, etc.</l>
+        </lg>
+        <closer>
+          <salute>Adieu, comment trouves-tu cela? Mais il faudrait presque tout citer. Nous
+            parlerons de nos affaires une autre fois.</salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

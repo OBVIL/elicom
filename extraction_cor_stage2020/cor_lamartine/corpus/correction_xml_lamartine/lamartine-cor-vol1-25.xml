@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1809-02-19" resp="author">19 février 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1809-02-19"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâçon, </placeName>
+            <date>19 février 1809.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Me voici arrivé à bon port, mon cher ami, et, sitôt que j'ai eu une plume taillée et de
+          l'encre dans mon écritoire, je me suis mis à t'écrire. Je suis sûr que tu n'aurais pas été
+          aussi fidèle à ta promesse que moi.</p>
+        <p>Je suis parti le même jour que toi. Je passai encore la veille ma soirée aux Célestins où
+          je m'ennuyai passablement. J'espérais à tout moment t'y voir arriver, mais je n'y trouvai
+          que Douglas, et j'en sortis de bonne heure. Mon voyage a été fort heureux, et on a une
+          certaine considération pour un jeune homme qui a été passer son hiver dans une grande
+          ville; on le croit blasé sur tout, et puis cela donne une contenance, une consistance, une
+          noble hardiesse, qu'en dis-tu?</p>
+        <p>Je vais à présent passer mon carême au travail et dans une grande tranquillité, et faire
+          tous mes efforts pour faire mon cours de droit l'année prochaine; je ne sais si je
+          l'obtiendrai, mais je ne veux pas absolument rester oisif.</p>
+        <p>Je suis à réfléchir ce qu'il faut que j'entreprenne à présent. Poésies, traductions,
+          prose, histoire, tout cela me demande la préférence. Je ne sais à qui répondre.
+          Conseille-moi, sans quoi je dirais comme mademoiselle Houdart :</p>
+        <p>Pour moi je fais un peu de tout.</p>
+        <p>A propos de mademoiselle Houdart, elle nous débita le jour que tu n'y étais pas un
+          couplet de façon lyonnaise. Il est si beau, si joli que je l'ai quasi retenu. C'etait pour
+          annoncer une représentation le lendemain à son bénéfice :</p>
+        <p>Messieurs,</p>
+        <lg>
+          <l>A mon bénéfice, demain,</l>
+          <l> Vous saurez que l'on représente </l>
+          <l>D'abord la Cloison, puis soudain </l>
+          <l>Arlequin, pièce extravagante. </l>
+          <l>Vous verrez sortir de l'enfer </l>
+          <l>Une fille vraiment aimable, </l>
+          <l>Et chacun doit, le fait est clair, </l>
+          <l>Pour voir la fille de l'enfer, </l>
+          <l>Accourir ici comme un diable. </l>
+        </lg>
+        <p>Eh bien, est-ce pas bien tourné? Douglas a crié bis, elle est revenue le répéter. Voilà
+          pourquoi je le sais si bien.</p>
+        <p>Tu me pardonneras bien si cette lettre est un peu courte; j'en ai aujourd'hui une
+          douzaine à faire : à Guichard, à un oncle, à une simple connaissance, et j'ai, outre cela,
+          des visites à rendre. Pour loi, qui n'as rien de tout cela, je ne t'excuserai pas si tu
+          n'écris pas un peu plus fin.</p>
+        <closer>
+          <salute>Adieu, mes respects à ta mère. Réponds-moi tout de suite, que ça ne languisse pas
+            !</salute>
+          <signed>Le meilleur de tes amis, <lb/><name>ALPH. DE LAMARTINE.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

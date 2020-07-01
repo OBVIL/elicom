@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-03-11" resp="author">11 mars 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-03-11">11 mars 1810.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon, </placeName>
+            <date>11 mars 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <epigraph>
+          <quote>Nodo piu forte Fabricalo da noi, non dalla sorte.</quote>
+          <bibl>PÉTRARQUE.</bibl>
+        </epigraph>
+        <p>Comprends cela, si tu peux, mon cher ami, ou mets-toi en devoir de le comprendre.. C'est
+          bien tout ce que je peux faire moi-même, mais je le sens, et c'est encore mieux. Je suis
+          depuis deux jours occupé, au coin de mon feu, à lire la Nouvelle Héloïse, et voilà ce qui
+          m'attendrit et me fournil une épigraphe sentimentale ou sentimental, je ne sais lequel on
+          doit dire. Grands dieux ! quel livre! comme c'est écrit ! Je suis étonné que le feu n'y
+          prenne pas (c'est Pétrarque qui me fournit cette pointe). Je confesse que cela ne vaudrait
+          rien pour une jeune fille, il le dit lui-même, mais pour un jeune homme qui en est où nous
+          en sommes, c'est le meilleur livre que nous puissions lire, c'est celui qui est le plus
+          capable d'inspirer des sentiments nobles et vrais. Tâche de le découvrir au Grand-Lemps et
+          lis-le; tu ne t'ennuieras certainement pas, quoi qu'on en dise. La critique fait pitié
+          quand on lit une ou deux pages de feu. Je voulais me réserver la volupté que j'éprouve en
+          le lisant pour le temps où j'aurais été à la campagne, mais je n'ai pu modérer mon
+          impatience, et je suis au cinquième volume sans m'être arrêté un instant que pour te faire
+          part de mes jouissances. Je voudrais être, pendant que je le lis, amoureux comme
+          Saint-Preux, mais surtout je voudrais écrire comme Rousseau.</p>
+        <quote>Je chéris le héros, mais j'adore l'auteur!</quote>
+        <p>J'ai fait, en me réveillant ce matin, un fragment d'une épître pour toi, sur la lecture,
+          à l'occasion du livre susdit. Écoute :</p>
+        <p>Je me rappelle encore ces jours délicieux Où, d'un ordre prudent infracteur curieux,
+          Trompant l'oeil inquiet d'une craintive mère, Je rompais, pour le lire, une loi trop
+          sévère. La nuit favorisait mes coupables desseins, Et peut-être l'Amour riait de mes
+          larcins. A la pâle lueur d'une lampe tremblante, Je poursuivais longtemps ta lecture
+          touchante. En vain je refermais le volume attrayant, Par un charme nouveau je l'ouvrais à
+          l'instant. Souvent, à son lever, la diligente aurore Sur mon livre attaché me surprenait
+          encore ; Plus souvent, à regret, vaincu par le repos, Un sommeil importun me versait ses
+          pavots : Je ne le lisais plus, mais ma bouche oppressée Balbutiait toujours ta dernière
+          pensée.</p>
+        <p>Voilà du touchant et du sublime de sentiment, en cas de besoin !</p>
+        <p>Je tourmente pour ne pas rester ici à ne rien faire l'année prochaine. Il y a grande
+          apparence que je passerai deux ou trois ans à Dijon. Ne pouvant décider pour Paris, je me
+          rabats là-dessus : ce sera encore assez bon et assez joli ; et puis, une fois que je serai
+          dehors de l'ornière, que j'aurai ma petite pension annuelle, j'irai la manger où je
+          voudrai, et je commencerai par Paris.</p>
+        <p>Me voilà, à propos de pension, furieusement loin d'avoir un équipage, ni même une pauvre
+          et unique basse : tout ce que j'aurai d'assuré par an (soit dit entre nous) ne passera pas
+          dix-huit cents francs. Il est bien vrai qu'avec une bonne conduite j'aurai l'espoir de le
+          voir un peu s'augmenter dans la suite par mes oncles, etc. ; mais voilà à peu près sur
+          quoi je dois compter. Làdessus je calcule : sept cents francs pour ma nourriture et ma
+          chambre à Dijon ; je me fournirai de bois et je serai passablement nourri, à ce qu'on dit,
+          dans une pension, pour ce prix-là; le reste sera pour mes habits et plaisirs. Mais je
+          forme encore le beau projet d'économiser 4 ou 300 francs par an pour voyager un peu dans
+          quatre ou cinq ans. Mon linge n'est point à ma charge, et, ayant en partant un fonds de
+          garderobe passable, je peux m'entretenir pour cent écus, quelquefois même un peu moins.
+          Vois ce qui me reste pour mes besoins imprévus et pour mon économie. Dis-moi ton avis. Ne
+          ferais-je pas sagement, pendant que je serai-là près de mon oncle et de mes parents, ayant
+          bien modestement de quoi aller, de songer un peu à nos courses à venir ? Tu les feras plus
+          grandement que moi, mais je vois des jeunes gens, amateurs d'instruction et de voyages,
+          qui vont à peu près comme je veux aller. Et puis, quand on n'a plus rien, on revient chez
+          soi où on ne paie pas de pension, surtout quand on a tant d'endroits où aller passer
+          quelques mois.</p>
+        <p>C'est un cours de droit d'amateur que je vais: faire, ainsi que toi. On ne veut pas
+          absolument que je me mette dans la boutique. Instruisonsnous donc et soyons philosophes,
+          curieux, actifs, voyageurs, belles-lettrés etc., etc. ! Il y a encore des jeunes gens de
+          notre âge bien plus malheureux que nous trois, car Guichard n'aura pas d'autre jeunesse
+          que la nôtre. Si par malheur mon cours de droit à Dijon venait à rater pour l'année
+          prochaine, j'aurais toujours à peu près la même somme, et j'aurais ici la facilité d'en
+          économiser bien plus pour l'année suivante. Cependant j'irai manger vingt-cinq louis cet
+          hiver à Lyon. Ça ne me suffirait-il pas pour trois ou. quatre mois, étant logé? Une autre
+          année, je les déciderais très-vraisemblablement pour Paris. Que pensestu de tout cela?
+          Mais, dans tes avis, songe que je suis aux ordres de tout le monde, et apprendsmoi
+          seulement la manière de tirer parti de mes faibles ressources en tout genre. Fais-moi
+          aussi le détail de tes affaires et de tes espérances pour là jeunesse seulement. Je me
+          contenterai de ce que je le dis là pour mon compte.</p>
+        <closer>
+          <salute>Adieu. En voilà bien assez long. Je t'embrasse et suis pour la vie le meilleur de
+            tes amis,</salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. Je vais passer ma soirée à la Comédie. On donne la Reine de Golconde.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

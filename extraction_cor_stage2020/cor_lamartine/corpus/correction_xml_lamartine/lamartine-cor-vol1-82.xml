@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1811-10-13" resp="author  ">13 octobre [1811]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1811-10-13">13 octobre [1811]</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Livorno, </placeName>
+            <date>13 octobre.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je ne sais, mon cher ami, quelle fatalité arrête du tes lettres où les miennes : voilà la
+          troisième au moins sans réponse, et je commence sérieusement à être en peine ou de ta
+          santé ou de tes sentiments. Qui est-ce qui arrête ta plume? qui est-ce qui t'occupe si
+          fort que tu n'aies pas un instant à me donner, et que tu me laisses ainsi des mois
+          entiers, à trois cents lieues de toi, sans me donner signe de vie? En vérité je ne sais
+          que penser, et il me passe parfois d'étranges idées par la tête. Es-tu à Bienassis? es-tu
+          à Grenoble? es-tu à Aoste? Tes maux de poitrine sont-ils devenus plus sérieux ? Estu
+          malade? Es-tu mort ? Rassure-moi vite, je t'en prie, et ne mérite plus des reproches que
+          je suis vraiment assez fâché d'être obligé de te faire si souvent. C'est par cette maudite
+          négligence que les' amitiés les plus vives finissent non pas par s'éteindre, mais par
+          s'engourdir. La lame est toujours la même, mais la rouille la couvre et la défigure.
+          Prenons-y garde, mon cher ami, il viendrait des jours où nous nous en repentirions. Qu'un
+          peu de paresse ne l'emporte pas sur les plus vifs sentiments de notre âme! Je ne
+          souffrirai certainement pas que nous restions dans celle langueur, dans ce sommeil
+          d'amitié où tu es tombé avec Virieu ; je te réveillerai malgré toi, et j'aurai plus de
+          persévérance à demander que toi à refuser.</p>
+        <p>A propos de Virieu, sais-tu qu'il vient me joindre en Italie? Je l'attends ici
+          aujourd'hui ou demain. Mes premiers compagnons de voyage sont obligés de retourner déjà en
+          France, et je vais finir ce voyage charmant avec un de mes deux amis. Pourquoi ne
+          pouvons-nous pas le faire tous les trois ensemble! Mais j'espère toujours que cela pourra
+          venir et je ne renonce pas à mes plus jolis projets. Tu me crois sans doute bien heureux :
+          ô mon cher ami, tu ne sais donc pas ce que j'ai laissé en France ! tu ne sais donc pas que
+          toute espérance est morte dans mon coeur, et que, plus à plaindre que Saint-Preux, je
+          n'aurai connu pour toute ma vie qu'une passion sans aucune jouissance, et qui va me
+          précipiter dans un abîme sans fond, sans que j'aie seulement goûté une goutte de cette
+          félicité qui compense tout ! Je marche à présent sur d'étranges précipices, je m'endors un
+          moment sur les infortunes de toute espèce qui me menacent. Tu sauras dans quelque temps
+          quel réveil horrible m'attendait ! tu apprendras d'étonnantes aventures et tu me verras
+          plongé dans la misère et l'opprobre, et le tout pour avoir aimé ! et de la manière la plus
+          pure et la plus noble ! O hommes ! ô cruel empire de l'orgueil mal placé et des sots
+          préjugés qui nous égarent ! Mais il faudrait te voir pour le parler à mon aise de tout
+          cela. J'espère qu'à mon retour j'irai passer quelques instants à Grenoble, si tu y es
+          encore, ou à Bienassis.</p>
+        <p>Dès que Virieu sera arrivé, nous partirons ensemble pour Rome. Dieu sait combien nous y
+          resterons, combien nous courrons, combien nous travaillerons ! De là, nous irons à Naples
+          passer vraisemblablement une partie du carnaval. De là enfin je reprendrai ma route pour
+          ma chère et maudite ville, car je ne crois pas que l'amour et mes finances me permettent
+          de rester en Italie tout le temps qu'Aymon y passera. Voilà bientôt cinq mois que j'y
+          suis, et mon coeur saigne tous les jours d'être forcé à une aussi cruelle et aussi longue
+          séparation. Cependant, ne voyant dans mon retour que de nouveaux sujets de chagrin, sans
+          aucun rayon d'espoir, je le redoute autant que je le désire, et ne sais à quoi me
+          déterminer. Peut-être resterai-je avec lui, peut-être reviendrons-nous par Venise, Milan
+          et la Suisse, qu'il n'a pas eu le temps de parcourir, étant pressé de venir me trouver. Ne
+          pourrions-nous pas, au temps de notre retour, nous donner rendez-vous dans quelque ville
+          de Suisse, comme Lausanne ou une autre plus près, et là nous embrasser enfin tous les
+          trois?</p>
+        <p>T'ai-je mandé qu'en passant à Chambéry nous avions renoué avec le spirituel et malheureux
+          Vignet, qui vit là en vrai philosophe et qui ne peut manquer de devenir un jour un
+          Rousseau? T'ai-je mandé que nous avions visité les Charmettes ? t'en ai-je fait la
+          description ? Mais je crois que tu y es allé et que tu les connais mieux que moi. Pour des
+          descriptions d'Italie, je t'en apporterai un portefeuille bien garni, et nous nous
+          distrairons quelques soirées d'hiver à Bienassis. Toute ma pensée, à présent que je mène
+          une viesédentaire, est tournée du côté de l'italien : je travaille comme je n'ai jamais
+          travaillé de ma vie, et je fais d'assez grands progrès. Pardonne-moi si mon français n'a
+          pas le sens commun, je l'oublie entièrement, et je n'ouvre plus que des poëtes italiens.
+          Il faut bien que je me prépare des ressources pour le temps de l'adversité qui approche.
+          Qui sait à quoi je serai réduit ?</p>
+        <closer>
+          <salute>Adieu, mon cher ami, je t'aime toujours par-dessus tout, malgré tes torts et ta
+            froideur. J'espère que je n'aurai plus à m'en plaindre, et qu'en arrivant à Rome, j'y
+            vais trouver une longue lettre de toi.</salute>
+          <signed>AL. DE LAM.</signed>
+        </closer>
+        <postscript>
+          <p>A Rome, poste restante.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

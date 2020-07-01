@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1808-12-10" resp="author">10 décembre 1808</date>
+          <date when="1808-12-12" resp="author, editor">12 décembre [1808]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1808-12-10">10 décembre 1808</date>
+        <date when="1808-12-12">12 décembre 1808</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" part="I">
+        <opener>
+          <dateline>
+            <placeName>Mâcon,</placeName>
+            <date> 10 décembre 1808.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ne t'avais-je pas dit, mon cher ami, que je trouverais moyen de t'écrire plus longuement
+          encore que je ne l'ai fait jusqu'à présent, et ne t'effraies-tu pas à la vue de cet énorme
+          papier? J'en ai peur. Je t'avais répondu plus tôt, et je n'avais pas trouvé encore à
+          mettre ma lettre à la poste, elle s'était d'ailleurs salie dans mon portefeuille, aussi je
+          me suis déterminé à la recommencer; tu en seras quitte pour en avoir plus long à lire. Je
+          commence par l'épigraphe, la voici impromptu :</p>
+        <lg>
+          <l>Hélas! je ne demande aux dieux</l>
+          <l>Qu'un bon ami, qu'un peu de gloire...</l>
+        </lg>
+        <p>Me voici enfin arrivé à Mâcon. J'ai pris possession de ma chambre, qui est fort retirée
+          et qui doune sur un petit jardin; j'ai allumé mon feu, j'ai approché ma table, j'ai
+          préparé toute ma nombreuse famille de plumes, de canifs, de crayons, et j'ai placé en
+          évidence sur ma cheminée Horace, Boileau, une grammaire italienne et La Harpe. Et c'est
+          toi qui as les prémices de mes travaux ou plutôt de mes plus grands plaisirs, car je
+          renonce encore cet hiver à tout le train du monde, comme dit Montaigne; je vais vivre
+          seul, retiré et travaillant sérieusement. Je veux profiter de l'ennui que j'éprouve, sans
+          connaissances et sans amis, et mettre à profit ma jeunesse et ma solitude. Je sens un
+          redoublement d'amour pour l'étude, pour la littérature, la poésie et tout ce que tu aimes
+          autant que moi. Je te demande bien pardon des méchants vers impromptu que je t'envoie dans
+          toutes mes lettres; mais s'il m'envient en l'écrivant, je ne peux résister à l'envie de te
+          les écrire, et je suis obligé de dire comme Ovide :</p>
+        <l>La rime malgré moi se place au bout du vers.</l>
+        <p>A propos d'Ovide, j'ai retouché ces jours-ci à la susdite élégie, et je te l'envoie.
+          Auras-tu la bonté de m'en bien dire les fautes les plus grossières? Je n'avais point
+          d'Ovide, j'ai travaillé de mémoire, et la traduction est un peu trop libre des deux
+          manières; mais lis et brûle, je ne la montrerais pas à d'autres qu'à mes amis les plus
+          intimes. Écoute:</p>
+        <stage>— Parce juvenilibus. —</stage>
+        <lg>
+          <l>Phébus suivait sa carrière brûlante :</l>
+          <l>Sur un sopha mollement étendu,</l>
+          <l>Ivre d'amour, de désir éperdu,</l>
+          <l>L'oeil attentif, j'attendais mon amante. </l>
+          <l>Par mes volets faiblement entr'ouverts</l>
+          <l> Passait à peine une clarté légère</l>
+          <l>Semblable au jour que reçoit l'hémisphère</l>
+          <l>Lorsque, la nuit ne couvrant point les airs,</l>
+          <l>Phébus pourtant a fini sa carrière.</l>
+          <l>Offrez toujours cette douce lueur</l>
+          <l>A la beauté, vous verrez sa pudeur</l>
+          <l>Plus aisément céder à votre ardeur.</l>
+          <l>D'un tissu blanc avec grâce voilée,</l>
+          <l>Je vis Corinne arriver dans mes bras ;</l>
+          <l>Sa chevelure élégamment bouclée</l>
+          <l>Du plus beau sein me cachait les appas ;</l>
+          <l>Ainsi jadis cette reine infidèle, </l>
+          <l>Sémiramis;allait dans ses beaux jours</l>
+          <l>Vers ce boudoir témoin de ses amours ;</l>
+          <l>Ainsi Laïs, si coquette et si belle,</l>
+          <l>Jamais, dit-on, n'avait d'autres atours ;</l>
+          <l>J'allais ôter la gaze transparente, </l>
+          <l>Dernier obstacle à mes brûlants désirs,</l>
+          <l> Elle rougit; une pudeur piquante </l>
+          <l>Pour les doubler disputa mes plaisirs.</l>
+          <l> Pourtant bientôt elle se vit vaincue,</l>
+          <l>A mes côtés elle demeura nue....</l>
+          <l>Pieds délicats, délicieux contours,</l>
+          <l>Appas, formés pour les jeux des amours,</l>
+          <l>Trésors secrets, et que je n'ose dire,</l>
+          <l>Je vous ai vus, mais comment vous décrire?</l>
+          <l>Contre mon sein, sur mon coeur palpitant</l>
+          <l>Je presse enfin le sein de ma Corinne.</l>
+          <l>J'en ai trop dit, pour le coeur d'un amant</l>
+          <l>J'en ai trop dit; le reste se devine...</l>
+          <l>O toi qui vis mon bonheur d'un moment,</l>
+          <l>Témoin discret du feu qui me dévore,</l>
+          <l>Entre les bras de celle que j'adore</l>
+          <l>Reviens, Soleil, me surprendre souvent !</l>
+        </lg>
+        <stage>Envoi impromptu.</stage>
+        <lg>
+          <l>Ovide ainsi célébrait sa victoire.</l>
+          <l>Mais, entre nous, il était imprudent :</l>
+          <l>Tout bel esprit, pour être heureux amant,</l>
+          <l>Doit à l'amour sacrifier la gloire.</l>
+          <l>Bien plus heureux, et surtout plus discret,</l>
+          <l> Quand tu vaincras le coeur d'une Corinne, </l>
+          <l>Ami, crois-moi, garde-lui le secret,</l>
+          <l> Ne le dis pas ; mais fais qu'on le devine.</l>
+        </lg>
+        <p>Ce n'est presque plus une traduction, et c'est ce qui fait que cela vaut peu de chose;
+          mais un peu d'indulgence, et cependant bien de la sévérité. La Harpe le veut, suivons ses
+          conseils; c'est ainsi que nous nous formerons l'un et l'autre. Si nous avons quelques
+          succès un jour, nous nous les devrons peut-être mutuellement. Qu'il nous serait doux de
+          partager ainsi notre gloire et notre amitié! c'est mon rêve habituel.</p>
+      </div>
+      <div type="letter" part="F">
+        <dateline><date>12 décembre.</date></dateline>
+        <p>Tout est changé, mon cher ami ; voilà tous mes projets renversés, mes espérances
+          flétries. En achevant avant-hier ma lettre, je fus chez mon oncle, tout tremblant qu'il ne
+          me parlât de mathématiques. J'avais bien raison de craindre, le premier mot qu'il me dit
+          fut pour m'ordonner de les recommencer encore celle année. J'eus beau faire mille et mille
+          observations, il me fit des menaces, et je sortis les larmes aux yeux de chez lui pour
+          venir chez mon père qui me tint à peu près le même langage. Juge de mon chagrin. Je pris
+          aussitôt la résolution de servir, pour voyager un peu, être plus libre et plus
+          indépendant. J'avais envie d'entrer dans la garde impériale, mais ma mère dit qu'elle en
+          mourrait de chagrin. Que faire? Je vais aujourd'hui parler à un maître, et je prendrai des
+          leçons en attendant que je me décide à quelque chose, mais je suis bien résolu à n'y pas
+          travailler du tout : plus on force mon goût et mon inclination là-dessus, plus elle se
+          porte vers autre chose. J'ai vu dans tous leurs discours que je ne devais pas m'attendre à
+          aller à Paris comme je le désirais tant, et c'est là ce qui me chagrine le plus; je suis
+          on ne peut pas plus triste et plus morne. Pour me distraire un peu, j'allai hier au soir à
+          la comédie voir un célèbre acteur de Paris qui donne ici quelques représentations. Cela ne
+          m'a nullement consolé, et je cherche à présent quelque douceur en le contant mes peines.
+          Mais tu ne les comprendras pas toutes : conseillemoi ou console-moi.</p>
+        <p>Virieu ne m'a pas écrit depuis plusieurs jours, je ne sais pas ce qu'il fait; en as-tu
+          des nouvelles? Adieu, je t'embrasse de tout mon coeur. J'aurais mille autres choses à le
+          dire, mais l'ennui m'absorbe. Crois-moi toujours ton plus tendre ami et sois toujours le
+          mien . Bien des choses à Tivolier, de Vence et Vignet.</p>
+        <closer>
+          <salute/>
+          <signed>ALPH. DE L.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. Ton quatrain impromptu est fort joli, à l'exception du dernier vers; il est un
+            peu dur et un peu trop travaillé, emplir est trop vieux, et tes épithètes me semblent un
+            peu vagues en général. Envoie-moi, je t'en prie, quelque chose de plus long de ta façon.
+            Travaille avec suite, cherche quelques sujets de poésie pour toi et en même temps
+            fournis-m'en quelques-uns. Je ne sais que faire. Adieu encore une fois. Réponds-moi bien
+            vite; j'ai besoin de tes lettres pour me faire supporter mes maux.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

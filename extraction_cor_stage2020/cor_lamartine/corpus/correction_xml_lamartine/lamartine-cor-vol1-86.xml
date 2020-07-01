@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1811-12" resp="author">décembre 1811</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1811-12">décembre 1811.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Napoli, </placeName>
+            <date>décembre 1811.</date>
+          </dateline>
+          <salute>Mon ami, </salute>
+        </opener>
+        <p>je suis à Naples. J'y suis venu dans le désir et l'espérance de n'y passer que
+          cinq à six jours, et voilà que je ne peux pas espérer d'en sortir au moins d'un grand
+          mois. Et toi, où es-tu? Vignet m'a mandé que tu étais en route, mais je n'ai pas eu
+          d'autres détails. Si tu reçois celle lettre, arrive tout courant à Naples. Nous aurons au
+          moins le plaisir de retourner ensemble à Rome. Là je l'embrasserai, je le souhaiterai un
+          heureux voyage, et je te quitterai vraisemblablement pour longtemps. Quelle fatalité nous
+          a poursuivis, mon cher ami ! Il faut qu'il y ait quelque grand dessein caché là-dessous.
+          Tu crois comme moi aux compensations, tu dois penser de même.</p>
+        <p>Tu ne verras rien au monde de plus beau que le golfe de Naples et de plus bruyant que
+          cette ville. Le Vésuve est en éruption depuis huit jours, exprès pour moi. J'y vais un de
+          ces jours.</p>
+        <closer>
+          <salute>Adieu, je t'adresse ces deux mots à tout hasard à Florence.</salute>
+          <signed>Ton ami in aeternum !</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

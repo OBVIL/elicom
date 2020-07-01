@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Alphonse de Lamartine</title>
+            <author>Alphonse de Lamartine</author>
+            <respStmt>
+               <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+                  direction d'Arthur Provenier</resp>
+               <persName>
+                  <forename>Lucie</forename>
+                  <surname>Slavik</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Obvil</publisher>
+            <date when="2020"/>
+            <idno/>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                  <p/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="de Lamartine, Alphonse (1790-1869)"
+                  ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+                  Lamartine</persName>
+               <date when="1812-11-17" resp="author">17 novembre 1812</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="de Virieu, Aymon (1788-1841)"
+                  ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="foo.xml"/>
+               <ref type="next" target="bar.xml"/>
+            </correspContext>
+         </correspDesc>
+         <creation>
+            <date when="1812-11-17">17 novembre 1812</date>
+         </creation>
+         <langUsage>
+            <language ident="fre"/>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <placeName>Mâcon, </placeName>
+                  <date>17 novembre 1812</date>
+               </dateline>
+               <salute/>
+            </opener>
+            <p>Je me presse de t'écrire pour que ma lettre te trouve encore à ce château de la Motte
+               et près de Vignet. Je te charge de lui faire mes adieux et les adieux les plus
+               tendres : qu'il ne nous oublie pas à une si grande distance de nous !</p>
+            <p>J'envie pour la première fois le sort de Fréminville. Il faut, mon ami, que nous
+               allions les joindre l'hiver prochain et les entraîner à Naples avec nous, si nous
+               pensons encore à Naples dans un an, si tu n'es pas marié, si je ne suis pas de mon
+               côté devenu fermier de mon père, dans un vieux château qu'il a dans les montagnes du
+               Charolais ; car voilà un nouveau projet qui m'occupe et que j'exécuterai si j'ai de
+               l'argent l'automne prochain. Cela pourra me donner de l'aisance; des chevaux, un
+               asile où te recevoir et passer des mois avec toi, et le goût d'une vie sédentaire et
+               occupée, du moins par des petits intérêts d'argent, faute de mieux.</p>
+            <p>Mon voyage à Paris va se trouver retardé d'un mois ou deux par le mariage d'une de
+               mes soeurs, qui se fera à la fin de janvier. Je n'ose pas m'en aller : cela serait
+               trop impoli pour le cher beau-frère qui est arrivé ici hier et à qui je suis forcé de
+               tenir fidèle compagnie. Cela me dérange. J'étais plongé dans mon Saül et dans une
+               épître à ioi, sur les sépultures, que j'ai commencée ces jours-ci; et puis je suis à
+               Mâcon pour une huitaine, et je ne peux vivre et composer qu'à la campagne ; et,
+               pardessus tout, je suis malade.</p>
+            <p>Écrivez-moi tous deux, et recommande bien à Vignet de m'écrire un peu longuement de
+               Rome.</p>
+            <closer>
+               <salute>Adieu ; j'ai si mal à la tête que la plume me tombe des mains. Adieu, je vous
+                  embrasse bien tendrement tous les deux.</salute>
+               <signed>AL. DE L. </signed>
+            </closer>
+            <postscript>
+               <p>Où faut-il t'écrire à présent ?</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

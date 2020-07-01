@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1808-09-10" resp="author">10 septembre 1808.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1808-09-10"> 10 septembre 1808.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon,</placeName>
+            <date> 10 septembre 1808.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p/>
+        <p>J'arrive aujourd'hui de Dijon, mon cher ami, et je viens de recevoir ta lettre. Je ne dis
+          rien de l'empressement avec lequel je l'ai lue et relue; c'est un lieu commun. Quelle
+          description charmante tu me fais de tes plaisirs ! avec quelle finesse tu te moques de moi
+          en me parlant de mes plaisirs et de mes grandeurs! Eh, mon Dieu! tu. m'as assez plaisanté
+          sur ma prétendue société brillante, etc. Ne croiras-tu pas une fois pour toutes que je ne
+          suis qu'un rustre, un paysan, un ours, un sauvage enterré dans ses bois ou dans son
+          cabinet, ce qui revient au même, ne voyant personne, n'ayant pas la plus légère teinture
+          de ce que tu appelles courtoisie ou bon genres?</p>
+        <p>Virieu m'a joué un tour indigne : il m'a exposé à plusieurs choses que je n'ai peut-être
+          pas évitées. Mais je m'en vengerai en l'embrassant à Bienassis, si je peux l'y trouver. A
+          propos, votre partie sera charmante et d'une gaieté et d'une cordialité indicibles. Ah!
+          que je voudrais pouvoir en être ! Tu es bien bon de m'y inviter, et certes je n'épargnerai
+          rien pour m'y rendre. Mande-moi le jour précisément où il faut arriver, où tout le monde
+          s'y trouvera. On ne m'accordera peut-être que peu de temps, au moins faudra-t-il que je
+          choisisse le jour où vous y serez tous. Quand nous aurons fait un bon dîner présidé par la
+          sagesse indulgente, que le vin de Condrieu aura réchauffé nos cervelles déjà trop chaudes,
+          que les bons mots auront eu leur libre cours et toutes espèce de méchanceté bannie, nous
+          trinquerons ensemble, nous boirons le dernier coup à la santé de la maîtresse du château,
+          nous nous embrasserons, et, si le bonheur n'est pas là, je me donne au diable. Je
+          craindrais cependant en réalisant ce projet d'abuser de la bonté de ta mère qu'une •telle
+          société pourrait ennuyer. Au reste, si cela va à bon port, j'irai par Ambérieux, et
+          mande-moi la route que je dois suivre depuis cet endroit-là. Si je te promets, je serai
+          exact à l'heure indiquée, et ce sera le premier moment de joie que j'aurai éprouvé depuis
+          six mois.</p>
+        <p>J'ai passé hier matin à Nuits et je fus embrasser Tisserandot. Il me reçut
+          très-fraîchement, ne m'offrit pas même à m'asseoir chez lui ou à déjeuner, ne me
+          reconduisit pas même à mon auberge. Mais fi d'une telle amitié que l'absence affaiblit
+          ainsi ! La mienne se ranime tous les jours. Je n'ai rien de bon, d'agréable à offrir, mais
+          si un de mes amis venait, je partagerais avec lui mon ermitage et ma table frugale ou je
+          jeûnerais un an pour le recevoir un jour. J'ai mille et une choses à te dire, le papier
+          n'y suffirait pas. C'est d'ailleurs un dangereux interprète, il nous trahit souvent.</p>
+        <closer>
+          <salute>Adieu, réponds-moi vite, je te porterai moi-même la réplique. Je t'embrasse
+              bien vite moi-même parce que je pars. Ma lettre n'est guère lisible, mais l'amitié a
+              de bons yeux.
+            </salute>
+          <signed>Le meilleur de tes amis,<lb/><name>ALPHONSE DE LAMARTINE.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

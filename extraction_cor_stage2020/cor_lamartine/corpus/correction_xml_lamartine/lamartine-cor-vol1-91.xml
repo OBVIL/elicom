@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1812" resp="editor">[1812]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1812">[1812]</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <date>Samedi à midi, </date>
+            <placeName>Florence.</placeName>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Comment te portes-tu, mon ami? Quel effet a produit l'ordonnance de M. Lupi ? Commence
+          par me répondre à ces deux questions-là, et adresse ta lettre poste restante à Genève ;
+          car je crois que je m'arrêterai là, si je ne trouve pas en route de réponse de mon père. A
+          mesure que je me rapproche, on me dit qu'il serait beaucoup plus prudent de m'éloigner.
+          Mon père pense peut-être de même. Enfin que sait-on? Je vais peut-être retourner à Rome,
+          tu sauras cela dans dix ou douze jours.</p>
+        <p>Je trouve une place, moi troisième, pour aller dans une bonne voiture à frais communs
+          jusqu'à Milan avec mon ancien compagnon de Naples. J'en profite. Nous devions partir cette
+          nuit pour Bologne, mais on vient de me faire dire que ce sera seulement pour demain. Dieu
+          en soit loué ! car je meurs de fatigue et j'ai même un peu de fièvre nerveuse. Ce sera du
+          moins une bonne nuit entre deux draps. Autant de gagné !</p>
+        <p>Les personnes que j'ai vues ici ce matin m'ont fait peur : elles m'ont trouvé changé,
+          maigre et jaune. Mais aussi, quel air je respire depuis hier ! comme il est pur et de bon
+          goût en comparaison de Rome et même de Naples ! Vraiment la vallée de Florence m'a ravi
+          pour la première fois.</p>
+        <p>Tu ne saurais croire combien je suis fâché que tu sois dans l'air épais de Rome avec une
+          fièvre comme la tienne. Prends donc du quinquina, je le répéterai cela comme l'Allez donc
+          à la messe de Démosthènes.</p>
+        <p>Sors-tu, fais-tu quelques connaissances ? M. de Fréminville t'a-t-il mené chez M. de
+          Tournon, ou restes-tu tristement à casa ? Ne sors guère à l'humidité du soir, parce
+          qu'enfin il faut en finir.</p>
+        <closer>
+          <salute>Je m'en vais dîner dehors, et je reviendrai me coucher de bonne heure. Adieu.
+            J'embrasse Fréminville et toi, de tout mon coeur. Je t'écrirai un mot de Milan. Les
+            finances ne sont pas encore trop altérées.</salute>
+          <signed>Adieu, ton ami,<lb/><name>A. DE L.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-03-03" resp="author">3 mars 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-03-03">3 mars 1810</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon, </placeName>
+            <date>3 mars 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <epigraph>
+          <quote><l>Heureux celui qui a un ou deux amis,</l>
+            <l> qui cultive les Muses </l>
+            <l>et se plait à la lecture des anciens !</l>
+            <l> Il ne s'ennuiera jamais.</l></quote>
+          <bibl>POPE.</bibl>
+        </epigraph>
+        <p>Tu vois d'après mon épigraphe que je lis Pope, et j'en suis on ne peut pas plus content.
+          Voilà un homme à qui je voudrais ressembler, bon poëte, bon philosophe, bon ami, honnête
+          homme, en un mol tout ce que je voudrais être. Je le préfère de beaucoup à Boileau pour
+          lapoésie. Quand pourrai-je le lire en anglais? J'ai tu ces jours-ci Fielding et
+          Richardson, et tous ces gens-là me donnent une furieuse envie d'apprendre leur langue. Je
+          crois vraiment la poésie anglaise supérieure à la française et à l'italienne; au reste,
+          j'en parle sans en rien savoir et sur des fragments de Dryden et d'autres.</p>
+        <p>Veux-tu décidément te mettre à l'italien? Je suis prêt à le tenir tête, et, sans ces
+          mathématiques maudites, je serais déjà habile. Ma haine contre Bezout et toute sa clique
+          ne peut plus croître, je ne sais pas où je voudrais les voir tous. Ce qu'il y a de pis,
+          c'est qu'il faut que je fasse bonne contenance, que j'aie l'air d'y mettre un intérêt
+          trèschaud, de les estimer infiniment, tandis que je suis persuadé et convaincu que celle
+          préférence universelle qu'on leur donne est la mort du goût, de la poésie, de la
+          littérature, de tout. Je sais bien que tu ne penses pas de même, mais tu verras ce qu'on
+          en dira dans deux ou trois cents ans. Faisons une gageure d'un déjeûner pour ce temps-là.
+          C'est une mode, une rage, une tyrannie : on veut que tout le monde n'ait qu'un esprit
+          machine. Mais on a beau faire, le diable m'emporte si jamais j'en sais un mot. Ne montre
+          ma lettre à personne, ma réputation serait perdue.</p>
+        <p>Ne t'ai-je pas parlé à Lyon d'un amour naissant qui avait eu son origine au bal ? J'en ai
+          rencontré le doux objet au milieu de la rue, en sortant le dernier soir de chez N... Tout
+          à coup je me trouvai nez à nez avec elle. Je fus stupéfait, et, quoiqu'elle fût à côté de
+          sa mère et de sa soeur, je ne pus m'empêcher tout naturellement de faire une exclamation
+          d'étonnement : Oh!!! Elle rougit, et je continuai ma route. Là-dessus, en rentrant, je fis
+          ces vers touchants :</p>
+        <lg>
+          <l>Je te reprends, Lyre fidèle,</l>
+          <l>Lyre, mes premières amours;</l>
+          <l>Si je t'oubliai qnelques jours,</l>
+          <l>La douleur vers toi me rappelle.</l>
+          <l>Hélas ! tu n'as encor chanté</l>
+          <l>Que le plaisir et la folie,</l>
+          <l>Et l'inconstance et la beauté,</l>
+          <l>EL ces peines que l'on oublie.</l>
+          <l>Mais c'en est fait ! charmante amie,</l>
+          <l>Quitte ta folâtre gaieté:</l>
+          <l>L'innocente tranquillité</l>
+          <l>A ton triste maître est ravie.</l>
+          <l>Apprends à te plaindre, à gémir.</l>
+          <l>A prier, à pleurer sans cesse :</l>
+          <l>Au nom charmant d'une maîtresse,</l>
+          <l>Comme une autre apprends à frémir !</l>
+        </lg>
+        <p>Tu me parles du prix de l'Académie de Mâcon. Veux-tu le faire de moitié? nous resterons
+          anonymes, si cela nous plaît. Si nous gagnons, nous nous nommerons. Qu'en dis-tu? ça
+          t'inspire-t-il? Non, pas beaucoup. Réfléchis dans ta sagesse et nous prendrons nos
+          mesures.</p>
+        <closer>
+          <salute>Adieu, mon cher ami.</salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

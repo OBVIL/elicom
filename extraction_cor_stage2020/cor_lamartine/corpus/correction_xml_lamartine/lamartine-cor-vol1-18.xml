@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1808-11-28" resp="author">28 novembre 1808.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1808-11-28">28 novembre 1808</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Milly, </placeName>
+            <date>28 novembre 1808.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <lg>
+          <l>Il n'en est plus, mon ami, de Julie,</l>
+          <l>Il n'en est plus, hélas ! que dans ton coeur.</l>
+          <l>Ainsi que moi, renonce à ton erreur;</l>
+          <l>A la poursuivre on passerait sa vie. !</l>
+        </lg>
+        <p>Non, mon cher ami, ne te fais pas de beaux fantômes; ils seront trop vite détruits. Te
+          voilà dans le monde, tu y fais le premier pas; juge-le toujours comme tu l'as jugé dans la
+          première soirée. Je suis bien aise que tu le connaisses pour te désabuser un peu du
+          plaisir que tu espérais y trouver et de l'espoir d'y rencontrer de vrais amis.
+          Franchement, j'imagine que ton amitié pour moi va redoubler ainsi que pour Virieu en
+          voyant le vide, la vanité et la fumée de tout ce qui s'appelle amitié. Quant à l'amour, va
+          doucement. Je ne suis point surpris que de belles actrices aient séduit au premier moment
+          tes yeux et peut-être un peu plus ; mais lis le Roman comique et désabuse-toi bien vite.
+          Ne t'avais-je pas dit que tu oublierais bientôt ta première conquête? (Dieu veuille que tu
+          n'en aies pas déjà fait de plus dangereuse et de plus séduisante!) Je crois qu'elle
+          t'oubliera elle-même dans peu, malgré la bonne opinion que j'ai de toi ; ce n'était qu'un
+          jeu. Reste encore un an sans L'enflammer, et j'espère bien de toi; tu n'aimeras jamais
+          avec folie, mais malheur si tu viens à rencontrer une ombre de beauté et de perfection,
+          car je crois sincèrement qu'on n'en trouve plus que des ombres, et que tout le reste est
+          dans l'imagination des poëtes. Et dans le coeur des jeunes gens il n'y a plus d'amour
+          véritable : ce n'est plus qu'un tissu de coquetteries et de ruses de part et d'autre.
+          C'est ce qui me désole et ce qui le désolera comme moi. Aussi je veux faire par belle
+          vengeance une pièce là-dessus. En attendant, tu vois que je le crache tous les vers qui me
+          viennent dans la tête en l'écrivant; en voici qui m'arrivent : </p>
+        <lg>
+          <l>Ce jeune Amour est un bien vieux enfant.</l>
+          <l> Malgré la Grèce, en fictions féconde,</l>
+          <l>Je le crois né, le premier jour du monde,</l>
+          <l>Des grâces d'Eve et des désirs d'Adam.</l>
+          <l> Or. mes amis, écoutez, je vous prie,</l>
+          <l>En peu de mots l'histoire de sa vie.</l>
+        </lg>
+        <p>La verve me manque, et je dirai en prose qu'il était doux, innocent, ingénu, simple,
+          tendre, constant, sincère</p>
+        <l>Comme un enfant, car il l'était alors;</l>
+        <p> puis qu'il se gâta, que la simplicité de sa première jeunesse</p>
+        <lg>
+          <l>Dura bien peu, tant il est vrai de dire</l>
+          <l>Qu'en grandissant, souvent l'on devient pire ;</l>
+        </lg>
+        <p> qu'enfin il devint entièrement corrompu, trompeur, volage, inconstant, courant sans
+          cesse</p>
+        <lg>
+          <l>De fleur en fleur et de belles en belles.</l>
+          <l>Pour son excuse, on lui prêta des ailes.</l>
+        </lg>
+        <p>Que faudra-t-il dire ensuite? qu'il fit pénitence et reprit quelque temps ses premières
+          vertus au temps de la chevalerie :</p>
+        <lg>
+          <l>Dans ce beau temps si regretté des belles,</l>
+          <l>Plus que jamais ce dieu fut en honneur :</l>
+          <l>Gais troubadours faisaient des vers pour elles,</l>
+          <l>Beaux chevaliers s'ornaient de leur couleur;</l>
+          <l>Dans maints tournois mille beautés fidèles</l>
+          <l>Du prix d'amour couronnaient le vainqueur.</l>
+        </lg>
+        <p>Aujourd'hui, il est passé de mode, ou plutôt il suit toutes les modes : tantôt il est
+          fougueux et terrible comme dans les romans anglais, langoureux comme dans les sonnets
+          italiens, et léger comme dans nos cercles et dans nos poésies érotiques; il n'y en a plus
+          qu'une certaine ombre; quant à la réalité</p>
+        <l>Où la trouver ? Ma foi je n'en sais rien.</l>
+        <p>Mais voilà assez de rimaillerie, parlons comme tout le monde. Comment l'accoutumeras-tu à
+          Grenoble ? Travailleras-tu un peu sérieusement? Pour moi, quoique je n'aie nullement le
+          droit de te donner des conseils, cependant je t'engage de toute ma force à aller rarement
+          au spectacle, à ne pas te ivrer entièrement au monde, mais à travailler seul dans ta
+          chambre au coin de ton feu, soit aux mathématiques, soit à autre chose que je sais bien.
+          Consulte là-dessus des gens d'un goût difficile, pur et sévère. Lire les anciens à force,
+          peu de romans, peu de vers nouveaux. Mande-moi tout ce qui le concerne : succès, revers,
+          plaisirs, ennuis, société, occupations; tu ne sais pas à quel point tout cela m'intéresse;
+          si tu le concevais bien, peutêtre m'en aimerais-tu davantage. Parlons à préseul de
+          moi.</p>
+        <p>Je suis encore pour huit ou dix jours à la campagne; après cela j'irai à Mâcon où je n'ai
+          point d'amis, peu de connaissances, peu de ressources ; je redoute cet hiver, mais je
+          sacrifie à peu près tout espoir de plaisir ou de succès de société : je vivrai uniquement
+          avec moi, avec mes livres et avec toi en esprit. Écris-moi souvent, les lettres viendront
+          me consoler dans ma solitude, dans l'abandon entier où je vais être. J'aurai des livres,
+          je m'exercerai, je tâcherai d'apprendre assez d'italien pour lire le Tasse et l'Arioste,
+          heureux si ces travaux ennuyeux et solitaires me conduisent à quelque chose de mieux dans
+          un ou deux ans. Je m'abandonne à la marche de la Providence, je me rappelle souvent
+          Rousseau travaillant en silence et préparant de loin ses succès, si parva licet componere
+          magnis. Je voudrais que tu fisses comme moi, ce serait une nouvelle analogie qui nous
+          unirait davantage de sentiments.</p>
+        <p>Je n'ai pas assez d'une page pour le tout dire, mon cher ami; puisque tu es si loin, que
+          notre correspondance est plus difficile, faisons nos entretiens plus longs, nous nous
+          dédommagerons un peu. Si je voulais te faire du pathétique, j'aurais beau jeu. II est sept
+          heures du soir, je suis seul dans ma petite cellule, je n'ai que mon Azor qui ronfle à mes
+          pieds ; il fait un vent fort, mais de ces vents qui murmurent, qui vous portent un peu de
+          mélancolie, il fait frémir mes vitres et vaciller ma lumière. Si nous adoptions le genre à
+          la mode, je te dirais de belles choses; mais il faudrait que je fusse sûr que ma lettre
+          t'arrivera dans un moment de tristesse, de dégoût du bruit, et non pas après un bon dîner,
+          auprès d'une tante jolie, aimable et gaie comme la tienne. Je lis pendant ces longues
+          soirées du mois de novembre quelques bons romans : le Doyen de Killerine, Clarisse, Tom
+          Jones. J'en suis à présent à un ouvrage de Mme Cottin, Malvina; c'est fort bien écrit, on
+          prétend que Chateaubriand retouchait ses ouvrages. Juge quel en est le genre, lis-le, si
+          tu n'as rien de mieux à faire, il te fera plaisir. Voici le début, pour t'y donner goût
+          :</p>
+        <p>« Adieu, terre chérie, asile sacré qui renferme tout ce que mon coeur a aimé, adieu,
+          reste précieux de mon amie, de ma compagne, de ma soeur! Le sort qui s'attache à me
+          poursuivre me refuse jusqu'à la triste douceur de pleurer chaque jour sur ta tombe; je
+          m'éloigne, et bientôt la ronce sauvage en s'étendant sur la pierre qui te couvre la rendra
+          méconnaissable à l'oeil même de ton amie ! Je m'éloigne, et les frivoles adorateurs de ta
+          jeunesse oublieront bientôt que tu passas sur la terre ! etc., etc. »</p>
+        <p>Comment trouves-tu ce passage? Ab uno disce omnes.</p>
+        <p>Ta mère est-elle toujours à Grenoble? Si elle t'a quitté, je la plains bien ! elle a dû
+          verser bien des larmes en l'abandonnant, et sans doute elle n'est pas encore consolée. Si
+          elle y est, présente-lui mes respects et ne m'oublie pas non plus auprès de ton oncle et
+          de ta tante. Qu'est devenu le major ? Je me transporte quelquefois en esprit dans le salon
+          de ton oncle et je te vois là, tenant d'une main l'Art d'aimer, et de l'autre levant ton
+          toupet et écoutant les malices spirituelles d'une jolie femme.</p>
+        <closer>
+          <salute> Mais adieu, je m'oublie à te parler, je regrette encore que mon papier ne soit
+            pas plus long, et cependant, la main sur la conscience, je crains de t'avoir ennuyé.
+            Adieu, mon amitié pour toi augmente tous les jours par la conformité de nos idées. Tu
+            peux te dire, dans tes instants de tristesse, d'abandon, si tu en as quelquefois : J'ai
+            un ami dans le monde, qui pense à moi, qui prend part à tous mes chagrins, à tous mes
+            maux et pour qui je suis beaucoup sur la terre. Et j'ai éprouvé que ce retour-là doit
+            être bien doux. Écris-moi vite et souvent.</salute>
+          <signed>ALPH. DE LAM.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

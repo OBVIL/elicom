@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1809-11-26" resp="author">26 novembre 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1809-11-26">26 novembre 1809.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon, </placeName>
+            <date>26 novembre 1809.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <lg>
+          <l>Non, tu ne me plais jamais tant, </l>
+          <l>Poëte heureux de Lucrétile, </l>
+          <l>Que, lorsque au vaisseau de Virgile </l>
+          <l>Adressant un adieu touchant, </l>
+          <l>Aux soins d'un zéphir caressant</l>
+          <l>Tu livres ta barque fragile.</l>
+        </lg>
+        <p>Mon projet était bien de continuer comme j'avais commencé, mais je veux te parler et te
+          dire beaucoup de choses, et les vers sont trop longs à suivre les idées. Bien heureux que
+          ces six mauvais soient venus de bonne volonté. Attendons-en d'autres.</p>
+        <p>Je suis à Mâcon, au coin de mon feu, tout seul : j'y suis venu exprès pour t'écrire et
+          mettre tout de suite ma lettre à la poste. Tu pars donc incessamment. Tu nous quittes, tu
+          nous laisses, tu vas être plus heureux que nous. Nous oublieras-tu? Non, tu ne retrouveras
+          plus d'amis qui t'aiment comme nous. Et pour moi, je me suis juré de n'en plus avoir au
+          préjudice de l'un de vous. Adieu donc, serva fidem.</p>
+        <p>Tu me dis que tu ne fais rien ; ni moi non plus. Nous n'avons rien à nous reprocher :
+          depuis six mois je suis le plus grand paresseux de France. Consolons-nous mutuellement et
+          réveillons-nous par des plans, par des projets, par des réflexions grandes et nobles,
+          dignes de nous : Odi profanum vulgus.</p>
+        <p>Mais voici des vers qui me viennent :</p>
+        <lg>
+          <l>C'en est fait, mon ami, crois-moi,</l>
+          <l>Quittons cette sotte paresse</l>
+          <l> Que des fainéants comme toi</l>
+          <l>Ont paré du nom de sagesse !</l>
+          <l> Ne verrons-nous jamais flétrir</l>
+          <l>Cette dame de la jeunesse ?</l>
+          <l>Ce temps, qui doit nous engloutir,</l>
+          <l> Et qui nous amène sans cesse</l>
+          <l>Nouvel espoir, nouveau desir,</l>
+          <l>Nouveau regret, nouveau plaisir,</l>
+          <l>Nouveaux soins, nouvelle tendresse,</l>
+          <l>N'amène-t-il pas la vieillesse?</l>
+          <l> Nous ne sommes plus au bon temps</l>
+          <l> Où, suivant leur humeur légère,</l>
+          <l> Deux agréables ignorants</l>
+          <l> S'immortalisaient sans rien faire.</l>
+          <l>Chapelle partit un matin </l>
+          <l>Pour un très-court pélerinage :</l>
+          <l>Qu'il fut heureux dans son voyage !</l>
+          <l>Il trouva la gloire en chemin.</l>
+        </lg>
+        <p>Ce n'est plus cela, tu le vois mieux que moi.</p>
+        <p>Donnons-nous donc de la peine, conjuguons du grec, de l'italien, de l'anglais. Ne nous
+          rebutons pas.</p>
+        <lg>
+          <l>Combien de fois, pour une belle</l>
+          <l>Fatiguant mon esprit glacé, </l>
+          <l>J'ai commencé, recommencé</l>
+          <l>Un billet tendre à la cruelle !</l>
+          <l>Combien de fois de ses refus</l>
+          <l>J'ai lassé la dure constance</l>
+          <l> Et l'importune vigilance</l>
+          <l> De ses inpertinents argus ! </l>
+          <l>Combien de fois, sous sa fenêtre</l>
+          <l>Mêlant ma plainte au bruit des vents, </l>
+          <l>Je lui chantai des vers touchants</l>
+          <l> Dont elle se moquait peut-être !</l>
+          <l>Ami, c'est ainsi qu'il faut être : </l>
+          <l>Le poëte est comme l'amant ; </l>
+          <l>Et ces deux maudites pucelles </l>
+          <l>Que nous servons incessamment</l>
+          <l>N'ont pas l'air d'être assurément</l>
+          <l>De nos beautés les moins cruelles.</l>
+        </lg>
+        <p>Ne suis-je pas en veine malgré moi aujourd'hui? Je ne sais si c'est parce que je viens de
+          bien dîner. Mais il faut que je m'arrête, car le jour baisse dans ma chambre et bientôt je
+          n'y verrai plus.</p>
+        <p>Il n'y a plus de possibilité à ce que j'aille te voir. Il n'en faudrait même pas parler.
+          Ah! j'en souffre plus que toi, et j'ai terriblement de choses à le dire ! cependant je ne
+          veux pas à toute force renoncer à te voir, ne fût-ce qu'une heure. Où passeras-tu? à Lyon
+          sans doute; dans quel temps, quel jour? entendons-nous. Je pourrais peutêtre m'échapper
+          incognito ou bien même ouvertement.</p>
+        <p>Parle-moi donc un peu dans la première lettre de Guichard, de vos courses qui m'ont fait
+          pleurer de regret, de Belley, de Grenoble, de Crémieu, et que sais-je encore? Je m'ennuie
+          à mourir ici. Rien ne m'y attache. Je perds la seule personne que j'y aimais
+          véritablement, qui m'aimait aussi : c'est ce jeune homme dont je l'ai parlé quelquefois,
+          qui nous quitte pour aller habiter le Bourbonnais. C'est avec lui que j'entreprendrais
+          peutêtre un voyage secret à Paris cet hiver, si je voyais que je ne pusse rien faire du
+          tout à Lyon. Biais je crois qu'avec de la persévérance, de la constance, de la fermeté, je
+          trouverai moyen d'y travailler et avec fruit, le plus longtemps qu'ira ma bourse ; </p>
+        <p/>
+        <closer>
+          <salute>et, en attendant mieux, adieu. <lb/>Forsan et haec olim meminisse
+            juvabit.</salute>
+          <signed>ALPHONSE DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

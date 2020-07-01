@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1809-06-01" resp="author">1er juin 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1809-06-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>1er juin 1809. </date>
+          </dateline>
+          <salute/>
+        </opener>
+        <epigraph>
+          <l>La prudence du coeur n'est que la mort de l'âme.</l>
+        </epigraph>
+        <p>Mille fois pardon, mon cher ami, de la peine que t'a causée ma dernière lettre. Tu m'en
+          as bien puni par ce silence dont je commençais à m'alarmer et qui jetait je ne sais quelle
+          solitude et quelle mort dans mes occupations qui, comme je le l'ai dit, me tiennent encore
+          lieu de plaisirs et d'amour. Ces vers qui n'ont pas le sens commun étaient faits ; il
+          fallait bien que tu les lusses, et je l'écrivais dans un moment où mon coeur, rebuté de
+          toutes manières, voyait le pire en tout. Cet état de langueur ne pouvait durer, et le
+          lendemain je me repentis de ma froideur qui ne pouvait que faire un contraste amer avec
+          les sentiments présents. Je partis, triste et malade, pour une partie de campagne, seul à
+          mon ordinaire et cuirassé de livres, parmi lesquels étaient Corinne de madame de Staël. Je
+          le lus en deux jours, me croyant transporté dans un autre monde, idéal, naturel, poétique,
+          opposé en tout à cette aride et froide société, à ce monde si ridicule et si fier dans ses
+          idées, si despotique et si mort dans ses opinions, à ces complots de coteries qui font
+          toutes mes peines et mes obstacles. Je retrouvais là ces pensées si pures et si nobles,
+          auxquelles je ne pouvais presque plus croire sans me regarder comme un fou, un original,
+          un homme d'un autre monde; j'y retrouvais cet amour de la nature et des beauxarts, jusqu'à
+          présent ma seule passion, et cet amour désintéressé, sincère, abandonné, vrai et. puissant
+          que je concevais sans cependant l'espérer ni en voir d'exemples; j'y retrouvais en un mot
+          ce dont tu me parais réellement jouir depuis un mois, et que je n'espérais guère être
+          aussi long. Que tu écris bien ! que la passion, le coeur, l'âme sont de bons maîtres ! que
+          tu as fait de progrès, sans t'en douter peut-être! Tes deux dernières lettres, à quelques
+          lignes près, me paraîtraient dignes de cadrer avec quelques morceaux de l'Héloïse. Ne ris
+          pas. Tu sais que je t'aime trop pour le tromper. Jouis, jouis, mon cher ami, enivretoi
+          d'espérance et de bonheur pendant ces courts instants que l'amour t' a faits. Sois sûr que
+          tu ne jouiras pas seul, ton ami est là qui est heureux de ton bonheur malgré ses propres
+          ennuis, et qui t'attend pour partager les tiens dans un temps moins heureux.</p>
+        <p>Tu ne feras donc pas ce morceau d'histoire ; eh bien ! consulte ton guide et fais des
+          vers. Cette délicieuse musique de l'âme n'a de charmes que dans l'amour ou le malheur;
+          c'est toujours un hymne ou une complainte. L'Académie</p>
+        <p>L'Académie Niort propose pour prix un poëme sur Tobie. Pour les Jeux Floraux, tu as à
+          choisir d'une ode, d'une épître, d'une idylle, etc. Délibère et mets-toi à l'ouvrage. Je
+          serai, si tu m'en juges digne, ton censeur en second. J'ai fait ces jours-ci une ode sur
+          l'amour de la gloire que personne n'a vue. A qui la montrerais-je ? Je la laisse
+          refroidir, et puis je te l'enverrai pour que tu y fasses toi-même les corrections et les
+          variantes, Je ne sais si je t'ai mandé que je travaillais sur un sujet bien banal, un
+          discours en vers sur l'Amitié. J'en ai déjà une centaine de vers. Permets-moi de te
+          demander ton avis sévère sur quelques-uns que j'ai faits ce matin. Il faudra bien que tu
+          juges le tout une fois.</p>
+        <lg>
+          <l>Les sens-tu, réponds-moi, ces généreux désirs</l>
+          <l>De partager tes goûts, tes ennuis, tes plaisirs ?</l>
+          <l>Ne peux-tu jouir seul de ces moments de joie,</l>
+          <l>Consolateurs d'un jour que le ciel nous envoie?</l>
+          <l>Et ton coeur, abattu sous le poids de ses maux,</l>
+          <l>Dans le coeur d'un ami cherche-t-il du repos? </l>
+          <l>Du malheur à ton tour entends-tu le partage? </l>
+          <l>Connais-tu ces douleurs qu'un seul coup d'oeil soulage? </l>
+          <l>Médecin délicat des blessures du coeur,</l>
+          <l>Sais-tu, sans les rouvrir, adoucir leur ardeur?</l>
+          <l>Choisis : le ciel te doit le premier bien du monde.</l>
+          <l>Mais ce choix veut, dit-on, une étude profonde; </l>
+          <l>Un philosophe austère et qu'on dit plein de sens</l>
+          <l>Croit qu'un ami parfait est l'ouvrage du temps.</l>
+          <l>Ainsi donc la moitié de nos belles années </l>
+          <l>Au veuvage du coeur resteraient condamnées ? </l>
+          <l>Attends, je le veux bien, que l'âge et sa tiédeur</l>
+          <l>Aient détruit ton espoir, désenchanté ton coeur,</l>
+          <l>Et que le bras cruel de l'aride vieillesse </l>
+          <l>Ait d'un rempart de glace effrayé la tendresse : </l>
+          <l>Tu rentreras sans pleurs dans la nuit des tombeaux </l>
+          <l>Comme un tronc desséché dépouillé de rameaux.</l>
+          <l>J'aime ce mot brûlant si digne d'une femme :</l>
+          <l>La prudence du coeur n'est que la mort de l'âme !</l>
+        </lg>
+        <p>Cette fin a son application à quelqu'un qui doit avoir l'âme bien froide et que je me
+          plais à en faire rougir, sans avoir l'air d'y penser, parce que ça ne m'irait point. Je
+          crains dans ma dernière lettre d'avoir lâché un mot de ton bonheur à Virieu, mais j'en
+          resterai là. Il vient d'être reçu correspondant de l'Académie de Lyon.</p>
+        <p>Envoie-moi donc quelque ouvrage, quelques vers. Tu deviens paresseux, et nous en
+          souffrons. Sermezy m'avait séduit ainsi que Virieu ; nous lui trouvions bonne tournure.
+          Tes lettres sont vierges quand elles m'arrivent. Sois-en sûr et rassure-toi.</p>
+        <closer>
+          <salute>Adieu, je me ferme les yeux de peur de deviner. Serait-ce la belle madame de
+            Chichiliane?</salute>
+          <signed>AL. DE LAM.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

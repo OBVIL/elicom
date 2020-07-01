@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1809-06-10" resp="author">10 juin 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1809-06-10">10 juin 1809. </date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon, </placeName>
+            <date>10 juin 1809.</date>
+          </dateline>
+          <salute></salute>
+        </opener>
+        <epigraph><l>Mon ami, le bonheur n'est pas l'indifférence.</l></epigraph>
+        <p>Aime-t-elle les vers et les poëtes? A-t-elle lu? Raisonne-t-elle bien sur beaucoup de
+          choses? Aime-t-elle la musique et la peinture ? Comprendelle ce que c'est que la gloire et
+          l'immortalité du talent? ou méprise-t-elle ceux qui l'ont tant désirée? Juge-t-elle bien
+          un morceau quelconque? Qui préfère-t-elle de Voltaire ou de Racine, de madame de Genlis ou
+          de madame de Staël, le style à part? d'Ovide ou de Tibulle? Il n'y a pas là
+          d'indiscrétion. Je ne veux que m'assurer de ton bonheur. Il me semble cependant que tu
+          n'aimes pas assez tes amis. Ce sont eux qui devraient peut-être, à mon avis, à celui de
+          Properce même, être les premiers, les seuls confidents de l'amour le plus secret. Mais je
+          me trompe peut-être, moi qui n'ai point aimé. Ton avis sur ce petit fragment de mon
+          discours est très-sensé. Quelqu'un de beaucoup d'esprit me faisait hier le même reproche
+          et me disait : « Voilà ce que c'est que d'avoir lu et relu Corinne ! »</p>
+        <p>Tu me permettras de t'en envoyer encore aujourd'hui un petit morceau, mais donne-moi des
+          avis un peu plus détaillés, change les vers même tout entiers, etc. Voici mon début après
+          mon exorde qui n'est que de cinq ou six vers. Pardon si je l'ennuie. On m'a forcé de
+          définir à la Wrintz et j'ai tâché d'obéir:</p>
+        <lg>
+          <l>Qu'est-ce que l'amitié ? Le lien de deux coeurs </l>
+          <l>Qu'unissent la vertu, les goûts et les humeurs, </l>
+          <l>Divin attachement, né de la sympathie.</l>
+          <l>Que le sentiment forme et le temps fortifie.</l>
+          <l>Halte-là ! diras-tu, raisonneur entêté,</l>
+          <l>Oh ! dépouille une erreur où ton coeur t'a jeté :</l>
+          <l>L'amitié n'est qu'un nom, qu'une faiblesse impure,</l>
+          <l>Fille de l'intérêt, et non de la nature ;</l>
+          <l>Jusque dans son ami l'homme n'aime que lui :</l>
+          <l>Il est seul, il est faible, il se cherche un appui.</l>
+          <l>Ainsi ce froid dévot, au coeur faux, au teint blême.</l>
+          <l>Croit qu'il aime le ciel en s'adorant lui-même.</l>
+          <l>Égoïste profond ! lis dans le coeur humain </l>
+          <l>Tout ce que la nature y grava de sa main :</l>
+          <l>La pitié, le respect et la reconnaissance </l>
+          <l>A ce vil intérêt doivent-ils l'existence?</l>
+          <l>Eh quoi ! ce sentiment, et plus noble et plus pur,</l>
+          <l> Serait l'enfant grossier de ce principe obscur ? </l>
+          <l>Non, ton coeur est plus grand que tu ne veux le croire; </l>
+          <l>Viens, ouvre devant moi les pages de l'histoire :</l>
+          <l>Quand, pour sauver les jours du fils d'Agamemnon,</l>
+          <l> Par un mensonge heureux Pylade prend son nom, </l>
+          <l>Ou quand, pour son ami que l'avarice accuse,</l>
+          <l> Damon à l'échafaud marche dans Syracuse,</l>
+          <l>D'où leur vient, réponds-moi, cet élan généreux?</l>
+          <l>Le supplice est leur prix, la mort est sous leurs yeux !</l>
+          <l>C'est qu'au besoin d'aimer l'amitié doit naissance,</l>
+          <l>Et le plaisir d'aimer voilà sa récompense.</l>
+          <l>Mais quoi, n'as-tu jamais, dans ta prospérité,</l>
+          <l>Plaint l'homme déchiré, trahi, persécuté? </l>
+          <l>N'as-tu jamais senti cet intérêt si tendre</l>
+          <l> Qu'au sort de la vertu notre coeur nous fait prendre?</l>
+          <l> Tu pleures quand tu vois Socrate condamné </l>
+          <l>Ou le fils d'Agrippine à Rome empoisonné;</l>
+          <l>Tu pleures quand Turenne, au faîte de sa gloire,</l>
+          <l>Perd en un même instant le jour et la victoire :</l>
+          <l>De ces pleurs généreux, dis-le moi, qu'attends-tu ? </l>
+          <l>Rien. Tu plains l'infortune et chéris la vertu ;</l>
+          <l> Cet amour noble et pur t'agrandit et t'enflamme. </l>
+          <l>Et tu vois malgré toi la beauté de ton âme. </l>
+          <l>Demandez à Timon : qu'est-ce que l'amitié ? etc., etc.</l>
+        </lg>
+        <p>En voilà assez, peut-être beaucoup trop. Que dis-tu? Taille et coupe à ton gré. Parlons
+          detoi. J'avoue que ce morceau de Tobie est un peu banal comme l'amitié, seulement il offre
+          de grandes beautés de détail; il ne me paraît pas même trèsdifficile, et, pour nous autres
+          qui voulons apprendre à bien manier un vers, il ne laisserait pas d'être fort utile. Voilà
+          mon avis. Qu'en pense-t-elle, cette belle inconnue que j'aime si elle t'aime ? Cet exorde
+          ne me plaît pas comme exorde d'un petit poëme plein de grâce, d'intérêt, de simplicité
+          antique, de sentiment; ce n'est pas que j'apprécie bien ces quatre vers : Rampant
+          toujours, il ne saurait tomber, etc. Cela sent la Pucelle, et il ne faut pas, ce n'est pas
+          là le lieu. Qu'en pense-t-elle? Je voudrais que tu ne fisses presque que traduire
+          l'Écriture en vers simples, ruais travaillés et châtiés, semés de réflexions naïves et
+          louchantes. Ça ne devrait pas être très-long, et je te répète que je crois ce travail
+          utile et capable de te former beaucoup, sans beaucoup de peine. J'ai presque envie de
+          concourir quand mon discours philosophique sera fini. J'ai laissé là l'histoire, je n'ai
+          pas les sources nécessaires, cependant je pourrai m'y remettre. J'oubliais de te dire que
+          le vers alexandrin me paraît plus favorable à ce genre susdit; au reste là-dessus
+          consulte-toi seul. As-tu conservé quelque petite chose contre Virieu? Je serais un lâche
+          et un traître si je ne te disais pas que tu as tort, que tu ne le connais pas assez, qu'il
+          est en tout digne de ton amitié. Son seul défaut est peut-être d'être plus sage que nous
+          et moins ardent hors de propos ; reviens, reviens, rien ne peut, rien ne doit plus séparer
+          nos trois coeurs et nos trois noms. Que font Vignet, Labbé,Pélissier, etc., etc., et de
+          Vence? Et toi, tu es donc reçu chez elle à toute heure, à tout instant ! tu la vois donc
+          seule ! elle te conduit donc dans le monde ! elle t'aime donc! elle te le dit donc! Que
+          fais-tu pendant ces belles soirées d'été? le promènes-tu avec elle sous les orangers de
+          Grenoble ou sur le chemin par où nous y arrivâmes ensemble? As-tu des amis nombreux et
+          gentils avec qui causer et qui sachent parler d'autre chose que de filles et de chasse? Je
+          l'imagine et je l'espère. Tandis qu'après avoir travaillé jusqu'à sept heures, et sans
+          beaucoup profiler, ton ami prend ses bottes ou ses guêtres, sa canne et son chapeau, et
+          s'en va seul se promener triste et rêveur sous des arbres peu fréquentés ou au milieu de
+          toutes les belles, de toutes les filles de la ville, jusqu'à dix heures. Ce calme de mon
+          coeur, au milieu de tout ce tumulte et de cette agitation, me fait un certain plaisir. </p>
+        <closer>
+          <salute>Adieu, j'y vais et je n'y trouverai ni ami ni homme aimable ni amante!</salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p>Réponds-moi vite.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

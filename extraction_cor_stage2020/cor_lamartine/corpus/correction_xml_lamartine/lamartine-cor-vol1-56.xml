@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-04" resp="author">Avril 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-04">Avril 1810.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Avril 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <epigraph>
+          <quote>Mes vers sont durs, d'accord, mais forts de choses !</quote>
+          <bibl>VOLTAIRE.</bibl>
+        </epigraph>
+        <sp>
+          <speaker>LA SAGESSE HUMAINE.</speaker>
+          <lg>
+            <l>J'avais pris de vingt ans le teint frais, le coeur tendre, </l>
+            <l>J'aimais le jeu, la table et de plus doux plaisirs :</l>
+            <l>Richesse, amour, beauté s'offraient à mes désirs.</l>
+            <l>Hélas! d'un peu d'erreur pouvais-je me défendre!</l>
+            <l> Dans mes goûts inconstants je cherchai le bonheur, </l>
+            <l>Je fus dissipateur, amoureux et volage,</l>
+            <l>Puis je me repentis, puis je pris de l'humeur,</l>
+            <l>Et je dis : A trente ans je fais voeu d'être sage.</l>
+            <l>L'âge vient : au plaisir je fais de longs adieux,</l>
+            <l>Je cesse de jouer et d'aimer et de rire;</l>
+            <l>Il n'est plus de grandeurs où mon orgueil n'aspire,</l>
+            <l>Rien ne doit arrêter mon vol ambitieux;</l>
+            <l>La fortune pour moi saura fixer sa roue,</l>
+            <l>J'aurai de mes voisins les terres, les châteaux,</l>
+            <l> Sur le pavé tremblant mes deux coursiers égaux </l>
+            <l>Rempliront les passants de frayeur et de boue.</l>
+            <l>Quel plaisir! et qu'ainsi j'aimais à raisonner !</l>
+            <l>Que je me complaisais dans un si beau mensonge !</l>
+            <l>Hélas ! mes soixante ans que j'entendis sonner</l>
+            <l>Renversèrent ma gloire en effaçant mon songe. </l>
+            <l>Je me frottai les yeux : j'avais rêvé longtemps ; </l>
+            <l>Je voyais à grands pas s'avancer la vieillesse :</l>
+            <l>Bon! disais-je, voici l'âge de la sagesse,</l>
+            <l>Et je vais, grâce aux dieux, profiter des moments !</l>
+            <l>Qu'arrive-t-il? Je suis enfant en cheveux blancs :</l>
+            <l>Tandis qu'au coin du feu je regrette sans cesse</l>
+            <l>Les trompeuses erreurs de ma verte jeunesse, </l>
+            <l>Je m'érige en censeur des usages du temps ;</l>
+            <l>Modéré par besoin, vertueux par faiblesse,</l>
+            <l>De tous nos jeunes gens je fronde les travers,</l>
+            <l>Je gronde mes neveux, et, pour comble d'ivresse, </l>
+            <l>D'une tremblante main, je crayonne ces vers.</l>
+          </lg>
+          <lg>
+            <l>Ce sujet, mes amis, rappelle à ma mémoire</l>
+            <l>Du bonhomme Cliton la douloureuse histoire.</l>
+            <l>Asseyez-vous ici pour me mieux écouter; </l>
+            <l>Je suis vieux, la vieillesse aime fort à conter :</l>
+            <l>Un jour j'allai chez lui, je le surprends à table </l>
+            <l>Savourant les douceurs d'un souper délectable;</l>
+            <l>Plus d'une belle femme, un long cercle d'amis,</l>
+            <l>Ce jour à son banquet s'honoraient d'être admis ;</l>
+            <l>De vins délicieux sa table était chargée,</l>
+            <l>Par les mains du Goût même elle était arrangée,</l>
+            <l>De Pomard et d'Arbois le liquide trésor</l>
+            <l>Remplissait de ses flots de larges coupes d'or, </l>
+            <l>Et parmi ces dehors de l'humaine folie</l>
+            <l>Cliton aux conviés parlait philosophie ;</l>
+            <l>Il n'est plus, disait-il, il n'est plus l'heureux temps</l>
+            <l>Où de Rome au berceau les rustiques enfants,</l>
+            <l>Après avoir lancé les foudres de la guerre,</l>
+            <l>Dans les champs-paternels allaient bêcher la terre;</l>
+            <l>Ils moissonnaient l'épi qu'avait semé leur main.</l>
+            <l>N'avaient-ils pas assez? De la gloire et du pain!</l>
+            <l>Ils se trouvaient heureux, Plutarque nous l'assure,</l>
+            <l>Quand leurs fèves croissaient, quand leur onde était pure.</l>
+            <l>Beaux jours trop tôt passés, vous ne reviendrez plus !</l>
+            <l>L'homme a su se créer dés besoins superflus :</l>
+            <l>Il faut qu'un cuisinier, assassin mercenaire,</l>
+            <l>Soit par nous bien payé pour creuser notre bière ;</l>
+            <l>Et, pour mieux exciter nos palais délicats,</l>
+            <l>De ses poisons exquis assaisonne nos plats !</l>
+            <l>Il faut que de Noé la liqueur dangereuse</l>
+            <l>Verse dans tous nos sens une inertie honteuse !</l>
+            <l>Il faut Il presserait encor son argument</l>
+            <l>Si sa voisine Églé, d'un air trop agaçant,</l>
+            <l>N'eût placé devant lui sa coupe demi-pleine</l>
+            <l>De ce vin, le fléau de la raison humaine;</l>
+            <l>Il l'avale à longs traits, et, changeant de discours,</l>
+            <l>Sur un nouveau sujet il s'escrime toujours.</l>
+          </lg>
+          <lg>
+            <l>Pourquoi les dieux, dit-il, soigneux de mon bien-être </l>
+            <l>Dans un état obscur ne m'ont-ils pas fait naître?</l>
+            <l>Que ne m'ont-ils donné pour mon unique bien</l>
+            <l>Une hutte au village, une houlette, un chien ! </l>
+            <l>Alors à peu de frais j'eusse été vraiment sage, </l>
+            <l>Mon désir n'eût jamais passé mon héritage : </l>
+            <l>Un jardin, un verger seul l'auraient composé</l>
+            <l>Et par une eau limpide il serait arrosé.</l>
+            <l>Le repos n'est jamais où brille la richesse,</l>
+            <l>Elle enfante les soins, les soucis, la tristesse,</l>
+            <l>Les importuns, le luxe et d'autres embarras </l>
+            <l>Qu'au sein de ma chaumière on ne connaîtrait pas. </l>
+            <l>Oh! que sans m'émouvoir je verrais la fortune </l>
+            <l>Me ravir ces trésors dont elle m'importune!</l>
+          </lg>
+          <lg>
+            <l>Comme il disait ces mots, un valet imprudent</l>
+            <l>Fait tomber à ses pieds un cristal élégant,</l>
+            <l>Le précieux flacon en mille éclats se brise</l>
+            <l>Et la liqueur jaillit sur la robe d'Élise.</l>
+            <l>A ce coup imprévu, notre beau discoureur</l>
+            <l>Toit changer à l'instant tout son flegme en fureur.</l>
+            <l>Pour son flacon brisé s'emporte, jure et crie</l>
+            <l>Et nous montre des fruits de sa philosophie.</l>
+            <l>A calmer ses regrets tandis qu'on s'empressait,</l>
+            <l>D'un Champagne mousseux son voisin l'abreuvait.</l>
+            <l>D'un vermillon plus vif son teint frais se colore :</l>
+            <l>Il chante, il boit, il cause et puis il boit encore.</l>
+            <l>Notre docteur enfin déraisonne et s'endort;</l>
+            <l>La rougeur sur le front, doucement chacun sort.</l>
+            <l>Et moi je fus narrer, d'une plume indiscrète,</l>
+            <l>Le fait assez plaisant qu'ici je vous répète.</l>
+            <l>— Fort bien ! me dira-t-on, mais qu'en concluez-vous?</l>
+            <l>Que les grands raisonneurs ne sont pas les moins fous.</l>
+          </lg>
+        </sp>
+        <stage>ENVOI.</stage>
+        <lg>
+          <l>C'est ainsi qu'à vingt ans je riais des Catons</l>
+          <l>Dont la triste raison empoisonne ma vie.</l>
+          <l>Tu trouves comme moi leurs arguments fort bons,</l>
+          <l>Mais de les pratiquer tu connais la folie.</l>
+          <l>Quand de tous les plaisirs l'âge est passé pour nous,</l>
+          <l>Quand notre âme s'éteint et qu'en un corps de glace</l>
+          <l> Le coeur à la raison abandonne la place,</l>
+          <l> Il est apparemment bien consolant, bien doux,</l>
+          <l> De blâmer les douceurs dont on regrette l'âge,</l>
+          <l> De fronder le bon ton, de réformer l'usage,</l>
+          <l>De nier le plaisir, le bonheur et l'amour !</l>
+          <l>De prendre la froideur pour le manteau du sage !</l>
+          <l> Ami, serait il vrai ! Quoi! nous aurons un jour,</l>
+          <l> Un jour qui n'est pas loin, ce rôle pour partage ! </l>
+          <l>Hélas ! oui, tout nous dit : Vous aurez votre tour !</l>
+          <l> Non, nous ne l'aurons point. Écoutons ce présage. </l>
+          <l>Qui? moi, je pourrais rire un jour de tes appas,</l>
+          <l> Ma Corinne, et d'un ton plus burlesque que sage,</l>
+          <l>Plaisanter du bonheur qu'on trouve dans tes bras,</l>
+          <l> Et d'un oeil sec et froid contempler ton image !!!</l>
+        </lg>
+        <p>Je m'aperçois que mon impromptu (car c'en est un), qui est venu jusque-là sans rature, va
+          échouer. C'est pourquoi je reprends la vile prose, comme disait Voltaire, pour t'embrasser
+          de tout mon coeur et te dire que je suis fort ennuyé pour beaucoup de causes que tu sauras
+          un de ces jours. </p>
+        <closer>
+          <salute>Adieu, mon cher ami, je t'aime et je suis à toi pour la vie. Écris-moi promptement
+            et donnemoi du courage.</salute>
+          <signed>ALPHONSE DE LAM.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

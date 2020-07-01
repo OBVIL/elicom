@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1811-09-08" resp="author">8 septembre 1811</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1811-09-08">8 septembre 1811</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Livorno,</placeName>
+            <date>8 septembre 1811.</date>
+          </dateline>
+          <salute>Mon ami, </salute>
+        </opener>
+        <p>il y a un temps incroyable que j'attends vainement de tes nouvelles : je t'ai écrit de
+          Milan au mois de juillet, de Florence au mois d'août, et, sans me rebuter, je t'écris
+          encore de Livourne. Quelle est donc ton inconcevable paresse, ou plutôt quel est donc le
+          destin de mes lettres et des tiennes, car je ne puis me persuader que l'indifférence
+          succède dans ton âme au feu sacré de notre éternelle amitié?</p>
+        <p>Tu as peut-être revu Virieu, tu sais qu'en passant à Chambéry nous avons eu ensemble une
+          entrevue d'un moment, qu'ensemble nous sommes allés en pèlerinage aux Charmettes rendre
+          hommage à Rousseau et à madame de Warens, mais que malheureusement nous avons été forcés
+          de nous séparer bientôt, lui pour retourner à Paris y chercher sa mère, moi pour traverser
+          les Alpes et parcourir cette terre enchantée où rien ne me manque de tout ce qui peut
+          satisfaire l'imagination, mais où je regrette sans cesse deux amis et une maîtresse
+          adorée. Tu sais probablement de qui je veux parler, mes lettres de cet hiver ont dû
+          l'apprendre que je m'étais enfin laissé prendre, et pour toujours, dans des liens qui
+          feront le malheur plutôt que le charme de mes tristes jours.</p>
+        <p>Et toi, mon ami, où es-tu à présent ? à Bienassis sans doute, auprès de ton aimable mère
+          et de la vieille petite soeur. Tu lis, tu écris, tu fais des vers et des châteaux en
+          Espagne ; n'oublies-tu pas au moins tes amis, et sont-ils pour quelque chose dans tes
+          songes ? Virieu ne m'a paru que paresseux, mais pour refroidi, au contraire! Nous pouvons
+          compter tous deux sur un ami, à la vie et à la mort, mais ami jusqu'à l'enthousiasme,
+          pourvu qu'il ne s'agisse pas d'écrire. Que j'aurais été heureux si les circonstances nous
+          eussent permis de faire tous trois ensemble ce voyage incomparable en Italie ! combien
+          l'intérêt en aurait été doublé pour moi ! Car je le fais sans avoir personne à qui faire
+          part de fout ce que je vois, sens ou observe, et par conséquent assez maussadement. De
+          plus, je suis parti comme malgré moi, le coeur navré et les yeux pleins de larmes; tu sais
+          pourquoi. Je suis à peu près au milieu de mon voyage, J'ai parcouru la Savoie, de Piémont,
+          le Milanais, la Lombardie, la Toscane enfin, où je me repose dans la patrie du véritable
+          et bon italien, et travaillant plus obstinément que je n'ai fait de ma vie à me rompre les
+          oreilles et l'esprit dans cette langue vraiment céleste. J'ai vu Turin, Milan, Bologne,"
+          Parme, Plaisance, Modène, Florence; j'ai séjourné plus ou moins de temps dans toutes ces
+          belles villes, et je suis maintenant à poste fixe dans un magnifique port de mer, à
+          Livourne, d'où je fais des excursions à Lucques, à Pise, etc., jusqu'au moment prochain où
+          je partirai pour Rome, et de Rome pour Naples. J'ignore encore quel temps je resterai en
+          Italie. Cela dépend un peu de mes compagnons de voyage. Il me faudrait des volumes et des
+          volumes pour te détailler les choses que j'ai vues, sans compter celles que je vais voir.
+          Je laisse tout cela pour Bienassis ; nos souvenirs nous amuseront quelques soirées
+          d'automne, s'il nous est encore donné d'en passer quelques-unes, ensemble, dans cette
+          aimable liberté et cet abandon si délicieux. A présent que. lancé dans le grand tourbillon
+          du monde et des voyages, je m'oublie quelquefois moi-même, je ne perds pas le souvenir des
+          deux charmants séjours que j'y ai faits près de toi et d'Aymon. A tout considérer, quoique
+          dans ce temps-là nous nous plaignions tous les trois, ce temps aura été probablement le
+          plus heureux de toute ma vie. Les nuages s'amoncellent, le jour disparaît, la mer s'agite,
+          ô journées tranquilles du rivage, que nous étions sots de ne pas vous apprécier assez et
+          de désirer de nous embarquer et de faire aussi notre triste traversée ! Tu vas rire
+          peutêtre de ma belle apostrophe que je fais bien sérieusement, en beau style poétique, et,
+          je t'assure, sans prétention. Que veux-tu ? malgré soi et malgré Minerve, on devient poëte
+          dans ce beau pays, sur ces bords charmants de la Méditerranée. Et puis mon coeur est si
+          plein de tristesse qu'il en met partout.</p>
+        <closer>
+          <salute>Adieu. Écris-moi à Florence (poste restante). J'y passerai encore quelques jours
+            en partant pour Rome, et j'y trouverai la lettre. Rappelle-moi au souvenir de ton
+            aimable mère.</salute>
+          <signed>Adieu, ton ami, <name>ALPH. DE LAMARTINE.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

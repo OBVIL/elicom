@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1809-11-24" resp="author">24 novembre 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1809-11-24">24 novembre 1809.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon,</placeName>
+            <date>24 novembre 1809.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je n'ai pas répondu plus tôt à ta dernière lettre, mon cher ami, d'abord parce que je ne
+          savais où te prendre, et ensuite parce que j'étais dans une cruelle incertitude, pire que
+          le mal même, et que je n'avais rien de bon à l'annoncer. Notre voyage, qui était ma folie
+          et mon rêve perpétuel, a été manqué net par un accident arrivé à mon père qui m'a retenu
+          ici pour ses affaires et mon tourment. Virieu t'aura conté tout cela.</p>
+        <l>Nunc et amara dies, et noctis amarior umbra est.</l>
+        <p>A propos d'amertume, je l'avouerai franchement que j'en ai encore une autre : je crains
+          que ton amitié ne sommeille un peu à mon égard. Il y a peut-être aussi de ma faute, mais
+          je suis prêt à reconnaître mes torts, si j'en eus. Réveille-toi, écris-moi donc plus
+          souvent, plus longuement, plus franchement. Tu trouveras peut-être de plus aimables, de
+          plus attrayants amis ; tu n'en trouveras jamais qui t'aime autant et qui mette autant de
+          prix à ton amitié. Mais ne parlons plus de tout cela, j'aime les amitiés picotantes, dit
+          Montaigne. Es-tu enfin rentré au coin de ton feu, dans la cellule, as-tu revu ce que tu
+          aimes, aimes-tu encore? Avoue, avoue. Es-tu bien, es-tu heureux? as-tu retrouvé tout dans
+          le même-état? Qu'entreprends-tu, que fais-tu, que lis-tu? Mande-moi ton plan pour cette
+          année. J'espère l'aller surprendre un jour de cet hiver : je le passe à Lyon où je vais me
+          morfondre sur le grec, peut-être aussi sur l'anglais, etc., etc. Mon projet est de
+          travailler huit bonnes heures par jour; peu ou point de société que les spectacles. Je te
+          parlerai de tout cela plus en détail, en temps et lieu. Je suis toujours à la campagne.
+          J'ai quelque chose qui m'y attache beaucoup et qui me fait furieusement regretter d'être
+          obligé de rentrer à la ville dans une dizaine de jours : tu devines ce que je veux dire.
+          Oui, mon cher ami, c'est une petite passion, je dis petite parce qu'il me semble qu'elle
+          pourrait encore être plus violente. Veux-tu savoir ce que j'aime? C'est une jeune femme de
+          19 à 20 ans, très-jolie, très-bonne, très-simple et très-naïve, qui m'aime aussi, à ce que
+          je crois, et qui me l'a avoué. Il n'y a que quinze jours que j'ai fait sa connaissance et
+          nous sommes déjà très-bien.,Cependant il n'y a encore rien de positif. Et je vais être
+          obligé de l'abandonner, pour un an peut-être. C'est cruel ! Un autre profitera de mes
+          avances, quoique jusqu'ici elle soit irréprochable. Et alors je ne l'aimerai plus, car je
+          veux un coeur tout neuf. Je te manderai où j'en suis dans ma première lettre. Regina
+          potens Cypri ! ayez pitié de moi ! </p>
+        <closer>
+          <salute>Adieu, aime-moi comme je t'aime. Je vais repartir pour la campagne dans
+            l'instant.</salute>
+          <signed>Le meilleur de tes amis.<lb/><name>ALPHONSE DE LAMARTINE.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

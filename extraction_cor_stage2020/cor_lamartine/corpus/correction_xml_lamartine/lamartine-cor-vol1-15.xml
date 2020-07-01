@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1808-10-29" resp="author">29 octobre 1808</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1808-10-29">29 octobre 1808</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Le 29 octobre 1808.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Enfin, mon cher ami, me voilà revenu d'une infinité de courses que j'ai faites depuis que
+          je t'ai quitté; me voilà renfermé de nouveau dans ma petite chambre, assis devant mon
+          bureau, occupé à l'écrire et à rêver à quelque pièce que je médite. Mais ce ne sera pas
+          pour longtemps, car je pars dans quatre ou cinq jours pour faire un des voyages que
+          j'avais projetés avec Virieu. Je vais à Autun et à Montcenis, visiter des manufactures,
+          des fonderies et des choses aussi curieuses que notre grotte. Ce petit voyage sera
+          d'autant plus agréable que je vais le faire avec deux jeunes gens que je connais depuis
+          peu de jours, et qui me paraissent plus instruits, mieux éduqués et plus aimables que les
+          autres que je vois ici. Je voudrais bien que vous fussiez de la partie, mais j'espère que
+          tôt ou tard nous la ferons ensemble.</p>
+        <p>Mon voyage a été heureux et assez agréable, si quelque chose peut amuser lorsque l'on
+          quitte ses deux meilleurs amis sans savoir quand on les reverra. Tu ne larderas pas,
+          j'imagine, de partir pour Grenoble, où tu seras fort bien, où tu t'amuseras, où tu feras
+          de jolis vers qui courront la ville et qui te feront rechercher. Mais, avant de les
+          laisser partir, montre-les à quelque juge sévère, ne les hasarde pas ; une fois lancés, on
+          ne les peut plus retirer. Envoie-les-moi, je te dirai mon avis franchement ; tu me
+          donneras une" preuve de confiance et moi une preuve de sincérité.</p>
+        <lg>
+          <l>Fais-moi le confident des secrets les plus chers,</l>
+          <l>De tes premiers amours et de tes premiers vers.</l>
+        </lg>
+        <p>LA HARPE.</p>
+        <p>J'en userai souvent de même avec toi, mais point de flatterie, pas plus que de choses
+          piquantes.</p>
+        <p>Comment ces dames ont-elles reçu ton compliment ? comment a été la fêle de ta mère, et le
+          départ de mademoiselle Berthier?</p>
+        <l>Que de baisers reçus, que de larmes versées!</l>
+        <p>Es-tu toujours un peu épris ? Pour moi, mon cher ami, je te le dis dans la jubilation, je
+          ne suis pas encore amoureux, ni un peu ni beaucoup. Je suis libre et je désire l'être
+          toujours. Mais qu'arrivera-t-il ? Je n'en sais rien. Jusqu'à présent je ne vois rien de
+          digne d'une passion, rien que de petites effrontées, impudentes, coquettes, rien que de
+          petites ignorantes, imbéciles, malignes, médisantes, sottes, laides, et je crois que je me
+          suis formé une idée de perfection que je ne trouverai jamais. Et dans ce cas, comme je te
+          l'ai dit, je vis garçon, je m'occupe des lettres que j'aime tous les jours davantage, je
+          voyage pour connaître un peu notre prison, je vais quelquefois les hivers à Paris, si Dieu
+          m'en donne les moyens, et je passe ma vie en philosophe modéré, content de son sort,
+          faisant du bien autant qu'il peut, et n'ayant d'autres liens que ceux de l'amitié. Je te
+          prédis que tu feras de même, mais, au nom de Dieu, ne va pas te fourrer dans le militaire.
+          Tu en rêves de brillantes choses, la réalité te détromperait et ton temps aurait été
+          perdu.</p>
+        <p>J'ai fait des narrations de notre voyage à tous ceux qui ont voulu l'entendre, mais je ne
+          l'écris pas. Que peut-on dire de neuf sur un petit voyage comme le nôtre, après Piron,
+          Voltaire, Bachaumont, Desmahis, Parny, Pompignan et une infinité d'autres ? La Gastronomie
+          et l'Imagination, dont vous m'avez fait cadeau, ont été très-bien reçues; elles figurent à
+          merveille devant ma table. Je parie que Sapho t'ennuie déjà. Je n'y ai pas trouvé les
+          beautés dont on parle tant. Est-ce ma faute, est-ce la sienne ? Sterne m'a un peu ennuyé.
+          Avec toute sa légèreté, je le trouve monotone. Il n'y a que le Voyage sentimental de lui
+          que je relise avec plaisir. Ta maman a-t-elle été étonnée de ce que j'ai pris la liberté
+          de lui écrire mes remercîments ? Je te prie de lui présenter mes respects ainsi qu'à ton
+          aimable vicaire.</p>
+        <closer>
+          <salute>Adieu, mon cher ami, je t'embrasse et t'aime de tout mon coeur, et j'ai tout
+            oublié sans peine.</salute>
+          <!-- Je le mets manuellement. En soi c'était sur la même ligne dans le texte. Choix d'encodage  . -->
+          <signed>ALPH. DE L.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

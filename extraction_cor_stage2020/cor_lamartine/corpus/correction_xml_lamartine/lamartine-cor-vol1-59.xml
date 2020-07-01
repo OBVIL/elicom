@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-05-04" resp="author">4 mai 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-05-04">4 mai 1810.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Lyon,</placeName>
+            <date>4 mai 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Toujours le même silence, mon cher ami, je ne sais vraiment plus si tu es encore digne de
+          ce doux nom. Guichard est plus piqué encore que moi : tu sais qu'il est délicat et même un
+          peu susceptible, mais pour le coup, il y a bien de quoi l'être !</p>
+        <lg>
+          <l>Et de toi cependant nous nous parlons sans cesse ! </l>
+          <l>Nous rejetons encor tes torts sur ta paresse, </l>
+          <l>Et ton nom bien ou mal enchâssé dans nos vers, </l>
+          <l>Ton nom chéri va courir l'univers.</l>
+        </lg>
+        <p>Ce matin surtout, j'ai pensé à toi. Je l'ai regretté, presque pleuré. J'ai été seul
+          visiter la grotte de Rousseau du côté d'Oullins, sur les bords de la Saône. J'y ai passé
+          une délicieuse matinée. Je voulais y faire quelques vers, mais il n'y a pas eu moyen. A
+          peine en revenant ai-je pu accoucher de cinq ou six.</p>
+        <p>J'ai pris ensuite un bateau. J'ai traversé au bout de l'île Perrache et j'y ai
+          philosophiquement déjeuné avec de l'excellent lait et du pain de paysan. (Où étais-tu,
+          Grillon?)</p>
+        <p>J'avais les Confessions dans ma poche. Quel bal, quel spectacle vaut cette promenade !
+          J'en étais devenu généreux, et ma batelière et ma laitière m'ont regardé avec de grands
+          yeux, quand dans un beau mouvement j'ai, tiré pour elles la pièce blanche. — Remerciez
+          Rousseau !</p>
+        <p>Jusqu'à quand es-tu à Paris? Pour moi je vais incessamment, hélas ! très-incessamment
+          quitter Lyon, ses charmants voisinages, mes abonnements aux deux spectacles, mon maître
+          d'anglais, qui est presque mon ami, mes deux charmants appartements, et par-dessus tout ma
+          liberté, mon impayable , incomparable liberté ! D'ici à quinze jours cependant adresse-moi
+          toujours les lettres ici, et attends mon autre adresse pour m'écrire ensuite. J'irai tout
+          de suite à la campagne, je commencerai mes courses à pied, n'ayant pas de quoi me donner
+          le modeste bidet cette année-ci encore. L'imagination et mon livre anglais, grec ou latin
+          ou français, me dédommageront de tout. Les cours de botanique, physique, chimie, histoire
+          naturelle commencent ici. Le temps et l'argent me manquent pour en profiter. C'est peu de
+          chose au reste à ce qu'il me semble ! J'ai vu L... ici il y a deux jours, toujours le
+          même, meilleur encore s'il était possible. Nous irons peut-être ensemble passer quelques
+          jours chez lui à la Verpillière. Tu te souviens, je pense, de la Verpillière. Que fais-tu
+          de J..., de D... et autres?</p>
+        <closer>
+          <salute>Adieu, on m'appelle Alphonse de Lamartine. Chez Rolland, traiteur, rue de
+            l'Arsenal, n° 24. Donne-moi ton numéro.</salute>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

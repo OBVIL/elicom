@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1809-09-04" resp="editor">4 septembre 1809</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1809-09-04">4 septembre 1809</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Milly, </placeName>
+            <date>4 septembre.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <lg>
+          <l>Oui, je vole à ton ermitage,</l>
+          <l>Je vais me jeter dans tes bras;</l>
+          <l>Vers ce délicieux rivage</l>
+          <l>L'amitié conduira mes pas.</l>
+          <l>Sitôt que, barbouillé de lie,</l>
+          <l>Bacchus reviendra parmi nous</l>
+          <l>Rendre la nymphe plus jolie,</l>
+          <l>Rendre les satyres plus fous,</l>
+          <l>Je partirai. Sur l'onde claire</l>
+          <l>Quatre ou cinq gros zéphyrs normands</l>
+          <l>Conduiront ma barque légère</l>
+          <l>Vers ces bords heureux et charmants.</l>
+          <l>Le soir, du portique sonore</l>
+          <l>Quand j'ébranlerai le marteau,</l>
+          <l>Nanette vicndra-t-elle encore</l>
+          <l>M'ouvrir la grille du château?</l>
+          <l>Retrouverai-je la cellule</l>
+          <l>Où tous deux, sur la fin du jour,</l>
+          <l>Nous chantions ce fripon d'Amour</l>
+          <l>Qui tous deux maintenant nous brûle ?</l>
+          <l>Retrouverai-je le réduit,</l>
+          <l>La poétique solitude Où, loin du tumulte et du bruit,</l>
+          <l>Nous faisions une douce étude</l>
+          <l>De charmer le temps qui s'enfuit?</l>
+          <l>Retrouverai-je la prairie</l>
+          <l>Où nous descendions le matin,</l>
+          <l>Horace ou Voltaire à la main,</l>
+          <l>Chercher la douce rêverie ?</l>
+          <l>Hélas ! je les ai regrettés</l>
+          <l>Ces jours sereins, ces jours tranquilles!</l>
+          <l>J'ai vu le tumulte des villes</l>
+          <l>Et leurs coupables voluptés.</l>
+          <l>J'ai vu l'intérêt mercenaire</l>
+          <l>Former des amitiés d'un jour,</l>
+          <l>Et la beauté fausse ou légère</l>
+          <l>Trahie et trahir tour à tour.</l>
+          <l>J'ai vu l'agréable infidèle</l>
+          <l>Oublier le plus doux serment,</l>
+          <l>Hélas ! et, pour me venger d'elle,</l>
+          <l>Moi-même j'en ai fait autant!</l>
+          <l>J'ai vu, dans un cercle brillant,</l>
+          <l>Un sot, à la démarche fière,</l>
+          <l>Porter au vent sa tête altière,</l>
+          <l>Et le mérite en rougissant</l>
+          <l>Promener sa mine écolière,</l>
+          <l>Et bâiller en applaudissant.</l>
+          <l>J'ai vu... Mais que dirai-je encore?</l>
+          <l>Pardon, je finis, je me tais.</l>
+          <l>En voyant renaître l'aurore</l>
+          <l>De jours d'innocence et de paix,</l>
+          <l>Je redeviens heureux et sage :</l>
+          <l>Ainsi le limpide ruisseau</l>
+          <l>Dont la tempête a troublé l'eau</l>
+          <l>Se purifie après l'orage,</l>
+          <l>Reprend sa première beauté,</l>
+          <l>Et dans son miroir argenté </l>
+          <l>Réfléchit les fleurs du rivage.</l>
+          <l> Prépare donc, ô mon ami ! </l>
+          <l>Ta muse qui toujours sommeille, </l>
+          <l>Et que le salpêtre endormi </l>
+          <l>Dans nos mains enfin se réveille ! </l>
+        </lg>
+        <closer>
+          <salute>
+            <lg><l>Adieu. Dans la moitié d'un mois,</l>
+            <l> Sans coursiers et sans équipage,</l>
+            <l>Tu me verras auprès de toi</l>
+            <l> Renouer ce doux bavardage.....</l></lg>
+            <lg><l>Fait sur le coin d'un vieux pupitre,</l>
+            <l> Sans Minerve, sans Apollon.</l>
+            <l> Pour ce, l'auteur de cette épître</l>
+            <l> N'ose pas te signer son nom.</l></lg>
+          </salute>
+          <signed>A. de L.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

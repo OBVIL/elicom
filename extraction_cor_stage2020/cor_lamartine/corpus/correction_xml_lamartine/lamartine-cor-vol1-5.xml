@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1808-02-18" resp="author">18 février 1808.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1808-02-18">18 février 1808.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon, </placeName>
+            <date>18 février 1808.</date>
+          </dateline>
+          <salute>Mon cher ami,</salute>
+        </opener>
+        <p> j'avais juré que je ne toucherais pas ma plume aujourd'hui, parce que je me suis fait
+          mettre les sangsues et que je voulais me reposer; mais quel serment peut tenir contre le
+          désir d'écrire à un ami? Le mien n'a pas été assez fort pour cela. D'ailleurs quel plus
+          doux délassement pour moi que de causer un peu avec toi ! Je sens plus que jamais le
+          besoin qu'on a de parler souvent à ses amis, et voilà pourquoi je me propose, bon gré, mal
+          gré, de t'accabler de mes soties épîtres. La voilà donc recommencée sérieusement celle
+          correspondance à laquelle nous n'avions fait que préluder pendant les vacances dernières.
+          Nous verrons si tu y seras aussi fidèle que tu me l'as promis et que je le suis moi-même.
+          L'air de Belley aurait-il donc changé les résolutions que t'avait inspirées celui de ton
+          château charmant de Bienassis, ou bien commences-tu à dédaigner un pauvre ermite au coin
+          de son feu, qui n'a pour toute compagnie la plupart du temps que ses livres, ses souvenirs
+          et ses espérances ? Mes livres sont comme mes amis, peu nombreux, mais bien choisis ; mes
+          souvenirs ne peuvent qu'être agréables ; pour mes espérances, elles sont la partie la plus
+          riante et la plus étendue de ma société : j'aime à me délasser avec elles de tous mes
+          maux, je les appelle à mon secours dans mes ennuis, je ne les oublie pas dans mes
+          jouissances, et je goûte fort ce mot d'une jolie chanson :</p>
+        <lg>
+          <l>Si le bonheur est une rose, </l>
+          <l>L'espérance en est le bouton.</l>
+        </lg>
+        <p>Le désir ardent que j'ai de le revoir contribue beaucoup à nourrir la mienne ; quand
+          viendra cet heureux temps?</p>
+        <p>J'ai reçu les deux aimables lettres de Virieu et de Galtier ; j'ai répondu à l'une et un
+          de ces jours je répondrai à celle de Virieu qui me demande le récit des aventures qui ont
+          entremêlé mon voyage. On en pourrait certainement faire une autre Odyssée, tant il y a de
+          merveilleux, d'étonnant et de terrible, mais par malheur tout cela est mêlé de beaucoup de
+          comique. Je te charge de tous les compliments du monde pour lui, pour Galtier, pour
+          Laboré, Revoux, Rombeau, Labbé et Revel. </p>
+        <closer>
+          <salute>Adieu, mon cher ami, philosophe bien, divertistoi bien, porte-toi bien. Voici les
+            jours gras qui arrivent, vous allez vous en donner. Je t'y souhaite tout le plaisir
+            possible, mais je désire sur toutes choses que tu me regardes toujours comme le meilleur
+            de tes amis.</salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

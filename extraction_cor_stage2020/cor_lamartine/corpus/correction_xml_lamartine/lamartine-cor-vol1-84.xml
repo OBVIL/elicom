@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1811-11-18" resp="author">18 novembre 1811</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1811-11-18">18 novembre 1811</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>18 novembre 1811.</date>
+          </dateline>
+          <salute>Mon cher ami, </salute>
+        </opener>
+        <p>pourquoi n'ai-je point de tes nouvelles? Es-tu toujours plus malade ou es-tu en route
+          pour venir me joindre? Je suis inquiet, sérieusement inquiet; rassure-moi donc vite,
+          écris-moi quelques lignes seulement, pas plus long que je n'écris à mon amie quand je suis
+          pressé : je t'aime et je me porte bien. Ajoutes-y : j'arrive.</p>
+        <p>Tu sais que je suis à Rome déjà depuis un certain temps. J'y mène la vie d'un ermite :
+          j'erre le malin dans ses vastes solitudes, tout seul le plus souvent; je visite, un livre
+          dans ma poche, ces belles et désertes galeries des palais romains ; le soir, je travaille
+          ou vais visiter quelques artistes. Ils sont tous de l'honnêteté et de la complaisance la
+          plus aimable. Il va huit jours que je n'ai mis les pieds au spectacle. Je ne sais si je
+          dois aller faire une excursion à Naples : on assassine toujours à force; et puis Rome me
+          plaît au delà de toute expression. Son aspect, ses moeurs, son silence, sa tranquillité,
+          me font du bien. Si jamais des malheurs irréparables m'arrivaient, je viendrais me fixer
+          ici. Je crois que c'est le lieu qui convient le mieux à la douleur, à la rêverie, aux
+          chagrins sans espoir. Il me semble que madame de Staël dit quelque chose de semblable dans
+          Corinne, je suis bien de son avis. C'est une femme qui, quoi qu'on en dise, connaît bien
+          le coeur de l'homme, et a souvent plus de sens qu'on ne croit. Il y a tant de choses qu'on
+          ne connaît qu'après les avoir soimême éprouvées !</p>
+        <p>Madame la comtesse d'Albani est actuellement ici. Je l'ai rencontrée, il y a une
+          quinzaine de jours, à la galerie du Vatican, mais, comme je n'ai pas de recommandation
+          pour elle, je ne m'y suis pas présenté. Elle est toujours, dit-on, avec un certain peintre
+          français qu'on croit avoir succédé à Alfiéri. Quelle chute!...</p>
+        <p>Je ne sais où je passerai mon hiver. J'aimerais à le passer à Rome, mais de cruelles
+          circonstances me tourmentent et me rappellent. Viens, décide- moi, aide-moi, secours-moi,
+          je suis un homme perdu. Vignet m'écrit des lettres dignes de lui, charmantes. Vois-le en
+          passant et embrasse-le pour moi. Si je repasse par le Mont-Cenis, ce quiserait fort de mon
+          goût, je me propose de m'arrèter quelque temps à Chambéry. Je le dirai que j'ai l'envie de
+          m'établir quelque temps dans ce payslà; je ne sais pourquoi il m'enchante. J'y louerai une
+          de ces petites maisons, solitaires et pourtant si près de la ville, afin de pouvoir, quand
+          je le voudrai voir quelques figures humaines, car je vis plus que jamais avec des êtres
+          tout imaginaires. Ce que je ne conçois pas, c'est que nous ayons ainsi dans notre tête
+          l'image d'êtres parfaits, et que dans la réalité ils n'existent pas. Où avons-nous donc
+          pris cette copie sans modèle? — Il faudra qu'alors tu t'établisses au Lemps. Nous irons un
+          mois chez l'un, un mois chez l'autre. Mais te contenteras-tu de mon frugal ordinaire? Ce
+          ne sera pas, comme dit Horace, l'aurea mediocritas, ce sera bien pis.</p>
+        <p>J'attends un de ces jours le dénoûment d'une affaire, qui doit me décider sur le temps de
+          mon séjour ici, et qui me donnera peut-être un moment de relâche dans mes chagrins. Dieu
+          le veuille !</p>
+        <p>Hier je suis monté à St-Onuphre, je suis entré dans le couvent, dans une petite vilaine
+          église : un frère m'a reçu et commençait à m'expliquer de mauvaises peintures et
+          d'ennuyeuses inscriptions. — Mais le tombeau du Tasse, lui disais-je toujours? — Per Dio,
+          le tombeau du Tasse! vous marchez dessus, m'a-t-il dit; et en effet j'ai regardé à mes
+          pieds, j'ai vu une très-petite pierre carrée et l'inscription : Fratres ejus ecclesiae,
+          etc. Je me suis jeté à genoux, je ne sais pas quelle prière j'ai faite, mais je sais bien
+          que je pleurais en me relevant et que je me suis en allé bien honteux de moi-même.</p>
+        <p>J'ai vu à Rome tout ce qu'on peut voir matériellement, mais que d'années et de
+          connaissances il faudrait pour dire: J'ai vu Rome! </p>
+        <closer>
+          <salute>Adieu, écris-moi, à M. Alph. de Lamartine, poste restante, à Rome. Je t'embrasse à
+            présent, non-seulement comme mon meilleur, mais comme mon unique ami : mes yeux se sont
+            dessillés sur bien d'autres. Adieu, tout à toi in aeternum.</salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

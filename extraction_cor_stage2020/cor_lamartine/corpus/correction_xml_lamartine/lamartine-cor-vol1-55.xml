@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-04-18" resp="author">18 avril 1810</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-04-18">18 avril 1810</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>18 avril 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <lg>
+          <l>Tandis que chacun dans la rue</l>
+          <l>Promène son oisiveté ;</l>
+          <l>Tandis que la jeune beauté</l>
+          <l>Reçoit d'une main ingénue</l>
+          <l>Le billet qu'Amour a dicté,</l>
+          <l>Et qu'à l'ombre de la cohue</l>
+          <l>Un amant glisse en liberté,</l>
+          <l>Malgré le coup d'oeil redouté</l>
+          <l>D'un argus à très-courte vue;</l>
+          <l>Tandis que, dans ce jour fêté,</l>
+          <l>Chacun semble avoir la berlue,</l>
+          <l>J'écris avec facilité</l>
+          <l>Ces vers, enfants de la gaieté,</l>
+          <l>Pour tuer le temps qui me tue.</l>
+        </lg>
+        <lg>
+          <l>Mais varions un peu mon ton et mon allure,</l>
+          <l>Que mes vers cadencés marquent bien la césure,</l>
+          <l>Qu'enfilés deux à deux, ils tombent lourdement,</l>
+          <l>Imitent du marteau le bruit retentissant,</l>
+          <l>Fatiguent le lecteur de leur monotonie</l>
+          <l>Et soient un sûr garant contre toute insomnie !</l>
+          <l>J'avais promis en vain qu'au retour du printemps</l>
+          <l>J'irais auprès de toi, plein d'une ardeur nouvelle,</l>
+          <l>Soupirer une idylle en l'honneur de ta belle ;</l>
+          <l>Un dieu cruel s'oppose à mes engagements.</l>
+          <l>Ce dieu, mon cher ami, t'a visité peut-être;</l>
+          <l>A son signalement tu vas le reconnaître.</l>
+          <l>Mais, sur un autre pied, marchons, il en est temps.</l>
+        </lg>
+        <lg>
+          <l>Visage ovale,</l>
+          <l>OEil enfoncé,</l>
+          <l>Teint noir et pâle,</l>
+          <l>Sourcil froncé,</l>
+          <l>Habit percé,</l>
+          <l>Marche inégale,</l>
+          <l>Regard baissé ;</l>
+          <l>La faim le guide,</l>
+          <l>Et tristement</l>
+          <l>Il va portant</l>
+          <l>Sa bourse vide</l>
+          <l>A tout venant.</l>
+          <l>Jeune grisette</l>
+          <l>Manquant d'amant,</l>
+          <l>Vieille coquette</l>
+          <l>Sans agrément,</l>
+          <l>Charmant poëte</l>
+          <l>Pauvre d'argent,</l>
+          <l>Et tel qui brille</l>
+          <l>Par maint talent,</l>
+          <l>Le vont suivant,</l>
+          <l>Et sont enfants</l>
+          <l>De la famille.</l>
+        </lg>
+        <lg>
+          <l>Peut-être, un jour, moins pauvre et plus heureux,</l>
+          <l>J'irai, traîné dans un noble équipage,</l>
+          <l>De mon bonheur t'offrir le doux partage,</l>
+          <l>Et prodiguer à l'oeil des envieux</l>
+          <l>D'un luxe fin l'élégant étalage;</l>
+          <l>Le dieu joufflu de la prospérité,</l>
+          <l>Plutus, alors serait à mon côté.</l>
+          <l>En attendant, partageons notre vie</l>
+          <l>Entre l'amour et la philosophie;</l>
+          <l>Sachons jouir du peu que nous avons,</l>
+          <l>Consolons-nous du peu que nous perdons ;</l>
+          <l>Aimons sans art, aimons avec constance,</l>
+          <l>Dans notre sein nourrissons l'espérance,</l>
+          <l>Et si parfois nous trouvons le plaisir,</l>
+          <l>Que notre main s'empresse à le cueillir;</l>
+          <l>Ce n'est, hélas! qu'une fleur passagère.</l>
+          <l>Heureux qui peut la saisir et se taire !</l>
+          <l>Taisons-nous donc quand un regard touchant</l>
+          <l>Du rendez-vous marque l'heureux instant,</l>
+          <l>Quand de l'amour sonne l'heure propice,</l>
+          <l>Et quand pour nous naît un tendre caprice !</l>
+          <l>Taisons-nous donc quand un vers né sans art</l>
+          <l>De la beauté nous mérite un regard !</l>
+          <l>Ou quand aux fruits d'un aimable délire</l>
+          <l>Un bon ami par hasard veut sourire!</l>
+        </lg>
+        <closer>
+          <salute/>
+          <signed>ALPH. DE LAM.</signed>
+        </closer>
+        <postscript>
+          <p>Écris-moi donc. Toujours la même adresse. Virieu m'a écrit et se porte bien :
+            adieu.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-07-26" resp="author">26 juillet 1810</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-07-26">26 juillet 1810.</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Dijon, </placeName>
+            <date>26 juillet 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p/>
+        <p>Tantôt à Dijon, tantôt à la campagne, mon cher ami, je ne fais rien ou à peu près rien,
+          et, pour m'autoriser dans ma paresse, je lis l'ami Montaigne que j'apprends tous les jours
+          à mieux connaître et par conséquent à aimer davantage. Nous ne nous quittons pas. Veux-tu
+          que je te dise ce qui m'y attache plus encore? C'est que je trouve une certaine analogie
+          entre son caractère et le tien : même paresse, même insouciance, même abandon, même
+          jugement sur beaucoup de choses, même goût pour l'amitié, il n'y a pas de chapitre dans
+          son livre que j'aime autant que celui où il nous parle avec tant de chaleur et de vivacité
+          de cet heureux Etienne de la Boëtie. Je dis heureux, parce que celui-là au moins a un
+          véritable ami, un ami même après sa mort, un ami qui ne néglige rien pour le faire
+          ressortir. Comment trouves-tu ce mot-là? « Parce que c'était lui, parce que c'était moi. »
+          — Je préfère une phrase comme celle-là à-tout le long traité de Cicéron et de Sénèque.</p>
+        <p>A propos d'amitié, j'ai trouvé ici un de nos bons amis, c'est B... le cadet, il fait un
+          cours de-droit à Dijon. Il est toujours le même : bon, complaisant, attaché à ses anciens
+          amis, et digne qu'on se souvienne de lui, plus que beaucoup d'autres. Tu ne saurais croire
+          le plaisir que j'ai eu à le voir. Le soir du jour où j'arrivai, je m'informai de son
+          logement et j'y laissai mon nom et mon adresse. Le surlendemain matin à six heures, il
+          vint chez mon oncle qui me l'amena dans ma chambre où je dormais encore. Nous nous
+          embrassâmes de bon courage. Je passai presque ma journée avec lui. Je voulus voir son
+          logement modeste de légiste; il fit beaucoup de difficultés, disant qu'il était trop
+          taudis, et qu'il en était humilié. Ne le reconnais-tu pas bien là? N'est-ce pas lui que
+          nous appelions le bon garçon par excellence? Il l'est encore. Je le menai prendre des
+          glaces après la comédie, et là il m'avoua, avec l'air que tu lui connais, qu'il avait
+          perdu au jeu ce que son père lui avait envoyé pour finir son année. Je lui ai offert un
+          petit secours de six louis en me gênant un peu, et il l'a accepté de bonne grâce. Il doit
+          me rendre cela à son retour. Je veux tâcher de l'emmener à trois lieues de Dijon, chez mon
+          oncle où je suis plus chez moi que chez mon père même. J'aurai un plaisir infini à me
+          rappeler avec lui nos belles années. Je lui ai dit que tu te souvenais toujours de lui, et
+          il m'a chargé de t'accabler de compliments, de te dire que le jour le plus heureux pour
+          lui sera celui où il te reverra, où nous serons trois ou quatre, assemblés comme à
+          Bienassis. Ma foi ! mon ami, je suis de cet avis-là aussi. Il faut nous voir, il faut
+          prendre des mesures, il en est temps. Nous reconnaîtrons-nous? Mais dis-moi donc ce que
+          c'est que ce voyage que tu dois faire en Gascogne? combien tu dois y être de temps, et
+          perchè? Pour moi je suis in dubio dans ce moment-ci. Je n'ose tâter le terrain de peur de
+          le trouver trop mauvais; si cela arrive, je suis prêt à faire des extravagances. Où
+          irai-je cet hiver ? Il y a longtemps que je n'entends parler de Guichard. J'espérais que
+          nous nous serions donné un rendez-vous cet automne. Peu s'en faut, mon ami, que je n'aille
+          te dire un petit bonjour à Paris: on y va lestement de l'endroit où je suis, en deux ou
+          trois jours. Mais c'est un rêve, cela ne peut s'exécuter pour le moment, il faut attendre
+          encore, et puis toujours attendre.</p>
+        <p>Dessines-tu? apprends-tu quelque langue? suis-tu quelque cours? vas-tu plus souvent aux
+          Français et à l'Opéra? as-tu rencontré une ombre d'ami? Donne-moi donc encore des détails
+          sur ta vie. Tu sais toute la mienne usque ad nauseam. J'ai ici une petite bibliothèque
+          assez gentille où je passe mon temps et de fort jolis jardins où je vais m'étendre et
+          vituler. Outre cela, j'ai dans l'enclos une espèce de lac où tous les soirs je me baigne
+          et m'exerce à nager. Les journées passeraient encore assez vite si ce n'étaient les
+          diables de soucis sur l'avenir, cette tête que tu connais au moins aussi bien que moi ;
+          mais pourquoi toujours répéter la même chose? Je me tais et j'attends une de tes rares
+          épîtres : adresse-la cette fois-ci à mon adresse ordinaire à Mâcon. Probablement j'y serai
+          alors seul et maître de maison. C'est dans ce temps-là que tu devrais venir.</p>
+        <closer>
+          <salute>Adieu. Guichard t'écrit-il ou s'est-il enfin rebuté ? car tu parais t'endormir dans la
+            prospérité, je suis forcé de le répéter. Voilà une seconde lettre sans réponse. Rien ne me
+            rebute et c'est peut-être tant pis pour toi. Eh bien ! soit. Mais je suis comme Montaigne,
+            et je t'aime tous les jours davantage parce que c'est toi, parce que c'est moi.</salute>
+          <signed>ALPH. DE LAMARTINE.</signed>
+        </closer>
+        <postscript>
+          <p></p>
+        </postscript>
+        <epigraph><l>Ah secum petulans amentia certat !</l></epigraph>
+      </div>
+    </body>
+  </text>
+</TEI>

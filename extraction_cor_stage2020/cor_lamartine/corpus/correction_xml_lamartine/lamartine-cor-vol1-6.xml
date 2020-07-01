@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1808-02-22" resp="author">22 février 1808</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1808-02-22">22 février 1808</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Mâcon, </placeName>
+            <date>22 février 1808</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p/>
+        <p>J'ai reçu ta lettre, mon cher ami ; elle a calmé le chagrin que j'avais de ne vous plus
+          voir, de ne plus vivre, de ne plus causer avec TOUS.</p>
+        <p>Tu me demandes le récit démon voyage. Je vais te le faire. Ne t'attends pas cependant à
+          ce que je veuille faire le petit Chapelle et te dire des platitudes en vers : il est
+          beaucoup plus simple de les dire en prose. D'ailleurs les sites du Bugey, non plus que les
+          habitants, ne prêtent guère à la poésie, et Bachaumont ainsi que son compagnon ne l'ont
+          pas choisi pour en faire le sujet de leur badinage.</p>
+        <p>Je m'embarquai le lundi avec la compagnie qu'on nous avait annoncée. Je fus fort maussade
+          tout le long du jour, et il n'y a rien là de merveilleux. Le soir j'eus le malheur de
+          rencontrer à Ambérieux un poëte, entre la poire et le fromage.</p>
+        <p>Ce poëte, tu le connais, mais d'ici à demain tu ne le devinerais pas, si je ne te disais
+          que c'était G... qui me prit là en belle amitié pour mes péchés. Enfin je me délivrai du
+          personnage, de ses élégies; de ses couplets et de ses quatrains dont il ne me fil pas
+          grâce d'un seul, et j'allai me coucher dans un lit fort mauvais où je ne dormis guère. Je
+          me consolai en rêvant à vous, et nous repartîmes. Il y avait deux pieds de neige ; nous
+          versâmes à moitié dans un fossé, je sautai en bas de la voiture et" n'eus point de mal.
+          Pour couper court, nous arrivâmes.</p>
+        <p>Je passai à Lyon dix ou douze jours fort peu agréables ; cependant je vis deux fois V...,
+          un peu plus spirituel que de coutume, chose surprenante. La faculté dé Lyon m'a défendu de
+          m'appliquer aux mathématiques, de cinq ou six mois. J'ai cependant déjà commencé à lui
+          désobéir ainsi qu'en beaucoup d'autres points, et, malgré mes désobéissances, je commence
+          à me mieux porter, mais en arrivant ici j'étais très-mai à mon aise. Voilà mon voyage,
+          bien en abrégé. Un jour que j'en aurai le temps je te le conterai plus en détail, il y a
+          des choses qui te feront rire...</p>
+        <p>Veux-tu à présent savoir ce que je fais : je me lève à six heures, j'étudie jusqu'à neuf;
+          je monte à cheval jusqu'à midi ; je dîne. Une heure après le dîner je prends une leçon de
+          danse, une autre de musique, une de mathématiques et une de dessin. Après tout cela je
+          vais faire quelques visites ou je reste seul à la maison, comme aujourd'hui pour
+          l'écrire.</p>
+        <p>Mon pli est pris et je veux décidément travailler. J'ai commencé à parler de diplomatie :
+          on me dégoûte un peu, mais je suis fidèle au poste, nobilis me sollicitat ambilio.
+          J'attends le mois d'octobre pour me lancer si je peux y parvenir. En attendant, je prépare
+          mes armes et je fais ma devise : virtuti et glorice.</p>
+        <p>Nous avons eu ici quinze jours de printemps pendant lesquels j'équitais beaucoup avec
+          deux de mes amis qui ne valent pas ceux de Belley. Nous avons été du côté de l'Omus, pays
+          qui, je crois, l'est connu et cher, si j'ai la mémoire bonne. Nous sommes replongés dans
+          les neiges et je me chauffe.</p>
+        <p/>
+        <closer>
+          <salute>Adieu, je t'embrasse de tout mon coeur. Je crains de l'ennuyer, sans quoi je ne finirais
+            pas.Dis mille choses à Guichard, Galtier, Laboré,Revoux, ainsi qu'à tous nos autres
+            anciens amis. Quand te reverrai-je ?</salute>
+          <signed>Ton ami,<name>ALPH. DE LAMARTINE.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

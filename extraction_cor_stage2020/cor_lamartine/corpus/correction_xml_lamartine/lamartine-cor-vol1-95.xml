@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1812-10-29" resp="author, editor">29 octobre 1812</date>
+          <date when="1812-10-30" resp="author, editor">30 octobre [1812]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1812-10-29">29 octobre 1812</date>
+        <date when="1812-10-30">30 octobre [1812]</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" part="I">
+        <opener>
+          <dateline>
+            <placeName>Milly, </placeName>
+            <date>29 octobre 1812.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>C'est pour toi seul que je reprends la plume, mon cher ami; je néglige tout le monde
+          excepté toi, et depuis deux ou trois mois je n'ai écrit à personne : je cours toute la
+          journée pour consommer le temps qui m'assomme. Je n'ai pas une misérable chambre à
+          cheminée pour y passer au moins mes matinées et travailler en repos à quelque chose de mon
+          goût; plains-moi. Je sens ma tête pleine d'idées et de verve, j'ai des plans superbes,
+          mais, dès qu'il faut les mettre à exécution, le froid me prend et je me sauve à travers
+          champs, un Alfiéri sous le bras et un crayon dans ma poche. Quand j'ai bien couru, que je
+          me suis réchauffé, je m'assois au coin d'un buisson, et je crayonne des notes sur les
+          marges de mon volume ou j'en traduis une douzaine de vers. Voilà ma seule occupation et
+          je sens que je pourrais faire bien mieux. Que ne sommes-nous dans notre ermitage des
+          environs de Chambéry ! Tu me verrais avant deux mois accoucher de quelque chose qui
+          ressemblerait à Mérope ou à Saül. Apparemment que les dieux ne le veulent pas encore, et
+          peut-être ne le voudront-ils jamais. Quoi qu'il en soit, je sens que, si je deviens un
+          homme, je ne ferai jamais rien de bon qu'à la campagne, et surtout dans ces journées
+          sombres d'automne où je suis dans mon élément. C'est ma saison favorite, et je pense que
+          ce doit être aussi la tienne.</p>
+      </div>
+      <div type="letter" part="F">
+        <dateline><date>31 octobre.</date></dateline>
+        <p>Je te parlais hier de Mérope et de Saül, je viens d'en concevoir un, de Saül. Alfiéri
+          m'en a donné l'idée, mais le mien aura une marche qui me paraît plus chaude et une
+          intrigue un peu plus pressée que le sien. Mais puisse-t-il en avoir les beautés
+          d'expression, les richesses de poésie, qui sont vraiment admirables dans l'italien ! C'est
+          à mon avis le chef-d'oeuvre d'Alfiéri pour l'exécution. L'as-tu lu? Ce matin j'ai commencé
+          à versifier mon premier acte, je t'enverrai quelques scènes avant de partir de la
+          campagne, si ma verve ne s'éteint pas, si je n'ai rien de mieux à faire.</p>
+        <p>Tu me parles de Paris, il faut que tu y viennes et pour toi et surtout pour moi. Il me
+          semble que je vaux mieux avec toi : je me gâte, je m'avilis ailleurs, le feu sacré
+          s'éteint au milieu de ces connaissances si plates dont on s'environne : tout s'affaiblit,
+          jusqu'aux plus nobles dispositions de l'âme, jusqu'aux goûts les plus ardents de l'esprit,
+          la dissipation efface tout. Il nous faut de la solitude et de l'amitié chaude et vraie
+          pour nous retremper un peu. Au reste, mon ami, est-ce un mal de se rapetisser, de
+          s'avilir? Qu'est-ce donc que ce prétendu feu sacré de l'âme et du génie dont nous parlons,
+          à quoi tend-il, où nous conduit-il? pourquoi le sentons-nous, pourquoi tant d'autres ne le
+          sentent-ils pas ou le laissent-ils se perdre inutilement? Qu'en retirerons-nous si nous
+          l'alimentons ? que dira-t-on si nous l'éteignons? devons-nous le garder ou le rejeter?
+          est-ce un bien ou un tourment de cette vie? est-ce un don céleste ou est-ce aussi une
+          ridicule illusion? Qu'en penses-tu? Pour moi je ne pense plus rien. Je suis tenté de n'y
+          pas mettre grand prix, et d'en user comme d'un passe-temps tout aussi peu important qu'un
+          autre. Je n'ose plus avoir d'opinion sérieuse sur rien. Dieu veuille au reste que je
+          conserve mon coeur dans cette bienheureuse tranquillité sur l'article de l'ambition, car
+          je n'en ai plus l'ombre pour ce qui est de la gloire. Si j'en mérite, j'en aurai; si le
+          ciel le veut, je la mériterai, et je me tranquillise encore. Mais il est des choses plus
+          relevées encore que l'ambition et la gloire et qui m'occupent plus vivement et plus
+          souvent. Que de nuages les environnent! quelle épouvantable obscurité! et que bienheureux
+          sont les insouciants qui prétendent s'endormir sur tout cela ! Tu sais assez de quoi je
+          veux parler. Il est bien aisé de rejeter des systèmes comme j'ai fait, mais, s'il en faut
+          bâtir d'autres, où trouver des fondements? Il me semble voir assez clairement ce qui ne
+          doit pas être, mais pourquoi le ciel nous voile-t-il si bien ce qui est? ou du moins,
+          puisqu'il a voulu que nous fussions d'éternels ignorants, à quoi bon l'insatiable
+          curiosité qui nous dévore? Faut-il encore se tranquilliser là-dessus, laisser au ciel le
+          soin de nous instruire, de nous inspirer, de nous conduire? Je suis enchanté de le croire.
+          Mais voilà que je ne peux plus trouver de place pour mon adresse,</p>
+        <closer>
+          <salute/>
+          <signed></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

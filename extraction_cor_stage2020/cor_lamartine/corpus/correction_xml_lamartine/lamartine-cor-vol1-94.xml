@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1812-08-20" resp="author">20 août 1812</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Virieu, Aymon (1788-1841)"
+            ref="https://data.bnf.fr/fr/12057099/aymon_de_virieu/">Aymon de Virieu</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1812-08-20">20 août 1812</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Milly, </placeName>
+            <date>20 août 1812.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Enfin je sais où le prendre et où l'adresser de mes nouvelles, mon cher ami. Mais comment
+          voulais-tu que je t'écrivisse, étourdi que tu es, depuis deux mois que tu m'as annoncé ton
+          départ de Rome sans me donner d'adresse ; comment même aurais-je pu l'écrire, à M, de
+          Virieu à Évian ? Franchement, d'ailleurs, je crois que j'aurais su ton adresse, que je ne
+          t'aurais pas plus écrit : j'étais mort moralement et je le suis encore. Accablé d'ennui,
+          de maux de toute espèce et sans force pour rien souffrir, sans espérance pour l'avenir, je
+          n'avais que des idées sinistres à te faire partager.</p>
+        <p>J'ai été passer trois semaines à Paris pour me secouer un peu. Je m'y suis ennuyé tout
+          comme ici, tout comme à Dijon d'où j'arrive. Oh! que la vie me paraît longue ! Je suis à
+          présent tout seul à Milly; mes parents sont aux environs de Dijon, chez mon oncle. Je suis
+          maître de maison, maire de village, et à la queue de la charrue. Tout cela ne me rend pas
+          plus sédentaire : je suis toujours par voie et par chemin. Que faire? où me jeter, où fuir
+          pour éviter ce cruel ennui qui me ronge ? Je ne vois d'autre asile qu'auprès de toi.</p>
+        <p>Il y a trois jours qu'un plan de poëme épique me passa par la tête : il serait beau au
+          moins comme la Jérusalem ; mais j'ai voulu en faire quelques vers, et ces vers m'ennuient
+          comme la prose; et puis je ne me sens pas assez seul. Écoute, il n'y a qu'un moyen de
+          faire quelque chose de bon et de nous tirer de notre perte entière : retirons-nous
+          ensemble pour cinq ou six mois dans une petite cabane auprès de Chambéry, chez Vignet,
+          s'il le veut. Nous y vivrons à frais communs et à peu de frais ; nous n'y vorrons
+          personne, nous travaillerons toute la journée : et j'espère que celle retraite me fera
+          grand bien et retrempera un peu notre âme, notre esprit et notre coeur, qui en ont un égal
+          besoin. Il n'y a pas d'autre moyen de salut, sans cela je suis perdu à jamais. </p>
+        <closer>
+          <salute>Adieu, écris-moi vite et réponds à ma proposition ; mais je veux que nous ne
+            soyons que deux ou trois au plus, et Vignet peut seul faire le troisième.</salute>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

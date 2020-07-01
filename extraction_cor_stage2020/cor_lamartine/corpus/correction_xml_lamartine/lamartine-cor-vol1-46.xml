@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1810-02-10" resp="author">10 février 1810</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-02-10">10 février 1810</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Lyon, </placeName>
+            <date>10 février 1810</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je n'ai pas encore de tes nouvelles, mon cher ami, je suis vraiment en peine de toi.
+          Es-tu malade, mort? ou m'oublies-tu, ce qui serait peutêtre encore plus cruel pour moi? Je
+          ne comprends rien à ta conduite, non plus qu'à celle de Virieu. dont je n'entends plus
+          parler depuis deux mois. De grâce, tranquillise-moi ! A quoi me sert d'avoir des amis,
+          s'ils m'abandonnent ainsi, au moment où je pense sans cesse à eux et combien il nous
+          serait doux d'être réunis ! Y a-t-il quelque bon ou mauvais tour là-dessous? Je soupçonne
+          quelque tromperie.</p>
+        <p>Voilà enfin une partie de mes désirs satisfaits ! je m'instruis, je suis libre, je suis
+          indépendant, mais que dis-je, indépendant! je le suis si fort que j'en deviens ridicule.
+          Je ne peux m'assujettir à rien, pas même à des visites indispensables, à des devoirs de
+          société sans lesquels on est comme excommunié. Mon livre, ma chambre, mon feu et le
+          spectacle ont trop de charmes pour moi. Il n'y a qu'une chose qui me chagrine, c'est
+          quelques petites dettes que j'ai faites étourdiment, que mes parents savent et veulent que
+          je paie surle-champ. Si je les paie, il faudra que je file vers ma détestable patrie, car
+          il me restera peu de chose pour vivre ici. Comment sortir de là? Ma foi! je n'en sais rien
+          et suis extrêmement embarrassé. J'aurai au moins vécu deux mois heureux ou à peu près.
+          Donne-moi des conseils, mon cher ami : faut-il emprunter pour payer? faut-il me réduire à
+          ne guère sortir de ma cellule, à cesser tous mes abonnements de spectacles, etc.? Parle
+          comme pour toi.</p>
+        <p>Je n'ai pas le temps de faire un vers. C'est cruel, mais j'amasse pour l'été comme la
+          fourmi. Et toi, morbleu! que fais-tu donc? Parle donc! Je m'arrête, car je ne sais si tu
+          recevras ma lettre ou si tu daigneras me répondre.</p>
+        <closer>
+          <salute/>
+          <signed>ALPHONSE L.</signed>
+        </closer>
+        <postscript>
+          <p>L'adresse de Virieu, si tu l'as.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

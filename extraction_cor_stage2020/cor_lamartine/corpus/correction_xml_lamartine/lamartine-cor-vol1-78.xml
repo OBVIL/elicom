@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1811-06-10" resp="author">10 juin 1811</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1811-06-10">10 juin 1811</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Chez M. Comte, médecin, à Grenoble.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mâcon, 10 juin 1811.</p>
+        <p>J'ai reçu la dernière lettre, mon très-cher ami ; je ne suis point encore parti pour mon
+          beau voyage, je ne sais pas même l'époque fixe de mon départ. Tout ce que j'en sais, c'est
+          que ce sera dans le courant de ce mois-ci, et par conséquent très-prochainement. Tu as
+          peut-être vu Virieu qui est. actuellement aux eaux d'Aix. Si tu savais son a dresse, je
+          voudrais que tu me l'envoyasses tout de suite, parce qu'au moment où je partirai de Lyon
+          je, lui écrirais de se trouver à jour fixe à Chambéry où je passerai une nuit. Les eaux
+          d'Aix sont, je crois, assez près de là, et ce ne serait pas un voyage ni un grand
+          dérangement pour lui que de venir passer sa soirée avec moi. Si Grenoble était un peu
+          moins loin, je l'aurais fait la même demande. Mais je vois que tu n'es pas en humeur d'en
+          sortir, et que l'amour t'y enchaîne encore. Pour moi, mon ami, il faut bien que je rompe
+          les liens les plus doux, que je me condamne pendant sept ou huit mois aune douleur mille
+          fois pire que la mort, que j'abandonne tout ce qui m'est le plus cher dans ce monde après
+          mes deux amis. N'en parlons plus, ne rouvrons pas des blessures trop fraîches et trop
+          cruelles. Puissent les grands souvenirs de cette superbe Italie distraire un peu mon
+          esprit de toutes les peines de mon coeur! c'est tout ce que je puis espérer, car le mal
+          est sans remède, et le temps même ne peut que me le rendre moins insupportable, sans
+          jamais le guérir. Tu ris peut-être de mes grands sentiments de constance, toi qui jusqu'à
+          présent m'as jugé si peu susceptible d'une éternelle passion ; tu t'étonnes ne me voir
+          supporter depuis huit mois les mêmes chaînes, et résolu de les supporter toute ma vie :
+          pleure plutôt le malheur éternel de ton ami !</p>
+        <l>Non ignora mali miseris succurrere...</l>
+        <p>Si tu ne reçois pas ma lettre avant le 16, ne me réponds pas, ne m'écris plus ici parce
+          que probablement je n'y serai plus. Tu recevras de mes nouvelles de Turin, et je le
+          manderai mon adresse partout où je m'arrêterai. </p>
+        <closer>
+          <salute>Adieu, mon ami, pense à moi, aime-moi comme je t'aime, et souviens-toi qu'il n'y a
+            de sentiment solide que l'amitié ou un amour comme le mien.</salute>
+          <signed>A. DE L.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Alphonse de Lamartine</title>
+        <author>Alphonse de Lamartine</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamartine, Alphonse (1790-1869)"
+            ref="https://data.bnf.fr/fr/11910800/alphonse_de_lamartine/">Alphonse de
+            Lamartine</persName>
+          <date when="1809-01-24" resp="author">24 janvier 1809.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guichard de Bienassis, Prosper (1789-1857)"
+            ref="https://data.bnf.fr/en/16601127/nicolas_prosper_guichard_de_bienassis/">Prosper
+            Guichard de Bienassis</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1809-01-24"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Lyon,</placeName>
+            <date> 24 janvier 1809.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Pardon mille fois, mon cher ami, si j'ai tant tardé à l'écrire. Je n'ai reçu ta lettre
+          que depuis quelques jours parce qu'elle a passé par Mâcon et qu'on ne me l'a pas envoyée
+          tout de suite. Je suis ici depuis environ un mois, à peu près content, J'ai suivi ton
+          conseil, j'ai voulu être sage et j'ai presque tout oublié. Tu sais de quoi je veux parler.
+          Me voici aussi tranquille sur cet article-là que je l'étais il y a deux mois. Dieu soit
+          béni !</p>
+        <lg>
+          <l>Calme heureux, douce indifférence,</l>
+          <l>Vous rentrez enfin dans mon coeur,</l>
+          <l>Ah ! ramenez-y le bonheur</l>
+          <l>Perdu par deux mois de constance !</l>
+          <l>Nobles travaux, plaisirs si doux,</l>
+          <l>Premiers charmes de ma jeunesse,</l>
+          <l>Goûts d'amitié, goûts de sagesse.</l>
+          <l>Enfin je vous retrouve tous. </l>
+          <l>D'une trop cruelle espérance </l>
+          <l>Tandis que l'amour m'enivrait, </l>
+          <l>Ma muse, hélas ! ne soupirait </l>
+          <l>Que la langoureuse romance. </l>
+          <l>Sous la fenêtre d'une belle, </l>
+          <l>Mêlant ma plainte au bruit des vents, </l>
+          <l>Je chantais des vers languissants </l>
+          <l>Dont se moquait une cruelle ! </l>
+          <l>Je pleurais. Hélas ! à mes cris </l>
+          <l>Elle faisait la sourde oreille. </l>
+          <l>Ami, je lui rends la pareille, </l>
+          <l>Elle pleure aujourd'hui... je ris.</l>
+        </lg>
+        <p>Moque-toi de moi, je te le permets, je suis si content d'être sorti de cette galère que
+          je ne me connais plus.</p>
+        <p>Je ne reçois point de lettre de Virieu. Tâche donc d'avoir son adresse ; je n'ai pu la
+          découvrir. Il nous oublie, je crois. Parlons un peu du moyen de nous voir cet hiver. Je ne
+          peux pas encore songer à aller à Grenoble, je suis encore ici chez des parents, et ne
+          serai que dans quinze jours dans mon appartement, libre. Il faudrait bien que tu pusses
+          venir au moins huit jours, au moins deux ou trois jours ici. Ma chambre est grau de, j'ai
+          deux lits, j'ai tout ce qu'il nous faut: je t'attends. Veux-tu savoir comment je vis ici?
+          je me lève à neuf heures, je travaille à l'anglais jusqu'à midi, je vais prendre ma leçon
+          d'anglais à une heure, et puis un peu à la bibliothèque publique; je dîne et vais au grand
+          Théâtre, où je suis abonné, passer ma soirée. Je travaillerai bien plus que ça dans
+          quelque temps, quand je serai chez moi.</p>
+        <closer>
+          <salute> Adieu. Je suis à t'écrire, à côté d'une aimable cousine qui me fait enrager, et
+            soupirer pour une orange confite dont elle ne veut pas me faire part. La poste part,
+            adieu encore une fois.</salute>
+          <signed>ALONZO DE LAM.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+        <epigraph>
+          <l>Je triomphe, je suis roi !</l>
+        </epigraph>
+      </div>
+    </body>
+  </text>
+</TEI>
