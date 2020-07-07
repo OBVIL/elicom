@@ -1,4 +1,5 @@
-#!/usr/bin env python
+#!/usr/bin/env/python
+# -*- coding: utf-8 -*-
 
 """
 Extraire le texte des 'xml' pour la partie Correspondances
@@ -15,11 +16,12 @@ from lxml import etree
 from lxml.builder import ElementMaker
 
 RE_CHIF_AR = re.compile(r"^[0-9]{1,3}\.") #pour matcher les débuts de lettres. 153 matches au lieu de 197
-RE_DEST = re.compile(r"(A [A-Z][A-Z.]+)|^(?:A[A-Z.]+)")# 215 matches non complets
+#RE_DEST1 = re.compile(r"(A [A-Z][A-Z.]+)|^(?:A[A-Z.]+)")# 215 matches non complets
 RE_NOTES = re.compile(r"^\d [A-Z].+")
-
+#RE_PLACENAME = re.compile(r"[A Vitrolles,|Rennes|Château de Verneuil,|Château de Fleury,|Saint-Sauveur,|Versailles|A la Chenaie|La Chenaie,|Lyon|Rome|Genève|Paris|Saint-Brieuc|Dinan,]")
+RE_DEST = re.compile(r"^[0-9]{1,3}\.")
 #LE FILEPATH
-filepath = "corpus/lamennais-cor-vol1.html"
+filepath = "lamennais-cor-vol1.html"
 
 def strip_spaces(text):
 	return ' '.join(text.split())
@@ -44,14 +46,23 @@ for p in soup.body.find_all('p'):
 	else:
 		lettre.append(text)
 
+E = ElementMaker(namespace="http://www.tei-c.org/ns/1.0", nsmap={None: "http://www.tei-c.org/ns/1.0"})
+for i, lettre in enumerate(lettres[1:]):
+    to, date, signature = "", "", ""
+    corps = []
+    try:
+        to, date, *corps, signature = lettre
+    except ValueError:
+        continue
 
 E = ElementMaker(namespace="http://www.tei-c.org/ns/1.0", nsmap={None: "http://www.tei-c.org/ns/1.0"})
 for i, lettre in enumerate(lettres[1:]):
 	n, to, date, signature = "", "", "", ""
 	try:
-		n, to, date, *corps, signature = lettre
-		if RE_DEST.findall(to): 
+		n, *corps, signature = lettre
+		if RE_DEST.findall(n): 
 			pass
+
 
 	except ValueError:
 		pass
