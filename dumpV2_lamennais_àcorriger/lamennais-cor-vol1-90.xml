@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="-i décembre 1826." resp="">-i décembre 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="91. — A MADAME LA COMTESSE DE SENFFT. (...-...)">91. — A MADAME LA COMTESSE DE SENFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="-i décembre 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>-i décembre 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je pense que cette lettre pourra partir par le courrier qui vous en porte une autre, très-longue, en réponse à celles que vous m'avez écrites par M. de H.2. Je viens d'apprendre que le diocèse de Lyon est en proie à un schisme, qui ne fait pas encore beaucoup de bruit, mais dont les suites pourraient devenir très-graves. Un ancien grand vicaire du cardinal Fesch, M. Bochard, fort lié avec M. l'archevêque de Paris, qui avait voulu en faire un évêque, soutient que l'Administrateur 5 n'a aucuns pouvoirs, que sa nomination renverse toutes les libertés de l'Église gallicane, et que le titulaire est seul investi d'une autorité légitime. M. Bochard a pour lui presque tous les jeunes gens qu'il a élevés et qu'il avait enrégimentés, sous le nom d'oblats, dans une espèce de société secrète. Un assez grand nombre de curés s'adressent à lui pour leurs pouvoirs, et d'autres, mieux pensants, en prennent des deux côtés, « pour plu s grande sûreté, » à ce qu'ils disent. Un autre motif, qu'ils ne dissimulent pas, les engage à ces ménagements. C'est que « l'ordre actuel touche à sa fin, et que le petit Napoléon ne tardera pas à régner. Dans ce cas-là, il est prudent de ne pas se mettre mal avec son oncle. » Vous voyez d'un coup d 'œil où tout cela peut aller. Faites en sorte, je vous prie, qu'on soit averti. Encore un coup, je ne puis me persuader qu'on sache ce qui se passe en France.</p>
+        <p>- M. de Hallcr, ainsi qu'on a pu le voir.</p>
+        <p>ous avons déjà dit que le diocèse de Lyon, en l'absence du cardinal Fesch, archevêque titulaire, était administré par l'archevêque in partibus d'Amasie, M. de Pins, qui allait être promu, en 1827, à la dignité de pair de France.</p>
+        <p>Le parti répand, sur ce qui me concerne, une multitude de faux bruits. Le Nonce a dû me tancer sévèrement de la part du Pape. L'évêque nouvellement démis de Verdun a dit le tenir du Nonce lui-même, et ce conte est répandu dans toute l'Alsace et la Franche-Comté. Aujourd'hui on dit ici « que le nouveau Nonce a l'ordre exprès de ne me pas voir, JI etc., etc.</p>
+        <p>La comtesse Louise me demande si je vois quelquefois la comtesse Potocka. Je la croyais en Pologne depuis environ six mois, et je serais fort surpris qu'elle fût encore ici. Je vais m'en informer. A propos de la Pologne, il est bon de savoir que le jeune clergé y penche pour les idées gallicanes. C'est encore là un point sur lequel il importe d'avoir les yeux ouverts. Du reste, je suis triste et souffrant. Michel-Ange a peint ce que j'éprouve :</p>
+        <p>Il ben, per durar poco</p>
+        <p>L'alma, non men che'l mal, m'aggrava e preme *.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

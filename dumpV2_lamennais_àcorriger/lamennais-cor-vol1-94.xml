@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="14 février 1827." resp="">14 février 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="95. — A MADAME LA COMTESSE DE SENFFT. (...-...)">95. — A MADAME LA COMTESSE DE SENFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="14 février 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>14 février 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je suis bien en retard avec vous, et sans qu'il y ait de ma faute. Le froid m'a fait beaucoup de mal, et dans un moment où j'étais accablé d'affaires. Puis j'attendais les lettres que vous m'aviez annoncées. Je les ai reçues enfin dimanche dernier, c'est-à-dire il y a trois jours. Maintenant, j'ai tant de choses à vous dire, que je ne sais par où commencer. Avant tout, cependant, il faut que je vous répète combien je suis heureux de</p>
+        <p>« L'ABBÉ GERBET A M. LE COMTE DE SENFFT.</p>
+        <p>« Paris, 10 février 18S7.</p>
+        <p>« Monsieur le comte,</p>
+        <p>« M. Féli se proposait de vous écrire aujourd'hui : une migraine l'en empêche. Il me charge de vous donner de ses nouvelles, en attendant qu'il réponde aux lettres qui doivent lui parvenir par occasion particulière : ce qu'il fera sitôt qu'il les aura reçues.</p>
+        <p>« Depuis environ trois semaines, ses amis ont remarqué une amélioration très-sensible dans sa santé. Il se porte décidément beaucoup mieux, et a repris de la gaieté. Nous attendons M. l'abbé Jean dans la première ou la seconde semaine du carême.</p>
+        <p>« Monseigneur Lambruschini est arrivé à Paris avant-hier. Rien de nouveau ici : nous sommes toujours en Éolie; tous les vents soufflent à la fois. Le Quos ego n'est plus. Depuis quelque temps on répand parmi le peuple les bruits les plus absurdes. On lui fait croire que le roi est prêtre, évêque, moine in parlibus, jésuite, qu'il dit la messe dans ses appartements: on fait des caricatures analogues. Au milieu des tristes scènes dont nous sommes témoins, c'est pour M. Féli une bienheureuse distraction que sa correspondance avec Turin. Je suis heureux moi-même qu'il m'y associe de temps en temps, et fournisse ainsi une échappée à mes hommages.</p>
+        <p>« P. S. J'ai oublié de vous dire en commençant que M. Féli a arrangé ses affaires de manière à n avoir plus à porter le poids de cette montagne classique. »</p>
+        <p>votre si douce et si excellente amitié. Vous êtes bien certainement mon appui, ma consolation sur cette triste terre; c'est vers vous que mon cœur se tourne pour trouver un peu de repos, car vous êtes du petit nombre de ceux qui savent aimer.</p>
+        <p>Je ne conçois absolumeut rien aux errantes destinées de ma lettre^du 1er janvier. Elle avait été remise à la même personne par qui celle-ci vous parviendra. Je n'emploie nulle autre voie, quand je ne vous écris point par la poste. Peut-être l'aura-t-on confiée à quelque voyageur.</p>
+        <p>J'ai été trois fois chez le Nonce, et je n'ai pu que ce matin avoir avec lui une courte conversation. Je l'ai trouvé tel que vous me l'annoncez; aussi j'espère beaucoup que Dieu bénira sa mission. Il en sent les difficultés; peut-être même se les exagère-t-il un peu. Mais cet excès, si c'en est un, est très-préférable à l'excès contraire. Il a été, comme toujours, parfait pour moi. Ce qu'il m'a dit fortifie l'opinion dont vous me parlez 1. Je vous avoue que je suis très-loin de trouver en moi-même le courage de m'en réjouir. Fermer les yeux et attendre en paix ce que Dieu décidera, voilà où j'en suis.</p>
+        <p>Priez, priez pour un pauvre prêtre que tout rappelle au sentiment de son insuffisance, et qui peut avoir, dans cet état, une grande et importante détermination à prendre.</p>
+        <p>J'ai présenté d'abord au Nonce, sur l'état de la société, des vues générales qu'il m'a paru saisir et approuver. Ce n'eût pas été la marche à suivre, avec un autre. Et, pourtant, impossible sans cela de s'entendre sur tout le reste, et de comprendre quelque chose, et à ce qui se passe, et au plan qu'il faudra bien tôt ou tard adopter pour sauver les débris de l'ordre du naufrage universel. Je ne sais si je me trompe, mais il me semble qu'à présent tout est clair. Je fais chaque jour quelque essai de la vérité sur des hommes de toutes les opinions, et j'aperçois dans les esprits une disposition qui m'étonne à la reconnaître dans toute sa rigueur. Les obstacles qu'elle rencontre dans la pratique viennent du dehors, et avec le temps * ils disparaîtront. Il est vrai qu'il y aura auparavant de grandes</p>
+        <p>catastrophes. Il est nécessaire de se le dire d'avance pour n'en être pas abattu, et pour en tirer les avantages que Dieu cache au fond de toutes les calamités. Les bons sont en retard, très en retard, et c'est là le plus fâcheux de nos maux. Ils se sont engourdis dans un repos factice. Les événements qui s'approchent peuvent seuls les éclaircir pleinement et les réveiller.</p>
+        <p>Je dis les événements qui s'approchent, car tout le monde ici pressent une crise. Je ne la crois cependant pas tout à fait immédiate, parce qu'il y a faiblesse aussi de l'autre côté. Elle naîtra des choses, bien plus qu'elle ne sera amenée par les efforts et la volonté active des hommes. Ce ne sera point une conspiration, mais une dissolution. Le ministère a perdu la tête; il ne fait plus que des sottises, sottises inouïes, sottises gratuites et absolument incompréhensibles. Je voudrais causer avec vous de tout cela. Qu'est-ce qu'une lettre? une espèce d'énigme quand il s'agit d'objets si étendus, si compliqués; et voilà ce qui me désole en vous écrivant. Je n'ose vous parler du Portugal ni de l'Espagne, sur lesquels il y a tant à dire. Que fait dom Miguel? etc., etc. Après tout, je m'explique mille circonstances inexplicables, en méditant sur les hautes questions de la Providence et de l'avenir considéré dans les lois immuables qui gouvernent le monde.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

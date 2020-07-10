@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="22 décembre 1825." resp="">22 décembre 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="55. - AU MÊME. (...-...)">55. - AU MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="22 décembre 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>22 décembre 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Il n'est plus temps, mon bon ami, de profiter de vos conseils pour ma petite brochure; mais ce que je fais en ce moment ne paraîtra pas sans, auparavant, vous avoir été soumis. Le sujet est très-vaste, et il ne faut pas que l'ouvrage soit long ; c'est ce qui m'empêche d'aller plus vite. Je crois que je présente plusieurs grandes questions sous un jour nouveau et assez frappant. Vous en jugerez. La Déclaration de Frayssinous explique la lettre de l'abbé Fayet. Quel temps, et quels hommes!</p>
+        <p>Mais voyez, cher, comme la Providence se plaît à déconcerter, jour par jour, les spéculations de nos grands politiques, et à démentir leurs assertions et leurs prédictions. Cette Angleterre si riche, si puissante, si affermie sur son sac de laine et ses balles de coton, la voilà menacée, en quelques heures, d'une culbute presque complète, par une simple frayeur de Bourse, et au sein même de la plus grande prospérité commerciale. Cet exemple est-il frappant? D'un autre côté, la mort d'Alexandre 2 changera probablement toute la politique européenne. Et qu'arriverait-il si, comme il paraît qu'on peut le craindre, il y avait une guerre de succession?</p>
+        <p>Si vous lisez les journaux qui se piquent de doctrine, le Globe, le Producteur, etc., vous y trouverez d'autres indices, plus marqués encore et plus certains, d'une révolution universelle. Je la crois, déplus en plus, absolument inévitable. Sera-ce la dernière .' A mon avis, c'est l'unique question qu'on puisse l'aire raisonnablement.</p>
+        <p>Mais, comme vous le dites, il faudrait causer. Que peut-on dire dans une lettre sur tout cela? Je m'en vais continuer mon travail pour vous aller joindre le plus tôt possible.</p>
+        <p>' Le Tzar, mort inopinément, le 1er décembre 1825, a quatre cents lieues de MI capitale. Il n'avait que quarante-huit ans. On crut, dans le temps, il un assassinat ou à un empoisonnement. L'histoire a" délinilivenient repoussé ces vagues rumeurs.</p>
+        <p>Combattons toujours, quel que soit le succès! Si notre drapeau ne flotte pas au sommet de la société régénérée, il flottera sur les débris du monde. Tout à vous, cher, bien, bien tendrement 1.</p>
+        <p>LIVRE DEUXIÈME</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

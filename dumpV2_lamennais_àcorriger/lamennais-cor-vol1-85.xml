@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="26 novembre 1826." resp="">26 novembre 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="86. - \ MADAME 1,A COMTESSE DE SEN'FFT. (...-...)">86. - \ MADAME 1,A COMTESSE DE SEN'FFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="26 novembre 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>26 novembre 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai reçu exactement les lettres dont vous me recommandez de vous annoncer la réception, et je vous remercie beaucoup des détails qu'elles contiennent. On avait imprimé dans le Mémorial de novembre la pièce que M. de S. m'a envoyée, et l'on y avait joint un petit avertissement selon ses vues. D'après sa seconde lettre, arrivée heureusement à temps, on a supprimé le tout. Quoique j'en conçoive très-bien les motifs, je n'approuve point l'espèce d'impatience dont vous me citez des exemples fâcheux. On peut sans doute avoir un avis, mais le jugement appartient à d'autres, sans quoi point de gouvernement. D'ailleurs, tout va si vite, que le dénoûment ne saurait désormais être éloigné. Il paraît certain qu'il a été tenu dernièrement un conseil privé dans lequel M. de Corbière a attaqué violemment les missions, « qui portent, a-t-il dit, le trouble et le désordre dans toute la France, et qu'il faut soutenir avec des soldats, humiliés d'être en quelque sorte les auxiliaires des prêtres. » M. de Clermont-Tonnerre a dû parler dans le sens opposé 1. Il n'en a pas moins été rédigé une ordonnance qui défend toutes autres missions que les missions diocésaines, et encore faut-il qu'elles soient préalablement demandées par les autorités civiles. On assure que cette ordonnance, signée du roi, est en dépôt dans le portefeuille d'un ministre, et qu'on attend, pour la publier, le moment qui sera jugé le plus opportun.</p>
+        <p>' La trace de ces dissentiments, que la question religieuse faisait éclater au sein du parti royaliste, n'est nulle part plus évidente que dans l'attaque portée à la tribune par M. Agier contre l'Association pour la Propagation de la Foi (15 mai 1826). Il y est dit, entre autres choses : « Par son esprit inquisitorial, elle éloigne de la Religion et aliène les cœurs au roi... Elle ne craint pas d'attaquer les dévouements les plus absolus, de nier, de chercher à flétrir les services les plus incontestables... Et, le pire de tous les malheurs, c'est elle, elle seule, qui a divisé les Royalistes!... » M. Agier était magistrat, et un des membres les plus ardents du côté droit.</p>
+        <p>D'un autre côté, le ministre des affaires ecclésiastiques et. l'Université agissent de leur mieux dans le même sens. Le diocèse de Nevers est au nombre de ceux qui souffrent le plus, faute de prêtres. L'évêque a demandé la permission d'ériger une seconde école ecclésiastique, indispensable pour en former proportionnellement aux besoins; mais, par malheur, il avait refusé de mettre son nom au bas de l'acte du avril '. En conséquence, refus de M. d'Hermopolis d'acquiescer à sa demande, et, parce qu'il s'avise d'avoir en religion la même doctrine que le Pape, il faudra que le pauvre peuple se passe d'instruction, de sacrements et de tous moyens de salut. Voilà le zèle des gallicans! il est exemplaire, comme vous voyez. Les journaux vous auront appris le scandale que vient de donner un vicaire de N.-D., qui avait été missionnaire pendant quelque temps. Cet homme, repris, et même, dit-on, suspendu par l'archevêque, à cause des désordres de sa conduite, vient de déclarer qu'il se faisait protestant ; mais le malheureux proteste contre les mœurs, plus encore contre la foi, ce qui n'empêche pas les journaux impies, et le Courrier particulièrement, de triompher de son apostasie.</p>
+        <p>Je me borne à vous raconter quelques faits ; mais que de choses j'aurais à vous dire sur notre position sociale considérée dans son ensemble! Un jour viendra, j'espère, où nous pourrons en causer à loisir. Ma santé est toujours bien faible ; je souffre constamment. Mes affaires me tracassent et ne finissent point. Pour me consoler, je reçois de temps en temps des volumes d'outrages de la part des personnes qui, pour prix de la confiance aveugle que j'ai eue en elles, m'ont trompé et ruiné. Voilà où j'en suis. Les moments que me laissent les affaires, les souffrances et les fâcheux, je les emploie à rassembler les matériaux de l'ouvrage que j'ai annoncé. Vous avez reçu celui de l'abbé Gerbet, et vous en aurez été contents. Il doit produire une vive impression sur l'esprit des vrais catholiques. Mandez-moi le jugement qu'on en portera là où vous êtes. Mal-</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="A la Chênaie. le 10 septembre 1825." resp="">A la Chênaie. le 10 septembre 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="44. — A J'tl. LE MARQUIS DE CORIOLIS. (...-...)">44. — A J'tl. LE MARQUIS DE CORIOLIS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A la Chênaie. le 10 septembre 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A la Chênaie. le 10 septembre 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous avez bien raison, monsieur le marquis, et nous vivons dans un drôle de temps. Après la reconnaissance touchante de S. M. Catholique, qui fait couper le cou à ceux qui l'ont replacée sur le trône, viennent les noires amitiés de M. de Villèle, qui a l'air de se ménager, aux dépens de la France et des colons, une retraite à Haïti5. Ce sont les trois pour cent de la morale et de la politique. Je ne doute pas que la Religion n'ait aussi les siens, et l'on peut s'en rapporter à monseigneur d'Hermopolis. La session prochaine sera une des scènes les plus curieuses de cette grande parade qu'on appelle le représentatif. Et, à propos de cela, dites donc, je vous prie, à Mme de la Trémoille, que le gallicisme n'est que le représentatif dans l'Église. Avec autant d'esprit qu'elle en</p>
+        <p>• ... « Où trouver un bonnet d'âne pour ce ministère qui se laisse traîner à la remorque par ces hérétiques d 'Anglais, comme disait Duonaparle, et cela au nom du Roi Très-Chrétien ; qui souffre qu'ils règnent chez le Roi Très -Fidële, et qui vend les blancs d'Europe aux noirs de Saint-Domingue, moyennant 150 millions pour le payement desquels M. de Villèle a sans doute des huissiers à faire marcher, s'il n'est pas fait honneur à l'échéance de fin décembre. » — M de Coriolis à iMmennais. 29 août 1825.</p>
+        <p>a, et de bon esprit, la question sera jugée pour elle. J'en dirai pourtant quelque autre chose encore dans la seconde partie de ma brochure l, car tout le monde ne saurait être frappé des mêmes raisons. Mon chagrin est que ce travail n'avance pas comme je le voudrais. On n'est guère en état d écrire quand on souffre, et avec une disposition habituelle à l évanouissement. Quant à la nouvelle attaque de M. de Feletz dans les Débats, le Mémorial s'est chargé d'y répondre. Je serai charmé d'y lire votre chapitre sur l'Hypocrisie, et l'abbé de Salinis, qui vous offre ses hommages,taura l'honneur de vous voir à son retour à Paris, et de vous rappeler nos espérances. Le Dialogue de Psycon et de Chrysès2 est plein de sel et d'une raison fine et piquante. C'est encore vous. Peignez nos mœurs, monsieur le marquis, nos opinions et les effets de nos opinions, nos travers, nos ridicules, nos inepties, nos bassesses : il y a là de quoi tenter un talent tel que le vôtre. Je craindrais seulement qu'on vous accusât de défendre votre cause personnelle, en vengeant le bon sens et le bon goût; mais où ne se trouve-t-il pas des inconvénients?</p>
+        <p>Si je voulais faire un jeu de mots, je dirais que M. de Ch se débat". A force d'esprit, il est parvenu il jouer le rôle de l'homme qui en aurait le moins; et, par malheur, il le joue en maître. Des opinions fausses l'ont conduit dans une position fausse; et, pour en sortir, il fausse encore ses opinions. Cela me paraît un cercle terriblement vicieux. Depuis quatre ans, je n'ai pas eu à me louer de M. de Ch ; mais j'avoue que je ne saurais me défendre d'une grande pitié, en voyant M. Fiév... 4 tendre d'en haut la main il l'auteur du Génie du Christianisme. Oh! qu'un peu d'orgueil serait souvent utile à la vanité! Voila un</p>
+        <p>-1 M. kie LhaicaulH'iand, qui écrivait alors dans les Débats</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

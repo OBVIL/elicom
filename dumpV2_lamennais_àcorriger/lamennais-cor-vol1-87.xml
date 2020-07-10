@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="14 décembre 1826." resp="">14 décembre 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="88. — AU MÊME. (...-...)">88. — AU MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="14 décembre 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>14 décembre 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Veuillez lire la lettre incluse et l'acheminer ensuite à sa destination. Vous devinerez aisément à qui elle s'adresse. On ne se représente en aucune manière notre position réelle; on manque</p>
+        <p>*- Lettres supprimées : — A M. le baron de Vitrolles. Paris, 8 et ... décembre 1826. — Lettres d'affaires. M de Vitrolles s'était chargé de procurer à Lamennais les moyens de liquider la position .pécuniaire de ce . dernier. Il s'en occupait activement, et M. de la Bouillerie, intendant de la liste civile, avait entamé avec lui une négociation dans ce but. C'est à cela qu'ont trait les lettres retranchées ici; elles sont précieuses à tilre de documents biographiques.</p>
+        <p>totalement de cette espèce de tact qui fait juger des impressions que telle ou telle démarche, telle ou telle parole, doit faire sur les esprits; et pourtant c'est tout. L'épaississement est tel, à cet égard, que je suis tenté d'y voir quelque chose de surnaturel.</p>
+        <p>Il est certain que le roi a signé une ordonnance pour supprimer les colléges des Jésuites. Il est dit dans les considérants que « les maisons qu'ils occupent sont censées être de petits séminaires, et que néanmoins on y élève des enfants pour tous les états; qu'ils empiètent ainsi sur les droits de l'Université, qui suffit surabondamment à l'éducation ordinaire. » L'ordonnance aurait été publiée sans délai, n'eût été l'opposition du baron Capelle, qui a parlé très-fortement dans le sens contraire. Ce que je vous ai mandé au sujet des missions est également vrai. Au milieu de ces événements, on ne sait que dire ni que faire. Pas un mot qui puisse guider, pas même une insinuation. Jamais le monde ne vit rien de semblable. Heureusement cela ne saurait durer. Je continue d'être fort souffrant; les spasmes reparaissent toutes les fois qu'à l'extrême fatigue habituelle se joint quelque inquiétude, quelque peine nouvelle un peu vive, et il s'en présente souvent.</p>
+        <p>Vous verrez, dans le Mémorial de ce mois, un document curieux sur la Belgique. Le gouvernement hollandais se joue du Saint-Siège, et il a l'extrême naïveté d'en avertir ses sujets catholiques. Quand est-ce donc que l'on comprendra qu'il est temps enfin de changer de marche? Il est vrai que, comme tout se tient, c'est un vaste ensemble à combiner. Que Dieu éclaire et fortifie ceux de qui l'avenir dépend !</p>
+        <p>Mon frère me charge de vous offrir ses plus tendres respects. Son évêque est toujours malade, et cela nous inquiète beaucoup. S'il venait à manquer, ce serait une perte irréparable.</p>
+        <p>Le Portugal occupe en ce moment les esprits 1. Il paraît</p>
+        <p>constant que les royalistes triomplieraieul sans aucun doute, si l'Angleterre ne mettait tout le poids de son épée dn côté de la révolution.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

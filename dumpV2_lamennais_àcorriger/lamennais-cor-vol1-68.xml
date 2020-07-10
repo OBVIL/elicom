@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 24 avril 1826." resp="">le 24 avril 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="69. — A LA M AME. (...-...)">69. — A LA M AME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 24 avril 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>le 24 avril 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je conçois combien est doux le repos que vous trouvez à Gênes après tant de fatigues, ef ce m'est une vraie peine de le troubler. Pour moi, je ne suis pas dans la voie du repos ni près d'y entrer, selon l'apparence. Le 20 et le 21, j'ai comparu en police correctionnelle. Berryer a parlé admirablement. Écartant toujours la question de doctrine, sur laquelle il ne pouvait pas plus me défendre, comme il l'a dit, que la Cour2 ne pouvait me juger, il a discuté la question légale, savoir, si la Déclaration de 1682 est loi de l'État; après quoi il a montré, avec la plus belle éloquence, qu'on ne tendait à rien moins, par ce procès, qu'à établir une Église nationale, et à préparer il la France un avenir semblable à celui que présente l'histoire</p>
+        <p>- 11 faut pardonner à l'inexpérience judiciaire de Lamennais ce titre de « Cour » qu'il défère au tribunal de première instance.</p>
+        <p>d'Angleterre sous Henri VIII et ses successeurs. Son discours sera imprimé, et je vous l'enverrai. J'ai prononcé ensuite quelques mots, que tous les journaux n'ont pas bien rapportés; les voici exactement :</p>
+        <p>« Messieurs, je n'ai rien à ajouter au discours que vous venez d'entendre.</p>
+        <p>Seulement, je dirai quelques mots touchant les questions dogmatiques traitées dans mon écrit. Bien que la Cour n'en soit pas juge, comme elles ont néanmoins servi de prétexte au procès qui m'est intente, je dois à ma conscience et au caractère sacré dont je suis revêtu de déclarer devant le tribunal que je demeure inébranlablement attaché aux principes que j'ai soutenus, c'est-à-dire à l'enseignement invariable du chef de t'Élise; que sa foi est ma foi, sa doctrine ma doctrine, et que, jusqu'à mon dernier soupir, je continuerai de 1:1 professer et de la défendre. »</p>
+        <p>r::1rrêL 1, rendu le lendemain, est une des choses les plus extraordinaires qu'on ait jamais vues. Il n'y a qu'une voix unanime sur son étonnante absurdité. Il ne choque pas seulement le bon sens, mais encore toutes les opinions. Je crois, pour l'intérêt de la Religion et même de l'État, qui marche à sa destruction, devoir en appeler. Il iaut enfin qu'on sache certainement sous quelles lois on vit. D'ailleurs, je dois à ' Église de combattre pour sa cause jusqu'au bout, quoi qu'il puisse m'arriver. Dieu me fait la grâce de ne rien craindre et</p>
+        <p>d'être préparé à tout. J'ai annoncé un nouvel écrit ; je m'en occuperai dès qu'il me sera possible de trouver un moment de loisir.</p>
+        <p>Les évêques écrivent de leur côté ; ils écrivent des Déclarations de doctrine qu'on leur demande au nom du Roi, et qu'ils adressent au Roi. On ne ferait pas mieux en Angleterre. Si vous connaissez quelques-uns dé nos dociles prélats, veuillez leur apprendre qu'il y a dans le monde, une personne qu'on appelle le Pape, à qui, depuis saint Pierre, l'usage attribue quelque autorité dans l'Église catholique. Vous les surprendrez peut-être, mais sûrement vous leur rendrez un véritable service.</p>
+        <p>Un grand combat est engagé; nul n'en saurait prévoir les suites. Mais ce qui me console, ce qui me fortifie, c'est que la vérité triomphera. On tue les hommes, on ne la tue pas, et il est doux d'être tué pour elle. Malheur à qui la combat et à qui l'abandonne! mais malheur mille fois plus à qui la trahit ! Le monde s'en va, les rois chancellent, leurs trônes vides ne tiennent plus à rien : eh bien, je m'attache à ce qui reste, à ce qui restera toujours, à ce qu'on-ne vaincra jamais, à la croix de Jésus de Nazareth !</p>
+        <p>Je vais avertir au Mémorial que vous n'avez pas reçu les derniers cahiers. Ils vous seront envoyés sans retard. Le retard vient sans doute de l'absence du pauvre M. Waille, qui subit en ce moment son mois de prison 1. Bientôt, si cela ne change, toutes les lettres des catholiques seront datées de la Force ou de Sainte-Pélagie.</p>
+        <p>L'abbé G. vous offre ses respects. J'attends mon frère très-prochainement. Mille tendres amitiés et mille hommages à mon cher comte et à la comtesse Louise. J'ai vu ce matin l'excellente comtesse Potocka. Elle part, vers la Pentecôte, pour l'Ukraine. Ce départ la peine : elle laisse ses enfants à Paris.</p>
+        <p>J'ai été interrompu par le marquis de Montmorenci, qui me " charge de vous dire de sa part tout ce qu'il voudrait vous dire</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

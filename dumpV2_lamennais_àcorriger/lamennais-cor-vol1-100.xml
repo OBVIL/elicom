@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 2 mai 1827." resp="">le 2 mai 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="101. - A LA MÊME. (...-...)">101. - A LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 2 mai 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 2 mai 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Me voici depuis quelques jours dans ma solitude, attendant de vos nouvelles avec impatience ; car, d'après les dernières que j'ai reçues, vous étiez encore tous bien souffrants. Mon frère est à Redon, prêchant et confessant avec ses missionnaires, à l'occasion du jubilé. Je ne le reverrai qu'au mois de juin, et pour peu de temps. L'abbé G. est à Paris, où sa présence est nécessaire; de sorte que je suis entièrement seul. Heureusement que je m'accommode très-aisément de ce genre de vie. Je me suis remis, pour me distraire, à l'étude de l'italien : cela fait diversion à mon travail. Ce que je regrette, c'est de n'avoir personne avec qui parler cette langue. J'avais cherché à Paris un jeune Italien qui eût pu me servir de secrétaire, et avec qui j'aurais causé; mais je n'ai point trouvé ce qu'il m'aurait fallu. Les Italiens ne sont pas voyageurs comme les Anglais; il est rare que les bons sujets sortent de leur pays pour aller vivre à l'étranger. Je suis donc réduit aux livres, qui suffisent à tout, excepté que, bien qu'ils parlent mieux que personne, il n'est pas possible de prendre avec eux l'habitude de parler.</p>
+        <p>Voilà trois semaines que je n'ai lu de journaux, de sorte que j'ignore entièrement ce qui se passe; mais on me mande en gros que tout va comme de coutume, c'est-à-dire de mal en c pis. Il y a longtemps que je suis persuadé qu'une révolution générale est inévitable, et que tous les efforts des gens de bien doivent être dirigés vers l'avenir. Il faut, d'avance, poser les bases d'une nouvelle société; la vieille est pourrie, elle est</p>
+        <p>des conditions; mais elle ne fera qu'augmenter le mal, si elle n'est pas soutenue par une conduite ferme et constante.</p>
+        <p>« L'abbé de Clausel vient de lancer un Nouveau, coup (Tœil contre nous. Le Mémorial de mai contiendra une réponse d'O'Mahony.</p>
+        <p>« Daignez, monsieur le comte, faire agréer à ces dames, et agréer vous-même l'hommage de mon plus profond respect. »</p>
+        <p>morte; on ne la ressuscitera pas. C'est folie de compter sur les gouvernements, qui ne sont plus des gouvernements, qui ne peuvent plus le redevenir. Il s'agit de faire des peuples, ce qui sera toujours possible, jusqu'au temps marqué de Dieu pour la consommation des choses. L'Église a une grande mission, et elle la remplira : mais le moment ne paraît pas encore venu; il ne saurait cependant être loin. Combien je souhaiterais être à même de vous exposer mes idées là-dessus, et de connaître les vôtres ! Prenons patience, nous nous rever- rons. Dieu, par des voies que nous ne connaissons pas, amène tout à ses uns : disponit omnia. suaviter, et attingit à fine ad finern fortiter.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

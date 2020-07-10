@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="26 février 1826." resp="">26 février 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="62. - \ U MÊME. (...-...)">62. - \ U MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="26 février 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>o Paris</placeName>
+            <date>26 février 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Voilà près de quinze jours, mon excellent ami, que je n'ai pu vous écrire, ni à Mme de Senfft, ni à la comtesse Louise, quoique j'aie reçu de vous tous plusieurs lettres charmantes, et pleines d'une amitié que mon cœur vous rend bien. Il faut vous dire d'abord que, outre mille embarras d'affaires, de visites, etc., j'éprouve une sorte d'indisposition qui me rend incapable de tout travail. C'est une angoisse habituelle qui indique, je crois, une affection au cœur; car le siége fixe de mon mal est là. Je dors peu et mal, et je suis très-faible. Avec cela, point de repos d'esprit. Je songe sans cesse à tout ce qu'il y aurait à faire, et mon impuissance me tourmente. Que voulez-vous? il faut cependant prendre patience et garder sa paix.</p>
+        <p>Cela ne laisse pas d'être quelquefois difficile en ce temps-ci. J'achevai, hier au soir, de corriger la dernière épreuve de l'ouvrage dont je vous ai parlé. Il paraîtra dans quelques jours, et vous le recevrez presque aussitôt que cette lettre. On l'attend ici avec impatience, et j'espère qu'il fera quelque bien. Il fera du moins assez de bruit. La question est de savoir si l'on m'attaquera. Cela dépendra du côté où inclinera la peur du moment. Pour moi, je suis bien tranquille, et plus qu'eux, très-sûrement. Fr. 1 et son conseil avaient imaginé de se servir du N.3 pour m'empêcher d'écrire. Cela m'a paru plaisant. Ils ont ensuite tâché de m'intimider par le procès dont le bon M. Waille a été l'honorable victime5. Ce second moyen ne leur a pas mieux réussi, comme vous pouvez croire. Nous verrons la suite prochainement. Du reste, je ne puis, dans cette position, vous dire au juste quelle sera l'époque de mon départ. Je désire que ce soit en avril, mais je n'en suis pas sûr. Je ferai le voyage seul. L'abbé G., qui vous offre ses hommages, restera ici pour quelques affaires dont je vous entretiendrai, et qu'on ne peut abandonner jusqu'à mon retour. Il y a beaucoup de bien à faire, mais aussi de grands obstacles; je dis beaucoup de bien dans l'ordre de la Religion, car pour les sociétés politiques, c'est fini. Le jeune clergé s'anime et s'éclaire. Il entre de cœur dans toutes les bonnes doctrines. J'espère qu'il sauvera la foi dans notre malheureuse France. Nous avons, sous ce rapport, gagné beaucoup depuis un an. C'est cette espérance qui me soutient et qui m'arrête ici. J'y vois un grand devoir à remplir. Que le bon Dieu bénisse mes faibles efforts ! Assurément c'est lui qui fait tout, car on ne trouve guère d'appui nulle part. On est bien faible là où l'on devrait être si fort* ! J'ai appris avec une grande joie la nomination de Mgr Lambruschini. Il pourra rendre à l'Eglise d'éminents services. Quant aux hommes que l'empe-</p>
+        <p>s M. Waille, éditeur du Mémorial catholique, venait d'être condamné à un mois de prison, comme éditeur responsable d'un pamphlet ultramontain intitulé : lettres à Satan.</p>
+        <p>* A Rome.</p>
+        <p>reur s'est décidé à rétablir dans ses Etats', leur présence, comme vous le dites avec une justesse parfaite, sera utile pour constater un changement de maximes et de système ; mais je suis loin d'attendre d'eux tout ce qu'on s'en était promis. Ils déclinent ici tous les jours dans l'opinion de ceux qui leur étaient le plus dévoués ; et c'est qu'ils ne gagnent pas à être connus. J'ai aujourd'hui un sentiment très-arrêté sur le Corps, et ce sentiment, je vous l'avoue, ne lui est pas favorable.</p>
+        <p>J'aurais mille et mille choses à vous dire encore, mais je suis obligé de finir. Je n'ai pu écrire ces deux pages sans avoir un évanouissement.</p>
+        <p>Adieu, mille respects et mille tendresses.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

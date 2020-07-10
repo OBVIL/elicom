@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 18 août 1825." resp="">le 18 août 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="43. - A MADEMOISELLE DE LUCISIÈ ISE. (...-...)">43. - A MADEMOISELLE DE LUCISIÈ ISE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 18 août 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 18 août 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Que voulez-vous, ma bonne chère amie, que je fasse de mes meubles, si je ne les fais pas venir ici? Ils pourriront à Paris, et d'ailleurs nous en manquons à la Chenaie. Il vaut mieux se résigner à une dépense de cent écus que de tout perdre. Voici donc mon dernier mot. Envoyez tout, à l'exception des objets suivants, que je vous prie de faire vendre le mieux possible 1....</p>
+        <p>Vous avez raison de regretter les champs, les bois, les prairies, les eaux. Quand on a une fois goûté de cette douce vie de la campagne, on ne peut plus supporter Paris. Otezen un petit nombre de personnes que j'aime, mon plus grand bonheur serait de penser que je ne le reverrai jamais. Mais, quoi que l'imagination et la raison vous disent là-dessus, le goût des cités l'emportera toujours, et vous vivrez et mourrez rat de ville; c'est moi qui vous le prédis. Je suis fier de l'amitié que Mlle de Tremereuc a pour la Chenaie; je voudrais bien vous y voir aussi, et Mlle de Villiers; mais on ne vous attrape pas aisément de si loin. Mon frère est à Ploërmel, en retraite avec ses Petits-Frères; c'est une fraternité de 135 membres. De sœurs, il n'en est pas question. Ne seriez-vous pas tentée de remplir ce vide?</p>
+        <p>Que dites-vous de la bonne petite température, et douce, et bénigne, que nous avons eue pendant un mois? Voilà le temps qu'il me faut; c'est alors que je jouis, que je suis content, que je me moque de ceux qui disent : « J'étouffe; je me meurs; je n'en puis plus. » J'ai eu pourtant mes tribulations par suite de la sécheresse. Beaucoup de mes jeunes arbres ont passé ce Styx par lequel vous jurez si doctement. Du reste,</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
