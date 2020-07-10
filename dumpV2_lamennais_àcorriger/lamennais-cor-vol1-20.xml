@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="10 novembre 1822." resp="">10 novembre 1822.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="21. - A MADEMOISELLE DE LUCINIÈRE. (...-...)">21. - A MADEMOISELLE DE LUCINIÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="10 novembre 1822."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chênaie</placeName>
+            <date>10 novembre 1822.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je vous remercie de votre bonne lettre, mon excellente amie. Quoique j'apprenne par-ci par-là de vos nouvelles, je voudrais en recevoir directement de vous plus souvent. Je pense que vous avez maintenant près de vous la bonne Mlle de Villiers, il qui je vous prie d'offrir mille tendres respects de ma part. Vous savez que la pauvre Mlle de Tremereuc a eu encore une nouvelle douleur. Dieu éprouve ceux qu'il aime; il faut se le redire sans cesse dans ce triste monde, où les maux sont si nombreux et les consolations si rares. J'en ai eu récemment une très-grande. L'abbé Le Tourneur me mande que vous êtes gîtée tout juste entre le quatrième et le cinquième château,,. Courage, ma très-chère sœur, vous êtes dans la voie ; mais ne restez pas en plein air, dans cette saison surtout. Si vous n'arrivez pas promptement au cinquième château, ce ne serait pas la peine d'être sortie de l'autre, et vous pourriez vous en trouver</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="ce 15 juillet 1824." resp="">ce 15 juillet 1824.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="30. - A LA MÊMK. (...-...)">30. - A LA MÊMK.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="ce 15 juillet 1824."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Rome</placeName>
+            <date>ce 15 juillet 1824.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Cette lettre, mon excellente amie, vous sera remise par M. Wiseman2, jeune ecclésiastique anglais, et qu'à ce titre je n'ai pas besoin de vous recommander. Il ne passera que peu de temps à Paris, où il va voir sa mère. Je vous prie de le mettre en relation avec nos bons missionnaires, à qui j'offre compliments et amitiés bien sincères. J'ignore combien de temps encore je resterai dans ce pays-ci. On m'a fait le meilleur accueil, et l'on me presse d'y séjourner plus que je n'en avais le dessein; mais j'ai un grand désir de 'me retrouver dans notre chère France. J'ai vu deux fois le Saint-Père3, qui m'a</p>
+        <p>* Lettres supprimées : — A M. le baron de Vitrolles. Genève, 18 mai. Gênes, 12 juin. Rome, 28 juin 1824. — Continuation des récits de voyages, remarquables à bien des titres, mais surtout par le désenchantement qu'ils expriment. Lamennais voit beaucoup et ne s'éprend de rien, si ce n'est du peuple italien, qu'il préfère, dit-il, au peuple anglais. Ce goût, cette préférence, il y est resté fidèle jusqu'au dernier jour.</p>
+        <p>- Sans en avoir la complète certitude, nous tenons pour tiès-probable qu'il s'agit ici de l'entreprenant cardinal qui s'est mis à la tête du mouvement catholique en Ans,)eterre. Son roman intitulé Fabiola y a obtenu récemment un certain succès.</p>
+        <p>s Léon XII, élu en 1825. Il devait régner cinq ans encore, et donner à Lamennais, jusqu'à son dernier jour, les marques les plus fréquentes de son admiration, disons plus, de son amitié. Faudrait-il douter qu'elles fussent sincères, et accuser le Pontife d'une honteuse dissimulation? Ce n'est pas nous qui aurions tant de méfiance. et qui nous permettrions d'aussi outrageants soupçons ; mais d'autres n'hésitent pas, dans leur haine contre Lamennais, à mettre en doute la sincérité des prévenances, des caresses pa-</p>
+        <p>reçu. avec une extrême bonté. Grâce à -Dieu, sa santé est maintenant assez bonne, et sithi-ver ne ramène pas les accidents qui ont donné pour lui de si vives inquiétudes, l'Église peut</p>
+        <p>pales; et, chose admirable! ce sont les partisans les plus dévoués du Saint-Siège qui prêtent à Léon XII cette duplicité dont, malgré tout, nous sommes tentés de l'absoudre. Dans un livré intitulé : V Église romaine en face de la Révolution (28 édition, tome 11, pages 558 à 341), un écrirain, passant pour avoir l'accès des Archives pontificales, et dont le zèle est aux ordres des hautes-notabilités ultramontaines, publie un document qui, — si-son authenticité était bien avérée,—attesterait la déloyauté la plus flagrante, l'bypocrisie la moins excusable chez ce Pape, dont « l'extrême bonté » pénétrait de reconnaissance le pèlerin de la Chenaiè. Nous transcrivons ici, sans commentaires inutiles, -ce qu'un journal légitimiste appelle simplement urne « lettre curieuse. D</p>
+        <p>f LE CARDINAL BEJINKTTI AU DUC DE L t. VAL-110 N TM OR EN Cï.</p>
+        <p>« Rome, 'ie 30 aoùt t8!4.</p>
+        <p>«Nous avons à Borne l'abbé de Lamennais, et je trouve qu'il ne répand pas ea "tout point à son immense réputation. Vous savez qu'ici nous sommes toujours mm peu enthousiastes de la beauté des formes ; -nous aimons à prêter au gémie la mâle alti-Lude de la statuaire antique. Par malheur, le grand écrivain n'est taillé mi sur le modèle de l'Apollon du Belvédère, ni sur celui de l'Hercule Farmèse. Il a dams sa physionomie et dans son maintien quelque chose d'étriqué et d'embarrassé qui fait mal. A voir ce corps grelottant en plein été, et cette figure hâve, oit se sentirait ému de compassion : l'on serait tenté de faire l'aumône; mais que de talents saus cette -chétive enveloppe! Quels éclairs s'échappent de ces eux à moitié éteints, et qu'ilne flamme 'subite semble illuminer de temps à autre ! /</p>
+        <p>« Je vous parle à cœur ouvert, cher prince, comme si j'étais en tête-à-tête avec vous, et je vais vous intéresser, j'espère, quoique je vous parle de Rome à Paris, où vous êtes sans doute. A une de mes dernières audiences, le Saint-Père m'a demandé si j'avais-vu l'abbé de Lamennais, et ce que j'en pensais. Ne voulant pas m'avancer sur ce terrain, et ayant entendu dire que Je Pape se montrait bien disposé pour Jui, j'ai fait une réponse dilatoire. Bientôt je suis resté tout stupéfait, lorsque le Saiat-Père,-d'une voix calme et presque triste, m'a dit : « Eh bien ! nous l'aurons mieux « jugé que pas un. Quand nous l'avons reçu et entretenu, nous avons été frappé « d'effroi. Depuis ce jour; nous avons sans cesse devant les yeux sa face de damxé-. »</p>
+        <p>« Le Saint-Père me disait cela si sérieusement, que je n'ai pu m'emp6clter de sourire. « Oui, ajouta-t-il en me regardant fixement, oui, ce prêtre a une face de « damné. Il y a de l'hérésiarque sur son front. Ses amis de France et d'Italie vau-r, draient pour lui un chapeau de cardinal Cet homme est trop possédé d'orgueil « pour ne ras faire repentir le. Saint-Siège d'une bonté qui serait justice, si om me ", considérait que ses œuvres actuelles; mais étudiez-le à fond, détaillez les traits'de « son visage, et.dites-moi s'il n'y a pas une trace visible de la malédiction céleste?» -« Je n'ai jamais pu faire revenir le Pape sur une-pareille idée. La « face de daramé » se présente toujours à lui, et je commence à croire que le voyage de l'écrivain ae servira que très-peu ses projets d'ambition, s'il en avait conçus. Comme tous ceux qui, sur la brèche, se laissent emporter à d'ardentes polémiques, l'abbé àe. Lamem-Mis outre ses opinions et exagère ses sentiments. Il donne à la vérité un cachet</p>
+        <p>espérer de le conserver encore longtemps. Il faut prier pour sa santé, car c'est un bon et digne Pape, et un homme d'un grand mérite. Je ne vous dirai rien de Rome; ce sera le sujet</p>
+        <p>d'exaltation et de sévérité, que Rome ne peut pas accepter, mais qu'elle n'ose point condamner tout haut. Ici nous avons la modération de la véritable force : eux nous défendent avec des colères et des passions que nous sommes contraints de subir. M. de Lamennais devrait, mieux que tout autre, comprendre cette position ; bien loin de là, il affecte de la méconnaître. Son esprit absolu ne doute de rien, et il est poussé à ces excès par des admirations trop imprudentes ou par des calculs trop perfides. Mais il me semble que, parce que la nature ne vous a pas prodigué les dons du corps, ce n'est point un motif pour devenir un hérésiarque. Si les portraits que j'ai vus de Jean Huss et de Martin Luther ne sont pas trop menteurs, ils n'avaient aucun reproche à adresser à la nature...</p>
+        <p>. Afin de me rendre un compte exact des impressions que le Saint-Père a daigné me manifester, j'ai désiré revoir l'abbé de Lamennais. Je l'ai donc invité à diner avec son compagnon de voyage. A ma honte, ou plutôt à la gloire de ma charité, j'avoue n'avoir rien découvert d'infernal dans ce petit homme malingre, dont la conversation fait si peu d'honneur à son génie. Il m'a paru dépaysé à Iiome, ne comprenant rien à nos mœurs, et cherchant toujours à les mettre en parallèle avec cr'ties de son pays. Nous sommes si habitués à ces comparaisons, très-peu flatteuses pour notre amour-propre, que nous n'y prenons plus garde. Il est évident que l'abbé de Lamennais, après nous avoir victorieusement défendus dans ses ouvrages et dans les journaux, ne serait pas fâché de nous faire payer sa défense, en nous imposant ses doctrines et en nous faisant épouser leur exagération. C'est le sort de Home. L'auteur de l'Essai sur l'indifférence ne sera ni le premier ni le dernier à vouloir nous dominer du haut de son obéissance; mais avant de réaliser la prophétie du Saint-Père, il faudra que l'abbé de Lamennais se plonge dans un Léthé bien profond. J'ai osé, en riant, faire part au Saint-Père de mes réflexions... « Ah! m'a-t-il « répondu, vous aussi, comme Soglia, vous ne voyez pas la maiu de Dieu? Eh bien, « il y a du damné, de l'apostat chez ce prêtre; et il faut s'épouvanter en le regar« dant, sans trahir aucun de nos pressentiments. Si ce malheur arrive, faisons en « sorte que Rome n'ait rien à se reprocher. »</p>
+        <p>Après avoir emprunté à la Gazette de France (20 février 1862) cet extrait du livre de M. Crétineau-Joly, nous devons ajouter qu'avant de porter contre Léon XII un jugement définitif il faudrait vérifier deux points essentiels. D'abord si, dans un excès de zèle plus ou moins justifiable, l'écrivain catholique n'a pas imaginé, fabriqué après coup la prédiction qu'il attribue au Pape, et, pour la rendre plus acceptable, dénaturé les sentiments que Lamennais avait inspirés à S. S. Puis, — ce qui nous semble au moins aussi probable, — si le cardinal Bernetti, dont la véracité n'est pas précisément un article de foi, ne prêtait pas à Léon XII les impressions malveillantes que lui-même avait reçues; et cela, soit pour flatter les préjugés hostiles de M. de taval, soit pour nuire dans son esprit à un homme dont l'immense renommée portait déjà ombrage aux porporati les plus en crédit.</p>
+        <p>Ces deux objections écartées, mais seulement si elles l'étaient, on pourrait, en toute sûreté de conscience, flétrir l'espèce de trahison, jésuitique et vile, dont le Pape se serait rendu coupable envers le plus illustre défenseur de ses tlroilS,- y"il" iti surplus, les Notes et Souvenirs, qui précèdent les pp. 44 à 5 1.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="27 novembre 1822." resp="">27 novembre 1822.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="22. \ LA MK.M I. (...-...)">22. \ LA MK.M I.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="27 novembre 1822."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>27 novembre 1822.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous l'avez deviné, il ne faut pas me presser. Quand vous m'écriviez cela, l'article avait paru. Dites-moi si vous en êtes contente. Je le suis moins que vous ne paraissez le croire de la nomination de mon frère2. Il était heureux à Saint-Brieuc, il le quitte avec regret. Qui sait ce qu'il trouvera là où il va? tou-</p>
+        <p>- (.umme vicaire général de la Graiule-Aumônerie de France, charge en l i-ainant ivsidence Ù l'a ris. L'abbé Jean se démit de ses fonctions en 1824, à la suite des élections, où il avait voté, à Saint-Brieuc, contre le candidat ministériel.</p>
+        <p>jours est-il qu'il vous verra, et c'est ce qui fait que je ne le plaindrai pas davantage. Comme vous voulez bien lui donner l'hospitalité en arrivant, et que j'ignore son adresse, qu'il faut qu'il me donne bien en détail, je vous envoie une lettre que j'ai reçue pour lui.</p>
+        <p>Je vous prie de ne pas trop haïr ma pauvre petite Augustine. Vous et MUe de Villiers vous êtes dures pour elle ; vous avez pris cette enfant en grippe, je ne sais pourquoi. Songez donc qu'à douze ans, on ne peut pas être dans le cinquième château ; et que, lorsqu'on y est, il y en a encore deux autres où l'on n'est pas, afin qu'on regarde devant soi avec humilité, et derrière avec charité. Sur ce j'embrasse, non pas vous puisque papa Fauvel le défend, mais Augustine si vous le voulez bien. Je ne la crois pas encore sous sa haute juridiction, du moins Ílmnédiate. Où avez-vous pris, s'il vous plait, que mon manteau était un petit manteau? Au reste, grand ou petit, je conçois que vous ririez de le voir sur mes épaules ; mais c'est une satisfaction, ma chère demoiselle, que vous n'aurez pas prochainement, et j'ai trop de choses sur mes épaules pour les surcharger encore d'un manteau. Quand j'irai à Paris, vers la fin de l'été prochain, vous me reverrez tel que vous m'avez vu. Je vous en avertis, afin que votre surprise ne soit pas trop humiliante pour moi. J'admire la justesse de vos conjectures, ou, pour mieux dire, l'esprit de prophétie qui est descendu sur vous dans le cinquième château. Je ne pense pas que notre sémillante jeunesse ose faire tapage, la leçon de l'année dernière a été trop forte. Effectivement, on a seulement failli assassiner les missionnaires;—mais ce n'est pas là faire tapage, n'est-ce pas, chère sœur?</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

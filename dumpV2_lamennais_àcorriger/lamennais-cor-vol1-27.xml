@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 19 lévrier 1824" resp="">le 19 lévrier 1824</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="28. - A LA MÊME. (...-...)">28. - A LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 19 lévrier 1824"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>La Chênaie</placeName>
+            <date>le 19 lévrier 1824</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Nous voici donc au mardi gras ; j'espère, ma bonne amie, que vous aurez fait le vôtre en santé et liesse. Ma sœur, mon beau-frère et mon frère sont ici depuis samedi avec tous les enfants. Je vous assure que c'est un beau bruit; deux mois de</p>
+        <p>travail forcé ne m'auraient pas tant fatigué. Nous avons beaucoup parlé de vous et de ces dames, et même nous avons bu à votre santé, ce qui fait que je ne doute pas que vous ne vous portiez parfaitement bien...</p>
+        <p>Vous m'avez envoyé le chocolat que je vous avais priée de garder, ce qui me contrarie, parce qu'il m'est inutile ici. Veuillez avoir la bonté de prendre soin de ma garde-robe, et de la garantir des vers. Je vous recommande ceci parce qu'il n'est pas probable que je retourne à Paris avant deux ans.</p>
+        <p>Je vous engage à rassembler toutes les notes dont j'aurai besoin pour la Vie de M. Carron. Vous le devez à sa mémoire. Il n'y a que vous qui ne sachiez bien tout ce qu'il a fait en Angleterre, et tous les traits particuliers qui peignent son caractère et font aimer et admirer ses vertus. Il l'aut que vous vous concertiez pour cela avec Mlle de Villiers et Mlle de Tremereuc. Vous avez les papiers envoyés par la famille; il serait bien qu'ils fussent mis en ordre. M. le baron de Saint-Germain en avait promis d'autres; vous pourriez le lui rappeler.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

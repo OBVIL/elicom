@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 18 décembre 1823." resp="">le 18 décembre 1823.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="27. — .\ LA MÊME. (...-...)">27. — .\ LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 18 décembre 1823."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chênaie</placeName>
+            <date>le 18 décembre 1823.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous ne me dites pas, mon excellente amie, si vous avez reçu la lettre que je vous ai envoyée par mon frère. Quoi qu'il en soit, la vôtre m'a fait un très-grand plaisir, et m'en aurait fait davantage si vous ne m'annonciez pas que la pauvre M"c de Villiers est indisposée, et que vous éprouvez des cha-</p>
+        <p>grins du côté de votre famille. Je suis également peiné de ce que vous me mandez au sujet de Mme de Cougnac et de son fils; la vie n'est guère qu'un tissu de douleurs. Les hommes se le disent tous les jours, et cependant ils y tiennent; arrangez-moi cela. Vous ne me parlez point de votre voyage à Saint-Hilaire et à la Chenaie. N'allez pas me manquer de parole : vous affligeriez bien des personnes dans ce pays-ci, et surtout celle qui vous écrit. Nous avons un hiver fort doux, et plus doux que beaucoup de printemps. J'aimerais mieux, je crois, un peu plus de froid, pour trouver le feu encore meilleur; mais aussi on est bien aise de respirer, quand on sort, un air tiède, et partant il n'y a pas lieu de se plaindre. J'avais déjà parlé de M. Rey à mon frère; je sais qu'il s'intéresse à lui ; ce n'est que l'occasion de le servir qui manque. Rappelez-lui cette affaire de temps en temps. Peut-être la Providence ouvrira-t-elle quelque voie d'être utile à cet excellent prêtre.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

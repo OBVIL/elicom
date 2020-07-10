@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 26 décembre 1819 2." resp="">le 26 décembre 1819 2.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="7. - A MADEMOISELLE DE LUCI.NIËRE. (...-...)">7. - A MADEMOISELLE DE LUCI.NIËRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 26 décembre 1819 2."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 26 décembre 1819 2.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je reçois le même jour, mon excellente amie, la lettre de Mlle de Tremereuc, du 18, et la vôtre du 20. Ce sont presque les premières nouvelles que je reçois des Feuillantines, n'ayant eu auparavant que quelques mots de notre bon Père, à qui j'ai répondu sur-le-champ. Il est bien fâcheux qu'il ne puisse recevoir de réponse définitive; car le temps presse, et on arrivera au moment où il sera nécessaire de prendre un parti, sans être sorti de l'incertitude qui empêche d'en prendre un maintenant. La volonté de Dieu.</p>
+        <p>Je n'ai pas encore été au Rouvre; le temps, les chemins sont trop mauvais. Il paraît que cette terre reste au sous-préfet; mais on la dépouille de ses bois, et l'on vend une de ses fermes. L'aînée des demoiselles va à Saint-Symphorien, et la plus jeune je ne sais où. M. Dubourgblanc reste au Rouvre avec M. et Mme de Derval. Voilà du moins ce qu'on dit. Il paraîtrait que M. de Guébriant aurait réclamé le prix du Rouvre, racheté par Mme de Coualès, dont la fille en avait</p>
+        <p>laissé la jouissance à son grand-père. Je ne doute pas que M. Weld n'ait fait des merveilles dans mes petites cellules : il en a le moyen; mais je parie qu'il ne fera jamais chanter coquelicot à ma petite boulette. J'ai le brevet d'invention. Au reste, je vous trouve bien bonne de vous contraindre à ce point. Il n'y a que le premier pas qui coûte. Adoptez-le, ce sera fini, et les choses iront leur train ordinaire. Pour moi, je vis ici tout à fait seul. Vous direz peut-être que c'est voir bien mauvaise compagnie ; au moins elle n'est pas gênante, quoique parfois un peu ennuyeuse. Je pense souvent aux Feuillantines, et ce n'est pas ce qui me rend ce séjour-ci agréable. Mais c'est mon devoir d'y rester, pour achever ce que je n'achèverais jamais ailleurs. Le petit François se porte bien, il engraisse à vue d'œil; il est fort doux, mais très-paresseux. Je suis très-content de Jean-Baptiste. Embrassez bien, s'il vous plait, mes petites nièces pour moi; voilà un mot pour elles. Mille choses tendres à toutes nos bonnes dames et aux chers gentlemen. Respect à M. Weld. Je n'ai sûrement pas besoin de vous parler de notre bon Père : votre cœur sera l'interprète du mien. Si vous n'avez pas cédé vos six grands verres à patte, et que vous ne les gardiez pas, réservez-les-moi, je vous prie, et envoyez-les-moi par la première occasion. Adieu, ma bien bonne amie. Vous permettez que je dise ici deux mots à Mlle de Tremereuc. —</p>
+        <p>Vous faites bien de vous excuser, mademoiselle, — car je dois prendre ici mon ton sérieux. — Vous me permettrez de vous dire qu'aucune des raisons que vous me donnez de votre silence ne me satisfait. « Tant pis pour vous, » direz-vous. Eh! sûrement, tant pis pour moi; mais cela n'est pas plus satisfaisant. Vous l'avouerai-je ? Depuis que j'ai quitté les Feuillantines. je suis devenu d'une gravité qui me fait craindre d'oublier à rire. J'en ai envie pourtant en lisant ce que vous m'apprenez des embarras de Mlle de Couessin au sujet des lettres dont vous l'avez priée de se charger pour moi. Je n'ai pas reçu celle que Cor a promis de me faire passer. Ne les aurait-il pas mises au roulage accéléré? Adieu, bien bonne et bien chère amie. Je vous embrasse sans façon et de tout mon cœur.</p>
+        <p>Veuillez donner de ma part quelques petites étrennes à mes petites nièces1.</p>
+        <p>Nos lecteurs trouveront à la suite de la Correspondance le résumé du procès auquel elle a donné lieu. Ils verront que cet arrêt interdit à l'Editeur-légataire de comprendre dans la présente publication aucune des lettres par lui recueillies, en dehors de celles qui lui ont été remises à titre de legs.</p>
+        <p>Il lui a donc fallu supprimer les lettres, en assez grand nombre, qu'il avait choisies parmi un bien plus grand nombre encore, arrivées en ses mains grâce au bon vouloir empressé des tiers auxquels elles étaient adressées : bon vouloir dont il doit témoigner ici sa vive gratitude.</p>
+        <p>Pour montrer avec quelle excessive rigueur et dans quel esprit jaloux les héritiers de Lamennais ont exercé le droit que la justice leur a reconnu, nous devons mentionner ici une circonstance caractéristique.</p>
+        <p>Parmi les lettres à classer se trouvait la correspondance avec M. de Vitrolles, — celle de toutes qui embrassait la plus longue série d années et sur laquelle, moins que sur aucune autre, on pouvait, en bonne conscience, étendre la prohibition résultant de l'arrêt. Quant à celle-ci, en effet, l intention de Lamennais ne pouvait pas faire doute, même pour les esprits les plus obtus ou les plus prévenus.</p>
+        <p>A M. de Vitrolles, son plus ancien et son plus constant ami, Lamennais s'était tout d'abord adressé pour rentrer en possession momentanée des lettres qu'il lui avait écrites à diverses époques, les faire transcrire toutes, sons exception, — c'est ainsi qu'il agissait invariablement, — et les joindre, en cet état, au volumineux dossier qu'il formait peu à peu, en prévision de la publication actuelle. M. de Vitrolles, déjà fort âgé, et partiellement privé de la vue, avait fait dans ses cartons la recherche demandée : il l'avait faite comme le lui permettaient et son âge et l'état de ses yeux, nécessairement très-superlicielle et très-incomplète. Lamennais, de son côté, ne recevant qu'une partie des lettres ainsi réclamées, dut croire que son ami avait égaré ou détruit les autres. Il n'insista point, fit copier, à un iota près, tout ce qui lui était remis, et rendit ensuite les originaux à M. de Girolles.</p>
+        <p>L'Editeur, ici, ne suppose rien. Il raconte. Tout ce détail est à sa parfaite connaissance, et sa parole en garantit l'exactitude.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

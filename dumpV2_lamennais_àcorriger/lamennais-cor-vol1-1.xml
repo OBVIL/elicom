@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Saint-Brieuc. 12 juillet 1818." resp="">Saint-Brieuc. 12 juillet 1818.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="2. — A LA MÊME. (...-...)">2. — A LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Saint-Brieuc. 12 juillet 1818."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Saint-Brieuc. 12 juillet 1818.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je reçus hier, mon excellente amie, une lettre du P. Antoine, qui me prévient de la détermination qu'il a prise de ne point accepter votre procuration ; de semblables soins lui paraissent</p>
+        <p>contraires aux règles de son état. Je désire aussi vivement que jamais vous prouver mon dévouement, et je suis prêt à me rendre à Nantes, si vous jugez ce voyage utile à vos intérêts; mais j 'ai lieu d'en douter beaucoup, d'après ce que me marque le P. abbé. Voici ses propres expressions : « M. de Lucinière, « qui est venu me voir ce matin, ne m'a pas dissimulé que si « vous acceptiez cette procuration, quelque respect et estime « qu'il ait pour vous, il serait pourtant obligé de vous mettre « aux prises avec son avocat, ce qui, sous tous les rapports, « ne pourrait guère vous convenir. » Il me semble clair, d'après cela, que M. votre frère verrait d'un mauvais œil que je me mêlasse de vos affaires avec lui, et que ma présence à Lucinière, loin d'être un moyen de conciliation, -deviendrait au contraire comme un commencement de procès, ce qui ne vous répugnerait pas moins qu'à moi. Veuillez communiquer ceci à notre bon Père; j'aurai encore le temps de recevoir votre réponse à Saint-Malo. Peut-être pourriez-vous demander à M. de Lucinière un état détaillé de la succession de M. votre père et de celle de Mmo votre mère, séparément. Ces deux états, qu 'oii ne peut vous refuser, vous aideront à juger de votre position, et pourraient vous offrir le moyen de traiter de Paris même, si M. votre frère veut se prêter à des arrangements raisonnables. J'avoue que j'ai toujours cru et que je crois encore vos affaires très-aisées à régler, pour peu que les intentions que j'e vous connais fussent réciproques ; mais l'espèce d'obscurité qui reste sur ce point vous oblige à beaucoup de ménagements et a une grande prudence. Dans aucun cas on ne peut exiger de vous que vous traitiez à l'aveugle, ni par conséquent se fàcher que vous demandiez des renseignements dont vous avez besoin pour prendre une sage détermination. Je vous écris à la bâte pour ne pas manquer le courrier. J'arrivai hier de la Basse-Bretagne, après un voyage de quatre jours fort intéressant. Lundi, nous partons pour la Chenaie 1, où nous resterons un</p>
+        <p>La Chenaie, dans le voisinage de Dinan. Plusieurs écrivains ont décrit ce domaine et cette habitation modeste que le séjour de Lamennais a rendus célèbres. Consulter notamment ce qu'en dit 1 illustration dans son numéro 463 du-4 mars 1854 (t. XXIII). Cet article, curieux à plus d'un titre, est accompagne de dessins d'après nature.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

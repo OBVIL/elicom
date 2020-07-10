@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="22 octobre 1821" resp="">22 octobre 1821</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="10. — A MADEMOISELLE DE TRBIEREUC. (...-...)">10. — A MADEMOISELLE DE TRBIEREUC.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="22 octobre 1821"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>22 octobre 1821</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Votre petit billet, ma bonne amie, m'a causé tout à la fois et de la joie et de la tristesse. Je suis sensible, plus que je ne puis vous le dire, à l'attachement si tendre et si vrai que vous me témoignez, vous et vos chères compagnes. Je le mérite, je crois, par celui que j'ai pour vous. Je me faisais un bon heur de passer ma vie au milieu d'amies si sincères, et dans le sein d'une société si douce. J'y trouvais la consolation de beaucoup de chagrins, et une sorte de repos d'âme, dont on sent davantage et le besoin et le prix à mesure qu'on vieillit. C'étaient là nos projets, et, au moment où nous les formions, Dieu en ordonnait autrement; il me préparait de nouvelles et plus dures contradictions que je n'avais pu prévoir, et dont le résultat est de rendre impossible l'exécution de nos desseins. A cela, que faire? Se soumettre. Qui a résisté à Dieu et a eu la paix? Je ne vois rien que de fort obscur dans l'avenir qui s'ouvre devant moi. Où irai-je? je n'en sais rien; peut-être à Rome, où il est possible que ma présence fut utile en ce moment. J'attends, à ce sujet, une réponse d'Italie. Elle fixera mes idées sur ce point. Notre petite Clara continue de se bien porter et d'être fort aimable. Mille respects à sa grand'maman.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

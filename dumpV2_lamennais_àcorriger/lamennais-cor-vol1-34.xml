@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 28 mars 1825." resp="">le 28 mars 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="35. - A U MÊME. (...-...)">35. - A U MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 28 mars 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chênaie</placeName>
+            <date>le 28 mars 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Il est bien vrai, monsieur le marquis, que lorsque vous m'avez fait l'honneur de me marquer un attachement qui m'est si doux et dont je suis si fier, ce n'était pas la faveur publique qui vous entraînait. Je ne crois pas qu'homme ait été plus en butte aux injures et aux criailleries que je le suis depuis quelque temps, et tout cela pour avoir eu raison contre deux prélats en crédit qui, pour la plus grande gloire de Dieu et le plus grand avantage de la Religion, avaient jugé il propos de faire publiquement une demi-abjuration du christianisme, J'épi-ou%-e tous les jours une chose que j'aurais crue impossible, c'est un accroissement de mépris pour les hommes de ce temps. Je n'aurais jamais pensé que la nature humaine pût descendre si bas elle a passé mes conjectures et mes espérances. J'ai beau chercher dans ma mémoire, je ne trouve rien à comparer, même de loin, au spectacle que nous offre la Chambre des députés. Cela est certainement nouveau sous le soleil. Jamais on n'avait vu une dégradation si burlesque et une corruption si bête. Je défie l'avenir de croire au Moniteur de cette année; il n'y a</p>
+        <p>point de caractère officiel qui puisse rendre vraisemblable une bassesse pareille et un pareil idiotisme. Bon Dieu, où allons-nous? et qu'y a-t-il au bout de ce chemin-là? Je le dirais bien peut-être, mais vous le savez mieux que moi.</p>
+        <p>J'écris aux rédacteurs du Mémorial pour leur annoncer que vous voulez bien permettre qu'on réimprime dans leur recueil votre bel article sur l'indécent usage que des laïques prononcent des discours aux inhumations 1. J'ai envoyé quelques lignes pour joindre à vos réflexions. Force m'a bien été d'être court, car vous n'avez laissé rien à dire.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
