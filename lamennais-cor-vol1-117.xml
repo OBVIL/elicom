@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="25 septembre 1827." resp="">25 septembre 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="118. — A MADEMOISELLE DE LUCINIÈRE. (...-...)">118. — A MADEMOISELLE DE LUCINIÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="25 septembre 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>25 septembre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Le ressuscité embrasse ses trois bonnes amies, et le cher M. Carissan, et ma petite Clara et ma petite Hélène, et dit</p>
+        <p>il ne le pensait pas. Mais depuis! Une fièvre bilieuse, avec les spasmes, d'abord tierce, puis continue, des évanouissements, et maintenant une effrayante faiblesse. Dès le commencement de la maladie, M. Blaize 1 est venu. M. l'abbé Jean est arrivé ces jours-ci : nous sommes dans une consternation mortelle. Je voudrais pouvoir croire que notre affection grossit encore à nos yeux le danger de son état : mais je ne le puis. Si je ne vous ai pas écrit plus tôt, c'est que j'attendais de jour en jour quelque mieux à vous annoncer. Ne croyez pas, cependant, que toute espérance soit perdue : non, non. J'avais foi en ce qui lui restait à faire pour accomplir sa mission, et je conserve encore cette foi : mille hommages. Je frémis à la pensée de la douleur que vous porte ma lettre.</p>
+        <p>« P. S. de samedi matin 28. — Un changement notable dans l'état du cher malade nous a fait passer de la plus profonde tristesse à beaucoup d'espérance. Point ou presque point de fièvre; les forces reviennent. — Je vous écrirai par le prochain courrier, qui part de Dinan mardi.</p>
+        <p>« Deux heures et demie de l'après-midi. — Un symptôme ardemment désiré vient de se manifester : M. l'abbé Jean pense que le cher malade est sauvé. Je suis bien porté à partager cette espérance.— Si j'avais le temps, je recommencerais ma lettre pour supprimer ce que j'ai écrit hier de trop alarmant : mais l 'exprès qui doit la porter à Dinan n'a plus que le temps nécessaire pour y arriver avant le départ du courrier. »</p>
+        <p>LE MÊME .\ U MÊME.</p>
+        <p>« A la Chenaie, mardi 31, 3 heures de l'après-midi.</p>
+        <p>« Le cher malade est beaucoup mieux, quoiqu'il ait eu, dimanche soir, une mauvaise crise. Depuis il y a une amélioration graduelle : son état devient plus satisfaisant sous tous les rapports. Nous avons plus que de l'espérance. Le courrier de jeudi portera un nouveau bulletin. -</p>
+        <p>LE MÊME AU MÊME.</p>
+        <p>«A la Chênaie, jeudi 2 août 1827, 2 heures de l'après-midi.</p>
+        <p>« Le médecin, dont on est fort content, et qui est très-circonspect, a déclaré hier que le cher malade était hors de danger. La température d'aujourd'hui, qui est chaude et lourde, détermine de l'affaissement ; mais il n'y a pas de lièvre. Les forces sont augmentées sensiblement depuis trois jours. »</p>
+        <p>LE MÊME AU MÊME.</p>
+        <p>« A la Chenaie, samedi 4 août.</p>
+        <p>« Le dernier bulletin annonçait que le médecin avait déclaré que le cher malade était hors de danger. Cette heureuse assurance n'a fait que se confirmer de plus</p>
+        <p>t Le beau-frère de Lamennais.</p>
+        <p>mille choses affectueuses aux domestiques du n° 54. Il voudrait savoir comment la bonne Villiers et Adèle se sont trouvées de leur voyage aux eaux. Pour lui, ses forces reviennent,</p>
+        <p>en plus; la convalescence fait des progrès : il ne s'agit plus que de suivre un régime graduellement fortifiant; mais comme les forces avaient été affaiblies au dernier degré, la convalescence peut être longue.</p>
+        <p>« Jusqu'ici, occupé dans la chambre du cher malade, je n'ai pu donner que de courts bulletins : bientôt j'aurai le temps d'entrer dans des détails bien édifiants.</p>
+        <p>« M. l'abbé Jean présente, ses respects à M. le comte et M"" les comtesses de Senfft : j'y joins les miens. »</p>
+        <p>f</p>
+        <p>LE MÊME AU MÊME.</p>
+        <p>« A la Chenaie, 9 août 1827.</p>
+        <p>u. Monsieur le comte,</p>
+        <p>« Je reçois votre lettre du 50 juillet. Vous avrz dû recevoir, depuis ma triste lettre du 27, des bulletins de plus en plus satisfaisants sur-l'état de l'abbé Féli. Le dernier vous a appris qu'il n'y avait plus de danger, et je vous en confirme aujourd'hui l'assurance.</p>
+        <p>« La convalescence fait des progrès. Il prend de jour en jour une nourriture plus substantielle. Le médecin lui a dit aujourd'hui qu'il pourrait entendre la messe le jour de l'Assomption. La voix est déjà presque sa voix ordinaire. Il aime à causer -de temps en temps, et je n'ai pas besoin de vous dire que ses amis de Turin ont été dans ses premières paroles. Il a été traité parfaitement par M. le docteur Bodinier, de Dinan, dont le zèle et l'habileté méritent beaucoup de reconnaissance. Après Dieu, c'est lui qui l'a sauvé.</p>
+        <p>« Je me proposais de vous donner dans cette lettre l'historique de cette maladie si affreuse d'uue part, et si admirable de l'autre; je ne le puis pas encore aujourd'hui. Je l'ai veillé la nuit dernière, et ce soir je suis bien fatigué. Veuillez excuser ce retard en faveur de sa cause. Le commissionnaire part demain de grand matin. Pour achever de vous tranquilliser, j'ajoute que M. l'abbé Jean est parti de la Chenaie mercredi, pour aller terminer quelques affaires qui réclamaient sa présence. Cela seul vous rassurerait sur l'état du cher convalescent. Dans mes lettres troublées, j'ai omis les hommages de M. l'abbé Jean. — Mille respects. »</p>
+        <p>LE MÊME AU MÊME.</p>
+        <p>c( A la Chenaie, t8 août 1827.</p>
+        <p>« Monsieur le comte,</p>
+        <p>« H. Féli reçoit à l'instant une lettre de ltIme la comtesse de Senfft, du 5 août, d'après laquelle il voit que vous n'aviez encore reçu aucune des lettres que j'ai eu l'honneur de vous écrire, depuis celle du 16 juillet. Je vous en ai écrit successivement quatre ou cinq, au moins, dont la premièrp était bien triste, mais a été promptement suivie de bulletins de plus en plus consolants. La dernière, qui était une réponse à celle que vous avez eu la bonté de m'écrire, vous confirmait l'annonce de l'heureuse convalescence de notre ami. C'est toujours de mieux en mieux;</p>
+        <p>il commence à se promener un peu dans le jardin : les forces augmentent sensiblement; il a repris de la gaieté : il mange, avec précaution et choix, mais avec un commencement d'appétit. On ne pouvait guère espérer une meilleure convalescence. — Il parle souvent de ses amis de Turin.</p>
+        <p>« Je fais cette lettre à'ia hâte pour profiler du retour du médecin à Dinan, afin</p>
+        <p>malgré la rechute qu'il a éprouvée et dont il n'est plus question, grâce à de fortes doses de quinine. Sur cent mille malades, à peine un reviendrait-il d'où il est revenu. Sans pouls,</p>
+        <p>qu'elle parte par le courrier de ce soir. Je n'ai que le temps de vous redire ce que je disais dans une. de mes dernières lettres, qu'une des premières recommandations de M. F. a été que je vous écrivisse de sa part. Son vif attachement pour vous s'est montré d'une manière bien touchante au moment de cette rentrée dans ce monde. »</p>
+        <p>LE MÊME AU MÊME.</p>
+        <p>« A la Chenaie, 8 septembre 1827.</p>
+        <p>« Monsieur le comte,</p>
+        <p>« Depuis nia lettre de la dernière quinzaine d'août, nous avons eu à la Chenaie des choses tristes. Un des domestiques a été malade, et le domestique de confiance est mort. Cet événement a fait éprouver à notre ami une secousse qui m'avait bien effrayé. Deux accès de fièvre l'avaient repris : mais, Dieu soit béni de nouveau et toujours! cela n'a pas de suite, et la convalescence redevient progressive: la fièvre a été coupée bien à propos. Je renais de toutes mes craintes toujours trop promptes.</p>
+        <p>Je commencerai à vous donner des détails sur cette maladie qui a été pour nous la cause de tant d'angoisses. Je suis arrivé à la Chenaie la veille du jour où il est tombé malade. C'était d'abord une fièvre tierce bilieuse, compliquée ensuite avec une fièvre maligne qui a été la principale maladie. Je ne puis vous dire combien il a souffert de ses affreux spasmes, ni avec quelle admirable patience, ni ce que j'ai souffert moi-même, lorsqu'à deux différentes reprises il s'est évanoui dans mes bras; je le croyais mort. Je reviens à regret sur ces tristes souvenirs : je passe à de plus consolants, puisqu'ils se rapportent aux plus terribles moments.</p>
+        <p>« Il avait demandé de bonne heure les derniers sacrements : le jour où il a reçu le saint Viatique a été bien beau pour sa vive foi et sa sérénité. Du reste, tout a été simple : face à face de la mort, il a été, si je puis parler ainsi, sans façon avec elle. I-l me disait de temps en temps des mots qui me déchiraient et me soutenaient tout ensemble.</p>
+        <p>« Que serviraient, disait-il, les honneurs, les richesses, la réputation, quand oil elt « est là ? » Je lui répondis qu'aussi bien il n'en avait jamais fait grand cas : « Mon « auti, me dit-il, j'ai envie de m'en aller : j'ai bien assez de la terre. » Je me rap- ^ pelle aussi qu'une nuit où il se trouvait mieux, je lui disais, pour le distraire, qu'il faisait un superbe clair de lune; il essaya de se soulever pour entrevoir à travers sa fenêtre cette belle nuit, et me dit en retombant : « Pour ma paix, s'il plaisait à Dieu, ce serail la dei-niére. » Lorsque son cher frère fut arrivé (c'est lui qui l'a administré), il lui dit, après s'être entretenu quelques instants avec lui : « Je te « lègue la plus belle chose du monde, la vérité à défendre. » Une autre fois je lui demandais ce qu'il désirait boire : comme ses idées commençaient à se brouiller, il ne comprit pas bien ma question; mais, l'interprétant dans un sens analogue à sa pensée habituelle, il me répondit : « Oit ne peut désirer autre chose que ce que Dieu « veut. » Cette réponse, qui n'était pas une réponse, n'en était que plus belle; c'était comme un son que rendait son âme. Ceci me ramène aux plus cruels moments. Hélas! après le posl-scriptum de ma triste lettre du 27-28 juillet, lequel vous avait un peu rassuré, quelle journée, le lendemain 29! Il faisait une chaleur étouffante : de six heures à onze heures, nous le crûmes à l'agonie. Son pauvre frère me pria de lui renouveler l'absolution des mourants. Le mieux commença à onze heures, et depuis lors nous sommes arrivés bientôt, d'espérances en espérances, aux heureuses nouvelles que je me suis empressé de vous transmettre. Dans</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

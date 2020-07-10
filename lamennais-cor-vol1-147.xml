@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 9 janvier 1828." resp="">Le 9 janvier 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="148. — A M. BERRYER. (...-...)">148. — A M. BERRYER.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 9 janvier 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 9 janvier 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Eh bien, mon cher ami, voilà donc qui est à recommencer ? M. de Villèle nous a donné sa monnaie, et la monarchie s'en contente 1. Je doute qu'il en soit ainsi des Chambres; ce ne sera pas du moins pour longtemps, et il me paraît même presque impossible que le nouveau ministère ouvre la session tel qu'il est. Je ne lui vois qu'une seule chance de vie pendant une année : ce serait la division de l'extrême droite et de la</p>
+        <p>gauche, pour envahir des places qu'on peut regarder comme vacantes. Ce serait de leur part une grande sottise, car il est clair qu'ils n'ont pas vaincu jusqu'à présent, et que M. de Villèle règne encore par la majorité du ministère qui lui appartient visiblement. Comptons : Chabrol, Frayssinous, de Caux, La Ferronnays, Martignac, Saint- Cricq; six voix sur huit : c'est honnête, et Portalis lui-même s'arrangerait à l'occasion. Cette combinaison me semble folle, si les hommes ne sont pas corrompus jusqu'au dernier excès. Je ne comprends pas que Roy ait consenti à entrer dans cette galère. Aurait-il le projet d'en réformer l'équipage à son profit et au profit de son parti? Dans tous les cas il se perdra, parce qu'infailliblement son libéralisme sera trouvé de trop bas aloi. Quanta Frayssinous, il convient fort qu'on le laisse où il est. C'est l'homme qu'il faut pour commencer avec avantage la guerre contre l'Église. Quand on en aura tiré ce parti, on crachera dessus, et son épitaphe sera faite. Je suis extrêmement curieux de l'ouverture de la session. Avec elle commencera l'ère de la décadence, car ce n'est rien que ce que nous avons vu jusqu'ici. Le mouvement désormais sera bien autrement rapide, et tant mieux. J'aime ce qui finit : qnod facis, fac citiùs. Notre pauvre chevalier' disait un jour à Mme de T... : « — Madame la marquise, savez-vous ce que ce sera que le règne de ? Ce sera de la boue. — Monsieur le chevalier, ce sera de la m.. de, parce qu'il me semble qu'on doit s'en lasser plus vite. » Malgré tout son bon sens, l'oracle s'est trompé, ce qui n'empêche pas l'anecdote d'être fort jolie.</p>
+        <p>J'ai écrit deux fois à notre ami ; je n'en ai point de réponse. Je serais pourtant bien aise de savoir ce qu'il devient. Le voyage annoncé3 ne me plaît ni pour moi ni pour lui; pour moi, parce que je ne le voudrais pas si loin ; pour lui, parce qu'il se fera difficilement à une vie aussi monotone que celle de ce pays-là. Il est accoutumé à un tout autre monde. Le mien est aussi étroit qu'un monde puisse être. En hiver, c'est ma chambre ;</p>
+        <p>- M, de Vitrolles.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

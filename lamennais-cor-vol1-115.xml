@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 15 juillet 1827." resp="">Le 15 juillet 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="116. — A M. BERRYER. (...-...)">116. — A M. BERRYER.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 15 juillet 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 15 juillet 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>M. Laborie m'a envoyé, mon cher ami, l'Éloge du duc d'Enghien par son fils. Je lui écris pour le remercier ; mais, ne sachant point son adresse, je vous envoie ma lettre, avec prière de la lui faire parvenir.</p>
+        <p>Dites donc à la Quotidienne de cesser cette espèce de petite controverse avec le Moniteur. A quoi cela revient-il qu'à affaiblir la cause qu'on ne peut pas défendre? Qu'elle donne les nouvelles officielles, le prix des truffes, des pâtés d'Angoulême et de Périgueux ; le reste, chacun le dit et le pense : on peut s'en rapporter au public pour cela.</p>
+        <p>Il n'est bruit dans les provinces que de création de pairs et d'élections nouvelles. Je crois plus aux pairs qu'aux élections; la chance me parait trop hasardeuse pour qu'on y sacrifie une ou deux années à peu près certaines. Ce fade liquide qu'on</p>
+        <p>appelle indifférence a tourné à l'aigre depuis quelque temps. Et puis, les illusions, tant générales que personnelles, se sont dissipées. Je ne connais de vrais ministériels, en France, que dans le Conseil du roi et dans la Chambre des députés. Sesmaisons et Dufougeray1 ont écrit dans nos départements pour essayer de ramener un peu les esprits à leurs patrons, disant que « le sort de la monarchie était inséparablement lié à celui des ministres, etc. » Ces bêtises, auxquelles on avait cru il y a deux ans, ont produit l'effet tout contraire à celui qu'on s'en promettait. On s'en moque et on s'en fâche; le bon sens sourit avec amertume, et les sots disent : Nous prennent-ils donc pour des sots ?</p>
+        <p>On vient de m'envoyer la dernière brochure de l'abbé ClauseL Je ne me serais jamais persuadé que la rage pût aller jusqu'à cet excès. Et voilà le confident, l'agent, le conseiller de Frayssinous!</p>
+        <p>Vous avez, mon ami, trop cru à quelques-unes de ces paroles qui ne coûtent rien à de pareilles gens. On vous a montré quelque chose de froid que vous avez pris pour de la' modération, et c'était de la haine figée. Si vous saviez tout ce que cet homme avec sa double autorité2, fait dans les provinces, quelle activité pour le mal, quel zèle de persécution, « les bras vous en tomberaient des mains, » comme disait élégamment en chaire l'archevêque de Paris.</p>
+        <p>Je ne sais si M. de V 3 est encore à Paris ; il m 'écrivait, il y a trois semaines, « que vous veniez de lui dire que mes affaires allaient finir. » Je le souhaite bien vivement. Il me semble que désormais l'affaire est entendue, et que les juges peuvent prononcer en parfaite connaissance de cause. Si les vacances venaient avant le jugement, cela me rejetterait bien loin.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

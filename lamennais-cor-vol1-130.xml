@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 26 octobre 1827." resp="">Le 26 octobre 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="151. - A MADEMOISELLE DE LUCINIÈHE. 1 (...-...)">151. - A MADEMOISELLE DE LUCINIÈHE. 1</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 26 octobre 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 26 octobre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>On dit bien qu'il faut s'attendre à tout en ce monde. Sans cela, où en seriez-vous en voyant apparaître l'abbé Gerbet? Le voilà de nouveau dans la grande ville, où nos affaires l'appellent. Je vous recommande de le bien recevoir, avec politesse et civilité. Pour moi, je ne sais quand je vous reverrai; au plus tôt dans trois ans, selon toute apparence. Jamais, depuis Kensington, nous n'avions été, à beaucoup près, séparés si longtemps. Enfin il faut vouloir ce que Dieu veut, et le temps, après tout, ne me parait rien, depuis que j'en ai vu de si près le terme. Était-ce la peine de recommencer? Du reste, ma solitude me plait, particulièrement l'hiver. Etre tranquille dans sa chambre, c'est un grand bien. Plus je vais, plus les hommes me pèsent. Il n'y a que votre société, mes bonnes amies, qui m'ait toujours été douce, et encore</p>
+        <p>aujourd'hui craindrais-je d'y rencontrer cette face blême et plate, vraie face de Gallican, à laquelle je préférerais toutes les post-faces imaginables, soit dit en passant, pour n'y plus revenir1.</p>
+        <p>Ainsi donc Angélique vous quitte; je vous plains et je la plains. Mais pourquoi, mademoiselle, vous en aller? dites-le moi, je vous prie. Est-ce qu'on ne vous aime plus assez? Est-ce qu'on est fatigué de vous? Est-ce qu'on vous fait mauvais visage? Parlez, expliquez-vous! qu'on sache au moins la raison, s'il y en a une, d'un parti si extraordinaire. Avez-vous consulté Clara? Il n'est pas bon de se décider seule, et cette grave personne a un jugement auquel je me fie beaucoup. Embrassez pour moi, je vous prie, non le jugement, mais la grave personne, et puis, après, Hélène qui est grave aussi, ou qui le deviendra, pour peu que sa tante y tienne la main comme de coutume.</p>
+        <p>Je confie à vos soins, Mlle Ninette, notre bonne et chère Villiers pendant la mauvaise saison qui va s'ouvrir. Empêchez-la de faire des folies ainsi qu'Adèle, et pour cela aidez-vous de l'autorité du père Carissan sur lequel, il votre tour, vous exercerez la vôtre; car il n'est pas toujours sage, non plus.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

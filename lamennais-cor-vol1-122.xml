@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 50 septembre 1827." resp="">le 50 septembre 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="125. — A MADAME LA COMTESSE DE SENFFT. (...-...)">125. — A MADAME LA COMTESSE DE SENFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 50 septembre 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 50 septembre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je vous ai écrit, pour la première fois, il y a quelques jours, et depuis j'ai reçu votre lettre du 14 et du 16. A toutes les peines dont surabonde cette vie de tristesse et de misère, je ne sais d'autre adoucissement qu'une pleine résignation à la volonté de Dieu. Il faut non-seulement se soumettre à ce qu'il veut, mais encore ne rien aimer, ne rien désirer autre chose. Nos désirs sont aveugles et incompatibles avec la paix. Et puis nous ne savons en aucune manière ce qui est bon pour nous. Ayons confiance en celui qui le sait.</p>
+        <p>&gt; Ne croyez pas qu'on puisse arrêter le mouvement qui emporte la société, ni se rendre maître de sa direction par aucun des moyens que fournit la politique. Ce mouvement est dans les esprits qui, préoccupés d'idées nouvelles, en partie fausses, . vraies en partie, s'avancent vers un avenir aussi inconnu qu'inévitable. Jamais on ne relèvera l'ancien édifice, et, sous presque aucun rapport, il ne serait à souhaiter qu'on le relevât. Les États avaient renoncé depuis longtemps à tous les principes constitutifs de la société chrétienne, et même de toute société. L'Europe n'offrait plus, dans les relations établies entre les Puissances, qu'une grande association des forts contre les faibles, sans que la moindre idée de justice et de ~ droit modifiât cette monstrueuse coalition. Les faibles ont brisé le joug, mais en adoptant la doctrine des forts, ce qui caractérise précisément la Révolution; le système de l'intérêt continue de dominer exclusivement; les hommes sont gouver-</p>
+        <p>nés, comme auparavant, par des volontés arbitraires; on a , changé de despotisme, voilà tout; et ce sera tout jusqu'à ce que les doctrines sociales aient repris leur empire, ce qui ne saurait arriver bientôt, et n'arrivera peut-être jamais. Nous savons qui devrait de nouveau les annoncer au monde ; mais combien les espérances qu'on pourrait avoir de ce côté paraissent faibles et lointaines encore' 1</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

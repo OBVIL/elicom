@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="6 mars 1827." resp="">6 mars 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="98. — A LA MÊME. (...-...)">98. — A LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="6 mars 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>6 mars 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous voyez dans les journaux ce qui se passe ici, les scènes représentatives, les discours des ministres, des députés, toutes ces incroyables extravagances. Je ne trouve personne qui n'en soit frappé, et dont la pensée ne se reporte tout droit à Charenton.</p>
+        <p>Le dégoût est au comble. En province, l'irritation succède à l'indifférence. Jamais, en aucun pays, le pouvoir n'a inspiré tant de haine et tant de mépris. Avec cela je ne crois pas que la crise qu'on prévoit soit immédiate. Tout s'en va naturellement, sans conspiration proprement dite, par un mouvement de descente continu. *</p>
+        <p>Le ministère reste en équilibre, et la royauté aussi, parce qu'on ne sait qui mettre à la place, et qu'il n'y a pas dix personnes qui s'entendent là-dessus. Il n'y a encore que des spectateurs de la révolution qui se prépare : on regarde ce que cela deviendra, on trouve que cela est un peu long, sans que personne, néanmoins, veuille se charger d'en finir. La monarchie est condamnée, le jugement est rendu ; mais l'on attend le bourreau.</p>
+        <p>La personne à laquelle vous prenez intérêt1 réussit à merveille; elle ne trompera, j'espère, ni vos vœux ni vos prévoyances. Il y a des intentions si pures, que Dieu ne manque jamais de les bénir.</p>
+        <p>D. Antoine est ici depuis deux ou trois semaines, toujours bon, toujours aimable, fin, spirituel, toujours lui-même. Il racontait, l'autre jour, un entretien qu'il a eu avec le grand faiseur, ou défaiseur, ce qu'il traduisait, en lui parlant, par « un grand ministre comme vous. » Là-dessus quelqu'un lui fit observer que ce mot-là, dans une bouche toute sincère,</p>
+        <p>était aussi un peu fort. — Que voulez-vous? dit D. Antoine, un pauvre trappiste, un pauvre moine barbare, n'est pas obligé d'avoii, le compas dans l'œil. Autre mot qui m'a paru plaisant : il y a quelques mois, lorsque la Quotidienne était encore flottante, je ne sais quel article s'y était glissé qui déplut beaucoup au ministère. Le lendemain, Piet rencontre Michaud, et, du plus loin qu'il l'aperçoit, levant ses longs bras : — Ah! dit-il, vous voilà, grand coupable! — Pas si coupable, répond Michaud, que vous êtes innocent.</p>
+        <p>Adieu, adieu; j'ai passé hier deux heures bien agréables avec la comtesse Potocka. Son fils aîné, quoique mieux, est toujours au régime du lait, et a bien de la peine à reprendre des forces.</p>
+        <p>Un petit journal, en rapportant la belle sentence de M. de la Boëssière : Je voterai tout ce qu'on me demandera, ajoutait : Et je mangerai tout ce qu'on me servira.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

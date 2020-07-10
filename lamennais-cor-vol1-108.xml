@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le Il juin 1827." resp="">Le Il juin 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="109. — A M. DEn n YEn. (...-...)">109. — A M. DEn n YEn.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le Il juin 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le Il juin 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>On me mande de tous côtés que la censure va être établie après la clôture de la session1. Je les crois bien capables de faire une pareille folie. En attendant, voilà M. Peyronnet et M. Corbière décorés du cordon rouge; M. de Villèle avait déjà le bleu. Je ne vois plus rien à leur souhaiter que le bâton blanc.</p>
+        <p>Pourriez-vous m'apprendre ce qui se passera seulement d'ici à six mois? vous me feriez un extrême plaisir. Les difficultés qui naissent du mouvement général des choses s'accumulent tous les jours, sans compter celles qu'y joint l'habileté de l'administration. Encore deux ou trois finesses de M. de Villèle, et ses successeurs auront un bel écheveau à débrouiller. Je plains le malheureux roi, qui ne sait pas, ou qui ne veut pas. Quos vult perdere Jupiter dementat. Je remarque dans le peuple de ces pays-ci la plus profonde indifférence pour tout ce qui s'appelle monarchie, tl ne tient qu'à une seule chose, à sa religion et à ses prêtres, dont l'autorité, toute-puissante sur lui, est également chérie et vénérée. Tant qu'on ne blessera pas, sous ce rapport, sa conscience et ses habitudes, il s'inquiétera aussi peu de tous les changements politiques que des révolutions de la Chine : mais, si l'on attaquait</p>
+        <p>la foi, l'Église et ses ministres, il y a, dans la seule Bretagne, trois cent mille hommes prêts à répandre la dernière goutte de leur sang pour les défendre.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
