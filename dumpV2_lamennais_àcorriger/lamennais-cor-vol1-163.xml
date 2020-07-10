@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 2 mars 1828." resp="">Le 2 mars 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="164. — A MADAME LA COMTESSE DE SENFFT. (...-...)">164. — A MADAME LA COMTESSE DE SENFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 2 mars 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 2 mars 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je suis profondément peiné de l'état d'abattement et de tristesse où vous êtes. Pourquoi se décourager, se désoler, s'inquiéter outre mesure? Pourquoi charger son âme de tout le poids d'un avenir incertain? Jésus-Christ ne nous défend-il pas d'étendre nos-sollicitudes au delà du jour présent? C'est bien assez pour nos pauvres forces. Je ne dis point qu'il ne faille rien prévoir; mais que notre prévoyance soit calme et ne trouble pas notre paix. Dieu conduit toutes choses; nous sommes en sa main : où trouverons-nous le repos, si ce n'est là? Confions-nous en sa providence, et marchons d'un pas ferme dans les voies où elle nous conduit, assurés que « tout coopère pour le bien à ceux qui l'aiment. »</p>
+        <p>Vous ne sauriez croire à quel point je suis faible; le plus léger dérangement dans mes habitudes, quelques heures de conversation avec une personne qui viendra me voir, ce qui arrive rarement, en voilà assez pour me rendre malade plusieurs jours. Une promenade après dîner m'oblige à me jeter sur le lit en rentrant. Cela n'avance guère mes travaux, comme vous pensez bien. Mais qu'y faire? Non sicut volo, sed sicut tu. — Ità, pater, quoniam sic fuit placitum antè te !</p>
+        <p>Nos affaires intérieures continuent d'offrir la même incertitude. Toute puissance, toute influence du trône est anéantie. Les ministres attendent, pour prendre un parti et pour faire quelque chose, qu'une volonté quelconque se prononce dans la Chambre. Le royalisme se dissout, parce qu'il n'a pas un seul fragment de vérité où se rattacher. Les autres ont les institutions, dont ils demandent les conséquences et les développements, ce qui, logiquement, est tellement juste et raisonnable, qu'il n 'y a rien de sensé à leur répondre. Aussi ne leuroppose-t-on que le despotisme administratif, et encore timidement, parce qu 'oii l 'a combattu soi-même, et parce qu'on sait que la France l 'a en</p>
+        <p>horreur, à cause de l'énorme abus qu'on en a fait récemment. C'est ce sentiment universel, connu et partagé par quelques membres de la droite, qui les a fait s'allier avec le centre gauche pour la nomination des candidats à la présidence1, et aussi probablement plusieurs principes communs. Une certaine force apparaissant momentanément de ce côté, le ministère s 'y est jeté d'abord, et c'est ce qui a déterminé le choix de Royer-Collard, par lequel encore on a voulu donner une espèce de leçon et faire peur aux royalistes; pauvre politique, qui n'aboutira qu'à fortifier le parti qu'on appelle constitutionnel de toutes les combinaisons flottantes ! 11 est vrai de dire qu'il serait extrêmement difficile d'indiquer aujourd'hui des moyens réparateurs : le mal est trop avancé. Il ne reste rien à quoi se prendre. On voit maintenant à découvert l'abîme qu'a creusé la dernière administration. Même avant que ces gens-là fussent au pouvoir, j'avais toujours pensé qu'ils en finiraient de la monarchie. Je ne me suis pas trompé. Seulement on peut employer plus ou moins de temps à régler ses funérailles. Chaque année la nation active se recrute d'une génération enivrée des idées nouvelles; de sorte que le temps seul ferait, sans secousse, ce qui est dans les vœux des révolutionnaires, plus pressés. La cause générale de cet état de choses, c'est que le principe de vie de l'ancienne société ayant été détruit, et originairement par les souverains, il faut nécessairement que cette société meure.</p>
+        <p>Il paraît chaque jour moins probable qu'on parvienne à éviter la guerre d'Orient, quoique l'Angleterre recule devant les conséquences qu'elle peut amener pour ses intérêts. Cette politique des intérêts rend insolubles des questions qui se résoudraient en un quart d'heure par des idées plus élevées. Le matérialisme du siècle est surtout remarquable dans les gouvernements. Il y a une tendance contraire dans les peuples, et c'est ce qui les rend forts contre leurs chefs.</p>
+        <p>Je ne crois pas que, depuis que le monde est monde, il y ait eu un mouvement aussi prodigieux d'idées au milieu du silence de tout ce qui est institué pour parler. Chaque flot a sa voix dans cette vaste mer : — le souverain de l'Océan se tait seul dans sa grottel.</p>
+        <p>Frayssinous a adressé à tous les évêques une longue liste de questions officielles sur leurs écoles ecclésiastiques. Il paraît que beaucoup ne répondent point, et que d'autres répondent pour se moquer du questionneur. Du reste, tout le monde est dans l'attente, et moi aussi; j'attends le Jugement dernier, comme le dénoûment le plus naturel de ce que nous voyons.</p>
+        <p>Les « chevau-légers 2 » sont ferrés en velours; on ne les entend pas marcher. Jamais les anciens n'y ont rien fait : Omnes quærunt quœ&gt; sua sunt. Il y a là quelque chose d'incompréhensible.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

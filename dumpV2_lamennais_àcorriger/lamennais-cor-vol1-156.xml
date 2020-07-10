@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 51 janvier 1828." resp="">le 51 janvier 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="157. - A M. LE MARQUIS DE CORIOLIS. (...-...)">157. - A M. LE MARQUIS DE CORIOLIS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 51 janvier 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 51 janvier 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je crains beaucoup, monsieur le marquis, que le ministère, ruit de vos couches, n'atteigne pas même l'adolescence, quoiqu'il s'imagine faire preuve de force en voulant marcher tout seul. Il est vrai qu'on ne mettait pas à un prix médiocre l'appui qu'il sollicitait, et c'eût été véritablement payer un peu cher « le bâton du voyageur 1. » Les détails que vous me</p>
+        <p>donnez sur ce marché proposé et rompu si singulièrement, ont quelque chose de merveilleux, même de nos jours : ce</p>
+        <p>la donnons à ce titre, et aussi pour faire mieux comprendre la nature des rapports élablis entre Lamennais et M. de Vitrolles.</p>
+        <p>M. DE VITROLLES A LAMENNAIS.</p>
+        <p>« Paris, 27 janvier 1828.</p>
+        <p>« Mon bon ami, je ne suis pas si coupable de négligence envers vous que je dois vous le paraître. Je pense à vous tous les jours; tous les jours je veux vous écrire, et je ne vous écris pas du tout, parce que je voudrais vous dire tous les détails de ce curieux spectacle qui se passe sous mes yeux depuis un mois, et qu'il faudrait un mois pour vous l'écrire.</p>
+        <p>cr Maïs aujourd'hui je me ravise, en pensant que les détails de l'histoire ne font rien aux grands esprits. Ils ne fixent que les résultats sans s'embarrasser des causes secondaires qui les produisent. Ainsi peu vous importe de savoir comment Vil (Ièle) est tombé pourvu qu'il soit bien mort. Vous n'avez pas douté que d'autres acceptassent les places vides : mais vous ne savez pas qu'arrivés au faîte ils n'aspiraient qu'à descendre; qu'ils se déclaraient publiquement impuissants, et demandaient surtout à Chateaub (riand), à Làbourd (onnaie), à Lalot, de venir leur donner une majorité dans la Chambre des députés, et ceux-ci étaient bien disposés -à leur vendre ce qu'ils ne pouvaient pas livrer. Ils ont même voulu le leur vendre trop cher. Chateaub. voulait d'abord de l'argent pour lui, ensuite cinq cent mille francs par an pour le Journal des Débats; le titre de duc pour lui, une direction générale pour Bertin : enfin, il consentait à entrer au ministère, A condition qu'il s'y adjoindrait R. C. (Royer-Collard) et Cas. Périer. Labourd. était bien meilleur marché : le ministère de l'intérieur pour lui, et voilà tout. Ces rétentions, qui croissaient de quart d'heure en quart d'heure, ont fait revenir à l'opinion des gens sages qui disaient aux ministres : « Vous voulez. vous appuyer « sur la droite; c'est bon, mais sacbez auparavant avec certitude quelles sont les « conditions de cette alliance. Elle est plus dans les choses que dans les hommes, « et quant aux hommes, ils n'auront leur valeur et leur influence que lorsque le « concours des députés anciens et nouveaux se sera attaché à eux. » Ils se sont décidés à rester ensemble jusqu'aux Chambres, sans être pour cela bien rassurés; cette méfiance d'eux-mêmes n'a rien de salutaire, car ils ne comprennent pas mieux que les autres que c'est le terrain qui tremble sous leurs pieds; que ce sont les conditions admises et acceptées qui sont destructives. Ils sont bonnes gens et ne s'en prennent qu'à eux-mêmes.</p>
+        <p>* En voilà plus que vous ne voulez sur les choses générales. Sur les particulières, je partirai pour Florence, au moment où je pourrai savoir à qui je pourrai adresser mes lettres *. Les nouveaux arrivés sont cependant plus bienveillants pour moi que mes bons amis défunts 2. La question de la pairie est revenue sur le tapis, et ils ne veulent pas, comme Villèle, que les promesses du roi soient vaines. Au reste, si rien ne change, je partirai dans le commencement du mois de mars, je passerai à Vitrolles jusqu'au commencement de mai, et j'arriverai à Florence à la fin du même mois. M"-0 de V'. et sa fille m'attendent à V'. Oswald est ici à son service de la Garde; Guillaume, devant Alger, sur le brick l'Adonis.</p>
+        <p>« Et vous, cher ami, vous avez été souffrant dans ces derniers jours de l'année ; êtes vous mieux à présent? que faites-vous? que pensez-yous? et quand venez-vous à Florence? »</p>
+        <p>sont comme les Mille et une Nuits de la bêtise et de l'orgueil.</p>
+        <p>En attendant qu'il plaise aux Chambres de nous constituer un gouvernement; que, bien entendu, elles s'occuperont le lendemain de déconstituer, et le tout trés-constitutionnellement, M. Portalis s'efforce d'apaiser la grosse faim du libéralisme, en lui jetant, avec les congrégations enseignantes et les écoles diocésaines, une bonne et solide espérance de schisme. Car, bien que le rapport du Garde des sceaux ne parle explicitement que des petits séminaires, ce sont surtout les grands qu'il menace sans les nommer, à moins qu'il n'ait su ce qu'il disait, ce qui peut, au reste, se supposer comme autre chose. Les « mesures complètes et efficaces qui doivent se coordonner avec notre législation politique et les maximes du droit public français, » n'ont pas, que je sache, de rapport très-prochain avec les conjugaisons et la syntaxe. Mais, si l'on avait en vue l'enseignement théologique, si les maximes du droit public français étaient par hasard les maximes de 4682, cela deviendrait plus clair, et peut-être serait-ce l'Église elle-même qu'il s'agirait de coordonner avec notre législation politique, ce qui serait en effet « complet, » après quoi l'efficace n'embarrasserait pas. Nous verrons le résultat des hautes pensées de la commission. Il s'y trouve des noms qui promettent. Quoi qu'il en soit, je regarde cette pancarte signée Portalis, et plus bas Charles, comme une déclaration de guerre au clergé. Il me paraît difficile qu'on rentre après cela dans l'état de paix. La Révolution n'abandonnera pas l'espoir qu'on lui a donné. Ce qu'elle veut avant tout, c'est ce que voulaii aussi, un temps fut, M. de Mirabeau, « décatholiciser » la France. Elle n'y parviendra pas; mais elle parviendra, et avant peu d'années, à établir politiquement le schisme. Presque tout ce qui est aujourd'hui actif dans la nation le veut; mais derrière cette activité de parquet, de comptoir et de boutique,— et même de salon, puisqu'il le faut dire, — il y a plus de vingt millions de chrétiens, qui pourront devenir actifs à leur tour, quand on aura blessé leur conscience et qu'on tyrannisera leur foi !</p>
+        <p>Rassurez, monsieur le marquis, Mme de la Trémoille sur les Jésuites. Pour moi, ils ne « me font peur » que par leur insignifiance. C'est un Corps qui périt de faiblesse; il n'a de vie que dans le rudiment : ce qui fait qu'outre le reste, il serait J cruel de le lui ôter.</p>
+        <p>Que Mme de la Trémoille daigne ouvrir les yeux, qu'elle cherche ce géant, elle ne verra qu'une ombre. Du reste, je vous prie de lui dire combien je suis fier de sa bienveillance; je ne la mérite à aucun égard, et peut-être en suis-je encore, à cause " de cela, plus flatté.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="19 janvier 1828," resp="">19 janvier 1828,</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="156. — M. DE CORIOLIS A LA.MENNAFS. (...-...)">156. — M. DE CORIOLIS A LA.MENNAFS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="19 janvier 1828,"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>19 janvier 1828,</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Si j'ai passé si longtemps sans vous écrire, vous savez apparemment pourquoi, monsieur l'abbé. Au cas que vous l'ignoriez, je m'en vais vous le dire. C'est que j'étais en travail d'un ministère. Aujourd'hui que couches et relevailles sont faites, je reviens à vous. Ne parlons plus de M. de Villèle, qui, sans doute pour accomplir toute ma prédiction,</p>
+        <p>S'en va grossir l'armée</p>
+        <p>Des ministres qui, dans ce lieu,</p>
+        <p>Sont responsables... devant Dieu.</p>
+        <p>Parlons de Mgr d'Hermopolis qui s'en va chez M. de Chateaubriand lui offrir le ministère de l'instruction publique.</p>
+        <p>1</p>
+        <p>Piqué de ce mauvais succès d'une plate jlémarche, le ministère, à son tour, a fait le fier, ef il se présentera vierge à cette chambre chaste qui ne voudra « plus de hallebardes entre le pays et la couronne, » mais qui, sur les «' piques, » ne se rendra peut-être pas si difficile. '. Vienne le mois prochain, et nous verrons un beau tapage, et nos tristes prévisions ne se vérifieront peut-être que trop.</p>
+        <p>1</p>
+        <p>En revanche, l'Almanach catholique nous prédit, pour le mois de mars, la mort de M. de Lafayette, et l'apparition du dernier volume de l' Essai sur l'indifférence. Mgr le Nonce est charmé de vos lettres. Il voudrait vous voir ici. Il voudrait vous voir à la tête d'un journal politique et religieux à la portée du grand nombre, et tout propre à neutraliser le venin du mauvais journalisme. C'est ce qu'il me disait tout à l'heure.</p>
+        <p>Mme de la Trémoille aussi est enchantée de votre correspondance, et bien d'autres à qui je me plais autant à la lire qu'elles se plaisent à l'entendre. Mme de la Trémoille a la plus grande envie de vous connaître. C'est une personne d'un esprit et d'un savoir peu communs chez un femme du grand monde. Je ne lui connais qu'une faiblesse, c'est celle d'avoir peur des Jésuites.</p>
+        <p>Vous voyez que les Débats ne crient pas merci pour M. de Villèle. Ils veulent qu'on y aille bon jeu, bon argent. M. Roy dit à qui veut l'entendre, qu'il trouve quantité de « non-valeurs.» C'est ce que ses devanciers appelaient « être à jour. » Il n'y a que façon de s'entendre.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 7 décembre 1827." resp="">Le 7 décembre 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="142. - A MADAME LA COMTESSE DE SENFFT. (...-...)">142. - A MADAME LA COMTESSE DE SENFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 7 décembre 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 7 décembre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous étiez triste le 27 novembre, et la comtesse Louise aussi, et mon cfeer comte aussi; pourquoi donc? Premièrement, la catastrophe n'est pas aussi imminente que vous paraissez le craindre; il faut le temps à tout. Et puis, ne savons-nous pas depuis longtemps que la Révolution, comme toutes les choses de ce monde, do:t avoir son développement complet? L 'Europe, le monde sera renouvelé. Rien de ce qui a élé, et qui n appartient pas à l'essence même des choses, ne peut plus être désormais; il est inutile de le défendre; de sorte que je ne vois guère que l'Église à qui l'on doive s'attacher de cœur, et pour qui l 'on doive combattre. Ceci rentre tout à fait dans les belles idées de Mme de Senfft sur les questions que j'avais hasardé de lui soumettre. Il y a plus, c'est que tout ce qui a pouvoir en ce monde est ennemi à quelque degré de celte Eglise, laquelle néanmoins résistera seule aux commotions qui ébranlent tout le reste, et qui l'ébranlent elle-même, mais pour l'affermir plus solidement. Il faut se le dire une fois, car</p>
+        <p>toute illusion est dangereuse, il n'y a plus de société. Ce mouvement fiévreux des peuples n'est que la recherche inquiète de la vie qu'ils ont perdue. Ils étouffent, et se débattent pour respirer. Les masses sont moins coupables qu'on ne le croit. Le crime appartient à quelques scélérats profondément pervertis qui les égarent, égarés eux-mêmes et dominés par le chef de ceux qui n'ont point, de chef, selon la sublime expression de Zoroastre, en parlant d'Ahrimane. Mais enfin la société renaîtra-t-elle? Je l'ignore; Dieu seul le sait. Mais ce qui me paraît au-dessus de toute espèce de doute, c'est qu'il reste encore beaucoup à détruire avant qu'aucune reconstruction devienne possible, et que la peste morale dont nous observons les progrès ne finira, comme celle de Milan, qu'après un violent orage : et ce ne seront pas des torrents d'eau qui laveront la terre pestiférée, mais des fleuves de sang. Voilà ce que je prévois, sans m'en effrayer, parce que toutes les conséquences nécessaires des lois divines font partie de l'ordre universel que nous admirerons un jour en Dieu même.</p>
+        <p>L'événement de Saint-Pétersbourg1 me semble devoir hâter la guerre contre la Turquie. Du moins, si j'étais l'Empereur, je voudrais, à tout prix, occuper des troupes dont l'oisiveté serait si dangereuse pour moi. Je sais bien que cette guerre, désirée souvent et jamais voulue, offre d'immenses difficultés politiques. Cependant si les Souverains,—j'entends la Russie, la France et l'Autriche, — avaient la moindre notion de leurs véritables intérêts, dans un an la croix serait plantée sur le minaret de Sainte-Sophie. Peut-être le sera-t-elle aussi, mais avec des circonstances qui en feront probablement un signal</p>
+        <p>de discorde, et je crains bien que la perte ne vienne d'où le salut aurait pu venir.</p>
+        <p>Si je ne me trompe, Basse-Court est un nom français. J'aime ce brave homme, puisqu'il a pu amuser un moment la comtesse Louise. Où je voudrais le voir et l'entendre, ce serait à la tribune. Il mériterait qu'on fit pour lui seul « un représentatif. »</p>
+        <p>Je vous ferai adresser de Paris les Lettres sur la Chouannerie de M. de Scépeaux. Je ne crois pas qu'on puisse rien lire de plus merveilleux et de plus touchant. C'est une Iliade chrétienne dont les héros sont un fraudeur de sel, un pauvre mendiant, quelques garçons de ferme, que la foi élève tout à coup à une hauteur qui laisse, à mon avis, bien loin en arrière tout ce que l'on connaît de grand, à cause de je ne sais quelle délicatesse d'humilité qui semble ne pas être de la terre. Il y a là quelque chose de plus beau, de plus naïf, de plus épique que la Vendée même.</p>
+        <p>Quant à la Vie de Buonaparte, par Walter Scott, je ne l'ai pas lue, et j'ai contre elle, je ne sais pourquoi, une sorte de prévention qui m'a empêché jusqu'à présent de chercher l'occasion de la lire. Il faudrait plus qu'un Tacite pour peindre ce César-Tibère. Et puis toutes les questions qui se rattachent aux événements de sa vie! Que peut savoir là-dessus, que peut comprendre un Anglais et un protestant?</p>
+        <p>Il m'est dernièrement tombé sous la main une autre Vie, celle d'Alfieri. Quel homme, bon Dieu, et quel orgueil! Je ne sache pas avoir encore rencontré de caractère qui me soit aussi antipathique. Il me semble que, sur tous les points, c'est le parfait contraste du comte de Maistre. Cet Alfieri détestait, de toute sa vilaine âme, la France et les Français. Ce n'est pas sur cette haine que je le juge ; — il était bien le maître de ses affections (je dis le maître en un sens) ; — mais on n'imagine pas jusqu'à quel excès de ridicule et d'extravagance ce sentiment l'entraîne quelquefois. Il assure bien que, pour rien au monde, il n'aurait voulu savoir notre langue, ce qui ne l'empêche pas de l'appeler : codesta spiacevole e mes- china lingua. La langue de Racine et de La Fontaine, de Bos-</p>
+        <p>suet et de Fénelon ! Et notez que son style n'est guère que du français italianisé. Mais en voilà assez sur cet homme qui ne voulait ni des Rois ni de la Révolution. Que voulait-il donc? .lui, Vittorio Alfieri. C'était là son genre humain et sa société. Une autre fois je vous parlerai de nos affaires intérieures. La chute du ministère paraît inévitable. M. de V. se roidit tant qu'il peut contre cette dure nécessité1. Il ne fera que rendre plus violente la secousse qui le renversera. On disait à Paris, il y a quelques jours, que Peyronnet, Frayssinous et Chabrol avaient remis leur démission. Je n'en crois rien, et je crois encore moins qu'on l'accepte en ce moment. Le roi est à plaindre; il fait grand'pitié.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

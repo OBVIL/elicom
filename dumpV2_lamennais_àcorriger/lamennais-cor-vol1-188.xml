@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 24 octobre 1828." resp="">Le 24 octobre 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="189. — A MADAME LA COMTESSE DE SENFFT. (...-...)">189. — A MADAME LA COMTESSE DE SENFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 24 octobre 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 24 octobre 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je conçois tous les embarras que vous donne cette maladie inopinée. C'est bien dommage que Mgr Bernetti ne soit pas à Turin, lui qui a des remèdes pour tous les maux et des baumes pour toutes les blessures : nous vous le céderions bien volontiers. Cet homme-là nous est apparu comme un mauvais génie, pour détruire ce que Dieu avait miraculeusement opéré dans l'épiscopat. Il a dit à la faiblesse : — « Pourquoi ne plies-tu pas? » et la faiblesse se l'est tenu pour dit. L'archevêque de Reims 1 s'est hâté naturellement de donner l'exemple de la lâcheté, et les imitateurs l'ont suivi en foule; ils n'attendaient que le premier signal La conséquence est que le ministère, plus fort par la division qu'il a semée parmi les évêques, presse aussi plus vivement l'exécution des ordonnances, et je ne doute pas maintenant qu'il ne se porte, dans les diocèses où on résistera, aux dernières extrémités. Cela ne change rien aux devoirs, mais cela changera beaucoup à la conduite ; et voilà ce que produit l'infâme prévarication d'un laïques à calotte ou à bonnet rouge, comme vous voudrez. Les expressions manquent pour peindre ce que l'on éprouve à cette pensée. Où en sommes-nous? et à quoi donc faut-il s'attendre? Je n'avais encore rien vu de si effrayant. Et l'on parlera de la sagesse, de l'habileté de ces gens-là! Ce qu'il y a tout ensemble de plus imbécile, de plus niais, de plus sot et de plus vil dans la race humaine est au-dessus d'eux. La tête tourne dès qu'on regarde dans cet abîme de bêtise et de lâcheté. 0 mon</p>
+        <p>■ L'abbé Bernetti, cardinal laïque.</p>
+        <p>Dieu ! et votre Église, l'abandonnerez-vous donc? Gardons-nous de le croire; non, elle subsistera, et malgré les Bernetti et malgré ceux qui lui ressemblent; elle sortira, vivante et glorieuse, de l'océan de boue dans lequel la poussent leurs mains sacrilèges.</p>
+        <p>Jt! remercie mon bien cher comte du mandat qu'il m'a fait passer. Je le prie de témoigner ma vive reconnaissance à la marquise Violentine, à qui je demande en grâce continuation de zèle pour l'œuvre à laquelle elle a bien voulu jusqu'ici s'intéresser. Le chevalier d'Olry m'avait aussi donné des espérances. Je prie M. de Senfft de le lui rappeler, en lui offrant mes souvenirs les plus affectueux.</p>
+        <p>Je vous souhaite le temps que nous avons ici depuis près de trois semaines. C'est une espèce de petit été, point incommode par la chaleur. Mais vont venir les gelées de novembre et le coup de vent des Morts, et alors nous croirons sentir et entendre Bernetti, et adieu la joie, adieu l'espérance !</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

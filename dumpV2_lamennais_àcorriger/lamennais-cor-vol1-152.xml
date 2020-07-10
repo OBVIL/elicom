@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 23 janvier 1828." resp="">Le 23 janvier 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="155. — A MADAME LA COMTESSE DE SENFFT. T (...-...)">155. — A MADAME LA COMTESSE DE SENFFT. T</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 23 janvier 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 23 janvier 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je reçois à la fois votre lettre du 12, et celle de la comtesse Louise^u 10. Vou% veniez d'apprendre la chute de M. de Villèle, dont vous conceviez beaucoup d'inquiétudes. Les unes sont-très-fondées, les autres ne se réaliseront pas. Ce n'est pas un changement, mais un développement. Le système restera le même au fond, sauf le progrès inévitable dans toutes les choses humaines, qui ne s'arrêtent jamais à un point fixe. ' D après la dernière combinaison, La Bourdonnaie, Delalot, Chateaubriand et l'archevêque de Paris devaient entrer au ministère. On dit que Chateaubriand (qui a des engagements écrits avec les doctrinaires, lesquels engagements sont déposés entre les mains de Kératry) a refusé d'entrer dans une administration dont Royer-Collard ne serait pas membre. Quoi qu'il en soit, le ministère paraît décidé à attendre l'ouverture des Chambres pour se recomposer. Je crois, moi, qu'il y a toujours grande répugnance pour la droite, et, en outre, que le libéralisme est assez fort pour lui faire en partie la loi. D 'a-</p>
+        <p>près le parti qu'on a pris, ce sera la volonté toujours incertaine des assemblées délibérantes qui constituera le nouveau gouvernement. Tout ce qui se passe maintenant confirme, d'une manière bien frappante, tout ce que j'ai dit dans le premier chapitre de la Religion considérée, etc.</p>
+        <p>r Quant à M. de Villèle, ce n'est pas de sa chute qu'il faut gémir, mais de son administration. Il a dissous le parti qui l'avait porté au pouveir, et, persuadé que la corruption pouvait suppléer à tout, il a laissé à la Révolution l'empire des doctrines et toute la force qui s'attache à l'apparence même des sentiments généreux. Ce n'est pas parce qu'il est tombé qu'elle est forte, mais parce qu'il a régné. Nous voyons le fruit de ses œuvres, et il y a longtemps qu'il était visible. Nul homme, sans exception, n'a fait plus de mal à la société. Ne croyez pas que les autres ministres, depuis 1815, fussent traîtres; non, pas même Decazes. Ils ont penché, plus ou moins, vers tels ou tels principes, voilà tout. Quand les doctrines opposées aux leurs ont triomphé, il leur a fallu céder le pouvoir à l'opinion momentanément la plus forte. lU. de Villèle, en se moquant de toutes les opinions et en essayant de les tromper toutes, les a toutes mises contre lui. Dès lors il était clair que, malgré les fourberies et les violences employées dans les élections, la conscience publique le renverserait dès qu'elle aurait un moyen de se faire entendre, et c'est aussi ce qui est arrivé. Il faut que de grandes ténèbres aient obscurci ce petit esprit, pour qu'il n'ait pas prévu cet infaillible résultat de la dissolution de la Chambre. La Providence, peut-être, a permis cet aveuglement pour retarder la chute du trône; car il n'est point d'extrémités auxquelles les masses ne se fussent portées, si M. de Villèle était resté à la tête des Conseils du roi. Ne croyez rien de ce qu'on pourra vous dire de contraire à cela : c'est la vérité même.</p>
+        <p>Pour les Jés , leur existence, dans aucune hypothèse, ne peut être longue. L'ancien ministère les aurait détruits, comme le nouveau les détruira. Mais, habitués par tradition à une politique souple, — qui n'est pas aujourd'hui de l'habileté, il s'en faut bien, — ils ont commis, dans un autre genre, la</p>
+        <p>même faute que M. de Villèle : ils ont sacrifié l'honneur, les doctrines, la conscience, pour se faire tolérer d'un pouvoir qui se inoui,ait. Cette alliance trop connue a augmenté la haine qu'on avait pour eux de toute celle qu'inspirait le ministère, en même temps qu'elle leur a valu le mépris des hommes droits; de sorte qu'avec leurs finesses ils n'ont réussi qu'à rendre leur chute plus certaine, et aussi honteuse qu'elle aurait pu être glorieuse et noble.</p>
+        <p>N'oubliez pas, je vous en conjure, qu'il n'y a aujourd'hui que deux doctrines dans le monde, fausses toutes deux, et par conséquent destructives toutes deux.</p>
+        <p>Partout où les royalistes voient un pouvoir légal, ils l 'appellent légitime, et ils soutiennent qu'on lui doit une soumission absolue. Sa volonté, qui est la loi, n'a d'autre règle qu'elle-même ; Dieu seul peut lui en demànder compte dans l autre vie.</p>
+        <p>Les libéraux (et en cela ils ne sont que chrétiens) disent que le pouvoir ainsi conçu est le despotisme pur, et que, loin d'y reconnaître le vrai droit social, ils n'y voient que le repversement de tout droit.</p>
+        <p>J'écarte tout ce qui tient aux passions, dans l'ordre purement politique; et les passions, d'ailleurs, cachent toujours un fond plus sérieux. M résulte de tout ce qui vient d être dit :</p>
+        <p>Que la doctrine des royalistes, dégradante et fausse, ôte toute force morale à leur parti; que ce qu'ils veulent établir, -ou rétablir, est impossible; et qu'ils poussent les peuples à la République par une théorie de la Royauté que repousse la conscience du genre humain ; „</p>
+        <p>'Que l'opinion libérale (purement politique, je le répète,) a pour elle cette conscience universelle qui est la plus grande des forces; mais, comme en rejetant le joug du pouvoir absolu purement humain, elle rejette en même temps sa limite et sa règle divine, elle est contrainte de chercher l'une et l'autre dans la combinaison des formes matérielles du pouvoir, où il est impossible qu'elle les trouve jamais; ce qui la condamne à détruire sans fin et sans cesse. ,</p>
+        <p>Voilà notre état véritable, et, de part et d'autre, le problème</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

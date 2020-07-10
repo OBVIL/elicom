@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 10 janvier 1828." resp="">Le 10 janvier 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="149. - A MADAME LA COMTESSE DE SENFFT. ' (...-...)">149. - A MADAME LA COMTESSE DE SENFFT. '</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 10 janvier 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 10 janvier 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Que je vous remercie de votre aimable lettre du 26 décembre ! Avf&gt;c quelle vérité effrayante vous peignez « celte société (1 dont nous servons l'ombre, comme les esclaves et les ani« maux servaient les rois d'Egypte dans leurs pyramides! » Bossuet n'aurait pas mieux dit, et il ne savait pas qu'il n'était déjà lui-même qu'un de ces « esclaves dévoués au service de la mort. » Qu'a fait cet homme, avec tout son génie? il prit la froide main du Pharaon de son temps, et la posa sur l'Eglise de France. Depuis lors cette Église est fière; elle dépendait de Rome, et maintenant elle relève des Pyramides.</p>
+        <p>Le Mazarin de la Révolution, M. de Villèle, a enfin pris son parti; il s'est retiré, mais, comme son devancier, en laissant derrière lui des gens qui lui appartiennent ; de sorte que la question reste encore tout entière. Les Chambres s'y tromperont-elles? Je ne le crois pas. L'opposilion sera aussi vive que jamais, et je doute fort que le ministère, tel qu'il est constitué, arrive à la fin de la session. On ne peut cependant rien assurer, tant la corruption est grande. Du reste, la combinaison imaginée par le ministre sortant est, de toutes celles qu'on pouvait prévoir, la plus défavorable aux Bourbons, car elle irritera contre eux l'opinion publique, dont ils ont l'air de se jouer. Dans les gouvernements tel que le nôtre, il faut ou dominer cette opinion, ou lui céder. Si on essaye de la tromper, elle de*</p>
+        <p>vient furieuse, et tout est à craindre alors, parce que la confiance est perdue, et qu'on a révolté ce qui reste d'honneur. Jë trouve qu'on ne pouvait faire plus beau jeu aux révolutionnaires, et ils ne sont pas gens à n'en point profiter. On a eu pourtant plus d'égards pour eux que pour l'opposition de droite. Ceux-ci sont entièrement repoussés, et les autres ont au moins Portalis et Roy; mais le parti n'en sera pas dupe, et il n'en résultera qu'un nouvel opprobre imprimé à la Royauté, résolue jusqu'au bout à tout préférer à ses serviteurs, à ceux qui se sont sacrifiés pour elle. Si quelque chose m'étonne, dans les temps où nous vivons, ce n'est pas que les trônes tombent, c'est qu'ils tiennent vingt-quatre heures debout. L'Orient, dont les affaires semblent plus embrouillées que jamais, va encore augmenter les embarras intérieurs de chaque puissance. Il est désormais impossible que la diplomatie dénoue les nœuds qu'elle a elle-même formés. Elle peut encore, à la rigueur, traîner en longueur la solution dernière; mais, un peu plus tôt ou un peu plus tard, cette solution est réservée à la force seule. , Je vous prie de fixer attentivement les yeux sur l'Angleterre. Son administration a toujours sans doute le même genre d'habileté; elle est, dans le monde politique, ce qu'un fripon i adroit et hardi est dans la société. Mais voyez l'espèce d'impuissance où elle se trouve de former un ministère; l'ascendant qu'ont pris les whigs, et qu'ils conservent après la mort de leur plus ferme appui, Canning; les difficultés de finances dans lesquelles elle est engagée; rappelez-vous la dernière crise de son commerce, dont elle n'est pas encore sortie ; calculez les effets d'une population démocratique toujours croissante, et que l'esprit qui règne en Europe détache de plus en plus des anciennes institutions; rassemblez tous ces faits, et dites-moi si ce ne sont pas autant de symptômes d'une décadence commencée. Ce pays, qui a fait et qui continue de faire tant de mal aux autres peuples, est menacé lui-même de calamités terribles. Quand la masse de la nation et l'aristocratie qui la gouverne viendront à se choquer, le bruit de cette grande ruine retentira jusqu aux extrémités du monde. Malheur à ceux</p>
+        <p>qui vivront alors ! Notre Révolution aura été douce en comparaison de celle-là.</p>
+        <p>Je n'ai rien vu, jusqu'à présent, qui m'ait aidé à bien comprendre les troubles de la Catalogne1, si difficiles à apaiser. Je voudrais voir l'Espagne de mes yeux. Je ne crois presque rien de ce qu'on en a écrit et de ce que j'en ai entendu dire. Ce peuple est lui, et, sans le bien connaître, je l'aime à cause de cela. Il manque de quelque chose, cela est clair, ou plutôt de quelqu'un. Que Dieu le garde! car l'Europe en aura encore besoin. Quant à dom Miguel, il fait maintenant, à Londres, son cours de politique constitutionnelle. Ce prince-là ne courait pas risque de rester sans éducation : tout le monde a voulu l'élever.</p>
+        <p>On parle toujours de la guerre d'Alger. Cependant nos gens disent que « cela demande réflexion, et que le Dey est plus fort qu'on ne pense. » Les voilà bien embarrassés; — qu'ils lui envoient une constitution !</p>
+        <p>Il est vrai que la main de Dieu s'est appesantie d'une manière effrayante sur ces malheureux Stuart. Mais aussi que de crimes depuis Jacques ler! Ils n'étaient pas féroces comme les Tudor. C'étaient de ces gens, comme on en connaît, qui font</p>
+        <p>le mal par bonté. L'excuse fut trouvée légère dans la balance où sont pesées toutes les œuvres humaines. De là Cromwell et Alfieri. Je remarque que l'égoïsme était le caractère de cette infortunée race, et le principe de sa faiblesse. Mais laissons-la dormir en paix : elle a payé sa dette. C'est aux rois de lire'son histoire, pour en profiter, s'ils peuvent.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

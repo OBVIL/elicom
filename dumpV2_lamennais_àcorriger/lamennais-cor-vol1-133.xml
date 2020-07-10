@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="27 octobre 1827." resp="">27 octobre 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="134. - M. DE C ORIOLIS A LAMENNAIS. &quot; (...-...)">134. - M. DE C ORIOLIS A LAMENNAIS. "</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="27 octobre 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Château de Verneuil</placeName>
+            <date>27 octobre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>... Mon Dieu, que vous avez énergiqucment raison sur le compte de nos ministres ! Il est bien vrai que ce n'est pas tant la haine qu ils inspirent que le mépris, et le mépris le plus profond ; mais soyez sûr, ami, qu'ils s'abonneraient à ce mépris pour toute la durée de leur vie ministérielle. Ils en savent assez, en effet, ppur n'ignorer pas que ce mépris ne s'y prend pas si brusquement que la haine pour faire mourir les gens, et qu 'il leur laisse le loisir de s'arranger là-dessus.</p>
+        <p>Vos réflexions ne sont pas moins justes sur le voyage de nos princes. Le spectacle, ainsi que vous dites, était commandé, et je suis sûr que Ciceri, Daguerre et Bouton n'eussent pas fait mieux que MM. les préfets et sous-préfets n'ont ouvré pour ce panorama ou diorama d'espèce nouvelle. Aussi l illusion a-t-elle été complète. « C'était, disent les courtisans du voyage, l'ivresse de 1814. » Et puis, parlant de telle ou telle ville, ils ajoutent naïvement : « Oh! ce préfet est fort adroit : il a bien tout su mettre en mouvement. » Hélas! ils oublient qu 'en 1814 c'était tout le contraire, car le mouvement se faisait malgré les préfets, et les entraînait avec toute la France.</p>
+        <p>Au reste, que tout ce monde-là n'ait rien appris, cela ne vous apprend rien, ni à vous, ni à moi. On dort son sommeil, puis,</p>
+        <p>tout d'un coup, viendra ce terrible il faut de saint Paul, si vivement rappelé par Bossuet. C'est ce que je disais l autre soir au Nonce, qui me semble un homme de grand sens. Il est plpin de vénération pour vous, et m'a particulièrement prié de ne pas l'oublier dans ma correspondance avec vous. Sa conversation m'a mis tellement à l'aise, que je lui ai lu votre lettre, dont il a été frappé : je ne croispas avoir commis là une indiscrétion.</p>
+        <p>Ce même jour, une autre satisfaction m'était destinée à votre sujet. J'ai rencontré, chez une dame russe de beaucoup d'esprit, le « président du gouvernement grec, » comme on dit, enfin M. le comte de Capo-d'Istria. La conversation étant tombée sur les écrivains qui honorent le plus notre siècle, il m 'a dit qu'il vous considérait, sans difficulté, comme le premier. Ce jugement n'a pas laissé de me causer du plaisir, venant de là; et le mieux est qu'il sortait de chez M. de Chateaubriand, notre plus grand écrivain, comme il a soin, quand il ne le dit pas lui-même, de se le faire dire chaque jour. Le pauvre homme! — « Nous avons bu des mêmes eaux, » vous disait-il dans votre première entrevue, j'ai grand'peur que, plus tard, il n'ait mangé du lotos en abordant en Afrique, car, s 'il se souvient de quelque chose, ce n est certes pas de son pays .</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

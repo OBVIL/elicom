@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 7 novembre 1828." resp="">le 7 novembre 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="191. - A M. LE MARQUIS DE CORIOLIS. (...-...)">191. - A M. LE MARQUIS DE CORIOLIS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 7 novembre 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 7 novembre 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je suis, monsieur le marquis, entouré de malades, l'un desquels m'a donné et me donne encore de très-vives inquiétudes. Il s'en faut beaucoup qu'au milieu de ces soucis continuels et de mille occupations qui s'y joignent je sois moi-même bien portant. Voilà l'explication du retard que j'ai mis à vous remercier de votre souvenir si bon et si aimable. Si ma pauvre tête est épuisée, mon cœur ne le sera jamais pour vous, non plus que pour le cher petit Emmanuel, qui m'a écrit une lettre charmante, dont j'ai été fort touché ; je vous prie de le lui dire. Je ne suis pas moins sensible aux bontés de Mmc de Maccarthy, et je veux espérer que son séjour près de vous contribuera beaucoup à rétablir sa santé si frêle. Ce</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

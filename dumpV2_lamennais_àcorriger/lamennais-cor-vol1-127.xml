@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 15 octobre 1827." resp="">Le 15 octobre 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="128. — A MADAME LA COMTESSE DE SENFFT. (...-...)">128. — A MADAME LA COMTESSE DE SENFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 15 octobre 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 15 octobre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Quel voyage que celui que vous avez fait d'Oleggio à Turin ! Hélas! c'est une image trop fidèle et trop vraie de notre voyage sur la terre. Heureux encore lorsqu'on arrive ! Je vous avoue que plus je vais, plus je me dégoûte de ce triste monde. Les peines de toute espèce se pressent autour de moi depuis deux mois, et j'en partage encore mieux les vôtres. Tâchons de ne voir en tout que la volonté de Dieu, qui nous éprouve pour notre bien ; c'est la seule consolation d'ici-bas : les autres sont du ciel.</p>
+        <p>Quand vous me parlez d'aller vous rejoindre, tout mon cœur tressaille de joie ; et puis sa douleur augmente, car ce qu'il désirerait si vivement, la Providence lo rend impossible.</p>
+        <p>On dit que M. de Villèle va se donner le mérite de révoquer la censure, établie seulement pour protéger le voyage du roi.</p>
+        <p>On dit encore qu'il doit sacrifier M. de Peyronnet aux répugnances de la magistrature. Je ne crois aucune de ces deux nouvelles, et M. de Peyronnet, le plus élégant, le plus pimpant de nos ministres, n'est certainement pas un bouc que l'on conduise hors du camp et qu'on abandonne dans le désert, comme cela se pratiquait sous l'ancienne loi, qui n'était pas une loi constitutionnelle. Le successeur des « chevau.légers' » est devenu plus faible que son devancier. Ainsi va le monde. Le bien, s'il y en a, n'est qu'une défaillance continuelle.</p>
+        <p>Il parait que la cause de ces pauvres Grecs défaillit aussi, malgré la puissante protection des trois Hautes Puissances. Il est vrai qu'elles ont à franchir une terrible barrière pour les délivrer : — une balle de coton et deux pièces de drap.</p>
+        <p>Je conjure la comtesse Louise de se bien ménager pendant la mauvaise saison qui commence. Et vous aussi, madame, et vous aussi, plier comte; point d'abattement, point de ces tristesses qui usent sans fruit les ressorts de la vie. Courage, le terme n'est pas éloigné. Marchons vers lui, et ne nous traînons pas!</p>
+        <p>Je vais me retrouver seul ici, et cela ne me contrarie point. L'abbé G retourne à Paris, où sa présence est nécessaire. Chacun a sa tâche, sa vocation. Celle de mon frère est de courir les chemins, et de semer sur son passage un bien qui germe et croit à vue d'œil. Je ne le vois que de loin à loin, et très-peu d'instants. Encore la sainte volonté de Dieu!</p>
+        <p>Je vous dirai que l'italien m'est à présent à peu près aussi familier que le fiançais. Peut-être me remettrai-je à l'alleman 1. Ces sortes d'études désennuient après le travail.</p>
+        <p>Adieu, adieu! Que saifite Thérèse, dont je vais réciter l'of. fice, nous obtienne à tous une portion de l'esprit qui l'animait. Aut pati, aut Mon : c'est le mot le plus beau de l'amour céleste.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

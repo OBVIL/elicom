@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forname>Lucie</forname>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="X Le 25 juin 1827." resp="">X Le 25 juin 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="113. — A MADAME LA COMTESSE DE SENFFT. J (...-...)">113. — A MADAME LA COMTESSE DE SENFFT. J</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="X Le 25 juin 1827."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>X Le 25 juin 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Double lettre, double joie : soyez donc remerciées de celles des 10 et 12 juin, qui me sont arrivées dans le même paquet. Le mieux qu'éprouve la comtesse Louise donne beaucoup d'espérance sur la suite du traitement. Je lui rends grâces de sa complaisance pour le médecin et pour les remèdes; c'est le moyen d'en finir une bonne fois de ces vilains maux de nerfs, qui fatiguent, qui attristent, et qui désenchantent la vie, comme l'a dit, avec tant de naturel, M. de Chateaubriand. D'ailleurs, sauf qu'on ne peut guère s'y remuer, ce n'est pas une chose si désagréable que d'être dans l'eau, lorsqu'elle n'est pas froide. J'ai connu une femme qui, par goût, y passa deux années entières; elle y mangeait, elle y buvait, elle y dormait, elle était presque devenue poisson. Enfin on la pêcha, — je ne sais si ce fut à la ligne, — mais elle regrettait toujours d'être redevenue habitante de la terre comme chacun de nous. Ceci a quelque apparence de singularité, et je ne le recommanderais pas à tout le monde; il convient de s'éprouver d'abord, et je crois qu'une heure par jour peut suffire pour le commencement.</p>
+        <p>Ce qui me déplaît d'Oleggio, ce sont ces tempêtes qu'on s'attendrait plutôt à trouver sur les côtes d'Ecosse qu'au pied des montagnes d'Italie. Elles y seront arrivées avec quelque roman de Walter Scott, à moins pourtant qu'elles ne soient accompagnées de gros nuages épais, de teinte roussâtre et livide; alors je penserais qu'un diable gallican les aurait chargées de porter au delà des Alpes la dernière brochure de l'abbé Clausel. Le N.1 a dit assez hautement « qu'il mériterait d'être in-</p>
+        <p>terdit. » (J'entends l'abbé, ne vous y trompez pas.) Le frère aîné1 a écrit dans la Quotidienne pour le défendre. Il cite un passage extrait, dit-il, d'un écrit que M. Cottu vient de publier contre le ministère. J'ai lu cet écrit qu'on vient de m'envoyer, et le passage ne s'y trouve point. Ces gens-là semblent avoir horreur de la vérité. Du reste, il y a de la méchanceté, une méchanceté froide et profonde dans la lettre de Coussergues. L'abbé, avec sa frénésie, me paraît êtrele Marat du gallicanisme; mais j'ai bien peur que le député n'en fût le Robespierre au besoin. Ils ne laissent pas d'avoir des formules de respect pour le Pape. C'est là ce qui fait le plus de mal à l'âme en les lisant. Quand forcera-t-on ces hypocrites à se taire et à jeter le masque?</p>
+        <p>Le pauvre Loo. 2 est donc courant par monts et par vaux? Voilà qu'il me vient une idée : ces tempêtes que je m'efforçais d'expliquer tout à l'heure ne seraient-elles point sorties de sa tête? Je ne veux pas dire qu'elle soit pleine de vent, mais je m'afflige qu'il ne sache pas y mettre un peu de plomb. C'est grand'pitié de nous, quand les jambes prennent le gouvernement de notre pauvre machine.</p>
+        <p>Je voûte réitère toutes mes excuses de vous avoir embarrassés d'un^ recherche pareille à celle dont vous avez la bonté de vous occuper. Si j'avais réfléchi à la difficulté, je me serais moins hâté d'écrire; mais, en ce moment-là, c'était ma main qui, selon l'apparence, avait le gouvernement. On dit que les ministres vont laisser les esprits se reposer un peu de temps j et puis, quand on y pensera le moins, crac! une ordonnance qui dissout la Chambre et convoque les collèges électoraux. Avec les listes d'électeurs faites d'avance pour la nouvelle organisation du jury, tout sera bâclé dans huit ou dix jours; du moins ils s'en flattent, et d'enlever ainsi à la course une majorité selon leur cœur. Je ne répondrais pas du succès. J'aime mieux répondre de mon respect, de ma tendresse et de mon dévouement pour vous; cela est plus sûr.</p>
+        <closer>
+          <salute/>
+          <signed/>
+          <postscript/>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
