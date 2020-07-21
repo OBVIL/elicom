@@ -6,8 +6,6 @@ Extraire le texte des 'xml' pour la partie Correspondances
 Script différent pour les Works
 """
 
-# voir prudhon
-
 import glob
 import re
 from bs4 import BeautifulSoup, NavigableString, Tag
@@ -20,6 +18,7 @@ RE_CHIF_AR = re.compile(r"(^[0-9]{1,3})(\.)") #pour matcher les débuts de lettr
 RE_NOTES = re.compile(r"^\d [A-Z].+")
 #RE_PLACENAME = re.compile(r"[A Vitrolles,|Rennes|Château de Verneuil,|Château de Fleury,|Saint-Sauveur,|Versailles|A la Chenaie|La Chenaie,|Lyon|Rome|Genève|Paris|Saint-Brieuc|Dinan,]")
 RE_DEST = re.compile(r"^[0-9]{1,3}\.")
+RE_DATE = re.compile(r"([^,]+), (.+)$")
 #LE FILEPATH
 filepath = "lamennais-cor-vol1.html"
 
@@ -48,12 +47,18 @@ for p in soup.body.find_all('p'):
 
 E = ElementMaker(namespace="http://www.tei-c.org/ns/1.0", nsmap={None: "http://www.tei-c.org/ns/1.0"})
 for i, lettre in enumerate(lettres[1:]):
-	to, date, signature = "", "", ""
+	to, lieu, date, signature = "", "", "","" #l'ordre n'importe pas
 	corps = []
 	try:
 		to, date, *corps, signature = lettre
 		if RE_DEST.findall(to):
 			pass
+		elif RE_DEST.group(2):
+			continue
+		m = RE_DATE.search(date)
+		if m :
+			lieu = m.group(1)
+			date = m.group(2)
 
 	except ValueError:
 		pass
@@ -61,7 +66,10 @@ for i, lettre in enumerate(lettres[1:]):
 	teifile = E.TEI (
 		E.teiHeader (
 			E.fileDesc (
-				E.titleStmt(E.title("Correspondance Félicité de Lamennais"), E.author("Félicité de Lamennais"), E.respStmt(E.resp("Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier"), E.persName(E.forname("Lucie"), E.surname("Slavik")))),
+				E.titleStmt(E.title("Correspondance Félicité de Lamennais"), 
+					E.author("Félicité de Lamennais"), 
+					E.respStmt(E.resp("Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier"), 
+						E.persName(E.forename("Lucie"), E.surname("Slavik")))),
 				E.editionStmt(E.edition()),
 				E.publicationStmt(
 					E.publisher("Obvil"),
@@ -96,8 +104,8 @@ for i, lettre in enumerate(lettres[1:]):
 			E.body(E.div(
 				E.opener(
 					E.dateline(
-						E.placeName(),
-						E.date()
+						E.placeName(lieu),
+						E.date(date)
 						),
 					E.salute()
 					),
@@ -105,8 +113,9 @@ for i, lettre in enumerate(lettres[1:]):
 				E.closer(
 					E.salute(),
 					E.signed(),
-				E.postscript()    
-				), type="letter")
+				), 
+				E.postscript(
+					E.p()), type="letter")
 		)
 	))
 
