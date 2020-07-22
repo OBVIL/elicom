@@ -14,7 +14,7 @@ from lxml import etree
 from lxml.builder import ElementMaker
 
 RE_PROUDHON = re.compile(r"P\.-J\. PROUDHON")
-RE_DEST = re.compile(r"^[0-9]{1,3}\.")
+RE_DEST = re.compile(r"A M\. [A-Z].+")
 RE_DATE = re.compile(r"([^,]+), (.+)$")
 
 #LE FILEPATH
@@ -49,10 +49,9 @@ for i, lettre in enumerate(lettres[1:]):
 	corps = []
 	try:
 		to, date, *corps = lettre
-		#if RE_DEST.findall(to):
-		#	pass
-		#elif RE_DEST.group(2):
-		#	continue
+		if RE_DEST.findall(to):
+			pass
+				
 		m = RE_DATE.search(date)
 		if m :
 			lieu = m.group(1)
