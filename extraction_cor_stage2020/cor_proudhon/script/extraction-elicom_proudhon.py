@@ -48,7 +48,7 @@ for i, lettre in enumerate(lettres[1:]):
 	to, lieu, date = "", "", "" #l'ordre n'importe pas
 	corps = []
 	try:
-		to, date, *corps = lettre
+		n, date, to, *corps = lettre
 		if RE_DEST.findall(to):
 			pass
 				
