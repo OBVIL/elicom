@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 22 janvier 1825." resp="">le 22 janvier 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="51. - A M. BEHRYER. (...-...)">51. - A M. BEHRYER.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 22 janvier 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 22 janvier 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous avez su par M. de Vitrolles mon arrivée, mon cher ami. J'avais besoin, grand besoin du repos que je trouve ici. J'espère cependant n'y pas perdre tout à fait mon temps. J'achève une petite brochure sur la loi du sacrilège2, et je pense que je pourrai l'envoyer à Paris dans trois ou quatre jours. Et vous, cher, que faites-vous? Comment va votre santé, celle de Mme Berryer, celle d'Arthur? J'offre à la mère mes vœux, mes hommages, et j'embrasse le fils tendrement. Que nous serions bien ici, loin du tumulte et de l'ennui de ce monde au milieu</p>
+        <p>Présentée à la Chambre des Pairs le 5 avril 1824, discutée le 50 et jours suivants, votée le 1er niai par 156 voix sur 147, portée à la Chambre des Députés le 8 mai; la discussion en fut ajournée par le ministère, qui craignait d'y trouver une opposition trop forte, ITn projet nouveau fut présonté à la Chambre des Pairs le 4 janvier 1825, voté le 18 février à une faible majorité, porté le 17 mars à la Chambre des Députés, et enfin volé définitivement le 15 avril par 210 voix contre 95.</p>
+        <p>duquel vous vivez! Qu'il serait doux de philosopher ensemble, et de voir de loin ces tempêtes et ces naufrages de la politique dont le spectacle est trop près de vous! Ditlce,marimagno,... Mais les affaires, mais le devoir vous retiennent là où vous êtes. Je vous plains de ce travail, je voudrais l'alléger, et je contribue pour ma bonne part à en aggraver le fardeau. Voilà que je me vois encore obligé de recourir à votre amitié infatigable pour terminer quelques détails embarrassants de ma triste affaire...</p>
+        <p>Mille et mille pardons, cher ami; une fois cette affaire Cosson finie, je vous importunerai bien moins souvent. Je suis honteux d'abuser de vos bontés à ce point; il faut, pour ne pas m'accuser d'une extrême indiscrétion, que vous m'aimiez un peu comme je vous aime1.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

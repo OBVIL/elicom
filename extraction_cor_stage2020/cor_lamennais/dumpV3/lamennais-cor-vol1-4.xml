@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="A la Cheqaie. le 4 juillet 1819." resp="">A la Cheqaie. le 4 juillet 1819.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="5. — A LA MÊME. (...-...)">5. — A LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="A la Cheqaie. le 4 juillet 1819."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>A la Cheqaie. le 4 juillet 1819.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Voici une très-bonne journée, mon excellente amie : une lettre de vous, une de mon père, une de Mlle de Tremereuc, une de M. de Rumedon, Les Feuillantines font encore les plus douces joies de la Chênaie. Quel dommage qu'il y ait cent lieues entre nous deux ! Je passe ici mon temps à peu près à</p>
+        <p>rien faire. M. Genoude1 fait un herbier, à ce qu'il dit ; moi je crois que c'est une manière honnête de s'arranger pour ne pas manquer de tisanes cet hiver. Le pauvre garçon a été bien malheureux, ces jours derniers : l'orage lui dérange l'estomac. Il prétend que c'est un effet de l'électricité. Ce que c'est que la science ! Théodore a aussi de petits embarras. Il s'est laissé dire que les serpents frayent avec les anguilles. Je ne sais pas bien ce qui en résulte, mais ce doit être un animal fort dangereux ; car depuis que le chevalier de ces dames s'est laissé dire cela, il ne se croit plus en sûreté au bord de l'étang. Il a acquis déplus chez M. Crâné, marchand de soieries, de grandes connaissances astronomiques. Hier, me promenant après souper, je crus apercevoir une fort belle comète. Tout le monde fut de mon avis, et l'on convint que c'était en effet une comète; mais qu'est-ce qu'une comète? le savez-vous? Une comète est un rayon du soleil, et voilà pourquoi on la voit; au bout de quelque temps, le soleil l'attire à lui son rayon, et voilà pourquoi on ne la voit plus. Ce qui a surtout frappé Théodore dans ma comète, vraie ou prétendue, c'est qu'elle a la queue en l'air. Cela dérange tout à fait son astronomie. Mais j'aDaix oublier de vous dire qu'à Saint-Malo il a fait sur nos grèves une fort belle collection de coquillages. Il y en avait un d'une espèce nouvelle, et qui surprit beaucoup ma sœur... C'était.... que pensez-vous que c'était? Je vous le donne en mille. C'élait une dent de cheval bien lavée par la mer, et que vous eussiez sûrement eu le plaisir de voir si ma sœur eût été plus discrète dans son étonnement. Elle vous contera elle-même la chose, car elle paraît résolue à venir à Paris. Nous partirons à la fin d'août. Malheureusement mon frère ne sera pas du vovage : un noviciat de Petits Frères qu'il établit à Saint-Brieuc, dans la maison même, ne lui permettra pas de s'absenter. Il est en Basse-Bretagne, à une mission qui vient de s'ouvrir àPlestin. Je ne le verrai qu'à la mi-août. Vers la même époque le jeune Benoit2 doit venir passer avec moi quelques jours. Cela me</p>
+        <p>JI. Denys-Benoît d'Azy, qui depuis a marqué dans quelques-unes de r.os</p>
+        <p>fera grand plaisir. Mais, à propos, vous allez donc devenir des Nicolaïtes 1. Je me sens, pour mon compte, très-disposé à faire profession dans cet ordre-là, quoique les Nicolaïtes fussent de fort vilains hérétiques du premier siècle; mais nous laisserons l'hérésie de côté. Le nom est joli, et le patron très-imposant, quoique vous vous donniez les airs d'en plaisanter. Tout le monde au Rouvre se porte à merveille. Je compte y faire une visite ; c'est à peu près comme si je l'avais faite, n'est-ce pas? Je trouverai au château M. et Mme de Guébriant et toute la famille de M. de Derval, une vingtaine de personnes, rien que cela. Ce sera fort récréatif. Je suis touché de la mort de M. Tom d'Oilliamson. Ses derniers sentiments sont propres à consoler sa famille. Nous avons eu ici autour une fièvre épidémique qui nous a enlevé notre curé. Adieu, mon amie, je vous quitte pour causer quelques moments avec Mlle de Tremereuc. Aimez-moi toujours comme je vous aime, et priez Dieu qu'il me ramène promptement aux Feuillantines. Mon cœur n'est à l'aise que là.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

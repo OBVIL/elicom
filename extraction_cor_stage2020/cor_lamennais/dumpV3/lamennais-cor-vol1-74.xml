@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 15juillet 1826." resp="">le 15juillet 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="75. — AU MÊME. (...-...)">75. — AU MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 15juillet 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Versailles</placeName>
+            <date>le 15juillet 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>C'est toujours de Versailles que je vous écris. J'y viens de temps en temps pour vingt-quatre heures, après quoi il me faut retourner à la glèbe. Je suis plus qu'excédé de mes tristes affaires, qui ne firfissent point et qui se compliquent successivement de mille incidents nouveaux. Voilà deux mois que mon</p>
+        <p>beau-frère a quitté sa famille, malgré la maladie on ne peut plus inquiétante d'un de ses enfants, pour venir m'aider, et ni lui ni moi n'apercevons le terme de ces embarras et de ces discussions. Ce n'est pas ma fortune que je défends; j'en ai fait le sacrifice complet. Je ne désire autre chose (lue de payer mes dettes, et de recouvrer mon repos en perdant tout ce que j'ai ; et c'est à quoi je ne vois pas jour encore de sitôt. Cela m'attriste et me tourmente malgré moi. Je sens la nécessité de combattre, d'exciter le zèle des uns, de soutenir celui des autres, de profiter de la disposition générale des esprits pour y faire pénétrer la vérité, pour les familiariser, au moins, avec des questions de la plus haute importance; et le temps et les forces me manquent absolument. On ne se fait pas d'idée à quel point la plupart des hommes sont paresseux, et de ce qu'il faut de soins, de sollicitations, de démarches, pour en tirer quelque chose; c'est une de mes désolations. Et puis il est bien juste que ceux qui travaillent vivent; autre difficulté. On ne trouve aucun secours pour le bien, et, sous ce rapport, je m'étonne encore de tout celui qui se fait. Il va paraître incessamment une demi-douzaine de bons écrits : une Lettre au Mémorial sur les questions présentes, des Lettres de deux ultramontains, des Lettres d'un anglican à une anglicane, une Réponse à l'évëque de Chartres, une réimpression de la Harangue du cardinal Duperron, avec une préface et des notes. C'est plus qu'on ne pouvait espérer, et l'on n'en restera pas Iii. Mais que de travail pour mettre les esprits et les plumes en mouvement ! De l'autre côté personne ne parle, excepté la seule famille de M. l'évêque d'Hermopolis. Jusqu'à présent elle s'est montrée beaucoup moins forte de raisons que prodigua d'injures. Cela devait être. Mais, comme les injures fatiguent vite et que le public s'en dégoûte aisément, lorsqu'elles n'ont d'ailleurs rien de gai ni de spirituel, les gens du Rouergue ne tarderont pas à être forcés de se taire, ou bien il faudra que l'excessive faiblesse de leur cause et leur faiblesse personnelle paraissent à nu : ils n'ont à choisir qu'entre cela et le silence. Dans les deux cas leur rôle ne sera pas très-brillant. Le diocèse de Bordeaux vient de perdre son vénérable archevèque. On</p>
+        <p>parle de l'évêque de Luçon pour lui succéder; quant a moi, tout ce que je sais, c'est qu'il ne le remplacera pas. Plaignez notre pauvre Église, elle est destinée à de grands maux. Grâce à Dieu, les bonnes doctrines se propagent et s'affermissent tous les jours. Voilà notre unique espérance de salut. Vous avez aussi vos chagrins et vos contrariétés, là où vous êtes. Où n'y en a-t-itpas? Onus grave super filios Adam! Ce qui écrase le plus, ce n'est pas ce qui tient aux grands intérêts de la société, les travaux d'un certain ordre, la guerre contre l'erreur, la lutte contre le monde et les puissances du monde, mais les petites choses de la terre, les bassesses des hommes, les soins de la vie. Patience, cependant, et courage jusqu'au bout. Adieu, adieu. Votre si bonne amitié est une de mes consolations, et la plus douce t.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

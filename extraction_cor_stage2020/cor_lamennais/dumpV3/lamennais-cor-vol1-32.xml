@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 15 février 1825." resp="">le 15 février 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="55. — A M. LE MARQUIS DE CORIOLIS D'ESPINOUSE *. (...-...)">55. — A M. LE MARQUIS DE CORIOLIS D'ESPINOUSE *.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 15 février 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 15 février 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Votre amitié, monsieur le marquis, vous a fait illusion sur le faible mérite de mes deux brochures; et voyez, j'ensuis plus</p>
+        <p>t M. Gerbet (Olympe-Philippe), né en 1798, ci-devant vicaire général de Paris et d'Amiens, nommé évêque de Perpignan par décret du 19 décembre 1853.</p>
+        <p>a Charles-Louis-Alexandre, marquis de Coriolis d'Espinouse, était issu d'une des plus anciennes familles de Provence, originaire d'Italie. Il naquit à Marseille le 19 septembre 1770, et fut élevé à Juilly.</p>
+        <p>« Ses goûts littéraires l'avaient rapproché de Jacques Delille, dont il fut</p>
+        <p>flatté encore que s'il y avait moins de faveur dans le jugement que vous en portez, car je tiens par-dessus tout à cette estime du cœur qui est si honorable quand c'est le vôtre qui l'accorde.</p>
+        <p>Je trouve que la Chambre des pairs va, chaque jour, se sur-. passant elle-même; on ne sait où elle s'arrêtera. Que dites-vous de l'heureuse idée de la Commission du sacrilége, qui, pour être bien sûre -que justice ne s'y trompera pas, ne reconnaît de profanations que celles qui auront été commises en présence du public, sans doute par celui qui, — n'ayant pas de père, — serait pourtant bien aise d'expérimenter ce. que</p>
+        <p>longtemps l'ami et, en quelque sorte, le disciple poétique. Plusieurs écrits de lui lurent insérés, sous l'Empire, dans divers recueils littéraires. L'un d'eux, la Messe de Minuit, parut dans le Mercure, et fut reproduit dans le Journal des Débats.</p>
+        <p>c A la Restauration, il s'enrôla parmi les défenseurs du système politique inauguré par la rentrée des Bourbons, et se fit remarquer par l'ardeur de son dévouement. Ses relations avec l'abbé. de Lamennais se formèrent au Conservateur, où ils défendaient les mêmes idées, où ils avaient des amis communs. De là une liaison étroite que ni le temps, ni les événements n'ont jamais atteinte. D</p>
+        <p>M. le marquis de Coriolis est mort dans la nuit du 7 au 8 janvier 4841. Voici la lettre que Lamennais écrivit en cette occasion au fils de son vieil ami :</p>
+        <p>IL Mi LE COMTE DE CORXOLIS It EE S PINO C SE.</p>
+        <p>Sainte-Pélagie, 19 janvier 1841.</p>
+        <p>* J'étais loin de m'attendre, Monsieur, au funeste événement qu'un billet de M. de Vitrolles m'annonça, il y a quelques jours, dans ma prison. Si j'avais pu concevoir une crainte de ce genre, j'aurais certainement essayé, malgré les embarras de mon procès, de revoir encore une fois l'ami si constant et si bon que je ne cesserai jamais de regretter. Croyez, Monsieur, que personne ne s'associe pIus- vivement que moi à votre douleur. Hus vous avez vu longtemps, et de près, celui qui en est l'objet, plus elle doit être profonde. Ses aimables et solides qualités ne. sauraient s'effacer, de la mémoire d'aucun de ceux qui ont eu le bonheur de le connaître, et je compterai toujours parmi les circonstances les plus heureuses de ma vie, qui n'en offre pas beaucoup de semblables, les douces relations qui, pendant vingt ans, ont subsisté, sans nuages, entre M. votre père et moi. Ce sont des pertes qui ne se réparent point. Mais si elles augmentent -la tristesse du vieil âge, elles font aussi qu'on en prévoit le terme avec une espérance pleine de joie.</p>
+        <p>« Veuillez, vous et M. votre frère, recevoir, Monsieur, l'assurance de mes sentiments affectueux et dévoués.</p>
+        <p>8: F. LAMENNAIS. »</p>
+        <p>c'est que le supplice des parricides. On lui indique charitablement les moyens à prendre pour s'en passer la fantaisie. Il fera sonner les cloches, il assemblera voisins et voisines, convoquera même, pour plus de sûreté, les notables du lieu et les autorités dites constituées ; puis, quand tout le monde sera bien attentif, il se mettra en devoir de forcer le tabernacle et de profaner les saintes hosties, en disant à ceux qui seront là : « Regardez bien, vous autres, afin que je ne perde pas mon temps, et que vous puissiez légalement déposer du fait! »</p>
+        <p>Si, après cela, il avait le malheur d'être privé de la potence, il n'y aurait pas au moins de sa faute, car il serait parfaitement en règle, au jugement de M. de Breteuil. Pour ceux qui refuseront de prendre toutes ces précautions, difficiles à la vérité, mais nécessaires, la Chambre prononce contre eux la peine... du remords.</p>
+        <p>Imaginez-vous, monsieur le marquis, quatre cents... —je ne sais que dire, le mot me manque pour désigner cette espèce d'êtres, — qui écoutent gravement des choses de cette force, et délibèrent, et votent, et croient sérieusement faire une loi.</p>
+        <p>Mon frère, qui est à Paris depuis quelques jours, aura été fort empressé d'avoir l'honneur de vous voir. Je ne sais, moi, quand j'aurai ce plaisir, et pourtant il serait bien doux de causer avec vous une heure ou deux. Les sujets ne manqueraient pas; il n'y en a que trop d'un certain genre. Je m'attends à ouïr de belles choses de la part de nos députés. Si vous savez ce qu'est devenu le bon sens, faites-moi la grâce de me le mander.</p>
+        <p>Vous voyez assez souvent Mme la marquise de Talaru ; oserais-je vous prier de lui offrir mes respectueux hommages? Elle est du nombre, chaque jour plus petit, de ceux qui voient et qui entendent. Je vous quitte à regret, monsieur; veuillez quelquefois penser à moi comme à l'une des personnes du monde qui vous respectent et vous aiment le plus 1.</p>
+        <p>f Lettre supprimée : — A M. le baron de Vilrolles. La Chênaie, le 21 mars 1825. — Lamennais s'explique sur l'accueil fait à ses deux derniers écrits : 1° Dii projet de loi sur le Sacrilége, Paris, au bureau du Mémorial ca( ho-</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

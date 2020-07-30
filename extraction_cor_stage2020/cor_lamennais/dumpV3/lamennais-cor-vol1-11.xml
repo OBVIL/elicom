@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1822-04-21" resp="author">21 avril 1822</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Tremereuc, Mademoiselle (...-...)">Mademoiselle de Tremereuc</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1822-04-21"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chênaie</placeName>
+            <date>le 21 avril 1822.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Ce m'est, je vous assure, une grande joie, ma bien bonne amie, que de recevoir de vos
+          nouvelles, et j'en dis autant de nos deux autres amies. Pour moi, je pense à vous souvent,
+          je regrette d'être si loin de vous, de ne plus vous voir, de ne plus vous entendre, de ne
+          plus vous parler, ce qui était si doux et si bon. La Providence l'a voulu ainsi. Je
+          reconnais tous les jours qu'il était d'une grande importance pour mon travail qu'il fût
+          achevé au milieu de mes livres. Mais si vous saviez combien je suis las de cette stérile
+          fatigue ! Je dis stérile pour la terre, où je n'attends que de nouvelles calomnies, de
+          nouvelles persécutions ; mais j'espère que le bon Dieu, au moins, me saura gré de mes
+          intentions, que je crois droites. Mon travail des quatre derniers mois n'a pas été perdu ;
+          il a servi à ramener à la Religion un de mes amis, homme de mérite, et d'un caractère
+          froid et ferme, ce qui me fait espérer qu'il persévérera. Je suis bien aise que vous vous
+          occupiez avec la bonne Minette de recueillir vos souvenirs sur la vie de notre excellent
+          Père. Quand vous aurez fini votre travail, peut-être serai-je en état de commencer le
+          mien.</p>
+        <p>Mon avis pour Augustine1 est qu'il ne faut ni trop presser ni trop retarder sa première
+          communion. Je pense qu'on pourrait la préparer pour Pâques prochaines. Mon frère doit être
+          ici le 29. Je ne sais combien de temps il y restera; peu sans doute. Il a toujours je ne
+          sais combien d'affaires à Saint-Brieuc. Je n 'ai pas l'intention d'aller l'y voir, à cause
+          de mon dégoût pour les voyages et du temps que celui-ci me ferait perdre. Je voudrais bien
+          que vous et Mlle de Villiers vous puissiez vous donner rendez-vous à la Chenaie. Voyez si
+          cela ne serait pas possible. L'abbé Le Tourneur m'avait presque annoncé son arrivée pour
+          cette semaine. Je ne lui écris pas, parce que je crains que ma lettre ne le trouve plus à
+          Paris. S'il y était encore, veuillez lui dire que je l'attends, ou lui écrire deux mots
+          pour l'encourager dans sa bonne résolution.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

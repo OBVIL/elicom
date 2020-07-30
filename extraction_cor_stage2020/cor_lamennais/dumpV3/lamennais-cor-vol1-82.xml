@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="5 novembre 1826." resp="">5 novembre 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="83. — AU lItÈME. (...-...)">83. — AU lItÈME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="5 novembre 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>5 novembre 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai reçu àvant-hier les lettres que vous avez remises à Mah. *, et hier celle de We de Senfft, du 50 octobre. Vous dire quel r plaisir elles m'ont fait, c'est impossible ; mais j'espère que vous le sentez. C'est comme le son lointain de vos voix. Il me réjouit, parce que c'est quelque chose de vous, et il m'afflige, parce que ce n'est -pas vous entièrement. Ah ! quand reviendront ces heures de douce causerie et d'aimable épanchement où nos cœurs s'ouvraient sans gêne et sans réserve ? Qu'il y a loin de l'écriture à la parole vivante ! Et encore cette écriture est-elle craintive, embarrassée. Agrippine, invisible et présente, est toujours là derrière le rideau 2. Je ne saurais trop vous répéter que j'ai un désir extrême de vous revoir. Soyez sûrs, bien, 1 sûrs, que j'aspire trop à ce moment pour le laisser échapper, pour ne pas le saisir aussitôt qu'il se' présentera. Mais je ne puis encore, quoique mieux, supporter la voiture ; et puis des devoirs, des devoirs importants, exigent ma présence ici. Ce n'est rien d'agréable qui m'y retient; chaque quart d'heure est une souffrance ; elles m'arrivent de tous côiés. J'en bénis Dieu, car quelle raison de rester en ce monde si l'on n'y souffrait pas? Oportuit Christum pati : — voilà notre leçon et notre modèle. Hélas ! vous le savez autant que personne, et c'est</p>
+        <p>Ml y a ici, ce nous semble, un, lapsus de mémoire. C'est Néron qui assiste, invisible et présent, à l'entretien de Junie et de Britannicus. Au surplus, l'allusion est dalle; il s'agit de la police et du Cabinet noir.</p>
+        <p>aussi une de mes croix, de penser combien les vôtres sont quelquefois pesantes.</p>
+        <p>Je n'ai pu encore causer que peu d'instants avec M.'. Il revient engraissé et ravi de son voyage; je le crois bien, il vous a vus. Pendant qu'il courait le pays, la France courait aussi, mais dans un autre chemin. Elle s'enfonce, elle, de plus en plus dans la voie des révolutions. Comme vous en savez là-dessus autant que moi, je vous ferai grâce des détails. On dit qu'il sera grandement question à la Chambre des pairs des sujets traités par M. de Montlosier 2. Viendra ensuite une loi sur la presse, qui ne passera pas sans de vives contestations, quelle qu'elle soit. On s'occupe aussi d'organiser au conseil d'État un comité ecclésiastique du contentieux. On assure que l'abbé Fayet, l'abbé Affre, neveu de M. Boyer et de M. Frayssinous, et l'abbé de Bully, ancien grand vicaire de M. Beaulieu, sont nommés maîtres des requêtes. On ajoute que M. Affre doit sa nomination à un beau livre sur les Libertés gallicanes, qu'il a composé par ordre de l'évêque d'Hermopolis, et qui paraîtra bientôt. L'administration ecclésiastique est très-active dans ce sens. Les détails seraient trop longs, et il y en a qui vous étonneraient. Supposez tout, et vous approcherez du vrai. D'un autre côté, les journaux continuent quotidiennement d'échauffer les esprits, de remuer les passions, et de préparer des violences qui désormais ne sauraient tarder longtemps à éclater. On veut 1688, et on l'aura ; mais de 88 à 95 la distance est courte, et on y arrivera aussi. Dieu par-dessus tout! Il l'a dit : Non prxvalebunt. On rit de tant d'extravagance, et l'on pleure de tant de crimes.</p>
+        <p>Notre bon évêque de Bennes est tombé malade de fatigue,</p>
+        <p>. au moment wèlJ/e OLr le Jubilé allait ouvrir. 11 va mieux, mais de longtemps il ne pourra s'occuper d'affaires : c'est un sur-croit. de travail pour mon pauvre frère.</p>
+        <p>Quant à l'évêque de Saint-Brieuc, sa maladie est d'une aulre nature. Il lui est venu à l'esprit de donner, dans son école ecclésiastique de Plouguernevel, un jubilé à sa manière. Qu'il écrive une comédie, cela se conçoit; sur le mot, on imaginera qu'il compose ses Mémoires ; mais qu'il la joue, c'est un peu plus fort. Il en a pourtant donné le plaisir aux habitants de Plouguernevel, pour qui ce spectacle était très-nouveau, de toutes façons. Malheureusement pour Sa Grandeur, elle avait confié a l 'un de ses valets de chambre un rôle dont l'infortuné n'a jamais pu sortir; ce qui, du reste, n'a fait qu'ajouter à l'hilarité publique, comme on dit constitutionnellement. Je voudrais qu on fil imprimer cette œuvre comique fi la suite de celle du t5 avril1, ou avant, si on l'aimait mieux.</p>
+        <p>Mille et mille tendresses.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="10 janvier 1825." resp="">10 janvier 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="23. — A LA MÊME. (...-...)">23. — A LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="10 janvier 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>10 janvier 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Bon jour, bon an, comme disait, il y a huit jours, à ses gardes du corps le Roi très-chrétien. Il y a bien des choses dans ces mots-là, ma bonne amie, si tous les vœux que je forme pour vous et pour les personnes qui vous entourent y sont renfermés; et quant à moi, je suis persuadé que votre silence n'est pas moins expressif. Développez un peu, je vous prie, mes paroles royales à Mlle de Villiers, à M. Carissan, à Mlle Dufau, à Augustine, à Jeanne, Jeannette, Peggy, enfin à tous les habitants de votre château de la rue des Postes, et par la poste aussi daignez en faire passer un commentaire aimable et tendre jusqu'à Yalogne, à qui bien vous savez.</p>
+        <p>J'ai reçu dernièrement des nouvelles de votre chère Angélique; elle se portait bien, elle et sa bonne mère, et Clara, et, comme on dit ici, toute la maisonnée. Du reste, il n'est bruit à Saint-Brieuc que de votre perfection toujours croissante, ce qui me charme extrêmement. Je vous vois avec -autant de joie monter vers le ciel sur les épaules... qu'est-ce que je dis? sur les ailes de votre père Fauvel, que Brada-mante eut de douleur quand elle vit son cher Roger s'envoler danslesmêmesrégions, sur le dos de l'Hippogriffe. Et puisque me voilà sur le chapitre des voyages, je suis bien aise d'annoncer à la pauvre petite Augustine qu'elle ne tardera pas à voir son père, qu'une affaire appelle à Paris. On a été fort conteiit à Saint-Malo de sa dernière lettre. On a- trouvé que l enfant avait fait des progrès dans l'écriture, item dans l'orthographe, item dans les pensées, item dans le style; et si vous me demandez ce que j'en pense moi-même, je vous répondrai : item. Qu'il est donc agréable de savoir le latin, et qu'un jeune homme ou une jeune fille qui a le cœur bien placé, et l'esprit de même, doit de grâces à ses chers parents qui lui ont fait apprendre cette b elle langue !</p>
+        <p>Adieu, chère-bonne amie, je suis pour toujours et bien tendrement à vous.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 19 novembre 1823." resp="">le 19 novembre 1823.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="26. - A MADEMOISELLE DE LUCINIÊ'RE. (...-...)">26. - A MADEMOISELLE DE LUCINIÊ'RE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 19 novembre 1823."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chênaie</placeName>
+            <date>le 19 novembre 1823.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Voilà juste un mois, ma bien bonne amie, que j'ai quitté la capitale de toutes les sottises, de toutes les bassesses et de toutes les noirceurs. Je suis encore à comprendre comment on reste au milieu de tout cela, lorsqu'on peut en sortir.</p>
+        <p>Vous me direz qu'outre ces belles choses, il y en a d'autres qui ne leur ressemblent pas : — j'en conviens ; mais le tout ensemble fait une vilaine ripopèe ; — convenez-en aussi. J'ai souffert à mon arrivée de la migraine et du mal de dents. J'ai fait mon remède ordinaire, et à présent je suis bien; cependant je n'ai qu'à peine commencé mon travail ; il m'inspire tant de dégoût, que je ne saurais prévoir quand je finirai. Je compte toujours sur votre présence à la Chenaie' dans le mois de février. Vous trouverez une petite maison fort propre; Peggy2 même en serait satisfaite. J'ai acheté en votre honneur une boîte de jeu et des cartes; mais il me manque une carte explicative des payements du boston; je vous prie de m'en envoyer une. Marie-Ange et Lise, avec qui j'ai beaucoup parlé de vous et de vos chères compagnes, se font une grande fête de vous voir; leurs parents en sont tout joyeux aussi ; mais on voudrait que vous vinssiez toutes trois : n'y aurait-il donc pas quelque moyen d'arranger cela? Je vous dirai que, sans être absolument un homme du monde, je suis fort répandu dans nos bois, dans nos champs, voire</p>
+        <p>S Bonne anglaise au service des Feuillantines.</p>
+        <p>dans nos landes, et qu'il ne tiendrait qu'à moi de vous en dire des nouvelles très-piquantes, très-intéressantes ; mais il y a toujours à craindre, dans ces sortes de choses, de blesser la charité, et ce n'était pas sans beaucoup de douleur que j'entendais dernièrement médire d'un pauvre chêne, qui s'était, assure-t-on, fait ministériel, parce qu'il avait poussé quelques racines dans la boue, et que deux ou trois cochons étaient devenus ladres en mangeant de ses glands. Il y a de méchantes langues partout, et je souffre à vous répéter seulement ces mauvais propos. J'aime mieux vous annoncer le mariage de la seconde des demoiselles Laroue ; vous devinerez avec qui, s'il vous plaît, car pour moi je ne m'en souviens plus : si fait, pourtant; c'est avec un homme dont on m'a dit le nom; il n'y a que ce nom que j'ai oublié. Ne m'oubliez pas, je vous prie, près de nos bonnes amies, de MM. Carissan, Lowenbruck, Rausan, Dumenildot.Mesnou, Levasseur, Fauvel, etc., etc.; ni près de Peggy, Jeanne, Jeannette, Azor, Mako, et enfin tout ce qui vous est cher. J'embrasse tendrement mes deux petites nièces, et vous aussi, Mademoiselle, si vous permettez cette liberté grande à ma vieille et constante amitié1.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

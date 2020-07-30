@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 13 octobre 1825." resp="">le 13 octobre 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="47. — A 31. REHHYEH. (...-...)">47. — A 31. REHHYEH.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 13 octobre 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 13 octobre 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Notre ami 1 me paraît mieux ; il m'a écrit une fort bonne b'ttre. Il a beaucoup d'ouvriers, ce qui le distrait. Il voit, d'ailleurs, ce que vous voyez, ce que tout le monde voit, que tout s'en va, et, seulement, il espère qu'à la longue tout s'arrangera</p>
+        <p>M. de Vilivlles.</p>
+        <p>matériellement. Je ne pense pas comme lui sur ce point; vous savez mes raisons. Le problème est de trouver le moyen que la société vive sans vie. Je m'étonne toujours qu'il y ait des gens qui s'offrent à le résoudre. De quoi, cependant, peut-on s'étonner? Ne voilà-t-il pas M. Fiévée qui assure gravement « qu'il n'y a plus rien en Europe de révolutionnaire que les entreprises du despotisme; » et M. de Montlosier qui reproche aux ministres « l'influence qu'ils ont laissé prendre au clergé. » Après cela, soyez surpris de quelque chose. La conséquence, du reste, est claire, et aussi ne manque-t-on pas de la tirer. Pour combattre « le despotisme » et ses entreprises, il faut obtenir de nouvelles garanties à « la liberté, » c'est-à-dire démocratiser la démocratie. Pour réduire l'influence du clergé, il faut imiter le roi de Hollande, et abattre tout ce qui reste de catholicisme en France. On est dans la voie; tout ira bien.</p>
+        <p>Mais expliquez-moi donc, de grâce, la Quotidienne. Que veut-elle? quelle est sa pensée? en a-t-elle une? à qui parle-t-elle? et qui peut comprendre que le roi soit maître de faire des ministres que le roi n'est pas maître de soutenir? Est-ce qu'elle se flatte d'agir, avec ces pauvretés, sur l'opinion publique? Entendez-vous mieux cette invention du système républicain représentatif, qui doit nous conduire à la monarchie constitutionnelle, à moins qu'il ne nous mène à l'anarcliie dont il contient le germe. Nous ne sommes donc pas encore à la monarchie constitutionnelle, à la monarchie selon la Charte, mais nous vivons sous un système républicain représentatif, en attendant une pleine anarchie, dont on nous avertit que le germe existe dans nos institutions. Et personne ne relève des aveux qui mettent à nu l'état des choses et l'inexprimable ineptie des hommes ; je dis des hommes que nous reverrons, demain peut-être, à la tête des affaires ! Enfin, Dieu soit béni! il n'arrivera jamais que ce qu'il permettra. Il ne permet pas que je me porte bien, au contraire ; mais il permet certainement que je vous aime de tout mon cœur, et ainsi fais-je.</p>
+        <p>J</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

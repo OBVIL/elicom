@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="14 juin 1826." resp="">14 juin 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="72. — A M. LE COMTE DE SENFFT. (...-...)">72. — A M. LE COMTE DE SENFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="14 juin 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>14 juin 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai reçu par Lyon, mon excellent ami, votre lettre du 29 mai, et celle de Mme de Senfft de même date et du 5 juin. Je suis certainement très-touché de ce qu'elles contiennent. Il est consolant de savoir qu'on ne s'est pas mépris en cherchant à faire quelque bien. Si l'on savait combien les esprits sont préparés à ce qui finirait tout 1, combien ils le désirent, combien ils s'étonnent du silence et de l'indécision, je ne doute pas qu'on ne profitât d'une circonstance qui peut ne se représenter de longtemps, pour proscrire à jamais des erreurs funestes qui, presque éteintes eu France, font d'année en année des progrès alarmants en Irlande et en Angleterre. Vous ne sauriez vous figurer à quel point le clergé, sauf un petit nombre d'exceptions, est heureusement disposé, et avec quelle chaleur de foi il s'attache à tout ce qui est véritablement catholique. Je crains fort qu'on ne soit mal, très-mal instruit de tout cela et de beaucoup d'autres choses. Les discours de l'évêque d'Herin. ont produit le meilleur effet; ils ont été jugés sur-le-champ par tout le monde : il est difficile qu'un homme soit plus bas dans l'opinion ; aussi ne trouve-t-il d'appui et de défenseurs que dans sa famille. Les trois Clausel ont écrit; l'abbé Rover, autre parent, écrit aussi, et son ouvrage va, dit-on, paraître. Mais ils luttent en vain contre la vérité, contre le sentiment universel, chaque jour plus prononcé, qui les accable. Quelle immense carrière l'Église a devant elle! Quel ascendant béni des peuples on pourrait prendre, si l'on voulait, sur un monde qui cherche, sans le savoir, une raison qui le conduise et une main qui le gouverne ! Attendons en paix les moments de Dieu.</p>
+        <p>pour les mesures extrêmes auxquelles ils allaient demander la prolongation de leurs pouvoirs. Mais, en dépitde tout, les élections leur donnèrent tort. et l'administration congréganiste succomba. -</p>
+        <p>^ous&gt; devons croire qu n s agit ici d'une décision solennelle, émanée du ïoiiverain Pontife.</p>
+        <p>Mme de Senfft a bien raison quand elle m'engage à finir à tout prix mes affaires ; mais je ne puis, par malheur, les finir à aucun prix. C'est là ce qui me désole. Toul est arrêté dans le monde commercial. Une crise est fort à craindre; on ne trouverait pas un seul écu à emprunter en ce moment. J'espérais et j'espère encore en finir prochainement avec M. de Sainl-V. Mon beau-frère est ici pour -cela. Mais un nouvel et triste incident est venu compliquer ma position. Les banquiers ont failli, et auparavant ils ont remis en circulation pour 100,000 francs de billets payés par mÓi, et qui restaient en dépôt entre leurs mains. J'ai l'espoir, à raison de quelques circonstances particulières, d'empêcher que ce vol ne soit consommé : mais je ne puis rien faire au milieu -de ces inquiétudes et de ces soins qui prennent tout mon temps et usent ma santé. J'aspire à un peu de repos pour répondre à ce qu'on a écrit dernièrement contre moi, et pour m'oçcuper ensuite de l'ouvrage important que je médite sur le même sujet. Priez le ion Dieu pour moi; j'ai sprand besoin de prières. Mille"tendrjss respects à Mme de S. et ' à la comtesse Louise.</p>
+        <p>Tuissirruiis in Christo éx intimo corde1.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

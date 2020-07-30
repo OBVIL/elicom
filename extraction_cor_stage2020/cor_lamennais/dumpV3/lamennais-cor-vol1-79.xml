@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 7 octobre 1826." resp="">le 7 octobre 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="80. — L'ABBÉ GERBET A M. DE SENFFT, (...-...)">80. — L'ABBÉ GERBET A M. DE SENFFT,</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 7 octobre 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>le 7 octobre 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le comte,</p>
+        <p>Je viens de recevoir, par une lettre de l'abbé de Salinis, des nouvelles de M. Féli, qui suivent de près celles que j'ai eu l'honneur de vous transmettre mercredi dernier, et les</p>
+        <p>confirment.. Notre cher voyageur se trouve toujours beaucoup mieux. "</p>
+        <p>Us étaient sur le point de quitter Saint-Sauveur, pour aller passer quelques jours à Louvie, maison de campagne d'un oncle de l'abbé de Salinis, dans une situation charmante, à l'entrée de la vallée d'Ossau. De là ils iront à Morlaas, y séjourneront deux ou trois jours, puis s'achemineront vers Paris, mais non pas tout d'un trait, afin d'éviter la fatigue. Ils arriveront ici vers le 15 de ce mois. M. Féli trouvera son appartement tout prêt. Je m'installe aujourd'hui dans notre nouveau logement. La chambre de M. Féli, qui n'est pas sur le devant de la maison, et a vue sur un jardin, n'entend pas le bruit d-e cette rue d'Enfer. L'abbé Rohrbacher se réunit à nous.</p>
+        <p>Quelque bien que le voyage des Pyrénées ait pu faire à M. Féli, je crains encore pour lui, cet hiver, le, séjour de Paris. Son projet est cependant d'y rester, pour travailler à l'ouvrage qu'il a annoncé. Mais, si son médecin, le docteur-Alain, qui a sa confiance, n'approuve pas ce projet, je rappellerai les droits de Turin, ou plutôt je n'aurai pas besoin de les rappeler, car ils sont toujours présents à sa pensée ; mais enfin je ferai de mon mieux à cet égard. Nous nous consolerions un peu de son absence, en pensant qu'il serait si bien !</p>
+        <p>M. Waille, qui, vers la fin du mois d'août, a envoyé à Turin, à l'adresse de M. Croletti, inspecteur de l'administration centrale principale des gazett-es, deux lettres de M. Féli, l'une pour Mme la comtesse de Riccini, l'autre pour le P. Ventura, désirerait savoir si elles sont parvenues à M. Croletti, pour en donner avis à M. Féli, à son arrivée.</p>
+        <p>L'abbé Rohrbacher me charge, monsieur le comte, de vous présenter ses respects, ainsi qu'à M'aies comtesses de Senfft. J'y joins ceux du troisième ermite.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

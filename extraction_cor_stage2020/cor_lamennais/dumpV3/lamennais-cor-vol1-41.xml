@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 18 août 1825." resp="">le 18 août 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="42. - A M. LE MARQUIS DE CORIOLIS. (...-...)">42. - A M. LE MARQUIS DE CORIOLIS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 18 août 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 18 août 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Oui, certes, monsieur le marquis, je garde les lettres que vous me faites l'honneur de m'écrire; je les garde pour qu'on sache un jour qu'en France, en 4825, il y avait encore de l'esprit, de la raison piquante, des sentiments élevés, et tout ce que M. de Villèle serait fort embarrassé de faire coter à la Bourse. Ne le plaignez-vous pas de l'insurrection qui a éclaté parmi ses sujets* à l'occasion de ces tristes et malencontreux trois pour cent, qui devaient, disait-il, ravir tout le monde, lui d'abord, et ensuite ces benets de rentiers, auxquels il n'a jamais pu faire comprendre qu'avec quatre francs de revenu ils seraient bien plus riches qu'avec cinq? Mêlez-vous, après cela, de persuader les hommes; il y a de quoi se dégoûter du raisonnement, et ce serait, selon ma doctrine, une belle occasion de revenir au sens commun. Je doute fort que ce soit l'avis de messieurs nos ministres, comme les appelle respectueusement une vieille femme de ma connaissance. Vous avez vu, dans les Débats, comme il a plu à M. de Corbière de retrancher 4,600 fr. que l'Académie des Inscriptions employait, chaque année, en distribution de médailles aux personnes qui s'occupent avec le plus de succès de l'étude, aujourd'hui si négligée, de nos antiquités nationales. Cet homme, — pardon, je veux dire M. de Corbière, — a des idées qui ne sont qu'à lui, et, comme ses manières ressem-</p>
+        <p>* M. Dudon et plusieurs autres membres du parti ministériel avaient parlé contre la loi d'amortissement.</p>
+        <p>blent beaucoup à ses idées, je proposerais de le surnommer Diogène-Vandale.</p>
+        <p>J'attends impatiemment le petit dialogue que M. de Salinis doit m'apporter de votre part1, et je vous remercie d'avance du plaisir que j'aurai à le lire avec deux ou trois personnes faites pour le goûter et capables de l'apprécier. Quant à l'idée d'envoyer à Rome la Prophétie que vous appelez votre Songes, elle me paraît excellente; mais le mieux serait, sans contredit, que vous l'adressassiez directement au Pape, avec une lettre, par l'entremise du nonce. Cela ne souffre aucune difficulté, et le Saint-Père sera certainement touché de cet hommage dont il est digne. En allant me jeter à ses pieds, j'ai passé par votre patrie, cette ancienne Corioles, aujourd'hui nommée Bolsène. Située sur le bord du lac qui porte le même nom, la position en est charmante. On aperçoit dans ce lac deux îles, et l'une d'elles rappelle un grand crime, l'assassinat de la reine Amalasonte, que son mari Théodat fit étrangler pour régner plus à l'aise. Il faut que le pouvoir ait toujours eu bien de l'attrait. Le souvenir de cette scène horrible, dans un des lieux les plus riants que la nature ait formés, produit une impression profonde. Du reste, Corioles n'est plus qu'un misérable bourg. Nulles traces de son antique splendeur : Etiam periere ruinx. Si les Volsques revenaient au monde, ils pourraient dire comme nous : Adieu paniers, vendanges sont faites! ils ne retrouveraient pas même des trois pour cent. Ce que vous retrouverez toujours, pendant que je vivrai, c'est une amitié inaltérable, et un dévouement pareil en tout à cette amitié.</p>
+        <p>Le Songe de Clovis, mentionné déjà.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

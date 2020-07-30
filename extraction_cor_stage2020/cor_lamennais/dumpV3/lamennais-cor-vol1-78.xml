@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 28 septembre 1826." resp="">le 28 septembre 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="79. — A LA MÊME. (...-...)">79. — A LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 28 septembre 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Saint-Sauveur</placeName>
+            <date>le 28 septembre 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je me proposais toujours de vous écrire depuis mon arrivée ici, et voici le premier jour où cela m'est possible. Vous avez dû cependant recevoir de mes nouvelles par M. Vuarin 4, à qui l'abbé de Salinis a écrit deux mots. Mon voyage a été une espèce d'agonie continuelle. A quelques lieues de Montauban, près de Moissac, on fut obligé de me descendre de voiture, et de m'étendre sur un lit dans une ferme. Puis, de séjour en séjour et de crise en crise, je suis enfin arrivé ici, où, à la suite de treize bains, j'ai éprouvé un mieux sensible, qui n'est pourtant pas encore, à beaucoup près, un rétablissement complet. Nous repartons demain pour Bordeaux, où nous nous</p>
+        <p>s Mme Riccini.</p>
+        <p>* Curé de Genève.</p>
+        <p>rendrons à petites journées, et en nous arrêtant deux ou trois fois. J'espère être à Paris du 10 au 15 octobre. Le médecin, homme de mérite et point charlatan, insiste pour que je revienne ici l'année prochaine, et que j'y passe au moins deux mois, juillet et août. Je prendrai mon parti d'après l'étal de ma santé à cette époque. En attendant je vais me retrouver avec l'abbé Gerb, et l'abbé Rohrbacher. Nous avons loué un appartement rue d'Enfer, en face de la grille du Luxembourg, n° 19. C'est là que je vous prie désormais de m'adresser vos lettres. Je voudrais bien causer avec vous plus longuement ; mon cœur, mon esprit, en ont besoin, et cependant il faut s'arrêter. Quoique j'écrive debout, c'est un exercice que je ne puis soutenir que bien peu de minutes. Je crois que mes pauvres forces reviendront progressivement, et je ne le désire que pour les consacrer à Dieu et à son Église. Mille amitiés les plus tendres à la comtesse Louise. J'embrasse mon cher comte de tout, de tout mon cœur. Que vous dirai-je encore? Ne savez-vous pas ce que je vous suis, et ce que vous êtes pour moi</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

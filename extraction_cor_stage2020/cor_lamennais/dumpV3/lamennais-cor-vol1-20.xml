@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="10 novembre 1822." resp="">10 novembre 1822.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="21. - A MADEMOISELLE DE LUCINIÈRE. (...-...)">21. - A MADEMOISELLE DE LUCINIÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="10 novembre 1822."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chênaie</placeName>
+            <date>10 novembre 1822.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je vous remercie de votre bonne lettre, mon excellente amie. Quoique j'apprenne par-ci par-là de vos nouvelles, je voudrais en recevoir directement de vous plus souvent. Je pense que vous avez maintenant près de vous la bonne Mlle de Villiers, il qui je vous prie d'offrir mille tendres respects de ma part. Vous savez que la pauvre Mlle de Tremereuc a eu encore une nouvelle douleur. Dieu éprouve ceux qu'il aime; il faut se le redire sans cesse dans ce triste monde, où les maux sont si nombreux et les consolations si rares. J'en ai eu récemment une très-grande. L'abbé Le Tourneur me mande que vous êtes gîtée tout juste entre le quatrième et le cinquième château,,. Courage, ma très-chère sœur, vous êtes dans la voie ; mais ne restez pas en plein air, dans cette saison surtout. Si vous n'arrivez pas promptement au cinquième château, ce ne serait pas la peine d'être sortie de l'autre, et vous pourriez vous en trouver</p>
+        <p>mal. Avez-vous des nouvelles de Mlle Constance? Parlez-lui de moi, je vous prie, quand vous lui écrirez. Je pense qu'Augustine ne tardera pas à vous aller rejoindre, et je le souhaite vivement pour elle. Ne perdez pas de vue la Vie de notre bon Père; rassemblez vos souvenirs, écrivez, dictez tout ce que votre mémoire pourra vous rappeler. Quant à ce que vous me demandez relativement à l'institution de Saint-Josephl, ce n'est pas chose facile. Trop de choses me détournent déjà de mon travail principal, qui n'a presque point avancé depuis le mois d'août. D'ailleurs je n'ai d'accès près d'aucun journal. Il peut se présenter prochainement une circonstance qui m'offre le moyen de remplir votre vœu et celui de M. de Lowenbruck. Si elle se présente en effet, soyez sûre que je la saisirai avec beaucoup d'empressement. Je n'ai rien tant à cœur que de donner aux bons et saints missionnaires quelque marque de ma profonde vénération et de mon sincère attachement pour eux. Ne m'oubliez près d'aucune des personnes qui vous entourent. Ne m'oubliez pas surtout près de Dieu. Je suis en lui tout à vous du fond de mon cœur.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

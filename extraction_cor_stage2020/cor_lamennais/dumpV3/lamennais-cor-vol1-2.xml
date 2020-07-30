@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="12 juillet 1818." resp="">12 juillet 1818.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="3. — A LA MÊME. (...-...)">3. — A LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="12 juillet 1818."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Saint-Brieuc</placeName>
+            <date>12 juillet 1818.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Tout considéré, je crois, mon excellente amie, que vous avez fait ce qu'il y avait de mieux, en terminant avec M. de Lucinière pour un revenu fixe et assuré. Vous avez acheté la paix par un sacrifice dont on ne vous a pas même permis de connaître l'étendue, mais votre cœur avait besoin de cette paix, parce qu'il est fait pour la goûter, et pour la trouver dans le sentiment même de sa généreuse délicatesse. J'admire voire procédé, quoiqu'il ne m'étonne pas, et c'est tout ce que je me permettrai de vous dire sur ce sujet. Mais comment vous remercier assez des assurances si flatteuses et si douces que vous me donnez de votre amitié? J'ignore par où j'ai pu la mériter, à moins que, pour en être digne, il ne suffise d'en sentir vivement le prix. Comptez du moins, comptez pour jamais sur le retour le plus entier et le dévouement le plus absolu. Mon cœur, ma vie est aux Feuillantines; je me trouve partout ailleurs étranger. Une fois séparé de mon frère, je ferai tout au monde pour abréger mon exil, et j'espère vous revoir dans la première semaine d'août. Souffrez cependant que je vous engage</p>
+        <p>à modérer votre douleur. Hélas! c'est ce que demanderaient de vous ceux mêmes que vous regrettez. Ne voulez-vous pas leur complaire en cela comme en tout le reste? Ils sont heureux, ils ont atteint le terme où nous aspirons; et c'est leur bonheur que vous pleurez. J'aurais mille et mille choses à vous écrire sur les objets dont vous me parlez, sur mon voyage, sur nos projets, sur cette maison des Amandiers t que vous avez (hi voir mardi; le temps me manque, et j'aime mieux ne rien dire du tout que tronquer ce que je voudrais vous dire. Distribuez, je vous prie, mes respects, amitiés, compliments, à tous et à chacun sans oublier personne. Je prends la liberté de joindre ici une lettre pour mes petites nièces. Je ne puis vous exprimer combien mon frère a été sensible à tout ce que vous me marquez pour lui. Il vous prie d agréer l'hommage de son respect et de son attachement; mais je prétends qu'il n'y en a poin! d'égal à celui que vous a voué pour la vie</p>
+        <p>F. M.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

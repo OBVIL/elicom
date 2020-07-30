@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 7 décembre 1825." resp="">le 7 décembre 1825.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="52. — AU MÊMF. (...-...)">52. — AU MÊMF.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 7 décembre 1825."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 7 décembre 1825.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Eh bien, cher, que dites-vous du jugement de la Cour royale dans l'affaire du Constitutionnel2? Cela va-t-il? avançons-nous? Calomnier, diffamer le clergé, dire qu'on ne peut prier dans nos églises sans scandale, engager à passer dans le protestantisme, ce n'est pas attaquer la religion de l'État. Cela, je le crois, puisqu'il n'en a pas; mais ce n'est point attaquer la reli-</p>
+        <p>Il Ce procès de tendance, où le délit résultait, selon le ministère public, de trente-deux articles publiés du 2 mai au 25 juillet précédents, fut jugé au milieu d'une affluence énorme. M. Bellart avait dressé le réquisitoire ; M. de Brôe, membre de la Congrégation, portait la parole, et son zèle était stimulé par la présence d'un des deux chefs de ce corps alors si redoutable, M. Matthieu de lUontmorenci. Me Dupin défendait la feuille incriminée. L'arrêt, prononcé le 3 décembre, mentionnait comme garanties des libertés publiques, en même temps que la Charte constitutionnelle, la Déclaration de 1682, « déclaration, disait-il, toujours reconnue et proclamée loi de l'État. J) Il refusait de prononcer la suspension du journal, requise par les agents du pouvoir. Cet arrêt fut couvert de bravos et de vivats.</p>
+        <p>gion catholique, voilà ce qui est fort. Ceux qui l'attaquent, ce sont les défenseurs de sa doctrine, les pauvres gens qui croient au Pape, les « ultramontains, » comme on les appelle. Pour eux les amendes, pour eux les prisons. Il est assez probable que vous viendrez m'y voir dans deux ou trois mois. Nous y causerons ensemble de la liberté de la presse, de la liberté des opinions, et de toutes les libertés qui abondent en France. Et remarquez que ces gens qui nous citent à tout propos devant la raison, qui nous accusent de l'anéantir, ne trouvent rien de mieux à faire, dès que nous ouvrons la bouche pour raisonner contre eux, que de nous déférer aux tribunaux. Quelle basse, quelle odieuse hypocrisie ! Mais les voilà. Est-ce donc qu'aucune voix ne s'élèvera pour faire sentir ce contraste? Est-ce qu'on se laissera conduire là où nous mène une horde de sauvages armés des débris de la civilisation? Pauvre, pauvre siècle ! Enfin nous voyons le commencement de ce schisme que je prévoyais : car ne pensez pas qu'on en reste là. Vont venir les mesures d'administration, les promesses d'enseigner, les formulaires civils, et à leur suite les vexations, les persécutions, provoquées plus hautement et plus hardiment que jamais par le parti qui domine déjà, et en faveur duquel la magistrature se déclare. Mais que les malheureux qui nous conduisent, ou nous laissent conduire dans l'abîme, ne s'y trompent pas ; ils y tomberont, et des premiers. Les dates se suivent, et très-certainement 1682 amènera 1688. De proche en proche, chacun recevra son salaire; et tempus omnis rei tune erit. En attendant, le Peuple souverain décerne à ses représentants des récompenses nationales 1. Et l'on parle du Roi ! et les tribunaux s'occupent à défendre contre le Pape sa souveraineté! Est-ce que je rêve, mon ami? Si cela était, de grâce, dites-le-moi; mais il me semble que ce sont là des faits, et des faits récents. Souvent j'ai l'idée de m'en aller. Où? N'importe; en Turquie, par exemple : il y a encore là un peu de liberté, un peu de bon sens ; on ne vous coupe pas la langue avant de vous couper la</p>
+        <p>tète. Cependant je ne puis; quelque chose me retient. Adieu, écrivez-moi ; j'ai besoin de vos lettres et de votre amitié.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

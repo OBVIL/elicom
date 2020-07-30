@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 18 mars 1826." resp="">le 18 mars 1826.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="65. - A M. LE COMTE DE SENFFT-l'ILSACll. (...-...)">65. - A M. LE COMTE DE SENFFT-l'ILSACll.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 18 mars 1826."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>le 18 mars 1826.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je reçois, mon excellent et bien cher ami, votre lettre du 11 mars. Vous avez bien raison de dire que mon cœur me presse de me rendre près de vous J'aspire au moment de vous embrasser, et néanmoins je ne puis encore vous mander positivement l'époque de mon départ. En premier lieu, il est, depuis quelques jours, grandement question de m'attaquer. Ni la cour royale, ni le ministère même, n'inclinaient à prendre ce parti; il n'est pas encore certain qu'on le prendra, mais quelques évêques y poussent fortement. Cela vous surprendra peu, et cela ne me surprend point du tout. On parle aussi d'une réponse, ou d'une espèce de Déclaration qu'ils s'occupent de rédiger. Il faut que je voie la fin de tout cela. En second lieu, mon arbitrage me retient encore ici. Berryer prétend que ma présence est absolument nécessaire, et vous savez combien cette affaire est importante pour ma tranquillité future. Mandez-moi combien de temps vous passerez à Gênes, et à quelle époque Mgr L. 1 en partira. Je vous prie aussi de lui faire agréer mon tendre respect. Il est bien essentiel de lui faire sentir la llèces- -sité d'une décision finale, que toute la France attend. Jamais les circonstances ne furent plus favorables. On s'étonne du silence de R.2, et personne ne peut savoir ce que deviendrait cet étonnement, s'il se prolongeait. Il y a des moments qu'il faut saisir, et qui ne se représentent pas. Une autre chose qu'il n'est pas moins important de concevoir, et qui tient à l'état des esprits et de la société, c'est que si l'on parle, on doit parler très-franchement et très-fortement.</p>
+        <p>' Mpr Lambruscliini, selon toute apparence.</p>
+        <p>* Initiale transparente. C est de Rome qu il est question.</p>
+        <p>La moindre hésitation, le moindre ambage réduirait presque à rien l effet du jugement prononcé. Le courage de la vérité et de l 'autorité, la confiance dans leur force, est aujourd'hui la politique la plus sûre et la seule vraie prudence. Paraître craindre, c est être vaincu. Voilà ce qu'on ne se persuadera jamais assez. De plus, si l'on ne va pas droit au fait, on continuera de disputer éternellement. Les distinctions, les subtilités perpétueront la querelle, et finiront par jeter du ridicule sur le 0 fonds même de la doctrine. Je voudrais que ce fût la Déclaration même 1, dans sa forme et teneur, qu'on jugeât. Veuillez communiquer, en les commentant, ces réflexions à Mgr L. Dieu veuille qu'on ne se laisse pas gagner par le temps !</p>
+        <p>Quant aux J 2, je les respecte tous individuellement, cl personne plus que moi ne rend justice à leurs vertus particulières. L opinion que j 'ai du Corps est indépendante du plus ou moins d esprit et de talent de ses membres. Elle repose sur la pensée même qui a présidé à son institution, et sur les conséquences nécessaires qui en résultent. La Constitution de l'Ordre me parait essentiellement vicieuse, et l'Ordre même plus nuisible qu'utile à la Religion, toute compensation faite entre le bien et le mal. Il y a là quelque chose contre nature, et d'opposé au véritable esprit du christianisme. Au reste, mon cher ami, nous en causerons.</p>
+        <p>L 'abbé G. vous offre sa reconnaissance et ses hommages. Il est nécessaire qu 'il reste ici, pour quelque chose d'essentiel, dont je ne puis vous entretenir par lettres, et qui exigera aussi ma présence un peu plus lard. Adieu, cher ami, parlez-moi de votre santé, de celle de Mme de S. et de la comtesse Louise. Vous savez tous avec quelle tendresse je vous suis et vous serai toujours dévoué. ,</p>
+        <p>- Les Jésuites.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
