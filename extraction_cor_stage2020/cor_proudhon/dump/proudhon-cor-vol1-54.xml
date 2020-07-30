@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-03-21" resp="author">21 mars 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-03-21"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>21 mars 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, je vous serais obligé de ne tirer sur moi que pour la somme de 180
+          francs, n'étant pas encore sûr d'être payé de Parent-Desbarres, et comptant d'ailleurs
+          avoir une occasion de vous faire parvenir l'argent qu'il me donnera. J'ai obtenu de lui
+          qu'il me paierait les quarante-cinq Bergier (20/24 et 22/21) à raison de 1 fr. 50 net, le
+          tout en un seul règlement, lui disant que j'abandonnais à ce prix le salaire de mes
+          articles sur l'Encyclopédie. Il n'a pu s'empêcher de montrer de la joie de cette
+          proposition. C'est 200 francs qu'il gagne d'un coup, et dont je lui décharge la
+          conscience. Que voulez-vous que je fasse ? Je ne suis pas le seul à qui il doive, et de
+          bien plus fortes sommes ; il a mille intrigues pour esquiver le paiement; il m'a offert
+          des livres dont je no donnerais pas 10 écus; encore n'a-t-il fait que me les offrir. De
+          tout cela j'ai conclu que mieux vaudrait prendre ce qu'il nous doit que de conserver
+          éternellement deux mauvaises créances, et j'ai fait le beau marché que vous voyez. Je
+          compte qu'il me donnera un petit bon ou de l'argent comptant; vous recevrez le tout dès
+          que je l'aurai.</p>
+        <p>Je suis très-ennuyé, très-dégoûté : j'ai mille raisons de haïr l'imprimerie, mais j'en ai
+          de plus fortes encore de m'y réfugier, si je peux, contre l'incertitude et le néant de la
+          littérature.</p>
+        <p>N'oubliez pas, à l'occasion, de parler de Bergier à Baille et à Turbergue.
+          Parent-Desbarres en vend, peu il est vrai, mais toujours quelques-uns. — Une veine
+          pourrait venir qui en ferait écouler un bon nombre ; car on me dit toujours que ceux qui
+          en achètent en sont contents.</p>
+        <closer>
+          <salute>Je vous souhaite le bonjour.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

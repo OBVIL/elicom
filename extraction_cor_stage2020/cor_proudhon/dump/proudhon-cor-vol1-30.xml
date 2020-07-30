@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-05-12" resp="author">12 mai 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-05-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>12 mai 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, j'ai vu hier M. Marquiset ; quand il m'a parlé de ses affaires, je
+          lui ai conté les miennes, et lui ai offert une imprimerie. Il est résolu à vendre, quoi
+          qu'il en coûte. Il va placer Dantiné, et il écrit encore à Besançon pour que personne ne
+          conserve d'espérance sur lui. Les ateliers sont déserts. A Paris, la crise dure toujours.
+          On commence à maudire les coalisés, on s'aperçoit que hommes et systèmes ne valent pas
+          mieux que ceux du passé. Les ex-passés-ministres sont fort peu de chose, et les ex-futurs
+          ministres ne sont pas davantage, voilà ce qu'on dit dans le monde. Aussi Paris est
+          tranquille, parce que personne n'y est séduit, et que l'illusion d'optique qui arrive dans
+          l'éloignement des objets n'y a pas lieu, tandis que dans les provinces on est fort effrayé
+          et qu'on nous croit sur un volcan. Jamais une telle impuissance et une si grande
+          immoralité ne se sont vues. Tout le monde en est dégoûté. C'est le temps de Louis XV.</p>
+        <p>Louis-Philippe seul ne perd pas la tête, mais, quoiqu'on ne lui reproche aucun vice, il
+          n'en est pas moins un homme immoral. Peu lui importe la vertu ou le vice, pourvu que les
+          volontés lui cèdent. C'est un être qui fait abstraction de tout, hormis de son pouvoir. La
+          France lui doit peu de reconnaissance, car il ne travaille que pour lui; mais enfin, il
+          résulte de sa ténacité et de son adresse, que nous ne sommes pas encore en pleine
+          dissolution.</p>
+        <closer>
+          <salute>Je vous souhaite le bonjour.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-04" resp="author">Avril 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Avril 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher et ancien collègue, je n'ai pu acquitter votre facture de MM. Analin et Cie,
+          parce que j'avais disposé déjà des 83 fr. la cent, de MM. Gaume, et qu'il ne me restait
+          pas assez d'argent pour faire la somme. Bien que je travaille depuis quelque temps, je
+          n'ai pas encore touché un sou. Cependant, j'ai tout lieu de croire que mes diverses
+          occupations suffiront toujours à mes besoins personnels, en sorte qu'il n'y aura pas lieu
+          pour moi à prendre rien sur ma pension. Par là, l'acquittement des intérêts que je dois
+          pour cette année et l'autre, ainsi que le versement de mon premier terme, sont assurés.
+          J'ai donc encore deux ans pour aviser à sortir de mes embarras. M. Droz, qui a fini par
+          savoir que je travaillais pour des imprimeurs et des libraires, et qui avait commencé à
+          m'en faire des reproches, m'a pleinement loué quand il a connu tous les faits. Vous savez,
+          par la lettre que doit vous remettre mon parent M. Proudhon, que mon deuxième semestre
+          restera à Besançon entre ses mains pour payer où je dois. C'est ce que j'ai fait connaître
+          à</p>
+        <p>M. Droz. En somme, et après de longs détails sur mes affaires, je lui ai dit que je
+          devais 10.000 francs, c'està-dire 500 francs d'intérêts par an. Il a répondu que ce
+          n'était pas un mal sans remède, et qu'il n'y avait pas de quoi se décourager. Je suis
+          vraiment joyeux qu'il envisage la chose sous ce point : le remède sera peut-être plus tôt
+          trouvé.</p>
+        <p>Depuis que Vieux a quitté Paris, je n'ai pas de ses nouvelles ; on vient de me demander
+          le second Bergier qu'il a vendu. Vous ignorez peut-être qu'il n'en existe plus nulle part,
+          ni dans le magasin ni ailleurs ; il serait donc à propos d'en faire brocher au moins deux
+          cents, sur lesquels vous m'enverriez quelques douzaines.</p>
+        <p>Lorsque j'ai conté à Vieux notre tirage particulier du Solilogisme, il en a paru blessé,
+          ce que j'attribue moins à la délicatesse de sa conscience qu'au dépit de n'y avoir pas
+          pensé pour lui-même. Toutefois, il serait, pour le moment actuel, peu disposé à faire
+          précéder les intérêts du curé de Brezolles par les nôtres ; car ce curé manque d'argent,
+          et Vieux aussi. Ne comptez donc pas de sitôt sur la coopération, et lâchez plutôt de faire
+          quelque chose avec le curé de Riez, ou tout autre.</p>
+        <p>Je pensais que la demi-feuille dont vous me parlez était composée et tirée ; peut-être
+          que ma mémoire me sert mal ; vérifiez, s'il vous plaît, les livres d'impression et de
+          banque. Du reste, agissez comme il vous plaira.</p>
+        <p>J'avais cru devoir donner à Mme L*** quelques avertissements généraux sur ce que vous
+          m'aviez dit : il me paraît que mes avis l'ont blessée, car, ni par vous, ni par aucune
+          autre voie, je n'ai reçu de lettre de sa part depuis plus de deux mois. Ce serait sottise
+          à elle de prendre si mal des avis dictés par le seul intérêt qu'on lui porte. Elle est
+          libre, au surplus, de choisir entre mes conseils et des suggestions étrangères ; mais
+          jamais je ne souffrirai entre elle et moi de sujets de tracasseries et de cancans. Qu'elle
+          en prenne son parti. Le jour où je recevrai sur son compte d'autres rapports que les
+          vôtres, ou ceux de gens dont la bienveillance pour elle ne peut être douteuse, je mettrai
+          entre elle et moi un intervalle que la clameur publique ne franchira pas.</p>
+        <p>Je ne vois plus MM. L***.</p>
+        <p>J'ai 'été tout malade ces derniers temps, du froid, de l'humidité, de mon dégoûtant
+          régime, de l'excès du travail et de la crise ministérielle.</p>
+        <p>Adressez vos lettres, s'il vous plaît, à M. Proudhon, non pas homme de lettres, mais
+          imprimeur ou étudiant.</p>
+        <p>J'attendais une occasion pour vous écrire ; elle ne partira pas avant quinze jours, et il
+          est assez urgent que vous fassiez commencer le brochage des deux cents Bergier.</p>
+        <p>Je vous saurais gré d'avertir Huguenet des choses que vous pouvez découvrir sur Perrenot
+          et autres : il y est autant intéressé que moi.</p>
+        <closer>
+          <salute>Je vous salue de tout mon coeur.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

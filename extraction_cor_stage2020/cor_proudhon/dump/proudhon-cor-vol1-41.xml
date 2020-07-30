@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-10-15" resp="author">15 octobre 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-10-15"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon</placeName>
+            <date>15 octobre 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, votre brusque résolution me surprend; mais elle ne m'effraie pas.
+          Elle m'afflige par la pensée qu'un Français honnête, laborieux, instruit, ne peut trouver
+          à vivre dans sa patrie et qu'il lui faut aller chercher fortune à Berlin. Dans les
+          conseils et les encouragements des honnêtes gens que vous avez consultés, j'entrevois plus
+          de paresse à aider que de véritable prudence à conseiller. Vous n'avez que vous seul, cela
+          est bien évident, bien avoué; souvenez-vous donc de ce que c'est que la philanthropie
+          moderne, mais n'en devenez point trop Alceste. Je suis comme vous ; je n'attends rien de
+          personne, je rentrerai dans ma boutique l'année prochaine, armé contre la civilisation
+          jusqu'aux dents, et je vais commencer dès maintenant une guerre qui ne finira qu'avec ma
+          vie. Je serai à Paris avant votre . départ, comptez-y bien; j'aurais voulu pouvoir
+          remettre au porteur de la présente les 20 francs que je vous dois, mais le trésorier de
+          l'Académie m'a renvoyé à samedi prochain : point de Suisse, point d'argent.</p>
+        <p>Crainte de malheur: je vous expédierai cette petite somme la semaine prochaine par
+          l'intermédiaire de Dessirier.</p>
+        <p>J'accepte l'usufruit et le gardiennage de vos livres si vous ne trouvez pas à les vendre;
+          je suppose, au surplus, que vous ne partez pas pour un exil perpétuel.</p>
+        <p>Je viens de me remettre au travail; mon Mémoire va s'imprimer: dans huit ou dix jours,
+          vous en recevrez les épreuves que je vous prie encore de ne point garder trop longtemps.
+          Vos remarques portant principalement sur le style et le goût me seront très-précieuses ;
+          vous savez quelle importance j'attache à la forme littéraire. Quant au fond des choses,
+          plus j'y pense, plus je m'en applaudis. L'escarmouche sera vive et directe : aussi, ce
+          premier pas une fois fait, il n'y aura plus à revenir et je suis engagé pour jamais. C'est
+          ce que je veux.</p>
+        <p>Je vais faire, avant mon départ, un article sur Fallot, sur l'ouvrage de M. Pérennès, et
+          sur celui de Bergier, qui dort dans mon magasin. J'ai mis de côté ma réponse à M. Nodier,
+          que l'on n'a pas voulu insérer. J'ai été voir enfin l'abbé Dartois, qui est très-content
+          de Fallot, dans lequel il a trouvé, dit-il, la confirmation de toutes ses idées et
+          plusieurs choses qu'il ignorait; nous avons parlé de la dispute avec M. Nodier, qui parait
+          à l'abbé Dartois fort ignorant et trop bel esprit..</p>
+        <p>J'ai fait part à Messieurs de l'Académie de votre résolution; tout ce qu'ils ont dit à
+          cet égard consiste en quelques hélas ! sur la difficulté pour un jeune homme de se placer
+          aujourd'hui. On me conseille de rester imprimeur.</p>
+        <p>Je n'ai point encore écrit à Bergmann; j'espère que vous passerez par Strasbourg afin de
+          le revoir ; c'est un homme avec qui je voudrais vivre et mourir. Je ne lui sais pas d'égal
+          ni à Paris, ni ailleurs. Philosophe et philologue, il réunit à un plus haut degré que
+          personne aujourd'hui les deux facultés les plus précieuses de l'esprit humain. Fallot
+          pouvait être tout cela et, de plus, érudit et bibliographe; une tète si vaste ne pouvait
+          subsister. Bornons-nous donc à bien tracer notre sillon et ne cherchons point à égaler
+          notre intelligence à l'infini de la science.</p>
+        <p>Quand vous serez en Allemagne, faites une comparaison des idiotismes, de la syntaxe et
+          des formes du français et de l'allemand; cette comparaison n'existe pas, car on ne s'en
+          est jamais occupé, je crois, pour aucune langue ; les philologues se contentent trop
+          aisément des généralités. Mais pour être bien faite, celte comparaison doit aller au fond
+          des choses et s'éclairer d'une haute critique et d'une bonne philosophie; ce sera de
+          l'histoire naturelle, comme dit Bergmann.</p>
+        <p>Je m'arrête pour cette fois, n'ayant rien à vous dire et las de vous prêcher; j'espère
+          seulement que nous aurons encore quatre ou cinq jours l'un pour l'autre, après quoi notre
+          correspondance nous consolera et pourra quelque jour intéresser le public.</p>
+        <closer>
+          <salute>Je vous souhaite le bonjour et vous embrasse,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

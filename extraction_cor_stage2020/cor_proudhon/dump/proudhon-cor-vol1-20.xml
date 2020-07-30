@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-02-23" resp="author">23 février 1839</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-02-23">23 février 1839</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris, </placeName>
+            <date>23 février 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, je viens de recevoir une seconde lettre de M. Micaud, dans laquelle il
+          me donne de nouveaux détails sur l'affaire du pamphlet.</p>
+        <p>Chacun admire votre zèle, loue votre probité, et rend justice à la loyauté de vos
+          intentions; mais on persiste à dire qu'il y a eu imprudence de votre part, et que votre
+          négligence à remplir les formalités de la loi n'a pas d'excuses. Je n'ignore pas que pour
+          le commun des impressions, on ne se presse pas toujours pour se mettre en règle ; une
+          paire d'heures, un livre de prières, un cantique de mission est souvent chez le libraire
+          avant d'être envoyé à la préfecture ; mais vous sentez qu'en fait de politique, il ne faut
+          pas offrir la moindre prise au pouvoir et à la police.</p>
+        <p>Vous voyez, par ce qui arrive à l'auteur, que la chose est plus considérable que vous ne
+          l'auriez cru d'abord. — Vous avez fait une étourderie, convenez-en de bonne foi; et, de ma
+          part, je ne vous en veux pas, j'eusse peut-être fait pis.</p>
+        <p>Mais envoyez-moi donc ce diabolique et satanique pamphlet et donnez-moi des détails que
+          je puisse croire vrais et sans exagération; puis nous n'en parlerons plus.</p>
+        <p>Je vais écrire à M. le préfet; en vous excusant auprès de lui, je serai obligé d'accuser
+          un peu plus vos lumières que votre caractère. Voilà à quoi je suis réduit, faute d'être
+          suffisamment instruit par vous. Ainsi, ne vous en prenez qu'à vous-même de la témérité du
+          jugement que je porterai peut-être sur votre conduite dans cette occasion.</p>
+        <p>Je vais entrer en rapport avec M. Parent-Desbarres pour lui lire des épreuves, et lui
+          rédiger des articles pour sa grande publication de l'Encyclopédie catholique. Si nous
+          parvenons à nous entendre, que mon travail lui agrée, et qu'il fasse cas de mes services,
+          la planche sera faite; nous pourrons espérer de travailler pour lui.</p>
+        <p>Si, comme je vous l'ai déjà annoncé, le projet de dépôt de librairie confié à M. Vieux, à
+          Besançon, se réalise (et rien ne peut l'empêcher de se réaliser), nous verrons nos
+          relations s'étendre et s'agrandir de plus en plus, rien ne procurant plus facilement des
+          labeurs à un atelier, comme des relations de librairie.</p>
+        <p>De mon côté, je fais amas et provision de science; au lieu d'un journal, chose dont le
+          succès serait douteux au pays, et qui d'ailleurs serait sujette à bien des tracasseries,
+          je chercherai, de concert avec mes amis, à fonder une Revue de Franche-Comté. Une
+          publication toute littéraire ne peut manquer d'être bien accueillie, et, n'ayant rien à
+          démêler avec le gouvernement, en serait favorisée.</p>
+        <p>Allons, tâchez de mettre fin à vos embarras; dites moi ce que je dois faire, à qui
+          m'adresser, s'il y a des recommandations à prendre, etc.. etc. Micaud me marque qu'on
+          m'accuse d'être républicain, et qu'il n'est pas surprenant qu'une brochure comme celle-là
+          soit sortie de mes presses. M. Tourangin recevra ma profession de foi à cet égard; elle
+          sera franche et sincère, je vous en réponds ; mais la honte en retombera sur les sots et
+          épais bourgeois qui n'aiment la monarchie que parce qu'ils s'en veulent faire une servante
+          trèshumble et un instrument de domination et d'oppression.</p>
+        <p>Je vous souhaite le bonjour, et au père Coco.</p>
+        <p>Vous avez dû, ces jours-ci, être furieusement crucifié par les donneurs d'avis et les
+          conseillers obséquieux.</p>
+        <p>C'est de quoi je vous plains encore plus que de toutes vos frayeurs.</p>
+        <closer>
+          <salute>Adieu<lb/> Tout à vous,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

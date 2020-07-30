@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="183." resp="author or editor">183.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Muiron, Just (1787-1881)">Just Muiron</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="183."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>183.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Muiron, je suis vraiment honteux de n'aller vous voir que lorsque j'ai besoin de
+          vous, d'autant plus que je sens encore le reproche assez piquant que vous m'avez fait de
+          mon manque d'exactitude. Il semble que vous ne m'ayez pas encore jugé. Cependant, vous ne
+          devriez pas avoir de peine à comprendre que je suis si nouveau dans la société et la
+          civilisation, que je ne connais encore du monde que les maisons et les rues. Oui,
+          j'éprouve encore cette sotte honte d'un berger que l'on veut faire entrer dans un salon.
+          Je crains, comme des bêtes effrayantes, les visages que je n'ai jamais vus, je recule
+          toujours à voir les gens même qui peuvent m'être utiles et me vouloir du bien ; je n'ai de
+          présence d'esprit et d'aplomb que lorsque je me vois seul et que c'est ma plume qui parle.
+          Mérite fort commun, mais que voulez-vous?, je sais que je ne brille ni par les dehors, ni
+          par l'élocution; j'aime mieux n'être vu ni connu de personne.</p>
+        <p>Je me fais un plaisir de vous dire que l'on me mitonne un article dans le National pour
+          je ne sais quand.</p>
+        <p>Je sais déjà que le fort de la discussion roulera sur ces singulières conséquences que je
+          me suis avisé de prétendre, que l'on déduirait un jour et d'une manière démonstrative, de
+          la comparaison des langues, savoir : l'époque à laquelle le genre humain a dû commencer à
+          parler, par conséquent l'âge de l'humanité, l'unité des races humaines, et le lieu où fut
+          placé le berceau du genre humain. Il est vrai que personne, avant moi, ne s'avisa jamais
+          d'idées aussi extraordinaires, je puis le dire; mais j'espère, quand la bataille se
+          donnera, réduire les incrédules au silence. Il y a des gens qui n'admettraient pas les
+          vérités mathématiques, s'ils croyaient qu'elles pussent donner raison à quelque partie des
+          traditions sociales universelles ou de la Genèse de Moïse. Je sais que cette philosophie
+          mesquine n'est pas la vôtre, et je crois que le temps est bien venu où la raison ne doit
+          reculer devant la conséquence d'aucun principe certain et bien constaté. Que penserait-on
+          de moi, si j'allais émettre sans commentaire cette proposition : L'étude du langage
+          établira un jour que tous les articles du Code de la loi naturelle se réduisent à SEPT,
+          qui sont comme les sept sens ou facultés de la nature morale ; qu'il n'y en a ni plus ni
+          moins, qu'il est impossible d'en imaginer davantage, et que cette loi de la nature
+          consistant en sept articles, organisés entre eux comme la flûte de Pau aux sept tuyaux,
+          n'a jamais pu être découverte par l'homme, mais qu'elle lui a été enseignée par une
+          révélation immédiate! Que dirait-on, si je soutenais qu'un jour l'étude du langage et de
+          la physiologie nous rapprochera tellement de Dieu, que nous croirons le voir et le
+          toucher? Les matérialistes qui nient tout ce qui n'est pas rapport, machine, équilibre de
+          fluide ou de poids. les prêtres, qui croient avoir seuls la science de Dieu et de l'homme,
+          tous ces gens-là et bien d'autres crieront à la folie et au scandale.</p>
+        <p>Ou je suis fou, complètement fou, ou je vois certainement des choses dont la conséquence
+          nécessaire, immédiate, infaillible, sera le changement de la société,</p>
+        <p>Qui donnerait à l'axe terrestre 10 degrés d'inclinaison de plus, changerait toute
+          l'économie des saisons et des climats.</p>
+        <p>Je ne m'aventurerais pas à vous en dire tant, M. Muiron, si je n'étais bien sûr que vos
+          croyances particulières comprendront les miennes, et que vos propres découvertes vous
+          feront croire à la possibilité d'en faire encore.</p>
+        <p>Voici le petit service que j'ai à vous demander : Je désire connaître l'arrêté de M. le
+          préfet concernant la réparation, l'entretien ou l'ouverture des chemins vicinaux. Quels
+          sont ceux que l'on doit faire ou seulement réparer dans la commune de Cordiron, paroisse
+          de Bourgille-lès-Marnay, canton d'Audeux?</p>
+        <closer>
+          <salute>L'un de vos fidèles,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-02-18" resp="author">18 février 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-02-18"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>18 février 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, on m'annonce, par une lettre que j'ai reçue vendredi dernier 17
+          courant, que vous avez imprimé un méchant pamphlet républicain et que la justice s'en
+          mêle. On me dit en même temps que j'en serai incessamment informé par vous. J'attends
+          encore des nouvelles officielles. La personne qui me donne ce fâcheux renseignement a eu
+          soin de ne me rien dire de la seule chose qui m'importe dans tout cela, à savoir si les
+          formalités ont été remplies pour l'impression, si vous n'êtes pas coupable de
+          clandestinité.</p>
+        <p>J'avoue que je concevrais difficilement une telle imprudence. Cependant, il me tarde de
+          savoir quelque chose de plus précis.</p>
+        <p>En attendant, voici, sauf meilleur avis, la conduite que vous devez tenir si vous êtes
+          appelé en jugement.</p>
+        <p>S'il y a eu clandestinité, vous devez nier ; si le fait est trop bien prouvé, aucune
+          considération humaine ne peut nous préserver de l'amende et de tout ce qui s'ensuit. En ce
+          cas, vous rejetterez toute espèce de responsabilité; déchargez-vous de tout sur moi, dites
+          que vous avez agi par mes ordres. Il faut d'abor ,vous mettre à l'abri ; nous verrons
+          ensuite pour moi, car je ne puis risquer grand'chose.</p>
+        <p>Si le pamphlet en question porte le nom de l'imprimerie, c'est une affaire qui tombera
+          d'elle-même ; mais vous rejeterez encore toute la responsabilité sur moi. Vous direz que
+          vous êtes simple prote, que vous recevez toute commande d'impression qu'on vous fait, que
+          vous ne pouvez vous ériger en censeur des ouvrages d'autrui, etc., etc., que d'ailleurs
+          c'est à votre patron à se défendre et faire valoir ses excuses.</p>
+        <p>Quand une fois vous serez hors de cause, je rejeterai à mon tour toute la faute sur vous,
+          ce qui ne sera pas difficile à faire comprendre, vous le sentez de reste.</p>
+        <p>Dans tous les cas, vous devez rester en dehors de toute poursuite, je vous le répète.</p>
+        <p>Le seul reproche que j'aie à vous faire, en attendant que je puisse juger de la chose par
+          mes yeux, ce serait d'avoir compromis la concession de mon brevet que je n'ai pas encore
+          reçu du ministre, et de m'avoir mis dans la nécessité d'écrire une lettre d'excuses à M.
+          Tourangin, auquel on m'annonce que la brochure a été attribuée.</p>
+        <p>Je présume que ce dégoûtant pamphlet, comme on le qualifie, n'est pas même au niveau de
+          ce que je lis tous les jours et qu'on imprime sans risque à Paris dans les journaux ; mais
+          il n'en faut pas tant pour faire clabauder et dresser les cheveux sur la tète de certaines
+          gens.</p>
+        <p>Envoyez-moi au plus tôt cette terrible pièce, et, en attendant, mettez-moi sans crainte
+          en avant et couvrezvous de mon corps. Il faut procéder avec ordre : 1° vous mettre hors de
+          toute responsabilité; 2° m'en tirer après. Je souhaite que vous n'ayez pas suivi une autre
+          ligne de conduite, et que votre bon ange vous ait assez bien avisé pour faire tète à
+          l'orage.</p>
+        <p>Ma dernière recommandation, c'est en pareil cas de ne jamais vous laisser prévenir une
+          autre fois par personne auprès de moi. J'aime la franchise en toutes choses.</p>
+        <p>M. Vieux est ici depuis huit jours : nous avons formé plusieurs projets qui peuvent un
+          jour nous remettre à flot et nous rendre vos services et votre zèle très-précieux. Je lui
+          ai fait part de votre mésaventure , et quoique nous ne sachions pas encore ce qu'il
+          pourrait nous eu coûter, nous avons fini par en rire, et de bon coeur.</p>
+        <closer>
+          <salute>Mes très-humbles respects à mon parent Proudhon.<lb/> Hâtez-vous de m'écrire. si
+            vous ne l'avez déjà fait au reçu de la présente.<lb/> Tout à vous,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. La lettre que M. Pérennès jeune avait déposée pour moi à l'imprimerie ne m'est
+            toujours pas parvenue. Je veux que toutes celles que vous recevrez pour moi, ou que je
+            pourrais vous adresser pour d'autres personnes, soient brûlées sans être ouvertes si
+            vous ne pouvez les faire parvenir à leur destination. </p>
+          <p>M. Pérennès me priait de lui chercher un emploi de correcteur ; je lui ai déjà répondu.
+            Si vous avez occasion de le voir, répétez-lui que la misère est grande à Paris pour les
+            imprimeurs. Everat vient de renvoyer quatre correcteurs, C*** s'est sauvé à Bruxelles;
+            un autre libraire en a fait autant ; Lefevre ne fait plus travailler ; MM. Didot ne font
+            presque rien à Paris, ils ont une maison à Dreux pleine de compositrices. </p>
+          <p>Quand M. Vieux voyagera dans le midi, vous lui donnerez ce qu'il faudra pour placer des
+            impressions militaires. M. Parent-Desbarres lui propose de tenir à Besançon un magasin
+            de librairie en son nom ; ce serait un dépôt pour les provinces de l'Est, la Suisse, la
+            Savoie, le Midi. La chose sera différée encore quelque temps, mais elle pourrait donner
+            lieu à une heureuse combinaison pour notre atelier. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

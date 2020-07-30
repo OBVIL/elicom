@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1837-05-31" resp="author">31 mai 1837.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Messieurs de l'Académie de Besançon">Messieurs de l'Académie de
+            Besançon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1837-05-31"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon</placeName>
+            <date>31 mai 1837.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Messieurs, je suis compositeur et correcteur d'imprimerie, fils d'un pauvre artisan qui,
+          père de trois garçons, ne put jamais faire les frais de trois apprentissages. J'ai connu
+          de bonne heure le mal et la peine ; ma jeunesse, pour me servir d'une expression toute
+          populaire, a été passée à plus d'une étamine. Ainsi luttèrent avec la fortune Suard,
+          Marmontel, une foule de littérateurs et de savants. Puissiez-vous, Messieurs, à la lecture
+          de ce Mémoire, concevoir la pensée qu'entre tant d'hommes fameux par les dons de
+          l'intelligence, et celui qui en ce moment sollicite vos suffrages, la communauté du
+          malheur n'est peut-être pas l'unique point de ressemblance.</p>
+        <p>Destiné d'abord à une profession mécanique; je fus, par les conseils d'un ami de mon
+          père, placé comme élève externe gratuit au collège de Besançon. Mais qu'était-ce que la
+          remise de 120 francs pour une famille où le vivre et le vêtir était toujours un problème?
+          Je manquais habituellement des livres les plus nécessaires; je fis toutes mes études de
+          latinité sans un dictionnaire; après avoir traduit en latin tout ce que me fournissait ma
+          mémoire, je laissais en blanc les mots qui m'étaient inconnus, et, à la porte du collège,
+          je remplissais les places vides. J'ai subi cent punitions pour avoir oublié mes livres :
+          c'était que je n'en avais point. Tous mes jours de congé étaient remplis par le travail
+          des champs ou de la maison, afin d'épargner une journée de manoeuvre; aux vacances,
+          j'allais moimême aux bois chercher la provision de cercles qui devait alimenter la
+          boutique de mon père, tonnelier de profession. Quelles études ai-je pu faire avec une
+          senblable méthode? Quels minces succès j'ai dû obtenir !</p>
+        <p>A la fin de ma quatrième, j'eus pour prix la Démonstration de l'existence de Dieu de
+          Fénelon. Ce livre me sembla tout à coup avoir ouvert mon intelligence et illuminé ma
+          pensée. J'avais entendu parler de matérialistes et d'athées : il me tardait d'apprendre
+          comment l'on s'y prenait pour nier Dieu.</p>
+        <p>Je l'avouerai cependant : la philosophie de Descartes, ornée de l'éloquence de Fénelon,
+          ne me satisfit pas entièrement. Je sentais Dieu, j'en avais l'âme pénétrée; saisi dès
+          l'enfance de cette grande idée, elle débordait en moi et dominait toutes mes facultés. Et
+          dans un livre fait pour prouver l'Être suprême, je ne rencontrais qu'une métaphysique
+          chancelante dont les déductions avaient l'air d'une hypothèse plus commode, mais ne
+          ressemblaient point à une théorie scientifique et certaine. Permettez-moi, Messieurs, de
+          vous en offrir un exemple. L'âme ne peut périr, disent les cartésiens, parce qu'elle est
+          immatérielle et simple. Mais pourquoi, ce qui a une fois commencé d'être, ne pourrait-il
+          cesser d'exister? Quoi donc ! l'âme, dans sa durée, serait, d'une part, infinie et
+          éternelle, de l'autre bornée? Cela est inconcevable. — La matière, disent les mêmes
+          philosophes, n'est point l'Être nécessaire, parce qu'elle est évidemment contingente,
+          dépendante et passive. Donc, elle a été créée. Mais comment concevoir la création de la
+          matière par l'esprit plutôt que la production de l'esprit par la matière? L'un est aussi
+          inconcevable que l'autre. Je demeurai donc ce que j'étais; croyant en Dieu et à
+          l'immortalité de l'âme : mais, j'en demande pardon à la philosophie, ce fut bien moins à
+          cause de l'évidence de ses syllogismes que pour la faiblesse des raisons contradictoires.
+          Il me sembla dès lors qu'il fallait suivre une autre route pour constituer la philosophie
+          en une science, et je ne suis pas revenu de cette opinion de mon enfance.</p>
+        <p>Je poursuivis mes humanités à travers les misères de ma famille, et tous les dégoûts dont
+          peut être abreuvé un jeune homme sensible et du plus irritable amourpropre. Outre les
+          maladies et le mauvais état de ses affaires, mon père poursuivait un procès dont la perte
+          devait compléter sa ruine. Le jour même où le jugement devait être prononcé, je devais
+          être couronné d'excellence. Je vins le coeur bien triste à cette solennité où tout
+          semblait me sourire ; pères et mères embrassaient leurs fils lauréats et applaudissaient à
+          leurs triomphes, tandis que ma famille était au tribunal, attendant l'arrêt.</p>
+        <p>Je m'en souviendrai toujours. — M. le recteur ma demanda si je voulais être présenté à
+          quelque parent ou ami pour me voir couronner de sa main.</p>
+        <p>— Je n'ai personne ici, Monsieur le Recteur, lui répondis-je.</p>
+        <p>— Eh bien ! ajouta-t-il, je vous couronnerai et vous embrasserai.</p>
+        <p>Jamais, Messieurs, je ne sentis un plus vif saisissement. Je retrouvai ma famille
+          consternée, ma mère dans les pleurs : notre procès était perdu. Ce soir-là, nous soupâmes
+          tous au pain et à l'eau.</p>
+        <p>Je me traînai jusqu'en rhétorique : ce fut ma dernière année de collège. Force me fut dès
+          lors de pourvoir à ma nourriture et à mon entretien. — « Présentement, me dit mon père, tu
+          dois savoir ton métier; à dix-huit ans, je gagnais du pain, et je n'avais point fait un si
+          long apprentissage. » — Je trouvai qu'il avait raison, et j'entrai dans une
+          imprimerie.</p>
+        <p>J'espérai quelque temps que le métier de correcteur me permettrait de reprendre mes
+          études abandonnées au moment même où elles exigent des efforts plus grands et une activité
+          nouvelle. Les oeuvres des Bossuet, des Bergier, etc., me passèrent sous les yeux ;
+          j'appris les lois du raisonnement et du style avec ces grands maîtres. Bientôt je me crus
+          appelé à devenir un apologiste du christianisme, et je me mis à lire les livres de ses
+          ennemis et de ses défenseurs. Faut-il vous le dire, Messieurs? Dans l'ardente fournaise de
+          la controverse, me passionnant souvent pour des imaginations et n'écoutant que mon sens
+          privé, je vis s'évanouir peu à peu mes chères et précieuses croyances ; je professai
+          successivement toutes les hérésies condamnées par l'Église et relatées dans le
+          dictionnaire de l'abbé Pluquet; je ne me détachais de l'une que pour m'enfoncer dans
+          l'opposée, jusqu'à ce qu'enfin, de lassitude, je m'arrêtai à la dernière et peut-être la
+          plus déraisonnable de toutes : j'étais socinien. Je tombai dans un découragement
+          profond.</p>
+        <p>Cependant les commotions politiques et ma misère privée m'arrachèrent à mes méditations
+          solitaires, et me jetèrent de plus en plus dans le tourbillon de la vie active. Pour
+          vivre, il me fallut quitter ma ville et mon pays, prendre le costume et le bâton du
+          compagnon du tour de France, et chercher, d'imprimerie en imprimerie, quelques lignes à
+          composer, quelques épreuves à lire. Un jour, je vendis mes prix de collège, la seule
+          bibliothèque que j'aie jamais possédée. Ma mère en pleura ; pour moi, il me restait les
+          extraits manuscrits de mes lectures. Ces extraits, qui ne se pouvaient vendre, me
+          suivirent et me consolèrent partout. J'ai parcouru de la sorte une partie de la France,
+          exposé quelquefois à manquer de travail et de pain pour avoir osé dire la vérité en face à
+          un patron qui, pour réponse, me chassait brutalement. Cette année même, employé à Paris
+          comme correcteur, j'ai failli encore une fois être victime de ma fierté provinciale ; et
+          sans l'appui de mes collègues, qui me défendirent contre les injustes préventions d'un
+          chef d'atelier, je me fusse vu peut-être, pressé par la faim, obligé de me mettre au gage
+          de quelque journaliste. Malgré toutes les privations et les misères que j'ai endurées,
+          cette extrémité m'eût paru la plus horrible de toutes.</p>
+        <p>La vie do l'homme n'est jamais tellement souffrante et abandonnée qu'elle ne soit semée
+          de quelques consolations. J'avais rencontré un ami dans un jeune homme que la fortune
+          tourmentait, aussi bien que moi-même, par les contrariétés morales et l'aiguillon de la
+          pauvreté. Il se nommait Gustave Fallot. Au fond d'un atelier, je reçus un jour une lettre,
+          qui m'invitait à tout quitter et à aller joindre mon ami... — « Vous êtes malheureux, me
+          disait-il, et la vie que vous menez ne vous convient pas. Proudhon, nous sommes frères :
+          tant qu'il me restera du pain et une chambre, je partagerai tout avec vous. Venez ici, et
+          nous vaincrons ou nous périrons ensemble. » Il venait alors, Messieurs, de vous adresser
+          lui-même un mémoire et se présentait à vos suffrages comme candidat à la pension Suard.
+          Sans m'en rien dire, il se proposait, s'il obtenait la préférence sur ses amis, de
+          m'abandonner la jouissance de cette pension, se réservant pour lui-même la gloire du titre
+          et l'exploitation des avantages précieux qui y sont attachés. — « Si je suis nommé au mois
+          d'août, me disait-il sans s'expliquer davantage, notre carrière s'ouvrira au mois d'août.
+          » Je volai à son appel, et, ce fut pour le voir, saisi par le choléra, consumer pour moi
+          jusqu'à ses dernières ressources, arriver aux portes de la mort sans qu'il me fût possible
+          de lui continuer mes soins. Le manque d'argent ne nous permettait plus de rester unis; il
+          fallut se séparer, et je l'embrassai pour la dernière fois. Le 25 janvier dernier, je fis
+          une heure de méditation sur sa tombe.</p>
+        <p>Cinquante francs dans ma poche, un sac sur le dos, et mes cahiers de philosophie pour
+          provisions, je me dirigeai vers le midi de la France... Mais, Messieurs, ce serait abuser
+          de votre patience que de venir vous détailler ici, par le menu et dans l'ordre
+          chronologique, tout ce que j'ai souffert dans mon corps et dans mon coeur. Que vous
+          importe, après tout, que j'aie été plus ou moins secoué par la fortune ? Il ne suffit pas,
+          pour mériter votre choix, de n'avoir que de la misère à offrir, et vos suffrages ne
+          cherchent point un aventurier. Cependant, si je ne découvre pas ma calamiteuse existence,
+          qui me recommandera à votre attention ? qui parlera pour moi ? Telle a été jusqu'à ce
+          jour, telle est encore ma vie : habitant les ateliers, témoin des vices et des vertus
+          populaires, mangeant mon pain gagné chaque jour à la sueur de mon front, obligé, avec mes
+          modiques appointements, d'aider ma famille et de contribuer à l'éducation de mes frères ;
+          au milieu de tout cela, méditant, philosophant, recueillant les moindres choses des
+          observations imprévues.</p>
+        <p>Fatigué de la condition précaire et misérable d'ouvrier, je voulus à la fin essayer,
+          conjointement avec un de mes confrères, de réorganiser un petit établissement
+          d'imprimerie. Les minces économies des deux amis furent mises en commun, et toutes les
+          ressources de leurs familles jetées à cette loterie. Le jeu perfide des affaires a trompé
+          notre espoir : ordre, travail, économie, rien n'a servi ; des deux associés, l'un est allé
+          au coin d'un bois mourir d'épuisement et de désespoir, l'autre n'a plus qu'à se repentir
+          d'avoir entamé le dernier morceau de pain de son père.</p>
+        <p>Pardon encore une fois, Messieurs, si, au lieu d'exposer des titres réels à votre
+          bienveillance, je ne vous montre que mon infortune. Inconnu à la plupart d'entre vous,
+          j'ai dû, ce me semble, vous dire ce que j'ai été, ce que je suis. Ce n'est pas, au reste,
+          sans quelque répugnanee que j'ai consenti à vous raconter quelques circonstances de ma
+          vie, et à vous dévoiler l'état habituel de mon esprit et de mon caractère. De telles
+          confidences ne me paraissent bien placées qu'entre égaux et amis. — « Eh bien ! me dit un
+          homme que j'aime et révère, voulez-vous plaire à Messieurs de l'Académie ? parlez-leur
+          comme à des amis. » — Se serait-il trompé, et ma confiance me tournerait-elle à mal?</p>
+        <p>En 1836-1837, une longue maladie m'ayant obligé d'interrompre mon travail d'atelier, je
+          me remis à l'étude. Quelques essais assez heureux de critique et de philosophie sacrée
+          avaient donné un nouvel essor à mes instincts littéraires et déterminé mon penchant aux
+          spéculations philosophiques. Dans les insomnies de la fièvre et les loisirs d'une
+          laborieuse convalescence, je me livrai à des recherches de grammaire qui me parurent assez
+          importantes pour mériter votre examen. Deux exemplaires de mon ouvrage vous furent
+          adressés ; mais les immenses travaux de votre savante compagnie ont seuls jusqu'ici, du
+          moins j'ose le présumer, retardé votre jugement.</p>
+        <p>Si pourtant la faible composition qui vous est soumise pouvait répondre de celle que je
+          prépare ; si l'exposé de mes premiers aperçus garantissait suffisamment la justesse des
+          idées que j'élabore ; si vous désiriez, Messieurs, voir mener à fin des études neuves et
+          fécondes, serait-il permis à celui qui déjà, depuis un an, s'est constitué votre
+          justiciable, de compter un peu plus sur votre indulgente bienveillance que sur les
+          espérances douteuses de son talent et les égards dus à l'extrême modicité de sa fortune
+          ?</p>
+        <p>Chercher à la psychologie de nouvelles régions, à la philosophie de nouvelles voies ;
+          étudier la nature et le mécanisme de l'esprit humain dans la plus apparente et la plus
+          saisissable de ses facultés, la parole ; déterminer, d'après l'origine et les procédés du
+          langage, la source et la filiation des croyances humaines ; appliquer, en un mot, la
+          grammaire à la métaphysique et à la morale, et réaliser une pensée qui tourmente de
+          profonds génies, qui préoccupait Fallot, que poursuit notre Pauthier : telle est,
+          Messieurs, la tâche que je m'imposerais si vous m'accordiez des livres et du temps ; des
+          livres surtout ! Le temps ne me manquera jamais.</p>
+        <p>Après toutes les vicissitudes de mes idées et la longue parturition de mon âme, j'ai dû
+          finir, j'ai fini par me créer un système complet et lié de croyances religieuses et
+          philosophiques, système que je puis réduire à cette simple formule :</p>
+        <p>Il existe, d'origine surhumaine, une philosophie ou religion primitive, altérée dès avant
+          toutes les époques historiques, et dont les cultes des différents peuples ont tous
+          conservé des vestiges authentiques et homologues. La plupart des dogmes chrétiens
+          eux-mêmes ne sont que l'expression sommaire d'autant de propositions démontrables ; et
+          l'on peut, par l'étude comparée des systèmes religieux, par l'examen attentif de la
+          formation des langues, et indépendamment de toute autre révélation, constater la réalité
+          des vérités que la foi catholique impose, vérités inexplicables en elles-mêmes, mais
+          accessibles à l'entendement. De ce principe peut être déduite, par une série de
+          conséquences rigoureuses, une philosophie traditionnelle dont l'ensemble constituera une
+          science exacte.</p>
+        <p>Tel est aujourd'hui, Messieurs, le compendium de ma profession de foi.</p>
+        <p>Né et élevé au sein de la classe ouvrière, lui appartenant encore par le coeur et les
+          affections, et surtout par la communauté des souffrances et des voeux, ma plus grande
+          joie, si je réunissais vos suffrages, serait, n'en doutez pas, Messieurs, de pouvoir
+          désormais travailler sans relâche, par la science et la philosophie, avec toute l'énergie
+          de ma volonté et toutes les puissances de mon esprit, à l'amélioration morale et
+          intellectuelle de ceux que je me plais à nommer mes frères et mes compagnons ; de pouvoir
+          répandre parmi eux les semences d'une doctrine que je regarde comme la loi du monde moral
+          ; et, en attendant le succès de mes efforts dirigés par votre prudence, de me trouver
+          déjà, en quelque sorte, comme leur représentant auprès de vous.</p>
+        <p>Mais, quel que soit votre choix, Messieurs, je m'y soumets d'avance et j'y applaudis; à
+          l'exemple d'un ancien, je me réjouirais que vous eussiez trouvé un plus méritant que moi :
+          Proudhon, accoutumé dès l'enfance à aiguiser son courage contre l'adversité, n'aura jamais
+          l'orgueil de se croire un génie dédaigné et méconnu...</p>
+        <closer>
+          <salute/>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

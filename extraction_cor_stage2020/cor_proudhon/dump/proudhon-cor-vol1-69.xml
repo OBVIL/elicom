@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-01-06" resp="author">6 janvier 1841</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Monsieur le secrétaire perpétuel de l’Académie de Besançon (...-...)"
+            >Monsieur le secrétaire perpétuel de l’Académie de Besançon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-01-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>fi janvier 1841</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le secrétaire perpétuel, votre communication du 27 décembre m'a tout à fait
+          surpris et peiné, et je vous confesse que j'ai quelque temps délibéré en moi-même si j'y
+          répondrais. Ce ne sont plus, en effet, des opinions que l'on me reproche, c'est presque un
+          crime de haute trahison. Mais considérant que votre Académie renferme en son sein des
+          hommes dont l'amitié pour moi, j'en ai la très-grande confiance, ne mourra pas ; que, de
+          plus, cette même Académie a toujours été à mes yeux la tête d'un pays qui m'est plus cher
+          que la vie, j'ai peu à peu surmonté mon chagrin et banni de mon esprit toute pensée de
+          vindication. Je connais le précepte : Turpitudinem patris tui et matris tuoe non
+          revelabis. Je ne l'oublierai qu'à mon honneur défendant.</p>
+        <p>Je serais fâché que qui que ce fût tombât à cause de moi en suspicion ; si donc parmi vos
+          confrères il s'en rencontre qu'un vote selon leur coeur puisse compromettre, dites-leur
+          que je ne veux point de sacrifices, et que je les prie de voter selon leur intérêt.</p>
+        <p>Je concevais pour l'avenir le sérieux projet d'associer l'Académie à toutes les
+          publications que je prépare, et dont l'âge et l'expérience amélioreront l'exécution ; je
+          ne désespérais pas même de voir un jour à ce corps savant les yeux dessillés sur ma
+          Propriété. Aujourd'hui, je reconnais qu'après m'avoir abandonné l'on se prépare à me
+          flétrir, et comme si l'on se souciait réellement de m'amener à un changement d'idées, on
+          me fait passer des ordres et des menaces. A une résolution prise d'avance, je réponds par
+          une inébranlable résolution ; je désobéis aux ordres et je brave les menaces.</p>
+        <p>Pour vous, Monsieur le secrétaire perpétuel, j'ai toujours cru à votre amitié ; j'y crois
+          bien fermement aujourd'hui, je vous le jure, quand je songe que vos étranges idées sur une
+          matière qui n'est point de votre ressort n'ont pas altéré vos sentiments pour moi, et que
+          ce que vous appelez ma faute ne vous arrache que des plaintes et pas un reproche. Vous me
+          rappelez un propos que j'aurais tenu, et vous gémissez que je l'aie sitôt oublié. Il faut
+          méditer, disais-je, dix ans avant d'écrire. Je médite, Monsieur, depuis mon année de
+          troisième en 1825, et j'ai commencé d'écrire en 1840. J'ai triplé les épreuves d'un
+          pythagoricien.</p>
+        <p>Mais que pourrais-je vous dire qui ne vous parût point dicté par un orgueil obstiné, par
+          la folle gloire de me créer des embarras ? J'allais gager que la moitié du siècle ne
+          serait pas écoulée que quelqu'un réclamerait pour la Franche-Comté la priorité de la
+          théorie du droit de possession. C'est un sujet sur lequel nous ne pouvons plus nous
+          entendre.</p>
+        <p>Vous verrez par la lettre ci-jointe comment je sais distinguer d'une société les hommes
+          qui la composent ; je crois devoir ici vous rappeler que je ne sais pas moins bien
+          distinguer entre les hommes eux-mêmes. Cet avertissement, Monsieur le secrétaire
+          perpétuel, vous assure à jamais mon affection.</p>
+        <closer>
+          <salute>Je suis votre dévoué et fidèle</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

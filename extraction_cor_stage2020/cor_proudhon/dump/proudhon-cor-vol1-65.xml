@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date
+            when="1840-09-30"
+            resp="author">30 septembre 1840</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-09-30"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon,</placeName>
+            <date>30 septembre 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, je partirai dimanche, 11 octobre, sans faute, et, quoique à pied, je
+          ferai toute la diligence pour arriver à Paris samedi 17, au plus tard. Tâche donc de
+          prolonger ton séjour du 15 au 20, afin que je puisse te voir. Il ne m'est pas possible de
+          faire mieux.</p>
+        <p>Je reçois à l'instant une lettre d'Ackermann, et je vois, par ce qu'il me mande, qu'il a
+          été, ainsi que moi, fort heureux de trouver en toi une providence. Je t'en adresse de
+          nouveau mes remercîments et mes félicitations. Je profiterai de tes observations, tu peux
+          y compter, quoique je ne promette pas encore d'en user de la manière que tu m'indiques;
+          mais quand un homme doué de raison critique une chose, il lui échappe toujours des
+          pensées, des expressions qui sont des traits de lumière pour un auteur attentif. C'est
+          surtout par là que toutes tes remarques me sont précieuses ; c'est ce qui fait que je
+          voudrais t'entendre. Dessirier me mande que tout est prêt pour une seconde édition ; avant
+          de rien faire, je voudrais donc une conversation avec toi.</p>
+        <p>Pour les inélégances et les brutalités de détail, je ne m'en effraie pas : avant d'être
+          forgeron, il faut qu'un apprenti brûle bien des kilogrammes de fer. Il est des choses dont
+          je ne me corrigeai que par l'habitude du métier; seulement il est malheureux que je débute
+          par des questions si importantes.</p>
+        <p>Je reçois à l'instant la visite d'un phalanstérien de mérite, qui vient, avec la plus
+          aimable politesse, m'annoncer qu'il s'apprête à me donner des coups de crosse. Je lui ai
+          promis en échange des coups de lance, et, après avoir causé, nous nous sommes quittés
+          très-bons amis. Ces gens-là comprennent que le redressement des griefs sociaux exige un
+          simple arbitrage, une expertise, et qu'il n'est besoin pour cela ni de guerre ni de
+          révolution. Je leur souhaiterais moins de dévotion à leur Saint Fourier, moyennant quoi on
+          pourrait s'entendre.</p>
+        <p>Mon imprimerie s'attache à moi, malgré moi, et je songe enfin à l'exploiter sérieusement,
+          faute de pouvoir faire mieux.</p>
+        <p>La question n'est plus désormais pour moi de me faire exclusivement homme de lettres ou
+          savant; il faut que je trouve, au contraire, dans mon industrie des moyens de poursuivre à
+          l'avenir mes études. C'est à quoi je donnerai désormais toute mon attention. Ce but me
+          semble facile à atteindre, si quelque publication de moi, plus heureuse que la précédente,
+          venait cette année me frayer le chemin. Je commence à m'ennuyer de mes querelles
+          politiques. L'amour de la science, d'un côté, me séduit et me commande de passer à autre
+          chose, me faisant croire que j'ai fait assez sur la matière de la Propriété ; de l'autre,
+          le sentiment de l'injustice et l'ardeur du tempérament m'entraînent à une guerre nouvelle,
+          et la question sociale m'offre une si riche matière à traiter, que je ne puis renoncer à
+          ce sujet où je vois l'occasion de déployer toutes les richesses du style et toutes les
+          forces de l'éloquence. La raison pure est ma divinité; mais je voudrais m'essayer encore
+          une fois dans l'art. Tu me conseilleras.</p>
+        <p>Je compte donc te voir ; c'est pour toi que je pars un mois plus tôt que je n'eusse
+          voulu; c'est pour toi que je vais me briser les jambes.</p>
+        <closer>
+          <salute>Adieu, je t'embrasse; salue pour moi mon ami Reclam.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

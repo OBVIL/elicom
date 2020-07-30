@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-11-13" resp="author">13 novembre 1840</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-11-13"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>13 novembre 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, vos critiques sont judicieuses; fout le monde me les a faites, et je
+          ne puis avoir raison contre tout le monde. J'ai d'autant plus tort dans la forme de mon
+          argumentation, que ma dialectique est invincible et que deux éléments omis jusqu'à ce jour
+          par les économistes dans leurs spéculations politiques et industrielles, et rétablis par
+          moi, renversent de fond en comble toute notre jurisprudence et notre police
+          administrative. Je n'ai qu'une excuse : quand un homme, à près de trente-deux ans, est
+          dans un état voisin de l'indigence sans qu'il y ait de sa faute; quand il vient à
+          découvrir tout à coup, par ses méditations, que la cause de tant de crimes et de misères
+          est tout entière dans une erreur de compte, dans une mauvaise comptabilité; quand en même
+          temps il croit remarquer chez les avocats du privilège plus d'impudence et de mauvaise foi
+          que d'incapacité et de bêtise, il est bien difficile que sa bile ne s'allume et que son
+          style ne se ressente des fureurs de son âme. Vous en parlez à votre aise, vous, artiste,
+          pour qui tout ce qui s'écrit ne semble</p>
+        <p>être que matière d'exercice et sujet de rhétorique; tandis que je souffre, que je
+          bouillonne, que je tempête, vous mesurez mes phrases, vous passez à l'étamine quelques
+          expressions un peu dures ; vous vous étonnez de me trouver moins poli qu'un Voltaire, un
+          Hamilton, un Suard, etc. Hé ! laissez un peu vos littérateurs courtisans et millionnaires,
+          et regardez au-dessous de vous; regardez-vous vous-même, et dites-moi si votre propre
+          condition ne m'est pas une suffisante excuse.</p>
+        <p>Quoi qu'il en soit, je vais changer de batterie; désormais, au lieu de tremper mes
+          flèches dans le vinaigre, je les tremperai dans l'huile; la blessure sera moins cuisante,
+          mais plus sûrement mortelle. Le père VVeiss me disait comme vous : « Mon cher ami, vous
+          faites tort à votre cause par votre manière de la défendre ; avezvous oublié le mot de
+          Henri IV : « On prend plus de mouches avec une cuillerée de miel qu'avec cent tonneaux de
+          vinaigre. » Il ne s'agit pas de prendre des mouches, lui dis-je, il s'agit de les tuer.
+          Cette boutade fit rire notre excellent bibliothécaire, qui vaut à lui seul dix fois, son
+          académie. Enfin, cela est dit, je vais me réformer.</p>
+        <p>Je viens, après trois mois, de me relire pour la première fois, et voici ce que j'ai
+          remarqué dans mon ouvrage. Il est beaucoup plus savant que je ne croyais le faire lorsque
+          j'y travaillais; c'est proprement un traité d'algèbre métaphysique, comme il n'en a
+          peut-être pas encore paru. Il y a là une si grande masse d'idées faisant corps et si bien
+          enchaînées, qu'il ne faut pas peu d'attention pour en suivre le fil et en saisir l'unité.
+          Par-ci, par-là, des morceaux assez bien écrits, quelque fois de l'éloquence, en général
+          une grande précision métaphysique et une méthode invulnérable. Je trouve,</p>
+        <p>avec Bergmann, le cinquième chapitre moins travaillé, quoique renfermant plus do faits
+          nouveaux que les autres ; enfin, l'auteur me semble assez fort pour pouvoir se passer
+          désormais de l'ironie, du sarcasme, de l'invective, et, en général, de toute la mitraille
+          déclamatoire.</p>
+        <p>Ma seconde édition n'est pas encore commencée ; nous avons un ministère Soult-Guizot qui
+          fait mine de poursuivre les écrivains, et c'est la peur qui arrête mon libraire. En
+          attendant, je travaille au second volume; ayant moins à faire pour la démonstration, je
+          pourrai donner plus de temps à la forme et au style. Je compte le rendre de tout point
+          plus intéressant que le premier. Il faut absolument culbuter les propriétaires.</p>
+        <p>J'ai déjà fait de précieuses conquêtes, mais en même temps je me suis attiré beaucoup
+          d'ennemis, dont le premier et le plus implacable est M. X***. C'est lui qui m'a dénoncé à
+          l'Académie comme un homme séditieux, ingrat et perfide; c'est lui qui a fait la motion de
+          m'ôter ma pension, et il n'a pas tenu à lui que cet avis ne prévalût. Je me propose de lui
+          adresser le deuxième chapitre de mon prochain Mémoire, chapitre qui traitera de
+          l'influence du principe de propriété sur les moeurs. J'y ferai le portrait du littérateur
+          avide, affamé d'argent, souillé des dons secrets de la corruption ministérielle, et il ne
+          tiendra qu'à mon honoré tuteur de s'y reconnaître. Vous avez sûrement appris que M. X***,
+          lors de la découverte du pot aux roses, s'est trouvé inscrit pour 15,000 francs parmi les
+          gens de lettres que le ministère gratifie de ses secours. Le pauvre homme ! Croiriez-vous
+          qu'en demandant ma spoliation cette vieille femme feignait de pleurer sur mon égarement ?
+          A l'en croire, il m'avait ménagé une belle place ! Oh ! tartufe, menteur, carcasse sans
+          entrailles ! On m'a rapporté que, le voyant pleurer et larmoyer, toute notre Académie
+          s'était mise à larmoyer et pleurer aussi; et quand j'arrivai à Besançon, on ne savait si
+          l'on devait me rendre mon salut. Une nouvelle préface me vengera!... Mais laissons mes
+          petites affaires.</p>
+        <p>Nous sommes dans un pétrin politique dont presque tout le monde s'effraie, et que le
+          National exploite merveilleusement. Grâce à ses soins et à ses déclamations, l'on s'est
+          remis depuis deux mois à chanter la Marseillaise; la population est en défiance, la
+          Chambre sans vigueur, les partis politiques plus aveugles et plus égoïstes que jamais. Les
+          journaux ne discutent plus ; ils s'injurient, se couvrent de boue, s'avilissent. Du reste,
+          pas plus d'intelligence chez eux que de dignité et de bonne foi, Il y a un an, l'on
+          pouvait croire que nous marchions à une réforme; aujourd'hui nous marchons à une
+          révolution. La conduite du parti républicain a été, comme toujours, stupide depuis deux ou
+          trois mois ; et si une réaction formidable ne vient à bout de l'écraser encore une fois,
+          le salut de la France et de la liberté me semble compromis. Je ne vois partout que dangers
+          extrêmes. Le gouvernement est sans générosité, sans nobles sentiments, sans la moindre
+          intelligence; les démocrates n'ont pour eux que leurs frénésies démagogiques et leurs
+          grands mots, le tout accompagné de la soif du pouvoir, de l'or et des jouissances. Jamais
+          nation ne fut tant bavarde et moutonnière que la nôtre. L'arbitraire seul peut sauver le
+          gouvernement; mais que deviendrons-nous s'il triomphe par l'arbitraire? D'un autre côté,
+          s'il est vaincu, une dictature peut-être plus dangereuse encore me semble toute prête, et
+          avec elle une guerre européenne où nous succomberions infailliblement. Avant le combat, la
+          France serait démoralisée. Le National et ses pareils pourraient bien avoir leur large
+          part pour parler ; mais ils n'auraient pas la même puissance pour faire croire et espérer,
+          encore moins pour rallier les intérêts. Je vois clairement que nous approchons d'une crise
+          sociale dont l'issue sera pour l'Europe un mieux universel ; mais il ne m'est pas prouvé
+          que la France n'y périra pas comme puissance de premier ordre. Puis-je donc considérer
+          avec un flegme philosophique l'humiliation de ma patrie ?</p>
+        <p>Point de publications littéraires ; plus de grandeur et d'inspiration chez nos écrivains
+          ; rien que de petites idées, de petites phrases, de la philosophie miniature, un
+          papillottage continuel. Je lis et relis Bossuet, Montesquieu, etc. Je n'en supporte pas
+          d'autres. Lamennais va faire paraître une grande Philosophie en trois volumes in-8°; cela
+          ne vaudra pas mieux que l'Esprit d'Helvétius, ou le Système de la nature de Holbach ; mais
+          il faut au parti un philosophe tel quel et vous pouvez croire que les abstractions
+          robespierristes de Lamennais seront prônées.</p>
+        <p>Trois ou quatre hommes sont à mes yeux les fléaux de la France ; et je souscrirais
+          volontiers pour une couronne civique à celui qui par le fer, le feu ou le poison, nous en
+          délivrerait; ce sont Lamennais, Cormenin et A. Marrast. Ce dernier est rentré au National,
+          et ce journal, sous sa direction, n'a pas tardé à nous ramener l'ancienne Tribune. Je me
+          console en pensant qu'il y a une providence pour les ambitieux, les charlatans et les
+          sots. J'ai fait connaissance avec M. Tissot, qui a remporté deux prix cette année, un à
+          Besançon, l'autre à Châtillon-sur-Marne. M. Tissot court les prix académiques, c'est
+          puéril; M. Tissot publie beaucoup de livres, c'est pauvreté d'idées ; M. Tissot affiche un
+          mépris peu philosophique pour le mérite littéraire, c'est faiblesse intellectuelle ; M.
+          Tissot a abjuré son moi pour se faire l'évangéliste de Kant; c'est monomanie. C'est un
+          digne homme, un noble coeur, une âme pure que M. Tissot, rien ne manque à son éloge ; mais
+          il était dans sa destinée d'être toujours le fanatique de quelqu'un ou de quelque chose.
+          Je lui ai envoyé les thèses de Bergmann, ce qui a dû lui faire un vif plaisir.</p>
+        <p>Je suis maintenant presque sans société, n'allant plus chez M. Droz ; craignant d'aller
+          chez M. Cuvier, de peur d'y rencontrer des habitués de mon ex-tuteur académique; à cent
+          lieues de Bergmann, à quatre cents de vous, veuf de Fallot, dont le souvenir ne me fut
+          jamais plus cuisant; je tombe par moment dans un délaissement inexprimable. Mon imprimerie
+          me reste toujours sur les bras, et je ne puis ni en vivre, ni m'en débarrasser. Plus dénué
+          que jamais, je n'ai d'espoir qu'en l'extrême nécessité où doit me jeter la cessation
+          prochaine de ma pension.</p>
+        <p>Mauvais, mon prédécesseur, est allé dire quelque part, à propos de mon livre : « Il a
+          fait trop de bien pour en dire du mal ; il a fait trop de mal pour en dire du bien. » Et
+          l'on s'est moqué de lui.</p>
+        <p>Reclam est un bon et honnête Allemand; il loge maintenant rue La Harpe, hôtel du
+          Luxembourg.</p>
+        <p>Maguet a payé pour vous 15 ou 30 francs (je ne sais plus lequel) à votre bottier ; Émile
+          Haag et Elmerick ne se sont pas remués le moins du monde ; quand vous serez de retour,
+          vous retrouverez vos créances et vos dettes dans le même état où vous les avez laissées.
+          J'ai blâmé Haag, et j'ai chargé Bergmann de réprimander Elmerick, s'il le voyait. Je n'ai
+          pas encore revu Torzuelo. Dessirier vous fait ses amitiés bien sincères.</p>
+        <p>Mon cher Ackermann, vous allez publier un volume de vers ; c'est fort bien et je vous
+          félicite d'avoir conservé assez de liberté d'esprit pour vous occuper d'hémistiches et de
+          césure; mais j'aurais appris avec plus de plaisir que vous eussiez fait paraître quelque
+          petite traduction, allemande ou française, quelque étude linguistique ou pyschologique, ou
+          tout autre ouvrage plus digne de vous et du temps où nous vivons. Je pense que le nombre
+          de tous vers qui peuvent être faits dans chaque langue est en général assez borné; et,
+          pour la langue française, en particulier, je crois que ce nombre de vers était atteint dès
+          avant Voltaire. C'est une opinion que vous trouverez peut-être singulière; elle vous le
+          paraîtra moins si vous y réfléchissez. De cette masse de mots que renferment nos énormes
+          vocabulaires, il n'y a guère que les termes usuels, les mots classiques qui soient
+          poétiques ; or, pensez-vous que le nombre des combinaisons qui peuvent amener de beaux
+          vers, sur trois ou quatre mille mots, soit fort grand? II. y a là, selon moi, une cause
+          matérielle de décadence pour toute poésie, cause dont nos rimeurs ne s'aperçoivent pas et
+          contre laquelle ils se raidissent d'une manière risible. Non, je n'ai jamais cru qu'une
+          nation ne pouvait produire qu'un Corneille, un Racine, un Molière; mais ce qui fait un
+          Molière et un Corneille ne peut pas servir pour deux. Souvenez-vous que les derniers
+          poètes de la Grèce et de Rome, avec autant de science et de génie peut-être qu'Homère et
+          Virgile, n'étaient plus que des collecteurs de centons ; et pourquoi ? parce que, encore
+          une fois, tout était à peu près fait quand ils parurent.</p>
+        <p>Un beau vers à placer ne mérite pas deux cents vers médiocres d'encadrement. Soignez
+          plutôt votre santé, devenez riche d'allemand, travaillez la grammaire, faites de la
+          psychologie comparée, et revenez nous voir au plus tôt. Je compte que vous me pardonnerez
+          mes remontrances; je reçois vos critiques, je vous dis ce que je pense, mais oubliez-le si
+          je me trompe.</p>
+        <closer>
+          <salute>Votre ami fidèle,</salute>
+          <signed>P.-J. PROUDHON, rue Jacob 16</signed>
+        </closer>
+        <postscript>
+          <p>P. S. Il y a eu cette année un congrès scientifique à Besançon. M. Pérennès a lu en
+            séance solennelle un rapport sur l'état de la littérature et des sciences en
+            Franche-Comté, dans lequel vous avez été mentionné honorablement à côté de Fallot,
+            Dartois et, devinez qui ? Francis Wey. L'Académie s'est mise à faire un journal qui la
+            couvre de ridicule; on y fait mousser les jeunes gens qui sont sages. On a proposé au
+            concours l'éloge de Suard. J'ai annoncé que je m'en occupais; mais, après quinze jours
+            de recherches et de lecture, je m'en suis dégoûté. J'aurais des choses intéressantes à
+            dire, mais je n'aurais pas le talent de les rendre agréables. Que n'êtes-vous ici ! je
+            vous communiquerais mes idées, et je crois que vous feriez une bonne composition.</p>
+          <p>Pauthier ne veut plus être que Chinois; son esprit se promène entre quelques idées
+            tellement exclusives, intolérantes et intéressées; que je ne le comprends plus.</p>
+          <p>L'Académie de Besançon et celle des sciences morales et politiques de Paris ont
+            repoussé l'hommage de mon livre. Toutefois, le rapport très-long qui a été fait par M.
+            Blanqui, et que le Moniteur du 7 septembre a reproduit en partie, m'est tout à fait
+            honorable. On ne peut repousser un ouvrage avec plus d'égards et même d'éloges pour
+            l'auteur. C'est une leçon pour moi. Il a été question dans le conseil des ministres de
+            me saisir ; cependant on n'en a rien fait, grâce probablement à la couleur toute
+            scientifique de mon travail. La Revue du progrès m'a loué; du reste, il n'y a encore eu
+            ni annonce, ni véritable publicité. Comme tant d'autres, j'ai des enthousiastes, et de
+            mortels ennemis, même des jaloux. Les uns me nomment sauveur; les autres veulent qu'on
+            me pende, probablement pour continuer la métaphore.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

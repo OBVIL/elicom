@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838-02-21" resp="author">21 février 1838.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pérennès, François (1811-1867)"
+            ref="https://data.bnf.fr/fr/10482184/francois_perennes/">François Pérennès</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838-02-21"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>21 février 1838.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Pérennès, je viens d'être informé, par l'un des derniers numéros de l'
+          Impartial, que le terme de rigueur auquel doivent être remis en votre secrétariat les
+          pièces et titres des concurrents à la pension Suard est fixé au 1er juin prochain. Si donc
+          vous désirez encore que je me mette sur les rangs, permettez-moi d'abord, Monsieur, de
+          solliciter un premier service de votre bienveillance. Il me faut, pour cette candidature,
+          un diplôme de bachelier ès lettres, et pour obtenir ce diplôme un certificat de
+          philosophie : or, je ne sais à qui demander ce certificat. Vous savez personnellement que
+          j'ai suivi assidûment les cours de M. Assier, que j'ai même étudié, pendant mon année de
+          rhétorique, les auteurs de philosophie; ne pourriez-vous donc, vous, mon ancien et digne
+          professeur, me délivrer ce certificat revêtu de toutes les formalités requises, et, s'il
+          le fallait même, de votre timbre académique? On dit que le premier venu peut accorder ce
+          certificat, j'ai peine à le croire ; mais, quoi qu'il en soit, je préférerais le tenir de
+          vous plutôt que de tout autre. Ce ne serait pas le premier titre que vous auriez à ma
+          reconnaissance ; et j'ose vous en prévenir, M. Pérennès, ce ne serait non plus ni le
+          dernier, ni l'avant-dernier.</p>
+        <p>Ce n'est pas tout : je souhaiterais passionnément, avant d'adresser officiellement ma
+          demande à l'Académie, être encore une fois rassuré et encouragé par vous sur les
+          éventualités de mon élection comme pensionnaire Suard. A l'âge où je me vois arrivé, et
+          dans la position où je me trouve, il me semble que ce voeu n'a rien de trop ambitieux ni
+          d'indiscret. Pour tel autre, s'être mis déjà sur les rangs est presque un succès; pour
+          moi, au contraire, je regarderais le plus bel accessit comme un grand malheur. Cette
+          démarche sera la plus importante que j'aurai encore faite de ma vie, et je la regarde
+          comme décisive de tout mon avenir. Si je succombe, c'est fait de moi ; je n'ai plus à
+          tenter la carrière des sciences ni de la littérature; je ne pourrais plus intéresser à mes
+          études un public instruit de ma mésaventure; je porterais sur le front le signe
+          ineffaçable d'incapacité innée. J'aime mieux cent fois m'abandonner à ma misère que de
+          tenter une bonne fortune que je n'obtiendrais pas.</p>
+        <p>A présent,pour vous intéresser et pour intéresser l'Académie à ma candidature, il est
+          juste, et je le comprends de reste, que vous soyez instruit des garanties que je puis
+          donner de mes travaux à venir, de la nature de mes études et de la carrière que je me
+          propose de parcourir. C'est principalement dans cette vue, Monsieur, que j'ai pris la
+          liberté de vous écrire, et que je vous prie d'excuser la longueur de la première lettre
+          que j'ai l'honneur de vous adresser.</p>
+        <p>Je n'ai nulle envie de suivre un cours de droit. Tout le système de nos lois est fondé
+          sur des principes qui n'ont rien de philosophique, et que repousse la loi ,naturelle tout
+          aussi bien que la loi révélée. C'est du moins mon opinion. Je ne serais pas embarrassé
+          d'en tirer maint exemple, et de l'appuyer de l'autorité de vingt auteurs. Des conventions
+          humaines, basées sur la conquête, l'esclavage, la force, le privilège ou la barbarie,
+          c'est le fond de notre droit. Encore quelques siècles, et il en sera de même de notre
+          jurisprudence que de l'ancienne chimie à l'apparition des Lavoisier, des Priestley et des
+          Davy : il n'en restera rien, absolument rien, si ce n'est quelques ruines éparses qui
+          auront retrouvé leur véritable place dans la vraie justice de Dieu et de la nature.</p>
+        <p>Je ne me soucie pas davantage de faire un cours de médecine. Ce que j'en lis tous les
+          jours suffirait pour m'en dégoûter, par le charlatanisme avec lequel l'ignorance ou
+          l'ineptie se cachent aujourd'hui dans la plus ridicule technologie, quand je ne saurais
+          pas, d'un autre côté, que la partie la plus réellement utile à l'humanité, la
+          thérapeutique, dans ses aphorismes les plus certains, dans ses ressources les plus sûres,
+          n'est encore que de l'empirisme. Qu'est-ce que la fièvre ? Nous n'en savons rien. Pourquoi
+          le quinquina coupe-t-il la fièvre? Nous le savons encore moins. Mon esprit n'aime pas à
+          marcher dans l'obscurité.</p>
+        <p>J.-J. Rousseau dit quelque part : « La philosophie, n'ayant ni fond ni rives, manquant
+          d'idées primitives et de principes élémentaires, n'est qu'une mer d'incertitudes et de
+          doutes dont le métaphysicien ne se tire jamais. » Et il ajoute que c'est par impuissance
+          d'arriver par la raison à la connaissance d'aucun dogme consolateur qu'il s'est rejeté
+          dans la philosophie du sentiment, dans le sein de la religion. Est-il donc vrai que la
+          raison humaine doive désespérer d'elle-même, qu'elle ne puisse jamais obtenir que la foi,
+          mais non l'intelligence, que croire sans comprendre soit son dernier effort?</p>
+        <p>Pour moi, s'il m'est permis de raisonner humainement sur ce que nous appelons révélation,
+          je crois y voir le fond d'une philosophie universelle et toute pratique, dont les dogmes,
+          dans leur expression la plus scientifique, dans leur énoncé le plus simple, ont surnagé à
+          toutes les révolutions sociales, à toutes les corruptions et dégradations de l'humanité ;
+          mais dont la raison, la démonstration, les corollaires et l'enchaînement nous échappent,
+          parce que nous avons perdu les titres de notre naissance, parce que notre extrait de
+          baptême est anéanti, parce que, comme dit Salomon : non est priorum memoria. Je crois
+          fermement que, vivants, nous pouvons acquérir cette pleine intelligence que saint Paul
+          nous a promise comme une des conditions de la béatitude céleste, non pas que nous
+          puissions arriver à connaître et pénétrer parfaitement l'infini, ni rien de ce qui
+          surpasse une nature contingente et bornée; j'entends seulement que cette connaissance, que
+          la foi promet à ses élus dans l'autre vie et qui consiste dans la perception du comment et
+          du pourquoi des vérités religieuses, nous pouvons l'acquérir dans celle-ci. Au nombre de
+          ces dogmes de la religion dont je parle, et que j'appelle, moi, autant de propositions
+          d'une philosophie oubliée, je range l'existence de Dieu, l'immortalité de l'âme, la
+          Trinité, l'origine du mal, la concupiscence, dont parle saint Jacques, et toutes les
+          vérités de morale évangélique, aujourd'hui si fortement attaquées, uniquement parce que
+          nous ne les comprenons pas, et que notre raison seule est insuffisante à les défendre.
+          J'ai osé écrire à la fin de mon petit Traité de grammaire générale : « Puisque les mots
+          sont les signes des idées, l'histoire du langage doit être l'histoire de toute philosophie
+          ; et l'origine du langage, une fois expliquée, doit donner le principe des connaissances
+          humaines. » C'est au développement de cette proposition que seront consacrées les
+          premières études linguistiques et philosophiques auxquelles je pourrai me livrer.— Qu'on
+          imagine une immense plaine où se trouvent pêle-mêle entassés, confondus, des débris de
+          statues et de basreliefs, des fûts de colonne, des chapitanx, des fragments de: socles et
+          d'entablements, des caractères hiéroglyphiques, des bouts d'inscriptions, des vases, des
+          autels, etc., etc. N'admirerait-on pas le savant et l'antiquaire qui liraient ces anciens
+          caractères, reconnaîtraient dans toutes ces ruines la destination de chacune d'elles, le
+          style de leur architecture, l'époque où toutes ces pierres auraient été taillées, les
+          progrès même que l'art a faits à l'époque où furent exécutés de si magnifiques travaux,'
+          et jusqu'à la civilisation et à l'étendue des lumières en tous genres qu'elles supposaient
+          chez le peuple qui laissa de si admirables vestiges de son passage? Or, tout cela a été en
+          partie fait par les philologues et les linguistes. Mais si un homme se présentait enfin et
+          disait : « Je vais reprendre toutes ces ruines, je rajusterai tous ces morceaux de pierre,
+          je reconstruirai le temple, je vous dirai toutes ses proportions, je publierai le nom de
+          la divinité qui y était adorée, je dévoilerai le secret de ses mystères, je ferai
+          connaître la doctrine de ses initiés, je montrerai le rapport de tous ses emblèmes et de
+          laphilosophie qu'ils voulaient peindre, » celui-là n'aurait-il pas plus fait que les
+          autres? Eh bien ! c'est ce qui reste à faire dans la philosophie du langage et, s'il, ne
+          m'est pas donné de faire la moisson, du moins j'entrerai le premier dans un champ clos
+          encore à toutes les intelligences.</p>
+        <p>J'avoue qu'il n'est pas facile de comprendre où je prétends arriver avec une analyse
+          patiente et minutieuse des racines des langues et des procédés de la grammaire et de
+          rélocution. Quoi! me dira-t-on, nous donnerezvous enfin des preuves nouvelles de la
+          distinction de l'âme et du corps, par exemple? Nous forcerez-vous de croire en Dieu? —
+          Oui, puisqu'il faut que je le dise, j'espère rendre votre âme si palpable à votre raison
+          que vous croirez la toucher du doigt, et si je ne vous force pas de croire en Dieu, je
+          vous effraierai si fort de sa présence que vous croirez le voir partout.</p>
+        <p>Pour remplir cette tâché, je n'ai plus guère à faire qu'un travail de reconnaissance et
+          de dépouillement. Je sais où prendre tous mes matériaux; je connais presque tous les
+          auteurs à consulter, la plupart ne se doutant guère de ce qu'ils me donnent. Il ne me
+          manque plus que du loisir et du repos. Libre et maître de mon temps, deux ans ne se
+          passeraient peut-être pas avant que je soumisse à l'Académie un nouvel essai de Grammaire
+          universelle. En me portant candidat, je m'engage donc à travailler à Besançon, sous les
+          yeux de l'Académie, à l'exécution de l'ouvrage que je médite depuis longtemps, et qui, je
+          l'espère, sera plus nouveau par le fond, que par la forme. Le titre en serait : Recherches
+          sur la Révélation, ou philosophie pour servir d'introduction à l'histoire universelle, et
+          je solliciterais la faveur en même temps de le dédier à l'Académie.</p>
+        <p>J'ai dit que je désirerais suivre mes études à Besançon : qu'il me soit ici permis
+          d'exprimer quelques pensées d'avenir sur ma patrie. Depuis la diffusion des lumières et
+          des lettres dans toutes les classes de la so- ciété, Paris n'est plus exclusivement le
+          séjour de la science et du goût; on pourrait peut-être aujourd'hui soutenir le contraire
+          sans paradoxe. En philosophie transcendante, Paris est nul en Europe, et, à part les
+          séances de l'Académie des sciences, il est vrai de dire que la curiosité publique n'est
+          alimentée que par les honteux produits d'une littérature frivole et sensualiste, ou par
+          les jongleries de la politique. Mille causes me font abhorrer le séjour de la capitale et
+          m'inspirent pour sa population désespérée une indicible pitié. Tout chante, tout rit, tout
+          s'agite autour de moi : il semble que pour jouir on veuille entrer en convulsion. Les
+          riches s'en donnent jusqu'à épuisement ; les pauvres travaillent et épargnent pendant
+          quatre semaines pour être heureux une nuit. — La nation française me semble ne pouvoir
+          renaître que de ses fragments. Quand je songe à cette race d'hommes qui depuis deux ou
+          trois mille ans habile les deux versants de la chaîne du Jura, qui s'y est conservée, à
+          travers tant de catastrophes, presque inaltérée et non mêlée; quand je considère ces
+          natures sérieuses et contemplatives, religieuses, quoique peu crédules, capables
+          d'enthousiasme, mais non de fanatisme ; ces gens qui ont entendu passer et mugir les
+          révolutions, et n'ont encore vu que le ciel et leurs sapins, il me semble qu'il y a là des
+          éléments préparés pour la régénération nationale. Que les hommes de foi et de volonté
+          s'unissent donc et fassent enfin prendre un rôle à notre peuple franc-comtois dans les
+          affaires du monde ; qu'ils fassent une chaîne autour de lui pour le préserver de la
+          corruption universelle ; qu'ils l'instruisent, le convainquent, le persuadent, et puis
+          qu'ils attendent tout de lui. Ne cherchons pas notre gloire ni notre intérêt personnel; ne
+          soyons rien que pour notre patrie : Que périsse notre mémoire (Danton), mais que la
+          Séquanie soit illustre. Surtout que notre jeunesse ne s'avilisse point par une coupable
+          imitation des vices étrangers ; ce ne sera qu'en restant fidèle à cette devise : Deo et
+          sibi fidelis, que notre patrie sera grande et fortunée. Déjà quelques jeunes Franc-Comtois
+          ont pressenti l'avenir réservé à leur pays et ont résolu de l'accélérer de tous leurs
+          efforts : sera-t-il donc impossible de répandre ce feu sacré, et chez nous comme ailleurs
+          la force d'inertie est-elle donc invincible? C'est à l'Académie, à vous, Monsieur, en
+          particulier, de favoriser de la voix et du geste cette généreuse pensée. Si l'Académie le
+          veut sérieusement, j'ose le lui promettre, tant en mon nom qu'en celui de mes amis et
+          compatriotes, au milieu du déluge universel : la Franche-Comté peut devenir l'arche du
+          genre humain.</p>
+        <p>Mes respects à MM. Weiss et Viancin.</p>
+        <closer>
+          <salute>Je suis, Monsieur Pérennès, en attendant de vos nouvelles, votre tout dévoué et
+            affectionné serviteur et élève,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. Je dois une réponse à M. votre frère; il la recevra incessamment. Au lieu de
+            perdre votre temps à me répondre vous-même oserais-je vous prier, Monsieur Pérennès, de
+            le charger de me faire parvenir vos conseils et mon certificat? Je suis sûr que ce
+            serait avec plaisir qu'il nous rendrait ce service à tous les deux.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

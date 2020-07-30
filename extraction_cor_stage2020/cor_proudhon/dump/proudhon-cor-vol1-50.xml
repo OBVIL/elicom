@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-02-22" resp="author">22 février 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-02-22"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>22 février 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, je t'écris dans l'amertume de mon âme. Tu me demandes si je suis
+          content ? Écoute. Tu m'a cru pauvre, l'année dernière ; cette année, si tu viens à Paris,
+          tu me verras indigent. Je n'ai pour vivre qu'une pension de 1,500 francs : elle est
+          toujours mangée d'avance pour un cinquième, et du reste les deux tiers sont emportés par
+          mes créanciers et ma famille. J'aurai 250 francs pour vivre du 20 mars prochain au 20
+          septembre. J'ai beau lire, écrire, étudier, je suis opprimé, consterné, flétri. Tantôt je
+          regarde la Seine en passant sur les ponts; d'autre fois je songe à me faire voleur. Le
+          sentiment de ma misère est tel que si demain j'arrivais à la fortune, le cauchemar qui me
+          poursuit ne me quitterait de deux ans. Je ne travaille que pour recueillir des mépris et
+          des malédictions ; mon malheur veut qu'au lieu d'apprendre aux autres des choses qui les
+          amusent et leur plaisent, je n'aurai que de tristes vérités à leur dire, qui me feront
+          haïr et bafouer. Je ne sais rien autre chose pourtant. Faut-il que je me taise? Je ne le
+          puis : je suis entraîné à boire ce calice qui me fait horreur et que toutes les délices ne
+          m'empêcheraient pas d'avaler.</p>
+        <p>Tu me demandes ce qu'ont pensé les Jouffroy et les Droz de mon discours? Ils ne l'ont vu
+          ni l'un ni l'autre. Je ne vais plus chez M. Jouffroy et je voudrais me dispenser d'aller
+          chez M. Droz. L'air de ces maisons-là ne me convient pas. Je n'ai personne avec qui je
+          puisse m'entretenir de mes études; personne! Si j'étais professeur en Sorbonne, dans six
+          mois je serais un Dieu pour ce sot pays de France ; cela est aussi sûr que je le l'écris :
+          je ne suis rien, et avec toutes les mille bouches de la presse, il me sera impossible de
+          faire comprendre au peuple des choses plus claires que l'arithmétique. Je les dirai
+          pourtant : j'y perdrai la bienveillance de ceux qui se font mes protecteurs, j'en
+          deviendrai moi-même plus difficile et plus intraitable et mes douleurs eu seront doublées.
+          Que ne suis-je mort, enterré ! Car je ne pourrai jamais souhaiter de n'avoir pas plus de
+          pensée qu'une huître ou qu'un gros bourgeois. Plutôt la mort mille fois que la vie sans la
+          réflexion !</p>
+        <p>Je m'occupe de la rédaction d'un ouvrage qui approchera, pour l'étendue, de tes poëmes
+          islandais. Je suis déjà presque au quart; j'espère que la publication pourra avoir lieu
+          dans le courant de mai. Si je trouve un libraire, ce que je n'ose presque pas espérer, tu
+          recevras des premiers ton exemplaire :. si aucun éditeur ne se présente, j'imprimerai
+          moi-même par souscription, et, dans ce cas, je t'impose pour quatre exemplaires à 1 fr. 50
+          = 6 francs. C'est une contribution forcée en faveur de la liberté et de l'égalité ; il
+          faut que lu t'y résignes.</p>
+        <p>Le sujet de mon livre est le développement des propositions qui m'ont fait perdre le prix
+          de l'Académie de Besançon. Cette fois je ne chanterai pas des gloria patri; ce sera un
+          véritable tocsin.</p>
+        <p>Pourtant je m'interdis toute rhétorique, toute hyperbole, tout lieu commun : je compte,
+          je suppute, je raisonne, j'examine, voilà tout. Et ce qui ne s'est jamais vu en
+          philosophie, je crée une méthode d'investigation pour les problèmes sociaux et
+          psychologiques comme les géomètres en créent pour les problèmes des mathématiques. Je ne
+          dis rien de trop, en annonçant que rien de pareil n'a été fait, jusqu'à ce jour, pour la
+          forme et pour le fond. Malheureusement, ce qui m'aura coûté bien du travail et bien des
+          efforts de tête, n'est guère à la portée du vulgaire des lecteurs, qui aime mieux les
+          diatribes de Lamennais et compagnie. On ne comprend plus en France que l'invective, la
+          personnalité, l'injure ; on s'abreuve de calomnie, de fiel et de satire : ce sont les
+          formes de la pensée. Pour les gens qu'on appelle lettrés, le cercle où ils se meuvent est
+          si étroit et leur arrogance si haute, qu'il n'y a pas moyen de s'entendre avec eux.</p>
+        <p>Je serais bien aise de recevoir quelque lettre de toi; si tu trouves une occasion, tâche
+          d'en profiter," je te prie, car je t'avoue qu'un port de lettre m'incommode. Dis-moi si tu
+          t'habitues au professorat; comment ton cours est goûté et comment tu vis avec tes
+          confrères? J'ai cru voir dans ta dernière lettre une teinte de tristesse et de
+          mécontentement. Je serais peiné que tu eusses des chagrins; car je pense souvent que tu
+          peux faire beaucoup pour la science, et je sais combien les peines de l'âme tuent la
+          pensée, quand elles ne l'empêchent pas de naître. Parle-moi de toi et de tes espérances;
+          je serais bien aise de savoir ce qui se passe dans ton esprit, et où te porte le flot de
+          la science? Si j'avais des confidences à faire, elles seraient pour toi plus que pour tout
+          autre ; si tu étais ici, je te lirais chaque soir ce que j'ai fait dans le jour : vois un
+          peu comme je voudrais être avec toi. Au feu de l'épreuve, mon âme s'épure, et je me
+          détache de tout esprit de propriété scientifique et littéraire aussi bien qu'industrielle
+          : savoir avec certitude, le dire avec force, clarté et précision, c'est le seul bien
+          auquel j'aspire, la dernière grâce que je demande à Dieu, puisqu'il me refuse tous les
+          autres avantages.</p>
+        <p>Dans six mois, je serai de retour à Besançon, peutêtre même avant, s'il faut que je
+          m'imprime. Je reprendrai ma vie mi-partie de lecture et méditation et de travail manuel :
+          je ne suis bien que comme cela.</p>
+        <p>Et quand l'usure, cette lèpre des sociétés modernes, m'aura rongé tout entier, alors il
+          ne me restera plus, comme à tant d'autres, qu'à faire une culbute qui me délivrera à la
+          fois et de mon état et de mon esclavage.</p>
+        <p>J'ai reçu une lettre d'Ackermann, qui a dû t'écrire. J'espère qu'il fera quelque chose,
+          mais je crains aussi pour son bonheur. Il approche de la trentaine, et j'ai cru
+          reconnaître dernièrement en lui les qualités d'un amateur plutôt que celles d'un savant.
+          Ce serait trop peu pour son ambition, car je ne lui suppose pas plus de savoir-faire et
+          d'habileté qu'à nous autres.</p>
+        <p>Voici quel sera le titre de mon nouvel ouvrage, sur lequel je désire que tu me gardes le
+          secret : Qu'est-ce que la propriété? C'est le vol, ou Théorie de l'égalité politique,
+          civile et industrielle. Je le dédierai à l'Académie de Besançon. Ce titre est effrayant ;
+          mais il n'y aura pas moyen de mordre sur moi ; je suis un démonstrateur, j'expose des
+          faits : on ne punit plus aujourd'hui pour dire, sans blesser personne, des réalités même
+          fâcheuses. Mais si le titre est alarmant, ce sera bien pis de l'ouvrage. Si j'ai un
+          éditeur habile et remuant, lu verras bientôt le public dans la consternation. Prends la
+          proposition qui me sert de frontispice à la lettre, et attends-toi à la voir prouver par
+          raisons mathématiques, ee qui est autrement concluant pour les hommes d'à présent que des
+          preuves morales et métaphysiques. Nous verrons si ce qu'on a dit est vrai : que les
+          vérités de l'arithmétique deviendraient douteuses si les hommes avaient intérêt à les
+          nier.</p>
+        <p>Prie Dieu que j'aie un libraire; c'est peut-être le salut de la nation.</p>
+        <p>Je te parle avec ma franchise accoutumée; tu sais que je n'aime pas la fausse modestie;
+          avec toi, qui es mon ami, tout autre langage me semblerait hypocrisie et mensonge.</p>
+        <closer>
+          <salute>Je t'embrasse de tout mon coeur et suis pour la vie ton ami,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-01-01" resp="author"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-01-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>1er janvier 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, je regrette que tes amours n'aient pas été suivies d'un plus heureux
+          succès, d'abord parce que je voudrais te savoir heureux et content, et qu'une femme sied
+          mieux à un savant qu'à un bourgeois épais d'intelligence, grossier par le coeur, et
+          dissipé. Toutefois, je m'en console par une réflexion que, sans doute, tu n'aurais pas
+          faite: c'est que les premières amours, qui dans les âmes chastes laissent des traces si
+          profondes, ont souvent le mérite de préparer un bonheur plus solide pour un second
+          attachement. En général, mon cher ami, les jeunes amants ne savent pas être heureux de
+          leur amour et jouir convenablement d'euxmêmes ; ils s'adorent assez niaisement ; mais leur
+          âme a plus de vivacité et de flamme que de vraie chaleur ; souvent ils s'ignorent et ne
+          savent pas tout ce qu'ils valent réciproquement; en un mot, l'art, le savoir, manquent à
+          leur passion. Ce n'est point le raffinement de la volupté que j'entends te prêcher ici,
+          c'est tout simplement là science d'aimer et d'être aimé. Ce que tu me dis de la jeune
+          personne me prouve qu'elle devait</p>
+        <p>être bien novice, et ce que je sais de toi me fait croire qu'elle n'aurait pas trouvé un
+          instituteur fort habile. Allons, mon ami ! courage : rien n'est plus doux et plus beau que
+          les prémices d'une vierge ; mais cela peut se concilier avec la raison et l'intelligence.
+          Tu auras mieux que ce qui t'échappe, si tu ne renonces pas sottement à ce qui t'est dû. —
+          D'où suis-je si savant, demanderastu, moi qui n'ai point de femme ? C'est d'avoir eu
+          trèsjeune un amour honnête, et d'avoir vieilli par-dessus. Dans quelque temps tu en sauras
+          autant que moi.</p>
+        <p>Je te remercie de l'intérêt que tu prends toujours à moi, et je vais, pour te satisfaire,
+          te dire en peu de mots ce qui me regarde. Mon libraire a voulu réimprimer mon Discours sur
+          le Dimanche, que j'ai revu, corrigé, et diminué de la longue et fade histoire qui est au
+          commencement de la préface, et de la note sur la religion qui est à la fin. Je n'ai pas
+          encore vu d'épreuves, mais on m'assure que tout est composé. On promet de faire suivre la
+          réimpression de la Propriété, dont j'attends 4 ou 500 francs. J'y joindrai quelques notes
+          et un examen critique des doctrines qui ont paru depuis six mois sur la Propriété, et que
+          j'adresserai à Blanqui. Cet examen est destiné à marquer définitivement ma position de
+          savant, non de démagogue. J'attends le meilleur effet des explications que je donnerai sur
+          mes intentions pacifiques, et la ligne que je veux suivre. Au reste, tu en jugeras.</p>
+        <p>Mes amis, qui connaissent le délabrement de mes affaires et l'urgence de mes besoins,
+          voudraient me voir posté quelque part, dût la publication de mon second Mémoire en être
+          retardée. J'ai d'abord partagé leur avis. Un libraire m'a offert 2,000 francs pour
+          travailler à une Encyclovédie catholique. Mais il demandait huit feuilles in-4° à deux
+          colonnes par mois, plus la révision de tous les manuscrits et la lecture des épreuves, ce
+          qui supposait une science universelle toute acquise, et quinze heures de travail par jour.
+          J'ai refusé. D'ailleurs, l'homme m'a déjà trompé une fois, et ne m'inspire aucune
+          confiance.</p>
+        <p>Récemment, on m'a proposé d'entrer chez un juge auteur en qualité de secrétaire: 1,800 à
+          2,000 francs, six heures de travail par jour. J'ai d'abord accepté ; puis, considérant
+          qu'il ne me reste réellement plus que six mois do disponibles, sentant l'avantage d'en
+          profiter sur-le-champ pour l'achèvement de mon éducation philosophique, ayant d'ailleurs
+          conçu quelques soupçons fâcheux sur l'homme en question, j'ai remercié. Six mois de
+          lecture et de méditation, mon ami ! quand puis-je espérer de les retrouver?</p>
+        <p>Je venais de faire cet héroïque sacrifice à la science, quand je reçus une lettre du
+          secrétaire de l'Académie de Besançon, qui me prévient en substance que je suis attendu le
+          15 janvier prochain pour répondre aux questions qui me seront adressées sur mon livre, et,
+          si je ne puis comparaître en personne, que j'aie à faire connaître au plus tôt mes moyens
+          de défense. Le secrétaire ajoute que l'indignation est au comble, que mes amis n'osent
+          plus me défendre de peur de tomber en suspicion, que tout le monde est, ou plein
+          d'horreur, ou consterné de ma détestable brochure, de mes déclamations enragées, etc.,
+          etc. La lettre est officielle et confidentielle tout à la fois. On m'exhorte à me
+          rétracter, seul parti raisonnable et digne ; on m'avertit qu'il n'y a qu'une espérance de
+          salut pour moi, c'est qu'il faut les deux tiers des voix pour ma condamnation; enfin les
+          injures, les menaces, les flatteries, les conjurations, rien n'est oublié pour me remettre
+          dans le bon chemin et me rappeler à la raison.</p>
+        <p>Juge si ma surprise a été grande en lisant cette missive académique, moi qui croyais
+          cette affaire terminée. — Je vais répondre à l'Académie ; mais quoique je ne sois pas le
+          moins du monde ému, je n'attends aucun . succès de ma lettre. Je ne puis ni m'excuser ni
+          demander grâce ; protester de la droiture de mes intentions ne peut suffire à des hommes
+          qui me lisent sans m'entendre, et qui trouveront toujours des armes contre moi dans la
+          franchise de mes explications. Que faire ? J'écris pour l'acquit de ma conscience, pour
+          obéir au désir de l'Académie; mais j'écris de manière aussi à pouvoir rendre ma lettre
+          publique : car je ne suis pas d'humeur à me laisser déshonorer sans rien dire. Or, si je
+          publiais un factum après coup, ce serait un libelle qui manquerait son effet; tandis que,
+          en publiant textuellement une défense destinée d'abord à rester secrète , elle sera d'une
+          immense autorité aux yeux du public. Dans trois semaines, je connaîtrai tout le mystère et
+          le dénouement de cette intrigue, et je t'en avertirai.</p>
+        <p>J'ai reçu des nouvelles satisfaisantes de mon imprimerie; mais on n'y gagne encore rien
+          pour moi.</p>
+        <p>J'ai saisi parfaitement tes idées sur la logique; sous un langage et une manière de
+          concevoir très-différents, le système que tu suis est le mien ; seulement le point de
+          départ pourrait être opposé, ce qui, en dernière analyse, ne fait rien à l'affaire , les
+          mêmes preuves, les mêmes raisonnements amenant toujours la même conclusion. Tu mets en
+          déduction ce que j'arrange moi sous une forme inductive qui m'est particulière. Je
+          reconnais successivement, puisqu'autrement faire ne se peut tous les éléments d'une idée,
+          d'un principe, d'une loi; je les analyse, je les compare; à fur et mesure que je les
+          classe, je pose des généralités sur lesquelles j'opère ensuite de la même manière, et
+          j'arrive, d'échelon en échelon, à l'expression la plus générique, la plus compréhensive,
+          qui est celle par où tu commences ta revue intuitive, mais, eu égard aux nécessités de
+          l'exposition, également successive. Ta marche est enseignante, la mienne est d'un
+          éclaireur et d'un aventurier. On a beaucoup disputé sur l'excellence de chacune de ces
+          méthodes : c'est une de ces inutilités scolastiques sur lesquelles un esprit bien fait ne
+          prend pas même de parti. Trahit sua quemque voluptas.</p>
+        <p>Mais, tandis que l'induction ordinaire conclut toujours au delà des faits qu'elle a
+          reconnus, de même que le syllogisme part de généralités hypothétiques ou mal définies, je
+          ne donne jamais à mes conclusions rien de plus que ce que l'observation me fournit. Par
+          exemple, on disait : Il est juste que celui qui travaille jouisse du produit de ce travail
+          ; il est juste que le marchand soit payé de ses peines ; il est juste que le meilleur
+          produit reçoive la meilleure récompense ; tout cela était vrai. Mais, au lieu de discuter
+          minutieusement tous les cas analogues jusqu'à ce qu'ils fussent tous épuisés, on faisait
+          sauter l'induction et l'on concluait : donc celui qui fait bâtir une maison, après avoir
+          payé les ouvriers, est propriétaire légitime ; donc le bénéfice du marchand est honnête ;
+          donc le général doit être plus grassement payé que le soldat, etc. Dans le premier cas, on
+          ne tenait pas compte d'un nouvel élément, la force collective ; dans le second, on violait
+          le principe de l'échange ; dans le troisième on outrageait la liberté, en niant
+          l'équivalence des personnes et des fonctions.</p>
+        <p>Tu sens aussi bien que moi comment tout cela pourrait être soumis à un autre arrangement
+          : cela dépend du tour d'esprit propre à chacun do nous. L'essentiel est, quand on part de
+          l'idée-mère, de la loi absolue, de voir bien tous les faits de détail, et, quand on
+          raisonne sur des exemples, de ne jamais conclure d'un ordre de faits à un autre ordre.</p>
+        <p>Or, appliquant en grand sur la philosophie, la morale, la théodicée, ces principes, dont
+          je crois avoir établi la communauté entre nous, on reconnaît bientôt le vice radical d'une
+          foule do théories et de systèmes, dont quelques-uns sont encore en vogue, sans que
+          personne paraisse en soupçonner la vanité. J'ai lu depuis un mois Lamennais , P. Leroux et
+          Buchez, et je ne te saurais dire combien ces hommes, avec des talents réels et des
+          connaissances, sont médiocres de métaphysique. J'ai à ce sujet le projet de rendre mes
+          essais de métaphysique critiques, et de faire une revue de toutes les célébrités
+          françaises depuis Descartes jusqu'à Georges Sand. Ce serait un livre extrêmement curieux.
+          On juge d'emblée, aujourd'hui, mais sans démonstration. Descartes est tout aussi peu
+          ébranlé par les critiques modernes que Platon ou Kant, qu'on a pris pour patron. Il serait
+          bon de montrer en quoi, comment et pourquoi tel ou tel philosophe se trompe. Je suis déjà
+          à même de fournir une partie de cette tâche, mais ce qui me reste à faire est
+          effrayant.</p>
+        <p>Nous pousserons plus loin, une autre fois, sur cet article, si tu veux.</p>
+        <p>Ackermann m'a écrit ; il imprime un volume de poésies. Je lui avais exprimé en quelques
+          lignes mes inquiétudes sur les vers et mon peu de foi sur la poésie française à compter
+          d'à présent. Il m'a répondu par quatre pages pour me convaincre de l'utilité de ses vers.
+          Il renonce aujourd'hui à la philosophie, à la philologie; il n'a pas, dit-il, la pensée
+          assez vigoureuse pour la première, et la mémoire assez vaste pour l'autre. Il se contente
+          d'être littérateur et métricien. Si je le tenais ici, je ne serais pas aussi lâche avec
+          lui qu'il y a deux ans, et j'oserais lui dire que, s'il ne se fait professeur de
+          cinquième, quatrième ou n'importe quoi dans un collège, il est un sot.</p>
+        <p>J'ai quitté Dessirier pour deux raisons : parce que je travaillais mal et avec gêne, et
+          parce que je dépensais 20 francs de plus par mois que je n'ai besoin.</p>
+        <p>Mes affaires paraissant se gâter avec l'Académie ; il est à croire que je serai de retour
+          à Besançon au commencement du printemps. Dans ce cas, je passerai l'hiver à lire et
+          compiler, compiler, compiler.</p>
+        <p>J"ai cru un moment, sur les flatteuses espérances de mes amis, que j'allais gagner de
+          l'or comme un Crésus; je songeais déjà à te rembourser, car le remboursement d'un prêteur
+          qui sait si bien obliger est pour moi chose sacrée. Je me fais force de garder ton
+          argent.</p>
+        <closer>
+          <salute>Je t'embrasse de tout mon coeur.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

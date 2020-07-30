@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838" resp="author">1838</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>1838</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, je m'occupe de mon côté de notre atelier autant que les circonstances
+          me le permettent. J'ai écrit déjà au curé de Brezolles, à un curé de Dijon, et j'écrirai
+          bientôt à un autre. Je vois avec une vraie satisfaction que nous pourrons naviguer malgré
+          le vent et les étoiles.</p>
+        <p>J'ai reçu ce matin la visite de M. Henri qui me demande à acheter l'imprimerie. Je lui ai
+          donné tous les renseignements qui se doivent en pareil cas, et pour le prix, j'ai déclaré
+          que je ne céderais rien à moins de vingt mille francs. Je trouve que c'est cher ;
+          cependant, il fera prendre des renseignements à Besançon; ainsi, attendez-vous à une
+          visite. Il arrivera peut-être à en offrir dix-huit mille, et je refuserai. Quand il
+          consentirait au prix de 20,000 fr., il faudrait encore le consentement de M. Vieux; ainsi
+          le marché n'est guère probable. Quoi qu'il en soit, donnez, s'il y a lieu, toutes les
+          instructions possibles ; ne craignez pas de faire valoir toutes nos chances de succès;
+          quoique je n'espère ni ne désire vendre, je ne serais pas fâché d'avoir reçu des offres.
+          Le jour où j'aurais refusé 20,000 fr. de cette boutique, elle en vaudrait dans l'opinion
+          25,000. C'est du macairisme; mais cela ne fait de tort à personne.</p>
+        <p>Aujourd'hui et dans quelques années, l'état d'imprimeur peut être le fondement de mon
+          avenir ;je l'ai dit à M. Henri. Nos affaires sont visiblement en hausse, et si je vends,
+          je veux non-seulement ne rien perdre, mais encore être dédommagé des chances de succès que
+          j'abandonne. L'imprimerie vaut pour moi 20,000 fr., tel a été mon dernier mot.
+          Conduisez-vous en conséquence ; faites valoir le métier ; ce n'est pas en dépréciant qu'on
+          remonte les affaires. Il faut absolument que je puisse dire, à la fin de tout ceci, qu'on
+          m'a offert, 18,000 fr. de mon matériel et de mon brevet.</p>
+        <p>J'ai prié M. Maurice de vous dire de m'envoyer 12 à 13 a-Kempis ; de porter 48 sous au
+          compte du curé de Brezolles pour port, et de regarder comme vendus pour notre compte et
+          pour le sien, les 150 à-Kempis livrés au curé de Rios.</p>
+        <p>A votre prochaine, vous me ferez connaître l'état des finances.</p>
+        <p>Si jamais vous deviez livrer quelque traite ou effet à un banquier, que la maison Détrey
+          vous soit interdite; adressez-vous à M. Jacquard ou à d'autres. Le temps pourrait venir où
+          MM. Détrey se souviendraient de moi.</p>
+        <p>Je n'ai, du reste, mon cher Huguenet, que des éloges</p>
+        <p>à vous décerner; je me fie complètement à vous. Le monde ne comprend pas que je puisse
+          être en repos comme je fais, sur un fondé de pouvoir et un prote; le monde ne sait ce que
+          c'est que l'honneur et la conscience. conscience. l'amitié.</p>
+        <p>Si vous voyez Jouvenot, dites-lui que je fais canne, bottes et manteau ; qu'une personne
+          venue de Paris vous l'a dit ; mêmement que je ne rabats plus le collet de ma chemise, et
+          que je me rase deux fois par semaine ; qu'à mon retour de Besançon, je les éclipserai tous
+          à la gloire de mon soleil non, au soleil de ma gloire.</p>
+        <p>Est-ce que le père Coco sent déjà des influences printanières !</p>
+        <closer>
+          <salute>Adieu.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. Tous les imprimeurs sont ici à la débine; mandez-moi ce qui se passe là-bas.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

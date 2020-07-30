@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838-12-17" resp="author">17 décembre 1838</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838-12-17"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>17 décembre 1838.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher et ancien collègue, je vous remercie des marques d'intérêt que vous me
+          témoignez; j'en suis digne, car personne plus que moi n'a besoin de la bienveillance
+          d'autrui. Malheureusement, il n'est pas aussi vrai que vous paraissez le croire que je
+          sois sur le chemin de la fortune; il s'en faut de tout. Quand je dis que je veux avoir
+          20,000 francs de l'imprimerie, je n'entends pas dire par là qu'elle les vaut; je ne
+          prétends pas davantage faire croire qu'on m'en offrira une pareille somme ; je veux dire
+          seulement que pour l'appât de quelque mille francs, je ne me déferais pas d'une chose qui,
+          quoique très-onéreuse pour moi, sera un jour, je ne le vois que trop, ma seule ressource.
+          A toutes les qualités peu capables de conduire un homme à l'opulence, que vous voulez bien
+          me reconnaître, il vous faut joindre encore le malheureux don de prévoir quelquefois
+          l'avenir, don que, pour mon tourment, j'ai reçu dans un degré assez développé. Or, j'ai
+          tous les jours, et de plus en plus, lieu de me convaincre que je n'ai rien à attendre que
+          de moi-même, qu'il ne me faut compter que sur mon travail personnel, que je suis incapable
+          de tirer parti de mon savoir-faire, comme on l'entend aujourd'hui, et comme il faut
+          absolument s'y résigner, sous peine de se laisser passer sur le ventre. Avancer dans le
+          monde et garder mes idées et mon caractère, sont deux choses contradictoires ; vous
+          devinez sans peine laquelle je sacrifie à l'autre. Voilà, mon cher Maurice, le véritable
+          sens de ma phrase : d'un autre côté, comme je sais très-bien que marchander n'est pas
+          acheter, que plus on déprécie sa marchandise, moins elle vaut, et que par conséquent c'est
+          une chose en soi assez indifférente que j'exige plus ou moins, j'ai résolu de ne jamais
+          démordre de ce que je dis. Vous désirez savoir ce que je fais, ce que je compte devenir.
+          Pour le moment, je fréquente les bibliothèques et rien de plus. Je m'occupe, en outre, de
+          me placer comme correcteur à quelque journal : c'est un travail qui se fait le soir, de
+          huit à douze, et qui doublerait mon traitement. Avec cela, je commencerais à respirer.
+          Mais je ne tiens rien ; j'ai fait prendre note de moi à plusieurs personnes, à M. Berryer,
+          entre autres; et, en attendant, j'aviserai encore à autre chose. Si j'étais assez niais
+          pour oublier ma subsistance sur la foi de la pension Suard, je n'aurais pas dans six mois
+          un morceau de pain. Je pourrais choisir d'autres voies de me pousser et me faufiler; je ne
+          le veux pas. Je refuse d'aller aux soirées de M. Droz, de voir M. Nodier, M. Baguet, M.
+          Jouffroy. etc., et je n'y mettrai pas le pied. Ma façon de voir et d'agir tient un peu,
+          vous le savez, de l'obstination; soit. Si je vaux quelque chose, ce n'est que par là. Ma
+          nomination par l'Académie n'a pas effacé mes souvenirs, et ce que j'ai haï, je le haïrai
+          toujours. Je ne suis pas ici pour devenir un savant, un littérateur homme du monde : j'ai
+          des projets tout différents. De la célébrité, j'en acquerrai, j'espère; mais ce sera aux
+          frais de ma tranquillité et de l'amour des gens.</p>
+        <p>Donnez-moi quelquefois des nouvelles, et, si vous le pouvez, par l'imprimerie. Je tiens à
+          ce que l'on ne multiplie pas les ports. Je suis bien sûr d'en avoir pour 100 fr. par
+          an.</p>
+        <closer>
+          <salute>Je vous souhaite le bonjour.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

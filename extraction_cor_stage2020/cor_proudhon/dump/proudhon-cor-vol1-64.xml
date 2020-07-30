@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-08-19" resp="author">19 août 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-08-19"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon</placeName>
+            <date>19 août 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, j'ai reçu ta lettre du 25 juillet, et j'ai encaissé les 200 francs.
+          Mes obligations envers toi s'accumulent et je le vois avec un vif sentiment de plaisir ;
+          quant à l'argent, c'est une affaire de remboursement qui pourrait être faite plutôt que je
+          ne l'espère aujourd'hui. J'ai envoyé à Dessirier 70 francs, et j'ai déjà vendu pour 50 ;
+          ma brochure prend dans le public bisontin, et, si j'avais eu plus d'habileté ou de
+          charlatanisme, j'aurais vendu pour 150 francs.</p>
+        <p>Dessirier m'a envoyé, pour l'approuver, un marché conclu entre lui et un libraire de
+          Paris, M. Prevost, rue Bourbon-Villeneuve ; ce libraire m'engage à rééditer mon livre, au
+          nombre de 3,500 exemplaires, m'accordant le quart du bénéfice, et promettant de faire tout
+          ce qui est de sa compétence pour donner à mon ouvrage de la publicité. En même temps, il
+          me demande mon Discours sur le Dimanche pour le débiter. ;</p>
+        <p>La Revue du Progrès, de Louis Blanc, et quelques autres publications ont déjà fait
+          mention de mon travail ; pour les grands journaux, ils ne diront mot, jusqu'à ce que la
+          clameur publique les y oblige. Armand Marrast partage, dit-on, mes idées ; mais il ne les
+          préconisera pas dans le National, de peur d'effaroucher ses lecteurs.</p>
+        <p>Que l'entreprise du libraire Prévost arrive à bonne fin, et le second Mémoire auquel je
+          vais travailler mettra le comble à mes efforts ; la Propriété, attaquée de toutes parts,
+          poursuivie, sera obligée de faire voir ses raisons , et l'on verra un beau tapage.</p>
+        <p>Tu sens, d'après cela, mon cher ami, combien quelques observations plus détaillées de ta
+          part me seraient précieuses ; tes réflexions sur mon cinquième chapitre sont justes ; ce
+          chapitre exigerait à lui seul un volume, et je n'en ai fait qu'un sommaire. Il y a des
+          morceaux que je conserverai dans leur entier; d'autres ont besoin d'être refondus.; la
+          seule question est de savoir comment je pourrais raccommoder tout cela pour une seconde
+          édition, sans aller trop au delà des bornes de la première. Le professeur de philosophie
+          de Besançon pense comme toi que ce chapitre cinquième devrait être au commencement ;
+          cependant, il faut bien faire attention que mon ouvrage n'est point un traité de
+          philosophie sociale, mais seulement un examen de la Propriété. Il suit de là que le
+          chapitre cinquième arrive à la suite des autres pour répondre à cette question : La
+          propriété étant impossible et injuste, comment et pourquoi existet-elle? Voilà le lien de
+          transition qui unit cette dissertation toute psychologique au reste de l'ouvrage.</p>
+        <p>Du reste, à part cette considération, je donne les mains à tes critiques ; mais je pense
+          que toi seul les pouvais faire. Elles me prouvent une chose à laquelle tu n'as pas pensé :
+          c'est que tu sais mieux ma propre philosophie que je ne la sais moi-même. Oui, les idées
+          présentées dans ce chapitre cinquième demandent d'autres développements et une autre
+          rédaction ; elles ne veulent point être traitées par-dessous la jambe; mais est-ce bien là
+          que je dois placer ce grand travail ? L'homme s'étant trompé dans la science sociale de la
+          même manière qu'il s'est trompé sur tant d'autres choses, ne suffit-il pas que je montre
+          brièvement l'analogie de son erreur, relativement à la propriété, avec toutes les erreurs
+          qu'il a commises ? Mon chapitre cinquième, en un mot, ne suppose-t-il pas toute une
+          philosophie extérieure au traité sur la Propriété, plutôt qu'il n'appelle dans ce traité
+          de nouveaux développements psychologiques ?</p>
+        <p>Voilà quelles réflexions je devais te soumettre avant de passer à des corrections ; car
+          si tu conçois mon ouvrage sur la Propriété comme partie d'un grand tout qui l'expliquera
+          et le complétera, il me semble que lu sentiras comme moi la nécessité de donner un autre
+          tour et un autre caractère aux corrections que tu me proposes.</p>
+        <p>Je vais incessamment travailler à mon second Mémoire sur la Propriété, qui sera divisé
+          comme suit :</p>
+        <p>Chap. 1er, adressé à l'Académie de Besançon : sur les obligations des corps savants
+          envers les auteurs et le public ; sur la forme et le ton général des ouvrages : réflexions
+          littéraires et philosophiques à ce sujet.</p>
+        <p>Chap. II, adressé à un directeur de notre séminaire : sur les doctrines de l'Église
+          touchant le prêt à intérêt ; du rôle qu'a joué le clergé et de celui qu'il peut jouer
+          aujourd'hui dans la société.</p>
+        <p>Je mettrai, dans ce chapitre, l'Église en demeure de se prononcer contre la Propriété et
+          d'abjurer sa vieille casuistique, ou de défendre la Propriété et l'usure coutrairement à
+          la justice et à l'évidence. Opposition de la doctrine évangélique et de celle des
+          casuistiques.</p>
+        <p>Chap. III, adressé à M. Droz. Après avoir examiné la question religieuse, je soulève ici
+          la question de morale. — Influence de la Propriété sur les moeurs, etc., etc.</p>
+        <p>Chap. IV. Critique du Code ; une provinciale contre les jurisconsultes.</p>
+        <p>Chap. V. Critique de la Charte constitutionnelle. Abomination de la Charte.</p>
+        <p>Chap. VI. Projet d'une révolution et d'une réorganisation politique.</p>
+        <p>Dans ce second Mémoire, je parlerai plus souvent au sentiment et à l'imagination ; je
+          revêtirai de couleurs, de chair et de sang cette dialectique décharnée qui fatigue et que
+          peu d'esprits peuvent supporter. Je ferai ressortir cette pensée fondamentale de mon
+          premier Mémoire, que tous les maux de l'humanité viennent primitivement d'une simple
+          erreur de compte (soit de l'inégalité de répartition des biens, d'après l'inégalité des
+          facultés, soit surtout de l'appropriation du produit collectif par un seul individu) ; je
+          m'efforcerai de répandre plus de charme et d'éloquence dans ma diction : en un mot, je
+          tâcherai de prendre les hommes par la persuasion après les avoir ébranlés par le
+          raisonnement. Il y aura peu de choses nouvelles ; mais tu sais, mon cher Bergmann, que le
+          difficile est moins de concevoir et de démontrer la vérité que de la faire admettre ; et
+          que, d'un autre côté, c'est peine perdue que d'exposer des vérités qui tiennent à une
+          première, tant que cette première n'est pas irrévocablement admise.</p>
+        <p>La rage académique n'a fait que s'accroître contre moi : deux séances très-orageuses ont
+          déjà eu lieu à mon sujet ; diverses motions ont été faites, ou de me retirer la pension,
+          ou de la donner à mon père, ou simplement de me blâmer publiquement; enfin, l'on a résolu
+          de ne prendre aucun parti avant de m'avoir entendu, et je suis assigné à comparaître
+          par-devant notre sénat académique, dans le courant de novembre prochain, pour faire valoir
+          mes moyens justificatifs et m'entendre reprocher d'avoir écrit un livre antisocial,
+          contraire à toutes les convenances pour la forme comme pour le fond. — On a exigé de moi
+          que je ne publierais rien d'ici à la fin de l'année scolaire de 1840-1841 ; j'ai donné ma
+          parole par écrit signé de moi. A peine mon second Mémoire sera-t-il prêt pour ce temps-là.
+          D'ailleurs, si l'Académie me traitait avec fureur, je serais par là même délié de mon
+          serment.</p>
+        <p>Parmi les académiciens, ceux qui avaient été mes plus dévoués m'ont tourné le dos ;
+          d'autres, qui ne me connaissaient pas, me sont favorables. Le préfet du département est du
+          nombre de ces derniers. En général, les dévots, les avocats et les littérateurs purs m'en
+          veulent ; les commerçants, banquiers, usuriers, gens de négoce et de commerce,
+          m'applaudissent ; l'aurais-tu deviné? Déjà, au temps de Jésus-Christ, les publicains se
+          trouvaient plus près du royaume de Dieu que les pharisiens et les docteurs.</p>
+        <p>Notre congrès scientifique durera huit jours ; on ne m'a pas fait l'honneur de m'y
+          inviter. J'aurais voulu y lire un compte rendu de tes thèses ; mais que ton amour-propre
+          ne regrette pas trop cette occasion de parier de toi. Encore une fois, mes Mémoires sur la
+          Propriété ne sont rien à mes yeux ; je songe surtout à une psychologie, à une logique et à
+          une métaphysique nouvelles. C'est là que je te placerai comme il convient, d'autant plus
+          qu'il faudra que nous convenions de plusieurs choses avant que je publie. Laisse-moi
+          seulement acquérir un peu de réputation avec des bribes politiques, et tu verras.</p>
+        <p>M. Tissot, de Dijon, m'a chargé de t'offrir un volume in-8° sur le Suicide et la Révolte;
+          je te l'enverrai par une occasion qu'un libraire m'a promise. En même temps, M. Tissot,
+          qui a cherché partout tes deux thèses, me charge de te les demander pour lui. M. Tissot
+          est un honnête homme, travailleur, savant, kantiste dévot et dévoué, trop tenace dans ses
+          opinions, par conséquent trop lent à saisir les idées d'autrui. J'ai eu le plaisir de
+          faire récemment sa connaissance, par l'obligeance de Pauthier ; c'est alors que nous avons
+          parlé de toi, et que M. Tissot a tremblé de tous ses membres en apprenant le sujet et la
+          valeur de tes ouvrages. Tu m'enverras ces deux thèses à Besançon ; M. Tissot y passera
+          dans une quinzaine.</p>
+        <p>Je désire que tu ne m'affranchisses plus tes lettres ; permets qu'au moins cette égalité
+          soit entre nous.</p>
+        <closer>
+          <salute>Tout à toi.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. Je compte aller à Paris travailler et imprimer mon second Mémoire. Pour mon
+            imprimerie le travail y vient ; mais j'aurais besoin d'un associé qui m'ôtât tout souci.
+            Si l'imprimerie et les autres ressources me manquent, mes amis les banquiers et
+            négociants me procureront bientôt un emploi lucratif, soit dans une usine, soit
+            ailleurs.</p>
+          <p> Sois donc sans inquiétude sur ma position ; je pourrai bientôt peut-être, à mon tour,
+            être utile à nos amis en souffrance.</p>
+          <p>Le sort d'Ackermann m'a toujours plus inquiété que le mien propre. Pour Elmerick, c'est
+            une tête sans cervelle, qui afflige trop souvent Maguet.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

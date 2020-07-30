@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-11-10" resp="author">10 novembre 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-11-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>10 novembre 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, je t'écris, bien que je n'aie rien à t'apprendre, mais pour n'être pas
+          si longtemps sans causer avec toi. J'ai reçu dernièrement une lettre d'Ackermann, pleine
+          de bonnes critiques et de témoignages d'amitié. Sa fortune est encore tout à faire, et je
+          vois avec regret qu'il n'est pas plus avancé que moi. Je lui répondrai incessamment; mais
+          je serai bien aise de trouver une occasion.</p>
+        <p>La réimpression de mon livre est retardée par suite des craintes qu'inspire le nouveau
+          ministère. Je persiste à croire que je suis hors d'atteinte; mais le libraire raisonne
+          autrement. Voyant en moi un patriote, et nullement un savant, il se dit : Tôt ou tard
+          celui-là sera poursuivi. Il a été question dans un conseil d'État ou de ministres, il y a
+          quelques semaines, de me faire saisir en même temps que Lamennais et autres ; cependant on
+          a jugé à propos de passer outre en ce qui me concerne. Mais cette proposition a été cause
+          que le Constitutionnel a annoncé que l'ouvrage de M. Proudhon sur la Propriété avait été
+          saisi, ce qui a causé quelque rumeur à Besançon. Voilà pour mes affaires; voici pour mes
+          études.</p>
+        <p>Je commence le Compulsoire de mon deuxième volume. Je viens pour la première fois de me
+          relire, et j'avoue que je me trouve plus savant que je ne le soupçonnais lorsque j'étais
+          dans le travail de la composition. Il y a de belles parties, des morceaux bien frappés
+          dans ce volume; mais en somme je le compare à un volume d'algèbre. Képler travailla
+          dix-sept ans pour arriver à la formule de ses trois fameuses lois, et Dieu sait la niasse
+          énorme de calculs et de chiffres qu'il lui fallut faire pour cette magnifique découverte ;
+          eh bien ! pour comprendre quelque chose au mouvement social, il faut pareillement passer
+          par une série d'opérations, non algébriques, mais métaphysiques. Ce que j'ai fait me
+          convainc que tout est à faire encore dans cette science si décriée sous le nom de
+          métaphysique, et me persuade aussi que je suis dans la bonne voie ; mais le public, où
+          est-il? J'ai quelques travaux commencés sur le droit matrimonial et sur les délits et les
+          peines, travaux que je poursuis d'après une méthode tout à fait semblable à celle de la
+          Propriété; il est étrange à quels paradoxes cela conduit. Mon travail sur la Pénalité
+          surtout est tellement en dehors des idées reçues, que je ne crois pas que cent hommes en
+          France puissent m'entendre. C'est une matière, en vérité, où nul jusqu'à ce moment n'a vu
+          goutte; et moi qui t'en parle je n'y découvre guère que la profonde ignorance et les
+          effrayantes contradictions des docteurs. Mais pour mettre au jour mes idées il me faut une
+          autorité acquise; il faut surtout que l'on soit un peu familiarisé vec mes méthodes,</p>
+        <p>J'ai fait ici une conquête illustre, un jeune homme de vingt-cinq ans, mon compatriote,
+          très-fort métaphysicien, savant en histoire, auteur d'une histoire philosophique de la
+          Révolution française, en deux volumes in-8°. Cet ouvrage est encore manuscrit ; l'auteur y
+          détermine la part que chaque province a prise au mouvement de 1789 à 1800. L'exposé
+          sommaire qui m'en a été fait promet un ouvrage méthodique, profond exempt de bavardage et
+          de vaines imaginations ; partant un ouvrage qui fera tort à nos célébrités historiques, et
+          conséquemment enfin qui sera peu loué. La propriété est dans la science; tu le sais mieux
+          que personne.</p>
+        <p>Je désire donner à mon second Mémoire autant d'aménité, de politesse, de grâces
+          insinuantes qu'il y a de colère et de rudesse dans le premier. Je sens aujourd'hui que je
+          me suis fait tort par ma violence, et je veux tâcher de le réparer. Je déplore ce malheur
+          d'autant plus qu'en vérité je me trouve, après lecture, trop fort pour avoir de gros mots.
+          Néanmoins, à part quelques phrases choquantes, je laisserai subsister mon Mémoire tel
+          qu'il est, parce que ce sera pour moi une matière de critique et d'examen. Mais je suis
+          las de ne parler que de moi.</p>
+        <p>Maguet, Haag, Dessirier et jusqu'à M. Villars, le commensal du dernier, me prient de te
+          faire leurs amitiés, et de te présenter leurs salutations. Réclam, que j'ai vu
+          aujourd'hui, m'a répété combien tu avais été peiné de n'avoir pu m'attendre. Mon cher
+          Bergmann, tu as ici de vrais amis et des admirateurs intelligents et sincères. On m'a
+          parlé d'un article de la Revue de Paris, dans lequel un roquet littéraire avait essayé de
+          te mordre; je ne pense pas que tu ttendes, à cet égard, des consolations. Qu'est-ce que de
+          pareils aboiements te peuvent faire? As-tu vu M. Burnouf ?</p>
+        <p>Je voudrais savoir en quelques mots ton jugement sur la philosophie allemande, notamment
+          sur celle de Schelling et Hegel, mais principalement sur Kant, que je lis tous les jours.
+          Je me suis mis en tête de refaire une métaphysique ; je t'en ai déjà parlé. Mais, comme là
+          aussi je me sens tout à fait excentrique, j'aurais besoin d'être fortifié de quelques
+          opinions un peu hardies, qui me donnassent courage. Je trouve Kant d'une sublimité qui
+          m'effraie; j'ai peine à le suivre; cependant je crois qu'il a pris un mauvais chemin,
+          qu'il y en a un plus simple et plus court. Je ne voudrais point d'un éclectisme qui
+          rassemblait tant bien que mal Kant et ses trois fameux continuateurs, mais je suis
+          persuadé qu'un jour la philosophie, devenue science exacte, prouvera que ces quatre
+          Allemands se sont approchés du vrai système des choses plus qu'on n'a fait. Mais je pense
+          en même temps qu'il ne faut plus commencer la philosophie par de hautes abstractions,
+          qu'il faut au contraire la finir par ces abstractions. Or, c'est à chercher la méthode
+          métaphysique que je suis surtout occupé, sans m'inquiéter, du reste, d'aucune question
+          particulière, certain qu'une fois la méthode trouvée tout s'en suivra aisément. C'est
+          ainsi qu'avec un système de dix chiffres, méthodiquement combinés, on s'est élevé à des
+          calculs qui auparavant épouvantaient l'imagination, et que le plus subtil entendement ne
+          pouvait faire.</p>
+        <p>J'exclus de la métaphysique' la psychologie, la morale, l'esthétique, en un mot toutes
+          les sciences ; selon moi, les matériaux de la métaphysique lui sont donnés par les autres
+          sciences, en sorte que pour être meta- physicien, il faut commencer par savoir quelque
+          chose, et que celui qui prétend faire de la métaphysique en dehors de toute science est un
+          homme, comme dit saint Paul, velut aes sonnans aut cymbalum tiniens.</p>
+        <p>Je bannis la logique, telle qu'on l'enseigne depuis Aristote, de tout enseignement;
+          j'attribuerai volontiers à cette logique tous les maux et toutes les erreurs du genre
+          humain. La logique syllogistique est la première forme de raisonnement, que la raison, se
+          débarrassant de sa spontanéité, emploie; Aristote n'a fait que la réduire en art et en
+          préceptes; mais c'est une source d'erreurs. Or, si cette logique est fausse jusque dans
+          son procédé, ce que je prouverai aisément, par les syllogismes les plus parfaits que les
+          logiciens citent en exemple, une bonne partie de la philosophie de Kant s'évanouit. Pour
+          tout dire enfin, Kant aussi bien que les autres, dans sa logique, dans sa raison pratique
+          et dans sa raison pure, me semble avoir commencé par où j'eusse voulu finir.</p>
+        <p>Elmerick doit être encore à Strasbourg; il doit 80 francs à Ackermann. Haag de son côté
+          lui en doit au moins autant. Ackermann avait compté que ces deux messieurs
+          s'acquitteraient envers lui en payant les dettes qu'il a laissées chez son tailleur et son
+          bottier ; ils n'en n'ont rien fait. Deux mémoires de fournitures ont été présentés, je
+          crois, à M. Bourret, qui les a présentés à M. Cuvier, qui me les a renvoyés à Besançon par
+          M. Cucuel. J'ai réprimandé Haag de sa négligence; fais en autant à Elmerick si tu le
+          rencontres.</p>
+        <closer>
+          <salute>Je t'embrasse de tout mon coeur, et je te prie d'excuser mes longues causeries. Je me
+            propose de l'écrire encore une fois avant le nouvel an. Ma petite imprimerie marche
+            doucement; si je ne puis la soutenir, je tomberai plus bas que je n'étais en 1837.</salute>
+          <signed>Ton ami,<name>P.-J. PROUDHON.</name></signed>
+        </closer>
+        <postscript>
+          <p>P.-S. Je suis rue Jacob 16. J'ai été obligé de quitter Dessirier parce que j'étais trop
+            éloigné du centre de mes études, et que d'ailleurs la vie commune m'est une cause
+            perpétuelle de dissipation.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

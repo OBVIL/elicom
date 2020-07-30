@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-05-11" resp="author">11 mai 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-05-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>11 mai 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, j'apprends que mon brevet est arrivé à la Préfecture; je vous autorise
+          par la présente à le retirer et à le conserver en dépôt. Vous vous rappellerez, à ce
+          propos, que le nom de l'imprimerie ne doit pas être changé pour cela; il faut encore
+          attendre que j'aie prêté serment. —Mme L*** demande mon avis sur la nouvelle imposition
+          dont on a frappé l'imprimerie; ce qu'il y a à faire est bien simple : il faut payer, en
+          attendant qu'on ait fait droit à votre réclamation</p>
+        <p>J'ai vu aujourd'hui deux de mes confrères imprimeurs : MM. Marquiset et Sainte-Agathe. On
+          dit que M. Bailly aurait envie de monter l'imprimerie Gomet. Puisque vous avez déjà réussi
+          à le ramener chez nous, faites mieux encore, proposez-lui de devenir mon associé, je lui
+          offre pour cela toutes garanties, certitudes, facilités, avantages, qu'il pourra
+          souhaiter. Il me semble que j'ai une certaine valeur personnelle que M. Bailly pourrait
+          exploiter mieux que moi-même ; du reste, vous savez que je ne demande pas mieux que de ne
+          pas me mêler d'affaires. Après les travaux littéraires, toute mon ambition serait d'être
+          quelquefois votre paquetier. Quant à vous, vous seriez prote in acternum. Je vous laisse à
+          réfléchir sur tout cela. Je ne vous offre plus à vous-même d'être mon collègue, vous savez
+          que la préférence vous est toujours acquise ; vous n'aurez jamais qu'à dire un mot.</p>
+        <p>Mon Mémoire a obtenu une mention honorable; il s'en est fallu de peu que je n'ai eu la
+          médaille. Personne ne l'a obtenue. Mon ouvrage a beaucoup plu; son défaut a été d'être
+          trop peu volumineux pour un prix de 1,200 francs. On me conseille de le refaire et de
+          l'imprimer. Si je trouve un libraire, oui ; sinon, non.</p>
+        <p>Mme L*** me parle d'une visite qu'elle a faite à M. Proudhon, mon cousin; si je l'en
+          crois, mon cousin serait fâché contre moi et très-mécontent. J'en suis vraiment désolé,
+          mais je ne puis accepter les reproches injustes qu'il me fait ; et si j'aime à être
+          conseillé, je n'aime point à convenir des torts que je n'ai pas. Mais Mme L*** elle-même
+          ne lui aurait-elle pas déplu? Êtes-vous vous-même content d'elle? Voilà sur quoi je
+          voudrais une explication franche de votre part. Vous TOUS êtes défait de Josillon; sa
+          conduite passée me prouve qu'il n'était point corrigé; j'entrevois que la soeur pourrait
+          bien avoir aussi quelques-uns des torts du frère. J'attends de vous la vérité. Vous savez
+          que je n'ai pas épousé ni les L*** ni les Jantet. Je crois être juste, mais je veux que
+          l'on marche droit.</p>
+        <p>Je n'ai pas revu mon jeune homme de Colmar, ainsi les négociations ne sont pas rompues.
+          Toutefois, que cela ne vous empêche pas de faire à M. Bailly les ouvertures dont je vous
+          parle. S'il m'a trouvé dur et irascible plus d'une fois, il pourrait s'apercevoir qu' on
+          homme de mon espèce est plus commode qu'une eau dormante qui ne parle point.</p>
+        <p>Je travaille avec courage et plaisir ; je me sens une grande vigueur. Si dans deux ans,
+          le défaut de ressources ne m'a pas coulé, je jouirai de cette union que je désire si fort
+          : la science et l'industrie.</p>
+        <p>Adieu, écrivez-moi aussitôt que vous aurez quelque chose de positif à me faire savoir. Si
+          vous ne me soutenez pas le courage, je romps avec Besançon, et ceux que cela regarde
+          chercheront leurs mailles dans les casses de l'imprimerie.</p>
+        <closer>
+          <salute>Tout à vous,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

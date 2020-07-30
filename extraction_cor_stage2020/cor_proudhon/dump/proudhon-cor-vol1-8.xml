@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838-04-09" resp="author">9 avril 1838</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pauthier, Guillaume (1801-1873)"
+            ref="https://data.bnf.fr/fr/11918837/guillaume_pauthier/"/>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838-04-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>9 avril 1838.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur, je me vois obligé, da partir, en toute hâte, pour Besancon, où m'appellent les
+          événements déplorables qui se passent dans l'imprimerie dont je fais, partie comme
+          associé. L***, mon collègue, est, en ce. moment, ou mort ou en état d'aliénation complète.
+          Je vais donc le remplacer, et conduire notre malheureuse barque. Aussi, adieu pour
+          longtemps, la linguistique, et la philosophie : il faut courir, au plus pressé.</p>
+        <p>J'eusse vivement désiré, Monsieur, vous voir encore; une fois avant de quitter la
+          capitale; mais j'ose espérer que vous vous souviendrez quelquefois d'un jeune homme qui a
+          deviné, comme par instinct, ce qu'il vous sera donné, je l'espère, de nous démontrer; je
+          veux dire que la philosophie, doit ressortir des antiquités du langage et de. la
+          mythologie. Je fais bon marché des prétentions que j'aurais pu revendiquer à avancer et
+          consolider la science sociale et. philosophique; et je me croirai toujours amplement
+          dédommagé si dans le bataillon sacré des régénérateurs, les hommes de mon pays brillent au
+          premier rang. Je dirai quelque jour avec orgueil : j'ai connu Pauthier, je lui ai parlé.
+          Que l'humanité grandisse, que la Franche-Comté soit radieuse et périsse ma mémoire. Que de
+          noms plus illustres, aujourd'hui dans le néant !</p>
+        <p>J</p>
+        <closer>
+          <salute>Je vous salue, Monsieur, avec la plus vive admiration et, souffrez que je vous le
+            dise, avec une amitié presque passionnée.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

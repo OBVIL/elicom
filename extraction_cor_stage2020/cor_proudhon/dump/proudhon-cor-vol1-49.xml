@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-02-12" resp="author">12 février 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)" ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-02-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>12 février 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, j'avais déjà reçu quelque nouvelle de vous par le canal de Mme
+          Duvernoy, quand votre lettre m'est parvenue. Tous les amis étaient comme moi assez en
+          peine, et nous avions besoin d'un peu de tranquillité.</p>
+        <p>Je n'ai point encore fait la plupart de vos commissions, parce que votre travail sur
+          l'accent n'est point encore tiré, et que je l'attends pour l'offrir ou l'envoyer de votre
+          part, avec les six exemplaires de l'éloge de d'Olivet, aux personnes que vous m'indiquez.
+          Pour votre caisse de livre, M. Reclam m'a dit que MM. Brockhaus et Avenarius n'avaient
+          reçu de vous qu'une demande, qu'ils n'avaient vu ni livres ni caisse; par conséquent
+          qu'ils n'avaient pu vous rien expédier. M. Reclam se propose, et je l'y ai fortement
+          engagé, de faire emballer les livres et manuscrits que vous avez laissés chez lui, puis de
+          les mettre au roulage pour Berlin. Je ne conçois rien à cette affaire; voyez à cet égard
+          la lettre de M. Reclam.</p>
+        <p>Pour mon discours, je ne pourrai en remettre à toutes les personnes que vous me désignez
+          ; il ne m'en reste plus qu'une demi-douzaine, déjà destinés; et depuis votre départ, il en
+          a été pour moi de cette brochure comme de mon Mémoire pour le prix de Volney : je n'y
+          pense plus. Ce sera jusqu'au bout mon habitude do laisser mourir de leur belle mort mes
+          rapsodies qui finissent toujours par m'ennuyer autant que personne. Je vous remercie
+          sincèrement de vos bons conseils, et vous dis une fois pour toutes que je n'ai pas si
+          bonne opinion de moi que vous-même; je n'ai pas le loisir de travailler mon style, je suis
+          trop pauvre et trop mal dans mes affaires pour m'amuser à être gent de lettres ; je crois
+          d'ailleurs que l'âge d'or de ce qu'on appelle purement littérature est passé pour jamais.
+          Tant, que l'homme sait peu, il parle nécessairement beaucoup ; moins il raisonne, plus il
+          chante; et quand il n'a rien à dire, il amuse l'oreille par son joli babil. Je suis peu
+          propre à telle besogne, quoique je regrette pourtant de ne pouvoir m'exprimer avec plus de
+          facilité, car j'aurais encore bien des choses à dire. Mais quand elles seraient aussi
+          excellentes que je les suppose, ces choses, quand je les dirais aussi bien que Bossuet ou
+          Voltaire, il me manquerait encore le talent de les faire valoir, car aujourd'hui les
+          portes du Parnasse sont gardées, non par des chérubins, mais par des loups cerviers.
+          Laissons là la littérature et les littérateurs ; je suis fait pour l'atelier, d'où
+          j'aurais dû ne jamais sortir, et où je rentrerai aussitôt que je le pourrai. Je suis
+          épuisé, découragé, prosterné. J'ai été pauvre l'année dernière, je suis, celle-ci,
+          indigent. Mon budget tout réglé, il me restera, à dater du 1er avril prochain, 200 francs
+          pour vivre six mois à Paris, au bout desquels ma condition sera telle que je désirerais de
+          vivre et rester berger. Je nuis comme un lion; si un homme avait le malheur de me nuire,
+          je le plaindrais de tomber sous ma main. N'ayant point d'ennemis, je regarde quelquefois
+          la Seine d'un oeil sombre et je me dis : passons encore aujourd'hui. L'excès du chagrin
+          m'ôte la vigueur de tête et paralyse mes facultés : jepuis travailler et pourtant je
+          travaille toujours pour no pas mourir d'ennui.</p>
+        <p>Mon travail sur la propriété est commencé; je vous en enverrai le titre et le sommaire
+          dans ma prochaine lettre. J'ai achevé aujourd'hui le premier chapitre qui forme la dixième
+          partie de l'ouvrage. Je compte l'imprimer dans le courant de mai prochain, par
+          souscription, n'espérant pas trouver de libraire et ne pouvant en faire la dépense.</p>
+        <p>J'ai déjà une cinquantaine de souscripteurs. Deux volumes in-dix-huit.</p>
+        <p>Le style en sera rude et âpre; l'ironie et la colère s'y feront trop sentir; c'est un mal
+          irrémédiable. Quand le lion a faim, il rugit. Au reste, j'évite le plus que je peux de
+          tomber dans l'éloquence et le beau style; je raisonne, je conclus, je distingue, je réfute
+          : je n'ai plus besoin des secours de la rhétorique, le sujet par lui-même devant
+          intéresser bon gré mal gré, les plus ladres. Sous le rapport philosophique, il n'existe
+          rien de semblable à mon livre. Malheur à la propriété ! Malédiction!</p>
+        <p>J'ai appris que M. Marquiset, de Besançon, venait de faire une faillite de 1,400,000
+          francs. Il a quitté le pays. C'était un imbécile, honnête homme au demeurant, dont la
+          déconfiture ne surprend personne. A trente ans, il avait 100,000 francs de patrimoine, un
+          commerce florissant; il fit un mariage d'amour, épousa une Suissesse jeune, belle et sage,
+          avec un million de dot ; mais au lieu de vivre en paix et de faire des enfants à sa femme,
+          il voulut doubler ce million, et le voilà. Vive la propriété !</p>
+        <p>Il y a eu à Paris, dans le mois de janvier 1840, 70 faillites, dont le passif se monte à
+          6 millions. Le nombre des faillites, pendant 1839, se monte à 1,014 pour la seule place de
+          Paris, et le passif en dépasse 00 millions. Heureuse propriété!</p>
+        <p>Le peuple continue à mourir de faim, ou à se faire emprisonner pour vol et vagabondage.
+          On va accorder 500,000 francs de cadeau de noces et autant de rente annuelle au duc de
+          Nemours. Timon a glosé sur ce beau sujet; mais les députés voteront, le peuple paiera et
+          la Cour prendra.</p>
+        <p>L'autre jour je fus chez M. Cuvier; quelqu'un s'avisa de dire que quiconque ne travaille
+          pas, devrait perdre ses rentes. — Je lui dis : Monsieur, où irions-nous avec ce principe?
+          — Et que trouveriez-vous à reprendre? me dit M. Cuvier. — Moi, rien. Mais si l'on supprime
+          les rentes aux rentiers oisifs, il faut les supprimer encore aux rentiers qui travaillent
+          ; car, s'ils sont payés pour leur travail, ils sont toujours oisifs par rapport à leurs
+          rentes. — Ce fut un bâille— ment universel; votre ami Bourette me regarda du coin do
+          l'oeil et la conversation finit là.</p>
+        <p>On parle d'insurrection pour le printemps prochain; les uns y croient, les autres non.
+          Les carlistes conspirent et espèrent plus que jamais. Ils veulent se faire anéantir.
+          Beaucoup de gens diminuent leur domestique, d'autres restent à la campagne; la peur
+          commence à gagner, et dans la masse, l'opinion que le</p>
+        <p>DE P,-J. PROUDHON. 185 gouvernement ne tiendra pas, prend de la consistance.</p>
+        <p>C'est un pronostic très-fâcheux.</p>
+        <p>Le frère Droz ne comprend toujours rien à mes affaires, et pourtant il espère : on l'a
+          averti dernièrement de Besançon que je devenais fou. Il m'en a félicité, par la raison,
+          a-t-il ajouté, que cela ne se dit que d'un esprit supérieur. Malheureusement, cette raison
+          est mauvaise par rapport à moi, et il est vrai que sur certains passages de mes lettres on
+          doit trembler pour ma tête. Hé! Dieu de mon âme, c'est que je m'apprète à faire trembler
+          les autres.</p>
+        <p>Bergmann m'a écrit ; il goûte mes idées et il m'encourage. Que n'êtes-vous riches tous
+          deux! Que Fallût et votre Vernet ne sont-ils là! j'oublierais mes angoisses et peut-être
+          ferais-je quelque chose de passable. Mais non, il faut que je tue, dans un duel à
+          outrance, l'inégalité et la propriété. Ou je m'aveugle, ou elle ne se relèvera jamais du
+          coup qui lui sera bientôt porté.</p>
+        <p>Je remarque en moi un phénomène psychologique particulier et que je vous prie de vérifier
+          sur vousmême : le peu que j'ai su de langues anciennes et vivantes s'efface de mon esprit
+          comme un songe ; en même temps, il me semble que la forme catégorique de mes idées devient
+          de plus en plus française, à tel point que, si ce n'était la réflexion et ma propre
+          expérience, expérience, no concevrais pas que l'on pût parler autrement qu'en français. En
+          rhétorique, je pensais mes narrations en latin; aujourd'hui je pense les auteurs latins et
+          grecs que je lis, en français. Les mots français se concrètent pour ainsi dire dans mon
+          entendement; les mots latins, grecs ou hébreux me semblent des hiéroglyphes. Je suis
+          désormais hors d'état d'apprendre une langue. Hâtez-vous donc, apprenez l'allemand :
+          parler deux langues c'est avoir deux âmes et deux esprits. Quand vos idées seront
+          élaborées et fixées, votre esprit ne pourra plus admettre d'autres signes articulés que
+          ceux avec lesquels il les aura conçues et exprimées : c'est ce qui m'arrive aujourd'hui.
+          Dans deux ans, pour me faire apprendre une langue, il faudra me faire tout oublier ou me
+          casser la tète. Voilà aussi pourquoi les langues s'apprennent mieux dans la jeunesse : ce
+          n'est pas seulement parce que la mémoire est plus fraîche, c'est surtout parce que les
+          idées s'acquièrent avec les mots, et qu'un peu plus tard l'étude des langues n'est plus
+          qu'une froide synonymie.</p>
+        <p>Je vous prie de ne m'écrire, comme je le fais pour vous, que par occasion ; un port de 2
+          francs me gène. Quand je serai riche, je vous en préviendrai par une lettre franco. Je
+          vous embrasse de tout mon coeur.</p>
+        <closer>
+          <salute>Adieu.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

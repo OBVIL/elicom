@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-07-19" resp="author">19 juillet 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Monsieur le secrétaire perpétuel de l’Académie de Besançon (...-...)"
+            >Monsieur le secrétaire perpétuel de l’Académie de Besançon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-07-19"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>19 juillet 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Secrétaire perpétuel, je n'écris point à l'Académie, pour les raisons que
+          vous allez apprécier.</p>
+        <p>L'Académie, par sa déclaration du 24 août 1840, déclaration consignée dans ses recueils
+          imprimés, et, ce me semble, fort significative, m'a fait tout le mal qui était en son
+          pouvoir, et a rompu volontairement le lien qui m'attachait à elle. Qu'aurais-je à dire
+          aujourd'hui à votre compagnie, qui ME DÉSAVOUE ET ME CONDAMNE DE LA MANIÈRE LA PLUS
+          FORMELLE, pendant que de mon côté je persiste dans toutes mes opinions? Remercier
+          l'Académie du bien qu'elle m'a fait paraîtrait ironique ; rendre compte de mes études
+          passées et futures serait l'insulter; revenir sur ce que j'ai fait, cela ne se peut. Il
+          faut que je me taise, et que j'attende le retour spontané de l'Académie.</p>
+        <p>D'autre part, l'Académie m'a trompé en janvier 1841, lorsqu'elle m'a demandé des
+          explications sur mon ouvrage et mes intentions. Que pouvait-elle me faire de pis que le
+          blâme public du 24 août 1840 ? C'était pour prévenir cet acte de justice domestique que je
+          me défendais ; c'était le coup que je voulais parer. J'étais loin d'imaginer qu'il ne
+          s'agissait alors pour les académiciens que de compléter leur jugement en joignant l'amende
+          à leur condamnation. Quoi ! ils n'en voulaient donc plus qu'à mon dernier semestre, les
+          auteurs de la pièce fulminante du mois d'août ! 750 francs étaient devenus l'objet de ma
+          défense et de leur convoitise ! Relisez ma lettre du 10 janvier, Monsieur le Secrétaire
+          perpétuel, et vous reconnaîtrez la sincérité de mes paroles, quand je vous dirai que je
+          n'eusse pas daigné répondre si j'avais connu l'arrêt académique imprimé à la page 104 de
+          votre dernier rapport; arrêt d'autant plus affligeant qu'il fait suite à une longue série
+          d'auteurs franc-comtois, tous cités avec éloge. On sait votre complaisance pour les
+          moindres essais tombés des plumes séquanaises; et vous, Monsieur, notre compatriote
+          d'adoption, vous avez dû rire quelquefois de notre excessive vanité.</p>
+        <p>Enfin, l'Académie, par les craintes qu'elle m'a inspirées et la nécessité où elle m'a mis
+          de travailler pour vivre, est causé du retard qu'éprouveront mes publications. Mon
+          troisième Mémoire devrait paraître cette année, et j'ai quelque lieu de croire que, selon
+          la parole de M. Blanqui, il m'eût fait prendre rang dans la science et aurait prouvé que,
+          en me lançant brusquement dans une carrière si périlleuse, j'avais bien mesuré mes forces
+          et connu la portée de mon action. Je serais aujourd'hui maître du terrain où je lutte avec
+          le préjugé universel, s'il m'avait été permis de travailler à ma guise. Mon succès, j'ose
+          le croire du moins, est ajourné. En attendant, je parais victime de mon imprudence ; c'est
+          la seule raison que mes amis eux-mêmes m'op- posent encore, et qui parait inexpugnable.
+          L'avenir en décidera. Permettez-moi maintenant, Monsieur le Secrétaire perpétuel, de vous
+          donner quelques détails sur ma condition actuelle. Votre bonté pour moi, vos inquiétudes
+          vraiment paternelles, me donnent droit de penser que vous vous intéressez toujours à ce
+          qui me regarde. Après avoir couru le plus grand danger du côté du pouvoir, par suite de
+          mes deux Mémoires, l'orage s'est calmé un peu, et je me trouve aujourd'hui dans une pleine
+          sécurité. Il n'y a pas plus de trois semaines que j'étais encore sous le coup d'un mandat
+          d'arrêt, et cela non plus</p>
+        <p>pour délit de presse, mais pour crime d'attentat. M. Blanqui fut deux fois mon ange de
+          salut : la première près de M. Vivien , ministre de la justice, la seconde près de M.
+          Cunin-Gridaine, ministre du commerce. M. Blanqui lui-même avait été dénoncé par le préfet
+          de police comme conspirateur. Il me dit qu'en englobant tout le monde dans ma doctrine
+          j'avais fait croire aux monopoleurs qui assiégent le pouvoir, qu'il existait un vaste
+          complot, et que cette ridicule terreur avait mis le feu aux poudres. Je répondis que je ne
+          regrettais qu'une chose, c'était de n'y avoir point fait entrer les ministres et le Code
+          civil. Enfin, tout s'est apaisé. M. Blanqui a déclaré que je n'étais justiciable que de
+          l'Académie des sciences morales et politiques, et que, bien qu'il ne partageât pas ma
+          manière de voir, bien qu'il m'eût réfuté le premier, avant que le ministre connût
+          l'existence de mon ouvrage, il prendrait luimême ma défense devant la cour d'assises, si
+          l'on me faisait un procès. Ensuite il a expliqué que je n'étais point du tout ce que l'on
+          pouvait croire, etc.</p>
+        <p>Je vous adresse un exemplaire de mes deux Mémoires à M. Duchâtel, ministre de
+          l'intérieur, avec une lettre dont j'espère qu'il sera satisfait; je suis moins disposé que
+          jamais à taire ce qui me semblera la vérité; mais je veux que le pouvoir me connaisse et
+          me laisse en repos. Il faut que j'aie des protecteurs dans les hautes régions du
+          gouvernement.</p>
+        <p>J'achèverai cette année l'ouvrage de jurisprudence criminelle que j'ai commencé pour un
+          magistrat de la Seine; puis je continuerai mes Mémoires. Le succès de mes publications,
+          sans être brillant, est tel que je pouvais l'espérer ; inconnu à la presse et aux
+          confréries littéraires et politiques, sans partisans, sans prôneurs, sans amis, sans
+          publicité, je perce peu à peu; mes brochures se vendent, et mon libraire ne paraît point
+          mécontent. Enfin le pouvoir me fait l'honneur de me regarder comme l'un de ses plus
+          dangereux ennemis ; en quoi, assurément, il se trompe. — Du côté du peuple, je suis vu
+          avec plus de défiance que de sympathie ; les petits journaux d'ateliers me montrent assez
+          de mauvais vouloir ; les communistes me jugent déjà trop savant pour eux, et me regardent
+          comme une espèce particulière à.'aristocrate; tous profitent de mes idées sans me
+          témoigner de reconnaissance. Comme je n'ai jamais souhaité la popularité, \e ris de ces
+          petites jalousies de meneurs politiques, et m'en trouve plus à l'aise.</p>
+        <p>Des propositions de coopérer à certaines revues m'ont été faites. Je les accepterai le
+          plus tard possible. Enfin, Monsieur le Secrétaire perpétuel, les preuves que j'ai faites
+          suffisent déjà pour me faire rechercher, et les ouvrages que j'ai sur le chantier me
+          permettent de vivre encore longtemps de mon travail littéraire, en attendant que je
+          m'arrange autrement.</p>
+        <p>Je vous prie de présenter mes respects et ma recon- naissance à MM. Weiss, Viancin,
+          Perron, Trémolières, etc., en général à toutes les personnes que vous savez m'avoir été
+          favorables. Il est triste pour moi d'avoir à séparer les académiciens de l'Académie, mais
+          la position qu'on m'a faite m'y oblige. Je ne puis ni être ingrat envers les hommes, ni me
+          montrer satisfait de la conduite officielle do votre société; je ferai ma paix avec
+          l'Académie quand je serai de l'Académie.</p>
+        <p/>
+        <closer>
+          <salute>Je suis, Monsieur le Secrétaire perpétuel, toujours avec les mêmes sentiments
+            d'amour et de reconnaissance,<lb/> Votre dévoué et fidèle disciple,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

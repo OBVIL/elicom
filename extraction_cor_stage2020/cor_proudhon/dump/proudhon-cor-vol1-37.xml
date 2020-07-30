@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-07-13" resp="author">13 juillet 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Messieurs de l'Académie de Besançon">Messieurs de l'Académie de
+            Besançon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-07-13"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>13 juillet 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Messieurs, je remplis pour la première fois le devoir , qui m'est imposé par votre
+          délibération du 9 mai 1833, dans laquelle vous invitez le titulaire de la pension Suard à
+          remettre chaque année, dans la première quinzaine de juillet, un exposé succinct et
+          raisonné des études diverses qu'il a faites pendant l'année qui vient de s'écouler. C'est
+          à la recommandation de M. Droz, mon tuteur académique, en ce moment absent de Paris, que
+          j'ai l'honneur de vous adresser directement l'exposé que vous me demandez.</p>
+        <p>J'ai, depuis, huit mois que j'ai quitté la ville de Besançon, travaillé, j'ose le dire,
+          de toute la force de ma volonté et de toute la liberté de mon esprit; cependant mes
+          progrès ont été trop médiocres pour que je puisse en parler. Je me suis livré à divers
+          exercices de philologie, de littérature et de critique, dont je ne saurais dire encore la
+          valeur, puisque je suis juge unique des uns, et que, quant aux autres, la critique en a
+          été trop générale pour être vraiment significative. Le seul avantage dont mes travaux
+          aient été suivis, c'est de m'avoir fait connaître toute ma faiblesse. J' ai perdu grand
+          nombre d'opinions que je nourrissais avec complaisance, et que j'ai reconnues fausses;
+          celles que je croyais neuves et que je conserve, je les ai trouvées déjà professées et
+          développées par d'autres, et quant aux résultats que j'osais me promettre de certaines
+          études, j'ai appris à modérer mon enthousiasme et à ne point lâcher la bride à mes
+          espérances.</p>
+        <p>Je continue lentement, mais sans interruption, l'étude du grec et de l'hébreu ; je n'irai
+          pas beaucoup plus loin dans la linguistique : l'exemple des hommes les plus distingués me
+          fait préférer moins et mieux. Je suis trop en retard pour pouvoir me promettre des succès
+          brillants dans la linguistique proprement dite, science déjà fort avancée, et qui sera tôt
+          ou tard replacée au premier rang comme histoire naturelle de la pensée humaine.
+          L'explication des anciens auteurs n'est donc plus pour moi qu'une occasion de recherches
+          philosophiques et littéraires ; mais, pour vous rassurer sur l'utilité de ce genre
+          d'études, permettez-moi de dire Messieurs, que cette mine n'est point encore épuisée, et
+          qu'aux ouvrages des anciens, nous n'avons guère jusqu'à présent emprunté que la forme.</p>
+        <p>Fermement résolu à travailler longtemps pour produire peu, je pourrais peut-être fatiguer
+          votre espoir ; mais, Messieurs, trois années ne feront jamais ni un savant, ni un artiste,
+          et je ne saurais que plaindre celui qui, à une conquête modeste, mais durable, préférerait
+          l'éclat et le merveilleux d'une campagne inutile.</p>
+        <p>Je souhaite, Messieurs, qu'aucun rapport plus digne de foi sans doute, mais encore moins
+          satisfaisant que le mien, ne me fasse perdre le bien le plus précieux auquel j'aspire :
+          votre approbation et votre bienveillance.</p>
+        <closer>
+          <salute>Votre très-humble et très-reconnaissant pensionnaire,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

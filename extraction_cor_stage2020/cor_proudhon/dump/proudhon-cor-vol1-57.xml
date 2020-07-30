@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-05-03" resp="author">3 mai 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-05-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>3 mai 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, je ne puis m'empècher d'être touché jusqu'au fond de l'âme des
+          témoignages si vifs de ton amitié ; j'y retrouve toute la chaleur, toute l'effusion de
+          Fallot qui savait comme toi être et se montrer ami. Je ne suis pas heureux sans doute ;
+          mais pas un riche, pas un de ces heureux, du siècle n'aura été aussi bien partagé que je
+          le suis du côté de l'amitié : j'ai pleuré déjà de vrais amis frappés par la mort, j'en
+          conserve de plus nombreux et, s'il est possible, de plus dévoués. Quelqu'un s'est chargé
+          de m'apprendre que je déplais généralement dans ma patrie : cela m'afflige, mais ne me
+          surprend pas. Dans une ville d'argent et d'orgueil, je me flatte do ne pouvoir être connu
+          et de rester indifférent ; il faut m'aimer ou me haïr.</p>
+        <p>J'accepterai avec plaisir ton billet de 85 francs; le moment est venu où j'en puis avoir
+          besoin. Je touche après-demain ma pension (750 francs échus au 22 mars) j'expédie
+          sur-le-champ 500 francs à Besançon, et je dois déjà 70 francs sur la place de Paris: reste
+          180 francs. Comme je me propose de partir dans six semaines, e</p>
+        <p>1 qu'auparavant je désire publier mon livre, ton argent pourra m'être nécessaire.</p>
+        <p>J'ai déjà écrit à un libraire qui n'a pas daigné me répondre. Les libraires en vogue sont
+          de grands seigneurs qui méprisent singulièrement les auteurs inconnus. Je vais m'adresser
+          à un autre, qui sans doute ne me répondra pas davantage. Au reste, le ton que je prends
+          avec ces messieurs est peu engageant ; mais j'aime mieux leur laisser des témoignages de
+          fierté que de soumission. Je trouverai toujours quelque malheureux, peu en crédit, pour
+          qui deux ou trois cents francs à gagner ne seront pas chose à dédaigner. Je' puis
+          m'engager à prendre 200 exemplaires sur 500 que l'on tirerait ; les frais d'impression
+          étant ainsi payés par un placement fait d'avance, il me semble que les plus grandes
+          difficultés sont levées.</p>
+        <p>Je n'accepte pas la prophétie de martyre que tu me fais : tu juges trop mal de la rouerie
+          du pouvoir, de l'ignorance du public et de la tyrannie exercée par les meneurs de
+          l'opinion. Le premier a intérêt à laisser mourir la vérité ; le second entend sans
+          comprendre et regarde sans voir ; les autres ne se soucient guère que leur charlatanisme
+          soit dévoilé. Non, non, je ne serai ni martyrisé, ni inquiété, ni même lu ; l'Académie de
+          Besançon continuera à penser que j'ai de l'originalité et de l'audace, mais que je suis
+          homme à paradoxes ; les plus sages me plaindront sincèrement de perdre si follement mes
+          peines, et tout le monde à la fin me dira Te voilà bien avancé, beau réformateur !</p>
+        <p>Que dis-je ? je ne souffrirai pas le martyre ? En est-il un plus douloureux que
+          l'oppression des fourbes et des sots"? Ah! si mon coeur saigne quelquefois, c'est de voir
+          mon zèle inutile et tous les efforts de ma raison vainement dépensés. Ma consolation est
+          grande, j'en conviens ; le suffrage de quelques hommes de coeur et d'intelligence, tels
+          que toi, suffit pour me dédommager de tout. Mais n'est-il pas pénible de voir le malade
+          refuser le remède, l'aveugle se refuser à l'oculiste, et l'art ainsi que la vérité devenir
+          inutiles ?</p>
+        <p>Laissons cela. Mon ouvrage est fini et j'avoue que j'en suis content. Je ne puis y penser
+          sans un frémissement de terreur. Quand je songe à l'effet qu'il produirait
+          infailliblement, publié par un Arago, j'éprouve les mêmes palpitations qu'un Fieschi à la
+          veille de faire partir une machine infernale. Jusqu'au moment où j'entrepris de connaître
+          à fond la pierre angulaire de la politique, je n'en avais réellement aucune idée ; j'étais
+          à cet égard dans les mêmes ténèbres où sont plongés tous mes semblables, depuis le
+          chiffonnier jusqu'aux Merlin et aux Portalis. Depuis plusieurs années, des doutes, des
+          lueurs incertaines, de fugitives clartés agitaient mon esprit ; je me suis mis à l'étude
+          et j'ai vu mes efforts couronnés de succès. La vérité se montre à qui la cherche, mais il
+          faut savoir la chercher. Elle exige des efforts, des soins, de l'opiniâtreté, de la bonne
+          foi et une grande défiance de notre raison. Combien de fois j'ai dû me corriger moi-même !
+          Grâce au ciel, je crois désormais que, hors le style et quelques points relatifs à
+          l'érudition, aucune proposition avancée par moi ne peut être reprise. Nous avons un
+          principe pour la science sociale : reste à la faire maintenant.</p>
+        <p>Encore une fois, mon livre passera inaperçu ; on le signalera peut-être au fond de
+          quelque diatribe dynastique, comme un exemple de la rage impuissante des partis et de la
+          liberté dont le pouvoir nous laisse jouir, mais le lire ! Non, jamais. — Quel est l'auteur
+          ? Un imprumier nommé Rodon, ou Prudont, ou Broudon, etc. Le déférer au parquet ? Ah !
+          parbleu ! je les attends là. Tout serait perdu, vois-tu, si l'on me faisait un procès.</p>
+        <p>Mais qui peut sonder, grand. Dieu! ta puissance infinie? Peut-être que la lumière, contre
+          mon espoir, se communiquera peu à peu, et que nous n'irons pas loin sans en ressentir les
+          résultats. Maguet m'assure le placement de 25 à 30 exemplaires, parmi des étudiants ; un
+          de mes compatriotes a déjà une liste d'une cinquantaine ; Dessirier compte sur 15 à 20 ;
+          j'ai imposé tous mes amis, qui, malheureusement, ne brûlent pas tous du feu sacré;
+          l'Académie de Besançon, compromise par ma dédicace, sera forcée de parler ; quelques
+          annonces faites dans les journaux éveilleront la curiosité; et qui sait? Que les journaux
+          viennent à s'occuper du livre, et l'affaire est bâclée.</p>
+        <p>Tu dois rire en me voyant cette extraordinaire confiance ; c'est, mon ami, que je ne
+          connais rien dans les sciences, dont la découverte ait jamais produit un effet pareil à
+          celui que la lecture de mon ouvrage est capable de produire. Je ne dis pas : qu'il soit
+          compris ; je dis seulement : qu'il soit lu, et c'est fait de la vieille société. Il ne se
+          peut rien de plus clair, de plus simple, de plus démonstratif, de mieux enchaîné que les
+          cinq chapitres dont se compose mon premier Mémoire, car j'ai résolu de partager mes
+          publications, et cela tient autant à la méthode qu'à l'arithmétique dont j'ai fait
+          usage.</p>
+        <p>J'ai honte de me donner tant d'éloges ; mais un ami les pardonne. D'ailleurs, pour tout
+          dire, la vérité une fois connue, comprise et pratiquée, mon livre devient à jamais
+          inutile, et même trivial et sot. Cest le sentiment qu'il me fait éprouver à moi-même : je
+          songe que ce n'est point là réellement de la science, mais une démonstration digne
+          d'Arlequin; en sorte que je regarde mon travail, non comme une étude, mais comme un
+          sacrifice. Il faut bien que quelqu'un se dévoue pour que les autres étudient : eh bien !
+          étudie pour moi, tandis que je ferai la guerre. Tu me trouveras un jour bien ignorant;
+          mais tu te souviendras que mon ignorance est venue de la bêtise des autres.</p>
+        <p>Je compte aller te voir cet automne, car je ne reviendrai pas à Paris.</p>
+        <p>Ackermann se plaint des difficultés de la langue allemande, qui lui donne plus de fil à
+          retordre qu'il ne s'y attendait d'abord. Ses affaires sont assez médiocres. Tous nos amis
+          te saluent et me chargent de l'exprimer leur sincère affection.</p>
+        <p>Marque-moi combien d'exemplaires tu désires que je t'envoie ; tu les placerais, et pour
+          n'avoir pas l'air d'un colporteur, tu pourrais dire, ce me semble, que c'est une bonne
+          oeuvre, faite par souscription. Au reste, je les débiterai encore mieux moi-même ; et je
+          ne doute pas que cette impression, qui m'oblige à t'emprunter, ne me rapporte de quoi le
+          rendre.</p>
+        <closer>
+          <salute>Adieu, je t'embrasse de tout mon coeur ; dans un mois tu auras de mes nouvelles.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p>P. S. J'aurai soin de tes lettres en cas de malheur.</p>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1837-11-04" resp="author">4 novembre 1837</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1837-11-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon,</placeName>
+            <date>4 novembre 1837.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, toutes vos remarques sont excellentes, et j'en veux aux épais
+          Franc-Comtois que j'ai pu consulter, et qui n'y voient pas ; mais il est trop tard ; j'ai
+          fait tirer sans vous attendre, afin d'être plus tôt près de vous. Cependant, le mal n'est
+          pas sans remède. L'édition est à deux cents exemplaires, qui seront emportés par les amis
+          de l'auteur et les lourdauds du pays, après quoi nous aviserons au moyen de faire mieux,
+          et d'imprimer pour des Français.</p>
+        <p>Je n'ai que deux choses à vous représenter :</p>
+        <p>1° Vous me reprochez de ne point égaler le style de Rousseau : auriez-vous eu le droit de
+          dire au P. Ropin, à la publication de sa première pièce de vers : C'est passable, mais
+          vous n'égalez pas Virgile ?...</p>
+        <p>2° Vous insistez sur le latin et les termes de scholastique : mon discours n'est point
+          encore destiné exclusivement au peuple. Je mettrai postulé au lieu de postulatum ; mais il
+          est reçu partout de dire à priori et à posteriori: le citum et le factum sont deux
+          expressions intraduisibles et adressées aux philosophes. Je supprimerai critérium, et vous
+          aurez la bonté de me donner l'équivalent de triduum. Je ne manquerai pas, je vous assure,
+          de consulter M. Droz ; je vois d'ici ses froncements de sourcils; mais il faut qu'il y
+          passe. Si vous avez jamais cru que je me proposasse de lui cacher cette publication, vous
+          vous êtes trompé.</p>
+        <p>Du reste, vous avez bien raison, et je l'ai senti il y a longtemps pour la première fois
+          : j'ai besoin de travailler mon style. Cela me, coûtera plus que toutes mes autres études.
+          J'ai des idées capables d'alimenter deux ou trois Chateaubriand, et je ne puis, venir à
+          bout de les rendre. Ce que l'on conçoit bien s'exprime clairement. ou aisément, je ne sais
+          lequel. C'est aussi faux qu'un proverbe. Je suis sûr de bien concevoir ce que j'ai à dire,
+          et j'ai mille peines à l'exprimer ; je n'en voudrais pour preuves que les passages mêmes
+          que vous m'avez signalés, et que j'aurais pu corriger à l'instant. Mes faiblesses de style
+          me viennent toujours du défaut d'oreille, de mon inadvertance ou de mon ignorance, jamais
+          de l'inertie de ma conception.</p>
+        <p>J'ai fait quelques corrections nouvelles à votre discours en le faisant imprimer ; par
+          exemple, les beaux parleurs qui vieillissent; qui vieillissent m'a paru inutile. Voyez. Je
+          ne me rappelle pas le reste, n'ayant plus mon épreuve.</p>
+        <p>J'arriverai vendredi, vers le soir; je pars aprèsdemain mercredi, à cinq heures, du
+          matin. Je. n'ai pas encore lu entièrement votre épreuve sur les noms composés, et pas une
+          ligne des miennes, tant je suis occupé ailleurs. Il est temps que je me sauve.</p>
+        <p>Vous me reprochez amicalement de ne pas tenir compte de vos principes, à propos de
+          sauvegardes : la vérité est que je me suis trouvé fort embarrassé, et que j'ai regretté
+          que vous ne fussiez pas là.</p>
+        <p>Item, vous demandez si je veux apprendre au public que j'ai concouru? Non, je ne le lui
+          dirai pas ; mais aussi, j'imprime sur ma couverture que le sujet a été proposé par
+          l'Académie : dès lors, je suis censé parler à l'Académie.</p>
+        <p>J'aurai à m'entretenir avec vous sur plusieurs locutions que j'ai hasardées, et qui me
+          viennent du peu de philologie comparée que j'ai fait : ce sont des imitations latines,
+          grecques ou hébraïques. Il faudrait savoir ce qu'il est permis de faire pour
+          l'enrichissement d'une langue et pour le transport des locutions étrangères. Le fond de
+          tout ceci, c'est que nul n'écrit parfaitement qui sait trop de langues, ou qui en sait
+          quelques-unes trop bien. Tout grand écrivain n'a été fort que dans sa langue.</p>
+        <p>Je vous assure que j'ai une démangeaison terrible d'envoyer la littérature au diable :
+          cela m'ennuie et m'excède. Je n'ai pas cette patience dont parle Béranger, et que je vous
+          souhaite. Je voudrais pouvoir parler par formules, mettre tout ce que je pense en une
+          feuille ; j'en tirerais tous les ans deux mille exemplaires que j'enverrais gratis et
+          franco partout ; et puis je composerais des lignes de plomb.</p>
+        <p>Que je fasse des vers! Voulez-vous que je me fasse saigner, que je me mette au lit, que
+          je prenne l'émétique ou l'ipécacuanah! J'aime mieux faire tout cela que des vers.</p>
+        <p>Vous, vous irez loin ; vous avez la manie de l'art : vous sentez le beau littéraire, qui
+          me fait bâiller, vous êtes homme à souffrir dix ans pour un succès. Votre vocation se
+          montre bien plus dans vos remarques que dans vos oeuvres , et la raison en est simple :
+          dans la critique, la raison et le goût se montrent, tandis que la composition les déguise
+          !...</p>
+        <p>Il fait sombre ! il pleut ; oh ! que je m'ennuie. Je voudrais m'endormir pour cinquante
+          ans.</p>
+        <closer>
+          <salute>Adieu, à samedi.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

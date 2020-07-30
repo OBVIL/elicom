@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="183.." resp="editor">183..</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Muiron, Just (1787-1881)">Just Muiron</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="183.."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>183..</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur, j'éprouve un plaisir infini à vous entendre, et j'avoue, avec un peu
+          d'embarras, que je ne m'attendais pas à rencontrer un caractère si facile, si accommodant
+          que le vôtre.</p>
+        <p>Mes irrésolutions ne font que croître et me torturer de plus en plus. Piqué du reproche
+          de découragement, je ne sais quel parti prendre ; mais, réflexion faite, je donnerais
+          beaucoup pour avoir refusé net dès le premier instant. Ce serait me rendre le plus grand
+          service, et dont je serais toute ma vie reconnaissant, que nous en demeurassions là, pour
+          tout ce qui regarde notre affaire. Rédiger un article m'épouvante plus que jamais.</p>
+        <p>Vous me demandiez hier si les opinions que je professe et qui nous sont communes, je les
+          écrirais dans une feuille publique, et vous répondiez : « Non, sans doute. » Et pourquoi
+          non? pourquoi l'Impartial ne serait-il pas un journal républicain, à sa manière
+          toutefois?</p>
+        <p>Pourquoi cette feuille, dont les plus nombreux abonnés sont les maires des campagnes, ne
+          serait-elle pas indépendante de toute autorité, administration ou magistrature supérieure,
+          nommée par le ministre ou par le roi?</p>
+        <p>Pourquoi n'admettrait-elle, ne provoquerait-elle pas les réclamations des communes contre
+          les maires, de ceux-ci contre le préfet et les sous-préfets? Car je remarque à la lecture
+          de cette éternelle controverse entre le Patriote et l' Impartial, qu'on reproche surtout à
+          celui-ci d'être la feuille officielle, ministérielle, stipendiée, soutenue par l'autorité,
+          à charge par elle de louer et préconiser tous les actes de celle-ci. Pourquoi ne
+          professerait-on pas publiquement un pyrrhonisme absolu sur tous les ministères passés,
+          présents et futurs ? Pourquoi n'inviterait-on pas les populations à se rendre elle-mêmes
+          capables de gérer leurs affaires, de préparer ainsi les voies à la confédération des
+          peuples ? Qu'elles cherchent dans l'instruction, la science, la saine morale, le
+          patriotisme, à se passer de toute hiérarchie ministérielle, et constitutionnelle, tout en
+          faisant leur profit cependant du peu de bien qu'elles en pourront recueillir.</p>
+        <p>Pour vous le dire à l'occasion du Phalanstère, dont j'ai lu attentivement le prospectus,
+          je ne pense pas comme M. Fourier, jusqu'à plus ample informé. Jamais avec vous je n'aurai
+          de discussion à cet égard ; mais, je vous l'avoue, je serai plutôt convaincu par les faits
+          que par les arguments ; et ceux-ci, je les comprendrai mieux, lorsque j'en verrai faire la
+          plus heureuse application. Laissons cela.</p>
+        <p>J'ai lu aussi votre polémique avec M. A.-F. C. Elle m'a paru une dispute de mots. Mais me
+          supposant rédacteur, je trouvais que l'arme du ridicule serait pour moi la plus redoutable
+          ; je ne tiens pas à la plus mauvaise plaisanterie.</p>
+        <p>Enfin, Monsieur, vous ne manqueriez jamais de bonnes raisons pour lever tous mes
+          scrupules, dissiper mes doutes et fixer mes incertitudes.</p>
+        <p>Je cesserai donc de chercher des motifs, à mon refus. C'est impuissance complète, c'est
+          répugnance invincible, c'est.....c'est enfantillage, si vous voulez. Je ne me connais
+          point, j'étais entraîné par le désir de correspondre aux voeux d'amis tels que Micaud et
+          Fallot: ma bonne volonté m'a trompé.</p>
+        <p>Arrêtons-nous quand il en est temps encore. Epargnons-nous à tous deux une fâcheuse
+          expérience.</p>
+        <p>Voici, Monsieur, ma définitive résolution, et en même temps la dernière entrevue que
+          j'aurai l'honneur d'avoir avec vous, jusqu'à ce qu'il soit bien sûr que toute négociation
+          nouvelle à l'égard de notre affaire est désormais impossible. Je dis la dernière entrevue,
+          en supposant toutefois que vous me permettrez de continuer avec vous un commerce de
+          conversation ou de lettres, encore plus agréable qu'utile.</p>
+        <p>Si vous étiez embarrassé de trouver un gérant, je vous offrirais mes faibles services
+          pour vous trouver un homme plus capable, de tout point, que moi pour cette besogne.</p>
+        <p>Je sens que j'aurais besoin de travailler six mois au moins à de sérieuses études, de
+          donner l'éveil à mes idées, de les digérer, de les mettre en ordre, avant d'oser écrire un
+          seul mot pour le publier, chose que je m'obstine à regarder comme plus importante que vous
+          n'en convenez; et au bout de ce temps, je refuserais vos offres avec d'autant plus de
+          fermeté que je serais mieux instruit et plus capable. Brisons donc là, s'il vous
+          plaît.</p>
+        <p>Je me suis examiné sérieusement, j'ai consulté des personnes sensées, lesquelles sont
+          entrées parfaitement dans mes raisons.</p>
+        <p>Mon travail d'imprimerie, me dérobant à mes lectures, me laisse pleine et entière liberté
+          d'esprit pour la méditation. Le journal m'obligerait à lire journaux et brochures
+          nouvelles, toutes choses insupportables pour moi, me fatiguerait par une contention
+          d'esprit perpétuelle, absorbé que je serais entièrement par la controverse et la polémique
+          continuelle. En somme, je vois de grandes chances d'ennui et des tribulations, contre de
+          très-minimes, pour ne pas dire nulles, de gloire et de satisfaction.</p>
+        <closer>
+          <salute/>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-07-13" resp="author">13 juillet 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Brunet de la Renoudière, Monsieur (...-...)">Monsieur Brunet de la
+            Renoudière</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-07-13"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>13 juillet 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je n'ai jamais écrit une ligne pour aucun journal, si ce n'est celui de l' Instruction
+          publique, auquel j'ai donné un article de complaisance ; ce n'est pas que la pensée ne
+          m'en soit jamais venue, mais je trouverais difficilement un journal auquel je convinsse,
+          et qui me convint à moi-même. Cependant, en considération des beaux projets que vous me
+          faites connaître, je pourrais bien parfois vous offrir quelque petit article, mais à la
+          condition expresse que, signant ma pensée, elle ne serait jamais altérée.</p>
+        <p>Après cela, je m'occuperai volontiers de vous procurer l'échange des journaux que vous
+          désirez contre le vôtre; mais cela seulement quand vous aurez conclu votre marché avec M.
+          Huguenet, qui me témoigne n'être que médiocrement satisfait de vos offres. M. Huguenet a
+          reçu mes ordres pour travailler au meilleur marché possible ; et comme je ne réclame rien
+          do ce qu'il gagne, il ne m'obéit que trop bien. Les bonnes doctrines, monsieur, commencent
+          par ce principe, qu'il faut que tout le monde vive, et que la vérité doit être livrée sans
+          bénéfice par celui qui la répand : Quod gratis accepistis, gratis date. Je croirai à vos
+          généreuses intentions, quand vous aurez cessé de vous défier d'un honnête ouvrier, et que
+          vous ne marchanderez plus sur sou misérable salaire. Je pourrais ici, monsieur, vous
+          exposer quelques-unes de mes idées politiques sur les droits d'auteur et de journaliste,
+          et sur les privilèges de l'ouvrier ; je les réserve pour l'un de vos premiers numéros, si
+          vous agréez le service de mes presses et la collaboration de ma plume. Je crois
+          n'appartenir à aucune opinion ; aussi il m'importe fort peu quel journal m'imprimera,
+          pourvu qu'il ne m'impose pas sa façon de voir et de dire.</p>
+        <closer>
+          <salute>Croyez, monsieur, que je n'ai qu'une parole, sur laquelle je ne reviens jamais, et agréez
+            s'il vous plait, l'assurance de mon dévouement bien sincère,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

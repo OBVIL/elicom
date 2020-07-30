@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-08-09" resp="author">9 août 1841</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Tissot, Joseph (1801-1876)"
+            ref="https://data.bnf.fr/fr/11926714/joseph_tissot/">Joseph Tissot</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-08-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon,</placeName>
+            <date>9 août 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Tissot, je vous envoie, par l'occasion d'un jeune Dijonais qui quitte Besançon,
+          deux exemplaires de mon premier Mémoire sur la Propriété (2e édition), l'une pour vous,
+          l'autre pour M. Parigot, à qui je vous prie de présenter mes vives sympathies et mon
+          amitié la plus sincère. Je lui trouve toute la bonhomie franc-comtoise, avec l'élégance et
+          la finesse bourguignonne. Je regrette seulement que, dans les courts instants où je me
+          suis trouvé avec lui, il se soit montré trop peu expansif. Peut-être mon excessif penchant
+          au bavardage en est-il la cause unique; toutefois il me semble que j'aurais droit de me
+          plaindre de cette réserve de la part d'un jeune homme qui sait beaucoup et qui sait bien.
+          Apprenez, philosophe, à rendre vos disciples plus communicatifs, car la curiosité seule
+          finit par engendrer la froideur et la défiance.</p>
+        <p>Je trouve cette fois un accueil généralement plus cordial à Besançon qu'à mon dernier
+          voyage ; il n'y a plus que les cafards et les chefs de la boutique académique qui me
+          gardent un peu rancune. Encore un an et un Mémoire, et j'aurais pris pied dans le pays. La
+          génération nouvelle marche, marche, que c'est merveille ! Vous en seriez content. Je parle
+          de vous partout, de votre gracieuse réception ; cela me donne de la considération, et je
+          ne suis pas fâché de rappeler que vous êtes Franc-Comtois et philosophe. Mais déjà l'on se
+          préoccupe de vos travaux et de tout ce qui vous appartient; jugez à cette preuve. On sait
+          et l'on dit à Besançon que votre fils Charles est un jeune homme de grande espérance, et
+          il n'a pas seize ans! Ma foi, je l'avoue à ma honte, je regrette que la société du père et
+          la présence de la mère m'aient empêché de causer avec cet aimable enfant; c'est une
+          connaissance qui me reste à faire. J'espère qu'une autre fois vous et Mme Tissot voudrez
+          bien me faciliter ces nouvelles relations ; il est temps de traiter en homme un adolescent
+          dont la réputation devient déjà provinciale. Je me défierai à l'avenir des familles où une
+          seule personne parle tandis que toutes les autres écoutent. M. Charles et Mlle Tissot,
+          quand j'y songe, doivent me trouver bien bête, moi qui n'ai pas su trouver une parole
+          d'encouragement et d'amitié pour l'un ni pour l'autre. 0 vanité littéraire! ô égoïsme
+          philosophique! J'ai honte de moi, et je vous demande pardon, mes aimables hôtes.</p>
+        <p>Je trouve mon atelier dans une fériation complète. C'est la saison morte pour les
+          imprimeries. Après deux ou trois semaines de repos absolu et de vie animale, pendant
+          lesquelles je ferai un petit inventaire, je reprendrai ma besogne; il faut avancer, et mon
+          troisième Mémoire, et mon Institution criminelle. Je compte imprimer le tout à Besançon.
+          Depuis quinze jours que je ne lis rien et que je ne fais que parler, j'ai déjà eu le
+          loisir de les mettre en ordre. Dans un mois je pourrai écrire.</p>
+        <p>Il me tarde de faire de la métaphysique, et alors!... à toi, à moi !</p>
+        <closer>
+          <salute>Je vous supplie, mon illustre et vénérable compatriote, de me mettre aux pieds de
+            la toute bonne et toute excellente Mme Tissot, et de me croire sans réserve votre dévoué
+            et affectionné</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

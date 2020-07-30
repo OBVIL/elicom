@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-05-16" resp="author">16 mai 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-05-16"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>16 mai 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, j'essaie de vous répondre par la plus belle matinée de mai qui se
+          puisse voir. J'ai vis-à-vis de ma fenêtre un magnifique soleil ; il ne me manque que des
+          rossignols et des roses. J'entends à défaut les roquets et les pierrots, ce qui est peu
+          fait pour rafraîchir l'esprit et récréer l'imagination. Pour répondre à toutes vos
+          questions, il faut commencer par mon histoire.</p>
+        <p>L'Académie de Besançon, de plus en plus animée contre moi par une coterie de cafards et
+          de plats courtisans du pouvoir, m'avait ajourné à comparoir devant elle au 15 janvier
+          1841, terme de rigueur et définitif, ou à faire valoir mes défenses ; il s'agissait de me
+          voir supprimer ma pension, Déshonoré publiquement si ce malheur me fût arrivé, j'étais
+          ruiné de fond en comble et perdu sans ressources. Je n'avais plus qu'à partir pour la
+          Russie ou pour l'Amérique. La détresse me donna des forces. J'avais épuisé toutes les
+          explications; j'eus recours à la menace. J'écrivis un factum de manière à ce qu'il pût
+          être imprimé. Je me proposais de porter le débat devant le public bisontin, et de le
+          rendre juge de la conduite des académiciens et de la mienne. Dans cet écrit, j'insistais
+          plus fort que jamais sur ma doctrine; je la montrais existante et professée partout, de
+          sorte que je ne m'en trouvais plus que l'expositeur et pour ainsi dire le chef. Plusieurs
+          membres de l'Académie étaient nominalement désignés comme mes ennemis et fort maltraités ;
+          en un mot, je montrai les dents et je fis entendre à l'Académie que, si elle cherchait du
+          scandale, il y en aurait. Il paraît que cela fut compris : une moitié de l'Académie se mit
+          à rire de l'autre ; le préfet vint à mon aide ; on commença à dire que j'étais un garçon
+          de talent et qui pouvait aller loin; bref je fus' acquitté, je crois, à l'unanimité. A
+          présent, on dit du bien de moi partout, bien qu'on me blâme en beaucoup de choses.</p>
+        <p>Pendant que tout cela s'agitait à l'Académie, la perspective d'une déchéance prochaine me
+          fit chercher à m'employer utilement, je veux dire lucrativement, à Paris. Je déterrai un
+          magistrat de la Seine, gendre de M. S***, pair de France, ami de Louis-Philippe, qui
+          accompagna Charles X à Cherbourg avec Odilon Barrot ; lequel magistrat voulait faire un
+          livre de législation criminelle, et cherchait un aide pour cela. Je lui fus présenté, et
+          je travaille avec lui depuis le 1er février, à 150 francs par mois et le logement.</p>
+        <p>Le travail dont je m'occupe aura pour titre : Philosophie de l'instruction criminelle. A
+          dire vrai, je fais presque tout, et si l'ouvrage devait paraître sous mon nom, j'en
+          tirerais de bons écus, tant j'ai trouvé de choses neuves et intéressantes qui seront
+          publiées dans ce livre. Mais voici le meilleur de l'affaire.</p>
+        <p>Mon patron est, de sa nature, assez aristocrate; mais il voudrait être député, et pour
+          cela il veut se montrer libéral, progressif, ami de la liberté et de la justice, surtout
+          neuf en quelque chose. D'un autre côté, ce n'est pas un de ces esprits généralisateurs
+          qui, sur une face qui leur est présentée, découvrent tout de suite un système. Comme la
+          plupart des hommes, même des savants, mon patron ne va jamais, par induction, du
+          particulier au général. C'est sur cela que je bâtis mon petit projet. Je lui façonne le
+          mieux du monde un système complet de réforme judiciaire et d'organisation pour la
+          magistrature, système qu'il ne comprend qu'en partie, mais qu'il trouve parfois si juste,
+          qu'il s'imagine l'avoir découvert, et me dit à moi-même : N'est-ce pas que je vous ai
+          donné là une bonne idée? Or, il faut vous dire que ce système n'est qu'une application
+          particulière d'une critique générale de la. Char te et de nos institutions politiques, que
+          je publierai l'année prochaine. Je fais un véritable sic vos non vobis que moi seul je
+          puis achever; et il sera curieux, quand vingt journalistes auront vanté le livre de mon
+          bourgeois, quand on en aura admiré la méthode, l'économie, la philosophie, de me voir
+          sommer l'auteur d'aller jusqu'au bout de ses principes, et de réaliser les promesses que
+          je lui fais faire de temps en temps. Mon plan, j'espère que vous le comprenez, n'est pas
+          de mystifier un homme qui, au fond, est honnête, qui a beaucoup d'esprit mais point
+          d'intelligence (chose que je n'aurais pas cru possible auparavant), mon but est
+          d'accrocher un magistrat, de m'en faire une autorité, puis, par le succès d'estime
+          qu'obtiendra son ouvrage, grâce aux amis, d'exploiter le sujet pour la réforme sociale et
+          l'égalité. Bref, je ferai un scandale de cet écrit, après qu'il aura été loué et peut-être
+          récompensé.</p>
+        <p>Et cela arrivera comme je vous le dis.</p>
+        <p>Je viens de publier un second Mémoire sur la Propriété, sous forme de Lettre adressée à
+          M. Blanqui. C'est une espèce d'apologie du premier Mémoire et de l'auteur. J'y ai
+          développé de nouveaux points de vue ; par exemple, que l'humanité, depuis quatre mille
+          ans, est en travail de nivellement; que la société française, à son insu et par la
+          fatalité des lois providentielles, démolit chaque jour la Propriété; que toutes les écoles
+          la condamnent, etc. Cette exposition historique et critique des tendances et des doctrines
+          se termine tout naturellement par cette conclusion : il faut marcher du côté où nous
+          allons, puisque c'est la nécessité qui nous pousse.</p>
+        <p>Ce Mémoire a paru à tout le monde mieux écrit, plus intéressant et plus mesuré que le
+          premier. M. Blanqui m'a dit à ce sujet les choses les plus flatteuses, m'engageant à me
+          modifier encore, et me promettant à ce prix qu'un troisième Mémoire me ferait prendre
+          place dans la science.</p>
+        <p>Je puis dire en toute vérité que je n'ai pas un partisan, au moins déclaré ; le peuple ne
+          peut suivre de si longues et si abstraites inductions ; les hommes compétents sont
+          empêchés, par la prudence, de se prononcer; enfin il parait aussi difficile d'admettre mes
+          idées que de les réfuter. En attendant, je reçois directement ou indirectement des
+          encouragements honorables; ceux même qui ne sont pas encore pour moi m'engagent à
+          poursuivre; M. Blanqui, entre autres, m'a dit que je ferais un très-grand bien dès que
+          l'on n'aurait plus rien à craindre de mes intentions et de l'abus qu'on pourrait faire de
+          mon livre. C'est à quoi j'ai répondu que j'y saurai mettre ordre.</p>
+        <p>J'ai attaqué vivement le National, qui en a pleuré et grincé des dents; j'ai fait une
+          critique très-vive de la philosophie de Lamennais, critique qu'on trouve juste, mais qu'on
+          voudrait plus bienveillante pour l'auteur. J'avoue que je ne puis encore me rendre à cette
+          observation. Lamennais vient de publier un nouveau volume, que j'ai lu, et dans lequel il
+          semble avoir pris à tâche de justifier ce que j'ai dit de lui : qu'il était désormais
+          impuissant. Il reprend en sous-oeuvre la célèbre profession de foi du Vicaire savoyard, et
+          se met à amplifier les arguments de Jean-Jacques contre les miracles, les prophéties, la
+          révélation, le péché originel, l'enfer, etc. Diatribes contre le clergé et le
+          catholicisme. Quoi qu'on dise de cet homme, je répondrai toujours que je ne n'aime pas les
+          apostats. Il pouvait changer d'opinion, mais il ne devait jamais faire la guerre à ses
+          confrères dans le sacerdoce, ni au christianisme, qu'il ne s'agit plus d'attaquer, mais
+          d'approfondir. Je me réserve de le ressaisir quelque jour.</p>
+        <p>J'ai fait connaissance de Pierre Leroux, que je trouve aimable et spirituel.</p>
+        <p>Vous voyez donc quelle est ma position : auteur de deux Mémoires contre la Propriété
+          restés tous deux sans réponse, bien qu'ils aient été curieusement et minutieusement lus ;
+          engagé dans une carrière encore inexplorée (il s'agit de refaire toute la législation, en
+          substituant de nouveaux principes aux anciens); annonçant de nouveaux écrits plus
+          explicites et, cette fois, plus positifs, — je ne nuis reculer. Je regarde ma tâche comme
+          trèsgrande et très-glorieuse. Il ne me reste qu'à m'en rendre digne. Le genre Mémoire
+          paraît être celui qui me convient : moitié science, moitié pamphlet, noble, gai, triste ou
+          sublime, parlant à la raison, à l'imagination et au sentiment : je crois que je ferai
+          mieux de me tenir à cette forme. La science pure est trop sèche ; les journaux trop par
+          fragments; les longs traités trop pédants : c'est Beaumarchais, c'est Pascal qui sont mes
+          maîtres. Mais quel avantage j'ai sur eux! Je fais intervenir le monde entier dans mes
+          écrits : il n'est pas une question de philosophie, de morale, de politique, que je ne
+          puisse faire entrer dans ces Mémoires.</p>
+        <p>Je regrette beaucoup maintenant mon esclavage ; je vais me hâter de mettre aux mains de
+          mon maître les matériaux de son livre, et je m'enfuis, au 1er août, en Franche-Comté.
+          J'oubliais de vous dire que j'ai couru un immense danger à l'occasion de mon premier
+          Mémoire, qui a été cité dans tous les procès politiques, de compagnie avec ce que le
+          radicalisme produit de plus abominable. C'est à Blanqui que je dois d'avoir été ménagé. Le
+          ministère, le conseil d'État, l'Académie, le parquet, tout poussait des cris de rage.
+          Enfin me voilà rassuré ; je passerai à force de science et de métaphysique, de précautions
+          et de bon sens.</p>
+        <p>Les lettres attribuées à Louis-Philippe lui ont fait un tort immense. Il y a encore
+          là-dessous quelque chose que je ne comprends pas. Je crois qu'il les a écrites ; mais je
+          ne crois pas qu'il ait pensé ni voulu tout ce qu'il a écrit; cette solution me parait la
+          seule plausible; elle va très-bien à la diplomatie actuelle.</p>
+        <p>Le pouvoir est très-fort; l'armée magnifique; pas de révolution possible pour cette
+          année. Les ouvriers commencent à comprendre qu'il ne faut tenter rien avant de savoir
+          parfaitement ce que l'on fera.</p>
+        <p>Mme Droz est morte; M. Droz s'en va; Mme Michelot jeune a fait un petit enfant le our de
+          l'enterrement de sa grand'mère.</p>
+        <p>Maguet a perdu sa mère; il est en ce moment à Dampierre pour quelques semaines. Tourneux
+          compte être employé dans le Berry, à des usines. Elmerick devient raisonnable. Dessirier
+          m'inquiète par ses changements de projets. — On m'a dit que Bergmann était fieancé avec
+          une demoiselle riche et jolie. Amen. Reclam se fait magnétiser. Je n'ai pas encore vu M.
+          Grimm.</p>
+        <p>J'aurai pour successeur un étudiant en Droit dont tout le monde dit du mal, et beaucoup
+          de mal. Il convient à l'Académie précisément à cause de cela.</p>
+        <p>Pauthier vient d'éprouver un nouvel échec de la part de l'Institut, qui n'a pas plus de
+          pudeur que nos ministres. Des prix Montyon sont réservés, tous les ans, pour les
+          meilleures traductions d'ouvrages de morale : on a couronné et récompensé, cette année,
+          une traduction de la Métaphysique d'Aristote, une traduction de la Messiade de Klopstock,
+          et une des Confessions de saint Augustin. — Pauthier avait traduit Confucius et Lao-Tseu :
+          on n'a pas seulement parlé de lui. Les prix académiques, on a pu le voir cette année, ne
+          sont plus qu'un moyen de corruption de plus dans les mains du pouvoir.</p>
+        <p>La littérature ne produit plus rien ; la France dégringole à tire d'aile; elle est comme
+          l'animal qu'on vient de faire saillir ; l'affaire faite, il se couche et s'endort. Tous
+          les jours, j'entends dire des choses effroyables ; l'audace des exploiteurs ne connaît
+          plus de bornes ; le pouvoir rit de la rage impuissante des radicaux; en effet, il n'a rien
+          à craindre. La nation est démoralisée ; plus de vertus, plus d'esprit public. Il y en a
+          peut-être encore pour bien des années. J'en souffre et j'en pleure.</p>
+        <p>Je n'ai reçu aucun volume de poésies venant de Berlin, et je n'ai vu personne qui ait pu
+          m'en parler</p>
+        <p>Je ne puis donc vous rien dire à ce sujet. Mais à défaut de critiques spéciales, je vous
+          dirai tout franc et tout net que je suis fâché de vous voir plongé dans des travaux qui
+          rapetissent l'esprit à force de subtilité. Vous voulez refaire la poétique de la langue !
+          Comment ne voyez-vous pas que les lois de la métrique et du rhythme n'ont absolument rien
+          d'arbitraire, qu'elles sont données par la nature même des idiomes et reconnues par les
+          orateurs doués de goût et d'oreille ?</p>
+        <p>Quiconque s'est mêlé d'écrire en une langue a dû remarquer que, toutes les fois que le
+          style s'élève, s'épure ou s'harmonise, il tourne tout naturellement au vers. C'est ainsi
+          que j'ai fait déjà plus de cinquante vers au travers de ma vile prose. La langue
+          française, pour nous en tenir à celle-là, aime les coupes de six, de sept, huit, dix et
+          douze syllabes, ainsi que le retour des consonnances. La poésie est l'idéal du langage.
+          Or, cet idéal ne se trouve que dans l'étude approfondie des propriétés et des tendances
+          secrètes d'un idiome. Je ne doute pas qu'à ce sujet il n'y ait encore beaucoup
+          d'excellentes choses à dire; mais je voudrais qu'au lieu de démolir, comme fait M.
+          Lamennais en religion, vous vous contentiez de philosopher. Rendez nous raison des beautés
+          de la langue, du pourquoi les vers de Racine nous semblent si beaux; expliquez comment un
+          certain nombre de formes métriques sont belles et seules praticables, pourquoi au delà il
+          n'y a plus que dissonnance et confusion, et vous aurez fait la philo • sophie de la
+          poétique et du style. Ce sera profond, savant, ingénieux et amusant. Vous ferez des
+          comparaisons allemandes, latines, grecques, etc. Un tel travail n'existe pas.</p>
+        <p>Je voudrais bien vous voir une belle et bonne Prussienne qui vous ramenât un peu aux
+          choses de la terre. Si vos fonctions d'éditeur durent sept ans, il est probable qu'après
+          cela elles vous vaudront un autre emploi; ne pourriez-vous donc songer à arranger votre
+          vie pour travailler dans une modeste aisance ?</p>
+        <p>Ce que vous me dites de M. Dubois ne me surprend pas; Paris pullule d'hommes comme lui.
+          On convient de tous les abus que je signale; mais, quand je veux généraliser l'idée et
+          arriver à une conclusion, alors on ne me suit plus. Mes critiques et moi, nous sommes
+          comme des gens qui veulent tous rabattre les angles à un polygone; seulement, quand
+          l'opération sera faite, les premiers soutiendront que ce qui restera sera toujours un
+          polygone, tandis que je dirai que ce sera un cercle. Voilà en réalité en quoi je diffère
+          de M. Blanqui et d'une foule d'autres.</p>
+        <p>Terzuolo est de plus en plus mal : c'est un homme estimable, mais qui désespère. Je l'ai
+          vu une fois; il n'a presque point d'ouvrage et son atelier languit. Cinq numéros de mon
+          Mémoire grammatical ont déjà paru. Il en reste encore autant. Je ne crois pas que cela
+          finisse.</p>
+        <p>Je n'ai reçu aucune lettre de M. Cuvier, de Metz.</p>
+        <p>Je vous envoie un catalogue abrégé de vos livres, en vous prévenant que la plus grande
+          partie est à Besançon, et qu'il ne me sera guère possible de vous rien expédier qu'après
+          le 1er août, après mon retour. Vous m'écrirez d'ici là.</p>
+        <p>M. Weiss est venu à Paris ce printemps. — Il commence à radoter et beaucoup de gens s'en
+          aperçoivent. L'esprit des vieilles académies est abrutissant.</p>
+        <p>M. X*** est bibliothécaire de l'instruction publique et professeur des filles du roi.
+          Dans le haut monde, il se donne les airs de chef de l'école germanique. Je ne connais pas
+          un honnête homme qui ne crache en le voyant ou en entendant seulement prononcer son nom. —
+          Francis Wey est toujours le même : il a payé le déjeuner à M. Weiss; grand homme, par
+          conséquent. M. Weiss s'est vanté, à cette occasion, de m'avoir dit mon fait. On lui a
+          répondu qu'on n'en croyait rien.</p>
+        <p>Les journaux ne parleront pas de mes écrits et publications : cela paraît convenu. Je
+          vais mon chemin sans leur secours, ce qui prouve quelque chose. J'ai commencé la guerre
+          contre les coteries et les exploiteurs d'opinions ; ce n'est pas pour finir si tôt.</p>
+        <p>J'ai appris hier qu'un professeur de philosophie, ayant entendu parler de mon Mémoire,
+          était entré dans une telle indignation qu'il avait juré de réfuter publiquement l'ouvrage
+          ou d'en devenir l'apôtre. Après ce beau serment, il s'est mis à lire et les bras lui sont
+          tombés. — J'en ai déjà vu deux ou trois de cette force. Cependant il faut ajouter que,
+          s'ils ne savent que répondre, ils ne croient pas encore : leur esprit est bouleversé,
+          voilà tout.</p>
+        <p>Un professeur de l'École de Droit m'a fait parvenir des encouragements secrets, offrant
+          même de me diriger dans les choses que je puis ignorer en matière de jurisprudence.</p>
+        <p>Une princesse de Caraman m'a lu deux fois, la plume à la main, et a fini par conclure :
+          C'est dommage qu'il soit si brutal !</p>
+        <p>Lerminier, l'apostat, devait aussi m'éreinter dans une Revue : on attend son article
+          depuis un an. '</p>
+        <p>Considerant et les fouriéristes ont reçu dans mon second Mémoire un nouveau coup de
+          fourche qui les assomme. — Blanqui les a fort maltraités dans une Notice sur Say.</p>
+        <p>Si l'état de choses actuel se prolonge encore deux ans. les vérités pleuvront sur le
+          public ; il se commence une levée de boucliers contre toutes les espèces :
+          d'intrigants.</p>
+        <p>Je voudrais que vous fussiez ici pour vous montrer comment il faut traiter les hommes de
+          lettres pourris, L'indignation d'un honnête homme produit de trèsheureux effets; je
+          l'éprouve tous les jours. On dit bien que je frappe trop fort; mais, en secret, on n'est
+          pas fâché de me voir démolir les gens. On m'a même reproché d'abuser de ma position, qui
+          n'offre aucune prise contre moi, même à la calomnie.</p>
+        <p>Encore une fois, je vous regrette non-seulement pour que vous soyez mon second et mon
+          témoin dans mes luttes, mais parce que vous y prendriez part, tandis que je n'ai encore
+          personne. Personne! Je suis délaissé. J'espère que dans un an le public se décidera; mais
+          combien les écrivains sont lâches et égoïstes ! Vous qui avez du coeur et de
+          l'intelligence, dont je disais hier encore à Pauthier : « Il est trop honnête pour réussir
+          ; » pourquoi vous êtes-vous fait Allemand? C'est ici qu'il fera beau un de ces jours. Ah!
+          pardieu, je ne vous laisserai pas chercher des poux dans la paille, tandis que nous avons
+          à faire la chasse aux loups!...</p>
+        <p>17 mai. J'ai lu aujourd'hui le rapport de M. Girod, de l'Ain, sur l'assassin du roi et
+          ses complices. Ce rapport se termine par une allusion à mon ouvrage qui a frappé tout le
+          monde : « Comment s'étonner qu'il y ait des régicides, quand il se trouve des écrivains
+          qui prennent pour thèse : La Propriété, c'est le vol! » — Vous voyez que je suis toujours
+          menacé.</p>
+        <closer>
+          <salute>Adieu, faites votre chemin mieux que moi; mariez-vous, ménagez-vous; pour moi, si
+            je passe cette année sans encombre, je réponds de ma carrière.<lb/>Je vous embrasse et
+            vous aime toujours.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

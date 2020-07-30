@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1832-04-19" resp="author">19 avril 1832</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Proudhon, Claude-François (1779-1846)">Claude-François Proudhon</persName>
+          <persName key="Simonin, Catherine (1774-1847)">Catherine Simonin, ép. Proudhon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1832-04-19"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>ce jeudi-saint 1832</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parents, l'eau de Paris ne m'incommode pas; elle est plus agréable que celle de
+          Besançon, parce qu'elle est toute filtrée et saturée d'oxygène, ce qui en fait encore un
+          préservatif contre le choléra. Au surplus, que celui-ci ne vous épouvante pas ; dans le
+          cas le plus malheureux, à Paris, il ne tuera pas un homme sur trois cents : on peut encore
+          tirer à cette loterie. Paris est infecté de chlore et de camphre. Pour le moment, je ne
+          fais autre chose que lire et écrire dans notre chambre, lire et écrire dans les
+          bibliothèques. C'est un peu fâcheux pour vous, j'en conviens ; ce n'était pas là tout ce
+          que je vous avais fait espérer; mais il faut bien commencer en toute chose par le
+          commencement. Ceci, d'ailleurs, ne saurait durer six mois. Au bout de ce temps, si nous
+          nous apercevons que je ne puis être bon à rien, eh bien ! je redeviendrai compositeur et
+          correcteur, ce que je serai toujours quand je le voudrai. J'en serai quitte pour la petite
+          humiliation de m'entendre appeler auteur manqué, car je suis actuellement placé dans ces
+          alternatives, de travailler à devenir auteur, ou de mourir de faim, ou de redevenir
+          imprimeur. La dernière ne me tente guère, la deuxième encore moins; faute de mieux, il me
+          reste le premier choix; que ne ferait-on pas pour écarter la mort ou le choléra ? Je ne me
+          plais que médiocrement à Paris, et l'intention de Fallot, aussi bien que la mienne, est
+          d'en sortir le plus tôt que nous le pourrons, Besançon nous réclame autant l'un que
+          l'autre.</p>
+        <closer>
+          <salute>Je vous embrasse, mes chers parents.</salute>
+          <signed>Votre fils,<name>P.-J. PROUDHON.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

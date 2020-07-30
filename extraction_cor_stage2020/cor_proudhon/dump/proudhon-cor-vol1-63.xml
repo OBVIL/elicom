@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-08-10" resp="author">10 août 1840</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Tissot, Joseph (1801-1876)"
+            ref="https://data.bnf.fr/fr/11926714/joseph_tissot/">Joseph Tissot</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-08-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besancon</placeName>
+            <date>10 août 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Tissot, j'ai été agréablement surpris, si jamais je le fus, de recevoir les
+          nouveaux ouvrages que vous me faites l'honneur de m'adresser. Je commence m'estimer
+          moi-même, à mesure que je vois des nommes, en la moralité et les lumières desquels j'ai
+          toute confiance, me témoigner tant d'amitié et d'estime. Pardonnez ces sentiments à un
+          homme qui fut trop longtemps sauvage, et qui s'étonne encore quelquefois de rencontrer des
+          hommes simples, sociables et bons, surtout quand ils sont philosophes. Vous savez mieux
+          que moi combien de réflexions critiques soulève aujourd'hui le nom le plus beau que la
+          raison humaine ait jamais imaginé, le plus difficile à mériter et à porter dignement. J'ai
+          rencontré ici un de vos confrères en professorat (je ne dis pas en philosophie, car je
+          commencé à douter qu'il ait foi en la philosophie), lequel, après m'avoir donné beaucoup
+          d'éloges et m'avoir un peu séduit, tant l'amour-propre est crédule ! a fini par m'inspirer
+          de la défiance et des doutes sur la sincérité de ses paroles. Il m'est revenu qu'il disait
+          ailleurs tout le contraire de ce qu'il me disait à moi-même... Je vous avoue que j'ai
+          trouvé cela très-peu philosophique ; car je pensais que la crainte, le respect humain ou
+          l'intérêt sont des passions tout à fait étrangères au philosophe.</p>
+        <p>Or, le philosophe dont je vous parle, homme d'esprit au demeurant, est la plus forte tête
+          de l'Académie bisontine. Ab uno disce omnes. Tout ceci entre nous.</p>
+        <p>Le Franc-Comtois s'imprime chez M. Deis : je n'ai reçu ni prospectus, ni avis du journal,
+          ni..., etc. Cette publication périodique est destinée, dans l'intention du fondateur, à
+          exciter et à développer l'esprit patriotique en Franche-Comté, ce qui est très-beau
+          assurément ; mais voici comment l'on entend cette excitation patriotique : le journal ne
+          traitera jamais aucune question de politique générale, ni de religion ; notez ces deux
+          points : il ne s'occupera que de sujets d'intérêt local et des innombrables besoins
+          matériels, intellectuels et moraux de notre belle et chère province. Ceci est ou absurde
+          ou contradictoire. Je n'insiste pas avec vous sur la démonstration.Tout ce qui est
+          d'intelligence, de morale et d'intérêt, est de religion et de politique générale. Cela se
+          conçoit d'emblée.</p>
+        <p>En un mot, le Franc-Comtois a pour objet de réduire l'intelligence, le coeur et
+          l'imagination des FrancsComtois aux proportions du moi provincial, ce qui, au point où la
+          civilisation est parvenue, est un pas rétrograde et une prétention monstrueuse.</p>
+        <p>Le Franc-Comtois est essentiellement l'organe de l'Académie ; son premier numéro contient
+          un article de M. Perron, un autre de M. Pérennès, etc. C'est une faute... Une Académie
+          littéraire et morale doit éviter, selon moi. d'entrer dans le journalisme et de se
+          livrer</p>
+        <p>à la polémique quotidienne ; il lui en arrivera mal, je le lui promets.</p>
+        <p>Enfin, les Francs-Comtois du nouveau journal l'annoncent comme exempt de préjugés, de
+          toute influence, de tout intérêt particulier : ce mensonge est le premier dont leur
+          feuille sera l'inépuisable semoir.</p>
+        <p>J'ai lu, il y a quelques jours, un article de la Revue des deux Bourgognes, dont le titre
+          m'intéressait vivement, et qui vous concerne personnellement, monsieur le philosophe. Je
+          n'ai jamais rien vu de plus pitoyable, de plus inique, de plus bête, que cet article de
+          l'abbé Doney sur la méthode philosophique et la méthode catholique. J'en ai exprimé
+          hardiment ma pensée, ce qui a paru scandaliser les gens ; je me suis fâché et j'ai voulu
+          argumenter ; on ne me comprenait plus. Courage, philosophe; vous frappez fort, et vous
+          frappez juste, puisque les théologiens se fâchent; la démonstration de votre dire est tout
+          entière dans leur barbouillage.</p>
+        <p>Pour moi, je n'ai pas lieu de me louer ; je suis vu de mauvais oeil ici ; l'irritation a
+          été portée au comble ; on pense à me retirer la pension ; on n'espère plus rien de moi,
+          dans le temps même où j'ose dire que l'on devrait espérer le plus ; on m'abandonnera au
+          moment de ma force et de ma fécondité. La colère s'accumule et s'empile dans mon âme; si
+          jamais le fils se révolte contre la mère, s'il ose une fois révéler la turpitude de celle
+          qui lui donna le jour, malheur, malheur à elle ! Jusqu'ici, je n'ai fait que mes exercices
+          ; je regarde ce que j'ai publié comme des juvenilia ; mais le conscrit deviendra vétéran,
+          et, encore une fois, malheur aux crânes!</p>
+        <p>Je ne puis avoir aucune explication avec vous sur mon ouvrage, dont vous vous contentez
+          de me dire que vous acceptez quelques parties, et que vous en repoussez d'autres; je vous
+          serais pourtant obligé de me formuler d'une manière plus précise vos critiques. C'est ce
+          qu'a fait Bergmann, de Strasbourg. Je me propose d'écrire un second Mémoire sur la
+          Propriété, plus intéressant que le premier ; et ce serait pour moi un triomphe d'avoir
+          quelques assertions à redresser dans ! mon propre ouvrage, afin de mieux faire comprendre
+          au public que la philosophie est une science d'observation, déduite ou plutôt induite
+          d'une multitude de faits, et que la métaphysique est fondée sur une espèce d'opération
+          intellectuelle plus difficile encore que l'algèbre, et tout aussi certaine. Voilà ce que
+          je voudrais faire dans mon second Mémoire, et ce que vos observations me permettraient
+          sans doute d'exécuter.</p>
+        <p>Je n'accepte pas l'épithète de cynique que vous me décernez, et qui n'est juste que pour
+          un auteur qui raisonnerait au point de vue d'une société différente de celle que je me
+          fais par anticipation. L'égalité supporte la vivacité et la brusquerie des formes; elle
+          amène même l'invective et le sarcasme, lorsqu'un des contendants élève ses prétentions au
+          delà de son droit. Cette seule remarque justifie tout mon style, que je modérerai
+          davantage une autre fois, mais que je ne pourrais changer sans mentir à moi-même et sans
+          commettre un contre-sens.</p>
+        <p>J'écrirai incessamment à Bergmann pour lui demander ses thèses et lui faire parvenir
+          votre ouvrage.</p>
+        <p>Je suis absorbé par le travail mécanique de l'imprimerie ; j'ignore quand je reprendrai
+          des études sans lesquelles je ne puis plus vivre, et je m'occupe en ce moment de m'assurer
+          du travail et du pain. Je n'ai pas lu entièrement votre philosophie élémentaire ; on vous
+          accuse d'obscurité : je n'ai pas trouvé en vous ce défaut. C'est sûrement la faute de mon
+          esprit obscurant et opaque.</p>
+        <p>En général, mon très-digne philosophe, j'ai regret de vous le dire, je ne suis pas fâché
+          de pouvoir donner la main à un homme tel que vous ; vous êtes aussi peu prisé en
+          Franche-Comté que votre serviteur ; on vous dédaigne et je déplais.</p>
+        <p>Je serais honoré d'être votre imprimeur. Mais comptez peu sur le Franc-Comtois ; la
+          franc-comtoiserie n'est ni la vôtre ni la mienne.</p>
+        <closer>
+          <salute>Je vous souhaite le bonjour.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

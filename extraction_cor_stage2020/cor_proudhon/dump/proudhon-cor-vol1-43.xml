@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-10-25" resp="author">25 octobre 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-10-25"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon</placeName>
+            <date>25 octobre 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je maintiens ce que j'ai dit : votre éloge de d'Olivet est ce que vous avez écrit de
+          mieux; c'est élégant, simple, ferme et quelquefois spirituel. Il y a vers la fin des
+          répétitions et des retours à des idées précédemment exprimées. Vous apercevrez facilement
+          ces longueurs, sans que je vous les indique.</p>
+        <p>Je supprimerais les deux derniers alinéas, tout en conservant les traits principaux que
+          je trouverais moyen de faire entrer dans le corps du discours.</p>
+        <p>Vous attendiez peut-être mieux de ma complaisance ; je vous avoue que c'est tout ce que
+          je trouve à redire dans votre discours. Je vais le faire passer au Séquanais dès la
+          semaine prochaine. La biographie de Fallot a beaucoup plu ; on a regretté que M. de Brunet
+          l'eût scindée en deux numéros. A présent que vous êtes parti, on parle quelquefois de vous
+          : l'éloge de d'Olivet augmentera la considération dont vous jouissez. Stérile honneur
+          !</p>
+        <p>Dans quatre ou cinq jours, vous aurez à votre tour mes épreuves ; ne me faites pas
+          attendre ; de la prompt» impression de mon Mémoire dépend mon départ pour Paris.</p>
+        <p>Les hommes du Progrès bisontin menacent de me tamiser, parce que je leur ai laissé voir
+          mon peu d'estime pour leur journal.</p>
+        <p>Je les ai traités de menteurs, d'imbéciles, d'infâmes et de cochons. J'ai appelé leur
+          style un style de libertins, et qui se sent des lieux hantés par les auteurs. Qu'ils
+          attaquent mon discours, voire mes idées, rien de mieux ; s'ils vont plus loin, je défie
+          leur générosité d'insérer ma réplique.</p>
+        <p>Dessirier vous a-t-il remis 20 francs ?</p>
+        <p>Voici l'adresse d'un petit jeune homme fort connu de Pagnerre, et qui pourrait se charger
+          de lui demander la permission dont je vous ai parlé, de mettre le nom de ce libraire au
+          frontispice de ma brochure :</p>
+        <p>« Antoine Madrange, typographe, rue des Cordeliers-Sorbonne, 19. »</p>
+        <p>Vous pourriez lui remettre les épreuves après votre lecture et pendant que je ferais
+          tirer, il aurait le temps de me faire connaître la réponse de Pagnerre. Mais chargez
+          Dessirier de cette commission.</p>
+        <p>Je vous souhaite le bonjour; comptez sur moi avant le 10. J'annoncerai votre départ dans
+          le Séguanais</p>
+        <closer>
+          <salute/>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

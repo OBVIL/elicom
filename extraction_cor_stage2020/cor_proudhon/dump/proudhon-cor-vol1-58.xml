@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-05-29" resp="author">29 mai 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Proudhon, Jean-Baptiste (1758-1838)"
+            ref="https://data.bnf.fr/fr/12265183/jean-baptiste-victor_proudhon/">Jean-Baptiste
+            Proudhon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-05-29"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher cousin, votre dernière lettre m'a causé un extrême plaisir, malgré les fines
+          railleries que vous m'y jetez à pleines mains; je sais supporter à merveille la
+          plaisanterie, jecrains que la colère des personnes. Moquez-vous de moi tant que vous
+          voudrez, pourvu que les reproches n'en soient pas , cela ne me fera point de mal.</p>
+        <p>Je ne suis ni saint-simonien, ni fouriériste, ni babouviste, ni d'aucune entreprise ou
+          congrégation réformiste. Je crois seulement qu'en fait d'économie, de politique et même de
+          morale, comme en chimie et en astronomie, le dernier venu est toujours celui qui en sait
+          le plus. Les plus grands esprits ne sont donc pas nécessairement les plus savants, et tel
+          qui, né de notre temps, eût étonné les Aristote et les Cicérou, s'il eût été leur
+          contemporain, serait mort dans l'obscurité. Nous ne valons pas par ce que l'on nous
+          apprend, nous valons par ce que nous faisons. Or, mon cousin, dussiez-vous en rire encore,
+          avec ce que je sais, et qui n'est pas grand chose, je compte faire un pas de plus que mes
+          devanciers; c'est fier, j'en conviens, mais cela sera, ou je m'y perdrai. Je ne travaille
+          pas pour faire un métier; à travailler pour vivre, je préfère l'atelier à la plume. Or, il
+          m'est acquis désormais que mes études ne me rapporteront jamais un centime, du moins je ne
+          l'espère pas. C'est triste ! direz-vous; non, mon cousin, c'est naturel.</p>
+        <p>Je m'occupe à mettre la dernière main à un manuscrit que je compte imprimer à Paris sous
+          peu. Il me tarde que cette affaire soit bientôt terminée, parce que les détails
+          d'impression et de révision prennent toujours beaucoup de temps, et que je ne voudrais pas
+          n'avoir fait que cette seule étude dans mon année. J'espère, mon cousin, vous embrasser
+          avant peu, étant bien résolu d'assister au congrès scientifique qui doit avoir lieu à
+          Besançon en septembre prochain, et de profiter de ce temps pour faire un bout d'inventaire
+          à mon imprimerie.</p>
+        <p>Je fais un ouvrage diabolique et qui m'effraie moimême ; j'en sortirai brillant comme un
+          ange, ou brûlé comme un diable; priez Dieu pour moi.</p>
+        <closer>
+          <salute>Bonjour, mon cousin.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

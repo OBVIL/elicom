@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-03-15" resp="author">15 mars 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-03-15"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>15 mars 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, je crois comme vous que la déplorable veuve L*** est perdue, et que
+          nous verrons misère et déshonneur s'épouser, ou ce qui revient au même s'associer pour
+          leur perte, pour le malheur et la honte de leurs enfants. Je n'espère plus rien de mes
+          conseils; toutefois, je désire que ma lettre soit remise, bien que je vous sache
+          infiniment gré de votre prudence. Mme L*** ne la communiquera pas, je la connais trop pour
+          cela; on ne communique pas volontiers les choses qui intéressent l'amour-propre, et
+          surtout l'amourpropre d'un objet chéri. Mais, dût-elle pousser à ce point la faiblesse et
+          la bêtise, cela ne m'arrêterait pas. P^** n'a pas droit de se fâcher de ce que je dis do
+          lui, car, après tout, j'ai usé de ménagements en ce qui le concerne. Remettez-la donc
+          hardiment à Mme L***, seule, je souhaiterais même, s'il y avait lieu, que P*** fût absent
+          de Besançon dans le moment, afin qu'elle eût quelques heures de méditation. On voit des
+          malades revenir quelquefois d'un état désespéré.</p>
+        <p>Je connaissais comme vous les liaisons intimes de nos tristes amants; vous pensez bien
+          que treize jours passés à courir les bois, les, sapins, à cueillir la noisette, faire des
+          parties en char, en bateau et toujours en tête-à-tête, supposent des entretiens bien doux,
+          Quand j'en ai fait l'observation, on n'a pas pu dissimuler ni se défendre. Quand j'ai dit
+          que le pas était franchi depuis longtemps, on en est convenu; bref, je tirais le rideau,
+          parce que j'espérais sur le Bélieu, et que le conjungo couvre tout. Que faire ? que dire à
+          présent ? Leur malheur est très-grand, plus grand que je ne l'ai exposé dans ma lettre;
+          car bien loin d'avoir exagéré les choses, j'en ai dissimulé une partie. J'ai voulu être
+          vrai sans offenser ni avilir. Pour la première fois, je me trouve heureux d'être loin de
+          mon pays, de ma famille, de nos affaires, de mes amis ; je serais, je l'avoue, dans un
+          continuel embarras au milieu de cette communauté de lâcheté et d'ignominie. Mon départ de
+          Paris est fixé au 1er août; j'y dois aller prendre deux mois de repos et revenir à mon
+          chantier; j'espère qu'alors tout sera fini ou par le mariage ou par une bonne rupture
+          entre ces deux personnes que j'ai aimées l'une et l'autre, que j'ai obligées tant que j'ai
+          pu, que j'ai conseillées, défendues, excusées mille fois, et qu'il faut que je méprise.
+          J'ai mes défauts et mes vices; mais il est un degré auquel je ne crois pas que je descende
+          jamais.</p>
+        <p>Je me suis toujours défié de Mme L***, et je ne crois pas l'avoir jamais bien connue.
+          Elle le sentait, et ses attentions à jouer la naïveté et la franchise avec moi avaient été
+          infinies. Elle m'a même fait une partie de ses confessions , mais tout en me prenant pour
+          confident, elle me mentait encore; et, dans ses deux dernières lettres, elle m'a déguisé
+          une partie de la vérité. C'est ce que j'ai vu par les vôtres. Cette femme-là a pu être</p>
+        <p>voluptueuse; elle n'a jamais rien aimé sincèrement et avec un plein abandon. Je l'ai vue
+          aigre, impérieuse, volontaire avec son mari, ses enfants et d'autres; je l'ai vue d'autres
+          fois avoir des complaisances qui me paraissaient des faiblesses impardonnables et qu'elle
+          rejetait sur la bonté de son coeur, sur la facilité de son caractère; encore une fois, je
+          ne l'ai jamais comprise. Sa morale, j'entends sa morale pratique, car elle ne raisonne
+          guère, sa morale a été de se faire le centre de tout, de n'aimer que soi en tout, de se
+          moquer de tout au fond de son coeur, excepté de son plaisir ; elle devait rester
+          petite-maîtresse et ne jamais se marier. Cependant la voilà éprise d'un dévouement
+          héroïque pour P*** ; dévouement qui ressemblerait à de la vertu s'il n'était pas entretenu
+          aux dépens des enfants d'un premier lit. Encore une fois, je m'y perds plus j'y pense. Ou
+          plutôt je n'y penserai plus. Remettez-lui le billet ci-inclus dont vous pouvez prendre
+          lecture. Je vous demande grâce pour le second que j'adresse à votre voisin M. Bordy.</p>
+        <p>Tout à vous.</p>
+        <closer>
+          <salute/>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. J'ai traité avec un libraire pour mon deuxième Mémoire moyennant 500 francs. On
+            imprime. Cet écrit me fera des amis parmi les honnêtes gens, et beaucoup d'ennemis.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="183.." resp="">183..</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="A M. MUIRON. (...-...)">A M. MUIRON.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="183.."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>183..</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur, vous m'avez témoigné si souvent tant de bienveillance, d'intérêt, je peux dire
+          d'amitié, que vous ne serez point surpris qu'à mon tour je vous témoigne un peu de
+          reconnaissance, mais à ma façon. Vous savez que je m'occupe quelque peu de l'étude des
+          langues : je viens d'imprimer un petit Essai de grammaire générale qui paraîtra à la suite
+          des Eléments primitifs du célèbre Bergier. J'ai l'honneur de vous offrir l'un et
+          l'autre.</p>
+        <p>Si je ne me flatte pas trop, j'espère que vous trouverez dans cet essai assez court, des
+          choses toutes nouvelles et curieuses. Du moins, c'est le jugement qu'en ont déjà porté
+          quelques personnes de mérite. Si vous avez du temps à perdre à une pareille lecture, je ne
+          crois pas trop présumer de votre complaisance accoutumée pour espérer que vous ne
+          m'épargnerez aucune observation. Puis, si vous jugez que la chose vaille la peine d'être
+          communiquée au public, je me repose entièrement sur vous du soin de faire ou faire faire
+          une petite annonce de notre nouvelle publication dans le journal dont je vous regarde
+          toujours comme le modérateur. Seulement, je désirerais qu'au lieu de m'y faire connaître
+          par mon propre et privé nom, il n'y eût de cité que le nom de l'imprimerie Lambert. Vous
+          devinez aisément les motifs qui me font préférer pour le moment l'illustration de
+          l'atelier dont je fais partie, à la mienne.</p>
+        <p>En ce moment, je me livre à des études assez étendues et très-importantes sur les
+          langues. Si mon coup d'essai réussit, il ne doit pas s'ensuivre moins d'une révélation
+          grammaticale, car, les principes admis, il faudra parcourir toute la série des
+          conséquences. J'espère aller loin dans cette carrière que j'embrasse et dans laquelle j'ai
+          cru apercevoir que, jusqu'à ce jour, on n'avait fait que des reconnaissances. Or, je crois
+          me rappeler que vous m'aviez autrefois parlé d'un auteur distingué en ces matières. Ne
+          pourrais-je, par votre obligeance, en avoir communication pour quelques jours. Je vais
+          vite en besogne et, grâce à la méthode que je me suis faite et dont je recueille déjà les
+          fruits, j'apprends toujours plus de choses dans la meilleure grammaire que l'auteur n'en
+          soupçonnait.</p>
+        <p>Voilà bien des services demandés, et vous devez trouver mon petit cadeau fort intéressé.
+          Mais l'amitié est inépuisable, et la franchise ne sait pas supposer la dissimulation.</p>
+        <closer>
+          <salute>Je suis toujours celui que vous avez connu rêvant, philosophant, réformant, et mieux
+            encore, votre tout dévoué.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

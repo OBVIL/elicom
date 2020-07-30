@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1832-07-22" resp="author">22 juillet 1832.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Proudhon, Claude-François (1779-1846)">Claude-François Proudhon</persName>
+          <persName key="Simonin, Catherine (1774-1847)">Catherine Simonin, ép. Proudhon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1832-07-22"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Draguignan</placeName>
+            <date>22 juillet 1832.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mes chers parents, ma chère mère, — car vous avez en particulier plus besoin de
+          consolations dans ces tristes circonstances,— Micaud m'a instruit du sort de mon frère, et
+          il est résolu qu'avant six semaines je serai de retour à Besançon. Comme le sort me
+          poursuit avec acharnement ! Il me semble que la fatalité que je traîne s'attache à tous
+          ceux que j'approche : que Micaud et Fallot sont plus malheureux depuis qu'il me
+          connaissent! J'entre parfois dans des trances de rage effrayantes et risibles en même
+          temps ; je ne sais à qui m'en prendre. J'appelle, je défie mon ange noir; je voudrais le
+          terrasser ou qu'il m'anéantît.</p>
+        <closer>
+          <salute/>
+          <signed>Votre fils,<name>P.-J. PROUDHON.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

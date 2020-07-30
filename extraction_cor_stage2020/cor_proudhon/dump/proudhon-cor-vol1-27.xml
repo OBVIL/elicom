@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-04-12" resp="author"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-04-12">12 avril 1839</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>12 avril 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, je vous ai déjà mandé une fois de faire brocher au moins 200
+          Bergier; veuillez presser un peu cette affaire et m'en expédier deux ou trois douzaines ;
+          je n'en ai plus un seul. M. Desbarres en prendra d'abord une douzaine, puis une autre, et,
+          peut-être, à mesure qu'il en placera, vous désencombrera-t-il.</p>
+        <p>Je ne vois pas de possibilité de faire rien pour le jeûne de Jésus-Christ ; Vieux n'en
+          veut pas entendre parler. Il faut laisser passer encore quelque temps, puis, en élevant le
+          prix moins haut et en le faisant colporter dans les villages et les couvents, nous
+          finirions peut-être par en tirer quelque chose. Il faudrait pour cela ma présence active ;
+          mais, avant tout, il faut laisser passer la crise commerciale.</p>
+        <p>Je ne comprends pas votre débat avec Faivre ; je ne sais plus ni comment ni à quelles
+          conditions je lui ai vendu : vous avez en main toutes les pièces; faites-le marcher. Il a
+          reçu trois châssis : deux in-8°, un in-12, qu'il était convenu de payer ou de rendre ;
+          cela est si vrai que j'en ai commandé un à Baptiste pour lui. Baptiste ne l'aura sûrement
+          pas exécuté ; mais enfin, c'était pour le compte de Faivre, qui devait aussitôt renvoyer
+          le châssis in-12. Il en est de même des galées que je lui ai laissées : le prix devait
+          être celui qui me serait demandé par le menuisier Milot, pour une galée neuve toute
+          pareille. La lettre qu'il vous a écrite et que vous me communiquez ne renferme pas une
+          bonne raison : elle témoigne de l'envie de ne pas payer et peut-être de la mauvaise humeur
+          d'un homme qui commence à se trouver dans l'embarras.</p>
+        <p>J'ai été surpris de la mort presque subite de Gomet; mois je le serais encore plus de
+          voir Noir lui succéder. Certes, après les offres que je lui ai faites, il lui serait
+          difficile de donner une plus forte preuve d'imbécillité. Je lui offrais mêmes avantages,
+          même maîtrise, plus belles chances, espérances mieux fondées, et en même temps je lui
+          demandais bien moins d'argent. Aujourd'hui, par la démoralisation typographique qui règne,
+          s'il était mon associé, il pourrait à peu près se flatter que trois imprimeries sur sept à
+          Besançon n'existent plus : il ne nous resterait plus qu'une concurrence réellement
+          redoutable, Sainte-Agathe; car les deux autres, Deis et Chalandre, sont trop en dehors de
+          notre spécialité et de nos petites affaires pour être comptées. Et c'est là le moment
+          qu'irait prendre Noir pour élever autel contre autel ! Il faut être bien aveuglé par
+          l'amour-propre et l'égoïsme. Il en sera ce qu'il voudra; mais j'ose espérer qu'un jour il
+          pourra reconnaître, à son grand déplaisir, la justesse de cette combinaison, et que, moi,
+          je n'aurai pas lieu de regretter son alliance. Qu'il essaie du métier, et je l'attends
+          dans trois ans.</p>
+        <p>Si vous voyez Mme L***, dites-lui que, conformément à son désir, j'ai écrit à mon parent
+          Proudhon pour qu'on la paie plus exactement. Ma lettre, que j'ai remise à une occasion,
+          n'arrivera que lundi ou mardi. Je ne puis m''empêcher de blâmer la timidité très-mal
+          placée de Mme L*** ; avec un peu de caractère, elle se serait adressée à M. Proudhon, qui
+          aurait trouvé très-juste sa réclamation, et se serait empressé de l'accueillir. — Pour
+          éviter tout embarras de comptes, dans le cas où Mme L*** aurait travaillé pour la
+          liquidation, vous paieriez vos brochures à MM. Dessirier et Huguenet, qui, de leur côté,
+          doivent faire la banque à Mme L***</p>
+        <p>Je vous remercie du ministère : pour être au service de Louis-Philippe, il faut être sans
+          volonté ou sans esprit. Le premier ne me convient pas; le second, personne n'oserait
+          l'avouer. Ces jours derniers, on disait, par le monde, que M. Decazes, s'étant avisé, au
+          plus fort de la crise ministérielle, d'insinuer une abdication en faveur de Coco-Poulot,
+          Louis-Philippe était entré dans une colère extraordinaire ; qu'il avait mis son fils aîné
+          aux arrêts, et qu'on avait eu toutes les peines du monde à l'empêcher de faire faire le
+          procès au comte Decazes. Cette dernière particularité me rend un peu suspecte la vérité de
+          l'anecdote, que je vous donne d'ailleurs telle que je l'ai entendue.</p>
+        <p>Une chose qui parait plus certaine et que vous aurez vu démentir dans tous les journaux,
+          c'est que M. *** a réellement près des trois quarts de sa fortune dans les fonds
+          espagnols. Pendant son dernier ministère, il acheta à un prix extrêmement bas une grande
+          quantité de ces actions ou effets, comptant bien déterminer par son influence sur les
+          affaires un mouvement de hausse : il s'est trouvé déçu dans ses espérances. Lorsqu'il
+          était question de son entrée aux affaires, il y a trois semaines, il avait renoncé, il est
+          vrai, à ses idées d'intervention; mais vous pouvez compter qu'un homme comme lui ne sera
+          jamais embarrassé de regagner d'une main ce qu'il abandonnera de l'autre. Les gens bien
+          informés et impartiaux ne font pas ici beaucoup plus grand cas de sa moralité que de celle
+          de Gisquet ; cependant, vous voyez que la presse en a presque fait un héros, l'espoir de
+          la France. Pour être tout à fait dans le vrai, il faut dire que son ministère serait un
+          pas vers le bien, car il est trop engagé avec le mouvement de gauche pour pouvoir jamais
+          faire ses arlequinades comme par le passé ; mais vous pouvez croire que le règne du
+          scandale et du gaspillage ne serait pas fini.</p>
+        <p>Hier, on faisait devant moi le calcul de ce qu'avait coûté l'obélisque de Louqsor, qui,
+          comme vous savez, a été donné en cadeau à la France par le pacha d'Egypte. On l'évaluait à
+          4 francs la livre, en sorte, disaiton, qu'on aurait pu avoir, pour le même prix un
+          obélisque en chocolat de même grandeur et de même poids.</p>
+        <p>Les émeutiers, après bien des hésitations, se sont déterminés à rentrer chez eux. On ne
+          doute pas certainement en province que ces prétendues émeutes ne soient le fait de la
+          police ; eh bien ! cela n'est pas exactement vrai. Le gouvernement désirait et provoquait
+          une collision, parce qu'il avait pris ses mesures pour écraser 1es perturbateurs, et que,
+          dit-on, il en avait besoin dans ce moment; mais il n'est pas moins certain que les
+          sociétés secrètes ont délibéré sur l'opportunité d'une tentative. Je sais, par les
+          indiscrétions de quelques affiliés qui ont cherché à m'embaucher, que ces sociétés
+          comptent aujourd'hui plus de 15,000 membres, tous liés par le serment sur le poignard et
+          un ardent fana tisme; je sais que tous les chefs les plus fameux, dont quelques-uns sont
+          encore sous le poids d'une contumace, sont réunis à Paris; j'ai vu quelques-uns de leurs
+          ordres du jour; ils n'attendent qu'un moment favorable pour tomber, comme le chat sur la
+          souris, sur le gouvernement de juillet. Il paraît même que le jour d'ouverture des
+          Chambres avait été fixé, mais qu'on devait prendre conseil des dispositions qu'on
+          rencontrerait dans la bourgeoisie et la garde nationale ; j'avais reçu quelques avis qui
+          m'engageaient à ne pas sortir. Les légitimistes, cette fois, ont empêché la ressource de
+          l'émeute : la coalition leur a donné de si grandes espérances qu'ils se croient tout près
+          de leur but.</p>
+        <p>J'ai assisté, le jour de Pâques, à la messe à SaintEustache. Les prêtres et les carlistes
+          vous diront que la France renaît à la foi : mensonge! l'indifférence conduit aux églises
+          comme l'esprit d'opposition défendait autrefois d'y entrer. Il y a 600,000 Parisiens de
+          tout âge et de tout sexe qui ont moins d'idées religieuses et morales que Lamotte, qui en
+          savait assez pour discuter sur la question de savoir s'il vaut mieux faire faire la
+          première communion à onze ans qu'à vingt ans.</p>
+        <p>Je n'ai point l'honneur de connaître M. Thelmier, mais je sais gré à toutes les personnes
+          qui parlent de moi avec estime et bienveillance. Je ne connais pas davantage M. Gaunard ;
+          je ne connais que M. Guénard, sous-bibliothécaire, que je suppose être le même dont vous
+          me parlez. Veuillez lui faire parvenir la lettre ci-incluse.</p>
+        <closer>
+          <salute>Tout à vous.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

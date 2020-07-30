@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-08-03" resp="author">le 3 août 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Messieurs de l'Académie de Besançon">Messieurs de l'Académie de
+            Besançon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-08-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon</placeName>
+            <date>le 3 août 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Messieurs, j'ai appris par les confidences de quelques-uns de mes amis que la publication
+          de mon Mémoire sur la Propriété, et surtout la préface adressée à l'Académie de Besançon,
+          qui se lit en tète de ce Mémoire, ont soulevé contre moi votre mécontentement, pour ne pas
+          dire votre indignation. C'est le motif qui m'engage à vous expliquer ici, en peu de mots
+          et dans toute leur simplicité, ma conduite et mes intentions.</p>
+        <p>D'abord, ce que l'on a pris pour une dédicace n'est qu'un simple compte rendu, que ma
+          condition de pensionnaire Suard et l'obligation qui m'est imposée de faire connaître
+          chaque année le progrès de mes études me semblaientexpliquer suffisamment. Je savais
+          qu'une dédicace est une attestation de patronage de la personne ou du corps à qui l'on
+          dédie, partant qu'elle doit être consentie ou même concertée entre les intéressés ; je
+          n'ai pas voulu m'affranchir de cette règle de convenance. D'autre part, un compte rendu
+          est nécessairement déterminé pour le fond et pour la forme par l'oeuvre dont on rend
+          compte; c'est là, Messieurs, ce qui explique le silence que j'ai gardé envers vous, et sur
+          l'ouvrage, et sur l'adresse qui le précède.</p>
+        <p>Quant au livre en lui-même, je ne soutiendrai pas ici la cause que j'ai embrassée; je
+          n'ai nulle envie do me poser devant vous en adversaire, non plus qu'en accusé; ma
+          conviction, que dis-je? la certitude où je suis des vérités que j'ai développées est
+          invincible, et je respecte trop votre opinion, Messieurs, pour la combattre jamais
+          directement. Mais, si j'avance des paradoxes inouïs sur la Propriété, cette base de notre
+          état politique actuel, s'ensuit-il que je sois un révolutionnaire implacable, un
+          conspirateur secret, un ennemi de la société? Non, Messieurs; en admettant sans réserve
+          mes doctrines, tout ce que l'on en pourrait conclure et tout ce que j'en conclus moi-même,
+          c'est qu'il existe un droit naturel, inaliénable, de possession et de travail, à la
+          jouissance duquel le prolétaire doit être préparé, tout comme le noir des colonies, avant
+          de recevoir la liberté dont personne aujourd'hui ne conteste le droit, doit être préparé à
+          la liberté. Cette éducation du prolétaire est la mission aujourd'hui confiée à tous les
+          hommes puissants par l'intelligence et la fortune, sous peine d'être écrasés tôt ou tard
+          par une inondation de ces barbares auxquels nous sommes convenus de donner le nom de
+          prolétaires.</p>
+        <p>Répondrai-je à une autre espèce d'accusation? Ou a vu dans ma conduite avec mon tuteur
+          académique, auquel je n'ai jamais fait aucune communication, une sorte d'ingratitude.</p>
+        <p>Ma conduite à l'égard de M. Droz m'a été dictée par un sentiment de convenance;
+          pouvais-je entrer avec ce vénérable écrivain dans des conférences sur la morale et
+          l'économie politique, lorsque ces conférences devaient avoir, selon moi, pour résultat de
+          mettre en doute la valeur des écrits moraux et économiques de M. Droz? Devais-je me mettre
+          en un état de contradiction et pour ainsi dire de désobéissance permanente avec lui ?
+          Personne plus que moi n'aime et n'admire le talent de M. Droz; personne n'éprouva jamais
+          une vénération plus profonde pour son caractère. Or, ces sentiments étaient précisément
+          autant de raisons qui m'interdisaient une polémique délicate et pour moi trop
+          périlleuse.</p>
+        <p>Messieurs, la publication de cet écrit m'a été commandée par l'ordre de mes études
+          philosophiques. C'est ce que l'avenir vous démontrera. Un dernier Mémoire me reste à
+          composer sur la question de la Propriété ; ce travail exécuté, je poursuivrai, sans me
+          détourner de ma route, mes études de philologie, de métaphysique et de morale.</p>
+        <p>Messieurs, je n'appartiens à aucun parti, à aucune coterie; je suis sans prôneurs, sans
+          compères, sans associés. Je ne fais point de secte, je repousserais le rôle de tribun,
+          quand même on me l'offrirait, par l'unique raison que je ne veux pas m'asservir ! Je n'ai
+          que vous, Messieurs, je n'espère qu'en vous, je n'attends de faveur et de réputation
+          solide que de vous. Je sais que vous vous proposez de condamner ce que vous appelez mes
+          opinions, et de repousser toute solidarité de mes idées. Je n'en persiste pas moins à
+          croire que le temps viendra où vous me rendrez autant d'éloge que je vous ai causé
+          d'irritation. Votre première émotion passera, le trouble qu'a dû faire naître en vous
+          l'expression hardie d'une vérité physique et économique encore inaperçue se calmera, et
+          avec le temps et la réflexion, j'en suis sûr, vous arriverez à la conscience éclairée de
+          vos propres sentiments que vous ne connaissez pas, que vous combattez, et que je
+          défends.</p>
+        <closer>
+          <salute>Je suis, Messieurs, avec la plus parfaite confiance en vos lumières et en votre
+            justice, votre très-humble et dévoué pensionnaire,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

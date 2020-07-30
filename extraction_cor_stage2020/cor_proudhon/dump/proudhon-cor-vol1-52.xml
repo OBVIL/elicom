@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-02-29" resp="author">29 février 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Proudhon, Jean-Baptiste (1758-1838)"
+            ref="https://data.bnf.fr/fr/12265183/jean-baptiste-victor_proudhon/">Jean-Baptiste
+            Proudhon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-02-29"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>29 février 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher cousin, il ne faut pas que Jean en remontre son curé. Fin contre fin ne vaut
+          rien pour doublure. Pierre qui roule n'amasse pas mousse. Tant va la cruche à l'eau
+          qu'enfin elle se casse. Là où la chèvre est attachée il faut qu'elle broute. Qui veut
+          noyer son chien, l'accuse de la rage. Il n'est pire sourd que celui qui ne veut pas
+          entendre. A décrasser un Maure on perd son temps et son savon. N'est-ce pas ainsi que parle
+          la sagesse des siècles? Ne sont-ce pas les maximes du sens commun? Un homme qui les
+          professe, qui les admet, qui s'en'est pénétré, cet homme-là est-il fou? J'ai appris, mon
+          cher cousin, avec un vrai chagrin, que vous aviez été souffrant cet hiver; je m'en
+          console, puisque vous allez mieux ; mais ce qui m'a tout à fait rassuré et réjoui, c'est
+          que votre raison est plus saine et plus vigoureuse que jamais. Personne ne doute, à cet
+          égard, de votre parfait jugement, de votre indommageable bon sens ; tandis que moi,
+          chétif, j'ai beau faire et beau dire, on me croit le timbre fêlé, et je suis sûr que,
+          malgré tout ce que je viens de vous dire pour vous tranquilliser sur mon compte, vous
+          n'êtes point encore persuadé.</p>
+        <p>Non, mon cousin, je ne suis pas fou; je crois seulement que les circonstances où je me
+          trouve ne ressemblent point à celles où des hommes d'âge et de grand jugement, que j'aime
+          et révère, ont pu vivre, et par conséquent qu'il leur est difficile d'apprécier ma
+          position; et qu'ils pourraient avoir tort de me condamner lorsque je professe des opinions
+          un peu excentriques et contraires aux leurs.</p>
+        <p>Je vous répéterai, quand je serai en face vous, que je n'ai guère vu ici que des gens
+          déraisonnables parmi ceux qui devraient être prud'hommes; que les plus jeunes ne sont pas
+          toujours les moins sages, et que pour se tirer d'affaires dans le monde actuel, il faut
+          certains talents et certaines complaisances que je n'ai pas. Je sais ce que je puis y
+          perdre, et j'en fais le sacrifice; je vivrai de ce que je trouverai, j'y suis résolu; je
+          n'ignore pas que je passerai pour un petit esprit, et je m'en console; je m'attends même à
+          ne trouver à tout cela aucun dédommagement, et je me sens le courage de m'en passer. Le
+          seul avantage que j'espère tirer de l'existence sera de la quitter sans regret; je suis
+          déjà trop fatigué des hommes et des choses pour que je m'attache à rien. J'ai quelques
+          vérités à faire connaître; je les proclamerai autant qu'il sera en moi, malgré tout.
+          Pourvu que j'accomplisse cette tâche, il ne me soucie de ce que je deviendrai.</p>
+        <closer>
+          <salute>Je vous embrasse, mon cousin,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

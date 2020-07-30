@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838-12-09" resp="author">9 décembre 1838</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pérennès, François (1811-1867)" ref="https://data.bnf.fr/fr/10482184/francois_perennes/">François Pérennès</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838-12-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris, </placeName>
+            <date>9 décembre 1838.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Pérennès, le jour même de mon arrivée à Paris, j'ai pris connaissance des pièces
+          officielles que vous m'aviez remises à mon départ de Besançon, et je me suis mis
+          sur-le-champ en mesure de me conformer aux instructions qu'elles renferment. Je suis allé
+          me présenter à mon tuteur, Monsieur Droz, qui, dès le lendemain, comme s'il eût été
+          informé des désirs de M. Weiss, m'a fait connaître à M. Feuillet, bibliothécaire de
+          l'Institut. C'est auprès de cet excellent homme que je passe régulièrement quatre séances
+          par semaine, la bibliothèque de l'Institut n'étant ouverte que quatre jours sur sept.
+          Jusqu'à présent, c'est à cette recommandation à M. Feuillet et à mes visites à sa
+          bibliothèque que se bornent tous les actes de tutelle de M. Droz, et à peu près tous les
+          avantages de mon séjour à Paris.</p>
+        <p>J'ai vu M. Mauvais ; nous avons dîné ensemble. Je le trouve homme de mérite, simple,
+          obligeant et bon. Il est fort aimé de la famille Droz, et je me plais à reconnaître qu'il
+          en est digne à tous égards. Je regrette vivement que son métier d'astronome soit si
+          éloigné de mes habitudes métaphysiques.</p>
+        <p>Voilà, Monsieur, les faits tous secs : je viens à mes observations.</p>
+        <p>J'ai déjà eu des conversations nombreuses et trèslongues avec M. Droz : ce qui paraît en
+          être résulté pour lui, c'est l'opinion que je suis un homme à paradoxes. Il ne se trompe
+          pas. — D'abord, il a voulu savoir quelle carrière je prétendais suivre.</p>
+        <p>— La philosophie, la critique historique et la grammaire comparée : telle a été ma
+          réponse.</p>
+        <p>— La philosophie !... mais quelle espérance pouvezvous fonder sur des spéculations
+          philosophiques ? Tout n'est-il pas dit aujourd'hui ou à peu près ? Quel système
+          métaphysique, psychologique ou moral pouvezvous inventer qui n'ait déjà été inventé? Les
+          plus habiles de notre temps ne font plus, en désespoir de cause, que de récapituler ce qui
+          a été dit avant eux. La philosophie n'est plus que l'histoire de la philosophie.</p>
+        <p>Telles étaient en substance les objections de M. Droz. A tout cela, j'ai répondu du ton
+          le moins affirmatif qu'il m'a été possible (je n'oublie pas si vite les leçons qu'on veut
+          bien me faire) que j'étais loin de croire que la philosophie eût dit son dernier mot ;
+          qu'elle était à peine organisée ; que la méthode, le but, la circonscription des études
+          philosophiques n'avaient été bien définis que depuis une vingtaine d'années ; que c'était
+          tout ce qu'il y avait réellement de fait dans la science ; que telle était l'opinion de M.
+          Jouffroy lui-même, le seul philosophe en Europe que je regardasse comme digne de ce nom ;
+          qu'il fallait aujourd'hui partir de là, et à l'aide de l'observation et de l'expérience,
+          chercher dans la solution des problèmes psychologiques la solution de problèmes ultérieurs
+          qui tourmentent l'humanité.</p>
+        <p>Là-dessus, M. Droz n'a pas insisté : il s'est borné à me dire que jamais il ne s'était
+          attaché à la métaphysique ; du reste, il m'a félicité de ce que mon opinion sur M.
+          Jouffroy était de tous points conforme à la sienne. Et nous avons parlé d'autre chose.</p>
+        <p>— Vous voulez faire de la critique historique, a repris M. Droz. Quelle histoire en
+          particulier et de quelle façon entendez-vous la traiter ?</p>
+        <p>— Je travaille en ce moment à amasser des matériaux pour une histoire des Hébreux, qui
+          servirait de confirmation à mes théories philosophiques.</p>
+        <p>— Mais l'Ancien Testament me semble encore plus épuisé que la philosophie; pouvez-vous
+          espérer raisonnablement, après des milliers de commentateurs, d'intéresser encore, de
+          travailler utilement pour le public et pour vous-même, avec des histoires bibliques
+          réchauffées ou rajeunies ? D'ailleurs, de deux choses l'une : ou vous resterez dans
+          l'orthodoxie, et alors votre labeur ne peut avoir rien de bien neuf ; ou vous serez
+          novateur, et alors vous soulèverez l'Église contre vous. Eh bien ! dans ce dernier cas,
+          eussiez-vous raison, ce dont vous ne pouvez donner d'autre garantie que votre conviction
+          et votre autorité, quel intérêt si grand pourrait vous porter à redresser des traditions
+          de deux mille ans ?</p>
+        <p>L'argumentation était pressante : j'ai répondu brièvement que j'étais fermement convaincu
+          que nous ne concevions encore rien à l'histoire juive, et là-dessus, j'en ai appelé à M.
+          Droz lui-même et lui ai demandé s'il pourrait me donner une idée nette d'Isaïe, par
+          exemple. J'ai ajouté qu'il me suffisait qu'une chose me parût vraie ou fausse pour que je
+          la déclarasse telle, aux dépens de qui il appartiendrait ; que la critique et la
+          philologie ne pouvaient pas plus se préoccuper des intérêts d'une opinion, quelque
+          vénérable qu'elle fût, que la chimie ou l'algèbre.</p>
+        <p>Je vous avoue que M. Droz me parut en ce moment un peu alarmé de la direction de mes
+          idées ; et je crois que, sur ce point, le soin de mon repos et de mon bienêtre futur,
+          autant que l'honneur de l'Académie, lui tiennent plus au coeur que la passion des
+          rectifications historiques. M. Droz me demanda encore :</p>
+        <p>— Quelles études spéciales. avez-vous faites? Quel fonds de connaissances est le vôtre?
+          Que savezvous ?</p>
+        <p>— Rien ; j'ai été correcteur d'imprimerie, et je suis bachelier es lettres.</p>
+        <p>— Mais enfin, l'Académie ne s'est pas prononcée en votre faveur sans avoir eu des motifs.
+          Quels ont, été vos titres à son suffrage ?</p>
+        <p>— Je me suis occupé de théologie dogmatique, et je serais, je crois, un séminariste
+          passable : la discussion du dogme m'a conduit à celle des textes, et celle-ci à un essai
+          de grammaire comparée. Voilà tout.</p>
+        <p>Alors M. Droz me témoigna le désir de voir cet essai, et je le lui offris dès le
+          lendemain. J'ai revu depuis ce vénérable académicien : il avait eu le courage de me lire
+          jusqu'au bout. Il ne me dit ni bien ni mal de mon ouvrage : il ne s'expliqua ni sur le
+          fond, ni sur la forme, ni sur le style. Jamais je ne vis une telle réserve. Quand on
+          condamne les théories d'un auteur, surtout d'un auteur protégé, il y a bien du mal si l'on
+          ne trouve pas de quoi échauffer un peu son courage en flattant son amour-propre.
+          Donnez-moi le plus méchant poëme, le plus détestable roman, je saurai y trouver quelque
+          matière d'éloge et d'encouragement.</p>
+        <p>Enfin, je fus assez heureux pour obtenir quelques mots vagues, qui, au fond, équivalent à
+          une condamnation complète de mon travail. « Je ne me suis jamais occupé de grammaire
+          générale, me dit M. Droz, et je ne me permettrai pas de porter un jugement sur des
+          matières qui me sont assez étrangères, j'en suis resté pour mon compte à Condillac, et si
+          vous avez raison contre Condillac, il faut au moins avouer que sa doctrine est bien
+          spécieuse. » Je vis que la lecture de mon livre avait renversé toutes les croyances
+          grammaticales de M. Droz.</p>
+        <p>M. Michelot, gendre; de M. Droz et chef d'une institution , a publié une grammaire
+          française dont les principes et la théorie sont pris tout entiers de Condillac : je me
+          suis assuré du fait par une lecture attentive. Or, j'ai quelque lieu de soupçonner que M.
+          Droz a mis la main à cette rapsodie élémentaire; et ma grammaire générale est le démenti
+          le plus formel, le plus impitoyable qui ait jamais été donné à cette partie des systèmes
+          du philosophe. Ce qu'il y a de pis, c'est que l'énoncé dans mes critiques accompagne le
+          raisonnement.</p>
+        <p>J'ai annoncé à M. Droz le désir où j'étais de retoucher mon essai de grammaire, d'y faire
+          de notables augmentations et changements, et de l'adresser au concours de l'Institut pour
+          le prix Volney. De son côté, il m'a promis de communiquer l'ouvrage à M. Feuillet, qui,
+          pour le fond des choses comme pour la marche à suivre dans mes travaux, pourra m'être de
+          la plus grande utilité par ses conseils et ses lumières. Si j'arrive assez à temps,
+          j'enverrai mon manuscrit au mois de mars, sinon ce sera pour l'année prochaine.</p>
+        <p>J'ai la certitude, non pas d'avoir rencontré juste partout, mais d'avoir soulevé des
+          questions capitales en grammaire, d'avoir donné le premier une solution raisonnée, appuyée
+          de l'observation des faits et de la théorie métaphysique de l'un des plus grands problèmes
+          de la linguistique : rattacher à un principe commun les deux grandes familles de langues
+          indo-germanique et sémitique, la première étant; dans la déclinaison, la conjugaison et la
+          syntaxe, presque le renversement de l'autre. C'est cette opposition qui a toujours
+          empêché, jusqu'à présent, un assez grand nombre de philologues d'admettre, pour ces deux
+          vastes systèmes d'idiomes, la possibilité d'une commune origine. — D'un autre côté, j'ai
+          établi l'édifice de la grammaire pour toute langue possible, sur deux seules parties du
+          discours, ce qui offre la synthèse grammaticale la plus simple, la plus lumineuse qu'on
+          ait encore présentée.</p>
+        <p>A Paris, et je me convaincs chaque jour de cette vérité, il ne faut guère espérer de
+          rencontrer des hommes dont l'esprit saisisse et embrasse une synthèse scientifique
+          quelconque; l'esprit français est trop géométrique, trop déductif, et ne remonte pas aussi
+          bien des faits aux lois générales des choses. On ne manque pas ici de savants, de
+          personnages d'un vrai mérite qui sont devenus tels par la culture et le travail ; mais
+          cette faculté presque divinatoire, qui seule a fait Newton et Descartes, faculté qui
+          enfante un système complet, un tout métaphysique, cette faculté est rare dans notre
+          patrie. Le Français est admirable pour l'analyse, le perfectionnement : il n'a guère de
+          ces inspirations subites que donnent les vues d'ensemble et à priori. On ne cultive plus
+          qu'en serre chaude ; les végétations spontanées sont aujourd'hui des prodiges. Aussi, tout
+          est accessible au travail, devenu l'émule du talent.</p>
+        <p>J'ai pris le parti de renoncer aux cours publics, que je regarde comme un luxe national
+          complètement inutile. Je pourrai quelque jour vous régaler des niaiseries qui s'y
+          débitent. J'en ai pris des notes.</p>
+        <p>Je vois M. Droz deux fois par semaine. Nous sommes convenus qu'il me laissera mon maître
+          absolu pour ce qui est de ses soirées et de nouvelles présentations. Sa première
+          exhortation avait été de me recommander de fuir l'intrigue; je me suis alors permis de lui
+          rappeler qu'il parlait à un Franc-Comtois pur sang. Je suis accueilli de lui parfaitement,
+          et je m'attache tous les jours à sa personne. M. Droz inspire la vertu à tout ce qui
+          l'approche. Il suffirait, après une faute, d'être devant lui pour sentir des remords. Je
+          l'aimerai certainement, sentiment qui me devient tous les jours plus difficile. Si jamais
+          il m'arrivait, en parlant de lui, de rien dire qui marquât seulement du mécontentement ou
+          de la froideur, il faudrait croire que je ne suis plus digne de l'estime des honnêtes
+          gens. Au reste, je lui ai dit déjà que, pour mériter son estime et son amitié, s'il
+          suffisait de travailler et d'être honnête homme, j'espérais obtenir l'une et l'autre, mais
+          que je ne promettais rien de plus.</p>
+        <p>Je vais me préparer tout doucement au grade de licencié ès lettres ; je fais en attendant
+          un peu de philosophie et de grammaire ; je traduis Isaïe et Andrezel, et je commencerai
+          incessamment l'allemand et le sanscrit.</p>
+        <p>Je me repens quelquefois d'avoir sollicité et obtenu la pension Suard ; ce sera la
+          matière d'une autre conversation avec vous, monsieur Pérennès, si toutefois, un petit mot
+          de réponse me témoigne qu'il vous plaît que je continue. Je vous serai obligé de remettre
+          vos lettres pour moi à la rue des Chambrettes, 19.</p>
+        <p>Je désire que mes lettres restent entre vous et moi; je me confesse à vous comme à un
+          ami. Ackermann m'a prié de vous assurer de sa parfaite estime et de son dévouement.</p>
+        <p>Mes amitiés à M. votre frère ; dites-lui que je lis Montesquieu.</p>        
+        <closer>
+          <salute>Votre ancien élève et fidèle,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

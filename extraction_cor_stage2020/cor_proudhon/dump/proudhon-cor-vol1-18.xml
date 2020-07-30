@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-01-18" resp="author">18 janvier 1839</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-01-18"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>18 janvier 1839</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Maurice, je vous remercie des détails que vous voulez bien me communiquer sur
+          votre gestion ; vous pourrez, à l'avenir, en conférer avec mon parent pour les écritures
+          et pour les arrangements définitifs. C'est à lui que j'adresserai l'argent que j'aurai à
+          envoyer à Besançon, c'est lui que je prierai de payer à ma place et de veiller à mes
+          intérêts, car vous savez ma haut? incapacité pour les affaires.</p>
+        <p>Je ne comprends pas quoi inconvénient les L*** auraient trouvé à laisser cumuler la
+          petite somme d'intérêts que nous leur devons au 1er février.</p>
+        <p>Tout en poursuivant la liquidation, veillez à vos affaires; je ne l'entends pas
+          autrement, et vous devez penser que ce n'est pas moi qui vous ferai jamais de
+          reproches.</p>
+        <p>Le nouveau travail que je fais sur mou livre a pour but de le mettre en état d'être
+          présenté au concours pour le prix Volney ; le terme de rigueur est au 1er mars prochain;
+          le Mémoire couronné sera proclamé au mois d'avril ou de mai suivant. Si je pouvais
+          seulement obtenir une mention honorable, je ferais imprimer un nouveau frontispice à notre
+          édition de Bergier pour y relater cette circonstance.</p>
+        <p>Je n'ai aucune envie de faire une nouvelle édition de ma grammaire, tant qu'il restera un
+          exemplaire de Bergier. — A cet égard, Vieux vient de me mettre en relation avec un savant
+          de Strasbourg, qui me promet un article dans les journaux allemands et auquel j'envoie un
+          exemplaire du livre. — Vieux se plaint que la vente marche mal pour M. Parent-Desbarres;
+          il désir-,' se livrer tout entier à notre affaire, au plus tôt.</p>
+        <p>C'est quand nous serons bien en train que je compte sur lui, surtout pour la vente de
+          notre malheureuse édition.</p>
+        <p>M. Gaume m'a dit, la dernière fois que je l'ai vu, qu'il était en grande occupation à
+          cause du commencement de l'année, qu'il me ferait passer notre règlement dès qu'il
+          l'aurait terminé.</p>
+        <p>Pourquoi je n'aime pas M. X***?</p>
+        <p>Parce que c'est un petit être sans conscience, sans moralité, sans principes, sans
+          probité, sans génie, littérateur pourri, n'ayant rien dans la tète et rien dans le coeur,
+          méprisé même des G*** et consorts. Je viens d'apprendre qu'il était décoré par
+          Louis-Philippe depuis quelques jours, et qu'il allait partir pour Rennes où il a été nommé
+          à une chaire. Quand je serai lié avec un individu de cette espèce, malgré ses décorations,
+          c'est que mon opinion aura été modifiée ou mes principes altérés.</p>
+        <p>Micaud, dont j'ai reçu dernièrement une lettre, me parle d'un jeune homme de Colmar qui
+          doit, dit-il, me venir parler pour l'imprimerie. D'un autre côté, M. Proudhon, mon parent,
+          me presse de vendre. Je suis tourmenté, harcelé, bataillé par toutes sortes d'ennuis. Ici,
+          mes seuls sujets de désagrément viennent de mon obstination à ne voir personne. Ce n'est
+          pas embarras ni timidité, car on s'aperçoit fort bien que je ne suis pas timide, c'est
+          dégoût de la société, du monde et des hommes. Je ne vais pourtant que dans deux maisons,
+          les plus respectables peut-être de Paris, M. le pasteur protestant Cuvier et M. Droz. Je
+          connais le premier depuis sept ans. D'ailleurs, j'éprouve de la fatigue en toute
+          compagnie. C'est une maladie que j'ai prise à Besançon ; les premiers symptômes datent
+          d'avant notre association. J'aime mes semblables et pourtant ils me lassent et
+          m'ennuient.</p>
+        <p>Je me trouve bien de ne voir chaque personne qu'une heure par quinzaine.</p>
+        <p>Je tiens à l'imprimerie comme teigne; plus elle me cause de tracas, plus je
+          m'obstine.</p>
+        <p>J'ai reçu enfin le paquet avec les lettres. Je vous félicite du dénouement que vous avez
+          trouvé avec Bailli. Huguenet me mande qu'il espère quelque chose de lui.</p>
+        <p>Je profite de votre permission pour adresser une lettre à mon parent, à l'imprimerie. La
+          première fois que j'aurai le plaisir de vous écrire, il en fera de même pour vous.</p>
+        <p>Je ne sais pas quel jour j'aurai de l'argent, aussi ne comptez pas sur un jour fixe ;
+          outre la distance de Paris à Besançon, je puis éprouver moi-même un retard; ainsi ne soyez
+          pas surpris si du 1er mars je vous renvoie au 4, 5, 6 ; cela ne dépendra pas de moi.</p>
+        <closer>
+          <salute>Je vous souhaite le bonjour.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="183.." resp="editor"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Muiron, Just (1787-1881)">Just Muiron</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="183.."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>183..</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous me demandez, Monsieur, pourquoi cette grande répugnance de ma part à signer votre
+          journal dès mon début. Vous comprendrez sans peine les raisons d'un semblable refus, quand
+          vous saurez ce que j'ai fait jusqu'à ce jour et combien peu je suis avancé dans ma
+          carrière littéraire. Entendons-nous d'abord ; je ne crains pas d'avouer mes principes ni
+          mes écrits, seulement je vous demande un délai, parce que je ne veux pas être pris au
+          dépourvu. </p>
+        <p>Entièrement étranger par mes goûts particuliers aux querelles et aux débats politiques,
+          je suis peu familiarisé avec le style ou le jargon des journaux, le genre de mes éludes
+          étant presque totalement étranger aux connaissances que l'on exige d'un rédacteur; quel
+          parti, en effet, pourriez-vous tirer, Monsieur, d'un homme qui ne s'est occupé toute sa
+          vie que de métaphysique, de langues, de théologie? </p>
+        <p>Depuis deux ans je cours le monde, étudiant, interrogeant le petit peuple dont je me
+          trouve plus rapproché par ma condition sociale ; n'ayant guère le temps de lire, écrivant
+          encore moins, rangeant à la hâte les idées que me fournissent l'observation, la
+          comparaison de tant d'objets divers; je manque totalement du talent d'écrire et de parler
+          avec fertilité et esprit sur toutes sortes de matières, qualité essentielle chez un
+          journaliste. </p>
+        <p>De tout cela je commence à m'apercevoir et je conclus que je ne suis guère l'homme qu'il
+          vous faut; et vous m'en croirez sans peine, Monsieur, si je vous assure que je n'eusse pu
+          songer à me présenter chez vous de mon propre mouvement, n'était toute ma déférence pour
+          les exhortations et les conseils d'un ami (Olympe Micaut), sans lequel moi, simple
+          compositeur d'imprimerie, je douterais que je pusse être autre chose. </p>
+        <p>J'avais vu des rédacteurs de province ; je savais de quelle façon et avec quels matériaux
+          la plupart remplissent leur feuille, et sur cet exposé, je me flattais, ayant déjà fait
+          quelque chose de plus difficile, ce me semble, d'en venir facilement à bout, — Ajoutez
+          l'espoir qu'on faisait briller à mes yeux de pouvoir me livrer exclusivement à l'étude. </p>
+        <p>J'espérais de votre complaisance que vous-même me mettriez au courant d'une rédaction ;
+          je sentais le besoin de suivre quelque temps la polémique des journaux; je voulais faire
+          connaissance avec ces gens-là; en un mot, commencer une sorte d'apprentissage. </p>
+        <p>Enfin, Monsieur, je veux avant tout consulter M. Fallot, comme j'ai eu l'honneur de vous
+          le dire. Mais je dois Vous prévenir que , quelque puisse être mon sentiment, je ne
+          consentirais à signer l' Impartial qu'à dater du 1er janvier. C'est pour moi une condition
+          sine qua non; ce point accordé, je me prêterai à toute proposition de votre part. </p>
+        <p>Voyez donc, Monsieur, si, à l'aide d'un prête-nom, d'un homme de paille, il vous est
+          possible de concilier votre détermination et la mienne. </p>
+        <p>Dans le cas où nous pourrions nous entendre, ma franchise me ferait encore un devoir de
+          vous exposer mes opinions politiques, philosophiques et religieuses auxquelles j'ose dire
+          que je ne dérogerai jamais. </p>
+        <closer>
+          <salute/>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

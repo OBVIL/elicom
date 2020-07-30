@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1836" resp="author">1836</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Weiss, Charles (1779-1866)"
+            ref="https://data.bnf.fr/fr/11929033/charles_weiss/">Charles Weiss</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1836"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>1836</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Weiss, je vous ai fait attendre trop longtemps, j'en fais l'aveu, le petit
+          nombre de renseignements que je suis à même de fournir sur mon ami Gustave Fallot. C'est
+          qu'en effet j'éprouve une répugnance invincible à dire de lui tout ce que je pense.
+          D'autres regardent comme un devoir sacré de recueillir jusqu'aux moindres souvenirs des
+          conversations et des promenades d'un ami, pour en embellir, à ce qu'ils croient, un
+          article biographique : moi, un je ne sais quel instinct me serre le coeur et m'empêche de
+          parler. Qu'importe au public? Les événements de la vie de Fallot ne sont rien : d'autres,
+          aussi bien que lui, ont vu leur vocation littéraire contrariée; d'autres, et de plus
+          médiocres génies, se sont, pour ainsi dire, prophétisés eux-mêmes; d'autres ont été amis
+          excellents, citoyens probes; tout cela, précieux pour moi, n'a rien de neuf ni de piquant
+          pour les curieux et les indifférents. A quoi bon redire un éloge commun à tant de gens? A
+          quoi sert-il d'employer des formules si souvent prostituées? Si j'étais chargé de
+          l'article de Fallot dans une biographie quelconque, moi, son camarade, comme il
+          m'appelait, moi son plus obligé, je ne lui donnerais pas vingt lignes. C'est autrement que
+          cela que je voudrais consacrer sa mémoire.</p>
+        <p>Quand j'appris la nouvelle de la mort de Fallot, je sentis que la moitié de ma vie et de
+          mon esprit m'était retranchée : je me trouvai seul au monde. Fallot laisse des amis qui le
+          regrettent autant que moi, je n'en doute pas : je n'ai pas versé une larme, car, je ne
+          pleure jamais; mais, depuis, je n'ai pas peut-être passé quatre heures de suite sans que
+          son souvenir, comme une idée fixe, une vraie monomanie, occupât ma pensée. Mais, encore
+          une fois, qu'est-ce que cela fait à âme qui vive? Si tous ceux qui l'ont connu et aimé
+          faisaient son oraison funèbre, il y en aurait un gros livre, et ce livre serait fort
+          ennuyeux pour tous autres que ses auteurs.</p>
+        <p>Je connus Fallot sur la fin de 1829. Après avoir fini ses études, il avait été placé par
+          son père dans une maison de commerce, contre son gré. Aussi s'était bien promis d'en
+          sortir aussitôt que sa majorité le rendrait maître de ses actions. C'est ce qu'il fit. Sa
+          vie à Besançon est connue; c'est ici que je l'ai le plus suivi; notre fréquentation ne fut
+          jamais interrompue jusque vers le milieu de 1831, époque où il partit pour Paris, et moi
+          pour la Suisse.</p>
+        <p>Je le revis dans la capitale au commencement de mars 1832; j'arrivai chez lui comme chez
+          mon père; le choléra entra avec moi. Il semble qu'alors tout conspirait contre nous. Il y
+          avait cent à parier contre un qu'une fois à Paris je n'en sortirais plus ; et ce qui me
+          désole aujourd'hui, c'est que j'ai la ferme confiance que, si je fusse demeuré près de
+          lui, il ne serait pas mort. J'avais le talent ou le don de le récréer, de le distraire, de
+          le forcer à prendre quelque récréation sans aucune perte pour ses travaux et ses études ;
+          ma présence étant presque de tous les instants, j'étais pour lui comme un domestique, mais
+          un domestique intelligent et ami de son maître. Qui pouvait me remplacer? Nul ne l'a fait,
+          et la preuve, c'est qu'il est mort.</p>
+        <p>Quand je débarquai chez lui, il avait déjà présenté à l'Académie de Besançon son mémoire
+          pour la pension Suard : il calculait qu'avec ses modiques revenus et le bénéfice de cette
+          pension, s'il l'obtenait, plus le peu qu'il me permettrait de gagner dans ma profession
+          d'imprimeur, nous pourrions très-bien vivre, jusqu'à ce qu'une occasion quelconque nous
+          tirât de la misère. Je n'y consentais qu'avec peine. Tout à coup, des nouvelles fâcheuses
+          lui arrivant de son pays, il se vit forcé, par suite de tracasseries domestiques, de payer
+          une trèsforte somme. Dès lors je cherchai de l'emploi chez les imprimeurs. C'était
+          l'époque des journées de Juin, les temps les plus difficiles de la révolution de Juillet.
+          Tous les ateliers fériaient ; je fus obligé d'aller chercher fortune ailleurs; et depuis,
+          je ne l'ai plus revu.</p>
+        <p>Je me sens obligé de vous demander pardon, Monsieur Weiss, de ce qu'au lieu de vous
+          parler de Fallot je n'ai fait jusqu'ici que ma propre histoire. Eh! c'est justement pour
+          cela que je reculais tant à vous faire un plaisir si léger, malgré toute la volonté que
+          j'ai de vous être agréable. Je n'entends pas autrement la biographie, quand je l'écris en
+          mon nom. Que vous dirai-je maintenant? Fallot, attaqué du choléra et croyant mourir,
+          Fallot me tendit les mains, ce soir que je regardais comme une veille de mort, et me dit
+          avec un enthousiasme capable de tuer un homme robuste : Si je meurs, jurez-moi que vous
+          m'immortaliserez!</p>
+        <p>Ces mots me tourmentent et me poursuivent comme un remords, comme un spectre. Non pas que
+          je me croie obligé par la promesse que m'arracha la compassion d'un jeune homme mourant
+          dans la détresse de sa carrière interrompue : à Dieu ne plaise que je me croie fait pour
+          donner de l'immortalité à personne ! Mais ce spectacle d'un génie naissant, aux prises
+          avec une fatalité inexorable; cette conscience si fortement acquise qu'il avait de son
+          avenir, et à laquelle la mort venait dire : tu en as menti; l'idée que la perte d'un seul
+          homme a peut-être été souvent la cause que les destinées de l'humanité, attachées à celles
+          de la science et de la philosophie, en ont été ou retardées ou engagées dans de fausses
+          routes; les images, opposées et luttant ensemble, de la pensée, du néant, du hasard et de
+          l'intelligence, tout cela me causa une impression de terreur, une horreur divine, qui dure
+          encore.</p>
+        <p>Je vous offre, Monsieur Weiss, les lettres qui me restent de cet homme dont je ne verrai
+          pas le pareil, du moins pour moi : prenez la peine de les lire; peut-être, écrites à un
+          camarade, vous en apprendront-elles plus que tout ce que je pourrais dire. Vous y
+          reconnaîtrez que la faculté dominante de Fallot était l'aptitude aux méditations
+          philosophiques, et que la philologie ne fut jamais pour lui qu'un objet secondaire qui
+          pouvait fournir quelques lumières sur les objets dont s'occupe la haute métaphysique. Une
+          de ses croyances était que l'observation des phénomènes du langage et de la physiologie,
+          comparés, amèneraient tôt ou tard des découvertes assez importantes pour résoudre
+          définitivement, en oui ou en non, les problèmes les plus intéressants de la science. Il
+          disait que le génie était tout entier dans l'attention. Cette vérité me paraît profonde.
+          Nous ne manquons pas de définitions du génie ; quelques-unes se rapprochent de celles de
+          Fallot; mais je ne sache pas qu'aucun auteur ait réduit si nettement le génie à une simple
+          opération de l'entendement, l'attention.</p>
+        <p>Qu'est-ce que ces illuminations soudaines du génie, comme dit Bossuet ? C'est
+          l'attention, mais cette attention de tous les instants de la vie, cette attention que ne
+          troublent pas, qu'entretiennent au contraire les occupations même les plus dissipées de
+          l'existence. C'est cette attention si continue, si prolongée, si perpétuelle, qu'elle
+          saisit dans tout ce qu'elle voit, dans tout ce qui l'entoure, dans les accidents les plus
+          imprévus, qu'elle saisit, dis-je, dans le désordre et le tumulte, les parcelles de lumière
+          qui doivent contribuer à l'exposition de la vérité, à la composition d'un chef-d'oeuvre.
+          Le génie, dit Fallot, c'est l'attention.</p>
+        <p>J'attends avec impatience, comme tous ceux qui ont connu Fallot, la publication de son
+          livre, dont il m'avait dit autrefois quelques mots. ( Voyez lettre de l'année 1835.) Pour
+          dire toute mon opinion sur Fallot, considéré comme linguiste, je ne crois pas qu'il eût
+          été capable de savoir, je veux dire de posséder, le copia verborum de beaucoup de langues,
+          ni même d'en retenir parfaitement le simple mécanisme. Mais il avait au plus haut degré le
+          talent de comparer, d'analyser, de discuter, de déduire des conséquences neuves, curieuses
+          et fécondes, de faits et de matériaux inexploités. Comme tel, il eût surpassé peut-être
+          les anciens et les modernes. Nous résolûmes un jour de nous mettre à l'étude du grec ; la
+          première leçon fut le verbe A\xi : il avoua que, s'il venait à bout de le retenir, il
+          croirait savoir le grec. Cependant, j'ai su depuis qu'il s'était rendu fort dans cette
+          langue, probablement parce qu'il s'était fait des principes et une méthode qui lui
+          facilitaient le travail, et dont il nous aura peut-être fait part dans son ivre
+          posthume.</p>
+        <p>Fallot possédait éminemment la plus belle et la plus rare des facultés intellectuelles,
+          faculté qui seule l'a fait tout ce qu'il a été, et l'eût rendu peut-être le flambeau de la
+          France philosophique : ce n'était ni la mémoire, ni l'imagination, ni la réflexion, ni
+          même cette attention, dont il avait si bien reconnu la puissance; c'était la faculté de
+          compréhension, s'il m'est permis de donner à ce mot une acception peut-être nouvelle. Il
+          saisissait rapidement et avec facilité tout l'ensemble d'un système, en voyait toutes les
+          conséquences quelquefois mieux que l'auteur lui-même. Cette faculté, alimentée et exercée
+          chez lui par une assez grande érudition, et par des connaissances variées et acquises de
+          jeunesse (entomologie, ornithologie, chimie, physique, histoire et philosophie comparées),
+          lui donnait une rectitude de jugement, une force de raison, une puissance de dialectique
+          telle que j'en ai vu peu d'exemples. Nous avons quelquefois passé en revue de vastes
+          ouvrages, d'immenses édifices de la pensée humaine; et je dois dire que j'ai plus appris
+          par cette critique, et que je serai toujours plus redevable aux souvenirs que je conserve
+          de sa méthode, qu'à des études qui auraient été bien plus longuement prolongées.</p>
+        <p>Avec tout cela, Fallot n'eût peut-être fait qu'un médiocre professeur. Il était peu
+          favorisé du côté de l'élocution ; et la sûreté de sa critique tenant plus à la lenteur de
+          l'observation qu'à un instinct rapide, il était plus fait pour alimenter la presse que
+          pour occuper la chaire.</p>
+        <p>Mais, plus je parle de sa belle organisation, plus je me prépare d'amertume ; tout cela
+          est perdu pour moi ! Grâce pour un regret si égoïste! j'eusse voulu, avec lui, ne faire
+          qu'étudier et lui fournir quelques bribes d'idées, lui tenant toujours la plume. Il me
+          semblait qu'il pensait pour nous deux, et que ses pensées étaient les miennes. Désormais
+          je n'aurai personne.</p>
+        <p>Que je devienne Platon, lui disais-je, et vous serez Socrate. Je n'ai plus que le regret
+          de l'impuissance et de l'inutilité de ce voeu.</p>
+        <closer>
+          <salute>Puissé-je, Monsieur Weiss, avoir rempli votre attente, et vous avoir fourni quelques
+            données sur un jeune homme qui fut votre fils. Ce serait encore un sujet de consolation,
+            pour celui qui ambitionne la centième partie de la place que Fallot occupa dans votre
+            coeur.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

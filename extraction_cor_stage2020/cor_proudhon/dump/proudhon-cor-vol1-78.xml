@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-04-25" resp="author">25 avril 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Tissot, Joseph (1801-1876)"
+            ref="https://data.bnf.fr/fr/11926714/joseph_tissot/">Joseph Tissot</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-04-25"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>25 avril 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Tissot, je suis bien en retard avec vous : c'est ma faute, et ma très-grande
+          faute; c'est aussi la faute des affaires, des hommes et du temps. Enfin j'espère que vous
+          me pardonnerez pour cette fois, en acquérant la preuve que, si je parais oublier mes amis,
+          du moins je sais occuper mes loisirs.</p>
+        <p>La poste, si son service est fidèle, vous remettra avec la présente un exemplaire de mon
+          nouveau Mémoire sur la Propriété; vous y verrez que, sauf le ton général que la
+          circonstance m'obligeait de modifier, je persiste dans toutes mes propositions; vous y
+          remarquerez, de plus, que je commence déjà à avoir prodigieusement de complices, qui ne
+          s'en doutaient peut-être pas. L'un de ceux dont je puis attester la pleine et parfaite
+          adhésion à mes doctrines, doctrines que j'ai honte d'appeler miennes, puisqu'elles ne sont
+          que l'expression des faits économiques, est M. Pierre Leroux, que j'ai eu le plaisir de
+          rencontrer une fois, et avec qui j'ai causé de vous. Non-seulement je prouve par son livre
+          qu'il est antipropriétaire non-communiste, ce qui est justement la théorie développée dans
+          le cinquième chapitre de mon premier Mémoire, mais j'ai l'aveu formel et raisonné de
+          l'homme même.</p>
+        <p>Vous m'avez dit dans le temps que vous rejetiez tout ou partie de mes assertions ; je ne
+          puis répondre à de pareilles critiques. Est-ce la partie économique, ou la psychologie, ou
+          la critique législative que vous rejetez? Pouvez-vous ne pas admettre la distinction de
+          propriété et possession; de droit d'usufruit et de droit d'usure, etc. Voilà ce qui me
+          paraît difficile à croire, et ce sur quoi vous ne me refuserez pas éternellement quelques
+          mots d'explication.</p>
+        <p>Vous remarquerez encore, non sans surprise peutêtre, que mes prétentions à la
+          philosophie, bien que déguisées, se sont accrues ; cela fera rire un savant, un érudit
+          (car je distingue ces deux qualités), un praticien aussi consommé que vous. Soit; je me
+          borne à vous dire que je suis apprenti pour le moment, et tuus tiro ; j'étudie la
+          philosophie; je serai philosophe quand il plaira à Dieu, probablement jamais. Quand je
+          serai mort, je prie mes amis de faire mettre sur ma tombe Studebat philosophioe.</p>
+        <p>J'écrivais hier à M. Blanqui, dans le billet d'envoi que j'ai joint à son exemplaire
+          :</p>
+        <p>« Pourquoi là législation et la politique ne sont-elles pas encore constituées comme
+          science? C'est que chaque science a besoin d'une matière d'expérience, d'un champ
+          d'observation, et d'une méthode, et que jusqu'à ce jour la politique en a manqué, ou que
+          du moins elle n'a pas su les reconnaître. Or, la matière d'expérience de la science
+          politique est l'homme et la société; le champ d'observation est l'histoire, les religions,
+          les lois, les coutumes, les croyances, l'économie politique, etc. ; la méthode est la
+          comparaison, l'induction et l'élimination, la généralisation et la synthèse. — Que font
+          encore aujourd'hui nos jurisconsultes? Ils prennent ce qu'ils nomment une loi,
+          c'est-à-dire une tradition, et en suivent l'application, par déduction syllogistique,
+          aussi loin qu'elle peut aller. C'est précisément comme cela qu'on enseignait autrefois la
+          physique et la médecine. Souvent il arrive que cette loi, poussée dans ses conséquences,
+          en rencontre une autre qui lui barre le chemin, ou qu'elle se trouve démentie par le sens
+          commun ou quelque impossibilité naturelle. Vous croyez qu'alors nos jurisconsultes
+          reviendront sur leurs pas et se mettront à faire la critique des deux lois ! Point du tout
+          ; ils cherchent dans leur sac à traditions quelque subtile solution de commentateur pour
+          sortir de ce mauvais pas, et se jettent dans le champ des conjectures. C'est alors qu'ils
+          disent qu'il n'y a rien d'absolu.</p>
+        <p>Vous avez fait votre droit, Monsieur, vous pouvez dire si ce tableau est fidèle. Quoi
+          qu'il en soit au reste des jurisconsultes, vous ne contesterez pas, je pense, la nécessité
+          de revenir à la méthode baconienne. Les idées que je viens d'exprimer sont banales pour
+          vous; mais aujourd'hui on ne peut les faire entrer dans la tète d'un juge ou d'un avocat.
+          Or, c'est en suivant le plan d'études dont je viens de vous donner l'aperçu que je crois
+          vraiment philosopher. Je puis me tromper maintenant sur quelques points de détail, comme
+          un mathématicien peut commettre une erreur dans un calcul spécial; qu'importe? La méthode,
+          le système,l'ensemble des vérités n'en subsistent pas moins. C'est avec mes propres
+          principes que l'on me redressera; or, c'est là tout ce que je veux.</p>
+        <p>J'ai eu bien de la peine à rentrer en grâce avec mon Académie, qui en août, septembre,
+          novembre et janvier dernier, voulait à toute force m'ôter ma pension. A la fin, las de
+          donner des explications qui n'étaient point admises, je me suis avisé de montrer les dents
+          ; j'ai attaqué nominalement une partie des membres; je me suis moqué de l'Académie; je lui
+          ai laissé entrevoir que, si elle cherchait le scandale, j'étais homme à l'augmenter encore
+          en la traînant devant le public; et la tempête s'est apaisée devant le quos ego... On dit
+          depuis ce temps-là que je suis un garçon qui promet... O bipèdes!</p>
+        <p>Actuellement je suis au service d'un magistrat de Paris, pour la construction d'un
+          ouvrage de jurisprudence criminelle. Mon bourgeois, ou mon propriétaire, ou mon
+          exploiteur, comme il vous plaira de l'appeler, est un assez brave homme qui se pique
+          d'esprit, mais qui n'est qu'un pauvre loustic dépourvu d'idées et même d'intelligence.
+          Depuis que je le connais et que j'ai lu quelques écrits de Dupin, j'ai pu me convaincre
+          qu'esprit et intelligence sont choses qui peuvent très-bien ne se pas rencontrer dans une
+          même cervelle. Or, mon juge voudrait être président, voire député ; pour cela il s'est mis
+          en tête de faire un livre. Et c'est moi qui en suis chargé. Le titre en sera, je crois :
+          Philosophie de l'instruction criminelle ; mon maître veut quelque chose de ronflant. Les
+          lectures et les études qu'il m'a fallu faire depuis trois mois m'ont appris une foule de
+          choses fort curieuses, dont je réserve une partie, et dont je fais cadeau de l'autre à mon
+          maître. Et nous marchons; j'écris le plan, la substance, la trame et la meilleure part du
+          style d'un chapitre; puis il brode là-dessus quelques idées pratiques, ou une billevesée
+          qui lui passe par l'esprit et qu'il ne manque pas de trouver neuve, car il ne l'a vue
+          nulle part... il n'a rien lu. Pour la philosophie, le système, la partie progressive,
+          psychologique, historique, socialiste, etc., il s'en rapporte à mes lumières, sauf sa
+          révision et son acceptation, qu'il ne refuse jamais. Or, notez ceci : mon maître veut
+          qu'on dise de lui qu'il est libéral, homme à idées larges et généreuses, plein d'amour
+          pour le peuple et de zèle, pour les réformes; mais en même temps il est propriétaire comme
+          un diable, égoïste, se pique d'aristocratie, et ne voudrait rien dire qui pût compromettre
+          sa toge et contrarier ses opinions. Moi, au contraire, je prétends faire de lui un
+          égalitaire renforcé, et le faire malgré lui hurler avec les loups. Il méprise
+          souverainement les philosophes, les humanitaires, les radicaux, foutes gens qu'il traite
+          de charlatans et d'escrocs ; le malheureux! Voici donc comment je vais opérer : avec un
+          esprit de cette trempe on n'a pas à redouter le génie qui court au-devant des conséquences
+          et des identités métaphysiques, la puissance de généralisation et de synthèse. Il me
+          suffit, pour l'accrocher, de ne lui présenter les choses que sous un aspect particulier,
+          que je me réserve d'étendre et de généraliser dès que je serai débarrassé de lui. Alors,
+          quand son livre aura été bien prôné par vingt plumes amies et parasites, quand alors son
+          succès aura été constaté aux yeux du public (et j'espère qu'un assez grand nombre de
+          nouveautés, une méthode inconnue en législation, etc., vaudront à mon maître une petite
+          ovation), quand, dis-je, auteur, critique et publie auront bien mordu à l'hameçon, je
+          viendrai à mon tour sommer les uns et les autres d'accepter certaines conséquences qu'à
+          coup sûr ils n'auront pas aperçues, tant les hommes sont bêtes.</p>
+        <p>Bref, je fais en ce moment un sic vos non vobis, que j'obligerai mon maître à finir comme
+          je l'entendrai, sous peine de passer pour ignorant ou pour mystifié. Du reste, je me
+          garderai bien de découvrir le mystère; je compte au contraire traiter notre futur auteur
+          avec égards et convenance ; mais ou il criera : Vive l'égalité! A bas la propriété! ou je
+          le change en bourrique.</p>
+        <p>Comment trouvez-vous le guet-apens? — J'espère que votre gravité philosophique ne s'en
+          formalisera pas ; il faut aujourd'hui traiter les hommes comme des enfants, leur emmieller
+          le vase pour les faire boire, les piper dans leur intérêt. Ma petite supercherie est
+          légitime, car elle ne renferme ni mensonge ni trahison; elle consiste uniquement dans une
+          dispensation graduée de la vérité. Je ne songe pas à revendiquer d'ailleurs la paternité
+          d'un livre que j'ai vendu d'avance, ce qui serait indigne ; que sont quelques aperçus plus
+          ou moins heureux, pour que deux hommes s'en disputent la propriété? Aussi n'est-ce point
+          là que je porte mes regards : c'est le triomphe ultérieur de la vérité que je m'efforce
+          d'amener par tous les moyens. J'ai vu à l'Institut, il y a deux ans, deux naturalistes se
+          battre pour une priorité de découverte que chacun revendiquait; il s'agissait d'un muscle
+          qui se trouve dans les ouïes du merlan. Quelle misère ! Combien celui-là est pauvre qui se
+          croit anéanti pour la perte d'une découverte ! Le monde est infini dans tous les sens ;
+          dites ce que vous voudrez, découvrez tout ce qu'il vous plaira, il me restera toujours
+          plus de gloire à acquérir que vous n'en aurez obtenu. Je ne crains pas vos succès je ne
+          demande que du temps.</p>
+        <p>Je n'ai pu résister au plaisir de vous faire part de ma position présente et de mes
+          projets; mais je souhaite que vous n'en fassiez pas de confidences. Mon maître se contente
+          de si peu de chose, qu'il y aurait cruauté et bassesse à lui ôter son bonheur. Je veux
+          bien rire avec vous, mais je ne voudrais pas faire une mauvaise action.</p>
+        <p>En me répondant, si vous pouvez me répondre, daignez je vous prie, Monsieur, m'exprimer
+          en deux mots votre jugement sur l'ouvrage de Lamennais et sur celui de Pierre Leroux; j'ai
+          trouvé occasion de parler de l'un et de l'autre dans le Mémoire que je vous envoie; je ne
+          serais pas fâché de connaître ce que vous pensez de nos philosophes, et de la critique que
+          je me suis permis d'en faire.</p>
+        <p>Il y a bien longtemps que je n'ai vu Pauthier. — Mme Droz est morte; je ne vais plus dans
+          cette maison, non plus que chez M. Jouffroy. Après l'espèce de scandale que j'ai donné, je
+          ne me soucie pas de me rencontrer avec des hommes avec qui il faudrait avoir des
+          explications, qui me traitent en écolier, et que je regarde comme des pédants.</p>
+        <closer>
+          <salute>Je suis, Monsieur, avec toute l'affection d'un compatriote, et l'estime que je
+            dois à votre talent et à votre science.</salute>
+          <signed>Votre tout dévoué,<name>P.-J. PROUDHON.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

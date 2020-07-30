@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-09-09" resp="author">9 septembre 1839</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-09-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon, </placeName>
+            <date>9 septembre 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, j'étais à la diligence comme je vous l'avais promis, j'ai attendu
+          quelque temps, et puis j'ai perdu patience : c'est ce que vous avez dû penser et qui ne
+          méritait pas la peine d'être rappelé.</p>
+        <p>Je n'ai appris que le 29 août, par la voie du journal bisontin, le résultat du concours
+          académique.</p>
+        <p>Votre Mémoire a la médaille et vous me devez un déjeuner. L'Académie a confirmé mon
+          jugement : elle a décidé que votre ouvrage réunissait les qualités du genre, pour
+          l'élégance, etc., etc. M. B***, ex-professeur de rhétorique à Arbois, ivrogne désoeuvré, a
+          eu une médaille d'encouragement pour sa lourde compilation sur le même sujet. L'Académie
+          de Besançon fait comme les instituteurs : elle donne quelque chose à tous ses
+          écoliers.</p>
+        <p>Ce qui me concerne exigera un peu plus de détail. S'il faut en croire le rapporteur,
+          l'abbé Doney, mon Mémoire aurait été le plus remarquable par le style, la profondeur et
+          l'érudition : faites-moi le plaisir de me dire ce qui reste d'un discours quand on en a
+          retranché les paroles, les idées et les faits. Mon Mémoire réunit donc aussi, comme le
+          vôtre, les qualités du genre; il a tout, ce me semble, excepté la médaille. On y a trouvé
+          des digressions, c'était la partie confirmative; des propositions malsonnantes ,
+          audacieuses, téméraires, inadmissibles, au moins pour le moment; des théories de politique
+          et de philosophie spéculatives ; des systèmes d'égalité, etc., etc., dangereux : cependant
+          on en a déclaré l'orthodoxie irréprochable. Ce qui veut dire que chez mes juges la
+          conscience du chrétien ne pouvait s'empêcher d'admettre ce que la prudence des
+          fonctionnaires publics et des membres d'un corps constitué défendait de sanctionner. C'est
+          mon discours enfin qui a fait le plus jaser, qui embarrassait le plus l'Académie, heureuse
+          à la fin d'en avoir trouvé deux passables qu'elle a couronnés ex oequo : ce sont ceux de
+          MM. Pérennès et Tissot, professeur de philosophie à Dijon. M. Pérennès aîné m'a affirmé
+          que lui n'aurait pas craint de me couronner, ou au moins de me joindre aux autres. J'aime
+          beaucoup mieux la médaille de bronze que l'on m'a décernée : mon Mémoire a été classé à
+          part et hors ligne ; cela vaut mieux, vous en conviendrez, qu'un ex oequo. Je ne saurais
+          vous dire combien ma vanité est flattée de ce que j'ai eu pour concurrent le fameux
+          Tissot, dont le travail, asssz mal écrit, n'a de remarquable, comme celui de M. Pérennès
+          jeune, que la sagesse des pensées et la modération. M. Tissot, ce grand réformateur, n'a
+          donc rien trouvé à dire sur la question ou bien il ne l'a pas osé : cela me donne à peu
+          près la mesure de l'homme. M. Jouffroy dit de lui qu'il sera un homme distingué s'il
+          parvient jamais à être clair.</p>
+        <p>Un M. de la Boulaye, ex-député de la Sarthe, homme de talent, dit-on, a obtenu un
+          deuxième accessit sans médaille, sur la même question du Dimanche.</p>
+        <p>J'ai déjà vu M. Pérennès jeune, sourd comme une cloche, rêvant la gloire littéraire, les
+          cheveux peignés, frisés, partagés, quasi joli garçon, et plein d'horreur pour sa condition
+          de correcteur d'imprimerie. Il est encore enfoncé dans le vieux-catholicisme et la
+          prêtraille; bon garçon au demeurant, à qui je voudrais pouvoir ouvrir les oreilles et
+          dessiller les yeux. Il m'a beaucoup parlé de son discours : j'ai vu qu'il s'était surtout
+          étendu sur ce que je me suis efforcé d'abréger, n'aimant pas les banalités. M. Droz a été
+          très-mécontent que j'eusse concouru. Con-cou-rir pour une A-cadé-mie, me disait-il, c'est
+          per-dre son temps. Je conviens, ai-je dit, que cela est vrai pour le grand nombre; témoin
+          moi : une once de cuivre gravé ne vaut pas un mois de travail. Il m'a félicité de votre
+          succès et m'a témoigné qu'il y prenait part.</p>
+        <p>M. Weiss vous attend et M. Pérennès aussi. Je suis arrivé réellement épuisé : la tète me
+          tourne encore en vous écrivant. Mon imprimerie reprend un peu d'activé ; que je la vende
+          ou ne la vende pas, je commence par rester imprimeur, sans refuser toutefois ce qui pourra
+          m'advenir. M. Jouffroy a rendu aussi bon témoignage de moi, de telle sorte qu'après tout,
+          bien loin de m'être aliéné les esprits, j'ai plus d'amis et d'admirateurs
+          qu'auparavant.</p>
+        <p>Je vais m'occuper de l'impression de mon Mémoire, après revue et correction, et je
+          l'enverrai à M. Tissot ainsi qu'à M. Pérennès. Je m'attacherai de plus en plus à la forme
+          purement scientifique; c'est le moyen de me placer hors des atteintes du parquet., Je
+          serai peut-être craint; mais je défie qu'on me poursuive pour les effroyables choses que
+          j'ai à dire. On prétend que toute vérité ne doit pas être manifestée avant le temps (c'est
+          au fond le seul reproche qu'on m'ait fait) ; cet adage n'a pas de sens : tant qu'une
+          vérité ne doit pas être manifestée, elle reste inaperçue; la voir, c'est être obligé de la
+          dire.</p>
+        <p>Il me tarde de vous voir; je suis jaloux de la réception que vous a faite Béranger et de
+          ses flatteries : vous me dédommagerez en me parlant du personnage.</p>
+        <p>J'ai toujours compté sur vous pour mon Mémoire à l'Institut qu'imprime Terzuolo. Cet
+          imprimeur m'a paru très-honnête ; je lui ai dit déjà que j'abandonnais mes droits
+          pécuniaires sur le premier numéro, vu les corrections et additions. M. Droz a voulu revoir
+          mon épreuve : ses observations m'ont été très-utiles.</p>
+        <p>Dimanche prochain, j'irai probablement voir un curé; aussi ne venez pas dimanche, car
+          vous me feriez rester.</p>
+        <p>Je vous souhaite tous les mois une médaille d'argent : je veux être pendu si je m'avise
+          de vous la disputer.</p>
+        <closer>
+          <salute>Votre ami,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

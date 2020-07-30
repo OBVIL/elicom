@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-03-13" resp="author">13 mars 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pérennès, François (1811-1867)" ref="https://data.bnf.fr/fr/10482184/francois_perennes/">François Pérennès</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-03-13"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>13 mars 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Pérennès, j'ai donné à M. Proudhon, mon parent, procuration pour toucher en mon
+          nom la pension Suard, parce que, ayant besoin de temps en temps de faire passer quelque
+          argent à Besançon, l'un de mes amis et moi nous nous arrangeons ici par des remboursements
+          réciproques et que par là ce transport ne nous coûte rien. Je vous remercie donc, vous et
+          M. Bourgon, d'avoir eu l'obligeance d'acquitter le mandat du 22 mars entre les mains de M.
+          Proudhon.</p>
+        <p>Pour répondre aux principales questions de votre lettre du 31 mars, j'ai dû me mettre
+          auparavant en mesure, je veux dire attendre la rentrée des cours publics et entendre les
+          principaux professeurs. Vous voyez, par cet aveu, que je ne les suis guère; en effet,
+          n'ayant pas eu le bonheur d'entendre les Cousin, les Villemain, les Guizot, les La
+          Romiguière, j'ai toujours trouvé qu'on laissait tomber en quenouille le professorat, et
+          que les cours publics de mon temps n'étaient qu'un luxe national plus profitable aux
+          professeurs qu'aux élèves.</p>
+        <p>Ces Messieurs, pour la plupart, ouvrent leurs cours le plus tard qu'ils peuvent; leurs
+          leçons sont aussi courtes que possible, et dans ces leçons, ils ont soin de ralentir leur
+          débit et de répéter leurs phrases assez pour qu'on leur sache gré, au bout d'une heure, de
+          terminer la séance. Je reconnais volontiers tous les avantages de l'improvisation d'une
+          leçon faite comme sans préparation, ex abrupto; mais je soutiendrai toujours que, lorsque
+          la nature nous a refusé ce merveilleux talent, il vaut mieux parler sur des notes écrites,
+          sauf à se permettre, de temps en temps, les réflexions que le temps, la chose et
+          l'auditoire inspirent.</p>
+        <p>J'ai entendu d'abord M. Damiron, professeur d'histoire de la philosophie moderne. Il en
+          était à Gassendi. Jamais tribunal de juge de paix n'ouit un plus déplorable orateur.
+          Ouvrez les ouvrages de M. Damiron, il est verbeux et feuillu, comme dirait Diderot,
+          pompeux, académique, diffus; il ne manque pas d'élégance et d'un certain mouvement; il a
+          toutes les qualités et les défauts d'un avocat, d'un improvisateur, en un mot, qualités et
+          défauts qui, d'après ce que l'on m'a rapporté, l'avaient fait surnommer à l'École normale,
+          Bouteille-à-l' Encre. Dans son cours public, c'est un tout autre homme : les idées ne lui
+          viennent pas, les mots encore moins; il se sauve à peine par les citations; et quand il se
+          trouve épuisé, il se résigne alors à nous lire quelque long fragment de ses livres
+          imprimés. M. Damiron paraît avoir une certaine prédilection pour les oeuvres que sa plume
+          enfante; il a déjà produit un cours de psychologie, un cours de logique, un cours de
+          morale, une histoire de la philosophie au XIXe siècle : dans chacun de ces cours, il ne
+          manque pas. toutes les cinq ou six pages, de vous renvoyer aux autres. Est-ce habileté de
+          libraire ou amour-propre d'autour ? Je ne déciderai pas; mais après m'être impatienté, je
+          l'ai envoyé promener, lui et tous ses livres.</p>
+        <p>J'ai assisté aussi à la leçon de M. Vacherot, professeur d'histoire de la philosophie
+          ancienne. Celui-ci a la parole plus facile, mais je ne lui trouve aucune profondeur de
+          vues. Il avait à nous parler de l' Ecole socratique et des écoles diverses et ennemies
+          qui, d'après la commune opinion, sont sorties de celle de Socrate. M. Vacherot a essayé de
+          justifier ce grand maître de morale du reproche qu'on lui a adressé d'avoir donné
+          naissance à des systèmes contradictoires ; il a prétendu que les disciples de Socrate se
+          divisaient en deux classes bien distinctes : les uns, jeunes hommes formés uniquement de
+          sa main; les autres, déjà imbus d'opinions étrangères et les accommodant ou les corrigeant
+          à l'aide de la doctrine socratique. Ainsi, disait M. Vacherot, Aristippe, chef de l'école
+          cyrénaïque, Antisthène; chef de l'école cynique, etc., ne sont point fils légitimes de
+          Socrate. Celui-ci recommandait la tempérance, la puissance sur soi-même, comme moyen
+          d'arriver à la contemplation de la vérité; tandis qu'Aristippe faisait de cette tempérance
+          un art de volupté et de plaisir, et qu'Antisthène, en l'exagérant, le poussait au
+          rigorisme et à la grossièreté. Mais il ne s'agit point ici de savoir si Socrate aurait
+          admis les conséquences de l'un ou de l'autre système ; il ne peut être question davantage
+          des dispositions que pouvaient apporter à ses leçons quelques-uns de ses disciples : il
+          s'agit simplement de savoir si les doctrines d'Aristippe et d'Antisthène se peuvent
+          rigoureusement déduire des principes posés par Socrate. Or, c'est ce que je crois et ce
+          que tout le inonde supposait avant M. Vacherot. La tempé- rance de Socrate est-elle une
+          loi de morale, un principe ? Non, elle n'est qu'une règle de savoir-vivre. Le plaisir et
+          la volupté en eux-mêmes, disait Aristippe, sont donc un bien ; ils sont donc permis et
+          légitimes.</p>
+        <p>Socrate ne le nie pas; seulement, il recommande de ne pas abuser. D'accord; mais tandis
+          qu'il se perdra dans ses sublimités contemplatives, qu'il me permette de rester ici-bas,
+          d'user avec tempérance des biens qu'il me permet; et quand il aura trouvé quelque chose de
+          plus solide, alors nous en prendrons connaissance et puis nous verrons.</p>
+        <p>Antisthène, prenant le contre-pied d'Aristippe, jugeait qu'il est impossible de maîtriser
+          les sens dès qu'on voulait leur accorder-quelque chose; il concluait, de la loi de
+          tempérance, à la servitude du corps par un raisonnement non moins juste. Tel a été de tout
+          temps le malheureux sort des doctrines juste-milieu qui manquent de critérium, de principe
+          et de certitude; elles n'osent aller ni à droite, ni à gauche, parce qu'elles voient
+          l'abîme de chaque côté; mais il ne manque jamais d'esprits conséquents qui les forcent à
+          produire tout ce qu'elles contiennent. Voilà quelles réflexions je faisais à la leçon de
+          M. Vacherot.</p>
+        <p>Je viens à M. Gérusez, que j'ai entendu deux fois. M. Gérusez donne deux leçons par
+          semaine : dans une, il parle d'abondance et sans notes, comme tous ses confrères; dans
+          l'autre, il lit quelques fragments de ses manuscrits sur les objets du cours. L'utilité de
+          cette méthode, dit M. Gérusez, est de faire la différence du style improvisé et du style
+          écrit dans le même personnage, et j'approuve fort cette comparaison. M. Gérusez a lu, dans
+          sa deuxième séance, un morceau sur ascal, sa vie et ses ouvrages, dont j'ai été
+          très-content.</p>
+        <p>Le style est tel qu'il convient à un homme de goût, pur, clair et correct, sans ambition
+          ni recherche. Je lui sais gré d'avoir su plaire et intéresser sans aucune ostentation de
+          grandes pensées et de grands mots, et d'être demeuré en dehors de toute opinion tranchée.
+          L'originalité lui manque peut-être, mais c'est quelque chose d'avoir un bon sens aussi
+          délicat. Dans la leçon non écrite, M. Gérusez — et cela est naturel — est moins heureux.
+          Je ne parle pas seulement de la diction, mais des idées et des jugements. A quoi bon
+          répéter sans cesse que la Bruyère, Molière et La Fontaine sont inimitables; qu'ils ont
+          atteint la limite du genre, le point de la perfection, qu'ils sont à jamais placés hors
+          ligne ? Outre que cela est inutile et toujours fastidieux à entendre, cette proposition en
+          elle-même porte sur une observation incomplète. C'est, selon moi, une façon de raisonner
+          très-fausse que de comparer Phèdre et La Fontaine, Plaute et Molière, etc., pour établir
+          entre eux une supériorité quelconque. Que les écrivains français aient surpassé les
+          latins, je n'en doute pas plus que M. Gérusez ; mais je dis que si les uns et les autres
+          ont été chacun de leur côté, dans leur civilisation respective, tout ce qu'ils pouvaient
+          être, ils sont égaux. Ce qui rend les uns supérieurs aux autres, n'appartient plus dès
+          lors aux individus, mais aux sociétés. Ce que je dis là est aujourd'hui une vérité
+          triviale, mais qui peut offrir encore des observations curieuses. Après Aristophane, il
+          fallait transporter ses tréteaux à trois ou quatre siècles de là, dans un autre monde qui
+          profiterait de tout ce qui l'aurait précédé, pour avoir Plaute et Térence. Les révolutions
+          des sociétés et le mouvement de l'esprit humain amènent, après un laps de temps, une scène
+          tout à fait nouvelle et des éléments qui ne peuvent jamais être devinés ni prévus; on sait
+          que c'est là ce qui fait le caractère des différentes littératures. Prenez La Fontaine,
+          analysez ses fables sous ce point de vue, et vous reconnaîtrez que tout ce qui le
+          distingue, lui a été donné par la société française. De telle sorte que si l'on admettait,
+          avec Pythagore, une même âme pour Esope, Phèdre et La Fontaine, il serait vrai de dire
+          que, toujours égale à elle-même, elle a dû nécessairement, dans ses trois manifestations,
+          apparaître sous telle ou telle figure. A la fin du monde, le beau absolu résultera de la
+          somme des individualités.</p>
+        <p>En général, M. Gérusez m'a paru au niveau de M. Saint-Marc-Girardin pour l'ensemble des
+          choses, mais je lui ai trouvé moins de verve, de vivacité, de relief, moins d'esprit et de
+          causticité française.</p>
+        <p>Je me suis étendu un peu longuement sur ces trois professeurs, afin que, si un jour on
+          m'adressait le reproche d'avoir négligé les cours de la Sorbonne, vous connussiez mon
+          excuse. Depuis six semaines environ, je prends connaissance des principaux ouvrages de nos
+          professeurs do philosophie. J'ai lu M. Jouffroy, M. Cousin, M. Damiron, M. Thurot, M.
+          Cardailac, etc. Je ne puis vous exprimer combien cette lecture me fatigue, combien je
+          prends en dégoût et les doctrines et les auteurs. D'ailleurs, le petit manége, la
+          collusion constante que je crois découvr nt eux suffiraient à me les faire haïr. M. Coasin
+          fait l'éloge de M. Damiron et de M. Jouffroy; M. Jouffroy prône M. Damiron et M. de
+          Cardaillac; M. Damiron et M. de Cardaillac, à leur tour, cantant et recantant; c'est une
+          réciprocité édifiante de louanges et de flatteries. Mais ne vous attendez pas qu'ils
+          disent jamais un mot d'un philosophe en dehors de leur confrérie, ou dont les idées
+          contredisent les leurs; non, la bonne foi ne va pas jusqu'à une telle abnégation. Tout
+          cela me rend plus mutin et plus farouche encore que je n'étais venu. Je vois M. Droz deux
+          fois par semaine; j'ai fait une visite à M. Jouffroy, il y a trois mois, et j'en reste
+          là.</p>
+        <p>Je ne suis tourmenté d'aucun sentiment d'indépendance exagérée : celui qui peut avouer
+          tout haut tout ce qu'il pense, tout ce qu'il veut faire, est le plus libre des hommes. Je
+          puis jurer, d'autre part, que nul moins que moi n'est tourmenté de l'ambition de la
+          fortune et de la gloire, et je n'en suis que plus disposé par làmôme à reconnaître que si
+          jamais je parviens à un certain ensemble de connaissances littéraires et philosophiques,
+          je le devrai tout entier à l'Académie. Ce qui me fait regretter ma nomination est la
+          crainte fondée de ne pas répondre aux espérances que j'ai fait concevoir, et de voir la
+          pension Suard périr entre mes mains. M. Droz l'a déjà reconnu; je suis d'une nature
+          difficile, d'une humeur chagrine, déliante, ombrageuse et misanthrope; et d'après nos
+          conversations, aucune espèce de carrière ne s'est trouvée accessible pour moi. Je sortirai
+          de jouissance à peu près tel que j'y suis entré, c'est-à-dire un peu plus instruit, mais
+          sans destination littéraire.</p>
+        <p>Reste donc l'exploitation isolée de mon talent personnel, si je m'en trouve un toutefois;
+          mais où est la preuve que je suis assez riche de mon propre fond, que ma force est
+          suffisante pour vaincre tous les obstacles ? Les hommes d'un vrai talent, d'un mérite même
+          transcendant, ne manquent pas aujourd'hui. Ceux-là même que seraient-ils si des fonctions
+          publiques et d'immenses relations sociales ne posaient leur individualité? N'allez pus
+          croire que ma mauvaise volonté, ma paresse créent seules les obstacles ; que le mal ne
+          vient que d'une sotte et vaine opiniâtreté; non, j'éprouve tous les jours, à chaque
+          minute, que l'isolement, la méditation solitaire sont le seul élément vivifiant de mes
+          facultés (j'ai autant besoin de m'écarter des hommes que de vivre dans le plus complet
+          oubli des exigences sociales et de moi-même). Je reconnais volontiers tout ce qu'a de
+          fâcheux une telle disposition, mais elle est donnée par la nature. Tel homme a besoin de
+          l'excitation continuelle d'une grande ville, du monde, des salons ; tel autre doit
+          chercher le recueillement et la contemplation dans la solitude. Voltaire et Beaumarchais
+          se trouvaient bien du premier genre de vie ; Rousseau et Saint-Pierre n'ont été ce qu'ils
+          furent que par le second. Depuis mon arrivée au sein de Paris, malgré tout le soin que
+          j'apporte à faire le vide autour de moi, j'ai senti diminuer sensiblement la force et la
+          fécondité de mon esprit; mon horizon s'est rétréci; incapable d'être bien dans ma
+          condition présente, j'y suis plus mal qu'un autre, et ma défaillance s'accroît encore de
+          toutes les appréhensions que me donne mon état. Joignez à tout cela les ennuis toujours
+          renaissants que me cause une exploitation onéreuse pour moi et dont je ne puis me défaire;
+          et pour peu que vous tiriez des conséquences, vous comprendrez facilement tout ce qu'a de
+          faux et de délicat ma position.</p>
+        <p>Lancé dans l'arène, je ferai de mon mieux pour arriver jusqu'au bout; mais comme je me
+          crois seul juge des moyens que je dois employer, il pourra bien arriver que j'agisse en
+          quelques points autrement que ne l'entendrait peut-être l'Académie. Il est possible, par
+          exemple, que j'aille passer ma seconde année à Strasbourg, entendre le seul philosophe que
+          la France possède aujourd'hui, l'abbé Bautain, et me placer dans des conditions tout à la
+          fois plus favorables et pour le régime et pour l'étude des langues et de la philologie,
+          Ensuite, je me propose de consacrer les deux derniers semestres de la pension à acheter
+          des livres, la première et principale chose que j'ai demandée. Enfin, je me prépare peu à
+          peu à la seule carrière que je crois pouvoir remplir utilement pour mon pays, je veux dire
+          à la publication d'une Revue de Franche-Comté. Cette entreprise, exécutée dans le but
+          d'agir sur l'esprit de la population sans aucune vue de profit industriel, et comme moyen
+          d'éducation de la masse sociale, me semble n'avoir été jusqu'ici ni conçue, ni comprise ;
+          je vois partout des spéculations intéressées, mais je ne trouve nulle part d'oeuvre
+          patriotique. Deux choses doivent distinguer de tout autre le projet qui m'occupe : 1°
+          aucun article ne devra être rétribué; 2° le bénéfice que l'on pourrait retirer du nombre
+          d'abonnés servirait à répandre un nombre d'exemplaires gratuits dans toutes les communes.
+          Voilà sous quelles conditions je conçois la mission du publiciste et la culture de
+          l'esprit public. Je ne m'étendrai pas présentement sur ce plan que je vous laisse à
+          méditer.</p>
+        <closer>
+          <salute>Je suis votre tout dévoué et fidèle pensionnaire,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-10-22" resp="author">22 octobre 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-10-22"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon</placeName>
+            <date>22 octobre 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, de crainte de malheur, j'ai chargé M. Dessirier, par une lettre
+          renfermant un mandat de 180 francs qu'il doit avoir reçue, de vous remettre 120 francs. Si
+          vous le voyez avant que je lui récrive, je vous prie de le charger de ma part d'une petite
+          commission : ce serait de passer dans mon ancien hôtel et de s'informer si je puis y
+          rentrer dans quinze jours aux conditions de l'année dernière, c'est-à-dire la même
+          chambre, au même prix; sinon, je n'y retourne pas. Il faudrait encore considérer, dans le
+          cas où vous me laisseriez votre bibliothèque en garde, si elle y peut être logée.</p>
+        <p>Dessirier voudra bien s'occuper de ces détails, j'en suis certain ; j'arriverai du 8 au
+          11. Qu'il ait donc soin de ne pas se déranger ces jours-là, afin que, le cas échéant, je
+          puisse partager son lit pendant une nuit ou deux.</p>
+        <p>On ne dit plus, en parlant du journal qui s'imprime ici, que les Séquanais ou Séquanois.
+          La dispute a fait fortune pour la plaisanterie : chacun en glose sans y rien
+          comprendre.</p>
+        <p>Demain, je vais mettre en pages mon Mémoire : j'y ai fait d'assez nombreuses corrections
+          de style ; il y avait surabondance et luxe. L'un de mes juges s'était plaint d'un peu de
+          verbosité par endroits : j'ai reconnu qu'il avait raison et je me suis fait justice. Vous
+          verrez. Pour les idées, je maintiens ce que j'avance et je le renforce. Jamais je n'ai cru
+          plus fermement avoir raison. Amen.</p>
+        <p>Je dîne aujourd'hui avec Mauvais chez M. Viancin, à Guillemouton. On espère ici que vous
+          réussirez en Prusse ; on dit que vous avez tout ce qu'il faut pour cela. J'aimerais mieux
+          que dans chaque pays on gardât ses richesses et ses hommes et qu'on n'attendit pas pour
+          servir un homme de coeur qu'il n'eût plus besoin d'assistance.</p>
+        <closer>
+          <salute>Adieu, à revoir,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

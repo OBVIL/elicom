@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-08-18" resp="author"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-08-18"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>18 août 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, votre lettre du 14 courant es la plus extraordinaire que j'aie
+          jamais reçue : vous m'écrivez tout juste pour me dire que vous me direz quelque chose.</p>
+        <p>J'ai écrit à M. l'avocat Poimbeuf sur des souvenirs : il est possible que ma mémoire
+          m'ait mal servi.</p>
+        <p>Huguenet m'a déjà dit qu'il n'avait pas remis ma lettre à M. Brunet de la Renoudière;
+          j'aurai donc le plaisir de lui dire de vive voix ce que je lui écrivais. Est-ce vous qui
+          prendrez la défense de cette congrégation de marguilliers qui s'avisent de vouloir nous
+          dorloter de leurs sermons. J'ai encore mal au coeur de leur prospectus à l'eau chaude.</p>
+        <p>Vieux est un braque; je crois qu'il finira par avoir des hallucinations. Je ne serais pas
+          plus surpris de le voir dans dix ans à la Trappe que comédien. Il ne m'a pas lu ce qu'il
+          vous a écrit; il m'a dit seulement qu'il vous avait prévenu de sa détresse. Je lui ai dit
+          qu'il n'en serait pas quitte pour ses peines, et que, puisqu'il avait tiré le vin, il le
+          boirait.</p>
+        <p>Pour moi, mon cher ex-associé, j'ai fait tout ce que j'ai pu pour trouver aide et
+          assistance à Paris; je vous ait dit une autre fois que je n'avais rien obtenu. Je pâtirai
+          plus que vous de la société L*** et Ce ; je ne m'en plains pas ; cela est dans l'ordre des
+          choses puisque j'ai persisté. Je voudrais seulement vous convaincre que vos propres
+          intérêts me tiennent plus à coeur que les miens, et que je ne serai tranquille que lorsque
+          vous serez bien persuadé que je n'ai point empêché une liquidation de toutes nos affaires,
+          plus avantageuse pour vous. Quand je ne serais pas devenu acquéreur avec Vieux, vous
+          n'eussiez pas vendu davantage l'imprimerie, si ce n'est comme vieux matériaux. Or, une
+          pareille vente, croyez-moi, sera plus avantageuse dans un an qu'aujourd'hui. Nous ne
+          pouvons que gagner à attendre. La vieille matière se vend ici 15 centimes la livre; le
+          caractère neuf, 35 centimes. Voyez d'après cela, si je vous ai fait manquer de belles
+          offres. Enfin Huguenet me fait encore espérer que je pourrai ou m'associer, ou vendre à
+          Besançon : je vous prierai donc ici, s'il y a lieu pour vous, de me donner un coup
+          d'épaule et de favoriser un nouvel arrangement avec quelqu'un.</p>
+        <p>L'imprimerie Éverat est fermée et vendue ; il n'y en a plus. Les imprimeurs travaillent
+          moins que jamais. Parent-Desbarres suspend l'impression de son Encyclopédie catholique, et
+          je ne serai pas même payé de tous les articles que j'ai fournis. La crise est à son
+          maximum d'intensité, ce qui me fait présumer qu'elle touche à son terme. J'en augure bien
+          pour mes propres affaires qui sont aussi les vôtres.</p>
+        <p>M. Guénard m'avait promis autrefois une lettre : je suis bien surpris de ne rien recevoir
+          de lui. Il doit avoir pourtant quelque chose à me dire.</p>
+        <closer>
+          <salute>Je vous souhaite le bonjour et suis votre dévoué</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. Vous persistez à me déshonorer du titre d'homme de lettres; je vous avertis que
+            si vous le faites par plaisanterie, elle est un peu trop prolongée. Homme de lettres est
+            égal à chevalier d'industrie, sachez-le bien. Je connais encore de pauvres diables,
+            manoeuvres au service de la librairie, longues barbes et cheveux mal peignés, qui se
+            pavanent aussi du nom d'hommes de lettres : j'aurais, par la misère, plus de rapport
+            avec ceux-ci qu'avec les autres. Mais vous sentez que personne ne serait flatté de
+            s'entendre appeler gueux glorieux ou mendiant sublime. Un imbécile m'a écrit avec cette
+            suscription : M. Proudhon, pensionnaire Suard, comme on dirait le grand pensionnaire de
+            Hollande. S'il vous faut absolument un titre à mon nom, mettez, si vous voulez :
+            typographe ou correcteur. Je n'ai jamais été que cela, je le suis encore, et ce sera
+            toujours ma vraie profession, du moins honorifique. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

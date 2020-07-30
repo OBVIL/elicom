@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-04-24" resp="author">24 avril 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-04-24"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>24 avril 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, si la poste fait bien son service, tu recevras avec cette lettre un
+          exemplaire de mon nouveau Mémoire. Je suis en ce moment, comme il arrive à tout auteur,
+          fort inquiet du sort de ce nouvel écrit; j'ai déjà la certitude qu'il me fera beaucoup
+          d'ennemis, point de prôneurs ; Dieu veuille qu'il ne me rende pas ridicule ! Le
+          commencement est sec et austère ; le milieu un peu plus intéressant, à cause de la partie
+          historique ; j'ai tâché de rendre la fin, composée de controverses, la moins insupportable
+          qu'il m'a été possible. Ce qui m'ennuie le plus du métier d'auteur, c'est d'être obligé
+          d'amuser le lecteur, quand il devrait lui suffire que je raisonne juste.</p>
+        <p>Tu trouveras peut-être le style de cette brochure encore trop guindé, et le ton que
+          j'affecte de prendre trop fanfaron et trop crâne : c'est un tic d'originalité que je ne
+          recherche pas, dont il me sera très-difficile de me dépouiller tout à fait, et que je
+          tâche de rendre aussi tolérable que je puis. D'ailleurs, il semble qu'aujourd'hui il
+          suffise de crier et de menacer pour avoir raison : cela sert avec les sots ; les sages
+          aperçoivent le motif et pardonnent à l'auteur.</p>
+        <p>Laissons ce discours et parlons de mes études, puisque tu ne me dis rien des tiennes. Te
+          rendre compte de mes pensées, de mes découvertes, ce n'est point parler de moi-même ,
+          c'est causer avec toi de ce qui nous occupe tous les deux : la science de l'homme et de la
+          nature.</p>
+        <p>Or, il me semble que mes idées se précisent de plus en plus, et que je marche directement
+          à la restauration— si toutefois nous ne devons pas dire : à la création — de la
+          philosophie comme science. M. Jouffroy l'a très-bien dit, et tout ce qu'il a fait en
+          philosophie se réduit à cette unique proposition, qu'il a délayée en deux cents pages : La
+          philosophie n'est pas encore définie, ni dans son but, ni dans son objet, ni dans sa
+          méthode. Or, voici comment j'entends faire à mon tour une philosophie : appliquer le
+          raisonnement et la méthode sur toutes les parties de la religion et de la morale, comme je
+          le fais en ce moment pour la politique, comme les savants spéciaux l'ont fait pour
+          l'histoire naturelle, la physique et les mathématiques, comme depuis quelques années les
+          linguistes le font pour les langues ; puis généraliser, par la comparaison et l'induction,
+          les méthodes et les lois de toutes ces sciences, et de toutes ces espèces former un GENRE,
+          qui sera, in abstracto superiori, la philosophie.</p>
+        <p>Tu vois donc que mes études économiques et législatives sont, à proprement parler, une
+          série d'expériences logiques qui me mèneront je ne sais où, mais bien sûrement quelque
+          part. Il y a plaisir à s'entretenir avec toi de ces choses, parce que tu les entends
+          très-bien, tandis que le monde n'est pour les philosophes de l'école qu'un pêle-mêle
+          indéchiffrable.</p>
+        <p>J'écrivais aujourd'hui même au professeur Blanqui, dans le billet d'envoi que j'ai joint
+          à son exemplaire</p>
+        <p>« Pour que la jurisprudence et la politique deviennent une science, il leur faut leur
+          matière d'expérience et un champ d'observation. Or, la matière d'expérience est l'homme et
+          la société ; le champ d'observation est l'histoire, les religions, les lois, les coutumes,
+          les croyances, l'économie politique, etc.</p>
+        <p>« Qu'ont fait jusqu'à ce jour les légistes? Ils n'ont jamais su que partir de ce qu'ils
+          appellent une loi, c'est-à-dire d'une tradition, et l'appliquer, par voie de déduction
+          syllogistique, jusque dans les derniers détails. Mais il arrive souvent qu'une loi,
+          poussée dans ses conséquences, est contredite par une autre ou démentie par le sens commun
+          et par la nature même : que font alors nos jurisconsultes ? — Ils critiquent l'une et
+          l'autre loi ? — Point du tout ; ils cherchent dans leur sac à traditions quelque vieille
+          solution de commentateur, et se tirent de ce mauvais pas en suivant chacun l'opinion qui
+          est le plus de son goût, etc. »</p>
+        <p>Dans le premier Mémoire que j'écrirai, je commencerai à faire usage des principes que
+          j'ai établis, et je ferai la critique de la Charte et du Code par voie d'expérience,
+          d'observation, de comparaison, de généralisation et de synthèse. En repassant dans ton
+          esprit ce que j'ai fait jusqu'à présent, tu comprendras parfaitement ce qui me reste à
+          faire, le degré de certitude auquel je puis arriver, etc. Cela doit te paraître aussi
+          simple qu'infaillible ; eh bien ! je puis t'affirmer que pas un juge, pas un avocat, pas
+          un légiste ne comprend ces choses-là. Il est prodigieux combien leur ignorance et leur
+          fatuité sont grandes.</p>
+        <p>Je travaille ferme à mon ouvrage de jurisprudence criminelle ; dans un mois d'ici,
+          j'aurai préparé la matière d'un volume in-8° ; il en faut deux. Celte étude m'a fait voir
+          bien des choses curieuses, dont je garde jusqu'à nouvel ordre une partie, et dont l'autre
+          ne doit d'abord me rapporter aucune gloire. Mais le diable est fin, et ne perd jamais
+          tout. Ecoute ma confession.</p>
+        <p>J'ai affaire à un assez brave homme, totalement dépourvu de génie, mais qui se pique
+          d'esprit, et qui n'est qu'un véritable loustic, sans dignité comme sans intelligence. Il
+          s'est mis en tête de devenir auteur, afin de parvenir, soit à la présidence dans un
+          tribunal, soit à la députation. Mais il est incapable de quoi que ce soit ; il lui fallait
+          un aide qui prêtât la science et les idées, tandis que lui fournirait son nom. Tu te
+          rappelles en quelle circonstance j'ai accepté cette singulière corvée. Mon particulier
+          veut faire le libéral ; l'homme a des idées larges et généreuses, mais il ne comprend ni
+          l'égalité, ni la souveraineté du peuple ; il se déclare aristocrate et traite volontiers
+          les radicaux de charlatans et d'escrocs. Le malheureux !...</p>
+        <p>Voici comment nous travaillons : je fournis sur chaque chapitre ma philosophie, mes
+          idées, etc., etc., et lui brode quelques fadeurs de pratique ou quelques billevesées qui
+          lui passent par le cerveau, et qu'il croit des choses nouvelles et descendues du ciel. Il
+          n'a rien lu, et, avec une heureuse mémoire, ne sait que du droit romain ou gallican et des
+          vers.</p>
+        <p>Généralement, ma philosophie et mes idées lui paraissent fort ingénieuses, belles,
+          intéressantes, neuves ; ce ne sont pourtant que des transformations des diverses
+          propositions de mon livre sur la Propriété. Pour faire accepter à cet homme les doctrines
+          les plus opposées à ses instincts, il suffit de lui présenter sous un aspect particulier
+          ce que l'année prochaine tu me verras généraliser avec une effroyable rigueur.</p>
+        <p>Je suis donc ici comme Satan auprès de notre première mère : je fais aller ce pantin
+          comme je veux, et quand l'ouvrage aura paru, quand vingt plumes d'amis ou de gens de
+          lettres parasites auront bien prôné l'ouvage, quand il aura obtenu un succès quelconque,
+          et j'espère que comme innovation dans le domaine de la jurisprudence il en obtiendra ;
+          quand enfin le public et l'auteur auront bien mordu à l'hameçon, alors, tout en me gardant
+          de dévoiler le mystère, je viendrai sommer l'un de poursuivre sa tâche, et l'autre
+          d'accepter les conséquences que je lui démontrerai. En un mot, ce que je fais maintenant
+          est un véritable sic vos non vobis, qui fera mourir de peur mon patron et surprendra le
+          public. Le but immédiat de ce petit complot sera de faire d'un magistrat de la capitale de
+          France un antipropriétaire et un égalitaire renforcé, ou de le faire passer pour un sot ;
+          puis d'accoutumer la presse aux doctrines d'égalité et aux innovations politiques ; enfin,
+          le but ultérieur sera de préparer les esprits à concevoir l'ensemble des réformes
+          philosophiques que l'état de la société appelle.</p>
+        <p>C'est, comme tu vois, prendre mes mesures de loin. Ce que je t'annonce, je le poursuis et
+          l'exécuterai en toute sécurité de conscience ; mon bourgeois n'est pas de ces hommes avec
+          qui je doive garder des ménagements; d'ailleurs, je prétends bien le traiter avec honneur
+          et convenance.; mais quant à le pousser au dernier terme de ses idées, je le ferai sans
+          pitié. Il est sûr d'être réduit ou à désavouer son propre livre, ou à se laisser passer
+          pour dupe, ou bien enfin à crier égalité plus haut que moi.</p>
+        <p>Mes observations de chaque jour sont loin de me réconcilier avec la Propriété. Je vois,
+          je touche à chaque instant la crapule et l'égoïsme propriétaire. Sur ce sujet, j'en aurais
+          trop à dire, et ma lettre est trop avancée. Crois bien, mon cher Bergmann, que, si ma
+          vertu peut faiblir et ma volonté fléchir, ma haine de la Propriété est
+          irréconciliable.</p>
+        <p>J'ai reçu, par un jeune homme venu de Berlin, une lettre d'Ackermann ; il vient d'être
+          nommé pour travailler à une édition des oeuvres du grand Frédéric, entreprise qui pourra
+          durer sept ans. — Il aimait aussi une jeune personne que l'inégalité des fortunes lui
+          ôtait l'espoir d'épouser, ce dont il enrageait beaucoup. J'ignore si ses fonctions de
+          correcteur royal raccommoderont ses affaires.</p>
+        <p>Maguet vient de partir pour son pays, où il passera six semaines. Il a perdu sa mère, et
+          il consolera son vieux père, avant de passer son dernier examen.</p>
+        <p>J'irai à Besançon au 1er août ; je compte t'écrire encore une fois avant cette époque et
+          te parler de l'état de mes affaires. Je suis encore énormément endetté ; j'étais perdu, si
+          mon dernier terme m'eût été retiré et que je n'eusse pas trouvé une vache à lait.</p>
+        <p>Notre préfet du Doubs est en ce moment à Paris, occupé à faire la cuisine pour les
+          futures élections. Je vais lui envoyer un exemplaire de mon Mémoire, avec une belle lettre
+          de protestation de mon amour pour l'ordre, etc.</p>
+        <p>La politique, à Paris, n'est plus qu'un mot. L'esprit public est tué ; les radicaux sont
+          démoralisés et annihilés par leur ineptie et leur incapacité ; le gouvernement est fort ;
+          Louis-Philippe triomphe sur tous les points. Nous sommes renvoyés à quatre ou cinq ans
+          pour les réformes. Tout le monde se demande qui doit être dupe dans l'affaire des
+          fortifications ; je ne doute pas que tous les partis ne songent de leur côté, aussi bien
+          que Louis-Philippe, à s'en servir un jour ; mais je crois que celui qui tient tiendra
+          longtemps. Les procès de presse vont leur train ; le National est menacé dans son
+          existence, ce qui, du reste, est peu regrettable. Le peuple est apathique; la jeunesse,
+          épicurienne et immorale; toute la nation, insouciante et lâche ; j'ignore vraiment ce
+          qu'il en arrivera. Un ouragan passera-t-il encore sur la France ?... Je ne sais, mais je
+          ne le souhaite pas.</p>
+        <closer>
+          <salute>Adieu, porte-toi bien, et fais-moi part de tes observations, quand tu m'auras lu.
+            En France, le mauvais goût, les vices de forme sont encore plus à craindre que le défaut
+            du raisonnement, que peu de gens sont à même de suivre.<lb/> Je t'embrasse.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

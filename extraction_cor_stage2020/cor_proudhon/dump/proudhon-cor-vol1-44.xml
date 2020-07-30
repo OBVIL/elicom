@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-11-12" resp="author">12 novembre 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pauthier, Guillaume (1801-1873)"
+            ref="https://data.bnf.fr/fr/11918837/guillaume_pauthier/"/>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-11-12"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>12 novembre 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Pauthier, je dépose chez votre concierge, avec la présente, un exemplaire
+          imprimé de mon Discours sur le Dimanche, que j'ai fait tirer à deux cents exemplaires,
+          pour mes amis et pour tous les hommes de bonne volonté que je puis connaître. J'ai moins
+          voulu entretenir le public de mes rapsodies que recueillir les observations et les
+          critiques des vrais philosophes et des gens de coeur. L'Académie de Besançon a loué le
+          style de mon Mémoire, ainsi que l'imagination et le talent de l'auteur ; mais elle a blâmé
+          la doctrine. D'autres personnes ont été, sur les deux points, d'un avis tout contraire,
+          admettant les idées et trouvant beaucoup à redire à la forme. J'ai dessein de corriger et
+          de retravailler beaucoup cet Essai, que je regarde comme mon programme. Je vous aurais
+          donc une grande obligation si vous consentiez à faire parvenir à M. Tissot, votre ami, un
+          exemplaire de cette brochure et de lui recommander l'auteur et l'ouvrage.</p>
+        <p>Je n'ai pu me défendre d'un certain mouvement de vanité en apprenant que M. Daudon,
+          couronné par l'Académie, et dont j'avais l'honneur d'être le concurrent, était M. Tissot,
+          professeur de philosophie à Dijon. Cependant, je serais fâché que M. Tissot pût croire que
+          je mets en comparaison sa science et ma médiocrité, et que la publication de mon discours
+          vient d'un autre , sentiment que du désir de provoquer l'attention des hommes éclairés sur
+          des idées que je m'obstine encore à croire vraies et utiles. M. Tissot est philosophe et
+          de plus savant et grand érudit, et je ne suis qu'un pauvre apprenti ; mais nous sommes
+          compatriotes, et j'espère, comptant sur votre bienveillante intercession, qu'il daignera
+          me lire et m'envoyer ses critiques.</p>
+        <p>Je suis logé, provisoirement, rue Jacob, 16. Faites-moi connaître votre retour.</p>
+        <p>Votre dévoué,</p>
+        <closer>
+          <salute/>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

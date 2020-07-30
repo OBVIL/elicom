@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-12-22" resp="author"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-12-22"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>22 décembre 1839</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, rien n'est plus aisé que de faire un compte en apparence très-exact,
+          et de le faire monter aussi haut qu'on veut. Lorsque ce compte est composé d'un grand
+          nombre de parties, comme il arrive dans l'impression d'un livre, on n'a rien à faire pour
+          cela qu'à augmenter de quelques francs chacune de ces parties; les additions et
+          multiplications feront le reste. Je commence par transcrire ici littéralement le compte
+          que tu m'envoies, afin d'opérer dessus.</p>
+        <p>THÈSE FRANÇAISE                                  THESE LATINE</p>
+        <p>la feuille.                                       la feuille.</p>
+        <p>Composition. ... 18 fr.                           Composition . . 15 fr. »</p>
+        <p>Corrections.... 6                                 Corrections. . . 3 »</p>
+        <p>Tirage 4                                          Tirage 3 50</p>
+        <p>Étoffes, bénéfice . 21                            Étoffes, bénéfice 16 15</p>
+        <p>Papier                                            Papier 7 50</p>
+        <p>57 fr.                                            5 fr. 15</p>
+        <p>Faisons la somme totale : la thèse française à 4 fr. 3/4, les couvertures comptent comme
+          le reste.</p>
+        <p>Je n'ai pas encore osé présenter mon discours à M. Droz, ni à M. Jouffroy ; je n'attends
+          que de la colère et de l'indignation de l'un ; et de l'autre du mépris. Ma philosophie et
+          ma politique ne sauraient leur plaire. J'apprends de Besançon que le clergé, a arrêté la
+          vente de ma brochure, qu'on y prépare des réfutations sevères de mes principes ; qu'en
+          général, si on ne me refuse pas quelque talent, on me trouve beaucoup de paradoxes dans
+          les idées. Les dévots sonnent l'alarme; et les soi-disant républicains se réjouissent d'un
+          nouveau champion. Personne ne veut me prendre comme j'ai voulu être pris. Les plus sages,
+          mes amis même, doutent, me font des recommandations, et désirent que je laisse la
+          politique de côté. Faites-nous de la métaphysique et de la morale, me dit-on, et laissez
+          la république, la monarchie et les prêtres. On veut, comme tu vois que je sois philosophe,
+          sans qu'il me soit permis de parler de Dieu, de la société et de la religion. Que je fasse
+          de la science à condition que je ne toucherai pas aux matériaux. — Pauthier a été
+          très-content de mon travail, quelques autres encore; mais, du reste, nul ne sait que me
+          dire. Les hommes du National se sont moqués du titre de l'ouvrage ainsi que de l'auteur
+          qu'ils ont presque pris pour un jésuite. Dessirier m'exhorte à laisser là mes idées de
+          religion et de divinité, qui ne sont plus à l'ordre du jour; cet excellent Dessirier ! Que
+          veux-tu? Je suis hors de toutes les conditions de succès, je ne plais à personne. Ma
+          chance sera belle mais patience !</p>
+        <p>Ma lettre est déjà trop longue pour que je puisse t'entretenir de mon nouveau travail; ce
+          ne sera pas l'oeuvre d'un jeune homme qui n'a qu'une demi-conscience de la nouveauté et de
+          la certitude de ses idées.</p>
+        <p>Je t'en parlerai plus au long une autre fois. Il faut que dans trois mois ce soit fini;
+          c'est le terme que je me donne pour quitter Paris où je ne saurais vivre.</p>
+        <p>Je suis seul, je n'ai plus que Dessirier dont le coeur est parfait, et l'esprit trop peu
+          éclairé. Mon imprimerie va doucement; je soupire après le jour où j'irai reprendre mon
+          bonnet de papier.</p>
+        <closer>
+          <salute>Adieu, mon ami, je t'embrasse et te souhaite succès et progrès. Tu ne me dis rien
+            de ton cours.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

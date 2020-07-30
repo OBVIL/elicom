@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838-04-18" resp="author">18 avril 1838.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="X***, Monsieur (...-...)">Monsieur X***</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838-04-18"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon</placeName>
+            <date>18 avril 1838.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher et ancien collègue, la note que je vous adresse ci-incluse pour votre journal
+          vous apprendra quel événement funeste m'oblige à vous écrire</p>
+        <p>Nous sommes dans la consternation. Toutes les perquisitions que j'ai pu faire ne
+          m'apprennent rien sur le motif véritable d'une résolution si désespérée. Je crois mon
+          malheureux associé mort et suicidé. Mais ni les affaires de l'imprimerie, ni aucun chagrin
+          domestique ne me paraît donner la clef de cette énigme, qui demeure ici, pour tous
+          inexplicable. En partant, il laissa une lettre sans signature et sans date, écrite avec
+          assez de suite et de raison, mais d'un style si prodigieusement exalté et mélodramatique,
+          qu'il est visible que son auteur était sous l'influence d'une hypocondrie atrabilaire
+          profonde. Il y attribue son malheur au manque d'argent, à l'abandon de l'un de ses
+          associés, à la fatalité qui le poursuit dès son enfance ! Il dit adieu à sa femme et à ses
+          enfants, qu'il n'espère plus revoir; invoque la mort, mais sans annoncer le dessein fixe,
+          formel et bien arrêté du suicide, et s'excuse du parti qu'il prend, en disant que son
+          absence sera plus utile à sa famille que tous les efforts d'un père si malheureux. Cette
+          lettre est déchirante par la peinture des souffrances morales qu'il a dû éprouver; mais il
+          faut convenir que toutes ses allégations, pesées dans la balance de la froide raison, sont
+          bien faibles et légères.</p>
+        <p>Exténué de veilles, de fatigues, épuisé de force physique et morale, il s'est arrêté dans
+          sa course, et il est sûrement mort, mort malheureux ! Je ne puis venir à bout de consoler
+          sa femme, inconsolable moi-même.</p>
+        <p>J'étais à Paris, quand je reçus cette nouvelle désastreuse, et je suis revenu en toute
+          diligence le remplacer sur son banc de quart. Qui sait si, à mon tour, je ne dois point
+          avoir pour toute oraison funèbre celle que je viens de rédiger pour mon ami?</p>
+        <p>Vivez et soyez heureux, mon cher monsieur, et gardez le souvenir de l'honnête homme et du
+          bon citoyen.</p>
+        <closer>
+          <salute>Tout à vous,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

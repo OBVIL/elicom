@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-01-31" resp="author">31 janvier 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-01-31"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>31 janvier 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, puisque M. Reclam me remet sa lettre tout ouverte, je prends la
+          liberté de m'en servir pour t'écrire, afin de ne pas charger le paquet.</p>
+        <p>Mon affaire avec l'Académie s'est terminée heureusement pour moi; il s'agit maintenant de
+          n'en avoir pas une troisième. M. le Préfet du département,M. Brocard, le supérieur du
+          séminaire, MM. Weiss, bibliothécaire, et Pérennès, secrétaire perpétuel, m'ont soutenu
+          contre la cabale. Mais on me mande que ma défense a fait plus de scandale encore que mon
+          livre; cela signifie simplement que j'ai jeté la division entre les membres et fait rire
+          les uns aux dépens des autres, en trouvant moyen de désigner mes adversaires d'une manière
+          qui les a rendus pleinement ridicules. Tu conçois que ceux qui n'étaient point blessés ont
+          dû feindre de prendre à coeur l'injure de leurs confrères; mais le coup est porté, j'ai
+          maintenant des amis et des ennemis. Je présume du reste qu'en écoutant ma lettre mon
+          intention aura été devinée ; il n'en fallait pas plus pour arrêter les colères. Misérables
+          humains! ils ne craignent pas de faire le mal, et ils ont peur du ridicule !</p>
+        <p>Dans la crainte où j'étais du dénouement, j'avais renoué la négociation dont je t'ai
+          parlé, et c'est une chose conclue. D'économiste que j'étais, me voilà devenu criminaliste.
+          Je vais travailler de chambrée avec un magistrat de Paris, qui a envie d'être député, et
+          qui désire se recommander par un bon ouvrage ; la philosophie va encore agir sur les
+          esprits d'une manière nouvelle. J'ai affaire à un brave homme, qui a pleine confiance en
+          moi, et qui, sauf quelques misères auxquelles il attache beaucoup d'importance, me
+          laissera exposer une partie de mes idées. J'apprendrai donc ici des choses nouvelles, un
+          peu de pratique ; je me frotterai un peu plus au monde et je gagnerai quelque argent. A
+          dater du 8 février, je serai installé chez mon patron, rue SaintBenoit (derrière la rue
+          Saint-Germain-des-Prés) n° 18.</p>
+        <p>J'achève en ce moment ma lettre à Blanqui sur la Propriété ; elle s'imprimera à part et
+          formera un deuxième Mémoire, d'environ 100 à 120 pages. Désormais, je publierai par
+          brochures mes nouvelles élucubrations ; autrement, je paraîtrais à de trop longs
+          intervalles. J'attends le plus heureux effet de cette lettre, sur le public et sur les
+          hommes du pouvoir; j'y rends compte de ma conduite, de mes sentiments, j'avoue mes torts
+          [si quoe sunt); puis je reprends la question d'un point de vue tout nouveau. Sous le
+          rapport de la logique, je crois que je n'aurai encore rien fait d'aussi bien ; dans un
+          mois tu en jugeras. J'ai tellement confiance dans la certitude de mes principes et dans la
+          droiture de mes intentions, que je ne désespère pas d'obtenir un jour une mission
+          quelconque du pouvoir, serva servandis bien entendu.</p>
+        <p>Tous nos amis te saluent et reçoivent avec plaisir de tes nouvelles.</p>
+        <closer>
+          <salute>Je t'embrasse.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-01-20" resp="author">20 janvier 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-01-20"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>20 janvier 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, j'écris à M. Vieux et vous prie de remettre la lettre que vous
+          trouverez ci-jointe pour lui, à M. Tubergue qui la lui fera parvenir à lui ou à Mlle
+          Vieux.</p>
+        <p>Je viens, sur votre lettre du 10 janvier, de régler mon budget; je vous paierai au 1er
+          avril prochain, pour intérêts de la somme de 8,280 fr. 50 à 2 1/2 p. 100 échus au 1er
+          novembre dernier, plus, pour intérêts de la même somme à 5 p. 100, depuis cette époque au
+          1er février 1840, intérêts dont je vous dois la moitié, la somme de 180 fr. 80 c. Vous
+          devez comprendre ce qui m'empêche de vous les payer auparavant; ainsi, si vous voulez
+          disposer sur moi au 10 avril, je vous en donne toute liberté. Dans ce cas avertissez-moi
+          avant le 25 mars.</p>
+        <p>Je n'ai pas un sou à vous donner à compte sur le principal et je m'ôte le pain pour vous
+          payer les intérêts. Si vous aviez en main un moyen quelconque de vendre, au lieu de payer
+          rien ni à vous ni à personne, je me laisserais tranquillement exproprier, après quoi je
+          prendrais les moyens d'indemniser par la suite mes créanciers. Si vous avez besoin
+          d'argent, plus que je ne puis le croire, j'ai encore plus besoin de liberté, et si je
+          tiens à m'acquitter envers vous pour remplir, autant qu'il est en moi, ma parole, je tiens
+          encore plus à m'affranchir. Ainsi tout se réunit pour vous prouver que je ne demande pas
+          mieux que de vous désintéresser.</p>
+        <p>Parent-Desbarres me doit 200 fr.; quand j'ai été pour me faire payer, il m'a offert des
+          livres, sous prétexte qu'il perdait déjà lui-même 30,000 francs dans une entreprise à
+          laquelle il ne fait que prêter son nom, et quand je me suis présenté pour avoir des
+          livres, il m'a tourné le dos. J'ai sa procuration dans la famille Perrenot; j'en ai chargé
+          Plumey à qui je vous prie de recommander, à l'occasion, de n'expédier aucun fonds à
+          Parent-Desbarres sans m'en donner avis.</p>
+        <p>Je ne désespère toujours pas de Foucaut; il se décidera d'ici au mois de juin, ou bien je
+          ne le reverrai plus.</p>
+        <p>Très-certainement, de quelque manière que ce soit, l'année 1840 verra la fin de mes
+          embarras; je ne demande qu'un répit de trois mois.</p>
+        <p/>
+        <p/>
+        <closer>
+          <salute>Je vous souhaite la bonne année et des débiteurs solvables.</salute>
+          <signed>Votre ex- associé,<lb/>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

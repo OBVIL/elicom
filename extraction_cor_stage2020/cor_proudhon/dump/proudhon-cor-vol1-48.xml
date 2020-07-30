@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-02-09" resp="author">9 février 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-02-09"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>9 février 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Quoi ! mon cher Bergmann, tu vas jusqu'à t'attendrir sur moi ! Je n'ai pas voulu te faire
+          pleurer et t'émouvoir; j'ai deviné tes chagrins et j'ai voulu t'en montrer de plus grands.
+          Qui peut donner des consolations, si ce n'est celui qui souffre? Les paroles de l'homme
+          heureux et content sont amères à l'infortune ; elles sont un poison versé sur une
+          blessure. La vérité est telle en ce qui me touche, que je te l'ai dépeinte; mais, malgré
+          mon sombre désespoir, ne crois pas que je sois près d'y céder. Non, je n'attends rien, ni
+          du public qui ne me connaîtra jamais, parce que la barrière qui m'en sépare est
+          infranchissable; ni de mes patrons, parce que ce sont des poltrons, des égoïstes et des
+          corps sans intelligence; ni des hommes spéciaux qui pourraient m'entendre mais que
+          l'esprit de propriété littéraire et philosophique étouffe ; ni enfin des trompettes de
+          l'opinion publique, parce qu'elles ne comprendront jamais de moi autre chose, sinon que je
+          les hais et les méprise. Mais je compterai toujours quelques âmes pures parmi mes amis, et
+          parmi ces âmes pures, de hautes intelligences. Crois-tu que j'ambitionne davantage?
+          J'accepte avec reconnaissance l'offre de 50 francs que tu me fais pour la publication de
+          mon livre; au cas où je ne trouverai pas de libraire, je frapperai sur tous mes amis et
+          connaissances une contribution; je les prendrai dans un guet-apens, car il faut que ce que
+          je sais, je le dise. Je te remercie de la moitié de ton mois, je n'en ai pas besoin
+          présentement, car il est inutile que j'aie de l'avance. Si, vers la fin de juin, mes
+          finances, alors épuisées, n'ont pu se renouveler par rien, alors je te promets de
+          m'adresser à toi; jusque-là, garde je te prie, un argent dont je puis me passer. Je
+          voudrais t'embrasser en te disant cela, pour te mieux prouver qu'en différant de
+          t'emprunter, je ne prends pas un détour pour exprimer mon refus.</p>
+        <p>S'il est besoin de faire quelques courses et visites pour tes affaires, tout mauvais
+          solliciteur que je suis, je te serais obligé de n'en pas charger d'autre; ainsi, use
+          largement de mon loisir et de mes jambes.</p>
+        <p>J'aurai à la fin de mars un tiers de mon travail d'achevé. J'espère que tu en seras
+          content. Je suis un peu pressé d'en finir, ce qui ne s'accorde guère avec mon désir de
+          faire bien ; mais il est bon toutefois que je me talonne moi-même et que je me presse de
+          l'aiguillon. Depuis que je n'ai plus Fallot, je n'ai plus que toi qui puisses me juger, me
+          comprendre, me conseiller, me redresser. Le peu d'expérience en philosophie de tout ce qui
+          m'entoure, me laisse sans conversation et sans contrôle. Comment irais-je m'adresser à un
+          Jouffroy qui n'a pas foi lui-même à la science qu'il enseigne, qui dit, avec une
+          impertinence indigne, que la philosophie est chose bien creuse, et qui apparemment trouve
+          que ses 15 à 20,000 francs de traitements accumulés sont quelque chose de plus solide.
+          Comment un pareil être comprendrait-il que je cherche pour les problèmes de la morale, de
+          la société, de la métaphysique, des méthodes de solution infaillibles, analogues aux
+          méthodes des géomètres? Comment croirait-il à cette vérité, pourtant bien simple, que les
+          lois de l'arithmétique et de l'algèbre président aux mouvements des sociétés comme aux
+          combinaisons chimiques des atomes, que rien dans le monde moral, comme dans le monde
+          mécanique, ne se fait sine pondere, et numero, et mensurâ ? Comment irait-il concevoir que
+          les propriétés des nombres sont le lien qui unit la philosophie pratique à la philosophie
+          organique? Comment, enfin, voudrait-il admettre que la loi ne peut avoir sa source dans
+          aucune volonté, ni du peuple, ni de ses représentants, ni du roi, mais bien dans la
+          découverte et la reconnaissance de la vérité par la raison? Il n'admet pas même que la
+          vérité politique et morale puisse être connue, c'est-à-dire qu'il conçoit qu'on puisse
+          poser une question insoluble, toutes les données nécessaires à la solution étant
+          accordées. Qui comprendra, aujourd'hui, un livre tout de méthode, où l'on ne prétend pas
+          donner d'emblée toutes les solutions désirables, mais où l'on parle avec certitude de
+          choses encore aujourd'hui très-obscures, et jugées d'avance à jamais inexplicables? Tu
+          admets, toi qui as saisi par ses ailes le génie des langues, que l'esprit humain puisse
+          découvrir d'étranges choses, mais le vulgaire (et par vulgaire j'entends tout ce qui est
+          au niveau du savoir journalistique), le vulgaire croit-il qu'on puisse en savoir plus que
+          lui?</p>
+        <p>Voici quelle est la marche sommaire de mon travail : Sujet de tout l'ouvrage; déterminer
+          l'idée du juste, son principe, son caractère et sa formule.</p>
+        <p>Méthode. Détermination de l'idée du juste dans la propriété; et 1° dans le droit
+          d'occupation, je prouve, par l'analyse, que toutes les théories imaginées par les
+          philosophes, les légistes, etc., supposent implicitement l'égalité. L'égalité est la loi
+          nécessaire, la forme catégorique, à laquelle tous obéissent à leur insu, même lorsqu'ils
+          s'en écartent, dans toutes les doctrines sur la propriété.</p>
+        <p>2° Détermination du juste dans la propriété fondée sur le travail. Je prouve, par la même
+          méthode analytique, que le droit du travail, invoqué par les économistes , de quelque
+          manière qu'ils l'entendent, et d'après leurs propres données, a pour résultat l'égalité.
+          Mais l'égalité n'existe pas ; on soutient même qu'elle est impossible. Je prouve alors que
+          c'est la propriété elle-même qui est impossible, non per abusum rei, mais in se ; qu'elle
+          est absurdité, néant, qu'elle implique contradiction dans ses termes, qu'elle aboutit à
+          une fourmilière de non-sens et d'impossibilités métaphysiques; en un mot, qu'elle est de
+          fait, mais qu'elle est impossible.</p>
+        <p>Ici, exposition, d'après toutes les lumières précédemment acquises, de la sociabilité, de
+          l'égalité, de la liberté, de la justice, et du principe d'autorité.</p>
+        <p>Suite : Application des lois ou formules métaphysiques obtenues par la méthode, à
+          l'économie politique, au droit civil, à la politique, et critique de ces sciences.</p>
+        <p>Fin : Considérations sur la philosophie de l'histoire et la marche de l'humanité.</p>
+        <p>Pour la première fois, une vraie méthode aura été employée en philosophie et aura
+          véritablement démontré, par une analyse propre, ce qui par voie d'intuition et de
+          tâtonnement resterait à jamais caché, parce que l'intuition et le tâtonnement ne prouvent
+          rien.</p>
+        <p>En un mot, je ne mets dans tout cela rien du mien; je cherche, et pour mieux chercher, je
+          me fais un instrument, je me fabrique un guide, j'attache du fil à la porte du labyrinthe
+          où je m'enfonce. Puis, je ne conteste jamais, je ne réfute personne, j'admets toutes les
+          opinions, et je me contente de chercher ce qu'elles contiennent. Or, ce qu'elles
+          contiennent nécessairement toutes, est pour moi un principe vrai, un axiome, dont je
+          cherche définitivement la raison dans un fait physiologique ou naturel, et duquel je pars
+          ensuite avec la même rigueur de déduction pour ma science, que j'en ai d'abord apporté
+          dans mes inductions pour déterminer le principe.</p>
+        <p>Je ne puis aujourd'hui t'en dire davantage. Répondsmoi si cet exposé suffit déjà à me
+          faire entendre de toi et présente-moi tes scrupules et tes difficultés. Songe qu'il s'agit
+          ici de vérité rigoureusement démontrée et non d'un roman d'imagination.</p>
+        <p>Quant à la forme, bien que je raisonne de toutes choses, absolument in abstracto, le
+          style et les développements ne manqueront ni de verdeur, ni d'originalité, je l'espère.
+          Tout cela, sur une matière brûlante, doit faire un ouvrage singulier.</p>
+        <closer>
+          <salute>Je t'embrasse de tout mon coeur, mon cher Bergmann, et suis ton ami,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

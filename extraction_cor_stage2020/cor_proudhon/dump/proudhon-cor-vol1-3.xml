@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Muiron, Just (1787-1881)">Just Muiron</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when=""/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date/>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur, combien celui qui ne sait s'apprécier à sa juste valeur, le téméraire qui vit
+          sans réfléchir, s'apprête d'humiliations et de chagrins ! Je me trouve dans ce cas par ma
+          faute; mais je me juge moi-même et je m'arrête à temps. Il est sans doute désagréable pour
+          vous, je le conçois, d'avoir fait toutes ces démarches si inutilement ; mais il est encore
+          plus humiliant pour moi de me voir obligé de vous rapporter, la rougeur au front, une si
+          brusque et si prompte décision. Je rivaliserai avec ce consul romain qui ne mangea ni ne
+          but, dit l'histoire, de tout son consulat.</p>
+        <p>Connaissez-moi bien, Monsieur, et confessez que je suis l'homme du monde le plus
+          incapable de faire le métier que j'allais entreprendre. D'ailleurs, je crois que nos
+          principes ne s'accordent pas; et je vous l'ai dit, quoique je n'eusse pas encore de parti
+          pris sur bien des choses, je tiens à mes principes, je ne les sacrifierai jamais, quoi
+          qu'il me puisse arriver; je suis content de ma position d'artisan. Je suis franchement et
+          irrévocablement républicain de conviction et de sentiment ; il est vrai que mon
+          républicanisme n'est pas tout à fait celui des séides de Robespierre, des dévots à Marat.
+          Ils sont jugés par leurs oeuvres.</p>
+        <p>Je crois le gouvernement constitutionnel une ébauche grossière, un malheureux essai d'un
+          peuple ivre de ses libertés nouvelles, et prenant toujours les signes pour les choses
+          significatives, comme l'a fait la France depuis 89.</p>
+        <p>En France, et bientôt en Europe, il n'est plus, suivant moi, qu'une voie légitime à
+          l'immortalité, à la reconnaissance des peuples, et aux suffrages futurs de l'histoire,
+          pour un monarque constitutionnel : c'est de se regarder comme exerçant une sorte de
+          dictature provisoire, sans conquêtes, au sein d'une paix profonde. Je crois à la
+          confraternité universelle. Tout souverain qui ne remplit pas cette mission est pour moi un
+          traître, un prévaricateur, un ennemi du genre humain.</p>
+        <p>Vous conclurez facilement, d'après cet exposé, que j'opine à conserver et défendre le
+          gouvernement que la France s'est donné depuis 1830, au moins encore quelques vingt ou
+          trente ans; plus même, si besoin est.</p>
+        <p>En fait de religion, très-certainement il ne s'imprimera jamais de moi une ligne qui ne
+          tende, de près ou de loin, à détruire le christianisme, tel que l'ont fait les
+          théologiens. Le déisme pur, que je crois avoir été professé par Moïse et Jésus-Christ, me
+          paraît suffire aux besoins du coeur de l'homme, à toutes les exigences de sa raison.
+          Tandis que le théologien prête à la divinité et à la Providence une foule d'attributs
+          contradictoires, d'actes chimériques, qu'il multiplie sans fin les mystères, le déiste,
+          s'il n'explique tout, fait table rase, du moins, de cet échafaudage de rêveries, et son
+          Dieu en devient plus raisonnable, plus conséquent, plus fait pour le philosophe et l'homme
+          libre.</p>
+        <p>En ceci, comme en fait de république, il va sans dire que, si la vérité n'est jamais
+          nuisible, au moins peut-elle être quelquefois inopportune. C'est à la rendre opportune que
+          tous les hommes de bien doivent donc travailler de concert.</p>
+        <p>J'ai beaucoup plus médité que lu sur ces matières, et mes observations, j'ose le dire,
+          sont toujours venues à l'appui des axiomes, des conséquences et de leurs corollaires. Le
+          peuple, en général, entre parfaitement dans toutes ces idées, à tel point que. loin d'être
+          un système, elles semblent au contraire l'état naturel de la société. Comment se fait-il
+          que la manifestation de la vérité soit si lente et si tardive ?</p>
+        <p>Je ne crois pas à l'indifférence ni religieuse ni politique dans le peuple; aussi
+          longtemps qu'il se dira : il faut un Dieu, il faut des lois, il ne sera pas indifférent;
+          mais il règne une défiance hostile entre le peuple et le sacerdoce, entre les gouvernants
+          et les gouvernés ; la faute tout entière, l'histoire est là, est aux prêtres, aux rois et
+          aux nobles.</p>
+        <p>Je ne crois point davantage à toutes ces impertinentes rêveries de jeunesse, maturité,
+          décadence des nations; je crois le peuple moins corrompu de nos jours que par le passé.
+          Les causes de la grandeur et de la décadence des Romains, qu'ont si bien cru montrer et
+          prouver les Bossuet et les Montesquieu (je vous cite un exemple pris entre mille), je ne
+          les vois pas dans la corruption infecte des moeurs du peuple. Mais je vois que des maîtres
+          pervers ont toujours cherché à détériorer leurs malheureux sujets. En leur criant qu'ils
+          étaient plus méchants, égoïstes, impies, moins habiles dans les sciences et les arts que
+          n'avaient été leurs pères, ils ont toujours cherché à les charger de leur propre infamie.
+          Le peuple, à force de se l'entendre dire, finissait par le croire. Chacun se disait :
+          puisque j'en ai la honte, j'en veux avoir, le plaisir, et c'est ici qu'on peut faire une
+          application générale de cette maxime que saint Paul ne disait que d'un vice : Desperantes
+          semet ipsos tradiderunt impudicitioe.</p>
+        <p>Je ne finirai point sur ce chapitre, non plus que de vous exposer la série de toutes les
+          idées paradoxales dont ma tête est farcie ; tout cela ne peut vous convenir, pas plus à
+          vous qu'à vos abonnés. Après cela, je suis incapable de travailler à jour et heure fixes;
+          en matière de journaux, j'ai essayé pendant une après-dînée entière de faire un résumé de
+          nouvelles étrangères où je n'avais rien à mettre de mon cru ; je me suis battu les flancs
+          sans pouvoir en venir à bout. C'est tout ce que j'aie pu apprendre dans ce laborieux
+          travail. J'ai eu plustôt fait d'écrire deux lettres et ce que vous avez sous les yeux, que
+          de me mettre seulement au courant des affaires de la Suisse.</p>
+        <p>J'ai, je crois, quelque facilité à rendre mes idées, et il est tel jour où je ferais un
+          volume de ce qui me trotte dans la tète, mais les billevesées d'un cerveau à paradoxes,
+          les hallucinations d'un esprit romanesque ne sont point pour remplir les colonnes d'un
+          journal; or, je vous préviens que c'est d'après ce fonds acquis que je forme tous mes
+          jugements; c'est le critérium que j'applique à tout ouvrage, toute doctrine, tout
+          événement.</p>
+        <p>Mais j'ai besoin d'un assez long temps pour saisir les rapports des choses, les concevoir
+          nettement, former mon opinion et l'exprimer ensuite; enfin, je reviens à l'expérience que
+          j'en ai faite, aujourd'hui même : un thème d'écolier en humanités dépasserait ma
+          portée.</p>
+        <p>J'ose croire, Monsieur, que vous sentirez la valeur de ces considérations, et que vous
+          vous épargnerez un nouveau désagrément, et à moi un nouveau sujet de découragement et
+          d'humiliation, en m'engageant à un nouvel essai qui serait, je le prévois, aussi
+          malheureux que le premier.</p>
+        <p>J'ai voulu écrire toute cette longue palinodie, dans l'impossibilité où je suis de
+          converser avec vous.</p>
+        <closer>
+          <salute/>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

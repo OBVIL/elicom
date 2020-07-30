@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-06-29" resp="author">29 juin 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-06-29"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>29 juin 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, tu recevras dans quelques jours, par la poste, mon ouvrage sur la
+          Propriété, volume de deux cent cinquante pages. Je ne t'en envoie pour le moment qu'un
+          exemplaire, parce que j'ai lieu d'espérer que mes deux cents exemplaires seront placés
+          sans que j'aie besoin de te mettre à contribution; dans tous les cas, si quelqu'un doit
+          supporter les charges de cette impression, c'est moi, ou même c'est l'Académie de
+          Besançon. Je ne l'entends pas autrement.</p>
+        <p>Les 85 francs que j'ai reçus de toi m'ont été de trèsgrand secours, et je t'en remercie.
+          Puisque tu n'en as pas besoin, je ne m'inquiéterai pas du remboursement, attendant pour
+          cela que je sois en condition plus favorable.</p>
+        <p>Je partirai d'ici dans les premiers jours de juillet, avec notre ami Elmérick, qui va à
+          Strasbourg et passera par la Franche-Comté. J'attendrai à Besançon, rue des Chambrettes,
+          19, ta réponse à celle-ci, et ton jugement ou plutôt tes consolations sur mon livre.</p>
+        <p>Perdre six mois à prouver des choses plus claires que le jour, et dont l'ignorance fait
+          pourtant seule tous les maux du genre humain, cela est bien fait pour dépiter un esprit
+          curieux d'apprendre, et pour humilier notre orgueil. Encore si l'on tenait compte d'un
+          pareil sacrifice! Mais qu'espérer d'un peuple étourdi par un millier de meneurs et qui en
+          est toujours à admirer celui qui parle le plus? Qu'attendre de journalistes dont les
+          intérêts ne sont pas ceux de la vérité ; de politiques et de philosophes sans coeur et
+          sans génie? Je rentre à Besançon; je vais mettre ordre à mes affaires, m'occuper des
+          moyens de vivre, et me préparer lentement à d'autres travaux, car désormais je veux
+          philosopher, étudier et imprimer pour moi et pour mes amis, n'attendant rien de personne.
+          Je recevrai avec plaisir tes observations et tes conseils; j'en sens tout le besoin : j'ai
+          travaillé cette année sans conversation, sans être jamais échauffé par une intelligence.
+          J'ai vécu dans le vide ; je crains bien que tu ne t'en aperçoives. Pour fuir l'inanité, je
+          rechercherai désormais la solitude.</p>
+        <p>Le père Droz est parti depuis le 7 juin et ne rentrera à Paris qu'après mon départ : je
+          ne le reverrai plus. Cet homme est bon, honnête et plein de bienveillance pour moi; mais
+          c'est bien l'esprit le plus antiphilosophique, le génie le moins scientifique qui fût
+          jamais. Nous ne pouvons nous entendre. D'ailleurs, il désespère de moi; je le vois, je le
+          sais, il me le fait entendre assez clairement : il m'est trop pénible de vivre avec des
+          gens qui ne me rendront jamais justice parce qu'ils ne comprendront jamais mes idées.</p>
+        <p>L'ouvrage que je viens de terminer m'a fait naître quelques idées sur le style et l'art
+          d'écrire que j'ai dessein de mettre une fois en pratique : je commence</p>
+        <p>à sentir que je pourrais être quelque chose comme écrivain. Désormais je travaillerai
+          plus lentement et me déferai de la sotte présomption de croire que mes idées ne peuvent
+          être retardées dans leur publication par des soins de forme et d'exposition, sans que la
+          vérité et le bien public soient compromis.</p>
+        <p>Maguet se livre avec ardeur aux études de sou état : je lui trouve un esprit à la fois
+          simple et sage, et préférable cent fois au brillant des hommes à imagination et à
+          systèmes. Peu de gens t'aiment et t'estiment autant que Maguet ; il m'est agréable de te
+          le dire, mon cher Bergmann, parce que je t'aime et t'admire plus que personne, et que,
+          devant vivre assez rapproché de Maguet, je ne pouvais guère m'entretenir de toi qu'avec
+          lui.</p>
+        <p>Elmérick commence à obtenir quelques succès dans son art et à faire de jolies choses.
+          S'il peut prendre un peu de consistance, devenir homme, étudier, lire, méditer et faire de
+          la peinture avec autant de sérieux que d'autres y mettent de légèreté, il pourra devenir
+          un artiste distingué. Déjà il vise au simple, au naturel, et il cherche à mettre de l'âme
+          dans ses compositions. Ce n'est pas le défaut de ses confrères : jamais peut-être on ne
+          vit un tel matérialisme dans les arts.</p>
+        <p>Je m'aperçois que je cède au plaisir de la conversation et que je fais dans une lettre un
+          peu de commérage. Ecris-moi, je t'en prie : j'en ai besoin; donnemoi des conseils, nul ne
+          le peut mieux que toi, et de personne je ne les recevrai plus volontiers. J'ose espérer
+          que mon travail te suggérera plusieurs idées dont il sera bon que je profite.</p>
+        <p>S'il te fallait quelques exemplaires de plus, je te les expédierais de Besançon.</p>
+        <p>Peut-être les circonstances me ramèneront-elles à Paris l'hiver prochain; je ne puis rien
+          affirmer à cet égard; mais, en ce cas, je suis résolu de passer par Strasbourg et d'y
+          séjourner un jour ou deux.</p>
+        <closer>
+          <salute>Adieu. Je t'embrasse; ne me laisse pas languir : je me sens encore quelque feu dans la
+            poitrine, mais j'ai besoin qu'on l'attise.<lb/>Tout à toi.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-03-11" resp="author"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-03-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>11 mars 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, mon cousin Proudhon me donne l'état des affaires : il me dit que les
+          recettes pourront être égalées aux dettes et dépenses; mais ce qui me chagrine, c'est que
+          vous êtes trois, en attendant, qui ne touchez pas un sol. Je crains que l'impatience ne
+          vous gagne à la fin, et moi aussi. Cependant, je suis toujours convaincu que si nous
+          pouvons traverser encore cet hiver, nous serons sauvés.</p>
+        <p>La librairie et l'imprimerie sont à bas à Paris : misère universelle, point d'ouvrage.
+          Les meilleures maisons sont ébranlées et renvoient les ouvriers par centaines.</p>
+        <p>Je fais des articles de grammaire, logique et philologie pour l'Encyclopédie de M.
+          Parent-Desbarres, à 70 francs la feuille grand in-4° à deux colonnes. C 'est trop bon
+          marché ; cependant si tous les auteurs allaient plus vite, je lui en bâclerais sans peine
+          deux feuilles par mois. — D'un autre côté, il me donnera à lire les épreuves de son
+          Saint-Augustin : il va remercier, ou plutôt employer à autre chose son vieux
+          correcteur.</p>
+        <p>Enfin je lis de temps en temps le journal légitimiste l' Europe; il est assez singulier,
+          comme vous voyez, qu'au milieu de la détresse universelle je sois accablé de besogne.
+          Patience ! nous éclaircirons le brouillard. On est content de ma rédaction ; je leur fais
+          de belles phrases; on se moque du reste.</p>
+        <p>J'ai vu M. Pauthier de Censay avant-hier ; nous avons causé trois heures. Il approuve
+          fort mon projet de rester imprimeur et de publier une Revue. Sa coopération m'est acquise;
+          il me l'a promis formellement. Cette Revue commencerait à paraître après la publication
+          d'un ouvrage de philosophie dont je m'occupe. Elle consisterait en 5 feuilles in-8° tous
+          les mois. J'entends que cette publication n'ait rien de mercantile; l'abonnement sera de 1
+          5 francs par an ; c'est le prix des in-8° à la mode. 60 feuilles feraient deux volumes.
+          Dès qu'il y aurait 300 souscripteurs, je m'engagerais à en publier et répandre 200
+          exemplaires gratis ; si nous arrivons à 500. j'en publierais 500 exemplaires. Je ne veux
+          que les frais d'impressions, de bureau, et quelque chose peur ma gérance. Je ne demande
+          rien pour mes articles, et je ne veux pas que personne y travaille pour de l'argent. C'est
+          un moyen d'influence et de réforme que je veux mettre eu mouvement dans notre pays : M.
+          Droz, y applaudit de tout son coeur; et j'espère y entraîner l'élite de notre nation
+          franc-comtoise. Je vais amasser des matériaux pour avoir de la copie au moins pour six
+          mois d'avance.</p>
+        <p>Vieux était parti quand j'ai reçu votre dernière ; je n'ai pas encore do ses nouvelles.
+          Il s'occupe do chercher des souscripteurs à une table de Fleury qui manque partout. Cette
+          table formerait un énorme in-4°; il faudrait au moins 3.000 feuilles pour l'impression à
+          500.</p>
+        <p>Dès que nous aurons 300 souscripteurs à 12 fr. 50 broch., nous mettrons la main à
+          l'oeuvre.</p>
+        <p>Pauthier va me mettre en relation avec un jeune et honnête libraire de notre couleur ; il
+          m'a promis aussi de me procurer, quand il en trouverait l'occasion, quelques ouvrages à
+          imprimer. Je vous le répète : un peu de courage, et nous sommes hors des poux.</p>
+        <closer>
+          <salute>Tout à vous,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

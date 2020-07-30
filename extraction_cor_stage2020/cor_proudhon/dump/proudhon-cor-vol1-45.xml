@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-12-16" resp="author">16 décembre 1839</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Pérennès, François (1811-1867)"
+            ref="https://data.bnf.fr/fr/10482184/francois_perennes/">François Pérennès</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-12-16"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>16 décembre 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Pérennès, votre pensionnaire s'est enfin remis à l'oeuvre. Après quelques jours
+          de fermentation et d'une insupportable inquiétude, mes méditations ont repris leurs cours
+          pour ne plus s'arrêter, je l'espère, qu'au jour où je pourrai vous revoir, causer et me
+          reposer près de vous. Mes jour nées se passent entre Reid et Kant ; il est nécessaire que
+          je suspende mes études philologiques pendant quelque temps, jusqu'à ce que j'aie terminé
+          mes travaux sur ces deux personnages, que je compte, dans l'enivrement de mon orgueil,
+          mettre pour jamais à la réforme. Cette idée est d'une incroyable audace, j'en conviens;
+          elle a de quoi soulever tous les mépris et les anathèmes de nos maîtres en philosophie,
+          qui, jusqu'à présent, n'ont vécu que de l'Ecosse et de l'Allemagne. Mais si je ne me
+          trompe, ce qui est très-possible d'ailleurs, je crois qu'il n'est pas donné à tout le
+          monde de se tromper comme moi et, après tout, j'aurai hâté l'avènement et la démonstration
+          de la vérité.</p>
+        <p>A propos de Kant, j'ai reçu de Pauthier un nouveau volume de son traducteur, M. Tissot ;
+          ce volume comprend le discours sur le Suicide et un autre ouvrage intitulé : De l'Esprit
+          de révolte, etc. Je suis, sur le compte de ce livre, tout à fait de l'avis de M. Droz : ce
+          n'est pas un livre fait. A quoi bon imprimer cinq cents pages pour ne rien dire de nouveau
+          et d'intéressant ? pour délayer, dans un style diffus et traînant, quelques aphorismes de
+          métaphysique et de morale qu'on ressasse depuis Salomon? Pour moi, à cette lecture, je
+          n'ai pu m'empêcher de m'écrier : Mon Dieu, la FrancheComté a son Damiron ! Cependant il
+          faut tenir compte à l'auteur de ses critiques des saints-simoniens et fouriéristes ;
+          critiques tout à fait en rapport avec celles de l'article Fourier de la biographie Feller,
+          mais qui n'empêche pas les fouriéristes de Paris d'imprimer dans leurs journaux que M.
+          Tissot, le célèbre professeur de Dijon, est tout phalanstérien. Si M. Tissot se respecte
+          et tient à ses convictions, je le crois obligé en conscience de désavouer une pareille
+          association et de démasquer l'effronterie de ces messieurs.</p>
+        <p>M. Tissot, dans son discours sur le suicide, insiste sur l'excellence de sa démonstration
+          de l'immoralité du suicide, fondée sur la théorie de Kant. En cela, je suis encore de
+          l'avis de la commission qui s'en est moquée. En Allemagne, on est moins esclave de Kant et
+          l'on avoue que toute la morale de ce philosophe consiste à dire : Je suis obligé parce que
+          je suis obligé; ce qui n'a rien de bien démonstratif. M. Tissot est laborieux, de bonne
+          foi et consciencieux ; mais il n'a ni talent, ni génie, et je crains de plus que son
+          esprit ne soit faible ; c'a encore été l'opinion de M. Droz quand je lui eus raconté
+          l'histoire du pseudonyme de Daudon.</p>
+        <p>J'ai lu le discours de M. Bousson sur d'Olivet, et, chose malheureuse pour l'Académie, il
+          se trouve que ce discours est maintenant meilleur que celui du lauréat. Je sais qu'il
+          n'est point tel qu'il a été envoyé, l'auteur le dit lui-même ; mais Ackermann aussi a
+          retouché et presque tout refait le sien, en sorte que les conditions sont égales ;
+          j'aurais voulu que mon jeune ami, plus modeste et mieux avisé, ne l'imprimât pas. M. Droz
+          l'a trouvé mauvais et n'y a rien compris.</p>
+        <p>Je vous parle toujours de l'avis de M. Droz, comme si je craignais d'avoir une opinion à
+          moi et que je voulusse lancer mes traits, protégé par son égide. Il faut achever ma
+          confession. Quoique j'aie aussi fait imprimer mon discours, je n'ai pas encore osé le lui
+          montrer. Il m'a blâmé d'avoir concouru, blâmé plus fort de n'avoir pu l'emporter sur mes
+          concurrents, parce qu'il veut que mon coup d'essai soit un coup de maître; enfin, il
+          prétend que de pareils exercices sont une perte de temps. A quoi dois-je m'attendre si je
+          lui donne encore la preuve de l'excentricité de mes paradoxes que je me repens d'avoir si
+          mal exposés ?</p>
+        <p>Oui, j'en conviens de bonne foi et de toute la sincérité de mon coeur, j'ai obtenu plus
+          peut-être que je ne méritais. Assurément, je ne désavoue aucune de mes opinions, ni aucun
+          de mes principes; mais je suis un maladroit, un parfait ignorant dans l'art de présenter
+          des choses nouvelles. M. Weiss me l'a dit il y a longtemps : je n'ai pas le talent de la
+          forme. Toutes les propositions de mon discours sont aussi vraies que celles d'Euclide;
+          mais il ne fallait pas leur laisser la couleur des idées révolutionnaires du jour; mais il
+          fallait les en séparer radicalement; mais il fallait être plus démonstratif et moins
+          rhéteur.</p>
+        <p>Fit fabricando faber ; je ne retomberai pas dans les mêmes fautes. J'ai reconnu, par mes
+          nouvelles études, combien je suis loin de tous les philosophes, moralistes et
+          jurisconsultes ; je connais maintenant toute la valeur, toute la portée de mes idées; j'en
+          puis donner la définition exacte, précise; je puis montrer la cause de toutes les
+          incertitudes qui obscurcissent les sciences politiques et législatives, et sans pénétrer
+          jusque dans les derniers détails, j'ai de quoi compléter et remplacer des principes faux
+          ou mal débrouillés. Si jesuis pas dans la plus déplorable illusion, mon premier ouvrage
+          sera peut-être l'événement le plus remarquable de 1840, y eût-il même une révolution
+          politique; car les changements sociaux ne sont rien sans le mouvement intellectuel.</p>
+        <p>Jeudi prochain, 19, aura lieu la nomination du nouveau membre de l'Académie française.
+          C'est la vingthuitième élection à laquelle aura participé M. Droz. Les intrigues sont
+          incroyables ; les académiciens accourent de tous les coins de la France ; ils seront au
+          complet. M. Droz prétend qu'il n'y eut jamais plus mauvaise élection : se voir obligé de
+          choisir entre Berryer, bon orateur, mais qui n'a rien écrit, et dont les discours
+          dépouillés du prestige de l'action n'ont rien de bien remarquable ; Victor Hugo, doué de
+          talent, mais brisant la langue, brisant la morale et le goût; Casimir Bonjour, classique
+          pur, mais si pâle, qu'il donne légitimement lieu aux romantiques d'attaquer la littérature
+          classique... On ne sait à quoi se décider, dit M. Droz. Je crois qu'il a son parti pris;
+          je suis certain qu'il ne votera pas pour Berryer qu'il n'estime pas à cause de ses
+          parjures politiques, et parce que, de plus, il ne veut pas que l'Académie devienne une
+          succursale de la Chambre des députés. D'un autre côté, si j'ose présumer quelque chose de
+          l'opposition violente qu'a manifestée la famille Michelot lorsque je m'avisai de dire que
+          je voterais pour Victor Hugo, non parce que je le jugeais absolument digue, mais parce que
+          cela en écarterait d'autres, je crois que le premier vote de M. Droz . sera pour Casimir
+          Bonjour. Son voeu, si ses conseils avaient été suivis, aurait été que l'on choisit dans
+          l'Académie des sciences ou des inscriptions, parmi les Arago, les Letronne, les Burnouf,
+          etc., un homme nonseulement littérateur, mais savant, afin, dit M. Droz, de montrer à la
+          jeunesse que le beau parler n'est plus jugé seul un titre suffisant pour prendre place à
+          l'Académie française, mais qu'il faut y joindre les études fortes, soit dans les langues,
+          l'histoire, la morale, soit dans les sciences exactes. Cela m'a paru parfaitement sage;
+          mais les sages n'ont pas raison aujourd'hui. Les hommes politiques, comme les Dupin et
+          Thiers, dont les intérêts parlementaires trouvent leur compte à faire entrer un homme
+          qu'ils se piquent de combattre à la Chambre, mais de ne l'avoir pas pour ennemi, et les
+          légitimistes, favorisent l'élection de Berryer. De plus, affirme M. Droz, il y a des gens
+          qui voteront pour lui, uniquement parce que M. Berryer attirera la foule à la séance
+          solennelle où il lira son discours de réception. Nodier est à la tête du parti Hugo. Les
+          cabales, les sollicitations, les séductions se croisent; cela fait une petite guerre qui
+          divertit fort M. Droz. Pour lui, il est tellement connu pour son indépendance et
+          l'inflexibilité de sa justice, qu'on ne se donne pas même la peine de lui parler. A peine
+          si on lui fait la visite d'obligation Avoir mérité une pareille réputation c'est
+          assurément un magnifique éloge et bien digne d'envie. Je vois peu de monde et ne suis
+          guère au courant de ce qui se passe. Je me trouvai un jour, dînant avec Pauthier, en face
+          de G*** : c'est un fier imbécile que M. G***. Figure ignoble, esprit faux, ignorance à
+          prétentions, suffisance ridicule, air plein de dédain, on dit encore qu'à ces belles
+          qualités M. G*** joint le généreux talent d'exploiter comme un petit s.... ses confrères
+          plus pauvres et plus obscurs que lui. Je l'ai mené dur. Monsieur entretient des
+          maîtresses; mon-' sieur n'aime point à entendre parler de sa famille; monsieur reçoit le
+          samedi ; monsieur se fait moquer de : lui et il le mérite. J'ai promis d'aller à ses
+          soirées : je, ne sais pas encore si je m'y présenterai une fois.</p>
+        <p>Tout conspire à la fois contre le gouvernement : il y a eu ces jouis derniers gala de
+          bonapartistes; les henriquinquistes vont en Italie; les républicains grincent des dents.
+          Il y a 30,000 tailleurs qui ne font rien; autant à proportion des autres états : on porte
+          à 150,000 le nombre des ouvriers sans ouvrage. Comment viventils? C'est un mystère. Voici
+          l'explication de ce phénomène : Ce ne sont pas toujours les mêmes qui chôment; mais ils
+          travaillent tour à tour, un jour, deux jours par semaine, sans que cette succession ait
+          d'ailleurs rien de fixe. Lorsqu'ils ont gagné 3 fr., 4 fr., 6 fr., le besoin de se
+          restaurer les conduit aux barrières : là ils ne font pas bamboche, ce serait inexact; ils
+          mangent du veau et du pain et boivent un litre de vin à dix sous. Comme ils se réunissent
+          pour faire celte ripaille, ils y passent la journée, n'ayant d'ailleurs rien à faire,
+          chantant des chansons républicaines, et le lendemain se remettent au jeûne. Cinq sous,
+          quatre sous, un sou même de pain leur suffit par jour. L'estomac bientôt délabré par ce
+          régime, ils gagnent une affection de poitrine et vont mourir à l'hôpital.</p>
+        <p>Leur exaltation révolutionnaire me semble aujourd'hui voisine du désespoir ; ils savent
+          que le plan de Paris est tiré par le gouvernement de manière à occuper subitement tous les
+          points de la ville à la première émeute ; ils savent qu'ils ne peuvent se soulever
+          aujourd'hui sans être massacrés par milliers. C'est cette impuissance même qui les rend
+          plus terribles. J'en ai vu qui, après la lecture du dernier ouvrage de Lamennais,
+          demandaient des fusils et voulaient marcher à l'instant. La promesse qu'on leur fait de
+          les employer bientôt, seule les retient. Du reste, ils n'aiment ni Laffitte, ni Arago, ni
+          tous les réformateurs de journaux et de tribune : ils parlent de massacrer le premier qui,
+          n'ayant pas combattu, leur parlera de modération, d'ordre ou de respect des propriétés.
+          Ils se proposent d'écraser les légitimistes et les bonapartistes : c'est une violence
+          enragée, entretenue par la misère où ils se voient, l'incurie des gouvernants, et les
+          interminables déclamations des hommes qui se disent républicains. Il est indubitable que
+          s'ils étaient les maîtres, leur règne ne durerait pas quinze jours; car ils se
+          disperseraient d'eux-mêmes, par l'effet de leur propre désorganisation ; mais ils auraient
+          eu le temps de donner aux hommes publics une effroyable leçon. Jugez de ce qu'ils
+          pourraient faire par ce qu'ils pratiquent aujourd'hui. De temps en temps, il y a parmi eux
+          des mouchards, des traîtres. Aussitôt qu'un individu est convaincu par son propre aveu de
+          ce crime, ils prennent leurs mesures, surprennent le malheureux, lui tordent le cou et le
+          jettent à la Seine. Plusieurs y ont déjà passé ; la police n'en sait rien. Cela est
+          exécuté de sangfroid par les exécuteurs de cette espèce de Vehme. Je crois qu'ils ont des
+          listes de proscription. Ils regardent comme des aristocrates ambitieux ceux qui les
+          flattent et leur font des promesses républicaines ; mais il leur manque un O'Connell. Les
+          tailleurs montrent en général beaucoup d'intelligence.</p>
+        <closer>
+          <salute>Mes respects et mes amitiés, s'il vous plaît, à MM. Weiss et Viancin, mes très-humbles
+            hommages à Mme Pérennès. Je suis, mon très-cher et honoré maître, votre fidèle et ancien
+            disciple.</salute>
+          <signed><name>P.-J. PROUDHON</name>, rue Jacob, 16.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

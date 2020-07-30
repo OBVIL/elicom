@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1811-05-02" resp="author">2 mai 1811.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Gauthier, Antoine (1797-1862)"
+            ref="https://data.bnf.fr/fr/16769377/jean-antoine-frederic_gauthier/">Antoine
+            Gauthier</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1811-05-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>2 mai 1811.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon vieil ami, je mérite bien tes reproches, car je devrais savoir ce que c'est que
+          d'imprimer un livre ; mais un auteur s'imagine toujours qu'il a tout fait quand il a
+          écrit, et que la presse doit aller aussi vite que sa pensée. L'art de Gutenberg n'en est
+          pas encore là. L'impression de mon petit Mémoire a duré cinq semaines et plus : il y avait
+          de quoi enrager. A présent, c'est une affaire finie, et me voilà sous la griffe des
+          critiques. De tous côtés on m'annonce que je ne serai pas ménagé : le vent souffle et le
+          ciel se fait noir ; il y aura du gros temps. Quoi qu'il arrive, au surplus, je n'ai rien à
+          craindre du côté du pouvoir, ce qui est déjà l'essentiel ; quant aux chiens de cour et
+          autres, il y a longtemps que je les connais, et je les attends. Je suis étourdi et
+          téméraire autant qu'homme du monde; mais, quand il s'agit d'imprimer, tu me supposes assez
+          de bon sens pour n'avancer rien qu'à coup sûr, même dans mes plus grands paradoxes. Les
+          radicaux réformistes fulminent contre moi pour quelques mauvaises plaisanteries que je
+          leur adresse; que diront-ils, bon Dieu ! l'année prochaine, quand j'aurai tué leur dada !
+          Mais laissons approcher la nuée et considérons, observateur tranquille, la marche de
+          l'ouragan. J'ai toujours idée que tout cela se dissipera; on y regarde à deux fois avant
+          d'attaquer un homme qui a bec et ongles, qui frappe fort et qui frappe juste. C'est ce
+          dont tu pourras juger.</p>
+        <p>Mais, mon cher, mon plus ancien camarade, si des clameurs de coteries, si une conjuration
+          de journalistes écrivassiers parvenaient à me démonétiser aux yeux de cette grosse bête
+          qu'on appelle le public, n'ai-je pas d'avance mon dédommagement dans l'estime des hommes
+          honnêtes, indépendants, qui ne cèdent pas à l'opinion, et dans l'affection de mes amis?
+          C'est une chose dans laquelle je me complais le plus ; aucun homme n'a peut-être autant de
+          vrais amis que moi, et, dans le nombre, d'aussi essentiellement probes, d'aussi pleins de
+          moralité, d'aussi remarquables, même par le talent et la capacité. Avec les habitudes que
+          je me suis faites et mes goûts un peu campagnards, tu sais s'il m'est facile de me
+          consoler des tribulations de la littérature et du métier d'auteur. Quand je quitte ma
+          plume, c'est comme si je changeais de figure : me voilà redevenu compagnon, flâneur,
+          paresseux, aimant à courir et à gouillander, amoureux du café, du cabaret et de la grosse
+          gaieté. Ne suis-je pas fait tout exprès pour donner des coups de fouet à ce troupeau de
+          mâtins qui ne savent happer que les moutons et que hurler contre les loups? Invulnérable
+          du côté de l'amour-propre, puisque je méprise leurs louanges, inattaquable dans ma vie
+          privée, que veux-tu que je craigne ? Je ne suis encore qu'à mon second acte, et je n'ai
+          pas commencé pour reculer. La comédie sera longue, et tel dont je n'ai pas encore parlé
+          recevra tôt ou tard le coup d'aiguillon.</p>
+        <p>Ce m'est un grand plaisir de causer avec toi, car je ne reçois guère de lettres aussi
+          franches, aussi vives, aussi assaisonnées, que la tienne. En te lisant, je reconnais cette
+          bonne nature franc-comtoise que nos académiciens travaillent à corrompre tous les jours
+          par leur ignorance et leur sottise. Tel que tu te montres toimême, tel je suis. Comme toi,
+          j'ai d'abord senti mon indignation se soulever, en voyant l'hypocrisie, la bassesse, les
+          mensonges, l'ignorance et le charlatanisme de tout ce monde, et j'ai voulu que toute cette
+          verte colère passât dans mon style. J'ai voulu être surtout de mon pays : franc et loyal,
+          mais raisonneur, mordant, caustique, rieur et moqueur, impitoyable pour tous les minus
+          habentes qui s'en veulent faire accroire. Je sais qu'on me reproche de faire trop le
+          bourreau des crânes dans ma polémique; mais, avec un peu de réflexion, on verrait que ce
+          n'est là qu'une tactique, une manière comme une autre de faire valoir mes raisons. Et
+          puis, il y a tant de mollesse, de lâcheté, de papillottage dans les critiques d'à-présent,
+          qu'il est nécessaire d'avoir un cuisinier qui mette un peu de vinaigre et de citron dans
+          ses sauces. Au peste, qu'on me fasse comme je fais aux autres, je ne demande pas mieux;
+          pour tous mes coups de lance je n'ai pas encore reçu une égratignure. Cela m'ennuie.</p>
+        <p>Tu me demandes des explications sur le mode de reconstituer la société. Je veux te
+          répondre en peu de mots et tâcher de te donner, à ce sujet, des idées justes.</p>
+        <p>Puisque tu as lu mon livre, tu dois comprendre qu'il ne s'agit pas maintenant d'imaginer,
+          de combiner dans notre cerveau un système que nous présenterons ensuite ; ce n'est pas
+          ainsi qu'on réforme le monde. La société ne se peut corriger que par elle-même,
+          c'est-àdire qu'il faut étudier la nature humaine dans toutes ses manifestations, dans les
+          lois, les religions, les coutumes, l'économie politique; extraire de cette masse énorme,
+          par des opérations de métaphysique, ce qui est vrai ; éliminer ce qui est vicieux, faux ou
+          incomplet, et de tous les éléments conservés ; former des principes généraux qui servent
+          de règles. Ce travail prendra des siècles pour être mené à son complément.</p>
+        <p>Cela te paraît désespérant; mais rassure-toi. En toute réforme, il y a deux choses
+          distinctes, et que l'on confond trop souvent : la transition et la perfection ou
+          l'achèvement.</p>
+        <p>La première est la seule que la société actuelle soit appelée à opérer ; eh bien ! cette
+          transition, par quels principes allons-nous la réaliser ? — Tu trouveras la réponse à
+          cette question en combinant ensemble quelques passages de mon second Mémoire; p. 10-11,
+          convertir toutes les rentes, et, en généralisant, abaisser le taux de tous les revenus ;
+          p. 16, réforme de la banque ; p. 28-29, émission de capitaux à petit intérêt, réforme dans
+          les banquiers; p. 33-37, abolition progressive des douanes; p. 179, attaquer la Propriété
+          par l'intérêt; p. 184, id., etc.</p>
+        <p>Tu conçois qu'un système d'abolition progressive de ce que j'appelle aubaine,
+          c'est-à-dire rentes, fermages, loyers, gros traitements, concurrence, etc., rendrait déjà
+          presque nul l'effet de la Propriété, puisque, si elle est nuisible, c'est surtout par
+          l'intérêt.</p>
+        <p>Toutefois, cette abolition progressive ne serait qu'une négation du mal, mais point
+          encore une organisation positive. Or, pour ceci, mon cher ami, j'en puis bien donner les
+          principes et les lois générales, mais, seul, je ne puis suffire à tous les détails. C'est
+          un travail qui absorberait cinquante Montesquieu. Pour ma part, je donnerai les axiomes,
+          je fournirai des exemples et une méthode, je mettrai la chose en train; c'est à tout le
+          monde de faire le reste.</p>
+        <p>Ainsi, crois bien que personne sur terre n'est capable, comme on l'a voulu dire de
+          Saint-Simon et de Fourier, de donner un système composé de toutes pièces et complet, qu'on
+          n'ait plus qu'à faire jouer. C'est le plus damné mensonge qu'on puisse présenter aux
+          hommes, et c'est pour cela que je suis si fort opposé au fouriérisme. La science sociale
+          est infinie : aucun homme ne la possède, pas plus qu'aucun homme ne sait la médecine, la
+          physique ou les mathématiques. Mais nous pouvons en découvrir les principes, puis les
+          éléments, puis une partie, qui ira toujours en grandissant. Or ce que je fais maintenant,
+          c'est de déterminer les éléments de la science politique et législative.</p>
+        <p>Par exemple, je maintiens le droit de succession, et je veux l'égalité ; comment accorder
+          cela? C'est ici qu'il faut entrer dans l'organisation. Ce problème sera résolu dans le
+          troisième Mémoire, avec beaucoup d'autres. Je ne puis en ce moment te dire tout : il me
+          faudrait vingt pages.</p>
+        <p>Enfin, si la politique et la législation sont une science, tu comprends que les principes
+          puissent être fort simples, saisissables aux moindres intelligences, mais que, pour
+          arriver à la solution de certaines questions de détail ou d'un ordre élevé, il faut une
+          série de raisonnements et d'inductions tout à fait analogues aux calculs par lesquels on
+          détermine le mouvement des astres. Cela même que je te dis des difficultés de la science
+          sociale sera une des choses les plus curieuses de mon troisième Mémoire, et qui prouvera
+          le mieux ma bonne foi et la nullité des inventions politiques.</p>
+        <p>En deux mots : abolir progressivement et jusqu'à extinction l'aubaine, voilà la
+          TRANSITION. — L'ORGANISATION résultera du principe de la division du travail et de la
+          force collective, combiné avec le maintien de la personnalité dans l'homme et le
+          citoyen.</p>
+        <p>Ce que je te dis là te paraîtra peut-être un hiéroglyphe; c'est pourtant l'explication de
+          l'énigme; c'est là que gît tout le mystère ; tu me verras commencer cette application, et
+          tu pourras te dire alors : Pour achever l'oeuvre, il ne faut plus que des hommes et des
+          études.</p>
+        <p>Tu m'as forcé de me faire pédant dans une lettre familière par une sotte question ; quand
+          je cause avec toi, est-ce donc pour faire la classe? On ne s'explique jamais entièrement
+          en une page sur des choses difficiles, parce qu'il reste toujours plus do doutes à
+          éclaircir qu'onn'a résolu de questions. L'essentiel aujourd'hui est de fixer tes regards
+          sur la Propriété et de résumer tout, la politique intérieure dans la question d'abolition,
+          et la politique extérieure dans celle des douanes. Tout est là ; le reste se corrigera de
+          lui-même... J'ai reçu hier, de M. Blanqui, une lettre charmante, flatteuse, et bien faite
+          pour me donner de l'orgueil. Tu conçois que ce professeur ne peut accepter ma doctrine
+          dans les termes où je la pose ; mais, à part les mots et la timidité qui lui parait
+          naturelle, c'est un homme acquis. — Au demeurant, homme de grand savoir, aimé de tout le
+          monde, et le plus capable organisateur que nous ayons. — Je reçois de temps en temps des
+          témoignages d'estime de la part de personnages éminents qui, sans dire oui, disent :
+          Courage ! Tu comprends !</p>
+        <p>J'avais envie, en commençant, de causer et goguenarder avec toi ; mais la nature d'auteur
+          revient toujours. C'est ta faute aussi. Pourquoi m'interroges-tu?</p>
+        <closer>
+          <salute>Adieu, mon plus ancien condisciple, mon camarade de Rosa. Il ne m'en reste point
+            de ton temps ; et je sons bien à ta lettre que les plus vieux sont encore les meilleurs.
+            »<lb/>Tout à toi,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

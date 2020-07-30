@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838-09-16" resp="author">16 septembre 1838.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838-09-16"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon</placeName>
+            <date>16 septembre 1838.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, vos lettres me rafraîchissent le sang, et me raniment à la vérité et
+          à la foi républicaine. De tous ceux que je connais, vous êtes jusqu'à présent le seul que
+          je voie se passionner pour la justice et la vertu, et s'enflammer du zèle de
+          l'humanité.</p>
+        <p>Combien je suis plus à plaindre que vous ! Il y a encore, dites-vous, de l'esprit, des
+          lumières, dans cette capitale; et moi, je vis parmi un troupeau de moutons. J'ai reçu les
+          compliments de plus de deux cents personnes; de quoi pensez-vous qu'on me félicite
+          surtout? de la presque certitude que j'ai maintenant, si je le veux, de faire fortune, et
+          de participer à la curée des places et des gros appointements, d'arriver aux honneurs, aux
+          postes brillants ; d'égaler, sinon peut-être de surpasser, les Jouffroy, Pouillet, etc.,
+          etc. Personne ne vient me dire : " Proudhon, tu te dois avant tout à la cause des pauvres,
+          à l'affranchissement des petits, à l'instruction du peuple; tu seras peut-être en
+          abomination aux riches et aux puissants; ceux qui tiennent les clés de la science et de
+          Plutus te maudiront : poursuis ta route de réformateur à travers les persécutions, la
+          calomnie, la douleur, et la mort même. Crois aux destinées qui te sont promises : mais ne
+          va pas préférer au martyre glorieux d'un apôtre, les jouissances et les chaînes dorées des
+          esclaves.</p>
+        <p>« Serais-tu vaincu par les flatteries, les séductions du plaisir et de la fortune ? Toi,
+          enfant du peuple, filius fabri, comme on le disait autrefois de Jésus-Christ, tu
+          abdiquerais ta conscience, tu apostasierais ta foi pour être heureux à la manière de
+          ceux-ci et de ceux-là ! Tes frères ont les yeux ouverts sur toi : ils attendent avec
+          anxiété s'ils doivent bientôt déplorer la chute et la trahison de celui qui avait tant
+          juré d'être leur défenseur; ils n'auront jamais pour te récompenser, que leurs
+          bénédictions; elles valent mieux que les écus comptant du pouvoir. Souffre et meurs, s'il
+          le faut; mais dis la vérité, et prends la cause de l'orphelin. »</p>
+        <p>Je suis oppressé des honteuses exhortations de tous ceux qui m'environnent. Quelle fureur
+          du bien-être matériel ! Quel abject épicurisme je vois partout ! Je ne m'avise plus de
+          laisser échapper un seul mot de mes pensées. J'ai acquis la certitude que ma profession de
+          foi me fait considérer comme un cerveau frappé ou tout au moins exalté. Je fais rire par
+          ici; mais je ne convaincs personne. Le matérialisme est implanté dans les âmes, le
+          matérialisme pratique, dis-je, car on n'a déjà plus assez d'esprit pour professer l'autre.
+          Les cagots, par leurs singeries, leur exemple, leur ignorance, leur fanatisme et leur
+          mauvaise foi, entretiennent tant qu'ils peuvent ces funestes dispositions.</p>
+        <p>La volonté et la foi ont été proclamées de tout temps les plus grandes jouissances de la
+          nature et de l'humanité ; nous avons foi en la justice de notre cause, en la vérité de nos
+          principes, en l'éternité de nos dogmes ; manquerons-nous de volonté ? Ne donnerons-nous
+          pas un jour le spectacle nouveau d'hommes convaincus et inexpugnables dans leur croyance,
+          en même temps que résolus et constants dans leur entreprise. Prouvons que nous sommes
+          sincères, que notre foi est ardente, et notre exemple changera la face du monde. La foi
+          est contagieuse; or, on n'attend plus aujourd'hui qu'un symbole, avec un homme qui le
+          prêche et le croie.</p>
+        <p>Pauthier marchera toujours avec moi ; c'est trop d'honneur pour ma nullité et mon
+          ignorance ; mais qu'il se montre républicain invincible, défenseur implacable de la morale
+          universelle, ennemi du luxe et de l'opulence, et je suis son séide à la vie et à la mort.
+          Qu'il devienne le plus savant qu'il pourra; qu'il descende un jour des hauteurs de la
+          science, environné, comme Moïse, d'une auréole de gloire ; mais qu'il n'oublie pas qu'il a
+          encore une autre mission à remplir, et que toute sa doctrine ne doit être considérée par
+          lui que comme ses lettres de créance. A ce prix il aura tout mon amour et mon
+          admiration.</p>
+        <p>J'ai reçu avec joie des nouvelles de tous les amis; je suis marri que Haag ne puisse
+          venir à bout d'être casé selon ses goûts, et je regrette que Bergmann reparte pour
+          Strasbourg.</p>
+        <closer>
+          <salute>Je vous embrasse,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

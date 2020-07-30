@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-10-18" resp="author">18 janvier 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Monsieur le secrétaire perpétuel de l’Académie de Besançon (...-...)"
+            >Monsieur le secrétaire perpétuel de l’Académie de Besançon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-01-18"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>18 janvier 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Secrétaire perpétuel, je me hâte de répondre à votre lettre du 16 courant et
+          de vous remercier de votre empressement à me tirer de peine. Je vous supplie de présenter
+          à l'Académie mes humbles remerciments. J'étais comme un lion furieux il y a trois jours,
+          je suis aujourd'hui plus docile qu'un agneau. Il n'est rien que je ne fasse pour plaire à
+          des hommes intelligents, bienveillants, sachant sacrifier leur conviction à une oeuvre de
+          tolérance et de charité.</p>
+        <p>Trois semaines de douleur et d'une inexprimable angoisse m'ont abattu; j'avais beau
+          prêcher ma raison, exalter mon courage, la réprobation de l'Académie était pour moi comme
+          la malédiction de mon père. La vivacité de ma douleur doit vous prouver combien intimement
+          je tiens à l'Académie, à mon pays, à l'opinion de mes concitoyens ; les succès, la
+          fortune, la gloire sans leur amour ne me tentent pas. Je ne fais pas un projet dans lequel
+          mon imagination ne vous mêle et ne vous embrasse. Jamais incapacité d'arriver à la fortune
+          n'égala la mienne ; je puis dire que la cause en est tout entière à cette habitude de ne
+          voir en mes efforts d'autre fin que le bonheur de plaire aux FrancsComtois, comme les
+          ascètes ne faisaient rien qu'en vue de Dieu. De là ma confiance qu'il me suffit de bien
+          faire, et que l'Académie s'occupera de mes intérêts; de là cet esprit d'imprudence et
+          d'inhabileté que vous avez relevé dans ma défense, et que vous eûtes autrefois tant de
+          peine à faire disparaître de mon Mémoire de candidature. En tout cela, Monsieur le
+          Secrétaire perpétuel, je vous dois plus qu'à personne, et je ne puis plus vous remercier,
+          car vos bontés dépassent toute reconnaissance.</p>
+        <p>Il est vrai que l'appréhension de me voir retirer la pension et la bienveillance de
+          l'Académie m'ont fait renouer une négociation entamée précédemment avec moi de la part
+          d'un magistrat de la Seine, et que j'avais d'abord écartée, préférant six mois de travail
+          libre à six mois de profit; d'économiste que j'étais, je suis devenu criminaliste. M.
+          X***, gendre de M. le pair de France S***, m'a fait des propositions honorables. Le sujet
+          de l'ouvrage qu'il médite m'ayant agréé et rentrant dans mes études, je les ai acceptées.
+          M. X*** connaît mes opinions, ne les partage pas, mais ne s'en effraie pas; il ne voit en
+          moi que l'honnête homme, l'homme de travail et de méditations. Je compte remplir ses vues
+          au delà de son espérance ; mais cependant, Monsieur le Secrétaire perpétuel, ce n'est pas
+          pour moi que je travaille, puisque ce n'est que pour mon intérêt, et c'est l'Académie qui
+          en est cause. Tout cela me contrarie, m'exténue, me ferait mourir, si une pareille
+          tourmente se prolongeait. Il ne sera question de réimprimer mon livre qu'après que j'aurai
+          présenté au public une explication, devenue nécessaire, et à laquelle je travaille.
+          Puisque je me suis engagé à ne rien publier que du consentement de l'Académie, je vous
+          serai obligé de m'envoyer au plus tôt son adhésion. Il ne s'agit point d'un Mémoire
+          nouveau ni d'une défense, mais d'une explication qui détruise le mauvais effet produit par
+          la forme de mon livre, sans me présenter comme un étourdi ; qui m'honore sans que je me
+          rétracte ; qui (et je n'en doute pas) me concilie jusqu'au pouvoir, sans aucun sacrifice
+          de principes ; qui, enfin, offre des moyens d'ordre et de pacification, tout en réservant
+          ce que je regarde comme les droits inaliénables du peuple. L'Académie est intéressée à
+          cette démarche qui me fera honneur, j'ose vous le promettre, et qui la satisfera
+          pleinement. Les plus honnêtes gens que je vois ici, mes meilleurs amis, Mauvais, entre
+          autres, et Pauthier, approuvant ce projet, m'y engagent et souhaitent ardemment de me voir
+          séparé des factieux et de la mauvaise presse. Mes idées, disent-ils, peuvent produire du
+          bien; mais il faut que je me dessine pour ce que je suis. Je crois donc, Monsieur le
+          Secrétaire perpétuel, que l'Académie se ferait un très-grand tort et nuirait
+          essentiellement à la vérité et à la justice, si elle me défendait d'entrer en compte avec
+          le public qui m'a lu et qui est trèsnombreux à Paris. Je le répète donc, je ne fais ici ni
+          polémique nouvelle, ni dogmatisme ; je m'explique, je me juge moi-même; je me blâme dans
+          tout ce que mes formes ont de blâmable ; et enfin, dans des considérations philosophiques
+          très-élevées, je m'efforce d'apprécier ce qu'il est aujourd'hui possible de réaliser des
+          espérances et des prétentions populaires, sans blesser les intérêts acquis. Je serais
+          désespéré que l'Académie m'ôtât un moyen de succès, de faveur gouvernementale, non moins
+          que populaire, et qui est d'accord avec mes convictions, avec les convictions contraires
+          aux miennes et avec la justice. Je ne veux flatter personne, mais je veux être aimé et
+          estimé de tout le monde.</p>
+        <p>Mes amitiés bien sincères, s'il vous plaît, à MM. Weiss et Viancin. Je vous supplie aussi
+          de me permettre d'offrir mes hommages respectueux et mes compliments de bonne année à Mme
+          Pérennès, et de l'assurer que son digne époux n'eut jamais de disciple plus dévoué et plus
+          fidèle.</p>
+        <p>Pardon, Monsieur le Secrétaire perpétuel, de tous les maux que je vous cause; je vous
+          aurai prouvé, hélas ! combien il est pénible d'obliger et de faire du bien.</p>
+        <p>Votre pensionnaire,</p>
+        <closer>
+          <salute/>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

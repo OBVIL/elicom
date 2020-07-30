@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1810-07-02" resp="author">2 juillet 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-07-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>2 juillet 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, je pars dans quatre ou cinq jours, pour rentrer dans mon imprimerie
+          et aviser au moyen de vivre et de philosopher encore, car je n'ai pas fini. Mon traité de
+          la Propriété n'est, comme bien vous pensez, qu'un prélude. Je vous suppose assez
+          d'intelligence pour comprendre les raisons de ma retraite : un pareil livre ne méritera
+          jamais à son auteur les récompenses secrètes du ministère, les éloges des Académies et le
+          suffrage des partis. J'ai cherché la vérité pour la dire, quelle qu'elle fût, et il est
+          arrivé que je n'ai eu que des choses déplaisantes à formuler. J'ai écrit à Bergmann que
+          j'attendais de lui des consolations bien plus que des compliments; je vous en dirais
+          autant, si vous ne m'aviez pas mis absolument de côté. Voir et savoir est la vie des êtres
+          pensants; mais que cette vie est dure! Depuis le jour où J.-J. Rousseau écrivit la
+          profession de foi du Vicaire savoyard, aucun homme peut-être n'a eu une conscience plus
+          forte de la vérité de ses écrits, aucun n'a été livré à une tristesse plus profonde qu'est
+          la mienne.</p>
+        <p>Paris est le même qu'à votre départ : bête, immonde, bavard, égoïste, orgueilleux et
+          dupe. Depuis les moutards jusqu'aux pairs et aux ministres, tout est livré à la cupidité
+          et au plaisir. On marche sur ceux qui se pâment de faim : pourvu qu'on braille dans un
+          banquet politique et qu'on se livre au ribaudage, on est content. Nous sommes au temps de
+          Commode et de Caracalla.</p>
+        <p>M. Bounet n'est pas plus content de son sort que moi ; il me disait hier que vous
+          pourriez bien pousser jusqu'à Saint-Pétersbourg; je vous le conseillerais volontiers si
+          cela ne vous éloignait pas de plus en plus ; car il me semble que plus on se rapproche des
+          Scythes, plus on marche vers la civilisation.</p>
+        <p>Écrivez à Bergmann, à Strasbourg, pour lui et pour moi ; vous recevrez nos lettres en
+          même temps.</p>
+        <p>J'espère qu'une autre fois je vous en dirai davantage, Ma pensée est pauvre, comme mon
+          coeur est désolé. Cependant je vous aime, et si je vous savais content j'en éprouverais du
+          soulagement.</p>
+        <closer>
+          <salute>Votre ami pour la vie.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. Tous les amis vont bien ; tous font cause commune avec moi pour la propagation de
+            la vérité. Je joins à mon travail sur la Propriété un discours sur le Dimanche pour le
+            premier honnête homme que vous rencontrerez.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838-06-13" resp="author">13 juin 1838</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838-06-13">13 juin 1838</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>4</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, j'irai voir M. le curé de Villers dimanche prochain, s'il fait beau,
+          et je vous rendrai compte de ma visite une autre fois.</p>
+        <p>Je vous remercie, en attendant, de votre brochure, et des deux ouvrages de M. Pauthier ;
+          je ne 'attendais ras à cette distinction de sa part. Dites-lui que s'il a eu intention de
+          me servir au pays par cet envoi, il a pleinement réussi. On se regarde ici, quand on
+          entend dire que des gens de lettres et de science de Paris m'adressent leurs livres. Bien
+          obligé donc.</p>
+        <p>Puisque M. Pauthier est si bon ami et si bon compatriote, qu'il me permette d'en user
+          avec lui sur le pied de l'égalité. Il a lu mon essai que je n'aurais jamais osé présenter
+          à un homme comme lui; je serais heureux s'il en acceptait un exemplaire, j'en ai laissé
+          cinq ou six en dépôt chez Dessirier. Voudriez-vous vous charger de cette négociation ?</p>
+        <p>Je ne connais guère que de nom. et par la lecture de trois ou quatre numéros, la Revue
+          des deux Bourgognes. Je n'aime point ce journal et son allure: j'ignore s'il y a plus de
+          coterie que dans les autres; ce que je sais, c'est que la Bourgogne y a le pas sur la
+          Comté et que les Bourguignons n'ont d'encens que pour eux-mêmes. Il est très-difficile d'y
+          faire admettre un article; les doctrines sont, à la mode d'aujourd'hui, vagues, empreintes
+          d'un certain mysticisme philosophique, traînantes, sans fermeté, sans vigueur. C'est de
+          l'eau miellée. Si j'étais à la tète d'un journal semblable, je m'en servirais surtout pour
+          dire à mon pays ses vérités les plus dures. Or, ce n'est point ainsi que ces messieurs
+          l'entendent. Sauriez-vous faire une jolie uvelle, des vers à la Hugo, de l'histoire avec
+          des considérations à perte de vue; pouvez-vous vous écarter du bon sens suffisamment pour
+          attraper le bel esprit et la fine fleur de style? Présentez-vous à la Revue des deux
+          Bourgognes. Je crois, en un mot, que cette publication ne convient point à des hommes qui
+          cherchent à faire prendre racine à de bonnes vérités, bien nues, bien vives, bien
+          décidées. Je n'imagine plus, mon cher Aukermann, pour vous comme pour moi, qu'un moyen de
+          publication; c'est de réduire nos oeuvres aux dimensions du pamphlet, et de faire en sorte
+          que, publiées par fragments, elles forment autant d'articles entiers, distincts," mais qui
+          puissent se réunir et faire corps. Par là, nous serons forcés de serrer le style, de le
+          rendre ardent, bref, simple et surtout populaire, quoique noble et châtié; en un mot, je
+          voudrais qu'à l'exemple de Timon ou de Paul-Louis, nous pussions nous passer des autres et
+          nous faire rechercher pour nous-mêmes.</p>
+        <p>Je suis dans la liquidation et dans le déblayage de nos affaires; j'espère en être
+          débarrassé pour le mois de septembre. Mon associé L*** a été retrouvé au bout de
+          trente-trois jours, mort dans un bois à deux lieues de Besançon.</p>
+        <p>J'ai passé le pont aux ânes ; je suis bachelier. J'ai déjà rédigé un Mémoire pour
+          l'Académie, le plus bref que j'ai pu, et en style de pétition. M. Pérennès, qui tient à
+          mon élection, m'a rendu ma pièce après en avoir pris lecture, pour me faire changer cette
+          phrase :</p>
+        <p>« Né et élevé dans la classe ouvrière, lui appartenant encore, aujourd'hui et à toujours,
+          par le coeur, le génie, les habitudes, et surtout par la communauté des intérêts et des
+          voeux, la plus grande joie du candidat, s'il réunissait vos suffrages, serait, n'en doutez
+          pas, Messieurs, d'avoir attiré dans sa personne votre juste sollicitude sur cette
+          intéressante portion de la société, si bien décorée du nom d'ouvrière, d'avoir été jugé
+          digne d'en être le premier représentant auprès de vous; et de pouvoir désormais travailler
+          sans relâche, par la philosophie et la science, avec toute l'énergie de sa volonté et
+          toutes les puissances de son esprit, à l'affranchissement complet de ses frères et
+          compagnons. »</p>
+        <p>Il ne m'a rien reproché sur le reste, seulement il désire que je raconte les détails de
+          ma vie, ce qui me répugné fort; mais quant au passage que je vous ai rapporté, tout lui en
+          paraît mauvais. Je lui rendrai l'équivalent, mais en termes qui ne le choqueront plus.</p>
+        <p>Je disais à Dessirier qu'un candidat s'était retiré; tout au contraire, les concurrents
+          abondent, de trèshuppés, et très-fortement recommandés. L'un est fils de M. Duvernoy,
+          associé correspondant de l'Académie ; l'autre, ce qui est assez plaisant, est appuyé par
+          mon parent Proudhon, de Dijon. Je n'irai voir et solliciter personne</p>
+        <p>Envoyez-vous votre discours à l'Académie? Vous avez jusqu'au 15 du mois; ne perdez point
+          de temps; vous n'auriez pas de concurrent, je crois ; et vous serez bien accueilli.
+          Courage donc.</p>
+        <p>C'est aujourd'hui Pentecôte ; imposerez-vous les mains à quelqu'un? — J'ai ici un
+          excellent catéchumène; le troisième sera difficile à trouver. Notre ville est affreuse et
+          horrible par les mauvaises moeurs et l'anéantissement complet des principes.</p>
+        <closer>
+          <salute>Je vous embrasse de tout mon coeur, vous et Bergmann.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

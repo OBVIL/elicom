@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="17 août 1839." resp="">17 août 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="SUR UNE PAGE D'ALBUM (...-...)">SUR UNE PAGE D'ALBUM</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="17 août 1839."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>17 août 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Sans l'amitié, qu'est-ce que la vie de l'homme? La science dessèche et flétrit; le
+          pouvoir enivre et rend superbe; la dévotion sans charité n'est qu'hypocrisie. Le riche
+          m'est odieux pour son égoïsme; l'amoureux me semble à plaindre dans son indolence ; le
+          voluptueux me dégoûte par sa mollesse. Mais que la divine amitié vienne échauffer nos
+          âmes, et tout prend une face nouvelle, un brillant caractère. Plaisir, amour, pouvoir,
+          richesse, science, religion, l'amitié sait tout agrandir : par elle, tout devient encore
+          plus aimable, plus beau, plus sublime.</p>
+        <p>L'amitié fait pardonner à la fortune, et rend quelquefois digne d'envie le malheur.</p>
+        <p>J'ose m'en vanter, j'ai toujours eu des amis : jamais, à aucune époque de ma vie, mon
+          coeur ne fut vide d'un doux attachement. Et lorsque, pour la première fois, nous nous
+          rencontrâmes, mon cher Maguet, je ne me trompai point, quelque chose me dit que je venais
+          de gagner encore un ami.</p>
+        <p>Suis-je donc heureux ?</p>
+        <p>Non, et à Dieu ne plaise que j'en accuse l'amitié !</p>
+        <p>Mais qui pourrait connaître le bonheur dans un siècle tel que le nôtre? Dans le
+          sanctuaire de la science, au pied des autels, dans les bras de la volupté (1), dans le
+          sein même de l'amitié, le sentiment des misères de l'humanité me poursuit et m'importune.
+          O jeunes hommes généreux, bataillon sacré des amis, une vocation glorieuse est la nôtre :
+          nous avons été prédestinés pour l'extirpation du vice et de la tyrannie. Faillirons-nous à
+          notre mission?</p>
+        <p>Pour moi, j'ai levé ma main vers le ciel et j'en ai fait le serment.</p>
+        <p>Je ne vis plus que pour l'accomplissement de cette oeuvre sacrée et pour l'AMITIÉ.</p>
+        <closer>
+          <salute/>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p> (1) N. B. Qui que vous soyez ami lecteur et sage lectrice, vous êtes prié de ne voir qu'une synecdoque dans ces mots du soussigné.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

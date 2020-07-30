@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838-08-20" resp="author">20 août 1838</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Ackermann, Paul (1812-1846)"
+            ref="https://data.bnf.fr/fr/14487292/paul_ackermann/">Paul Ackermann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838-08-20"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter" part="I">
+        <opener>
+          <dateline>
+            <placeName>Besançon</placeName>
+            <date>20 août 1838.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Ackermann, je diffère chaque jour de vous répondre, parce que je voudrais vous
+          annoncer quelque chose de positif sur ma position vis-à-vis de l'Académie. Il y a une
+          commission composée de six membres ; à l'unanimité, elle a proposé ma nomination à
+          l'Académie. Jeudi prochain, 23, M. Pérennès lira son rapport. Il y a sept candidats qui se
+          remuent et s'agitent; on conte des choses incroyables. Comme je parais le plus redoutable,
+          c'est contre moi que les efforts de l'opposition académique se réunissent. L'un dit que je
+          suis trop vieux, l'autre que j'ai un établissement industriel; partant que je suis assez
+          savant comme cela. Celui-ci prétend que je suis protestant; protestant, vous êtes honnête,
+          réplique un quatrième; c'est un homme sans religion. On a voulu insinuer que je n'étais
+          pas l'auteur de l'Essai de grammaire générale, que quelqu'un me l'avait fait pour
+          m'obliger. Cela m'a donné un mouvement de vanité, en me faisant penser que ma brochure
+          valait donc quelque chose, puisqu'on s'avisait de m'en disputer la paternité. Le seul qui,
+          à travers toutes les objections élevées contre ma candidature, se soit un peu approché de
+          la vérité, est un gros et grand médecin, à face de fermier, coco à 36 carats, qui a assuré
+          que j'étais dénué de toute instruction et de tous moyens, et que je n'offrais aucune
+          valeur morale. Quant à la science, c'est vrai, puisque je prie qu'on m'accorde les moyens
+          d'en acquérir; quant à la morale, c'est vrai aussi, puisque je n'ai pas le sou. En somme,
+          je compte pour moi ce qu'il y a de plus distingué et de plus influent; les croûtons seuls
+          sont contre. Jugez : M. Flajoulot, M. Guillaume, M. Bourgon, l'historien, M. Marmotte
+          probablement, et d'autres noms plus ou moins obscurs ou ridicules, voilà ce qui
+          conspire.</p>
+        <p>Je vous félicite de votre mise en liberté ; cependant il me tarde de vous savoir casé
+          quelque part. J'ai écrit aujourd'hui à M. l'abbé Dartois, qui a dû, de son côté, répondre
+          à votre paquet; vous ne m'en avez rien dit. J'ai eu tout lieu d'être satisfait de son
+          hospitalité ; je l'ai trouvé supérieur à sa réputation. Je vous remercie de m'avoir
+          procuré une si agréable connaissance.</p>
+        <p>M. Guénard m'a confirmé tout ce que vous avait déjà écrit M. Weiss. C'est ce qui me fait
+          encore plus vivement regretter que vous n'ayez pas davantage déféré à mes remontrances.
+          Rien à redire à votre ouvrage, au contraire; si ce n'est qu'il n'a que quatre pages. Si
+          vous répugniez si fort à faire du verbiage, ne pouviez-vous arranger votre discours de
+          telle sorte que la partie vraiment importante eût pu en être facilement détachée, comme
+          une amande de sa coque, et former un tout complet et indépendant, que vous auriez pu
+          imprimer.</p>
+        <p>Pourquoi dites-vous que nous ne nous reverrons probablement jamais? Allez-vous passer
+          l'Atlantique ou doubler le Cap? Si vous aimez la capitale de la République française, je
+          pourrai vous y retrouver; car il me prend déjà fantaisie d'y faire un tour. J'ai mis en
+          vente l'imprimerie; les intérêts de mes coïntéressés me le commandaient; et je ne voudrais
+          pas avoir à me reprocher le plus petit grain d'ambition. Tout ce que je désire maintenant,
+          c'est de trouver un acheteur. Cette boutique une fois passée en d'autres mains, les quatre
+          vents me portent à Paris.</p>
+        <p>Je vous trouve triste et mélancolique dans votre style ; je vois que vous n'êtes pas
+          heureux. Pardieu! mon ami, attendez-vous à ne l'être jamais. Ce n'est pas au bout de la
+          ligne que nous suivons que se rencontre le bonheur; des sacrifices, des souffrances, des
+          dégoûts insurmontables; les délaissements, le désespoir, hoec est pars calicis nostri.
+          J'ai écrit ces jours derniers à mon ancienne maîtresse, en ce moment à Lucerne; elle se
+          meurt d'ennui, et peut-être d'amour ; elle me demandait des consolations. « Considérez,
+          lui disais-je, ce qui se passe autour de vous ; n'êtes-vous pas douce, chaste, laborieuse,
+          honnête? D'où vient que vous avez à peine de quoi vivre, tandis qu'une foule de
+          prostituées étalent un luxe effronté? Je vais vous expliquer ce mystère. Dieu a voulu que
+          lorsque le mal et le vice seraient arrivés au comble parmi les hommes, ce fussent les bons
+          qui en pâtissent les premiers, afin qu'ils se réveillassent et s'opposassent au
+          débordement prêt à les engloutir. Il y a cent mille jeunes gens en France, qui, comme moi,
+          ont juré de remplir cette sainte mission ; et tôt ou tard ils sauront vaincre ou mourir.
+          C'est aux hommes courageux à combattre de la tête et du bras; mais vous, pauvre fille,
+          priez Dieu qu'il nous donne l'intelligence et l'audace, qu'il bénisse notre ardeur, et
+          fasse triompher sa cause. » Que pensez-vous que sente pour un amant une jeune personne à
+          qui l'on parle de ce style? Je réponds à vos confidences.</p></div>
+      <div type="letter" part="M">
+        <p>22 août. Tout ce qu'il y a de dévots, de tètes bigotes et de prêtres dans l'Académie est
+          opposé à mon élection.— Véritablement ce jeune homme a de l'esprit; mais c'est une tête
+          chaude. — C'est un esprit fort, dit un autre. — Le vieux père Clerc, après avoir pleuré à
+          la lecture de mon mémoire, a fini par dire : Ce gaillard là doit faire un fort mauvais
+          coucheur. Et j'ai perdu sa voix et celle de son fils Edouard. Si j'étais aussi suspect de
+          républicanisme que je le suis d'indépendance religieuse, je ne réunirais pas trois
+          suffrages. Mes concurrents se flattent hautement d'obtenir la pension. Pour moi, j'ai déjà
+          un avantage qu'on ne saurait m'enlever. Si je suis éconduit par la majorité, je serai
+          victime de ma profession de foi politique et religieuse, et martyr de mes opinions; si je
+          suis élu, il sera beau de l'avoir été malgré ces mêmes opinions. Dans l'un et l'autre cas,
+          je serai digne de vous.</p>
+        <p>J'apprends aussi qu'on exigerait mon départ pour Paris; ce que l'on veut du pensionnaire,
+          ce n'est pas seulement qu'il devienne un savent, mais qu'il acquière une belle position
+          dans le monde. Il y a loin de ces idées à celles d'un égalitaire. ;</p></div>
+      <div type="letter" part="F">
+        <p>23 août. Je reçois trois visites en même temps à mon atelier. J'ai obtenu, au premier
+          tour de scrutin, 19 voix contre 14. Je compte assez sur l'amitié et l'estime des frères P.
+          d. p. pour oser espérer qu'ils regarderont ma nomination comme un triomphe à Philadelphie.
+          Faites des voeux pour que ma fragilité humaine reste fidèle à ses serments et à ses
+          convictions, et ne se laisse point offusquer par un vain succès d'amour-propre. Je vous
+          écris sous le coup de la bonne nouvelle, et cependant toujours préoccupé de nos affaires.
+          Hoc opus, hic labor est.</p>
+        <p>Aidez-moi de vos conseils, de vos lumières, de votre estime; échauffez, excitez mon
+          ardeur; montrons-nous incorruptibles et inébranlables, et mourons ou triomphons
+          ensemble.</p>
+        <closer>
+          <salute>A une autre fois; je vous embrasse,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

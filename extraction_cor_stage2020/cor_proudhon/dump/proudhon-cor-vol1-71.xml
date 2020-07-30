@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-01-10" resp="author">10 janvier 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Guillemin, Monsieur (...-...)">Monsieur Guillemin</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-01-10"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>10 janvier 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur Guillemin, depuis ma lettre à Micaud, lettre par laquelle je le priais de me
+          faire cette petite avance, j'ai reçu de singulières nouvelles de l'Académie. On s'est
+          enflammé de nouveau d'un beau zèle contre moi, et ce que l'on me fait craindre est tout
+          justement ce qui m'a empêché, mon cher monsieur Guillemin, de vous assigner un jour fixe
+          de remboursement. Je ne mourrai pas de cette vilenie académique ; mais j'en éprouverai un
+          peu d'embarras. Comptant sur mon dernier semestre comme sur les précédents, je m'étais
+          arrangé en conséquence pour travailler encore six mois au moins à mes uniques affaires de
+          philosophie et de Droit; j'avais même refusé la proposition qui m'avait été faite d'un
+          travail littéraire pour le compte d'un homme qui veut devenir auteur, et qui n'en a pas le
+          temps ; mais la lettre de M. Pérennès et ses sinistres révélations m'ont fait changer
+          d'avis. J'ai dîné hier et avant-hier avec un juge du tribunal de la Seine, qui a besoin
+          d'une espèce de collaborateur pour un ouvrage sur la prison préventive, et il est à peu
+          près convenu que j'irai demeurer chez lui, que je mangerai avec lui le plus souvent, et
+          qu'il me donnera 150 francs par mois pour mes compilations et mes recherches. C'est un
+          homme d'esprit, mais point du tout raisonneur ni métaphysicien ; il destine son livre
+          surtout au grand monde ; mais, comme il y voudrait, avec les grâces légères, une teinte de
+          philosophie et de profondeur, il lui faut un philosophe qui pense pour lui. Il a
+          connaissance de mes idées d'égalité; mais, bien qu'il m'ait déclaré qu'il était opposé à
+          toute idée d'égalité et qu'il se tuerait si l'égalité devait être établie, il ne s'effraie
+          pas de mes principes et conçoit parfaitement qu'un honnête homme puisse soutenir ma thèse.
+          Du reste, c'est un esprit indépendant, libéral et probe. La conduite de l'Académie envers
+          moi l'a révolté, et il m'a exprimé tout le mépris qu'elle lui inspirait. Il croit que je
+          n'ai rien à espérer.</p>
+        <p>J'ai répondu à l'Académie, comme je suppose qu'elle le désire, j'entends pour la formé
+          seulement; car je suis sûr qu'on ne se soucie pas plus de me voir changer d'idées que de
+          savoir que je persiste. Ce qu'on veut, c'est une spoliation brutale et une flétrissure.
+          L'exemple des tribunaux de la Seine a donné du courage à nos quarante ; ils ont senti
+          combien il serait honteux pour eux de rester en arrière en présence de si beaux exemples.
+          J'ai quelque lieu de soupçonner que M. Tourangin, qui, au mois d'août dernier, m'était
+          favorable, aura changé d'opinion. Nous avions alors pour ministre M. Thiers, et nous avons
+          aujourd'hui Guizot : cela fait une différence. Puis, la cabale est excitée par les
+          partisans de mon concurrent de 1838, par un abbé Péhernot, etc. Je sais que ce jeune
+          homme, actuellement à Paris, compte sur la pension, non pour le mois d'août, mais pour le
+          mois de mars prochain. Quoi qu'il arrive, je suis en mesure, et l'Académie ne me prendra
+          pas au dépourvu. Tout en me tenant dans les termes les plus respectueux, j'ai fait ma
+          défense de manière à pouvoir l'imprimer et à la soumettre au jugement du public ; c'est un
+          pamphlet plutôt qu'une lettre de confidences. J'y joindrai deux autres pièces pour édifier
+          les curieux. Vous sentez que, si j'eusse après condamnation écrit un factum plein de fiel
+          et de colère, cela n'eût rien valu du tout, tandis que ma défense, textuellement publiée,
+          est une pièce irréprochable. Nous verrons donc qui sortira d'ici le plus maltraité, de
+          l'Académie ou de moi. C'est le 15 du courant que l'affaire doit être vidée; je vous serais
+          donc obligé de dire à Micaud de me prévenir dès le jour même par un billet qu'il
+          remettrait à Huguenet, à l'imprimerie, celui-ci ayant à m'écrire en même temps. J'enverrai
+          aussitôt la copie de mes lettres, et on les imprimerait sur-le-champ, pour les répandre
+          gratis. Je ne suis pas d'humeur à me laisser déshonorer sans rien dire.</p>
+        <p>Au milieu de tout cela, je me vois forcé de différer la réimpression de mon livre que
+          tout le monde semble avoir désigné à l'animadversion du parquet. Il n'y a pas jusqu'à ce
+          cagot repenti de Lamennais qui, pour se défendre, ne m'ait dénoncé d'une manière
+          indirecte. Je me propose de lui en témoigner incessamment ma reconnaissance d'une façon
+          qui fera baisser un peu sa gloire.</p>
+        <p>Pour préparer les voies à une seconde édition, je vais commencer par publier une lettre
+          critique sur les théories nouvelles de la Propriété, lettre qui devait d'abord entrer dans
+          le volume, mais qui paraîtra à part, pour apprivoiser le parquet. Mon juge m'a déclaré
+          qu'aujourd'hui, le jury étant en train de sévir, je serais sûr d'aller en prison si je
+          réimprimais mon ouvrage. Nous allons donc prendre un biais, et, puisque nous ne pouvons
+          passer par la porte, nous tâcherons d'escalader la fenêtre.</p>
+        <p>Je vous demande pardon de vous parler si longtemps de mes affaires; mais, depuis que vous
+          êtes pour la seconde fois mon créancier, elles vous touchent nécessairement, et j'ai tout
+          le monde contre moi. Ma Propriété a fait ici du vacarme ; il pleut des Défenses du droit
+          de propriété qui sont à mourir de rire; je vous en donnerai le divertissement dans ma
+          prochaine brochure, que je compte vous envoyer d'ici à un mois. Il faut frapper ferme,
+          mais en riant ; c'est le seul moyen de ne rien craindre. Je vais donc faire un peu la
+          comédie.</p>
+        <p>Vous savez que le pourvoi de Mme Lafarge a été rejeté. Son défenseur Raspail,
+          l'adversaire d'Orfila, est aujourd'hui un homme coulé dans l'opinion publique ; Orfila l'a
+          convaincu, dans un Mémoire que j'ai lu, plus de quarante ou cinquante fois de mensonges,
+          item de calomnie, item d'ignorance des faits du procès, item d'ignorance en chimie. Le
+          bruit court ici, et une personne de Limoges qui se prétend bien informée l'a affirmé à
+          quelqu'un de ma connaissance, que la Lafarge était grosse. C'est comme la duchesse de
+          Berri. Ne dites pas cela à Micaud. Ce qui est sûr, et tout le monde le sait à Paris, c'est
+          qu'étant jeune fille elle avait des rendez-vous galants. Fiez-vous aux têtes
+          romantiques.</p>
+        <p>Je ne sais pas si l'on croit à Besançon à la guerre, à la révolution, etc. Ici l'on ne
+          croit plus à rien, et l'on agit en conséquence. On danse, on jouit, on fait l'amour. J'ai
+          exprimé à Micaud dans deux lettres que je ne croyais plus à la proximité d'un changement
+          dans l'ordre des choses; j'ai bien peur qu'il n'ait pris cela pour une approbation du
+          système actuel et pour une espèce de rétractation de mes pensées. Juger le présent et
+          l'avenir est très-différent d'approuver ou de blâmer. Je pense donc, en somme, que la
+          France est déchue, qu'elle glisse doucement sur la pente de sa déchéance, que personne n'a
+          la volonté de remédier au mal, et que les moyens de salut du National, la dictature, la
+          violence, la guerre, sont faits pour nous achever. Placés entre des Marrast et des
+          Girardin, divisés en une classe bourgeoise supérieure, corrompue et épicurienne, et des
+          masses quasi-lettrées, tout est danger, tout est germe de mort pour nous. Si une guerre
+          avec l'Europe éclatait, nul doute que l'issue n'en fût la ruine et le démembrement de la
+          France. L'Alsace rentrerait dans la Confédération germanique ; les Pays-Bas retourneraient
+          à la Hollande ou à la Belgique ; la Franche-Comté formerait un canton suisse, et nous
+          laisserions faire, mon cher monsieur Guillemin. Quand les opinions sont divisées et que
+          les intérêts en dépendent, il doit arriver que les uns ne veulent point pâtir des conseils
+          des autres, et c'est ce qui déterminerait promptement la résignation d'une partie du
+          peuple.</p>
+        <p>Appréciant les choses de ce point de vue, que puis-je espérer, direz-vous, de ma
+          philosophie? Je tâche d'abord de dire vrai ; peut-être en restera-t-il quelque chose.</p>
+        <closer>
+          <salute>Bonjour, monsieur Guillemin.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

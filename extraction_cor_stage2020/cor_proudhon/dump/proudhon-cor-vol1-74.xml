@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-02-14" resp="author">14 février 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-02-14"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>14 février 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, je vous avais promis, du moins mon amitié me le fait croire, de vous
+          écrire un peu plus que je ne fais; et cependant vous avez bien quelque raison de penser
+          que les affaires seules ont le pouvoir de me rappeler à votre souvenir. Au lieu de
+          m'excuser avec vous, je vous dirai simplement que, si je voulais n'être en retard avec
+          personne, la moitié de ma vie se passerait à écrire. Au point où nous en sommes, croyez-en
+          donc plus mes paroles que mon exactitude ; c'est la seule explication qui soit entre nous
+          raisonnable et permise.</p>
+        <p>Comme le temps approche où je vous devrai les intérêts de votre capital d'imprimerie, il
+          est nécessaire que je vous prévienne du nouvel arrangement que nous avons projeté de
+          faire, M. Vieux et moi, et dans lequel vous êtes intéressé. M. Vieux, placé à Arcier,
+          désire sortir de l'association qu'il avait contractée, et remettre la part du capital
+          social, qu'il avait acquise de vous, conjointement avec moi. Depuis longtemps il m'avait
+          prévenu qu'il n'avait pas le sou, qu'il ne pourrait payer même les intérêts de ce qu'il
+          vous doit ; qu'il abandonnerait tout, que vous feriez ce qu'il vous plairait. Dans cet
+          état de choses, j'ai cru devoir lui proposer de me céder sa part d'acquisition, sauf à lui
+          de payer encore cette année les intérêts échus à son compte ; il a accepté avec
+          empressement, annonçant toutefois qu'il emprunterait les fonds nécessaires.</p>
+        <p>Or, comme je pense, mon cher ex-associé, que vous devez me trouver moins solide tout seul
+          que réuni à M. Vieux, et que cette mutation de propriété peut vous très-peu sourire, je
+          désirerais vous faire bien comprendre la nécessité et peut-être l'utilité pour vous de
+          donner les mains à la décharge de l'un de vos débiteurs sur l'autre.</p>
+        <p>M. Vieux n'a pas plus de fortune que moi-même, vous le savez, n'ayant sous le soleil que
+          ses appointements, disposé à se laisser poursuivre et exproprier par vous, plutôt que de
+          conserver une propriété onéreuse. Ce serait tôt ou tard un débiteur plus coûteux
+          qu'accommodant.</p>
+        <p>Quant à moi, si jepuis vous promettre de remboursement pour cette année, du moins j'ai la
+          certitude de satisfaire aux intérêts de 1841 et de 42; avant de quitter Paris et de sortir
+          des mains de l'Académie, ces intérêts auront été gagnés. Ma position nouvelle, de
+          collaborateur d'un magistrat de Paris pour un ouvrage de législation , me permet de vous
+          donner cette assurance. Puis, l'espoir légitime de toucher quelque chose de mes propres
+          écrits, aujourd'hui très-recherchés, confirme à cet égard mes prévisions. Ainsi, j'aurais,
+          sauf votre bon plaisir , deux ans entiers, 1841 et 1842, pour aviser aux moyens de me
+          décharger, soit de l'imprimerie, soit de mes obligations. Voilà, mon cher exassocié, sur
+          quelles bases nouvelles je fonde mes calculs.</p>
+        <p>Vous me connaissez suffisamment ; le désir de satisfaire mes créanciers me tourmente plus
+          que le soin de ma propre subsistance ; je fais tout ce que je peux, j'espère encore vous
+          payer intégralement, et tout au moins de ne pas laisser détériorer la propriété. Dans un
+          an vous serez affranchi, grâce à ma persévérance, de la solidarité d'un loyer onéreux; je
+          compte sur l'influence de ces considérations pour vous déterminer à soutenir votre
+          confiance en ma moralité et en mes efforts. Pour donner plus de stabilité à ma petite
+          industrie, je. me suis associé définitivement Huguenet, non pour la propriété de la chose,
+          il n'a pas d'argent, mais pour le travail et les bénéfices, s'il y en a jamais.</p>
+        <p>Je chargerai Huguenet de vous payer, fin mars prochain, les intérêts des 3,000 et des 100
+          francs que je vous dois.</p>
+        <closer>
+          <salute>Je vous prie, mon cher ex-associé, de croire toujours à mon amitié bien sincère et
+            de me faire part de vos observations , si vous en avez d'essentielles à me
+            soumettre.<lb/> Je vous souhaite bonjour et bon an.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

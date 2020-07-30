@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-06-23" resp="author">23 juin 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-06-23"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>23 juin 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, n'ayant pas d'occasion, je suis obligé de vous adresser encore cette
+          lettre par la poste. Pourrais-je enfin obtenir une réponse sur l'objet qui en ce moment
+          m'intéresse le plus? Avez-vous reçu mon Mémoire par M. Sainte-Agathe, car vous ne m'en
+          dites rien, et il ne me paraît pas que vous répondiez à la lettre qui l'accompagnait. J'ai
+          donc sujet de craindre qu'il ait été égaré par le garçon d'hôtel à qui je l'ai remis pour
+          M. Sainte-Agathe, avec une suscription à votre adresse ; il faut absolument qu'aussitôt la
+          présente reçue, vous preniez la peine de me répondre et de me rassurer à cet égard. Je
+          suis obligé d'écrire à l'Académie de Besançon dans la semaine; je ne le veux faire qu'en
+          conséquence de ce que vous m'apprendrez. Ainsi point de retard à votre lettre; si M.
+          Sainte-Agathe ne vous a rien remis, voyez-le, et demandez-lui s'il n'a rien reçu de ma
+          part à l'hôtel Rossignol; auquel cas je ferais des recherches pour retrouver ce que je
+          crois maintenant perdu. Cela m'importe à savoir; encore une fois, ne me faites point
+          attendre.</p>
+        <p>Je ne suis point étonné que nos affaires aillent si mal; c'est bien pis à Paris. Foucaut
+          m'a dit avant-hier, qu'il était plus que jamais question de fermer tout à fait
+          l'imprimerie Everat; les efforts que l'on fait pour soutenir cette immense machine ne sont
+          que des palliatifs. L'imprimerie de Casimir s'est vendue ces jours-ci; les caractères à 15
+          centimes la livre, un cicéro neuf, encore en caisse, à 7 sous la livre, et le reste en
+          proportion. Au 20 juin il y avait eu quatre-vingts faillites dans la capitale, depuis le
+          1er du mois. M. Gaume sa chargerait peut-être du manuscrit dont je vous ai parlé ; mais il
+          lui faudrait du temps pour examiner l'ouvrage, se consulter, traiter avec l'auteur; après
+          quoi, n'y prenant part que comme imprimeurs, nous n'y gagnerions pas grand'- chose. Si M.
+          Bailly avait voulu s'en charger, j'aurais fait de mon côté quelque avance de fonds; M.
+          ParentDesbarres me promet la publicité de sa Revue périodique et ses quatre voyageurs; on
+          aurait pu gagner quelque chose, et plus tard faire son bénéfice avec M. Simon de
+          Latreiche. Si je disposais de 3,000 francs en ce moment, je n'hésiterais pas à
+          entreprendre cette publication, et je ferais partir d'ici une fonte de petitromain. Mais
+          comme vous savez, pour gagner de l'argent, il faut en avoir déjà; ainsi laissons ces
+          spéculations de côté, et prenons vigoureusement le parti qu'en ce moment la nécessité nous
+          impose.</p>
+        <p>S'il est vrai, comme il me le parait par votre lettre, que la diminution du loyer d'en
+          haut nous suffise, je me charge de ce loyer; pouvez-vous, moyennant cette décharge, vous
+          soutenir jusqu'au mois de septembre? A cette époque, j'irai à Besançon et je fermerai
+          l'atelier. Je vous prierais seulement d'ici là, de chercher dans quelque coin de la ville,
+          écarté, une remise ou un hangar, sûr et fermant bien, où nous pourrions transporter tout
+          le bagage de l'imprimerie. Je suis résolu de laisser en calence tout ce mobilier, jusqu'à
+          ce que je trouve à le vendre sans subir une aussi grande perte, ou qu'il se présente à moi
+          un associé bien fondé, ou enfin que je puisse recommencer par moi-même à imprimer. Pour le
+          présent, je ne puis être à l'étude et aux affaires. Cela mine ma santé et me rend
+          incapable de rien produire. Il me faut, à tout prix, du repos; perdre n'est rien pour moi,
+          mais le souci m'est mortel. Un jour, mon cher Huguenet, nous pourrons nous rejoindre,et
+          moi, vous prouver tout le cas que je fais de vous, et combien j'ai été touché de votre
+          dévouement, quand vous avez cru pouvoir marcher sans moi. Le temps viendra peut-être ou je
+          dicterai des lois aux libraires tout comme aujourd'hui je suis à leur merci. Il est
+          étrange, en effet, que tous les jours je fournisse de la copie à un imprimeur, et que je
+          ne puisse m'en procurer à moi-même. Cela est pourtant. Je vais vendre mou Mémoire adressé
+          à l'Institut, 30 francs la feuille, à un journal grammatical; plus 25 exemplaires qui
+          seront tirés à part. Il y aura au moins 10 francs. Je broche tous les jours pour
+          Parent-Desbarres des articles à 70 francs la feuille; elle en comprend au moins trois
+          ordinaires. Mon Mémoire sur le Dimanche, je me croirais trop heureux de trouver un
+          libraire qui s'en chargât pour rien. Après cela, si j'obtiens du succès, si je suis
+          remarqué, nous verrons. Je n'ai pas tout dit encore, et il reste de l'encre dans mon
+          écritoire,</p>
+        <p>Ainsi donc : 1° Au mois de septembre, fermeture et déménagement; j'en écrirai bientôt à
+          Mme L*** pour l'avertir de se pourvoir.</p>
+        <p>2° Comme la cessation du travail ne peut manquer de vous faire perdre la clientèle
+          militaire, faites à M. Bailly l'offre de nos impressions, et de nos tableaux composés.
+          Cela ne peut être de trop dans l'imprimerie qu'il vient d'acquérir ni embarrasser son
+          commerce. Dites que je renonce à cette partie.</p>
+        <p>3° Songez à vous-même dans les deux mois qui nous restent. M. Chalandre va donner une
+          grande extension à sa maison, précisément vers la même époque; vous pouvez être accueilli
+          de lui avec empressement.</p>
+        <p>4° Ne tirez rien à grand nombre d'ici là, et agissez en tout comme des gens qui font les
+          préparatifs do leur enterrement. Pour moi, ne vous mettez pas en peine; je calcule que je
+          dois 10 à 11,000 francs, et que j'ai pour tout cela entre les mains une valeur d'environ
+          6,000. Je me trouverai devoir 4 à 5,000 francs sans avoir ni bu ni mangé. Celafait rien.
+          Les hommes qui n'ont de valeur que par leurs écus, on conçoit que leur attraper 5 francs
+          c'est leur tirer une once de sang ; pour moi, je ne suis pas de cette catégorie. Tant que
+          je suis sain de corps et d'esprit, et libre, je suis tout moimême. Quant au journal dont
+          vous me parlez, comme je n'ai pas sur quoi baser ma décision, je ne puis qu'en référer à
+          vous-même. Traitez à tout prix; nous aurons le plaisir de jouer un pied-de-nez à l'auteur
+          quand il viendra pour se faire imprimer.</p>
+        <p>Renouvelez à M. Bailly toutes propositions d'acheter tout ou partie, d'imprimer l'ouvrage
+          en question, de prendre les impressions militaires, etc., etc., et répondez-moi si, aux
+          conditions que j'ai acceptées sur votre proposition, vous consentez à suivre les
+          opérations de l'atelier pendant encore deux à trois mois. N'allez pas attribuer ma
+          résolution à impatience ou désespoir; c'est avec calme et sang-froid que je l'ai prise.
+          Vous semblez croire, mon cher Huguenet, qu'en vous resserrant de ' 230 francs sur le
+          loyer, vous pourriez vous en tirer; s'il ne faut plus que cela pour vous faire vivre, vous
+          êtes déjà mort. .Au reste, je ne crois pas même que cette économie soit praticable. Où
+          loger tout ce qui est au magasin? Et quand Mme L*** sera partie, qui gardera l'atelier?
+          Qui répondra quand vous n'y êtes pas? A défaut d'elle, je croirais indispensable de
+          confier ce soin à une autre personne, ainsi nous n'avancerions rien. Quand on est réduit à
+          de telles misères, il ne faut plus se faire illusion. Vous êtes averti maintenant, vous ;
+          Mme L*** le sera sous peu. En attendant, gardez le silence sur toutes ces choses autant
+          qu'il vous sera possible en faisant des propositions à M. Bailly.</p>
+        <p>Ce que je fais est nécessaire en ce moment à Besançon : c'est le fruit de l'excès de
+          développement qu'avait pris notre industrie. Voilà quatre imprimeries à peu près réduites
+          à zéro : Gauthier, Marquiset, Gomet et Mutassolo. La justice de Dieu s'exécute;
+          malheureusement il y a des innocents qui en souffrent. Vous êtes du nombre et moi aussi.
+          D'autres ont trouvé pis.</p>
+        <p>Je sais que M. Proudhon s'est irrité contre moi de mon obstination à ne pas vendre ;
+          comme si cela se faisait aussi vite qu'il l'imagine. Il m'accuse d'être un homme peu franc
+          qui dit et contredit. Je suis fâché de cette brouille, mais uniquement pour lui. Car,
+          quant à moi, je ne regretterai jamais une amitié qui tient à si peu de chose, et une
+          estime qui se détruit sur des apparences. J'ai trouvé ici des gens qui disaient comme M.
+          Proudhon, que si j'avais des embarras c'était ma faute, et qu'il ne fallait pas m'en
+          plaindre. Si je faisais à de pareils esprits l'honneur de leur répondre, ce serait pour
+          les remettre à leur place, et non pour me justifier. Ma conscience est au-dessus du
+          jugement des sots. Conservez-moi votre amitié, vous, mon cher Huguenet ; elle m'est plus
+          précieuse que celle de personnages bien plus haut placés que vous. Vous m'avez vu de près,
+          et vous savez par quel côté j'estime un homme. Comptez que mes principes ne varient pas,
+          que mes discours ne changent point, et que ma conduite est inflexible. Je serai
+          très-malheureux par cette manière d'être ou bien j'irai loin. Lequel des deux? L'avenir le
+          sait.</p>
+        <p>Je travaille à prendre le grade de licencié ès-lettres ; il faut que l'année prochaine je
+          sois quelque part professeur ; nous verrons ensuite.</p>
+        <p>Donnez-moi encore des nouvelles détaillées, surtout sur ce que vous présumez, etc. Je
+          vous avais demandé des renseignements sur une matière que vous semblez avoir trouvé trop
+          délicate pour y répondre : je n'ai pas reconnu là votre franchise accoutumée. Vous
+          défiezvous de moi; craignez-vous qu'après avoir été informé par vous, mon opinion ne
+          fléchisse et que je ne vous en veuille? Ah! mon cher Huguenet, vous ne me faites pas
+          l'honneur de me croire un homme.</p>
+        <closer>
+          <salute>Adieu; j'attends votre réponse; ne me tenez pas en suspens. Agissez avec prudence
+            et mesure. Travaillez, si vous le pouvez; dans deux mois vous êtes libre, et vous
+            pourrez vous attacher à une fortune plus solide.<lb/>Je vous souhaite le
+            bonjour,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

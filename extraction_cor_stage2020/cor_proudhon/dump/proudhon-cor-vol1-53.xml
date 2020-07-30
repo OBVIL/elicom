@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1810-03-04" resp="author">4 mars 1810.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1810-03-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>4 mars 1810.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, vos deux dernières lettres m'ont fait beaucoup de plaisir, surtout
+          celle du 14 février, où vous me marquez si cordialement la part que vous prenez à tout ce
+          qui me touche. Mais je voudrais que vous fussiez un peu plus satisfait du commerce et des
+          commerçants; car, entre nous, vous mériteriez de faire fortune par la plus mauvaise voie
+          qu'on puisse prendre pour cela, quoi qu'on dise; j'entends par là, l'honnêteté et la
+          loyauté. Mon cher ex-associé, vous vous fâchez contre votre étoile : prenez-vous-en plutôt
+          à votre probité, dont je vous vois une franche dupe.</p>
+        <p>Vous me faites des compliments sur ma nouvelle position ; ils sont encore prématurés. Je
+          suis sûr de faire un travail très-bon on soi pour mon embaucheur, mais il n'est pas aussi
+          sûr que je réussisse à le lui faire accepter, ce qui au reste ne m'épouvante guère, car je
+          tirerais plus d'argent en exploitant l'ouvrage, que je n'en recevrais pour ma
+          collaboration. Mais l'argent est la moindre chose : pendant que je travaille à la gloire
+          d'autrui, mes affaires personnelles restent là, et vous savez que l'occasion doit être
+          saisie au bon moment, parce qu'elle est irréparable : voilà ce qui me tracasse.</p>
+        <p>Je vous sais gré d'avoir terminé promptement l'affaire avec Vieux, non que j'y trouve
+          plus de profit que vous, mais c'est qu'en vérité le bon sens vous disait que vous ne
+          pouviez faire autrement. Ce garçon-là est trop artiste pour convenir dans les affaires :
+          il lui faudrait repos, chasse, promenade, musique, belle nature et jolie femme. Il
+          s'impatientait de voir que je n'étais pas un esprit prodigue, un intrigant exploitant mon
+          titre de pensionnaire par des flagorneries à tout venant : cela ne pouvait me convenir. Je
+          n'aime pas plus les glorieux qui voudraient devenir riches sans travail, que les
+          littérateurs qui veulent être éloquents et profonds sans études. Vieux et sa famille
+          étaient fatigués de l'imprimerie et de moi, avant d'avoir rien entrepris : je voudrais
+          pouvoir prospérer maintenant, uniquement pour leur causer du regret. Beaucoup de gens sont
+          surpris que je ne sois pas encore coulé à fond, bien que j'aie déjà duré plus longtemps
+          que la société L*** et Ce, tant on est accoutumé à ne vouloir que des entreprises toutes
+          roulantes, et toutes de profit. Peut-être qu'après m'avoir beaucoup plaint, beaucoup
+          blâmé, on finira par me louer outre mesure de ma persévérance. J'espère, mon cher
+          ex-associé, que vous ne serez jamais du nombre de ces sots. Écraser l'infortune et
+          applaudir au succès n'est pas, je le sais, votre philosophie.</p>
+        <p>Huguenet vous soldera pour moi fin courant les intérêts dont vous lui remettrez la note;
+          j'ai déjà un mois d'appointements échus, mais je ne sais s'il faudra que j'aille tendre la
+          demi-aune. Ça m'ennuierait.</p>
+        <p>J'achève en ce moment de transcrire mon Apologie; c'est un nouvel écrit qui fait suite à
+          la Propriété. Un libraire m'offre do le tirer à 2,000 et de me donner 25 cent, par
+          exemplaire à fur et mesure de la vente : je veux quelque chose de plus précis que ce terme
+          qui ne signifie rien. Chose singulière ! mon discours sur le Dimanche que j'ai eu peine à
+          laisser réimprimer à ce même libraire, dans la crainte qu'il ne pût le débiter, s'en va
+          comme pain bénit : en six jours 500 exemplaires étaient enlevés. J'en suis bien aise pour
+          le libraire, car pour moi, j'avais renoncé à mes droits.</p>
+        <p>Aussitôt mon Apologie publiée, je réimprime la Propriété, ce que je n'ai tant retardé de
+          faire que par prudence et par un sage calcul. Les deux Mémoires réunis se soutiendront et
+          s'expliqueront l'un l'autre, de sorte que je n'aurai plus rien à craindre à l'avenir.</p>
+        <p>Voilà où j'en suis pour le moment : du reste je travaille beaucoup, et je voudrais déjà
+          aller faire un tour pour Pâques. Mais ce sera retardé jusqu'au mois d'août.</p>
+        <p>Sans l'Académie, je ne serais pas mercenaire ; quelque profit que j'y puisse trouver,
+          cela ne me va guère.</p>
+        <p>J'avais reçu avant votre lettre du 14, une lettre de Mme L***, dont je regarde désormais
+          la raison comme désespérée. Si P*** est à Besançon, elle est perdue. Si, au contraire, il
+          n'y est pas encore, je vous prie de joindre vos efforts aux miens, et au besoin de voir,
+          malgré vos répugnances, les J' ** * et les L * ** afin de la sauver de ses folies. Dans ce
+          but, je laisse ouverte la lettre que je lui écris, afin que vous en preniez connaissance:
+          vous la cachetterez après lecture. Rendez ce dernier service à la mémoire de son mari et à
+          ses enfants. Cette femme n'est ni méchante, ni vicieuse, elle a même de bonnes qualités,
+          mais son coeur et ses sens l'égarent; et l'isolement où elle se renferme achève de lui
+          ôter le jugement. Il ne faut rien épargner pour l'empêcher d'accomplir son malheur,
+          dussiez-vous, ainsi que moi, lui déplaire et vous en faire une ennemie. Regardez sa haine
+          aussi bien que sa reconnaissance comme zéro. Mais souvenez-vous que les effets de sa
+          conduite intéressant des tiers, qui sont ses enfants, vous pouvez, ainsi que moi, vous
+          mêler à titre d'ami du défunt de cette déplorable affaire.</p>
+        <p>Mme L*** a refusé déjà des propositions de mariage, à ce qu'elle m'a dit, plus
+          avantageuses que celle de P***, et cela par préférence pour lui; depuis deux ans elle
+          nourrit cette pensée de mariage, qu'on lui ôtera difficilement, et dont je prévois que les
+          suites, de façon ou d'autre, seront désastreuses. J'oserais, si j'étais sur les lieux,
+          faire une opposition très-vive, en soulevant les parents, en éveillant l'amour-propre, et
+          travaillant P *** d'un autre côté ; ce serait prendre bien de l'intérêt, j'en conviens,
+          aux affaires d'autrui; mais ce serait faire une bonne action. Et je crois que L*** eût été
+          capable d'en faire autant.</p>
+        <p>Je vois, à travers vos plaintes, que vous êtes aussi peiné que moi de cette intrigue,
+          c'est pourquoi je fais un appel à votre bonne volonté, et que je viole le secret des
+          lettres, en vous donnant communication de celle ci-jointe. On peut être quelquefois
+          perfide pour produire le bien.</p>
+        <closer>
+          <salute>Je vous quitte pour aujourd'hui ; dans un mois au plus tard, vous recevrez mon
+            imprimé.<lb/>Adieu.<lb/>Votre dévoué et fidèle ex-collègue,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-06-23" resp="author">23 juin 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-06-23"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>23 juin 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, j'ai remis à M. Duet fils 30 francs, comme vous m'en priez par
+          votre lettre du courant, et comme il vous le dira lui-même. Je vous serais obligé de me
+          faire parvenir cette petite somme, par le plus court chemin; car, ainsi que vous le
+          dites, elle m'est nécessaire en ce moment. M. Parent-Desbarres me doit une centaine de
+          francs, qui ne me rentrent pas de suite, parce qu'il ne paie ses rédacteurs qu'à fur et
+          mesure de l'impression. Je l'ai revu encore aujourd'hui ; il m'avait fait prier de
+          passer chez lui pour me demander si je me chargerais encore de quelques articles do
+          remplissage, en sus de ceux qui sont dans ma spécialité. Malgré tout cela, je vous
+          serais obligé de penser à moi; je désire ne recourir à la bourse de mes amis que le
+          moins qu'il m'est possible.</p>
+        <p>Je reçois une lettre de Vieux, qui est à Rennes dons ce moment; il a fait annoncer la
+          publication dans son catalogue, et ses voyageurs en placent tant qu'ils peuvent. Avant de
+          partir pour Besançon aux vacances prochaines, je le prierai d'insérer un article à ce
+          sujet dans sa revue mensuelle.</p>
+        <p>Je n'ai, depuis votre avant-dernière, aucune nouvelle de l'imprimerie; j'ignore s'il y a
+          des morts ou des ressuscités.</p>
+        <closer>
+          <salute>Je vous salue,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

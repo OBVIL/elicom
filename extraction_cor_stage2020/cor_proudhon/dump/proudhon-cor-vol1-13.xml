@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1838-11-30" resp="author">30 novembre 1838</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1838-11-30"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>30 novembre 1838</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, je crois me rappeler que j'ai pris 15 francs à la caisse, que je n'ai
+          pas marqués; reste 9 francs dont je ne peux plus rendre compte. Je suis persuadé qu'ils
+          ont été employés à quelque usage que je ne me rappelle pas.</p>
+        <p>J'avais mandé en particulier à Mme L*** qu'elle aurait bientôt une collaboratrice; il
+          n'en sera rien. M. Foucaut, qui paraissait décidé pour la troisième fois à entrer en
+          société, pour la troisième fois s'est dégoûté : il a peur. Un parent, qui se propose de
+          lui faire des avances considérables (15 à 20,000 francs), exige que la maison à laquelle
+          il s'associera soit en bon train de prospérité; il ne songe pas que quand cela sera, je ne
+          chercherai plus d'associé. Cette tentative sera la dernière : je serai seul, seul avec
+          vous, j'y suis bien résolu. Mme L*** qui. à cette nouvelle, a pris l'alarme, comme je m'y
+          attendais bien, peut donc se tranquilliser. Mais elle a le tort impardonnable de
+          s'abandonner à des reproches que je ne mérite assurément pas, et qu'elle doit s'efforcer
+          de me faire oublier. Il y a longtemps que je sais ce que c'est que la tête d'une femme; je
+          ne devais pas m attendre à trouver ici autre chose. Dites à Mme L***, posément, de ma
+          part, que sa lamentation m'a fort amusé, et qu'en la lisant, je croyais entendre un Stabat
+          mater dolorosa, avec accompagnement de vielle. Je veux qu'elle m'en demande pardon la
+          première fois qu'elle m'écrira.</p>
+        <p>J'ai vu ses deux beaux-frères; j'aurais bien des choses curieuses à lui dire à cet égard
+          ; je me contente pour le moment de la prier de faire encaisser les 500 volumes de Bains
+          Russes, et de les déposer dans quelque coin de grenier, chez la Benoîte, ou partout
+          ailleurs. Les envoyer est inutile. Je passe aux choses plus importantes.</p>
+        <p>1° Mme L*** aura la bonté de faire un paquet de 25 a-Kempis, pour M. Mathey ; je ne sais
+          par quelle fatalité je n'en ai trouvé que 177 dans ma caisse au lieu de 200. Elle y
+          joindra un exemplaire de ma Grammaire universelle, cinq feuilles un quart, qu'elle coudra
+          avec une méchante couverture. J'en ai le plus grand besoin pour travailler. Je me propose,
+          à l'aide de quelques corrections et changements de l'envoyer, avant mars prochain, au
+          concours du prix fondé par Volney, à l'Institut.</p>
+        <p>2° Vous ne me parlez point de ce qu'est devenue la pétition pour la mutation du
+          brevet.</p>
+        <p>3° Quand Mme L*** aura un moment de répit, je désire qu'elle broche quelques centaines de
+          Bergier. Mais auparavant il faudra changer le nom de l'imprimeur aux couvertures et au
+          frontispice. Mais il faut attendre pour cela le résultat de ma demande au ministre.</p>
+        <p>Après cela, j'adresserai un article à l'Ami de la religion.</p>
+        <p>4° J'ai vu M. Parent- Desbarres, qui n'a aucun besoin de mes services, et ne se soucie
+          point de notre in-32.</p>
+        <p>5° Je voudrais avoir un programme de la dernière séance de l'Académie de Besançon. Mme
+          L*** ira, s'il lui plaît, le demander à M. Pérennès, et elle le joindra au paquet qu'elle
+          doit m'envoyer.</p>
+        <p>6° Débiter M. Jourdain de 6 francs pour frais de port et d'emballage de la caisse que
+          j'ai reçue ; faites-en de même pour tout ce que vous expédierez en son nom.</p>
+        <p>7° Avant mon départ, j'avais déjà reçu différents reproches pour la médiocre qualité du
+          papier. En conséquence, à l'avenir, tenez plus ferme sur les prix, faites même quelque
+          sacrifice, et que ces plaintes ne se renouvellent plus.</p>
+        <p>8° En expédiant à M. Vieux, envoyez-lui mon adresse. Faites-lui part de la tentative que
+          j'ai faite auprès de M. Foucaut, et qui a échoué fort malheureusement pour nous tous, car
+          notre maison en aurait reçu un bel accroissement, et Mme L*** elle-même ne s'en serait pas
+          mal trouvée, quoi qu'elle puisse prétendre.</p>
+        <p>9° Je suis fâché que le père l'Homme se conduise si mal ; si cela continue,
+          débarrassez-vous-en sans hésiter. Que fait Josillon ?</p>
+        <p>10° J'aurais besoin d'un Lactance, édition de Gauthier frères, pour ma traduction d'un
+          opuscule, que j'espère toujours faire paraître. M. Plumey ne pourraitil me procurer
+          quelque exemplaire décousu, sale, déchiré, qu'il prendrait pour moi au meilleur marché
+          possible.</p>
+        <p>On le joindrait aussi aux 25 a-Kempis.</p>
+        <p>Enfin, mon cher Huguenet, poursuivez votre difficile gestion, et soyez sûr maintenant,
+          malgré mes visites à Foucaut, que désormais vous ne travaillez que pour moi. Si vous ne
+          concevez pas les mêmes alarmes que Mme L*** sur ma fidélité à tenir parole, si vous osez
+          faire un acte de foi en ma véracité, eh bien ! prenez courage, et je vous certifie que
+          quiconque se dévoue pour moi, ne travaille pas pour un ingrat. Cette fois, c'est en vue de
+          l'imprimerie, et bien sérieusement, que j'exploite la pension Suard; je me proposais
+          d'abord de prendre mes grades et de poursuivre une chaire dans quelque Académie. Cela ne
+          sera point. Mais silence làdessus.</p>
+        <p>Je commence à me mettre à ma tâche, et quand j'y suis, je vous oublie.</p>
+        <p>Je suis bien aise que vous ayez à votre quenouille de quoi filer; ne serait-il pas
+          possible de faire aider quelque temps Mme L***, pour sa brochure ? Avoir sur les bras le
+          présent et le passé, c'est trop pour une personne, et la besogne en souffre. Cependant ne
+          faites à cet égard rien sans qu'elle le veuille bien ; autrement, pour avoir eu une bonne
+          intention, il vous en arriverait mal. Je sais ce qu'il en est.</p>
+        <p>Il doit se trouver chez ma mère une petite brochure in-8°, intitulée, Essai sur l'analyse
+          physique des langues, par Paul Ackermann. Il faudrait me l'envoyer aussi.</p>
+        <p>J'ai un gros rhume; je me suis acheté des souliers fourrés; je n'ai plus d'argent, et le
+          banquier ne m'en veut donner qu'à l'échéance. Voilà pour le moment tout ce que j'aurais à
+          dire d'intéressant à ma mère. Mmc Rouillard a bonne mine, mais elle a perdu au moins
+          vingt-cinq livres de graisse : je la crois enceinte. J'ai dîné avec elle et son mari ; ils
+          font maigre régulièrement les vendredis et samedis, pour se changer, disent-ils. Ils
+          n'osent avouer leur piété. Ce paragraphe est pour chez nous ; vous le ferez parvenir.</p>
+        <p>Je remercie Mme L*** des nouvelles qu'elle me donne de ma famille; je la félicite de son
+          commérage, avec Fanfine.</p>
+
+        <closer>
+          <salute>Je vous embrasse tretous, et vous: souhaite bonne année et de plus, sagesse au
+            père. Dessirier. Son fils et moi sommes bons amis.<lb/> Tout à vous.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

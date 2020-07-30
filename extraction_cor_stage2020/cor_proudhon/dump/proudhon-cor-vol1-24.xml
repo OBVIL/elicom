@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-03-24" resp="author">24 mars 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-03-24"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>24 mars 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher et ancien collègue, je ne sais combien de temps encore vous attendrez l'argent
+          que je vous dois ; vous savez qu'il est sûr et ne peut manquer ; mais il parait que les
+          comptabilités académiquesmarchent pas comme la vôtre. J'ai chargé mon parent Proudhon de
+          toucher pour moi; c'est lui qui vous remettra 83 fr. 15 c, argent de MM. Gaume ; plus 43
+          fr. 33 c. que vous m'avez avancés.</p>
+        <p>Il n'y a rien de nouveau ni de changé dans ma condition depuis la dernière lettre que
+          vous avez reçue de moi ; et je ne sais qui peut faire mystère de ce que je lui écris. Je
+          ne confie guère au papier que ce que je veux que tout le monde sache. Je lis les épreuves,
+          momentanément, d'un journal légitimiste, l'Europe ; et je bâcle de temps en temps un
+          article pour l' Encyclopédie catholique, de M. Parent-Desbarres ; voilà tout. Je fais de
+          la philosophie, pour m'amuser, m'occuper, pour dire que je fais quelque chose ; car, du
+          diable si personne conçoit rien ici à ma manière de traDE P.-J PROUDHON. 107 vailler. M.
+          Droz m'a déjà répété plus de quatre fois qu'il ne peut s'imaginer par quel secret j'ai
+          appris à écrire en français, et que tout ce qu'il voit de plus clair dans ma façon
+          d'étudier, c'est que je perds mon temps. S'il n'y avait pas là quelques preuves
+          matérielles pour le tranquilliser, il me regarderait, je crois, comme un écolier
+          désespéré. Aussi trouve-t-il que je ne suis pas aisé à conduire. De tout ce qu'il me
+          conseille, je n'ai encore fait que ce que je voulais comme lui. Cependant, nous vivons
+          bien ensemble, et je l'aime sincèrement.</p>
+        <p>Je compte toujours sur l'accession de M. Foucaut à l'imprimerie. Il désire, il a envie;
+          puis il a peur, il n'ose pas. Et je ne le presse pas. Je veux maintenant qu'en devenant
+          mon associé, s'il le devient, il m'ait obligation. Tout change dans ce monde ; et par
+          conséquent nos différents rôles.</p>
+        <p>Hermann n'est pas heureux : ses appointements ne peuvent lui suffire ; il a la table et
+          200 francs par an. Sa chambre lui en emporte 96. Son patron lui a fait souscrire
+          dernièrement un billet à ordre, au 24 avril prochain ; il ne comprenait pas clairement ce
+          qu'il faisait, et n'a pu me rien expliquer sur les intentions présumables de son maître.
+          Il est évident que ce billet, signé Hermann, est une valeur fictive dont son maître a
+          besoin : cela frise le faux. Ce pauvre Hermann tremble d'être mis en prison pour dettes,
+          et j'ai eu beaucoup de peine à le rassurer. Je lui ai fait gagner quelque chose par un
+          raccommodage ; il est plus endormi que jamais. Il serait très-urgent de lui procurer
+          quelques secours, en attendant qu'il puisse se caser ailleurs. L'imprimerie est morte.</p>
+        <p>J'ignore si Mme L*** se remarie, mais je suis bien aise que sa santé soit meilleure.
+          Jusqu'à présent, la maladie qui l'a dévorée, et que vous connaissez aussi bien que moi,
+          est un sûr garant de sa bonne conduite et de la pureté de ses moeurs. Mais il y a terme à
+          tout, et il serait temps que les visiteurs officieux cessassent, par de plus longues
+          assiduités, de compromettre son repos. Attendre qu'elle y mette ordre toute seule, c'est
+          espérer que les poules donnent la chasse aux renards, car elle est bien la femme la plus
+          faible, la plus dénuée de caractère et de volonté que je connaisse. Cependant, il faudra
+          qu'elle se résigne à se priver volontairement de sociétés, qui peuvent lui être agréables,
+          j'en conviens, mais qui ne peuvent pas toujours s'accorder avec le soin qu'elle doit
+          prendre de l'opinion publique. Quand Mme L*** me fera l'honneur de m'écrire et de me
+          demander des conseils, je lui parlerai sans détour et dans son véritable intérêt.</p>
+        <p>Je n'ai rien d'intéressant à vous apprendre : tout Paris est occupé de la crise
+          ministérielle ; on parle de prorogation ; et si le commerce ne souffrait pas, il est
+          certain qu'on rirait beaucoup.</p>
+        <p>Le maréchal Soult est sorti de la dernière tentative grommelant entre ses dents après ses
+          futurs collègues et après le roi, et disant : « Ce sont tous j...-f...! » Voilà ce qu'on
+          raconte. Le petit Foutriquet (c'est ainsi que M. Soult appelle Thiers) a une envie
+          démesurée de devenir ministre, mais pas au point de consentir à redevenir ce qu'il a été
+          jadis ; il lui faut aujourd'hui du pouvoir ; il veut être maître. Quand il avait sa
+          fortune à faire, il ne disait rien et passait sous les jambes du maréchal Soult ; mais à
+          présent qu'il est grand seigneur, qu'il ne peut plus souhaiter, il change ses conditions.
+          Chose étrange ! pour moi du moins. On ne veut pas que le roi gouverne, mais on veut
+          gouverner soi-même, comme si on était plus infaillible que le roi Car je suppose que vous
+          n'en êtes pas à prendre au sérieux la responsabilité ministérielle. J'avoue que si j'étais
+          tiers-parti, ou dynastique, je serais pour le gouvernement personnel du roi, avec la
+          responsabilité des ministres ; quitte à ceux-ci de laisser là leurs portefeuilles quand
+          ils ne voudraient plus répondre !</p>
+        <p>Ecrivez-moi toujours par occasion, et je vous serai obligé.</p>
+        <closer>
+          <salute>Tout à vous.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

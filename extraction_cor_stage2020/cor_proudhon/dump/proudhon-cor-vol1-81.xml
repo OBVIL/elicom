@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-07-18" resp="author">18 juillet 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-07-18"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>18 juillet 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, j'ai appris avec un vif plaisir la nouvelle de ton mariage, et comme
+          cette fois tu ne m'as pas recommandé le secret, j'en ai fait part à nos amis, qui sont
+          enchantés. Une femme jeune, jolie, intelligente et point coquette ! Où as-tu découvert cet
+          heureux phénix ? Tu as parlé comme un homme amoureux, mon cher ami ; il y en a d'aussi
+          malins que toi qui ne se flatteraient pas de trouver rien de pareil dans tout Paris. Tu te
+          tais sur la fortune; je soupçonne que tu n'as rien voulu dire, de peur de faire crier à la
+          perfection ! Répétons un peu cette belle énumération sans y rien sousentendre : « Jeune,
+          belle, intelligente, riche et point coquette ! » N'en dis rien à ta prétendue, de peur de
+          me brouiller avec elle ; mais, avec ta permission, je ne puis croire tout cela. D'abord,
+          parce qu'avec tout ton mérite, ta philosophie et ta potyglottie, et tes moeurs d'archange,
+          et ton amour de Séraphin, tu ne vaux pas encore, à mon avis, les regards d'une divinité.
+          Puis, et ceci est une grande raison, c'est qu'il y a incompatibilité radicale dans les
+          qualités dont tu te plais à enrichir ta belle.</p>
+        <p>Je conçois une beauté sans coquetterie, mais sous la condition qu'elle aura peu
+          d'intelligence; hors de là, nego, comme disait Thomas Diafoirus. Si ta femme est
+          intelligente, elle sait qu'elle est jolie, elle sait qu'elle est riche, elle sait même
+          qu'elle est intelligente; car le propre de la pensée est de se connaître; sachant tout
+          cela, elle doit s'estimer, s'admirer, s'aimer; s'aimantet s'admirant, elle veut être aimée
+          et admirée des autres ; voulant être, etc. Je raisonne à la manière de Confucius ou
+          Khoungh-Fou-Tseu, comme dit notre ami Pauthier. Mais tu vois où mène ce sorite... A la
+          coquetterie, mon cher ami. Donc ta femme est coquette ou le sera, ou bien il n'est pas
+          vrai qu'elle soit jolie et intelligente.</p>
+        <p>Je sais que je prêche un sourd; je t'avouerai même que, si j'étais à ta place,
+          j'enverrais promener le raisonneur, et le laisserais croire ce qu'il voudrait. Cependant
+          je te prierai encore une fois de ne point te flatter de réunir ainsi les contraires dans
+          une femme, l'être le moins synthétique de la création.</p>
+        <p>Ackermann m'a écrit et se plaint qu'on cherche à lui enlever sa place. M. de Humboldt
+          étant en ce moment à Paris, il n'a personne pour l'appuyer auprès du roi. Quant aux
+          observations que je me suis permis de faire sur ses études et ses publications, il m'a
+          fermé la bouche par cette phrase : « Je fais ce que vous souhaitez, et ce que vous
+          craignez, je ne le fais pas. » Au demeurant, toujours entêté de son orthographe et de sa
+          métrique.</p>
+        <p>Maguet est de retour depuis hier ; il vient prendre son diplôme et soutenir sa thèse.
+          C'est un garçon d'infiniment de bon sens et qui sera mon médecin, tant que je vivrai. Il
+          t'aime beaucoup, mais moins cependant depuis que tu te maries.</p>
+        <p>Haag férié depuis quelque temps ; je le soupçonne de rêver mariage aussi ; je ne
+          répondrai pas pourtant que ce soit la philogéniture qui le travaille, plutôt que la
+          philogyuie. Dieu vous pardonne à tous, mes enfants !</p>
+        <p>Dessirier couche en joue une princesse de comptoir... (Tiens ta langue, médisant !)</p>
+        <p>Elmerick, oh! pour celui-là, je crois bien qu'il ne s'occupe que de madones sur toile et
+          de têtes de brigands.</p>
+        <p>J'avais eu d'abord le projet de partir le 1er juillet; puis, Lamennais ayant publié une
+          brochure dans laquelle je suis assez clairement attaqué, j'ai résolu de répondre
+          sur-le-champ. Mais je suis si fatigué, et mon sujet s'est trouvé être tel, quand j'ai mis
+          la main à l'oeuvre, que j'ai résolu de la laisser là, et d'aller me reposer. Au lieu d'un
+          pamphlet personnel, je publierai un troisième Mémoire dans lequel Lamennais ne comparaîtra
+          que comme accident.</p>
+        <p>Cette fois je vais exposer les lois économiques et universelles de toute organisation
+          sociale. Je viens d'écrire à M. Blanqui pour lui demander audience et le consulter; j'ai
+          tant de choses neuves à dire, que je puis me flatter que ceux qui m'ont le mieux lu ne
+          •savent encore rien. Véritablement la science sociale est •infinie, car c'est la
+          révélation des secrets de la Providence dans les affaires de ce monde. Depuis quinze jours
+          j'ai appris tant de choses, j'ai soulevé un si large pan du voile, que j'en ai la vue
+          troublée. Il me faut du repos, il faut mûrir mon germe avant d'accoucher. Tu as éprouvé
+          plusieurs fois dans ta vie la même chose ; nous étions quelquefois longtemps sans que le
+          progrès soit sensible ; puis, tout à coup, les voiles tombent; après un long travail de
+          réflexion, l'intuition arrive.</p>
+        <p>Ce moment est divin. C'est ainsi, je ne crois pas me tromper, qu'ayant été forcé
+          d'apprendre la prosodie tu as découvert en quelques jours une foule de choses nouvelles,
+          curieuses, plus étonnantes que tout ce que tu avais déjà publié. Quand un homme a beaucoup
+          appris, que son érudition est suffisante, il ne faut plus que lui poser des problèmes et
+          soulever devant lui des difficultés. Pour peu qu'il ait du génie, il s'élancera comme le
+          soleil et répandra des flots do lumière. Mon ouvrage aura pour titre : De la création de
+          l'ordre dans l'humanité. Ce sera de l'économie humaine transcendante.</p>
+        <p>Il y a quelques semaines, j'étais à mon insu sous le coup d'un mandat d'arrêt, pour crime
+          d'attentat. C'était mon deuxième Mémoire qui soulevait cet orage. M. Blanqui, qui me fit
+          prévenir, et qui avait été dénoncé lui-même comme mon coconspiratenr, me dit que ce
+          Mémoire, malgré l'amélioration de la forme, avait mis le feu aux poudres, parce que j'y
+          avais fait entrer tant de monde que les monopoleurs du pouvoir y avaient vu la
+          manifestation d'un complot. Il me rassura pourtant en me disant qu'il avait tous les
+          ministres pour amis, et qu'il ne souffrirait point qu'on sévit contre moi. Il écrivit en
+          même temps au préfet de police pour se plaindre de sa conduite envers lui. Bref, cette
+          affaire ridicule est apaisée. Elle prouve, selon moi, que le pouvoir est encore plus bête
+          et plus mal renseigné que méchant, et j'ai résolu d'avoir désormais quelque homme puissant
+          parmi mes défenseurs.</p>
+        <p>Je vais adresser un exemplaire de mes deux Mémoires à M. Duchâtel, en même temps qu'une
+          lettre ferme et convenante; j'espère qu'il sera satisfait. En même temps, je consulte M.
+          Blanqui, en lui faisant entrevoir que je vais faire marcher la science économique et lui
+          en donner le sceptre.</p>
+        <p>Je partirai dans huit ou dix jours, et ne pourrai te voir encore cette année, à moins que
+          je n'aille tourner par Strasbourg, en novembre prochain. Je ferai un assez long séjour à
+          Besançon pour régler mes affaires. Le terme de mes échéances approche ; il faut, ou que je
+          vende pour payer, ou que je trouve de l'argent. Bien des gens me disent qu'une femme peut
+          seule me sauver. Mais voilà le diable ! Je suis assez médiocrement amoureux, ne connais
+          personne, et, malgré la petite réputation que je me suis déjà acquise, je suis, sans
+          exagérer rien, un mauvais parti pour une demoiselle. Je ne suis point épousable par amour;
+          ce serait donc par convenance; or, à qui puis-je convenir? Pauvre, une fille ne me va pas,
+          et me perdrait sans profit pour elle; riche, elle descend en s'alliant à moi; d'une
+          médiocre fortune, elle sacrifie tout pour payer mes dettes, après quoi elle se trouve avec
+          rien et un mari de peu de ressources. Plus j'y réfléchis, plus je trouve que ce parti
+          mitoyen est le moins praticable; car, en vérité, je ne puis, en connaissance, appliquer la
+          dot d'une jeune fille à couvrir mes obligations personnelles; je me le reprocherais. Il
+          faut que mes créanciers attendent : voilà ce qu'il y a de plus clair.</p>
+        <p>Il est question de fonder sous quelques mois une Revue nouvelle à laquelle j'aurai une
+          grande part. D'un autre côté, une compagnie de banquiers milanais me propose de diriger
+          une série de publications ayant pour objet un système financier. Tout cela n'est pas
+          encore en voie de pleine réalisation. Je verrai venir. Je commencerai d'abord par mon
+          troisième Mémoire, qui me posera, je le crois, ou bien qui me tuera.</p>
+        <p>J'ai appris que Clairvaux, un de nos anciens, que je ne connais pas encore, était à
+          Besançon; je ferai sa connaissance.</p>
+        <closer>
+          <salute>Je t'embrasse, te souhaite bonne santé, et me recommande à ta nouvelle
+            Providence.<lb/> Tout à toi.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

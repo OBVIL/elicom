@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-04-11" resp="author">11 avril 1839</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-04-11">11 avril 1839</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>11 avril 1839</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, tant que le pilote a les yeux sur la boussole et la main au
+          gouvernail, le vaisseau brave l'orage et la tempête; mais de quoi serviraient tous ces
+          instruments, sans l'intelligence qui consulte et dirige ? Je m'approprie vos idées et
+          votre style ; n'en soyez point jaloux : je vous laisse à faire l'application.</p>
+        <p>Je compte incessamment déterminer une nouvelle société ; car de vente, il n'en peut être
+          question. Il faudrait ma volonté d'une part, et un acheteur de l'autre. Vous savez combien
+          il me serait pénible de faire face à tous mes engagements au sujet de l'imprimerie ; ce
+          serait même m'exposer, si je n'avisais à trouver un nouvel auxiliaire, à une catastrophe
+          inévitable. Je garderai le brevet ; je demeurerai votre chef nominal, votre âme et votre
+          conseil ; et je vous enverrai un homme d'exécution, avec qui j'ai tout lieu de croire que
+          vous vivrez bien. Quand la chose sera décidée, vous en serez instruit.</p>
+        <p>Si vous entendez reparler de ce projet de journal, vous pouvez donner à entendre que j'y
+          coopérerais au besoin, sans toutefois dire que vous êtes chargé de faire une telle
+          promesse. Faites valoir toutes les espérances, toutes les présomptions ; dites hardiment
+          que vous êtes sûr de la chose, sans néanmoins laisser voir que vous avez des instructions
+          officielles.</p>
+        <p>M. Maurice m'apprend que Noir dirige l'imprimerie de Gomet; je ne sais s'il l'achètera.
+          Après les offres que je lui ai faites, il ne pourrait donner une plus grande preuve
+          d'imbécillité. Je lui offrais les mêmes avantages, lui demandais moins d'argent, lui
+          garantissais de plus belles chances, et lui montrais des espérances mieux fondées. Veut-il
+          relever la boutique de Gomet avec sa fortune, et créer une imprimerie de plus à Besançon,
+          car Gomet ne comptait pas ? Je doute qu'il réussisse et qu'il vienne à bout de réaliser
+          aucun bénéfice. Quoi qu'il arrive, j'espère qu'un jour je n'aurai rien à craindre d'un
+          nouveau concurrent, et que je ne le regretterai pas. Alors il comprendra peut-être combien
+          mieux vaut de s'associer que d'élever autel contre autel pour la perte de tous.</p>
+        <p>Nos affaires sont brillantes, vu ce qui se passe en tous lieux. Everat vient d'avoir une
+          assemblée d'actionnaires : on parlait de liquider. Il a offert, pour une grande entreprise
+          de librairie, ses presses et caractères, et il ne demande pour salaire que ses déboursés !
+          Le motif est en ce moment l'importance de ne pas laisser fermer son atelier. La banlieue
+          envahit tout, et tue la capitale par le bon marché. M. Didot a un atelier en province, à
+          Dreux ; il y occupe une multitude de com ositrices ; c'est là sa grande forge. La maison
+          de Paris n'est presque plus qu'une succursale. Ainsi il en va et il en ira de
+          l'imprimerie. Les machines de toute espèce, y compris les femmes, ont tué la
+          main-d'oeuvre, sans pouvoir profiter à l'imprimerie ni au libraire. Celui-ci, séduit par
+          l'appât du bon marché, a fait tirer à grand nombre ; ses magasins sont encombrés, et la
+          production est arrêtée. C'est une chose admirable que les inventions modernes ; mais qu'on
+          apprenne donc à en combiner l'usage avec les besoins réels et non factices du commerce,
+          avec l'intérêt des classes ouvrières et des spéculateurs et maîtres. Le mal n'est pas dans
+          les calculs, qui ne trompent pas ; il est dans l'abus des calculs et des forces.</p>
+        <p>Je vais sonder le terrain et commencer mon attaque pour la fondation d'une Revue. J'en
+          écrirai à M. Pérennès dans la huitaine. Il faut que cela marche ; car je ne leur laisserai
+          d'autre espoir d'utiliser leur pensionnaire que celui-là.</p>
+        <p>Je fais de beaux rêves, mais si modestes, si faciles à réaliser, qu'en vérité
+          l'accomplissement doit suivre le désir. Je veux, la Revue une fois créée, ne faire autre
+          chose et y vaquer tout à mon aise, dans quelque manoir campagnard à portée de vous.
+          Croyez, mon cher Huguenet, qu'aucune autre ambition que celle de servir mon pays par la
+          presse et la parole ne peut avoir prise sur mon coeur. Je souffre de mon exil ; je déteste
+          la civilisation parisienne ; je crie à qui peut m'entendre : Fugite de medio Babylonis. Je
+          n'aurai de repos, je ne retrouverai l'usage de mon esprit et de mes facultés, je ne
+          redeviendrai capable d'écrire que sur les bords du Doubs, de l'Ognon et de la Loue. Les
+          gens de Paris ne peuvent rien entendre à des paroles de vérité, de justice et
+          d'abnégation, et je n'ai pas le secret de galvaniser des cadavres. C'est trop pour moi que
+          d'habiter cette immense voirie, ce pays de maîtres et de valets, de voleurs et de
+          prostituées. Un jour, le chant du trépas retentira sur Paris et viendra des provinces.
+          J'espère que la vieille Franche-Comté sera des premières à entonner l'antienne. Séjour des
+          intrigants, des tyrans et de leurs suppôts, fabrique de mensonge et de corruption, Paris
+          sera désolé avant que le XXe siècle ait commencé à poindre.</p>
+        <p>Excusez mes phrases à la Jérémie; j'exhale ma colère du mal que j'endure.</p>
+        <closer>
+          <salute>Je vous souhaite le bonjour et aux amis,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p>P.-S. — Je lisais les épreuves d'un journal carliste ; on m'a contesté mon salaire ; il
+            m'a fallu chicaner, disputer, plaider ; j'ai perdu sur ce qui m'était dû légitimement,
+            et j'ai abandonné cette queue du diable. C'est, du reste, ce qui ne pouvait manquer
+            d'arriver : il m'est impossible de travailler de nuit. </p>
+          <p>J'avais écrit à M. Pérennès jeune ; je ne comprends pas qu'il ait tardé à me répondre.
+            S'il vous porte une lettre, attendez une occasion. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

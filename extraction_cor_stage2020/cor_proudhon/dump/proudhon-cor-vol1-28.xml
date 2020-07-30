@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-05-02" resp="author">2 mai 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-05-02"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>2 mai 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, Foucaut refuse définitivement d'embrasser l'imprimerie, au grand
+          déplaisir de sa femme, à ce que j'ai cru voir, mais il n'ose contrarier son père. — Je me
+          suis adressé depuis au même jeune homme dont la famille avait pris des informations ; il
+          écrira demain à sa famille, et, comme il désire en finir au plus vite, j'ai lieu de croire
+          que nous terminerons à notre satisfaction. Je lui ai esquissé un projet de traité qu'il
+          communiquera à sa famille; j'ai réservé par l'une des clauses 5 p. 100 sur les bénéfices
+          en votre faveur. Vous me direz que vous les donneriez bien pour 5 centimes de plus par
+          jour, mais vous savez que toute récompense n'est pas d'argent, et vous êtes fait pour le
+          comprendre mieux que personne. Si je pouvais rester seul, si j'avais de quoi m'acquitter,
+          je ferais mieux, mais je ne puis disposer de ce dont je ne suis point seul maître.
+          Faitesmoi donc épouser 20 ou 30,000 francs !...</p>
+        <p>Mon parent Proudhon me marque qu'il est bien fatigué de sa tenue de livres et qu'il lui
+          tarde d'en être débarrassé. A cela je ne vois qu'un remède. Puisqu'il est entendu que
+          c'est à vos risques et périls que vous travaillez, il faut encore vous charger bravement
+          ed cette corvée. Cette tenue de livres, avec les documents que vous fournissez, n'est
+          rien; et d'ailleurs, vous savez que je n'ai jamais entendu vous donner dans mon cousin un
+          contrôleur ni un surveillant. D'abord je n'en avais pas le droit, d'après nos conventions,
+          ensuite je ne vous aurais jamais fait cette injure. J'écris à M. Proudhon dans ce sens.
+          Ainsi, reprenez tous les livres, et si, ce que je ne présume pas devoir arriver, vous
+          aviez besoin de mon autorisation pour quoi que ce fût, je vous l'enverrais sur-le-champ.
+          Tenez toujours exactement, vous vos livres d'imprimerie et de banque, et Mme L"*** son
+          carnet, et quand vos livres seraient arriérés de trois mois, avec cela il serait toujours
+          facile de les mettre au niveau.</p>
+        <p>Je vois que le grand ressort est toujours détendu pour vous ; l'argent vous manque ; ce
+          malheur est aujourd'hui ce qu'il y a de plus commun. Eussiez-vous la moitié de ce qu'on a
+          dépensé en lampions pour notre bon roi, et vous eussiez de quoi graisser les roues de
+          votre charrette! Les pauvres n'ont point de graisse dans leur soupe; cela n'est point
+          étonnant, elle brûle aux illuminations.</p>
+        <p>Fallot m'a écrit qu'il vous procurait le plus d'ouvrage qu'il pouvait; il me prie en même
+          temps de parler pour lui à M. Droz, qui parlera à des députés, qui parleront à M. Legrand
+          qui lui a promis une place. Fallot va toujours à son but par cascades.</p>
+        <closer>
+          <salute>Adieu, je vais à une séance académique. Dessirier va partir pour l'Afrique où il sera
+            gérant de 10,000 hectares de terre, à 5,000 francs d'appointements et 10 p. 100
+            d'intérêt.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

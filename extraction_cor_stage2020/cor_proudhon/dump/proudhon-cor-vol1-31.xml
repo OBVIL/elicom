@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-06-01" resp="author">1er juin 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Huguenet, Monsieur (...-...)">Monsieur Huguenet</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-06-01"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris, </placeName>
+            <date>1er juin 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Huguenet, ayez la complaisance, aussitôt mon paquet remis en vos mains, de
+          déposer au secrétariat de l'Académie ou chez M. Pérennès, le manuscrit enveloppé et
+          cacheté que je vous envoie avec la présente, par M. Sainte-Agathe. Je désire que cette
+          commission soit faite avec toute la discrétion possible. N'en parlez à qui que ce soit; si
+          Fallot vous interrogeait à cet égard, ignorez tout.</p>
+        <p>J'ai composé un discours sur le Dimanche ; quelque soit le jugement de l'Académie, je
+          compte l'imprimer. M. Pauthier me procurera un libraire. Mais quand on saura dans le
+          public que je suis l'auteur de ce discours, ce sera un beau tapage. Je puis dire que je
+          viens de passer le Rubicon. Si mon ouvrage était moins long, je vous dirais d'en prendre
+          connaissance, mais vous ne perdrez rien pour attendre. Je vous informe de tout ceci, afin
+          que vous compreniez mieux l'importance que j'attache au secret. Au 24 août prochain, vous
+          connaîtrez les résultats de mon coup d'essai.</p>
+        <p>Je n'ai aucune nouvelle ni de mon parent Proudhon, ni de vous, ni de personne; cela
+          m'inquiète. J'ai travaillé ce mois de mai avec une telle activité, que j'en suis malade :
+          la tête et l'estomac succombent parfois ; je suis épuisé. J'ai bien des lettres à écrire
+          et des réponses à faire, je n'en ai guère la force. Si mon premier opuscule littéraire
+          obtient quelque succès, je serai bientôt en état de publier quelque chose fous les six
+          mois. Il faut frapper ferme et dru.</p>
+        <p>Je présume que vous avez eu de quoi vous occuper tout ce mois-ci, puisque vous n'avez pas
+          eu le loisir de m'écrire ; informez-moi de ce que vous avez de nouveau, Je suis impatient
+          d'avoir une réponse de vous sur toutes les choses dont je vous ai parlé dans ma dernière
+          lettre, afin que je sache ce que je dois écrire à M. Proudhon. Je n'ai pas revu mon
+          associé en perspective; comme il s'était affilié à des sociétés secrètes, je crains qu'il
+          ne se soit compromis dans l'émeute; j'ignore sa demeure, et je n'ai pas eu un moment pour
+          aller aux informations.</p>
+        <p>J'ai vu deux fois M. Sainte-Agathe ; il m'a montré l'exemplaire des Mémoires de
+          l'Académie. Je voudrais que nous pussions imprimer aussi bien, mais il faudrait du neuf.
+          La correction est médiocre dans ses impressions, cependant il m'a dit qu'il avait chez lui
+          un correcteur très-distingué.</p>
+        <p>Je suis dans une grande tristesse : la raison me montre des vérités irréfragables, et la
+          connaissance que j'acquiers du monde chaque jour m'apprend que si je dis ces vérités, je
+          fais le sacrifice de mon bien-être. N'importe, la vérité avant toute chose; il arrivera ce
+          qu'il pourra.</p>
+        <closer>
+          <salute>Saluez de ma part mes amis et connaissances et écrivez-moi.<lb/> Tout à
+            vous.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

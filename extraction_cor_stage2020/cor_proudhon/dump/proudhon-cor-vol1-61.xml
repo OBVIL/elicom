@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-07-22" resp="author">22 juillet 1840</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Bergmann, Monsieur (...-...)">Monsieur Bergmann</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-07-22"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Besançon,</placeName>
+            <date>22 juillet 1840</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher Bergmann, tu as dû recevoir le 4 du courant un exemplaire grand in-18, broché,
+          sous bande, et par la poste, par conséquent affranchi, de mon ouvrage : Qu'est-ce que la
+          propriété? J'espérais trouver ici à mon arrivée une lettre de toi, et je crains que
+          l'exemplaire dont je te parle ne te soit pas parvenu.</p>
+        <p>Quoi qu'il en soit, l'effet de ce volume, qui aurait pu être gros, s'il était moins
+          compacte, est d'étonner et d'effrayer le lecteur, de le forcer à réfléchir, ce qui est
+          encore mieux. Cependant, comme je te l'avais prédit, bien que des envois aient été faits à
+          différents journalistes et feuilletonnistes, aucune annonce, aucun article n'a encore paru
+          et ne paraîtra; l'éditeur lui-même, un imbécile, refuse de faire les frais de la plus
+          petite annonce ou réclame dans les journaux, et il se plaint ensuite que la vente n'aille
+          pas. Deux cents exemplaires ou même davantage, car j'ignore ce que l'imprimeur a pu
+          vendre, ont été pourtant enlevés en quinze jours, sans publicité, sans recommandation, et
+          par le seul effet des premières lectures. Pour ce qui me concerne, Dessirier me mande
+          qu'il aurait besoin de 70 francs pour compléter les 300 que je me suis obligé de verser
+          entre les mains de l'éditeur : ce qui signifie que, sur</p>
+        <p>230 exemplaires dont je m'étais chargé, 73 restent encore à placer.</p>
+        <p>Ainsi, mon cher Bergmann, si les dispositions de ton esprit et l'état de ta bourse
+          étaient encore les mêmes qu'il y a six mois, je te serais obligé de me faire tenir une
+          centaine de francs, que je te rembourserais au plus tard dans les premiers jours d'octobre
+          prochain, après l'écoulement de ce qui me reste d'exemplaires et le solde de ma pension.
+          Je ne te parle pas encore des 85 francs du mois de mai passé : je ne serai pas de sitôt à
+          même de te les rendre ; je te les ai demandés pour vivre; je te demande ces 100 francs
+          pour une opération de commerce : par conséquent, je dois t'en rembourser de la même
+          manière.</p>
+        <p>L'effet de mon livre sur l'Académie a été terrible pour moi : on a crié au scandale, à
+          l'ingratitude ; le père Droz, qui se trouvait à Besançon dans le temps de la réception de
+          l'ouvrage, a fait une larmoyante homélie qui a indigné tout le monde. Je suis un ogre, un
+          loup, un serpent ; tous mes amis et bienfaiteurs s'éloignent de moi et m'abandonnent à mon
+          sens réprouvé. Désormais tout est fini ; j'ai rompu mes liens; je suis sans espérance. On
+          voudrait presque m'obliger à une espèce de rétractation; on ne me lit pas, on me condamne.
+          Jamais je n'ai vu tant d'animosité contre un auteur, et jamais en même temps tant de
+          bêtise académique; les choses qu'on me reproche le plus feraient rire si elles ne
+          prouvaient l'égoïsme et l'amour-propre des propriétaires attaqués dans leur fort. Je vais
+          fermer bientôt mon atelier d'imprimerie, qui ne sert qu'à m'endetter de plus en plus, et
+          que mes derniers clients fuiront bientôt, à la suite du clergé et des cagots de
+          l'Académie. Désormais je n'ai pas un morceau de pain à gagner à Besançon, et comme mes
+          dernières ressources sont épuisées, il faudra que je retourne à Paris ou en Suisse pour
+          m'y faire correcteur ou compositeur. Crois-tu que Strasbourg offre quelque ressource à un
+          typographe exilé de son pays, pour avoir dit trop vrai? Toutes les carrières me sont
+          désormais fermées ; on croirait se compromettre en me protégeant ; il y a même ici des
+          gens qui lisent mon livre en secret et ne veulent pas qu'on le sache.</p>
+        <p>J'aurai bientôt peut-être à te dire pis que tout cela; en attendant, je désire que tu
+          m'écrives, quand même tu ne pourrais rien pour les 100 francs que je te demande, et que je
+          trouverai ailleurs. C'est une préférence dont tu te passerais bien, mais que ma condition
+          de patron imprimeur m'a forcé de te réserver.</p>
+        <p>J'ose croire que tu auras reconnu dans mon ouvrage la même philosophie que tu as mise
+          dans ta thèse latine; mais t'aurais-je mécontenté en mettant ton nom dans une note?
+          J'avoue que, si j'avais écouté mon coeur, je t'aurais appelé mon ami, et qu'il m'a été
+          pénible de ne parler de toi que comme d'un étranger. Du reste, cette citation n'est pas le
+          moins du monde compromettante pour toi ; l'Académie de Besançon, qui sous ce rapport
+          aurait bien plus à se plaindre, n'a fait que rire de ma prétention de l'associer à mes
+          idées. Ce qu'elle me reproche n'est pas de l'avoir voulu rendre complice, mais bien
+          d'attaquer la propriété et l'Église.</p>
+        <p>Écris-moi, je t'en prie, ne fût-ce que pour me dire qu'il ne te convient plus que nos
+          relations continuent... Mais il me semble que je viens de prononcer un blasphème, et je
+          t'en demande pardon.</p>
+        <closer>
+          <salute>Je t'embrasse; tout à toi,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

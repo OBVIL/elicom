@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-02-23" resp="author">23 février 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Monsieur le secrétaire perpétuel de l’Académie de Besançon (...-...)"
+            >Monsieur le secrétaire perpétuel de l’Académie de Besançon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-02-23"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>23 février 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher maître, j'ai appris par un numéro du Progrès, que je lis quelquefois, que vous
+          aviez tenu cour plénière à l'Académie. Dans cet article, vous n'êtes pas, vous,
+          personnellement maltraité, au contraire; mais, quoique je ne doute pas le moins du monde
+          que vous n'ayez, selon votre habitude, fort bien fait et fort bien dit, je vous avoue que
+          je ne puis vous féliciter de l'exception. Comment pourriez-vous vous tenir honoré des
+          éloges d'un vrai Mascarille de journal? En vérité, mon cher maître, je crains fort, quand
+          je serai de retour à Besançon, de ne pouvoir m'entendre avec les gens. Quelle langue
+          parle-t-on là où vous êtes? Ce n'est pas du français, ce n'est pas du patois, ce n'est pas
+          encore de l'argot ; je m'y perds, plus j'y pense. Moi qui ne croyais pas que l'homme pût
+          inventer son langage, je me vois forcé de me rétracter.</p>
+        <p>Ce qui me fait peine aussi, c'est que je voudrais M. Viancin un peu plus sobre de style
+          canaille. Le peuple français mérite à cet égard qu'on l'encourage. En 93, on agitait la
+          populace par des feuilles ordurières et barbares; aujourd'hui un journal, écrit en style
+          du Père Duchêne, par b... f..., et j' ons ou j' avions, ne prendrait plus. C'est un
+          progrès, quoi qu'on dise ; or, il n'est pas bon que les chefs de bataille affectent trop
+          souvent de paraître au dernier rang, si ce n'est pour fustiger les traînards. Il me semble
+          que le vrai talent de M. Viancin s'est tout à fait décelé depuis quelques années; ce
+          talent est la satire légère, enjouée, chantée. Quoique l'imitation de la nature me plaise,
+          cependant j'éprouve, en lisant une pièce comme la chanson sur le magnétisme, un sentiment
+          de honte et de malaise, comme quand je regarde un bossu, un nain ou un crétin. Il ne faut
+          pas jouer avec les laideurs do notre nature. Ce n'est pas l'opinion de V. Hugo; mais V.
+          Hugo, avec tout son talent poétique, dont je conviens, se trompe, selon moi, sur l'essence
+          et le but de la poésie. Je crois que tel est aussi votre sentiment, mon cher professeur,
+          carmes idées datent déjà do votre école.</p>
+        <p>Vous connaissez le résultat du vote de l'Académie française de jeudi dernier : toute la
+          presse s'en est ébranlée. C'est un hourra contre les académiciens. Je vous avais autrefois
+          parlé des sentiments de M. Droz sur les élections en général : il a voté pour M. Flourens.
+          Son aversion pour V. Hugo est invincible. Mais quoique je sois loin de regarder V. Hugo
+          comme un grand poëte, cette aversion me paraît injuste. La famille Droz et Michelot, car
+          c'est tout un, hommes et femmes, s'insurge contre l'auteur du Roi s'amuse, principalement
+          parce qu'il a des moeurs légères. J'avoue que c'est plutôt ce motif d'élimination qui me
+          semble léger. S'il s'agissait de faire un chef d'institution, à la bonne heure ; mais
+          pourquoi n'en a-t-on pas dit autant lorsqu'on a élu Nodier, Chateaubriand, etc.? — M. Droz
+          prétend encore que les académies sont dans l'origine des corporations libres; par
+          conséquent que pour y entrer il faut avant tout convenir aux membres, et que le public à
+          cet égard a des notions très-fausses. Je me range encore ici du côté du public. Les
+          académies ne sont plus cela ; elles sont et doivent être regardées comme quelque chose de
+          plus élevé. La Convention, en décrétant la formation de l'Institut, en assignant des
+          appointements aux membres, voulait certainement créer un corps d'élite, entretenu dans
+          l'intérêt national, et selon le degré de mérite dans chaque spécialité; elle n'entendait
+          pas protéger et salarier des associations libres pour le bon plaisir de leurs membres.</p>
+        <p>Dans ma précédente lettre, je vous disais que M. Droz repoussait Berryer, parce qu'il ne
+          voulait pas que l'Académie fût transformée en corps politique, en succursale de la Chambre
+          des députés. Pourquoi donc jeudi dernier a-t-il cru devoir nommer M. Molé? Est-ce que M.
+          Molé a plus de titres à l'Académie que M. Berryer ?... Je me suis permis de conclure de
+          tout ce que je viens de voir que tel homme peut être incorruptible à l'égard des
+          solliciteurs, qui est séduit à son insu par son jugement et ses sympathies.</p>
+        <p>Le même jour de l'exclusion de V. Hugo, a été marqué par le rejet de la dotation Nemours.
+          La famille Droz s'est fort récriée en apprenant que les ministres avaient donné leur
+          démission, appelant cette démarche une bêtise. Pourquoi faire de cette dotation une
+          question de cabinet ? disait-on. Pour moi, il me semble que dans toute cette affaire, le
+          Journal des Débats et les ministres sont les seuls qui raisonnent conséquemment. Qu'estce
+          qu'une royauté à qui on compte ses revenus, franc par franc, centime par centime? La
+          monarchie sous Louis XIV avait de grandes principautés, d'immenses apanages qui ne se
+          démembraient de la couronne que temporairement et pouvaient toujours y retourner. La
+          révolution de 1789 a détruit tout cela; et, au lieu de vastes domaines, nous payons au roi
+          une liste civile; donc au lieu d'apanager les princes, nous leur payons des pensions. Car
+          qui veut le roi, veut une famille royale, veut une cour, veut des princes du sang, veut
+          tout ce qui s'ensuit. Le Journal des Débats dit vrai : les bourgeois conservateurs et
+          dynastiques démembrent et démolissent la royauté dont ils sont envieux comme des crapauds.
+          Si la royauté est chose indispensable, il la faut vouloir avec ses conséquences ; si le
+          roi est un fonctionnaire public, pourquoi le fait-on inviolable? pourquoi sa dignité
+          est-elle héréditaire ? pourquoi son effigie sur les monnaies ? pourquoi n'est-il pas
+          responsable? Il résulte de tout cela, pour moi, deux faits qui me semblent hors de doute :
+          1° que la royauté est désormais une chose impossible ; 2° que si nous ne pouvons vivre
+          sans elle, nous périrons. Et je crois que le terme est plus près qu'on ne s'imagine : Ecce
+          fiunt omnia nova.</p>
+        <p>On a suppute les revenus du roi ; ils m'ont paru mesquins auprès de ce qu'on voyait sous
+          Louis XIV. La Grande Mademoiselle faisait, par contrat de mariage, donation au duc ne
+          Lauzun de plus de 28 millions, ce qui en ferait bien 60 d'aujourd'hui. Le duc de Nemours,
+          avec ses 500,000 francs, n'approcherait pas de cela.</p>
+        <p>Il court toujours quelques bruits, à travers l'atmosphère parisienne, d'une tentative
+          républicaine pour le printemps prochain. Les uns la craignent et n'y croient pas ; les
+          autres la désirent mais n'y croient pas davantage. La chose me paraîtrait désespérée et
+          funeste. Au reste, elle n'est pas encore possible par la raison trèsgrande que notre
+          dissolution n'est pas achevée. On n'aime pas encore la République, et on tient encore par
+          un lambeau de chair vive à la royauté. Les angoisses des riches bourgeois sont vraiment
+          risibles. Ils invoquent tour à tour la royauté qu'ils voudraient museler, la religion dont
+          ils prétendent bien se passer, les systèmes d'économie qu'ils n'ont pas la force de
+          comprendre ni le courage d'essayer; ils font appel au désintéressement du fond de leur
+          égoïsme; ils reconnaissent et proclament la nécessité d'une réforme morale, mais ils ne
+          veulent quitter ni leurs plaisirs ni leurs privilèges. Ces gens-là sont les plus odieux de
+          tous, et je remercie Dieu (je suis le seul au monde qui lui rende de pareilles actions de
+          grâces) de les rendre si malheureux et tout à la fois si peu dignes de pitié.
+          Certainement, je pense comme eux que tout est pour le plus mal dans le monde actuel, à
+          commencer par eux, et à finir encore par eux. Au reste, j'aurai bientôt j'espère, quelque
+          chose de plus explicite à vous dire sur tout cela.</p>
+        <p>Il serait possible que d'ici à quatre ou cinq mois, je publiasse un travail assez
+          considérable que je me propose de dédier à l'Académie de Besançon. Pensez-vous, Monsieur
+          le Secrétaire perpétuel, que je puisse le faire sans autre demande préalable que
+          l'avertissement que je vous en donne ici ? Mon sujet consiste en des recherches
+          psychologiques sur le principe du juste et sur ses développements progressifs dans
+          l'humanité. Si vous désirez de plus amples explications, je vous dirai que je donnerai
+          dans cet écrit la démonstration par la méta- physique, le droit, l'économie politique et
+          l'histoire, do toutes les propositions qui, dans mon discours sur le Dimanche, ont été
+          censurées par la commission. Je vous déclare de plus que ma franchise ne sera pas moindre,
+          mais pourtant tout aussi mesurée. Si je dis vrai, je veux que l'Académie devienne
+          elle-même mon chef, peira mea et robur meum; si je dis faux, elle n'est compromise en
+          rien.</p>
+        <p>Je viens de lire, dans le Journal des Écoles, un article très-vif contre le cours de M.
+          Michelet, qui le mérite bien. Ces Messieurs, j'en excepte les professeurs des sciences,
+          font leurs cours par-dessous la jambe. Le babil de salon a pris la place de renseignement.
+          Cela a plu quelque temps; et puis, voilà que cet intraitable public redemande du solide,
+          et ne veut plus être amusé mais instruit. Tellement que vous autres de la province, qui
+          faites vos cours sérieusement, c'est vous qui êtes maintenant la tète de colonne. J'ai
+          suivi pendant un bon mois MM. Michelet, Rossi, Lenormant, SaintMarc-Girardin ; je vous le
+          répète, ils ont tous de l'esprit, mais ils semblent avoir tous le mot d'ordre pour vanter
+          les bienfaits du régime constitutionnel et prêcher la centralisation la plus
+          centralisante. Paris est tout, la tête et le coeur de la France ; ajoutons l'estomac.</p>
+        <p>J'ai reçu le discours imprimé de votre frère et je lui ai même écrit à ce sujet. Vous
+          pouvez l'assurer en particulier que je le mets au nombre de mes meilleurs amis, de ceux
+          que je préfère par toutes les sympathies de coeur et d'esprit; que de ces amis-là, je me
+          flatte d'en compter déjà six, et qu'il est du nombre des six. Mon amitié est peu de chose
+          dans un temps comme celui-ci, parce que je ne suis et ne serai jamais rien dans le monde;
+          mais jedemande à être remboursé qu'en même monnaie, et je lui souhaite de dire de moi ce
+          que je dis de lui. J'aurai peut-être occasion de lui prouver qu'une amitié rude, point
+          complaisante, nec visu facilis, nec dictu affabilis, est encore la meilleure. Je lui ai
+          témoigné le désir de savoir ce qui se passe en ce moment dans sa tête; je lui ai donné en
+          même temps l'exemple de la confiance : j'espère qu'il m'entendra.</p>
+        <closer>
+          <salute>Adieu, mon cher professeur et maître, croyez-moi votre tout dévoué
+            pensionnaire.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

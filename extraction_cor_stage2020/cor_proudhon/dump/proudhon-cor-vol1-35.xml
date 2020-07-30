@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1839-07-13" resp="author">13 juillet 1839.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1839-07-13"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>13 juillet 1839.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-collègue, s'il vous revient 8,280 fr. 50 sur les 12,000 francs, c'est donc
+          4,140 fr. 25 que je vous dois; plus 1,778 francs aux enfants L***, = 5,918 fr. 25; plus
+          4,000 fr. à M. Viancin = 9,918 fr. 28. Je suppose que ce que je vous redois, sur les
+          comptes de la liquidation, puisse être en partie couvert par ce qui me revient sur les
+          impressions, c'est donc 20,000 francs à peu près dont je suis débiteur. J'ai pour cela une
+          valeur qui vaut à peine 5,000 francs, dont je n'aurai pas touché un centime, et je vais
+          prendre mes mesures pour faire comme Marquiset, vous payer, et être tranquille. Il m'est
+          plus facile de payer, chaque année, 2 à 300 francs d'intérêts, que d'être rongé d'ennuis
+          perpétuels. Il en résulte que mes affaires ne sont pas en meilleur état, que mes autres
+          travaux en souffrent, que ma santé en est affectée et mon esprit malade. J'ai donné congé
+          à Huguenet et Dessirier ; j'ai averti Mme L***; si je pouvais vendre à M. Bailly, ce
+          serait une bonne affaire. Sinon, je vais tout enfermer sous clef, dans quelque remise, et
+          j'attendrai qu'une occasion favorable se présente pour recommencer à travailler.
+          Cependant, je me déferai d'une partie de mes vieux caractères pour satisfaire à mes
+          premiers engagements envers vous ; et ainsi du reste, jusqu'à ce qu'il ne me reste qu'une
+          presse et une demidouzaine de casses, avec quoi je compte bien travailler de nouveau. Je
+          vous préviens de tout ceci, en vous priant de n'en point trop parler; je ferai mon
+          possible pour que vous ne perdiez rien, je vous en donne ma parole. Vieux cesse de
+          m'écrire ; je ne sais ce qu'il devient, et je crois qu'il n'y a pas lieu pour lui,
+          présentement, à compter sur les promesses de ses proches. N'allez pas croire, au moins,
+          que le parti que je vais prendre, soit le fait d'un désespéré : pas le moins du monde. Je
+          cède là où il faut, et je me concentre dans l'objet auquel je dois m'attacher
+          exclusivement aujourd'hui ; après, nous verrons. J'espère toujours que le temps viendra où
+          je pourrai à mon tour imposer la loi aux autres : et tout roseau qui plie n'est pas rompu
+          pour cela.</p>
+        <p>Je vous remercie des 30 francs que vous m'avez envoyés : c'était mon dernier argent.
+          Aujourd'hui je vis de mon travail de rédaction et de compilation. Il me parait que
+          Parent-Desbarres est content de ce que je lui donne; je m'habitue à écrire, il ne me
+          manque que le repos d'esprit. Comme la tempête commerciale ne peut durer toujours,
+          aussitôt que la librairie se relèvera, j'espère bien profiter, autant qu'un autre, du beau
+          temps. Nous vivons dans le siècle des grosses entreprises littéraires ; je tâcherai d'en
+          faire mon profit.</p>
+        <closer>
+          <salute>Je vous souhaite le bonjour, et vous prie de compter sur ma bonne volonté, si l'état de
+            ma fortune ne vous inspire que crainte et défiance.<lb/>Votre ex-collègue,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

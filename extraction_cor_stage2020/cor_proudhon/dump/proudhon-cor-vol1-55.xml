@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1840-04-07" resp="author">7 avril 1840.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Maurice, Monsieur (...-...)">Monsieur Maurice</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1840-04-07"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>7 avril 1840.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mon cher ex-associé, j'ai reçu avant-hier la vôtre du 4 courant, et j'y réponds par une
+          occasion sûre.</p>
+        <p>Je vous ai écrit, il y a plus de quinze jours ; je ne sais si ma lettre vous sera
+          parvenue, ayant été remise à une personne qui devait partir sur-le-champ, et qui a différé
+          de plus d'une semaine son départ ; de plus, je vous ai adressé un petit billet joint à la
+          lettre que j'écrivais à M. Pérennès le 1er courant.</p>
+        <p>M. Pérennès ne m'a pas encore répondu, et si je n'ai pas les fonds pour le 10 ou le 1 1
+          au plus tard, j'en serai quitte, comme vous voyez, pour les frais d'un retour. M. Pérennès
+          a beaucoup de talent comme littérateur, mais c'est le plus mauvais comptable. Si chacun ne
+          voulait faire que son métier, les choses de ce monde n'en iraient que mieux : mais on veut
+          se mêler de ce qu'on ne sait pas, les avocats veulent être généraux, les beaux esprits,
+          députés, et les philosophes, ministres. L'ambition des bavards de toute espèce est le
+          véritable fléau de notre époque. Je fais de nouvelles instances aujourd'hui pour être
+          payé, mais je ne compte plus sur rien, si ce n'est de payer les frais de la traite. Vous
+          recevrez du reste les 180 fr. 80 aussitôt que je les aurai, à Besançon, par les mains de
+          M. Huguenet, à qui j'adresserai l'argent.</p>
+        <p>Je souhaite prospérité à Bintôt ; mais je crois qu'il n'avait pas besoin de s'accrocher à
+          cette nouvelle galère, ou pour mieux dire à ce brûlot. Bintôt vit au jour la journée
+          depuis vingt ou trente ans; il a envie de se faire sauter.</p>
+        <p>J'irai voir MM. Gaume et leur proposerai des Jeûnes de J.-C. Je n'en attends pas
+          grand'chose. Cet ouvrage convient particulièrement à Bailly, qui réunit dans son magasin
+          tous les livres de cette couleur, ceux même qui sont défendus, l'Amour le plus pur, par
+          exemple. Il faudra s'entendre avec lui. Vendez pour tout ce qu'on vous donnera.</p>
+        <p>Je compte toujours vous revoir en juin ou juillet. Si l'Académie, fidèle à ses principes
+          de cagotisme et de monarchisme rétroactif, refuse de prendre en considération mes
+          nouvelles recherches, je quitte aussitôt la littérature, que je n'aime pas, et je rentre
+          dans mes occupations bourgeoises, attendant pour écrire que le loisir et le repos me
+          viennent.</p>
+        <closer>
+          <salute>Je vous salue.</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

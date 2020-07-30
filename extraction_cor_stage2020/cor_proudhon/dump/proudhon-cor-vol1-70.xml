@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-01-06" resp="author">6 janvier 1841.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Messieurs de l'Académie de Besançon">Messieurs de l'Académie de
+            Besançon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-01-06"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>6 janvier 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Messieurs, au moment où votre lettre officielle en date du 24 décembre dernier m'est
+          parvenue, je me disposais à écrire à M. le secrétaire perpétuel de votre compagnie pour
+          lui faire part de la prochaine réimpression de mon ouvrage sur la Propriété, et, à cette
+          occasion, lui exposer avec franchise toute ma pensée. Je m'estime donc heureux d'avoir à
+          m'expliquer aujourd'hui devant vous et de pouvoir rendre communes à l'Académie des
+          confidences que je ne destinais d'abord qu'à son digne et fidèle organe.</p>
+        <p>Tous les griefs que l'on accumule contre moi se réduisent à un seul. J'ai fait un livre,
+          ou pour mieux dire une déclaration de guerre a la propriété ; j'ai attaqué l'ordre social
+          dans sa base actuelle ; j'ai nié, avec une rare préméditation et un acharnement sans
+          exemple, la légitimité de tous les pouvoirs; j'ai ébranlé toutes les existences; je suis
+          en un mot un révolutionnaire. Tout cela est vrai ; mais en même temps, et pour la première
+          fois peut-être, tout cela est parfaitement moral et plus digne d'éloge que de blâme. Ce
+          que j'ai à dire ici ne devant recevoir aucune publicité, l'on ne saurait sans injustice me
+          prêter l'orgueil de la contradiction ou la fatuité de me poser, comme sur un théâtre, en
+          victime de mes opinions. Qu'il me soit donc permis de me défendre en toute liberté et
+          simplicité.</p>
+        <p>Oui, j'ai attaqué la propriété ; mais, Messieurs, daignez jeter les yeux autour de vous.
+          Considérez vos députés, vos magistrats, vos philosophes, vos ministres, vos professeurs,
+          vos publicistes ; comptez avec moi les restrictions que le besoin de chaque jour, au nom
+          de l'intérêt général, apporte à la propriété ; mesurez les brèches déjà faites ; évaluez
+          celles que la société tout entière médite de faire encore ; ajoutez ce que renferment de
+          commun, sur la propriété, toutes les théories ; interrogez-vous vous-mêmes, et puis
+          dites-moi ce qui restera dans un demi-siècle de ce vieux droit de propriété? et tout à
+          l'heure, en me découvrant tant de complices, vous me trouverez moins coupable.</p>
+        <p>Qu'est-ce que la loi d'expropriation pour cause d'utilité publique à laquelle tout le
+          monde a applaudi, et que l'on ne juge pas encore assez expéditive ? Une violation
+          flagrante du droit de propriété. La société indemnise le propriétaire dépossédé, mais lui
+          rend-elle ces souvenirs traditionnels, ce charme poétique, cet orgueil de famille qui
+          s'attache à la propriété ? Naboth et le meunier de Sans-Souci eussent protesté contre la
+          loi française, comme contre le caprice de nos rois : « C'est l'héritage de nos pères ! se
+          fussent-ils écriés, nous ne le vendrons pas. » Chez les anciens, le refus du particulier
+          arrêtait la puissance de l'État ; la loi romaine fléchissait devant l'obstination du
+          citoyen, et un empereur, Commode, si je ne me trompe, abandonna le dessein d'élargir le
+          Forum, par respect pour des droits qui refusaient de s'abdiquer. L'homme imprime sa trace,
+          son caractère, sa volonté sur la matière façonnée de ses mains ! Cette force plastique de
+          l'homme est, au dire des modernes jurisconsultes, le sceau qui fait de la matière une
+          chose inviolable et sacrée. Et cependant, lorsqu'il a plu à une commission administrative
+          de déclarer qu'il y a utilité publique, la propriété doit céder à la volonté générale.</p>
+        <p>Ce n'est là, dira-t-on, qu'une exception qui confirme le principe et dépose en faveur du
+          droit. Je le veux ; mais de cette exception nous allons passer à une autre, de celle-ci à
+          une troisième, et d'exceptions en exceptions nous réduisons la règle à une pure
+          entité.</p>
+        <p>Combien pensez-vous, Messieurs, que le projet de conversion des rentes compte en France
+          de partisans ? J'ose dire tout le monde, excepté les rentiers. Or, cette prétendue
+          conversion est une vaste expropriation, et cette fois sans indemnité aucune. Une
+          inscription de rente est un véritable immeuble, sur le revenu duquel le propriétaire
+          compte en toute sécurité; son droit, c'est la promesse tacite du gouvernement emprunteur
+          de servir l'intérêt au taux convenu, aussi longtemps que le rentier ne demandera pas son
+          remboursement. Qui obligerait celui-ci, en effet, de placer son argent sur l'État, plutôt
+          que d'acheter des maisons ou des terres ? Lors donc que vous forcez le capitaliste de
+          supporter une diminution d'intérêt, vous lui faites banqueroute de toute la différence, et
+          comme, par la généralité et le retentissement de la mesure, un placement aussi avantageux
+          lui devient impossible, vous avilissez sa propriété.</p>
+        <p>Ce n'est point assez de pouvoir déposséder un citoyen pour cause d'utilité publique, on
+          veut encore le déposséder pour cause d'utilité privée. De toutes parts on réclame une
+          révision de la loi sur les hypothèques ; on demande, dans l'intérêt même des débiteurs et
+          au bénéfice de toute espèce de créance, une procédure qui rende l'expropriation
+          d'immeubles aussi prompte, aussi facile, aussi efficace que celle du protêt de commerce.
+          Or, savez-vous, Messieurs, où aboutit une pareille transformation du régime hypothécaire ?
+          A monétiser, si j'ose ainsi dire, les propriétés immobilières ; à les accumuler dans des
+          portefeuilles, à extirper du coeur de l'homme jusqu'au dernier sentiment de famille, de
+          nationalité, de patrie ; à rendre sa personnalité de plus en plus solitaire, indifférente
+          à tout ce qui lui est extérieur, concentrée dans un seul amour, celui de l'argent et des
+          billets de banque.</p>
+        <p>Certes, ce n'est pas ainsi que j'entends, moi, l'abolition de la propriété.</p>
+        <p>Que faisaient ces jours derniers nos représentants occupés dans leurs bureaux d'une loi
+          sur le travail des enfants dans les manufactures ? Messieurs, ils conspiraient contre la
+          propriété. Car leur règlement pourra bien empêcher le fabricant de faire travailler un
+          enfant au delà de tant d'heures par jour, mais il ne le forcera pas d'augmenter le salaire
+          de cet enfant ni celui de son père. Aujourd'hui, dans un intérêt hygiénique, on diminue la
+          subsistance du pauvre. Demain, il faudra l'assurer par un minimum d'appointements. Mais
+          établir un minimum d'appointements, c'est forcer la main du propriétaire, c'est
+          contraindre le maître d'accepter son ouvrier comme associé, ce qui répugne au droit de
+          libre industrie et rend obligatoire l'assurance mutuelle. Une fois entré dans cette voie,
+          on ne s'arrête plus : peu</p>
+        <p>à peu, le gouvernement se fera manufacturier, commissionnaire , débitant ; lui seul aura
+          la propriété. Pourquoi, à toutes les époques, les ministres d'État ont-ils si fort redouté
+          de toucher à la question des salaires ? Pourquoi se sont-ils toujours abstenus
+          d'intervenir entre le maître et l'ouvrier ? C'est qu'ils savaient combien la propriété est
+          chatouilleuse et jalouse, et que, la regardant comme le principe de toute civilisation,
+          ils savaient qu'y porter la main c'était ébranler la société jusque dons ses
+          fondements.</p>
+        <p>Et, Messieurs, cette inévitable conséquence où la nécessité entraîne le pouvoir n'est pas
+          de ma part une vaine imagination ! Voilà qu'on demande à la puissance législative, non
+          plus seulement de régler la police des manufactures, mais de créer elle-même des
+          manufactures. Entendez-vous ces millions de voix qui crient de tous côtés : à
+          l'organisation du travail ; à la création d'ateliers nationaux? Toute la classe
+          travailleuse est émue ; elle a ses journaux, ses organes, ses écoles, ses représentants.
+          Pour garantir le travail à l'ouvrier, pour équilibrer la production avec la vente, pour
+          mettre d'accord les propriétaires industriels, on invoque aujourd'hui , comme remède
+          souverain, une maîtrise unique, une seule jurande, une seule fabrication, car tout cela,
+          Messieurs, est renfermé dans l'idée d'ateliers nationaux. Je veux à ce sujet vous dire les
+          vues d'un illustre économiste, au demeurant zélé défenseur du droit de propriété.</p>
+        <p>L'honorable professeur du Conservatoire proposerait donc entre autres : — 1° De réprimer
+          l'émigration des travailleurs de la campagne dans les villes. Or, pour retenir le paysan
+          dans son village, il faut lui en rendre le séjour supportable ; voilà donc l'agriculture
+          comme l'industrie mise en train de réforme ; où s'arrêtera le mouvement? — 2° De fixer
+          pour chaque métier une unité moyenne de salaire, variable selon les temps et les lieux, et
+          d'après des données certaines. C'est-à-dire qu'afin de garantir aux propriétaires leurs
+          bénéfices, on leur en ôtera une part pour la donner aux travailleurs. Or, je dis, moi, que
+          cette part à la longue s'enflera si bien qu'il y aura égalité de revenu entre le
+          prolétaire et le propriétaire. — 3° Les ateliers nationaux ne devraient marcher que
+          pendant les moments de stagnation de l'industrie ordinaire. Dans ces cas, ils
+          s'ouvriraient comme de vastes déversoirs au flot de la population ouvrière. Mais,
+          Messieurs, quand l'industrie privée se repose, c'est qu'il y a chez elle surabondance de
+          produits, et qu'elle manque de débouchés : si donc la production se continue dans les
+          ateliers nationaux, comment la crise finira-t-elle ? D'un autre côté, il faudra au
+          gouvernement des capitaux pour payer les ouvriers ; or, ces capitaux, qui les fournira?
+          L'impôt. Et l'impôt, qui est-ce qui le paye ? La propriété. Voilà donc l'industrie
+          propriétaire soutenant contre elle-même, et à ses frais, une invincible concurrence. Que
+          pensez-vous que devienne dans ce cercle fatal le droit de propriété ?</p>
+        <p>La tendance à faire payer aux propriétaires le budget des ateliers nationaux et des
+          manufactures publiques est si profonde et si forte, que, depuis plusieurs années, sous le
+          nom de RÉFORME ÉLECTORALE, elle possède exclusivement l'opinion.</p>
+        <p>En effet, qu'est-ce, en dernière analyse, que cette réforme électorale, que plus d'un
+          parmi vous, Messieurs, j'en suis sûr, appelle de ses voeux secrets ? C'est l'intervention
+          des masses populaires dans le vote de l'impôt et dans la confection des lois, lesquelles
+          lois, ayant presque toujours pour objet des intérêts matériels, touchent toutes, de près
+          ou de loin, à des questions d'impôt ou de salaires. Or, le peuple, instruit de longue main
+          par ses journaux, par ses spectacles, par ses chansons, par ses économistes, sait
+          aujourd'hui que l'impôt, pour être équitablement réparti, doit être progressif et
+          s'attaquer surtout aux riches ; qu'il doit porter sur les objets de luxe, etc., etc. Et
+          comptez que le peuple, une fois en majorité dans la Chambre, ne se fera pas faute
+          d'appliquer ces leçons; déjà nous avons un ministère des TRAVAUX PUBLICS ; viennent les
+          ateliers nationaux et, par une savante dérivation, l'excédant du revenu du propriétaire
+          sur le salaire moyen de l'ouvrier, emporté par la taxe du percepteur, ira s'engouffrer
+          dans la caisse des travailleurs de l'État. Voyezvous d'ici, Messieurs, la propriété
+          réduite peu à peu, comme la noblesse d'autrefois, à n'être plus qu'un titre nominal, une
+          distinction honorifique?</p>
+        <p>Pas une école aujourd'hui, pas une opinion, pas une secte qui ne rêve de museler la
+          propriété. Nul ne l'avoue, parce que nul encore n'en a conscience ; trop peu
+          d'intelligences sont capables de saisir spontanément et de plein saut cet ensemble de
+          causes et d'effets, de principes et de conséquences, par lequel j'essaie de vous démontrer
+          la disparition prochaine du droit de propriété ; d'autre part, les idées qu'on s'en forme
+          sont trop divergentes et mal déterminées. Ainsi, dans la région moyenne et basse de la
+          littérature et de la philosophie, aussi bien que dans le vulgaire, on s'imagine que, la
+          propriété abolie, nul ne jouira du fruit de son travail ; que personne n'aura rien en
+          propre ; qu'une communauté tyrannique s'établira sur les ruines de la famille et de la
+          liberté. Chimères, qui soutiennent pour quelques moments encore la cause du privilège.</p>
+        <p>La notion la plus exacte de la propriété nous est donnée par le droit romain, en cela
+          suivi fidèlement par les anciens jurisconsultes ; c'est le domaine absolu, exclusif,
+          autocratique, de l'homme sur la chose, domaine qui commence par l'usurpation, se continue
+          par la possession et reçoit enfin sa sanction de la loi civile ; domaine qui identifie
+          l'homme et la chose, de telle sorte que le propriétaire peut dire : « Celui qui exploite
+          mon champ est comme celui qui me ferait travailler moi-même ; donc il me doit récompense.
+          » Aussi Pothier disait-il : « le domaine de propriété, » et non pas simplement la
+          propriété ; et les plus savants jurisconsultes, à l'instar du droit romain, qui
+          reconnaissait un droit de propriété et un droit de possession, ont distingué soigneusement
+          entre le domaine et le droit d'usufruit, d'usage et d'habitation, que je regarde comme
+          devant supplanter le premier et finalement constituer toute la jurisprudence.</p>
+        <p>Mais admirez, Messieurs, la maladresse des systèmes, ou plutôt la fatalité de la logique
+          : tandis que le droit romain et tous les savants qui se sont inspirés de ses textes
+          enseignent que la propriété est un droit de premier occupant, consacré par la loi, de
+          nouveaux légistes, mécontents de cette définition brutale, se sont avisés que la propriété
+          avait pour base le travail. Aussitôt on a tiré cette irréfragable conséquence, que celui
+          qui ne travaille plus et qui fait travailler un autre à sa place perd son droit, au
+          bénéfice de celui-ci. Dès lors, plus de propriété. C'est ce qu'ont parfaitement compris
+          les anciens de la robe, qui n'ont pas manqué de se récrier contre ces nouveautés, tandis
+          que la jeune école huait de son côté l'absurdité du premier occupant. D'autres se sont
+          présentés, qui ont prétendu concilier les deux opinions en les syncrétisant ; ils ont
+          échoué comme tous les juste-milieux du monde, et l'on s'est moqué de leur éclectisme.
+          Maintenant, l'alarme est au camp de la vieille doctrine ; de tous côtés il pleut des
+          Défenses de la propriété, des Études sur la propriété, des Théories de la propriété, dont
+          chacune donnant le démenti aux autres peut être regardée comme une plaie faite à la
+          propriété.</p>
+        <p>Les ressources ordinaires du droit ne suffisant plus, on a consulté la philosophie,
+          l'économie politique, les faiseurs d'hypothèses ; tous les oracles obtenus ont été
+          désespérants. Les philosophes ne sont pas plus clairs aujourd'hui que du temps de
+          l'efflorescence éclectique ; toutefois, après leurs mystiques apophthegmes, on distingue
+          les mots de progrès, d'unité, d'association, de communion, de solidarité, de fraternité,
+          qui certes n'ont rien de rassurant pour les propriétaires. L'un de ces philosophes a même
+          fait deux gros livres où il démontre par toutes les religions, les législations et les
+          philosophies, que l'égalité des conditions est la loi de la société. Il est vrai que cet
+          écrivain admet la propriété ; mais, comme il ne s'est point embarrassé de dire ce qu'est
+          la propriété dans l'égalité, on peut hardiment le ranger parmi les antagonistes du droit
+          du domaine. Les philosophes auront toujours le privilège de faire naître les difficultés
+          et de ne jamais les résoudre.</p>
+        <p>Les économistes conseillent d'associer le capital et le travail. Allant au fond de leur
+          doctrine, on ne tarde pas à s'apercevoir qu'il s'y agit d'absorber la propriété non plus
+          dans une association, mais dans une communauté universelle et indissoluble. En sorte que
+          la condition du propriétaire ne différerait plus de celle de l'ouvrier que par un plus
+          gros traitement. Ce système, avec des accessoires particuliers et quelques
+          embellissements, est la pensée même du phalanstère ; mais il est évident que, si
+          l'inégalité est un des attributs de la propriété, elle n'est pas toute la propriété; car
+          ce qui rend la propriété chose délectable, comme disait je ne sais plus quel philosophe,
+          c'est la faculté de disposer à volonté non pas seulement de la valeur de son bien, mais de
+          sa nature spécifique, de l'exploiter selon son plaisir, de s'y fortifier et de s'y clore,
+          d'en faire tel usage que l'intérêt, la passion et le caprice même suggèrent. Qu'est-ce
+          qu'une jouissance en numéraire, une action sur une entreprise agricole ou industrielle, un
+          coupon de grand-livre, à côté du charme infini d'être maître dans sa maison et dans son
+          champ, sous sa vigne et sous son figuier? Plaisant projet de réformel On ne cesse de
+          déclamer contre la soif de l'or et contre l'individualisme croissant du siècle, et puis,
+          par la plus inconcevable contradiction, on s'apprête à transformer toutes les espèces de
+          propriétés en une seule : la propriété des écus !</p>
+        <p>Ce résumé rapide est loin d'embrasser tous les éléments politiques, tous les accidents de
+          législation, toutes les institutions et les tendances qui menacent l'avenir de la
+          propriété; mais il doit suffire pour quiconque sait généraliser des faits et en dégager la
+          loi, l'idée, qui les domine. La société semble maintenant abandonnée au démon du mensonge
+          et de la discorde, et cette triste apparence est ce qui désole si profondément nombre
+          d'esprits distingués, mais qui ont trop vécu dans un autre âge pour avoir l'intelligence
+          du nôtre. Or, tandis que le spectateur à courte vue se prend à désespérer de l'humanité et
+          se jette, en blasphémant ce qu'il ignore, dans la fatalité ou dans le scepticisme, le
+          véritable observateur, certain de l'esprit qui gouverne le monde, cherche à comprendre et
+          à deviner la Providence. Le Mémoire sur la Propriété, publié l'année dernière par le
+          pensionnaire de l'Académie de Besançon, n'est pas autre chose qu'une étude de ce
+          genre.</p>
+        <p>Qu'ai-je fait, Messieurs, dans cet essai déféré à votre justice par je ne sais quelles
+          ignorantes et malignes instigations? Cherchant un axiome inébranlable à nos certitudes
+          sociales, j'ai d'abord ramené à une question unique et fondamentale toutes les questions
+          secondaires, si vivement et si diversement controversées de nos jours ; celte question a
+          été pour moi le droit de propriété. Puis j'ai cherché par l'analyse et par une sorte
+          d'expérimentation métaphysique, comparant les unes aux autres toutes les doctrines et en
+          dégageant les éléments communs, ce qui, dans l'idée do propriété, était nécessaire,
+          immuable, absolu; et j'ai affirmé que cette idée se réduisait à celle de Possession
+          individuelle, transmissible, susceptible non d'aliénation, mais d'échange, ayant pour
+          condition le travail, non une occupation fictive ou une oisive volonté. J'ai dit de plus
+          que cette idée était la résultante de nos mouvements révolutionnaires, le point culminant
+          vers lequel convergent, en se dépouillant peu à peu de ce qu'elles ont de contradictoire,
+          toutes les opinions nouvelles, et je me suis efforcé d'en donner la démonstration par
+          l'esprit des lois, par la psychologie, par l'économie politique et par l'histoire.</p>
+        <p>Si je me suis trompé dans mes inductions, il faut le montrer et me tirer d'erreur; j'ai
+          fait assez pour cela, et la chose en vaut assurément la peine ; il n'y a pas lieu à
+          châtiment. Car, comme le disait un conventionnel que la guillotine ennuyait : Tuer n'est
+          pas répondre.</p>
+        <p>Jusque-là, je persiste à regarder mon oeuvre comme utile, sociale, digne de récompense et
+          d'encouragement. Mais ce n'est pas ici le heu d'indiquer les lumières que les hommes
+          chargés du gouvernement pourraient en tirer pour l'administration de la chose
+          publique.</p>
+        <p>Pour moi, je sais une chose : les peuples vivent d'idées absolues, non de conceptions
+          approximatives et partielles ; donc il faut des écrivains qui définissent les principes ou
+          qui, du moins, les épurent au feu de la controverse. Telle est la règle : l'idée d'abord,
+          l'idée pure, l'intelligence des lois de Dieu, la théorie ; la pratique suit à pas lents,
+          circonspecte, attentive à la succession des événements et fidèle à saisir, sur le méridien
+          éternel, les indications de la Raison suprême.</p>
+        <p>Ainsi, fort de mes intentions, certain d'avoir contribué à la connaissance du vrai,
+          j'attends sans impatience, du temps, la justice qui m'est due, et je dédaigne cette
+          hypocrite et calomnieuse accusation d'avoir, par un écrit incendiaire, provoqué... Quoi!
+          seriez-vous donc institués pour juger les délits de presse, Messieurs?... Vous pouvez vous
+          déshonorer par un abus de pouvoir, mais je ne contribuerai pas à votre honte en
+          reconnaissant votre compétence. Proscrivez ma personne et mon livre; un jour peut-être le
+          pouvoir, quel qu'il soit, m'honorera. Mon caractère connu me recommandera seul; je n'aurai
+          pas besoin de changer de conduite ni de maximes.</p>
+        <p>Je veux maintenant répondre brièvement à quelques reproches secondaires qui m'ont été
+          adressés.</p>
+        <p>I. On a censuré amèrement le ton de mon livre. A cet égard, je ne me repens que d'une
+          chose, et je n'ai pas attendu les observations de l'Académie pour faire amende honorable à
+          qui de droit : c'est d'avoir montré contre le privilège de propriété une irritation trop
+          vive, et par là d'avoir laissé croire aux simples que j'étais, moi aussi, l'un de ces
+          conspirateurs forcenés qui s'en prennent à la société des maux qu'ils ne doivent qu'à
+          leurs vices, et dont les haines ténébreuses menacent tous les gouvernements, comme leur
+          immoralité repousse toute discipline. Ma diatribe, ab irato sans doute, aura manqué son
+          effet sur quelques intelligences paisibles ; quelque pauvre ouvrier, plus ému de mes
+          Sarcasmes passionnés que frappé de mes arguments, aura conclu que la propriété est le fait
+          d'un éternel machiavélisme des gouvernements contre les gouvernés. Déplorable erreur, dont
+          mon livre est lui-même la meilleure réfutation ! Tel est le seul regret que me laisse une
+          indignation qui, si elle n'est pas sainte dans son objet, du moins fut excusable dans sa
+          source. Quand un homme, après trente ans d'une vie laborieuse, se voit encore à la veille
+          de manquer de pain, et que tout à coup il découvre dans une équivoque de langage, dans une
+          erreur de comptabilité, la cause du mal qui le tourmente, lui et tant de millions de ses
+          semblables, il est bien difficile qu'il ne lui échappe un cri de douleur et d'épouvante.
+          Ces réflexions, vous les regarderez peutêtre comme le fruit d'une imagination malade;
+          mais, Messieurs, souffrez que je le dise, quelque chose vous manque pour en sentir la
+          justesse : vous n'êtes pas préparés par des études spéciales, suffisantes, à prononcer sur
+          une théorie de la Propriété.</p>
+        <p>II. Autre grief. J'ai accusé audacieusement non-seulement l'autorité de l'Église
+          chrétienne, mais sa fidélité dans la justice et la morale. Ma réponse sera simple et
+          catégorique : je l'ai fait à dessein et pour la gloire de la religion; j'ai voulu ménager
+          au christianisme l'éclat d'un triomphe au milieu des attaques sans nombre dont il est
+          devenu l'objet; c'est ce que j'expliquerai dans mon deuxième Mémoire.</p>
+        <p>III. On me reproche d'avoir associé l'Académie à ma pensé, et, par là, de l'avoir
+          compromise. Il y a dans ce grief encore plus de niaiserie que de malveillance. Je relis ma
+          Préface, et je n'y vois que l'hommage, de ma part fort naturel, de ce qui m'a semblé la
+          vérité, à ceux à qui je devrais certainement de l'avoir découverte. Je trouve même ce voeu
+          formellement exprimé : Puissiezvous vouloir l'égalité comme je la veux moi-même, etc...
+          Est-ce vous supposer égalitaires que de vous souhaiter l'amour de l'égalité ?</p>
+        <p>IV. Enfin on s'est plaint que j'eusse dédié mon ouvrage à l'Académie sans sa permission.
+          J'ai eu, une première fois déjà, l'honneur de représenter à l'Acamie que ma Préface était
+          un compte rendu, et nullement une dédicace. Une dédicace, Messieurs, c'est une espèce de
+          dithyrambe en prose traînante et à plis flottants sur les qualités vraies ou supposées de
+          celui qui l'accepte. Ici on le complimente sur sa noblesse, là on vante sa fortune, on
+          loue sa beauté, on exalte son génie, on préconise ses vertus, surtout on encense le goût
+          qu'il déploie dans le genre auquel appartient l'ouvrage placé sous sa protection. Mais
+          dans quelle dédicace vit-on jamais un auteur parler de ses études, de ses progrès, des
+          causes qui ont amené le choix de sa thèse; raconter ses inspirations, ses antipathies, ses
+          espérances? Voilà,Messieurs, tout ce que j'ai fait; et il serait difficile de dire
+          comment, ayant à traiter avec vous de l'emploi de mon temps et de la direction de mes
+          travaux, je pouvais le faire d'une manière plus respectueuse.</p>
+        <p>Mais, dit-on, pourquoi imprimer ce compte rendu? pourquoi mêler à vos élucubrations
+          privées le nom inviolable de l'Académie?</p>
+        <p>Messieurs, en adressant mon travail à l'Académie, je n'ai pas entendu parler aux hommes
+          qui, dans un moment donné, la composent. Ce n'est point à M. Alviset, le premier
+          président, ni à M. Monnot, le président, ni à M. Guillaume, le juge, ni à M. Clerc,
+          l'ancien avocat général, ni à M. Curasson, le praticien, ni à M. Doney, le philosophe, ni
+          à M. Ruellet, le succursaliste, ni à personne enfin. Ce n'est point aux quarante citoyens
+          dont les honorables individualités représentent phénoménalement les sciences,
+          belles-lettres et arts, en Franche-Comté que j'ai fait hommage de mon livre; c'est en eux,
+          à l'Académie, à son unité collective, permanente, indivisible, non infaillible, mais
+          capable d'acquérir tous les jours des lumières nouvelles et de revenir d'une erreur
+          passagère. Or, cet hommage volontaire, absolu, sans arrière-pensée, j'avais le droit de le
+          faire et je ne puis le rétracter, et vous, Messieurs, vous ne pouvez m'en faire un crime.
+          Repoussez la solidarité de ma doctrine, c'est votre droit, ce peut être votre devoir ;
+          comme citoyens, en effet, vous pouvez adhérer à mes opinions, mais comme membres d'un
+          corps savant une semblable adhésion serait, je le suppose, prématurée, partant imprudente
+          et blâmable. Il n'est pas bon en général qu'une Académie prenne l'initiative du mouvement
+          intellectuel, non plus que des réformes politiques. Sa règle est d'observer, d'attendre et
+          de laisser au temps à éprouver les idées ; mais là s'arrête votre prérogative. Craignez
+          pour votre gloire une méprise funeste; les hommes passent, la pensée demeure; quand vous
+          m'aurez blâmé à la pluralité des suffrages, le temps, ce changeur de formes, me refera une
+          majorité. La même Académie qui aujourd'hui m'incrimine peut dans dix ans me récompenser.
+          Je connais quelques-uns de vos successeurs. Eh bien ! Messieurs, si vous me condamnez,
+          déjà ils se promettent de casser votre jugement.</p>
+        <p>Je dois à l'Académie de Besançon le peu que je sais, je me plais à le reconnaître, et mon
+          habituelle pensée est de lui devoir toujours davantage; rien, jamais, ne saurait altérer
+          les liens de vénération et d'amour qui m'attachent à cette illustre compagnie, et par elle
+          à la Franche-Comté.</p>
+        <p>Je vous dois aussi beaucoup, à vous, hommes académiciens, et, si je ne l'oublie pas,
+          pouvez-vous sérieusement songer à éteindre en mon coeur ce souvenir? Car enfin, Messieurs,
+          me retirer le titre que je tiens de votre élection, c'est me donner acquit de
+          reconnaissance.</p>
+        <p>Mais non, non, vous n'userez point envers moi d'une rigueur dont le scandale, n'en doutez
+          pas, Messieurs, retomberait sur vous seuls ; vous ne flétrirez pas d'un blâme public un
+          homme que sa conscience aurait déjà consolé d'une absurde punition. Vous, me punir! et de
+          quoi? De mon incapacité? Ce motif me serait nouveau, je l'avoue. — De mes moeurs? Je vis à
+          Paris avec moins de huit cents francs par an ; ma moralité vaut mieux que la pension
+          Suard.—D'avoir négligé ma fortune pour faire un livre que je n'ose qualifier devant vous,
+          puisqu'il a le malheur de vous déplaire? Alors, Messieurs, vous pensez qu'une vie comme la
+          mienne n'a pas été suffisamment éprouvée et qu'elle manque de quelque chose. Ne pouvant
+          étouffer le passé, vous m'ôterez six mois de vie, vous étoufferez autant qu'il est en vous
+          ma pensée, vous donnerez à mon oeuvre la consécration de l'injustice... Je fuis, je
+          repousse un honneur brigué par tant d'autres; je ne m'estime point assez pur pour souffrir
+          la persécution, et ne connais personne, au temps où nous vivons, qui me semble digne du
+          martyre. Ne profanez pas, Messieurs, cette palme sacrée. Mais j'affirme l'égalité des
+          conditions, et, ce faisant, je renverse la société existante? Messieurs, je ne renverse
+          rien ; comme tout le monde aujourd'hui, je fais de la réforme. Quiconque en douterait
+          prouverait par là seulement qu'il ne conçoit rien aux agitations de la France, et qu'il ne
+          comprend ni son siècle, ni l'esprit humain, ni l'histoire.</p>
+        <closer>
+          <salute>Je suis, en attendant votre décision, Messieurs, votre pensionnaire,</salute>
+          <signed>P.-J. PROUDHON.</signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

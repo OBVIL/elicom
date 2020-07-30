@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Pierre-Joseph Proudhon</title>
+        <author>Pierre-Joseph Proudhon</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Proudhon, Pierre-Joseph (1809-1865)"
+            ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
+            Proudhon</persName>
+          <date when="1841-03-28" resp="author">28 mars 1841</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Monsieur le secrétaire perpétuel de l’Académie de Besançon (...-...)"
+            >Monsieur le secrétaire perpétuel de l’Académie de Besançon</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1841-03-28"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris,</placeName>
+            <date>28 mars 1841.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Monsieur le Secrétaire perpétuel, comme je crois ma subsistance désormais assurée à
+          Paris, au moins pour un an, et qu'il est parfaitement inutile pour mes intérêts que j'y
+          encaisse le montant du dernier semestre de la pension Suard, je vous aurais beaucoup
+          d'obligations si vous vouliez me faire payer ce terme échu dans les mains, soit de M.
+          Proudhon, du chapitre, que vous connaissez, soit plutôt de M. Huguenet, prote à mon
+          imprimerie et maintenant mon associé. Je l'ai même chargé de recevoir pour moi cet argent
+          et d'en faire tel usage que je lui désigne. J'ai pris la liberté de vous parler de cela,
+          Monsieur le Secrétaire perpétuel, afin de vous épargner l'envoi d'une correspondance, et à
+          moi celui de payer un change au banquier.</p>
+        <p>L'impression de mon apologie à Blanqui est depuis très-longtemps commencée et ne sera pas
+          finie avant les vacances de Pâques, en sorte que ma brochure ne pourra paraître que dans
+          le second semestre de cette année, et lorsque je ne dépendrai pour ainsi dire plus de
+          l'Académie. Mes nouvelles occupations ont été cause de ce retard; il m'a fallu travailler
+          pour autrui, travailler pour moi-même, et entendre encore à mes affaires domestiques.
+          L'ennui, - la peine d'esprit et les tracasseries se multiplient pour moi avec les années ;
+          joignez à tout cela le travail, et vous ne serez pas surpris si vous entendez dire jamais
+          que j'ai par moment l'air hébété et comme fou. Mes maux de tète deviennent plus fréquents,
+          ma faiblesse organique augmente dans la même proportion. Si je travaille cinq ans encore
+          comme les deux qui viennent de s'écouler, je suis un homme enterré. Le mal de Fallot me
+          gagne.</p>
+        <p>L'Académie est un peu la cause de mes maux, bien que je lui doive tout ce que j'ai
+          appris; et je ne sais encore sur quel ton je devrai la remercier au mois d'août prochain.
+          C'est elle qui m'a poussé à l'esclavage où je me trouve, et qui m'a préparé la plus rude
+          épreuve qu'une vertu humaine puisse soutenir. Jamais homme ne prit tant de peine pour
+          s'assurer un peu d'indépendance et ne fut si constamment et si fatalement tenu dans la
+          servitude. J'ai écrit contre la propriété; mais je crois qu'il me manquait quelque chose
+          pour la bien connaître, et que la Providence, par le ministère de l'Académie, m'a mis où
+          je suis.</p>
+        <p>Je ne me plains pas de l'homme avec qui je travaille; assurément c'est un homme de coeur,
+          d'honneur, de bonne foi. Malheureusement, il n'y a rien de plus de commun entre nous. Doué
+          d'un esprit brillant, léger, voltairien, vaudevilliste, mon propriétaire exploiteur n'a
+          pas plus de réflexion que son chat, n'entend rien aux choses sérieuses, et ne saurait me
+          comprendre. Nous faisons un livre ensemble, mais il faut que j'en fasse, pour ma part, le
+          fond, la philosophie, l'histoire, la dogmatique, l'application et le style. Il faut que je
+          donne des idées à un homme qui n'en a pas, et un corps à ces idées.</p>
+        <p>Puis, n'étant pas maître de mon sujet et de ma pensée, il faut que j'écrive des ébauches
+          informes que j'entends critiquer avec beaucoup de franchise, c'est-à-dire de vivacité,
+          quelquefois d'incompétence, ce qui me fatigue et me lasse. Cependant je dois dire, à la
+          louange de mon maître et de ses conseils, qu'ils ont trouvé ingénieuses, excellentes même,
+          certaines idées capitales sur la philosophie de l'histoire, la judiciaire et la
+          psychologie, et que maintenant on est à me pousser pour que j'y donne suite et que j'y
+          ramène tout l'ouvrage. J'ai d'abord regretté (ce sentiment est de l'amour-propre, mais il
+          est bien naturel) d'avoir livré de belles choses qui me pouvaient faire beaucoup
+          d'honneur; mais j'en ai bientôt pris mon parti. Je me suis d'abord reproché ce mouvement
+          d'égoïsme, en me disant que les vérités à découvrir étaient infinies, et que je n'avais
+          qu'à travailler pour moi comme je faisais pour les autres ; puis je me suis promis
+          d'exploiter plus tard le livre que je fais, et qui ne peut paraître sous mon nom. Voici
+          comment :</p>
+        <p>Les doctrines historico-politiques qu'il renferme ne présentent rien au premier coup
+          d'oeil que de grand, de beau, de providentiel, si j'ose ainsi dire, mais elles font partie
+          d'une vaste étude sur les législations, étude qui aura pour but la démonstration, sous des
+          formes neuves, des principes que je défends.</p>
+        <p>Or, l'ouvrage dont je vous parle, publié, prôné comme il le sera, admis pour la plupart
+          des choses, je regarde le public comme engagé, et je me représenterai à mon tour pour
+          donner le dernier mot de ce que mes juges ne voient qu'à demi.</p>
+        <p>En un mot, je pose ici une prémisse que l'autorité de magistrat et la nouveauté de la
+          chose feront admettre, j'en suis sûr ; je me réserve plus tard d'en tirer la conséquence.
+          Je puis le prédire hardiment, cela s'accomplira comme je le dis; et c'est ce qui me
+          console de voir mes enfants légitimes porter le nom d'un père adoptif. Puisse la vérité
+          gagner à ce sacrifice, mais puissé-je être bientôt délivré de ce calice d'amertume !</p>
+        <p>Je vous prie de saluer MM. Weiss et Vianais, ainsi que votre frère, que je croyais voir
+          au mois de mars qui s'achève, d'après ce que m'avait annoncé cet hiver M.
+          Parent-Desbarres.</p>
+        <p>Je ne pourrai travailler à l'éloge de Suard; mais, comme j'en médite le sujet et que j'ai
+          quelque chose à en tirer, je le publierai un jour. Je vous prie de m'excuser si, bien
+          malgré moi, je ne puis faire partie de votre concours. Ce serait me tuer.</p>
+        <closer>
+          <salute>Je suis, Monsieur le Secrétaire perpétuel, avec l'affection la plus vive,</salute>
+          <signed>Votre ancien élève,<name>P.-J. PROUDHON.</name></signed>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
