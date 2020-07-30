@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-11-11" resp="author">11 novembre 1827</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Berryer, Pierre-Antoine (1790-1868)"
+            ref="https://data.bnf.fr/fr/12343838/pierre_antoine_berryer/">Pierre Antoine
+            Berryer</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-11-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Le 11 novembre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>En voilà-t-il, mon cher ami? Est-ce assez pour une fois? soixante-quinze seigneuries
+          nouvelles1 ! J'ai le bonheur d'en connaître assez particulièrement quelques-unes8, et je
+          répondrais d'elles corps pour corps : âme pour âme, c'est une autre affaire. Ce qui
+          m'afflige là dedans, au milieu de la joie publique qui sera grande sans doute, c'est
+          l'oubli où le roi laisse des services tels que ceux de notre ami\ Je m'y attendais, et je
+          le lui ai dit, mais cela ne me console pas. Du reste je pense qu'il saura se mettre, ou
+          plutôt rester au-dessus de l'ingratitude qui fut de tous temps, comme le marque Machiavel,
+          « la vertu favorite des princes. » Et puis, que perd-il? J'avoue qu'en ce genre, je ne
+          connais ni le désir ni le regret.</p>
+        <p>Enfin nos bien-aimés ministres donnent huit jours à la France pour trouver 400 hommes en
+          état de gouverner. Cela fait honneur au pays. Je doute qu'il y en. ait un second où l'on
+          osât seulement supposer que les législateurs y fussent aussi communs et la réflexion aussi
+          prompte1. Nous verrons le résultat; j'en suis cufleux. Il n'y a pas d'ailleurs à craindre
+          pour la Royauté, comme je viens de l'apprendre en lisant la brochure de M. de Bonald sur
+          l'Opposition et la liberté de la presse. Tout serait à merveille, si l'on ne donnait pas
+          de « distractions » aux- ministres. Mais comment voulez-vous qu'ils conservent « leur
+          présence d'esprit, » tant qu'on les fatiguera de droite et de gauche par mille propos qui
+          étourdiraient des têtes encore plus fortes, s'il est possible? N'en déplaise au noble
+          Pair, je ne crois pas du tout que ce soit « la présence d'esprit » qui manque à nos
+          ministres; mais c'est déjà beaucoup d'avoir .avoué qu'il leur manque quelque chose. Du
+          reste leur apologie ne porte pas bonheur; et pour sa réputation, s'il y tient,
+          l'apologiste aurait mieux fait de continuer à dormir son sommeil. Son livre, car c'en est
+          un presque, contient pourtant quelques traits àssez fins qui n'auront pas réjooi M. de
+          Chateaubriand. Cette petite guerre est bien misérable. En somme, nous nous apetissons
+          furieusement. Il en résulte qu'on ne peut plus se fâcher contre cette pauvre société
+          idiote, qui s'en va à la Morgue en passant par. la Salpêtrière. J'ai vu hier mon frère un
+          moment, c'est-à-dire trois ou quatre heures. Nous avons parlé de vous, cher, et je suis
+          chargé de vous le dire, en vous laissant deviner ce qui a été dit. Ce ne sera pas
+          difficile à votre cœur aimant et si digne d'être aimé.</p>
+        <p>J'ai été obligé de suspendre le travail dont vous avez con. naissance) pour arranger les
+          petits ouvrages de piété dont le jugement me laisse la disposition. Cela me prendra
+          plusieurs mois que je regrette. Je travaille maintenant à de nouvelles Réflexions pour
+          l'Imitation in-52 que MM. Belin veulent imprimer. Je trouve toujours que ces Réflexions
+          jurent par leur contraste avec l'inimitable naïveté du texte. Il en faut, cependant,
+          puisqu'il y en a dans les autres éditions. On en aura donc, et tant pis pour ceux qui les
+          ont voulues. Vous savez, cher, comment je suis à vous.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

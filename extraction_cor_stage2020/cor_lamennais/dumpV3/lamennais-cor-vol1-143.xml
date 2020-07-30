@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-12-21" resp="author">21 décembre 1827</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Berryer, Pierre-Antoine (1790-1868)"
+            ref="https://data.bnf.fr/fr/12343838/pierre_antoine_berryer/">Pierre Antoine
+            Berryer</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-12-21"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Le 21 décembre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Dites-moi, mon cher ami, si l'on voulait se sauver, comme cet homme veut rester ministre,
+          ne serait-ce pas comme si déjà l'on était dans le ciel? Mais on n'a cette volonté que pour
+          l'enfer, l'enfer de ce monde et l'enfer de l'autre ; car je maintiens qu'il n'y a pas
+          là-bas, dans l'Empire ténébreux, de cachot semblable à ces hôtels si enviés, si désirés, à
+          la porte desquels veillent tous les spectres qu'Énée vit à l'entrée des Royaumes sombres.
+          — Pourquoi donc, M. le président, vous faire tant prier? Allons, un peu déraison... —
+          Mais, au lieu de m'écouter, le voilà qui calcule : une voix, deux voix, dix voix,
+          cinquante voix de minorité! La plume lui tombe des mains, sa tête s'abaisse sur sa
+          poitrine; une grande pensée l'absorbe. Puis il recommence à compter, son front s'épanouit;
+          il a trouvé une combinaison nouvelle, une loi d'attraction inconnue jusqu'alors, qui fera
+          graviter les Corps législatifs (ce ne sont pas des Corps célestes) autour de leur centre
+          qui est lui : c'en est fait, le monde ministériel marchera. Il l'espère un jour, il
+          l'espère deux jours; mais le troisième, adieu la loi, adieu l'attraction, adieu le monde,
+          adieu tout! Et il dit : « — Au moins, sachez bien qu'après moi plus de soleil; je vous en
+          avertis, ce sera tout au plus s'il vous . reste la lune. » Et des milliers de voix de
+          crier : « Vive la lune!... Nous aimons la lune!... Nous voulons la lune!... Qu'on nous
+          donne la lune!... » Et je crois qu'il faudra bien, en effet, bon gré, mal gré, que le
+          soleil lui fasse place, ce qui serait très-fâcheux, si nous n'étions pas en hiver. Voilà,
+          mon bon ami, comme va la société, cette société dont j'ai mis dans ma tête d'écrire
+          l'histoire. Au reste, j'ai bien des choses à faire auparavant. Je viens d'achever de
+          nouvelles Réflexions pour l'Imitation. Je vais m'occuper d'une Journée chrétienne, et,
+          après cela, j'essayerai d'ajouter deux ou trois petits Dialogues à celui que Saint-Victor
+          vient de se hâter de réimprimer. Je n'ai pas d'autre moyen de sauver une partie de ce qui
+          m'appartient si légitimement, de ce qui, à la lettre, est mon pain.</p>
+        <p>Et vous, cher, que faites-vous? que dites-vous? que pensez-vous? Vous amusez-vous un peu
+          de ce qui se passe? Vous effrayez-vous de ce qui se passera?</p>
+        <p>Il faut, croyez-moi, en prendre son parti, ou plutôt il faut se souvenir que Dieu seul
+          gouverne ce que les hommes croient gouverner. Je voudrais entendre Rubichon 1. Dites-lui
+          mille choses de ma part, et pressez-le de finir son intéressant ouvrage. Je le lui demande
+          au nom d'un sot,— au nom du genre humain.</p>
+        <closer>
+          <salute>Et, à présent, que vous dirai-je? Que j'appelle sur vous et sur les vôtres mille
+            bénédictions du ciel pendant l 'aiinée qui va s'ouvrir; que je vous prie de m'aimer
+            toujours un peu sous le règne de la lune comme sous le règne du soleil; de penser à moi
+            de temps en temps, et de m'écrire le plus souvent qu'il vous sera possible. Voilà, cher,
+            mes vœux pour vous, mes désirs pour moi ; et puis je vous embrasse tendrement, bien
+            tendrement, je vous assure.</salute>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

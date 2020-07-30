@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 16 mai 1828." resp="">le 16 mai 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="171. — Al MÊME. (...-...)">171. — Al MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 16 mai 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A Vitrolles</placeName>
+            <date>le 16 mai 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je reçois, cher ami, votre lettre du 10 mai qui m'annonce votre arrivée prochaine à Turin. Je vous annonçai hier la mienne ici, où je passerai une quinzaine de jours : ce sera le lundi 2 juin que je me remettrai en route pour vous aller joindre. Je serai, le mardi, à Briançon, et peut-être même à Fenestrelles où à Pigrierol ; mais toujours, au plus tard, le mercredi. Comme j'ai encore le temps de recevoir ici une lettre de vous, veuillez me dire où et comment je vous trouverai à Fenestrelles, en cas que vous y veniez ; mais je vous supplie de nouveau de ne pas faire ce voyage s'il vous dérangeait le moins du monde. Oh! qu'il me sera doux de vous revoir, cher ami! Mille respects et mille tendresses. — M. de Vitrolles veut que je vous offre ses hommages.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Félicité de Lamennais</title>
+            <author>Félicité de Lamennais</author>
+            <respStmt>
+               <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+                  direction d'Arthur Provenier</resp>
+               <persName>
+                  <forename>Lucie</forename>
+                  <surname>Slavik</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Obvil</publisher>
+            <date when="2020"/>
+            <idno/>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                  <p/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Gerbet, Philippe Abbé (1798-1864)"
+                  ref="https://data.bnf.fr/fr/12273858/philippe_gerbet/">Abbé Philippe
+                  Gerbet</persName>
+               <date when="1827-09-08" resp="author">8 septembre 1827.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Comte de Senfft, Monsieur (...-...)">Monsieur le Comte de
+                  Senfft</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="foo.xml"/>
+               <ref type="next" target="bar.xml"/>
+            </correspContext>
+         </correspDesc>
+         <creation>
+            <date when="1827-09-08"/>
+         </creation>
+         <langUsage>
+            <language ident="fre"/>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <placeName>A la Chenaie,</placeName>
+                  <date>8 septembre 1827.</date>
+               </dateline>
+               <salute>Monsieur le comte,</salute>
+            </opener>
+            <p>« Depuis ma lettre de la dernière quinzaine d'août, nous avons eu à la Chenaie des
+               choses tristes. Un des domestiques a été malade, et le domestique de confiance est
+               mort. Cet événement a fait éprouver à notre ami une secousse qui m'avait bien
+               effrayé. Deux accès de fièvre l'avaient repris : mais, Dieu soit béni de nouveau et
+               toujours! cela n'a pas de suite, et la convalescence redevient progressive: la fièvre
+               a été coupée bien à propos. Je renais de toutes mes craintes toujours trop
+               promptes.</p>
+            <p>Je commencerai à vous donner des détails sur cette maladie qui a été pour nous la
+               cause de tant d'angoisses. Je suis arrivé à la Chenaie la veille du jour où il est
+               tombé malade. C'était d'abord une fièvre tierce bilieuse, compliquée ensuite avec une
+               fièvre maligne qui a été la principale maladie. Je ne puis vous dire combien il a
+               souffert de ses affreux spasmes, ni avec quelle admirable patience, ni ce que j'ai
+               souffert moi-même, lorsqu'à deux différentes reprises il s'est évanoui dans mes bras;
+               je le croyais mort. Je reviens à regret sur ces tristes souvenirs : je passe à de
+               plus consolants, puisqu'ils se rapportent aux plus terribles moments.</p>
+            <p>Il avait demandé de bonne heure les derniers sacrements : le jour où il a reçu le
+               saint Viatique a été bien beau pour sa vive foi et sa sérénité. Du reste, tout a été
+               simple : face à face de la mort, il a été, si je puis parler ainsi, sans façon avec
+               elle. Il me disait de temps en temps des mots qui me déchiraient et me soutenaient
+               tout ensemble.</p>
+            <p>« Que serviraient, disait-il, les honneurs, les richesses, la réputation, quand oil
+               elt « est là ? » Je lui répondis qu'aussi bien il n'en avait jamais fait grand cas :
+               « Mon « auti, me dit-il, j'ai envie de m'en aller : j'ai bien assez de la terre. » Je
+               me rappelle aussi qu'une nuit où il se trouvait mieux, je lui disais, pour le
+               distraire, qu'il faisait un superbe clair de lune; il essaya de se soulever pour
+               entrevoir à travers sa fenêtre cette belle nuit, et me dit en retombant : « Pour ma
+               paix, s'il plaisait à Dieu, ce serait la dernière. » Lorsque son cher frère fut
+               arrivé (c'est lui qui l'a administré), il lui dit, après s'être entretenu quelques
+               instants avec lui : « Je te lègue la plus belle chose du monde, la vérité à défendre.
+               » Une autre fois je lui demandais ce qu'il désirait boire : comme ses idées
+               commençaient à se brouiller, il ne comprit pas bien ma question; mais, l'interprétant
+               dans un sens analogue à sa pensée habituelle, il me répondit : « Oit ne peut désirer
+               autre chose que ce que Dieu veut. » Cette réponse, qui n'était pas une réponse, n'en
+               était que plus belle; c'était comme un son que rendait son âme. Ceci me ramène aux
+               plus cruels moments. Hélas! après le post-scriptum de ma triste lettre du 27-28
+               juillet, lequel vous avait un peu rassuré, quelle journée, le lendemain 29! Il
+               faisait une chaleur étouffante : de six heures à onze heures, nous le crûmes à
+               l'agonie. Son pauvre frère me pria de lui renouveler l'absolution des mourants. Le
+               mieux commença à onze heures, et depuis lors nous sommes arrivés bientôt,
+               d'espérances en espérances, aux heureuses nouvelles que je me suis empressé de vous
+               transmettre. Dans ma prochaine lettre, j'ajouterai encore quelques détails sur les
+               circonstances de cette maladie. </p>
+            <p>Venons aux projets de voyage. Je crois que ce n'est pas encore le moment de lui en
+               parler. J'attendrai le retour de M. l'abbé Jean, qui doit être ici le 19. Je suis
+               persuadé comme vous que rien ne serait plus utile à sa santé sous tous les rap ports
+               : il serait si bien auprès de vous! Mais, quoique je lui en aie déjà dit quelques
+               mots, il m'a paru que ce projet, si bien d'accord avec ses sentiments, ne lui paraît
+               pas compatible avec ses travaux. J'en conférerai prochainement avec M. l'abbé Jean,
+               et nous agirons de concert. Du reste, il ne pourrait pas, vu sa faiblesse,
+               entreprendre incessamment ce long voyage. Pour moi, ce me serait un double bonheur de
+               l'accompagner à Turin : je suis plus sensible que je ne puis le dire à la bonté avec
+               laquelle vous m'y invitez. </p>
+            <p>J'ai reçu de Paris des nouvelles qui me peinent, au sujet de la Société catholique :
+               mais la conduite de Laurentie est toujours admirable. Mille et mille hommages. </p>
+            <closer>
+               <salute/>
+               <signed/>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-10-22" resp="author">22 octobre 1827</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Comtesse de Senfft, Madame (...-...)">Madame la Comtesse de
+            Senfft</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-10-22"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Le 22 octobre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Il est bien vrai que la vie est triste, pleine de soucis, de mécomptes, d'inquiétudes, de
+          douleurs; mais tout cela dure peu.</p>
+        <lg>
+          <l>Quel che l'anima nostra preme e'ngombra,</l>
+          <l> Dianzi, adesso, ier, diman, mattino, e sera,</l>
+          <l> Tutti in un punto passeran com' ombra</l>
+        </lg>
+        <note resp="editor">- Tout ce qui oppresse, tout ce qui surcharge notre âme, — Autretois et
+          Maintenant, Hier et Demain, Matin et Soir, — Tous, en un moment, passeront comme
+          l'ombre.</note>
+        <p>Prenons donc patience encore quelques instants. Nous n'avons pas achevé de semer, que
+          nous voudrions recueillir. Ce n'est pas là l'ordre de Dieu. Il faut que les pluies et les
+          glaces de l'hiver, les chaleurs de l'été et ses orages passent sur ce grain à peine germé,
+          et puis viendra le jour de la moisson, jour plein d'allégresse et de paix, jour des
+          espérances satisfaites, des joies et du repos éternel. Jacob comptait pour bien peu de
+          chose cent quarante ans de misère; pauci et mali, disait-il. Et nous qui ne sommes encore,
+          par comparaison, qu'au berceau, nous nous plaignons de la longueur et de la dureté de
+          l'épreuve. Imaginons-la plus dure encore, dix fois, cent fois, mille fois ; que sera-ce,
+          près de la récompense? Le tout est de persévérer, et nous savons que Dieu donne sa grâce
+          aux humbles; humilibus dat gratiam. Que nous faut-il de plus que cette promesse? Soyons
+          fidèles aujourd'hui, demain, et le ciel nous est. assuré. Bossuet, dans son oraison
+          funèbre de la Princesse Palatine, dit qu'elle fut douce avec la mort. Je voudrais que nous
+          fussions « doux avec la vie; » nfais cela, j'en conviens, est plus difficile.</p>
+        <p>Je suis charmé que vous ayez M. d'Olry près de vous. Il me semble que vous l'aviez connu,
+          il y a quinze ou vingt ans, à Berne. Je n'oublierai jamais l'aimable hospitalité qu'il
+          voulut bien me donner, sous les auspices de M. Vuarin, pendant mon voyage en Suisse. Où
+          va-t-il maintenant, et qui le remplace près des Magnifiques Seigneurs 1? Ce poste ne
+          laisse pas d'être important, et il y a rendu de nombreux services avec un zèle dont la
+          pureté et la vivacité me touchèrent extrêmement, lorsque j'en fus témoin. Je suis bien
+          aise pour lui qu'il ait quitté ce triste pays ; mais je regrette le bien qu'il y faisait
+          et qui sera difficilement continué par un autre.</p>
+        <p>Vous ai-je dit que l'abbé G.... retournait à Paris? Je le perdrai dans trois jours, et je
+          vais de nouveau me trouver seul. Heureusement, ce genre de vie m'est assez familier. Avec
+          des livres et un peu de travail, les vingt-quatre heures passent vite. Cela vaut mieux,
+          sans comparaison, que la foule des importuns qui m'accablent à Paris. On m'annonce que
+          plusieurs évêques, à l'exemple de celui de Dijon, doivent m'altaquer dans leurs Mandements
+          de carême. Je verrai s'il y a lieu de répondre; je désire que non, car ces discussions
+          détournent d'occupations plus utiles et produisent peu de fruit. On pourrait, d'un seul
+          mot, les prévenir ou les arrêter; mais on ne veut pas. La peur fait qu'on se tourne du
+          côté où l'on reçoit les coups. On en rirait si c'était moins triste 1. Jamais la vérité
+          n'eut moins d'appui en ce monde. Les uns l 'abandoniient, les autres la renient. Je ne
+          pense jamais sans un profond étonnement au mot de 'saint Pierre, en présence des Juifs
+          persécuteurs de J. C. : Non novi hominem ! Et pourtant il lui fut dit : Super te
+          aedificabo ecclesiam meam.</p>
+        <p>Plaignons les hommes faibles ou aveugles, et vivons de la foi aux promesses. Malgré tout
+          ce qu 'on fait contre elles, les bonnes doctrines ne laissent pas de se propager et de
+          s'affermir. Le temps est pour elles, mais par politique, je crois ; parce qu'elles sont de
+          l'éternité, et qu'il y retourne.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 7 novembre 1828." resp="">le 7 novembre 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="191. - A M. LE MARQUIS DE CORIOLIS. (...-...)">191. - A M. LE MARQUIS DE CORIOLIS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 7 novembre 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 7 novembre 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je suis, monsieur le marquis, entouré de malades, l'un desquels m'a donné et me donne encore de très-vives inquiétudes. Il s'en faut beaucoup qu'au milieu de ces soucis continuels et de mille occupations qui s'y joignent je sois moi-même bien portant. Voilà l'explication du retard que j'ai mis à vous remercier de votre souvenir si bon et si aimable. Si ma pauvre tête est épuisée, mon cœur ne le sera jamais pour vous, non plus que pour le cher petit Emmanuel, qui m'a écrit une lettre charmante, dont j'ai été fort touché ; je vous prie de le lui dire. Je ne suis pas moins sensible aux bontés de Mmc de Maccarthy, et je veux espérer que son séjour près de vous contribuera beaucoup à rétablir sa santé si frêle. Ce</p>
+        <p>que vous me faites l'honneur de me dire touchant l'état de souffrance dans lequel vous l'avez retrouvée m'affecte bien péniblement. C'est le seul point sur lequel je ne saurais me consoler de sa ressemblance avec Mil- de Vitrolles, dont je n 'ai d ailleurs aucunes nouvelles depuis assez longtemps. J'ignore encore de quelle manière notre ami s'arrange de son nouveau séjour1. Ce sont des habitudes toutes nouvelles à prendre, et, quelque flexibilité qu'on ait dans l'esprit et le caractère, cela coûte toujours au commencement. Ce qui lui manquera le plus, je crois, ce Sera une société selon son goût. Nous autres Français, nous sommes habitués à quelque chose de plus sérieux et de plus substantiel que ce qui occupe en général les Italiens, sous leurs gouvernements tranquilles, mais soupçonneux et faciles à s'alarmer de tout ce qui ressemble à la réflexion, au moins sur certaines matières. Ils aiment mieux entendre chanter que parler; c'est à peu près toute leur politique. Je n'ai pas, en vérité, le courage de vous rien dire de la nôtre. Elle devient, chaque jour, et plus plate et plus oppressive. C'est l'ennuyeux et long enterrement de toute raison et de toute justice divine et humaine. Il n'est que trop clair qu'un pareil état de choses ne saurait durer. Tout le monde le voit, tout le monde le dit, et je ne trouve personne pour qui l'attente d'une crise ne soit une espèce de soulagement. Voilà où nous en sommes, et le résultat filial de quatorze années de « Restauration. »</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-10-22" resp="author">22 octobre 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Berryer, Pierre-Antoine (1790-1868)"
+            ref="https://data.bnf.fr/fr/12343838/pierre_antoine_berryer/">Pierre Antoine
+            Berryer</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-10-22"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Le 22 octobre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>......................</p>
+        <p>Vous avez voulu, à tout prix, en finir de celte triste affaire et me rendre ma
+          tranquillité; je vous en remercie : mieux vaut, en effet, se laisser dépouiller par des
+          misérables, que de subir les angoisses d'une discussion odieuse et dégoûtante. Croyez,
+          cher, que jamais je n'oublierai ce que je vous dois, tous les soins, tous les ennuis,
+          toutes les fatigues auxquels s'est dévouée votre si bonne et si tendre amitié depuis trois
+          ans. Où en serais-je, sans vous? Toutes ces bêtes de proie m'auraient dévoré jusqu'aux os.
+          Il m'est arrivé avec elles le contraire de Joseph. Ses frères ne rapportèrent que sa robe,
+          et moi je n'ai perdu que la mienne. Puisse le compte qui reste à régler l'être
+          promptement, et sans qu'il en résulte des difficultés nouvelles et un nouveau procès.</p>
+        <p>On avait dit ici que M de Villèle ullait révoquer l'ordonnance de censure, et sacrifier
+          M. de Peyronnet aux répugnances des magistrats. Je n'ai cru ni l'un ni l'autre, et j'ai
+          bien fait, à ce qu'il paraît. La Bretagne a possédé deux ou trois semaines M. de Corbière.
+          Je suis fâché de dire qu'elle n'a pas ressenti un si grand bonheur comme elle le devait.
+          Les cœurs se desséchent tous les jours; on ne peut plus compter sur la reconnaissance.
+          J'en admire d'autant plus le dévouement des hommes publics. Il faut que ces gens là aient
+          l'âme tout à fait romaine. Peut-être est-ce pour cela que de tant de côtés on crie à M. de
+          Corbière : Tu dors, Brutus!! Il paraît que l'Europe ne dort pas, bien que tout ce que nous
+          voyons ne ressemble pas mal à un rêve. On veut, et puis on ne veut pas; on menace d'agir,
+          et on reste en repos. Les trois Puissances alliées en faveur des Grecs jouent au plus fin
+          entre elles et avec l'Autriche. Je crois voir le **, le *** et le ****,<note resp="editor"
+            >Les noms supprimés sont ceux des personnes engagées dans les malheureuses affaires où
+            Lamennais perdait le plus clair de sa fortune. Il était inutile, pour le moins, de
+            laisser sur ces noms le fâcheux reflet d'un ressentiment passager, puisque, d'ailleurs,
+            il ne s'agit ici que d'intérêts purement privés.</note> avec des intérêts divers,
+          cherchant à s'entendre pour me dépouiller, et se dépouiller aussi mutuellement, s'il
+          l'avaient pu. Du petit au grand, le monde n'est que cela, et, un peu plus tôt ou un peu
+          plus tard, la Grèce et la Turquie s'en tireront comme moi, ce qui me sera d'une grande
+          consolation, comme vous pensez.</p>
+        <p>Je vous prie de faire mes très-humbles compliments à M. de Damas ; son rôle est brillant
+          et digne de lui. Je ne lui connais qu'un rival, — l'immortel Brunet.</p>
+        <closer>
+          <salute>Adieu, cher ; aimez-moi toujours comme je vous aime, et si vous voulez me rendre
+            heureux, écrivez-moi le plus que vous pourrez.</salute>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

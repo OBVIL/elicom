@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Félicité de Lamennais</title>
+            <author>Félicité de Lamennais</author>
+            <respStmt>
+               <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+                  direction d'Arthur Provenier</resp>
+               <persName>
+                  <forename>Lucie</forename>
+                  <surname>Slavik</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Obvil</publisher>
+            <date when="2020"/>
+            <idno/>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                  <p/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Gerbet, Philippe Abbé (1798-1864)"
+                  ref="https://data.bnf.fr/fr/12273858/philippe_gerbet/">Abbé Philippe
+                  Gerbet</persName>
+               <date when="1827-08-18" resp="author">18 août 1827.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Comte de Senfft, Monsieur (...-...)">Monsieur le Comte de
+                  Senfft</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="foo.xml"/>
+               <ref type="next" target="bar.xml"/>
+            </correspContext>
+         </correspDesc>
+         <creation>
+            <date when="1827-08-18"/>
+         </creation>
+         <langUsage>
+            <language ident="fre"/>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <placeName>A la Chenaie,</placeName>
+                  <date>18 août 1827.</date>
+               </dateline>
+               <salute>Monsieur le comte,</salute>
+            </opener>
+            <p>M. Féli reçoit à l'instant une lettre de ltIme la comtesse de Senfft, du 5 août,
+               d'après laquelle il voit que vous n'aviez encore reçu aucune des lettres que j'ai eu
+               l'honneur de vous écrire, depuis celle du 16 juillet. Je vous en ai écrit
+               successivement quatre ou cinq, au moins, dont la première était bien triste, mais a
+               été promptement suivie de bulletins de plus en plus consolants. La dernière, qui
+               était une réponse à celle que vous avez eu la bonté de m'écrire, vous confirmait
+               l'annonce de l'heureuse convalescence de notre ami. C'est toujours de mieux en mieux;
+               il commence à se promener un peu dans le jardin : les forces augmentent sensiblement;
+               il a repris de la gaieté : il mange, avec précaution et choix, mais avec un
+               commencement d'appétit. On ne pouvait guère espérer une meilleure convalescence. — Il
+               parle souvent de ses amis de Turin.</p>
+            <p>Je fais cette lettre à'ia hâte pour profiler du retour du médecin à Dinan, afin
+               qu'elle parte par le courrier de ce soir. Je n'ai que le temps de vous redire ce que
+               je disais dans une. de mes dernières lettres, qu'une des premières recommandations de
+               M. F. a été que je vous écrivisse de sa part. Son vif attachement pour vous s'est
+               montré d'une manière bien touchante au moment de cette rentrée dans ce monde.</p>
+            <closer>
+               <salute/>
+               <signed/>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+        <p></p>
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-10-08" resp="author">Le 8 octobre 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Berryer, Pierre-Antoine (1790-1868)"
+            ref="https://data.bnf.fr/fr/12343838/pierre_antoine_berryer/">Pierre Antoine
+            Berryer</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-10-08"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Le 8 octobre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je n'ai, depuis assez longtemps, aucunes nouvelles de M. de V.1, et je ne sais maintenant
+          où lui écrire. Il est au moins probable qu'il sera à Paris pour la fête du roi : ce sera
+          pour moi le moment de le joindre. Savez-vous s'il pense toujours à son voyage d'Italie
+          ?</p>
+        <p>Mon cher, à propos de voyage, je suis bien affligé quand je pense que je ne vous reverrai
+          pas, selon toute apparence, avant trois ans. Je ne veux point quitter la Chenaie que je
+          n'aie fini les divers travaux qui m'y ont amené. Or mon ouvrage sur la Société ne pourra
+          pas, à ce que je prévois, former moins de trois volumes. Il m'en reste un à faire pour
+          achever l' Essai. Je serai fort heureux si je parviens à terminer tout cela dans trois
+          années. Mais, puisque Dieu m'impose cette tâche, je dois la remplir sans retard, et
+          profiter pour cela du temps qui m'est . laissé. Ce serait folie à moi de compter sur un
+          avenir un peu long. Les avertissements que j'ai reçus, deux ans de suite, à la même
+          époque, sont à mes yeux comme un ordre d'en haut de ne pas perdre un seul instant. Il n'a
+          été bruit ici, pendant quelque temps, que de la dissolution de la Chambre. Tous les partis
+          s'en réjouissaient, excepté les ministériels, aujourd'hui bien peu nombreux; mais, comme
+          le petit nombre n'aurait pas été cette fois celui des élus, il paraît que nous resterons
+          tels que nous sommes jusqu'à la fin de la septennalité2. En attendant, il faut espérer que
+          les affaires d'Espagne, de Portugal, de Grèce, de Turquie et d'Amérique, s'éclairciront un
+          peu. Ne trouvez-vous pas extrêmement comique le prologue de la grande tragédie qui se
+          prépare? Le froid mépris avec lequel Mahmoud traite les trois grandes puissances qui
+          croyaient n'avoir qu'à parler pour le voir à leurs genoux; les menaces de celles-ci, puis
+          leur silence et leur inaction; le parfait accord des cabinets sur un point unique, qui est
+          de se laisser traiter comme le dernier valet rougirait de l'être; l'absence de toute
+          force, de toute grandeur, de tout principe élevé, de tout sentiment moral, dans leur
+          ignoble et sotte politique : tout cela est un grand spectacle et une grande leçon. Mais
+          quoi! il faut soutenir l'omnium et le 5 pour 100. Je regrette que la Quotidienne, qui fait
+          quelquefois des phrases sur la société matérielle de notre temps, fonde sur les maximes
+          propres à cette société, sa manière d'envisager la question turque. Rien de plus facile
+          que de rejeter l'islamisme en Asie; mais, un irio- -ment, prenons bien garde, le commerce
+          marseillais en pâtirait peut-être. Que ferait-on des draps de Carcassonne, et des brocarts
+          de Lyon? Rois très-chrétiens, réfléchissez-y !... N'allez pas faire comme ces barbares qui
+          s'en allaient en criant : Dieu le veut! Ceci est une immense question; consultez
+          Barême!...</p>
+        <closer>
+          <salute>Je n'ai besoin, mon bon ami, de consulter personne pour savoir que je vous aime
+            avec une tendresse qu'aucunes paroles ne peuvent exprimer. Faites agréer, je vous prie,
+            mes hommages respectueux à Mme Berryer. J'embrasse le cher Arthur.</salute>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

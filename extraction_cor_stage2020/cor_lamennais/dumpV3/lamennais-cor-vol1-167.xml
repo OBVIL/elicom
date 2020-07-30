@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="18 avril 1828." resp="">18 avril 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="108. — A M. LE COMTE DE SE.NFFT. (...-...)">108. — A M. LE COMTE DE SE.NFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="18 avril 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>18 avril 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je ne puis vous exprimer, cher ami, avec quelle joie je vois s'approcher de jour en jour le moment où je vous embrasserai. J'ai reçu votre lettre du 5, avec celles de Mme de Senfft, et de la comtesse Louise, qui y étaient jointes. Il paraît que nous partirons le 25, et comme M. de V. doit s'arrêter un peu en route, nous n'arriverons à Vitrolles que vers la mi-mai. Cette circonstance m'empêchera d'aller vous rejoindre à Gênes, où je ne pourrai guère arriver qu'à l'époque même de votre retour à Turin, et après un voyage que je crains un peu, et que mes amis d'ici craignent encore plus pour moi, à cause de mon état de santé, qui est fort loin d'être brillant. Veuillezin'écrire à Vitrolles, par Gap, Hautes-Alpes. Je m'arrangerai pour arriver en même temps que vous à Turin. Mille raisons me</p>
+        <p>forcent de ne pas perdre de temps, et mes devoirs exigeront assez prochainement ma présence en ce pays-ci. Les choses y sont toujours dans la même position : nullité complète du Pouvoir, et développement de l'esprit et des passions démocrati^ ques. La session est comme suspendue, et rien d'important ne se fera qu'après les réélections. La lettre dans laquelle M. de Pradt explique les motifs de sa démission donne une idée assez exacte des projets du parti dont il accuse la lenteur. Je n'imagine rien qui puisse en arrêter l'exécution ; et, en regardant encore la Société de plus haut, si quelque chose me paraît clair, c'est que les conditions de l'existence sociale manquent totalement et qu'elles ne peuvent renaître, dans l'hypothèse d'une restauration future, qu'après plusieurs générations, et une suite de grandes catastrophes. Cela n'est guère consolant, je l'avoue; mais si c'est la vérité, comme je le crois, il faut se résigner, et ne pas se bercer d'illusions dangereuses et de vaines espérances. Il reste encore, au milieu de la dissolution générale, un assez beau rôle pour les gens de bien, et une magnifique mission à remplir. Nous en causerons bientôt en détail. Je vous embrasse, très-cher ami, ex intimo corde. Mille respects et mille tendresses à Mme de S. et à la comtesse L.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

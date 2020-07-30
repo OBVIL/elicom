@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Félicité de Lamennais</title>
+            <author>Félicité de Lamennais</author>
+            <respStmt>
+               <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+                  direction d'Arthur Provenier</resp>
+               <persName>
+                  <forename>Lucie</forename>
+                  <surname>Slavik</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Obvil</publisher>
+            <date when="2020"/>
+            <idno/>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                  <p/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Gerbet, Philippe Abbé (1798-1864)"
+                  ref="https://data.bnf.fr/fr/12273858/philippe_gerbet/">Abbé Philippe
+                  Gerbet</persName>
+               <date when="1827-08-04" resp="author">4 août 1827</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Comte de Senfft, Monsieur (...-...)">Monsieur le Comte de
+                  Senfft</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="foo.xml"/>
+               <ref type="next" target="bar.xml"/>
+            </correspContext>
+         </correspDesc>
+         <creation>
+            <date when="1827-08-04"/>
+         </creation>
+         <langUsage>
+            <language ident="fre"/>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <placeName>A la Chenaie,</placeName>
+                  <date>samedi 4 août.</date>
+               </dateline>
+               <salute/>
+            </opener>
+            <p> Le dernier bulletin annonçait que le médecin avait déclaré que le cher malade était
+               hors de danger. Cette heureuse assurance n'a fait que se confirmer de plus en plus;
+               la convalescence fait des progrès : il ne s'agit plus que de suivre un régime
+               graduellement fortifiant; mais comme les forces avaient été affaiblies au dernier
+               degré, la convalescence peut être longue.</p>
+            <p>Jusqu'ici, occupé dans la chambre du cher malade, je n'ai pu donner que de courts
+               bulletins : bientôt j'aurai le temps d'entrer dans des détails bien édifiants.</p>
+            <p> M. l'abbé Jean présente, ses respects à M. le comte et M"" les comtesses de Senfft :
+               j'y joins les miens. »</p>
+            <closer>
+               <salute/>
+               <signed/>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

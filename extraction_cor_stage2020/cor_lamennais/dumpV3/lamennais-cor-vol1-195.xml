@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 19 décembre 1828." resp="">le 19 décembre 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="100. - A M. LE MARQUIS DE CORIOLIS. (...-...)">100. - A M. LE MARQUIS DE CORIOLIS.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 19 décembre 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Dinan</placeName>
+            <date>le 19 décembre 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Enfin, monsieur le marquis, je trouve un moment pour vous dire combien je suis touché des nouvelles marques de bonté et d'amitié que j'ai reçues de vous, et que mon cœur n'oubliera jamais. Garde-malade et malade moi-même, chargé, de plus, de mille occupations de détail, au milieu desquelles il a fallu que je trouvasse encore le temps d'achever l'ouvrage que vous voulez bien attendre avec une impatience obligeante, vous jugez que mes correspondances, et celles mêmes qui me sont le plus douces, ont dû être un peu négligées. Me voilà au moins quilte avec le public. Mon livre va être, ces jours-ci, entre les mains de l'imprimeur, et Dieu veuille que de tout cela il résulte quoique bien ! Si les esprits n'étaient pas si faibles et les âmes si amollies, on pourrait encore beaucoup. Espérons que les événements qui se préparent retremperont un peu le courage de tant d'hommes, amis, en général, de ce qu'ils appellent le bien, mais qui ne savent que vouloir, parce qu'ils ne savent que penser. La persécution s'aigrit partout aux approches de la session nouvelle. On m'apprend, à l'instant même, que le petit séminaire de cette ville vient d'être fermé, en vertu d'ordres émanés de la double autorité d'un évêque et d'un congréganislel. Ce n'est pas là ce qui m'étonne. Mais est-ce donc que.les catholiques, au nombre encore de vingt-cinq millions, n'en viendront pas à se demander si, lorsqu'on a tout réduit à une question de force, ils ne doivent pas compter pour quelque chose dans cette</p>
+        <p>'MM Feulrior et Vatimesnil.</p>
+        <p>question? J'ai pitié, grand'pitié, de la faiblesse qu'on opprime ; mais de la lâcheté, point. Le ministère Villèle a dissous complètement tous les centres de résistance qui existaient parmi nous. Ce serait plutôt un bien qu'un mal, s'il s'en formait .de * nouveaux ; car ceux-là n'offraient guère pour lien, aux hommes qui se rangeaient autour d'eux, que de fausses doctrines et de vils intérêts. jusqu'à ce que l'esprit de sacrifice qu'enfante l'esprit de foi devienne le mobile des efforts qu'on tentera pour sauver la France et l'Europe, il n'y aura rien, absolument rien, à espérer de l'avenir. Pour vivre, il faut savoir v dire : « Mourons ! »</p>
+        <p>Veuillez faire agréer à Mme la marquise de Coriolis la reconnaissance que m'inspire son souvenir si plein de bonté. J'espère que les ministres, se fatiguant bientôt de leur gloire hellénique, et satisfaits de celle que leur procure la guerre mémorable qu'ils ont déclarée aux écoles ecclésiastiques, rappelleront notre armée de la Grèce et que vous ne tarderez pas longtemps, désormais, à revoir monsieur votre fils. Je vous prie de lui parler de moi, ainsi qu'au cher Emmanuel.</p>
+        <p>Je n'ai point retrouvé la lettre égarée, et je ne saurais comprendre encore ce qu'elle peut être devenue. Veuillez m'adresser dorénavant celles que vous aurez la bonté de m'écrire, à Dinan seulement, sans parler de la Chênaie : ceci pour éviter une nouvelle vexation des postes. Je défie que personne, monsieur le marquis, vous soit dévoué avec plus de tendresse et de respect que l'ermite breton.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

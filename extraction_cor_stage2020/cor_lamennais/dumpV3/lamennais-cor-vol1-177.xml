@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="&quot;î" resp="">"î</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="178. — A MADEMOISELLE DE LU CI NI ÈRE. (...-...)">178. — A MADEMOISELLE DE LU CI NI ÈRE.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="&quot;î"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>"î</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>A la Chenaie, le 18 août 1828.</p>
+        <p>Je vous écris deux mots à la hâte, mes bonnes amies, pour vous donner de mes nouvelles et vous demander des vôtres. Ma sanlé est assez bonne, mais je manque de forces, ce qui retarde mon travail. Il sera d'ailleurs plus long que je ne pensais.</p>
+        <p>Nous sommes en train d'acheter une maison à peu de distance de Ploërmel. Elle nous devient très-nécessaire pour opérer le plus tôt possible notre réunion. Je ne verrai pas mon frère avant le mois prochain. L'abbé Gerbet se porte bien, et vous offre amitiés et hommages. Je ne suis point allé à Trémigon, et ne sais quand j'irai, car je ne voyage ni aisément ni volontiers. Du reste, nous avons un temps déplorable. Depuis l'Ascension, il ne s'est point passé un seul jour sans pluie. On sauve pourtant la récolte, mais elle sera mauvaise. Toutefois, si celle du blé noir se fait bien, nous n'aurons pas à craindre de vraie disette ici.</p>
+        <p>J'embrasse le bon père Carissan et ma petite Hélène. Amitiés à Adèle. Souvenirs à vos bons domestiques; et puis partagez-vous tous mon cœur comme vous l'entendrez.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

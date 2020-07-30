@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="Marquis de Coriolis d'Espinouse, Charles-Louis-Alexandre (1770-1841)"
+            ref="https://data.bnf.fr/fr/10736321/charles_louis_alexandre_coriolis_d_espinouse/"
+            >Marquis Charles-Louis-Alexandre de Coriolis d'Espinouse</persName>
+          <date when="1827-11-17" resp="author">17 novembre 1827 '.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-11-17"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>Paris</placeName>
+            <date>17 novembre 1827 '.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Croiriez-vous, monsieur l'abbé, que cet écrit de M. de Bonald que tout le monde a reçu en
+          province, je n'ai pas encore pu me le procurer à Paris? Habent sua fata libelli. Il essaye
+          donc d'y prouver qu'il ne change pas légèrement d'opinion?... Ouest le temps où il me
+          disait « Si mes ouvrages doivent passer * à la postérité, je ne veux pas qu'on ait à me
+          reprocher d'y trouver un mot en faveur de la Charte!... » Ce sont, ou mieux, c'étaient ses
+          propres paroles, et, à ce triste sujet, je ne puis m'empêcher de me rappeler ce vers de
+          Pope, si bien traduit par l'abbé Delille :</p>
+        <p>... Mais qui ne pleurerait, si c'était Addison </p>
+        <p>Il est certain que nos écrivains politiques ne se font pas faute des attributs du bon
+          Dieu : Infaillibilité, immutabilité, voire,</p>
+        <p>le cas échéant, la toute-puissance. Il y en a pourtant un quatrième, Véternité, qui leur
+          manque et manquera toujours. Je crois en découvrir la raison; c'est qu'ils sont trop
+          impatients pour être éternels. Quand on est ministre, il ne serait peut-être pas mal
+          d'avoir lu saint Augustin.</p>
+        <p>Souffrez que je vous redresse sur une faute d'addition.</p>
+        <p>Vous avez lu fort étourdiment la liste du Moniteur. C'est bien soixante et seize pairs
+          dont nous sommes enrichis, et, en adoptant votre ingénieuse comparaison de conscription à
+          l'entrée d'une campagne douteuse, cela fait justement des pairs conscrits; — passez-moi
+          cette méchante pointe.</p>
+        <p>Sur cette liste, on voit figurer sans doute de fort beaux noms; il est seulement fâcheux
+          que ceux qui les portent n'aient vu dans le pommeau de l'épée de leurs ancêtres qu'une
+          boule de scrutin. Au reste, tout le monde crie, tant clus qu'exclus; car il est des gens
+          qui ne sont pas fâchés de joindre, à l'honneur de l'opposition, les honneurs de la
+          soumission.</p>
+        <p>Tout se trouve dans les Fables de La Fontaine, et je vois force chiens qui ont porté à
+          leur cou le dîner de leurs maîtres. Pour moi, je ne porte plus le dîner; je le regarde
+          manger, je l'avoue, et jusqu'ici on ne peut m'accuser que je sache, d 'en avoir pris ma
+          part. Je crois bien plutôt qu 'on m accuse de ne pas l'avoir prise.</p>
+        <p>De tout ceci, il y a quelqu'un surtout qui doit bien rire. C'est ce bon M. Decazes,
+          contre qui nous avons fait un si furieux vacarme. Ce n'est qu 'un petit garçon auprès de
+          M. de Villèle.....</p>
+        <p>Je partage complètement votre indifférence sur le combat qui va se livrer à propos de la
+          loi électorale. Ici les ministres ont pris leurs mesures, et ce ne sera pas un combat
+          fortuit, comme à Navarin. Mais les conséquences n'en seront pas mieux prévues, car que
+          prévoit-on quand on ne voit pas?</p>
+        <p>Il est trop vrai, « quelque chose doit se faire qui n est pas fait; » et qui en pourrait
+          douter, à la vue de ce qu'on défait avec une constance si aveugle ? Après la rage de
+          pairie qui a gagné tout le monde, j'admire aussi avec vous la rage de députation. Il est
+          vrai pourtant que cette dernière mène à l'autre, car si vous ne vous tenez pas pour
+          content de vos soixante et seize pairs, je me tiens, moi, pour très-heureux de vous en
+          annoncer vingt-quatre autres, qui font, bien cent, Barème à la main. Ces vingt-quatre
+          pairies seront le prix proposé aux présidents de collèges qui s'acquitteront le mieux de
+          leur devoir électoral, lesquels ont mission d'en promettre autant, et aux mêmes
+          conditions, aux élus qui s 'acquitteront, comme devant, de leurs devoirs de bons et loyaux
+          députés. Qui potest capere, capiat. — Aussi prendra-t-on.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

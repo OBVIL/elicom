@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1828-01-28" resp="author">Le 28 janvier 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Comtesse de Senfft, Madame (...-...)">Madame la Comtesse de
+            Senfft</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1828-01-28"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Le 28 janvier 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Vous savez déjà que le ministère s'est résolu à tenter, tel qu'il est, l'ouverture de la
+          session. Il ne paraît pas que l'on ait fait de propositions à La Bourdonnaie et Delalot ;
+          mais l'évêque d 'Ilermopolis fut député par ses confrères à Chateaubriand pour lui offrir
+          le portefeuille de l'instruction publique. Sur le premier bruit de cette démarche, le
+          pauvre homme, à ce qu'on me mande, était ivre de joie. Mais, quand il vit arriver don
+          Abbondio 1, il s'imagina qu'il pouvait traiter avec le ministère comme Clovis avec les
+          Gaulois ; en conséquence, il demanda, comme condition sine quâ non de l'alliance qu'on lui
+          proposait, un portefeuille pour Royer-Collard; quelques-uns disent un autre portefeuille
+          pour le duc de Broglie; l'entrée dans le Conseil pour Bertin de Vaux etdeSalvandy ; et
+          enfin 500,000 francs par an pour les Débats, De pareilles exigences ont semblé excessives.
+          On a rompu les négociations et pris le parti que vous connaissez, en se rapprochant
+          toutefois du libéralisme, qui flatte et menace en même temps, et qui a lieu, en effet, de
+          concevoir d'assez belles espérances. Les probabilités du moment sont que le ministère
+          définitif se groupera autour de Portalis et de Roy. Toutefois cela dépendra du partage des
+          boules, dont la répartition proportionnelle ne saurait encore être prévue certainement. En
+          attendant, chacun dit son mot, et la plaisanterie va son train. On demande de quelle
+          couleur est le ministère, — et on répond qu'il est Caca-Dauphin.</p>
+        <p>Le rapport de Portalis, et l'ordonnance rendue sur ce rapport, est une déclaration de
+          guerre à l'Église et le commencement de la persécution. Je n'ai pas le temps de déduire
+          ici comment cette mesure enveloppe les grands sémimaires aussi bien que les petits, et
+          comment elle serait illusoire pour la fin qu'on se propose et qu'on avoue, si l'on n'en
+          vient à exiger des promesses, des signatures, et à subordonner tout l'enseignement
+          théologique à la volonté du pouvoir civil, de la même manière que sous Henri vur. Nous
+          devons nous attendre atout, car on veut quelque chose de complet et d'efficace, comme le
+          dit le sieur Portalis. Néanmoins cela demandera du temps, et la crise n'est pas tout à
+          fait si prochaine que quelques personnes qui, hier, étaient fort tranquilles, le craignent
+          aujourd'hui. Après s'être refusé longtemps à voir le mal, on en est plus effrayé et hors
+          de mesure lorsqu'on est forcé de dire : « Le voilà, pourtant! » La grande question est de
+          savoir ce que feront les évêques. Malheureusement, il y a peu d'espérance de ce côté; il y
+          en a peut-être encore moins d'ailleurs. Mais les événements forceront la main, ouvriront
+          les bouches bâillonnées par la peur, et c'est ainsi que la foi se sauvera. Courage donc,
+          et.prière; quelle que soit la puissance des ennemis de Dieu, la sienne est encore plus
+          grande. Irridebit et subsannabit eos.</p>
+        <p>On m'écrit : « Les ordonnances apparaissent de jour en jour pour montrer au peuple une
+          sorte d'abdication de la royauté. On invoque la souveraineté populaire en créant des
+          commissions qui doivent décider ce qu'il convient de faire sur chacune des questions où il
+          serait le plus nécessaire d'apporter l'autorité des volontés royales. Le roi, par ses
+          ministres, n'agit plus; il déclare qu'il ne sait désormais que faire par lui-même. On nous
+          annonce ainsi que le gouvernement royal, incapable de savoir, de vouloir, de pouvoir,
+          livre la société aux lumières, aux volontés, aux forces des particuliers. »</p>
+        <p>Je viens d'éprouver encore une vive affliction. Nous avons perdu mon pauvre père; il
+          avait quatre-vingt-six ans, et sa vie n'était plus qu'une lente agonie, supportée avec
+          toute la patience de la foi et toute la vigueur d'âme d'un chrétien. Je le recommande à
+          vos prières, quoique je le croie maintenant plus heureux que nous. Cette perte, après tant
+          d'autres, pèse tristement sur mon cœur. Siccine separal amara mors?</p>
+        <p>Mais le jour de la réunion viendra. Dans le royaume de Jésus-Christ, les pleurs n'ont
+          qu'un temps et la joie seule est éternelle.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

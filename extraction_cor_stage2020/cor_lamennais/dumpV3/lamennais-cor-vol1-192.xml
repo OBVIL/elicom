@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le llk novembre 1828." resp="">Le llk novembre 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="193. - A LA MÊME. (...-...)">193. - A LA MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le llk novembre 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le llk novembre 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Comment pouvez-vous penser qu'aucune autre raison que le devoir ait déterminé mon retour en France ? Où aurais-je pu trouver jamais plus de tout ce qui retient qu'au milieu de vous, dont l'inappréciable affection me console de tant de choses pénibles qui remplissent ma vie depuis longtemps? Il fallait revenir, il fallait travailler à l'œuvre à laquelle j'ai dévoué ce qui me reste de jours, et que Dieu semble bénir d'une façon toute singulière. J'espère, je crois qu'un grand bien se fera; j'en vois déjà les germes; le temps les développera. Ce ne sera, au plus tôt, que dans trois semaines que j'irai à M 1. Je veux, avant de partir, achever mon ouvrage, qu'ont retardé mille et mille occupations diverses. Il étonnera beaucoup de gens, et déplaira, je m'y attends, à presque tout le monde. Mais j'ai dit ce que je crois vrai, ce qu'il m'est impossible de ne pas croire vrai, et cela suffit à ma conscience. J'y combats à peu près tout le monde : libéraux, royalistes, princes, ministres, et je ne crains que trop qu'un avenir prochain ne justifie ce que je leur annonce. Il n'y a plus rien à ménager dans ces temps de dissolution universelle. La Société entière n'en peut plus. A quoi bon flatter cet agonisant? Je lui dis qu'il mourra, mais je lui montre plus loin une résurrection possible, et que les désordres, les calamités, inévitables désormais, serviront à hâter, selon les lois de la Providence. Je partage toutes vos prévisions sur le sort qui menace l'Europe. A ne parler qu'humainement, c'est le hasard aujourd'hui qui gouverne le monde. Je vois ici et là des espèces de mains, mais nulle part des rênes. Les plus habiles n'ont et ne peuvent avoir qu'une politique du moment, et encore toute fausse dans ses bases. Plu's je vais, plus je me persuade qu'aucun bien ne saurait désormais s'opérer que par de grandes catas-</p>
+        <p>trophes. Une immense liberté est indispensable pour que les vérités qui sauveront le monde, s'il doit être sauvé, se développent comme elles le doivent : et les souverains jugent, avec raison, que celte liberté les tuerait à l'instant même. Ils luttent donc contre elle de toutes leurs forces, et niaisement dans les formes et dans les détails ; mais le besoin qu'en a la Société est trop grand, pour qu'ils luttent longtemps avec succès. Qu'en résultera-t-il? La force irrésistible qui les aurait emportés les brisera.</p>
+        <p>Les choses languissent un peu, relativement à l'exécution des ordonnances. On ira ainsi jusqu'à la session, qui déterminera de nouveaux pas dans la route où l'on est entré. Je m'attends néanmoins à une sorte de réaction, dans la Chambre, contre le libéralisme, qui commence à effrayer quelques-uns de ceux qui l'ont servi jusqu'à présent. Cette réaction pourra retarder un peu le mouvement, mais non l'arrêter; car on ne saurait rester où l'on est, et reculer est impossible.</p>
+        <p>Je remercie tendrement mon cher comte du petit mot qu'il m'a écrit le 1er novembre, et j'offre à la comtesse Louise mille vœux pour que l'hiver, — qui doit être la belle saison de Turin, à en juger par l'été, — soit un peu moins vide de ce qui distrait agréablement.</p>
+        <p>M. de Vitr s'ennuie en Toscane, autant que vous en Piémont, et, de plus, il est accablé de la crainte de perdre cet ange qu'on appelle sa fille t. Il paraît que sa santé s'altère de plus en plus. Je ne la plains pas, elle; mais que je plains ses pauvres parents !</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

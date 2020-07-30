@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="le 14 août 1828." resp="">le 14 août 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="177. — AU MÊME. (...-...)">177. — AU MÊME.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="le 14 août 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 14 août 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je suis charmé d'apprendre que l'air des montagnes ait rendu à Mme de Senfft ses premières forces, que les excessives chaleurs de Turin commençaient à épuiser. J'espère que la santé de la comtesse Louise s'en sera bien trouvée aussi. Pour nous, il faut désormais que nous renoncions à l'été. Depuis deux mois, nous n'avons pas eu un seul jour sans pluie, et l'on n'aperçoit encore aucune apparence de changement. La récolte de l'avoine est entièrement perdue; celle du froment sera très-faible, et, si le sarrasin manque, il faut nous attendre à une forte disette, dont les conséquences sont très-difficiles à apprécier en ce moment. L année prochaine s annonce sous de tristes auspices. On doit prévoir le développement de la persécution religieuse, et de grands pas faits vers l accomplissement de la révolution politique. Rien ne saurait arrêter désormais ceux qui veulent l'opérer; ils ont les Chambres, ils ont le ministère, ils ont le Roi et son successeur immédiat. Il faut donc nous préparer à de grands événements. Au reste, je ne les crois pas seulement inévitables, mais encore nécessaires pour sauver la société, si elle doit être sauvée un jour. Les évêques ont présenté des réclamations au roi, ou plutôt des protestations qu'on dit énergiques et bien faites. Je ne les ai pas vues; il faut espérer qu'on les rendra publiques, sans quoi elles perdraient la plus grande partie de leur effet. Je regarde la fermeté du corps épiscopal comme une chose tout à fait de Providence.</p>
+        <p>Si vous avez occasion d'écrire à M. de Bonald, veuillez avoir la bonté de lui dire combien je suis sensible à son souvenir.</p>
+        <p>Je vous recommande aussi l'affaire dont nous avons causé à Turin, et dont je continue de m'occuper très-activement. Je ne sais ce que Dieu a décidé du monde, mais il y a certainement une belle carrière ouverte aux chrétiens. Cette pensée me - console et m'affermit. La foi a cela de beau qu'elle fait qu'on n 'a pas besoin du présent : tout l'avenir est à elle; le temps est son point de départ et l'éternité son domaine.</p>
+        <p>L'abbé Gerbet vous offre son respect, et moi mille honunages et mille tendresses.</p>
+        <p>Je reçois, mon bon ami, votre lettre du 24 juillet, à temps pour vous adresser la mienne à Turin. Je vous répondrai bientôt plus à loisir. Mille et mille tendresses.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

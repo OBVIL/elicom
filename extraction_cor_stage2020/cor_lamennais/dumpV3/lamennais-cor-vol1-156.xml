@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1828-01-31" resp="author">31 janvier 1828</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Marquis de Coriolis d'Espinouse, Charles-Louis-Alexandre (1770-1841)"
+            ref="https://data.bnf.fr/fr/10736321/charles_louis_alexandre_coriolis_d_espinouse/"
+            >Marquis Charles-Louis-Alexandre de Coriolis d'Espinouse</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1828-01-31"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie,</placeName>
+            <date>le 31 janvier 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je crains beaucoup, monsieur le marquis, que le ministère, ruit de vos couches,
+          n'atteigne pas même l'adolescence, quoiqu'il s'imagine faire preuve de force en voulant
+          marcher tout seul. Il est vrai qu'on ne mettait pas à un prix médiocre l'appui qu'il
+          sollicitait, et c'eût été véritablement payer un peu cher « le bâton du voyageur 1. » Les
+          détails que vous me</p>
+        <p>donnez sur ce marché proposé et rompu si singulièrement, ont quelque chose de
+          merveilleux, même de nos jours : ce sont comme les Mille et une Nuits de la bêtise et de
+          l'orgueil.</p>
+        <p>En attendant qu'il plaise aux Chambres de nous constituer un gouvernement; que, bien
+          entendu, elles s'occuperont le lendemain de déconstituer, et le tout
+          trés-constitutionnellement, M. Portalis s'efforce d'apaiser la grosse faim du libéralisme,
+          en lui jetant, avec les congrégations enseignantes et les écoles diocésaines, une bonne et
+          solide espérance de schisme. Car, bien que le rapport du Garde des sceaux ne parle
+          explicitement que des petits séminaires, ce sont surtout les grands qu'il menace sans les
+          nommer, à moins qu'il n'ait su ce qu'il disait, ce qui peut, au reste, se supposer comme
+          autre chose. Les « mesures complètes et efficaces qui doivent se coordonner avec notre
+          législation politique et les maximes du droit public français, » n'ont pas, que je sache,
+          de rapport très-prochain avec les conjugaisons et la syntaxe. Mais, si l'on avait en vue
+          l'enseignement théologique, si les maximes du droit public français étaient par hasard les
+          maximes de 4682, cela deviendrait plus clair, et peut-être serait-ce l'Église elle-même
+          qu'il s'agirait de coordonner avec notre législation politique, ce qui serait en effet «
+          complet, » après quoi l'efficace n'embarrasserait pas. Nous verrons le résultat des hautes
+          pensées de la commission. Il s'y trouve des noms qui promettent. Quoi qu'il en soit, je
+          regarde cette pancarte signée Portalis, et plus bas Charles, comme une déclaration de
+          guerre au clergé. Il me paraît difficile qu'on rentre après cela dans l'état de paix. La
+          Révolution n'abandonnera pas l'espoir qu'on lui a donné. Ce qu'elle veut avant tout, c'est
+          ce que voulaii aussi, un temps fut, M. de Mirabeau, « décatholiciser » la France. Elle n'y
+          parviendra pas; mais elle parviendra, et avant peu d'années, à établir politiquement le
+          schisme. Presque tout ce qui est aujourd'hui actif dans la nation le veut; mais derrière
+          cette activité de parquet, de comptoir et de boutique,— et même de salon, puisqu'il le
+          faut dire, — il y a plus de vingt millions de chrétiens, qui pourront devenir actifs à
+          leur tour, quand on aura blessé leur conscience et qu'on tyrannisera leur foi !</p>
+        <p>Rassurez, monsieur le marquis, Mme de la Trémoille sur les Jésuites. Pour moi, ils ne «
+          me font peur » que par leur insignifiance. C'est un Corps qui périt de faiblesse; il n'a
+          de vie que dans le rudiment : ce qui fait qu'outre le reste, il serait J cruel de le lui
+          ôter.</p>
+        <p>Que Mme de la Trémoille daigne ouvrir les yeux, qu'elle cherche ce géant, elle ne verra
+          qu'une ombre. Du reste, je vous prie de lui dire combien je suis fier de sa bienveillance;
+          je ne la mérite à aucun égard, et peut-être en suis-je encore, à cause de cela, plus
+          flatté.</p>
+        <closer>
+          <salute>Oserai-je vous prier d'offrir mes respectueux hommages à madame la marquise de
+            Coriolis, et de vous offrir à vous-même tout ce qu'il y a de plus tendre dans mon cœur
+            qui vous est à jamais dévoué?</salute>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

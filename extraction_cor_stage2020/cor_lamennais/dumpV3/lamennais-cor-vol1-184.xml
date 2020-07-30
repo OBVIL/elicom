@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 24 septembre 1828." resp="">Le 24 septembre 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="185. — A M. LE COMTE DE SENFFT. (...-...)">185. — A M. LE COMTE DE SENFFT.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 24 septembre 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 24 septembre 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Mille grâces, cher ami, de votre aimable lettre du 10 septembre. Si je ne vous écris pas moi-même plus souvent, c'est qu 'eii vérité je succombe sous la multitude des occupations. L écrit dont je m'occupe en souffrira; mais, puisque Dieu le veut ainsi, il faut être content.</p>
+        <p>Je persiste toujours à croire qu'on ne tiendra pas la main à l'exécution des ordonnances, excepté pour celle qui regarde les Jésuites, jusqu'à la rentrée des Chambres. Il faudrait fermer plus de la moitié des établissements d'éducation, car presque partout les professeurs se refusent à faire la déclaration qu'on exige d'eux. La plupart des évêques attendent que les gendarmes viennent dissoudre leurs petits séminaires. Je ne connais que celui de Paris qui, — par une politique plus profonde, à ce qu'on dit, — ait lui-même dissous les siens, du moins les écoles paroissiales. On parle ici d'un établissement que les Jésuites essayent de former à Guernesey. Ce serait, de l'avis général, une bien fausse démarche. Le premier moment d exaltation passé, il ne se trouverait pas en Bretagne dix familles qui voulussent envoyer leurs enfants dans cette île anglaise.</p>
+        <p>Je vous prie de remercier mille fois de ma part la marquise Violentine. Ce secours vient très-à propos, car il s'agit de réparer et de meubler une maison dont on vient d'acheter les murailles 1. J'espère que la Providence procurera d'autres ressources dans le même pays. Sous le rapport des personnes, la chose va merveilleusement.</p>
+        <p>Je crois qu'ils n'entendent pas leur affaire en Allemagne. En</p>
+        <p>Pologne et en Angleterre, on l'entend beaucoup mieux. Au reste, rien ne presse, et tout viendra, selon les desseins de Dieu, en son temps.</p>
+        <p>Rappelez-moi, je vous prie, au souvenir de tous nos amis de Turin. Je n'en nomme aucun, mais je n'en oublie aucun. Adieu, cher ami; je vous quitte bien plus tôt que je ne voudrais, mais le devoir me presse de toutes parts. Veuillez faire agréer mes respects à Mmeg de Senfft. Tout à vous bien tendrement.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

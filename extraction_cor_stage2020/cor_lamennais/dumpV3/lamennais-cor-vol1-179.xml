@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)" ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de Lamennais</persName>
+          <date when="Le 28 août 1828." resp="">Le 28 août 1828.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="180. - A MADEMOISELLE DE L UCINIÈ R E. (...-...)">180. - A MADEMOISELLE DE L UCINIÈ R E.</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="Le 28 août 1828."/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName></placeName>
+            <date>Le 28 août 1828.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je vous réponds deux mots à la hâte, mon excellente amie. Je viens d'écrire à M. Berryer pour lui recommander votre affaire. Quant à l'autre, il faut attendre, et tout remettre entre les mains de Dieu.</p>
+        <p>Nous venons d'acheter à Malestroit une ancienne communauté pour y réunir notre jeune colonie, qui s'accroit tous les jours. 11 faut, comme vous le pensez bien, réparer cette maison et la meubler, c'est-à-dire qu'il faut de l'argent. Je joins à cette lettre un petit billet pour exciter le zèle de Mrae de Bellemare, et je continue de nous recommander au vôtre et à celui de Léontine.</p>
+        <p>Les nouvelles souffrances de noire bonne Villiers m'affligent. Dites-lui bien la part que j'y prends. Donnez-moi de vos nouvelles le plus souvent possible, et ne calculez pas vos lettres sur les miennes. Je suis accablé de travail. L'écrit que je prépare sera plus long que je n'avais pensé d'abord, de sorte qu'il me faut encore au, moins deux grands mois pour l'achever.</p>
+        <p>J'embrasse le cher père Carissan et ma bonne Villiers.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
