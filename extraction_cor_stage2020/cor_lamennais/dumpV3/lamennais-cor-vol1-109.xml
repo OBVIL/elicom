@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-06-11" resp="author">Le 11 juin 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Comtesse de Senfft, Madame (...-...)">Madame la Comtesse de
+            Senfft</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-06-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>Le 11 juin 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je n 'ai point de vos nouvelles depuis le 25 mai, jour où vous m'annonciez votre départ
+          pour Oleggio. J'espère apprendre bientôt que vous y êtes arrivés sans accident, et que la
+          santé de la comtesse Louise se trouve bien et de l'air et des eaux. Je lui recommande
+          l'exercice, les distractions, et je dirais la gaieté, si la gaieté dépendait de nous; mais
+          on peut au moins toujours lutter contre les idées noires et contre cette tristesse qui
+          vient quelquefois nous saisir, sans que nous sa-chions pourquoi, ni elle non plus. Saint
+          Paul répète souvent cette parole : Paix et joie dans le Saint-Eçpi,it ! Ce n'est pas
+          seulement un souhait dans la bouche de l'Apôtre ; c'est encore un conseil, ce qui montre
+          que la volonté y peut plus que nous ne serions portés à le croire.</p>
+        <p>Il vient de paraître une nouvelle brochure de l'abbé Clausel, plus violente que tout ce
+          qu'il avait encore écrit jusqu'à présent; il y écume d'un bout à l'autre. Il attaque le
+          Mémorial et particulièrement Laurentie ; il m'attaque et prouve à sa façon que je suis
+          hérétique, schismatique, enfin que sais-je? Mais ce n'est rien que cela. Il finit par se
+          ruer sur la Société Catholique, qu'il ne traite pas mieux que moi, la dénonçant à l
+          'épiscopat comme la conspiration la plus dangereuse contre l'Église de France et contre le
+          christianisme. Je crois très-réellement que cet homme est possédé. Du reste, il a des
+          partisans parmi les évêques, surtout parmi ceux de la Chambre</p>
+        <p>des pairs, et je ne serais pas surpris que cet éclat ne fût concerté. Déjà M. de Latil
+          avait recommandé à son clergé de ne prendre aucune part ni à la Société Catholique, ni à
+          la. Société de la Propagation de la Foi, « attendu que c'étaient des œuvres
+          ultramontaines. » Ils en viendront à défendre de dire la messe, par la raison qu'on la dit
+          à Rome. La Providence a permis que, le jour même où paraissait le libelle de Clausel, la
+          Société Catholique ait reçu un Bref et une lettre du Pape, qui loue, approuve, encourage
+          cette œuvre si utile à la Religion, et accorde les indulgences les plus étendues à tous
+          ceux qui y coopèrent d'une manière quelconque. Nous verrons s'il se trouvera des évêques
+          qui osent faire des Mandements contre ce Bref. Je m'attends qu'il y en aura contre moi, à
+          l'exemple de l'évêque de Saint-Brieuc et de celui de Dyon. Clausel les pousse fort à cela.
+          Il dit que « si le Pape loue l'auteur, c'est qu'il n'a pas lu ses livres., et qu'en tout
+          cas le premier jugement appartient aux évêques du lieu où l'erreur a pris naissance. »
+          Voilà où en sont les choses; je vous tiendrai au courant de la suite. Ce qu'il y a de plus
+          grave dans ces excès de la fureur et de la folie, c'est qu'on voit se préparer et
+          s'organiseT une guerre contre le Saint-Siége, guerre qui pourrait devenir extrêmement
+          dangereuse, si on ne l'arrêtait pas à temps. Après tout, Dieu est là, et son esprit
+          inspirera notre saint Pontife.</p>
+        <p>Je crois devoir vous transcrire ici ce que m'écrit une de nos dames de la rue des Postes
+          : « J'ai reçu indirectement des « nouvelles du pauvre L. Il a acheté pour plus de trois,
+          mil« lions de terres et de châteaux dont les actes devaient être « signés à Paris au mois
+          d'avril. Vous voyez que bien décidé« ment il est fou. Il prêcha cependant à merveille au
+          Pont« Saint-Esprit, il y a quelques semaines, puis il est, dit-on « parti pour Turin. M.
+          Rausan nous a raconté mille folies de « ce pauvre abbé. »</p>
+        <p>Vous avez vu, dans les journaux, les nominations à Bayeux et à Vannes. On envoie à Bayeux
+          un sorbonniste forcené, et à Vannes un homme pieux, mais une vraie caricature. Ces choix
+          sont désolants. Il semble qu'on prenne à tâche d'achever notre pauvre Église déjà si
+          malade.</p>
+        <p>Mon frère qui est ici, malheureusement pour très-peu de jours, profite de cet instant
+          pour vous écrire. Je ne le reverrai qu'en septembre, car je ne compte pas les deux jours
+          qu'il doit me donner en juillet. Et vous, quand vous reverrai-je? Il faut attendre les
+          moments de Dieu.</p>
+        <p>Mon frère qui est ici, malheureusement pour très-peu de jours, profite de cet instant
+          pour vous écrire. Je ne le reverrai qu'en septembre, car je ne compte pas les deux jours
+          qu'il doit me donner en juillet. Et vous, quand vous reverrai-je? Il faut attendre les
+          moments de Dieu.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

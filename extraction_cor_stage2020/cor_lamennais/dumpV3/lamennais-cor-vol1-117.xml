@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-09-25" resp="author">25 septembre 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Cornulier de Lucinière, Mademoiselle (...-...)">Mademoiselle Cornulier de
+            Lucinière</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-09-25"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>25 septembre 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Le ressuscité embrasse ses trois bonnes amies, et le cher M. Carissan, et ma petite Clara
+          et ma petite Hélène, et dit mille choses affectueuses aux domestiques du n° 54. Il
+          voudrait savoir comment la bonne Villiers et Adèle se sont trouvées de leur voyage aux
+          eaux. Pour lui, ses forces reviennent malgré la rechute qu'il a éprouvée et dont il n'est
+          plus question, grâce à de fortes doses de quinine. Sur cent mille malades, à peine un
+          reviendrait-il d'où il est revenu. Sans pouls, sans respiration pendant plusieurs minutes,
+          quelques instants de plus c'était la mort. Elle l'eût délivré de bien des maux, mais le
+          bon Dieu a voulu lui laisser le temps de la pénitence. Priez pour qu'elle soit sincère,
+          entière et persévérante : j'embrasse bien tendrement toute la chère famille.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

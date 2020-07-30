@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-05-05" resp="author">le 5 mai 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Comte de Senfft, Monsieur (...-...)">Monsieur le Comte de Senfft</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-05-05"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 5 mai 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>J'ai écrit, il y a quelques jours, mon cher ami, à Mme de Senfft, pour vous annoncer mon
+          arrivée ici, et pour vous dire avec combien d'impatience j'attendais de vos nouvelles. Je
+          ne serai tout à fait tranquille sur la santé de la comtesse . Louise, sur celle de Mme de
+          Senfft, sur la vôtre, que lorsque vous m'aurez rassuré par des détails plus satisfaisants
+          que les derniers. Pour moi, je sens que mes forces ont extrêmement diminué depuis un an,
+          et mon travail ne diminue point.</p>
+        <p>J'ai passé l'été et l'hiver dernier à transcrire des notes, et je vois que j'en ai pour
+          longtemps encore de cette fastidieuse et fatigante occupation. C'est pourquoi je me décide
+          à chercher quelque aide, et c'est à vous que je m'adresse pour cela. Ayant à peu près
+          dix-huit mois à passer ici seul, je serais bien aise de trouver quelque distraction utile
+          dans la société du secrétaire dont j'ai besoin; et, comme cette distraction ne pourrait
+          être celle qui résulte de la communication des idées, sur les sujets qui m'intéressent,
+          j'ai pensé que je n'en trouverais pas de meilleure ni de plus commode qu'en la cherchan
+          dans l'étude d'une langue que je n'ai pas l'habitude de parler. Si donc vous pouviez me
+          procurer un Italien, vous me rendriez un vrai service. Je crois qu'on parle à Modène un
+          langage pur; et, dans ce cas, il vous serait facile de vous informer si l'on y trouverait
+          ce que je désire. Il me faudrait un tout jeune . homme, finissant ses humanités, pour
+          plusieurs raisons : et parce qu 'il n'en serait pas encore à prendre un état, et parce que
+          je ne pourrais pas offrir les avantages qu'un autre demanderait avec justice. Voici
+          quelles seraient mes conditions : le logis, la table, le blanchissage et 600 fr. par an.
+          Je payerais en outre les frais de voyage pour venir et ceux de retour, lorsque ce jeune
+          homme retournerait dans son pays. Il aurait appris au moins le français, et c'est une
+          chose à considérer. Je voudrais qu'il fût pieux, de mœurs douces, et qu'il sût écrire
+          lisiblement. Si cette affaire s'arrangeait, je vous prierais d'avancer les frais de voyage
+          jusqu'à Paris, où il arriverait avec une lettre de vous pour l'abbé Gerbet (rue de l'Est,
+          n° 5), ou en son absence pour l'abbé de Salinis. Ils l'hébergeraient et le feraient
+          ensuite partir pour la Chenaie; ou même ils l'y amèneraient, car ils doivent l'un et
+          l'autre y venir dans le courant de l'été. Je n'exige pas qu'il parle le français; il me
+          conviendrait même beaucoup mieux qu'il ne le sût pas du tout. Du reste, je vous demande
+          d'être nommé le moins possible.</p>
+        <p>Vous voyez, mon cher comte, j'abuse de votre amitié ; mais vous êtes si bon, que vous me
+          pardonnerez. Il s'agit d'ailleurs d'avancer mes travaux que je crois importants, et de
+          soutenir un peu ma santé qu'altère une solitude trop absolue.</p>
+        <closer>
+          <salute>Tuissimus in Christo.</salute>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

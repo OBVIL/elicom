@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-05-28" resp="author">le 28 mai 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Comtesse de Senfft, Madame (...-...)">Madame la Comtesse de
+            Senfft</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-05-28"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 28 mai 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Cette lettre vous trouvera vraisemblablement à Oleggio, et je le désire, car j'espère
+          beaucoup de ce séjour pour la santé de la comtesse Louise. Le 13 mai, votre départ était
+          arrêté par les pluies. Je vous en crois débarrassée depuis quelques jours, attendu
+          qu'elles nous sont arrivées en Bretagne, d'où nous serions bien aises qu'elles passassent
+          en Albion, ne fût-ce que pour rafraîchir le cerveau de M. Canning, qui paraît en avoir
+          besoin. Que cet homme parvienne à s'affermir ou que l'opposition le renverse, sa victoire
+          momentanée présage avec certitude la victoire finale des whigs, ou plutôt des radicaux. Il
+          ne s'agit que d'un peu plus ou d'un peu moins de temps. Les choses, au reste, vont partout
+          de la même manière, et les temps se hâtent d'arriver. Je ne reçois que des lettres de
+          désolation. Les yeux qui paraissaient le plus hermétiquement fermés s'ouvrent, et si
+          grands, si grands, que cela en est presque risible. C'est une espèce de peur idiote, qui
+          ne sait ni ce qu'elle craint, ni pourquoi elle craint : aussi a-t-elle des effets tout à
+          fait divers. Les uns se réfugient à l'abri de la Charte; les autres se blottissent sous le
+          portefeuille de M. de Villèle ; ceux-ci blanchissent, ceux-là rougissent; quelques-uns
+          deviennent de trois couleurs; jamais on ne dit tant de sottises, jamais on n'en fit
+          davantage, sans compter celles qu'on rêve et qu'on n'a pas le temps de placer. Je suis
+          plus indulgent que vous ne l'êtes à l'égard de l'homme qui s'est retiré . Vous ne vous
+          représentez pas à quel point est porté le mépris du ministère, la haine et l'horreur qu'il
+          inspire, et cela universellement. Il est naturel qu'on se lasse d'une pareille solidarité,
+          surtout quand on a quelque chose, pas grand chose si vous voulez, mais enfin quelque chose
+          à perdre. Je doute beaucoup que V. soit le successeur. L'héritage est scabreux à
+          recueillir. Cependant, s'il était offert, et, ce qui me paraît moins présumable, s'il
+          était accepté, ne doutez pas un seul instant que l'abbé L. 5 n'aurait qu'à se louer des
+          procédés et des sentiments qu'on aurait pour lui. Les torts graves qu'il a eus envers la
+          personne dont il est question ne sont attribués qu'au dérangement trop réel de sa tête,
+          et, malgré les embarras extrêmes qui en sont résultés, n'ont produit d'autre impression
+          qu'une pitié pleine d'intérêt. Voilà en quel état j'ai laissé les choses. Mais, au nom
+          même de l'attachement que vous avez pour ce pauvre abbé, et qu'il mérite, détournez-le de
+          toutes vos forces de tout ce qu'il pourrait lui passer par l'esprit d'entreprendre. Ce
+          serait un nouvel abîme qu'il creuserait sous ses pieds. Tous ses amis, et mon frère plus
+          qu'aucun autre, n'ont qu'une voix là-dessus.</p>
+        <p>Ce que vous me dites des Algériens et de l'insolence des Musulmans montre jusqu'où nous
+          sommes descendus. La société voyage dans les Cercles de Dante. Elle cherche son chef, elle
+          le trouvera.</p>
+        <lg>
+          <l>Ecco Dite...</l>
+          <l>Lo'mperador del doloroso regno...</l>
+          <l>S'ei t'u si bel, com' egli è ora brutto,</l>
+          <l>E contra'l suo Fattore alzo le ciglia,</l>
+          <l>Ben dee da lui procedere ogni lutto</l>
+        </lg>
+        <p>Voyez si l'histoire de la Royauté, depuis quelques siècles, ne se trouve pas tout entière
+          dans ces derniers vers.</p>
+        <p>Et, puisque me voilà dans l'italien, je suis charmé que vous jugiez facile de me
+          trouver un parlatore. Mais les avantages que je puis offrir sont si faibles, que cela
+          peut changer beaucoup l'affaire. J'avais oublié de vous dire aussi qu'il faudrait
+          quelqu'un qui ne s'effrayât pas de la vie de la campagne, et d'une campagne fort
+          solitaire. Mes forces ne reviennent pas encore. Le jour de l'Ascension, j'ai eu une
+          nouvelle attaque de mon mal ordinaire. Je crois que j'ai une charte en moi. Vous en
+          penserez ce que vous voudrez, attendu la liberté des opinions. J'attends avec impatience
+          une lettre d'Oleggio. </p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

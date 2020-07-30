@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-06-04" resp="author">4 juin 1827</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Comtesse de Senfft, Madame (...-...)">Madame la Comtesse de
+            Senfft</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-06-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName>A la Chenaie</placeName>
+            <date>le 4 juin 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Si je voulais, vous remercier de vos bontés comme je les sens, ce serait chose
+          impossible. Au milieu de tant d'affaires, de tant d'inquiétudes, de tant de soins, trouver
+          encore le temps de vous occuper de moi, avec un zèle si plein d'amitié,</p>
+        <p>cela me touche mille fois plus que je ne puis vous l'exprimer. Oh! que ne puis-je vous
+          donner au moins quelque petite marque de reconnaissance! Mais le bon Dieu m'en ôte le
+          moyen, et je n'ai à vous offrir que mon pauvre cœur tout rempli de gratitude et de
+          tendresse. Je tâcherai de rendre la vie de nos champs la moins ennuyeuse que je pourrai au
+          bon jeune homme que vous m'annoncez. Il se reposera un peu à Paris, et ensuite il est
+          possible qu'il fasse avec l'abbé Gerbet le reste du voyage.</p>
+        <p>Je ne résiste pas à la tentation de vous rappeler quelques passages de votre admirable
+          lettre du 25 mai :</p>
+        <p>« Il est trop jeune encore pour sentir la nécessité de l'indulgence. — Cette humeur
+          vagabonde qui n'est pas seulement maladie, mais pli fautif de l'esprit. — Ce marais
+          européen qui est tout près de redevenir fournaise. » Que tout cela est vrai et
+          profondément observé! Mais le monde est plein de gens qui ne verront le soleil que quand
+          il sera noir comme un sac de crin, et qui commenceront à entendre quand sonnera la
+          trompette du Jugement dernier. Toutefois il y a une frayeur générale. On s'inquiète, et
+          l'on ne sait pas de quoi. C'est comme la terreur d'un rêve. Pour calmer les esprits et les
+          rassurer, on nous promet la censure immédiatement après le renvoi des Chambres. Cela est
+          bien, tout est bien, car tout est surnaturel dans ce qui se passe sous nos yeux.</p>
+        <p>Mandez-moi, je vous prie, si la mort du roi de Saxe a quelque influence sur votre
+          position. Le retour annoncé de dom Pedro en aura une grande sur les affaires du Portugal
+          et de la Péninsule. Tout s'embrouille de plus en plus. L'Éole britannique se dispose à
+          ouvrir ses outres, mais les tempêtes qui en sortiront l'emporteront lui-même avec la Tyr
+          nouvelle, et sa puissance et son orgueil. L'homme qui a été décrié chez lui par un autre!
+          est admirable et se conduit admirablement. On ne juge pas mieux, on ne fait pas mieux.
+          Dieu est avec lui. Qu'il soit aussi avec vous pour vous diriger, pour vous soutenir et
+          vous consoler.</p>
+        <closer>
+          <salute/>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

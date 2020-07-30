@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Félicité de Lamennais</title>
+            <author>Félicité de Lamennais</author>
+            <respStmt>
+               <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+                  direction d'Arthur Provenier</resp>
+               <persName>
+                  <forename>Lucie</forename>
+                  <surname>Slavik</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Obvil</publisher>
+            <date when="2020"/>
+            <idno/>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                  <p/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Gerbet, Philippe Abbé (1798-1864)"
+                  ref="https://data.bnf.fr/fr/12273858/philippe_gerbet/">Abbé Philippe
+                  Gerbet</persName>
+               <date when="1827-07-18" resp="author">18 juillet 1827.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Comte de Senfft, Monsieur (...-...)">Monsieur le Comte de
+                  Senfft</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="foo.xml"/>
+               <ref type="next" target="bar.xml"/>
+            </correspContext>
+         </correspDesc>
+         <creation>
+            <date when="1827-07-18"/>
+         </creation>
+         <langUsage>
+            <language ident="fre"/>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <placeName>A la Chenaie,</placeName>
+                  <date> 18 juillet 1827.</date>
+               </dateline>
+               <salute> Monsieur le comte,</salute>
+            </opener>
+            <p> M. Féli, depuis sa dernière lettre, en a reçu deux de Mme la comtesse de Senfft dont
+               il la remercie beaucoup, et auxquelles il répondrait en ce moment, si l'état de sa
+               santé le lui permettait. Il garde le lit, et sort d'un accès de fièvre qui a duré
+               dix-huit heures. C'est dimanche dernier qu'il a commencé à en ressentir les
+               atteintes. Il est beaucoup mieux maintenant, mais, comme par suite de cette crise il
+               pourra être pendant plusieurs jours trop faible .pour écrire, il m'a chargé de vous
+               en prévenir, afin que son silence ne vous surprenne pas. Du reste, il désire aussi
+               que vous sachiez que cette crise momentanée n'est pas de nature à donner des
+               alarmes.</p>
+            <p> Il a reçu dernièrement une lettre de Mme la comtesse Riccini. Il vous prie d'avoir
+               la bonté de lui écrire, pour lui faire savoir qu'étant malade en ce moment il ne
+               pourra lui répondre aussi tôt qu'il l'aurait désiré, et qu'elle ne devra pas non plus
+               être étonnée de son silence pendant quelque temps. Il a reçu dernièrement la nouvelle
+               brochure de l'abbé Clausel, qui est la seconde contre la Société Catholique. Cette
+               brochure est parvenue, sous le couvert du ministère des affaires ecclésiastiques, à
+               M. le duc de Rivière, qui l'a renvoyée à M. Frayssinous, en lui écrivant qu'il ne
+               pouvait croire qu'elle lui eût été adressée avec son autorisation, et que, pour le
+               prévenir de cet abus de confiance, il lui renvoyait ce pamphlet sans l'avoir lu.</p>
+            <p> M. l'abbé Jean ne reviendra à la Chenaie que dans le mois de septembre ; sa santé
+               est bonne.</p>
+            <closer>
+               <salute> Permettez-moi, monsieur le comte, de terminer ce bulletin par l'expression
+                  de mon profond respect. </salute>
+               <signed/>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

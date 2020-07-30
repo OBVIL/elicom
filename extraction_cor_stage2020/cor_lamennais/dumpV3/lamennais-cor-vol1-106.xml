@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Correspondance Félicité de Lamennais</title>
+        <author>Félicité de Lamennais</author>
+        <respStmt>
+          <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+            direction d'Arthur Provenier</resp>
+          <persName>
+            <forename>Lucie</forename>
+            <surname>Slavik</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Obvil</publisher>
+        <date when="2020"/>
+        <idno/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p/>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="de Lamennais, Félicité (1782-1854)"
+            ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+            Lamennais</persName>
+          <date when="1827-06-04" resp="author">4 juin 1827.</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="Comtesse de Senfft, Louise (...-...)">Madame la Comtesse Louise de
+            Senfft</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="foo.xml"/>
+          <ref type="next" target="bar.xml"/>
+        </correspContext>
+      </correspDesc>
+      <creation>
+        <date when="1827-06-04"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <dateline>
+            <placeName/>
+            <date>4 juin 1827.</date>
+          </dateline>
+          <salute/>
+        </opener>
+        <p>Je veux aujourd'hui vous écrire un petit mot en particuier, d'abord pour vous rendre
+          mille grâces de votre si aimable souvenir du lendemain de l'Ascension, et puis pour vous
+          dire à vous-même combien je suis tourmenté de vos souffrances continuelles. Hélas ! que
+          serait-ce que cette triste vie, si la foi, si l'espérance, si l'amour, ne nous
+          soutenaient! Il y a des moments où je suis prés de succomber sous le fardeau. Mais vous
+          avez plus de force que moi, parce que vous avez plus de vertu. Le bon Dieu vous mesure ses
+          grâces en proportion de vos épreuves. Oh! profitez, profitez bien d'une si grande occasion
+          de mérite. Ne laissez rien échapper, pas même la plus petite feuille de cette belle et
+          riche couronne que les anges tressent pour vous dans le ciel. Les souffrances seront
+          passagères ; même ici-bas, elles ne dureront pas toujours; mais la récompense ne passera
+          point. Patience donc et douceur au milieu de vos maux, qui ne sont pas seulement les
+          vôtres, mais encore ceux de vos excellents parents, ceux de tous vos amis, parmi lesquels
+          je vous supplie de permettre que je me compte, moi pauvret. Que je voudrais être près de
+          vous pour partager les soins que vous prodigue la tendresse de vos proches, pour essayer
+          de vous distraire, ne fût-ce que par quelqu'une de ces folies que vous pardonniez à ma
+          jeunesse! Vous souvenez-vous comme nous avons ri? J'espère toujours que ce temps-là
+          reviendra, et sûrement ce ne seront ni les choses risibles, ni les personnages ridicules
+          qui manqueront à notre gaieté, quand le bon Dieu permettra que j'aie le bonheur de vous
+          revoir. Cependant soignez-vous, soignez vos bons parents, qui ne vivent que pour vous;
+          adoucissez-leur, autant que vous le pourrez, la peine qu'ils ressentent de vos
+          souffrances; et puis, tout doucement, tout doucement, avançant un pied, puis l'autre, nous
+          atteindrons un meilleur avenir.</p>
+        <closer>
+          <salute>Je vous porte tous les jours au saint autel; priez aussi pour moi, ce sera grande
+            charité, car il n'y a point de misère plus profonde que la mienne. Mille vœux et mille
+            tendresses. </salute>
+          <signed/>
+        </closer>
+        <postscript>
+          <p/>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

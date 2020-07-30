@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Félicité de Lamennais</title>
+            <author>Félicité de Lamennais</author>
+            <respStmt>
+               <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+                  direction d'Arthur Provenier</resp>
+               <persName>
+                  <forename>Lucie</forename>
+                  <surname>Slavik</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Obvil</publisher>
+            <date when="2020"/>
+            <idno/>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                  <p/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Gerbet, Philippe Abbé (1798-1864)"
+                  ref="https://data.bnf.fr/fr/12273858/philippe_gerbet/">Abbé Philippe
+                  Gerbet</persName>
+               <date when="1827-08-09" resp="author">9 août 1827.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Comte de Senfft, Monsieur (...-...)">Monsieur le Comte de
+                  Senfft</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="foo.xml"/>
+               <ref type="next" target="bar.xml"/>
+            </correspContext>
+         </correspDesc>
+         <creation>
+            <date when="1827-08-09"/>
+         </creation>
+         <langUsage>
+            <language ident="fre"/>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <placeName>A la Chenaie,</placeName>
+                  <date>9 août 1827.</date>
+               </dateline>
+               <salute>Monsieur le comte,</salute>
+            </opener>
+            <p>Je reçois votre lettre du 50 juillet. Vous avez dû recevoir, depuis ma triste lettre
+               du 27, des bulletins de plus en plus satisfaisants sur-l'état de l'abbé Féli. Le
+               dernier vous a appris qu'il n'y avait plus de danger, et je vous en confirme
+               aujourd'hui l'assurance.</p>
+            <p>La convalescence fait des progrès. Il prend de jour en jour une nourriture plus
+               substantielle. Le médecin lui a dit aujourd'hui qu'il pourrait entendre la messe le
+               jour de l'Assomption. La voix est déjà presque sa voix ordinaire. Il aime à causer
+               -de temps en temps, et je n'ai pas besoin de vous dire que ses amis de Turin ont été
+               dans ses premières paroles. Il a été traité parfaitement par M. le docteur Bodinier,
+               de Dinan, dont le zèle et l'habileté méritent beaucoup de reconnaissance. Après Dieu,
+               c'est lui qui l'a sauvé.</p>
+            <p>Je me proposais de vous donner dans cette lettre l'historique de cette maladie si
+               affreuse d'uue part, et si admirable de l'autre; je ne le puis pas encore
+               aujourd'hui. Je l'ai veillé la nuit dernière, et ce soir je suis bien fatigué.
+               Veuillez excuser ce retard en faveur de sa cause. Le commissionnaire part demain de
+               grand matin. Pour achever de vous tranquilliser, j'ajoute que M. l'abbé Jean est
+               parti de la Chenaie mercredi, pour aller terminer quelques affaires qui réclamaient
+               sa présence. Cela seul vous rassurerait sur l'état du cher convalescent. Dans mes
+               lettres troublées, j'ai omis les hommages de M. l'abbé Jean. — Mille respects. </p>
+            <closer>
+               <salute/>
+               <signed/>
+            </closer>
+            <postscript>
+               <p/>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

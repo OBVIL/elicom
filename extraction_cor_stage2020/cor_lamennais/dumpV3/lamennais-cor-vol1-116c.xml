@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Félicité de Lamennais</title>
+            <author>Félicité de Lamennais</author>
+            <respStmt>
+               <resp>Encodage réalisé pour Obvil dans le cadre d'un stage M2 TNAH de l'ENC, sous la
+                  direction d'Arthur Provenier</resp>
+               <persName>
+                  <forename>Lucie</forename>
+                  <surname>Slavik</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Obvil</publisher>
+            <date when="2020"/>
+            <idno/>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                  <p/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName key="Gerbet, Philippe Abbé (1798-1864)"
+                  ref="https://data.bnf.fr/fr/12273858/philippe_gerbet/">Abbé Philippe
+                  Gerbet</persName>
+               <date when="1827-07-27" resp="author">27 juillet 1827.</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName key="Comte de Senfft, Monsieur (...-...)">Monsieur le Comte de
+                  Senfft</persName>
+            </correspAction>
+            <correspContext>
+               <ref type="prev" target="foo.xml"/>
+               <ref type="next" target="bar.xml"/>
+            </correspContext><correspAction type="sent">
+               <persName key="de Lamennais, Félicité (1782-1854)"
+                  ref="https://data.bnf.fr/fr/11910852/felicite_de_la_mennais/">Félicité de
+                  Lamennais</persName>
+               <date when="1827-07-27" resp="author">27 juillet 1827.</date>
+            </correspAction>
+         </correspDesc>
+         <creation>
+            <date when="1827-07-13"/>
+         </creation>
+         <langUsage>
+            <language ident="fre"/>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <placeName>La Chenaie</placeName>
+                  <date>27 juillet 1827.</date>
+               </dateline>
+               <salute>Monsieur le comte,</salute>
+            </opener>
+            <p>Ma lettre de la semaine dernière vous annonçait la maladie de M. Féli, et au moment
+               où je vous écrivais son état n'était pas tel que je dusse vous alarmer :</p>
+            <p>il ne le pensait pas. Mais depuis! Une fièvre bilieuse, avec les spasmes, d'abord
+               tierce, puis continue, des évanouissements, et maintenant une effrayante faiblesse.
+               Dès le commencement de la maladie, M. Blaize est venu. M. l'abbé Jean est arrivé
+               ces jours-ci : nous sommes dans une consternation mortelle. Je voudrais pouvoir
+               croire que notre affection grossit encore à nos yeux le danger de son état : mais je
+               ne le puis. Si je ne vous ai pas écrit plus tôt, c'est que j'attendais de jour en
+               jour quelque mieux à vous annoncer. Ne croyez pas, cependant, que toute espérance
+               soit perdue : non, non. J'avais foi en ce qui lui restait à faire pour accomplir sa
+               mission, et je conserve encore cette foi : mille hommages. Je frémis à la pensée de
+               la douleur que vous porte ma lettre.</p>
+            <closer>
+               <salute/>
+               <signed/>
+            </closer>
+            <postscript>
+               <p> P. S. de samedi matin 28. — Un changement notable dans l'état du cher malade
+                  nous a fait passer de la plus profonde tristesse à beaucoup d'espérance. Point ou
+                  presque point de fièvre; les forces reviennent. — Je vous écrirai par le prochain
+                  courrier, qui part de Dinan mardi.</p>
+               <p>Deux heures et demie de l'après-midi. — Un symptôme ardemment désiré vient de se
+                  manifester : M. l'abbé Jean pense que le cher malade est sauvé. Je suis bien porté
+                  à partager cette espérance.— Si j'avais le temps, je recommencerais ma lettre pour
+                  supprimer ce que j'ai écrit hier de trop alarmant : mais l 'exprès qui doit la
+                  porter à Dinan n'a plus que le temps nécessaire pour y arriver avant le départ du
+                  courrier.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
