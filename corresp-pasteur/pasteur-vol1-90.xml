@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Strasbourg, 7 décembre 1853." resp="">Strasbourg, 7 décembre 1853.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-12-07">7 décembre 1853.</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="Au Dr GODÉLIER. (...-...)">Au Dr GODÉLIER.</persName>
+          <persName key="Godélier, Charles (1813-1877)">Au Dr GODÉLIER.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -60,12 +61,11 @@
         <p>Je n'ose même espérer qu'elles verront le jour. Leur succès dépasserait toutes les prévisions actuelles de la science, et je crains beaucoup d'avoir cette fois entrepris l'impossible. Je voudrais remonter à la cause d'un des plus grands mystères de la nature et dont la connaissance aurait, il me semble, des conséquences d'une portée incalculable 1.</p>
         <p>Adieu, mille choses aimables pour Mme Pasteur et pour moi à Mme Godélier. Recevez aussi les compliments et les amitiés trois fois répétés de la famille de Strasbourg.</p>
         <p>Votre tout dévoué, L. PASTEUR.</p>
-        <p>Pasteur va plus loin : si les produits de la nature vivante sont dissymétriques, c'est qu'à leur origine président des forces dissymétriques.</p>
+        <p>Pasteur va plus loin : si les produits de la nature vivante sont dissymétriques, c'est qu'à leur origine président des forces dissymétriques.Si l'on veut imiter la nature, il faut mettre en jeu, dans les réactions de laboratoire, des forces dissymétriques: actions de solénoïdes, de magnétisme, de lumière polarisée elliptique. C'est ce qu'il tentait.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Si l'on veut imiter la nature, il faut mettre en jeu, dans les réactions de laboratoire, des forces dissymétriques: actions de solénoïdes, de magnétisme, de lumière polarisée elliptique. C'est ce qu'il tentait.</signature>
             </name>
           </signed>
         </closer>

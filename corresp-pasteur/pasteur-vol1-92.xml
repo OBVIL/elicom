@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Paris, 25 février 1854.] Mon cher papa, D'après ce que Marie t'a dit tu pourrais croire que je suis plus malade que je ne le suis réellement1. Sans ce travail que l'on me demande en vue de la Correspondance" resp="">[Paris, 25 février 1854.] Mon cher papa, D'après ce que Marie t'a dit tu pourrais croire que je suis plus malade que je ne le suis réellement1. Sans ce travail que l'on me demande en vue de la Correspondance</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-02-25">[25 février 1854]</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="[Paris, 25 février 1854.] Mon cher papa, D'après ce que Marie t'a dit tu pourrais croire que je suis plus malade que je ne le suis réellement1. Sans ce travail que l'on me demande en vue de la Correspondance"/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -50,11 +50,11 @@
       <div type="letter">
         <opener>
           <dateline>
-            <date>[Paris, 25 février 1854.] Mon cher papa, D'après ce que Marie t'a dit tu pourrais croire que je suis plus malade que je ne le suis réellement1. Sans ce travail que l'on me demande en vue de la Correspondance</date>
+            <date>[Paris, 25 février 1854.]</date>
           </dateline>
           <salute/>
         </opener>
-        <p>« M. Biot, qui partage notre sollicitude et qui constate lui-même avec regret l'état de M. Pasteur, se joint à moi pour vous prier, Monsieur, de vouloir bien intervenir auprès de M. le ministre, à l'effet d'obtenir aux meilleures conditions possibles un congé de quelques mois qu'il sera peut-être indispensable de prolonger jusqu'aux prochaines vacances.</p>
+        <p>Mon cher papa, D'après ce que Marie t'a dit tu pourrais croire que je suis plus malade que je ne le suis réellement1. Sans ce travail que l'on me demande en vue de la Correspondance« M. Biot, qui partage notre sollicitude et qui constate lui-même avec regret l'état de M. Pasteur, se joint à moi pour vous prier, Monsieur, de vouloir bien intervenir auprès de M. le ministre, à l'effet d'obtenir aux meilleures conditions possibles un congé de quelques mois qu'il sera peut-être indispensable de prolonger jusqu'aux prochaines vacances.</p>
         <p>« J'ose compter, M. l'inspecteur général, sur votre bienveillance pour nous et sur le constant intérêt dont vous avez honoré M. Pasteur, pour assurer le succès de cette demande.</p>
         <p>a Je vous prie, etc.</p>
         <p>LAURENT, recteur honoraire. #</p>
@@ -73,28 +73,10 @@
         <p>Le plus frais maintenant c'est peut-être Baptiste qui était si délicat et souvent si pâle.</p>
         <p>Je t'embrasse de tout mon cœur.</p>
         <p>L. PASTEUR.</p>
-        <p>Paris, 25 février 1854.</p>
-        <p>Mon cher papa, Je viens de voir Monsieur Biot qui a reçu une lettre de toi à laquelle il a répondu hier, et nous avons reçu ce matin une lettre de M. Laurent qui nous dit que tu es très inquiet d'après la lettre que tu lui as aussi écrite ces jours derniers.</p>
-        <p>Je t'avais adressé une lettre déjà ce matin, ignorant ces détails et je reprends la plume pour te dire que tu n'as aucunement à être inquiet de ma santé. Je me porte très bien sans être mécontent du repos que je vais prendre et de la diminution de travail que ces messieurs me donnent. Je , serais désolé que tu fisses le voyage de Paris et que tu te dérangeasses à cause de moi. Tu as cru que Marie te cachait peut-être que j'étais plus malade : détrompe-toi bien.</p>
-        <p>M. Biot m'a dit heureusement ce matin que la lettre qu'il t'avait écrite hier t'enlèverait toute inquiétude. Sans cela je serais fort ennuyé moi-même.</p>
-        <p>Adieu. Porte-toi aussi bien que moi en ce moment.</p>
-        <p>L. PASTEUR.</p>
-        <p>A M. SiiTTERLIN 1.</p>
-        <p>Paris, 28 février 1854.</p>
-        <p>Mon cher Sütterlin, Depuis plusieurs jours, je remets à vous écrire. Vous savez que je suis à Paris pour trois mois au moins et que par conséquent, à mon grand regret, je suis forcé de vous abandonner.</p>
-        <p>Ma santé me donnait des inquiétudes depuis quelque temps et on m'a conseillé ici de m'éloigner de toute [mot illisible] jusqu'à nouvel ordre.</p>
-        <p>J'ai beaucoup réfléchi à l'embarras où je vous plaçais par suite de la détermination que j'ai dû prendre forcément. Je vais vous dire ce qui me paraîtrait le plus convenable que vous fassiez. Ce qui vous est surtout étranger en chimie, c'est la chimie organique. Assurément vous avez en chimie minérale et en analyse beaucoup à apprendre encore.Vous êtes cependant en état d'étudier facilement dans des ouvrages ce qui vous manque de ce côté, et pourvu que vous y mettiez la patience nécessaire vous arriveriez à mener à bonne fin, dès à présent, un très grand nombre d'analyses, sinon toutes. En chimie organique vous avez tout à faire.</p>
-        <p>C'était à cette partie que vous deviez consacrer le second semestre de cette année. Dans cet état de vos connaissances, voici le conseil que je vous donnerai si toutefois il peut agréer à votre famille. Je vous engagerais à venir à Paris après Pâques pour y rester jusqu'à la fin de juillet oU jusqu'au 15 août. Vous prendriez une petite chambre garnie, vos livres de chimie, et vous suivriez les cours de chimie organique que je vous indiquerais. Vous pourriez y joindre peut-être la fréquentation d'un autre cours d'analyses si je pouvais en découvrir un de ce genre, par exemple à l'Ecole centrale. Je ne vous l'assure pas. J'ignore la distribution des études dans le second semestre. Mais pour ce qui est des cours de chimie organique et d'un autre de minéralogie au Jardin des Plantes, je sais qu'ils s'ouvrent seulement à la 1 fin de mars ou au milieu d'avril.</p>
-        <p>Je dois vous dire tout de suite que la liberté forcée dont je jouis ici m'engage à suivre moi-même par distraction, autant que par désir de m'instruire, tous ces mêmes cours dont je vous parle. Nous nous verrions donc chaque jour et je vous donnerais tous les conseils dont vous auriez besoin pour comprendre et bien travailler les leçons que nous entendrions ensemble.</p>
-        <p>Tous ces cours sont publics. Vous n'auriez donc d'autres dépenses que celles de votre chambre et de votre nourriture.</p>
-        <p>Tout ce que je ferais pour vous serait sur le compte d'une bonne amitié et entièrement gratuit. Vous n'auriez pas, il est vrai, les ressources d'un laboratoire. Mais vous verriez cependant que votre temps serait bien occupé, et vous n'en deviendriez que plus fort théoriquement sauf plus tard à revenir pratiquement sur un certain membre de préparations importantes dont vous auriez pris note chemin faisant. Si vous désiriez prendre en dehors de ce travail bien suffisant quelques leçons de mathématiques ou autres, je vous donnerais (surtout pour ce qui est des mathématiques) d'excellentes indications. Je connais ici beaucoup de bons professeurs. Voilà mon conseil. Réfléchissez-y et écriveznioi quelques mots de réponse.</p>
-        <p>Recevez, mon cher élève, l'expression des sentiments d'estime et d'affection de votre tout dévoué, L. PASTEUR.</p>
-        <p>Rappelez-moi, je vous prie, au bon souvenir de votre excellente famille.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>P.-S. — Vous voyez d'après ma lettre que je ne compte pas retourner à Strasbourg dans trois mois. C'est en effet vrai. Mais je vous le dis tout confidentiellement.</signature>
             </name>
           </signed>
         </closer>

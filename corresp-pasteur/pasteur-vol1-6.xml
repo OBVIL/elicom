@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Besançon, le 7 décembre 1840." resp="">Besançon, le 7 décembre 1840.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-12-07" >le 7 décembre 1840.</date>
+          <placeName>Besançon</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -65,19 +67,21 @@
         <p>J'ai encore les noix que vous m'avez envoyées pour la foire. Si vous m'envoyez aussi des confitures, vous aurez SOIn par la même occasion de placer avec deux écus de 5 francs. J'avais de l'argent; mais comme cette année les spéciaux internes sont dans une chambre particulière, nous avons été obligés d'acheter notre bois, de la chandelle, de 1 huile, et comme nous ne sommes que quatre, ça fait que chacun en a été encore pour une certaine somme. Mais ne m envoyez pas plus de 10 francs. Je n'en aurais même pas besoin, c'est en cas seulement que je sois obligé d'acheter quelque chose. A part cela j'ai encore assez d'argent. J'ai payé mon trimestre en entier. Je recommande à mes sœurs du travail et de l'amitié les unes envers les autres. J'aimerais, si le temps ne me manquait pas, leur donner quelques conseils; mais nous allons aller à la messe et je suis pressé.</p>
         <p>Adieu, je vous embrasse tous ainsi que ma sœur Emilie.</p>
         <p>PASTEUR Louis.</p>
-        <p>p.-S. - Quand vous verrez M. Pelletier dites-lui bien</p>
-        <p>en V Jus Vercel était un camarade d'enfance. Il demeurait à Arbois, lié de la tannerie du père de Pasteur. Jusqu'à sa mort, Pasteur resta ecbon avec lui.</p>
-        <p>des choses de ma part ainsi qu'à sa femme. Ayez soin de lui rendre son ouvrage de Lamennais.</p>
-        <p>J'ai toujours ce petit volume de M. Droz 1 .qu'il a eu la complaisance de me prêter. Je n'ai jamais rien lu de plus sage, de plus moral et de plus vertueux. J'ai encore un autre de ses ouvrages. Rien n'est mieux écrit. A la fin, de l'année je vous rapporterai toutes ces œuvres. On éprouve à les lire un charme irrésistible qui pénètre l'âme et l'enflamme des sentiments les plus sublimes et les plus généreux. Il n'y a pas dans ce que je vous dis là une seule lettre exagérée. Aussi je ne lis le dimanche aux offices que les ouvrages de M. Droz, et je crois en agissant ainsi, malgré tout ce qu'en pourrait dire le cagotisme irréfléchi et niais, me conformer aux plus belles idées religieuses.</p>
-        <p>Quand je m'en irai, je vous lirai ces ouvrages.</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>*</signature>
             </name>
           </signed>
         </closer>
+        <postscript>
+          <p>p.-S. - Quand vous verrez M. Pelletier dites-lui bien</p>
+          <p>en V Jus Vercel était un camarade d'enfance. Il demeurait à Arbois, lié de la tannerie du père de Pasteur. Jusqu'à sa mort, Pasteur resta ecbon avec lui.</p>
+          <p>des choses de ma part ainsi qu'à sa femme. Ayez soin de lui rendre son ouvrage de Lamennais.</p>
+          <p>J'ai toujours ce petit volume de M. Droz 1 .qu'il a eu la complaisance de me prêter. Je n'ai jamais rien lu de plus sage, de plus moral et de plus vertueux. J'ai encore un autre de ses ouvrages. Rien n'est mieux écrit. A la fin, de l'année je vous rapporterai toutes ces œuvres. On éprouve à les lire un charme irrésistible qui pénètre l'âme et l'enflamme des sentiments les plus sublimes et les plus généreux. Il n'y a pas dans ce que je vous dis là une seule lettre exagérée. Aussi je ne lis le dimanche aux offices que les ouvrages de M. Droz, et je crois en agissant ainsi, malgré tout ce qu'en pourrait dire le cagotisme irréfléchi et niais, me conformer aux plus belles idées religieuses.</p>
+          <p>Quand je m'en irai, je vous lirai ces ouvrages.</p>
+        </postscript>
       </div>
     </body>
   </text>

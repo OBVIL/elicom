@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[7 octobre 1852.] Ma chère Marie, Je t'écris encore de chez Mme Lelièvre et voici dans qUelles circonstances." resp="">[7 octobre 1852.] Ma chère Marie, Je t'écris encore de chez Mme Lelièvre et voici dans qUelles circonstances.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10-07" >[7 octobre 1852]</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -64,16 +64,11 @@
         <p>Adieu. A dimanche.</p>
         <p>Tout à toi.</p>
         <p>L. PASTEUR.</p>
-        <p>[Même date]. Jeudi soir.</p>
-        <p>Mae Lelièvre et ses enfants se portent très bien. Mme Leuevre est seule. M. Lelièvre est en courses pharmaceutiques.</p>
-        <p>Je serai content de voir Mme Laurent1 un peu débarassée. La conduite de ses enfants 2 a été cruelle. Quelle anté résisterait à un tel embarras, à un tel tapage.</p>
-        <p>Départs de Paris matin 9 h. 30 soir 7 h. 30</p>
-        <p>Arrivées à Strasbourg 9 h. 15 soir 8 h. matin</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>d lu prendras le convoi de 7 h. 30 du soir. Je t'attendrai enc dimanche à 8 h. du matin à la gare avec une bonne et Une voiture.</signature>
+              
             </name>
           </signed>
         </closer>

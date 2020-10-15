@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, le 7 septembre 1854." resp="">Paris, le 7 septembre 1854.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-09-07">le 7 septembre 1854.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
+          <persName key="">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -61,7 +62,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>Je suis avec le plus profond respect M. le ministre de Votre Excellence le très humble et très obéissant serviteur, L. PASTEUR, professeur de chimie à la Faculté de Strasbourg, à Paris, rue Madame, 40.</signature>
+              Je suis avec le plus profond respect M. le ministre de Votre Excellence le très humble et très obéissant serviteur, L. PASTEUR, professeur de chimie à la Faculté de Strasbourg, à Paris, rue Madame, 40.
             </name>
           </signed>
         </closer>

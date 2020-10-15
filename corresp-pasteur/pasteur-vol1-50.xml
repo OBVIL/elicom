@@ -26,8 +26,9 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Strasbourg, 6 juillet 1850." resp="">Strasbourg, 6 juillet 1850.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1850-07-06">6 juillet 1850.</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
           <persName key="Au DIRECTEUR DE L'ÉCOLE SUPÉRIEURE DE PHARMACIE DE STRASBOURG. (...-...)">Au DIRECTEUR DE L'ÉCOLE SUPÉRIEURE DE PHARMACIE DE STRASBOURG.</persName>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="Strasbourg, 6 juillet 1850."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -61,46 +61,10 @@
         <p>200 grammes d'asparagine 200 — d'acide malique produits que M. Merck livre aux prix suivants : asparagine 20 fr. 25 l'once 1 acide malique. 8 fr. —</p>
         <p>Recevez, Monsieur le Directeur, l'assurance de mon profond respect.</p>
         <p>L. PASTEUR.</p>
-        <p>A CHAPPUIS.</p>
-        <p>Strasbourg, 21 juillet 1850.</p>
-        <p>Je fais ma dernière leçon mardi. Je travaillerai à mes recherches jusqu'au milieu d'octobre environ. J'irai alors à Paris présenter un mémoire 2 qui n'offrira rien de très remarquable, si aucune de mes prévisions ne se réalise, mais qui, actuellement déjà, renferme plusieurs faits nouveaux, assez importants pour être publiés. ,</p>
-        <p>Dès que j'aurai répété mes expériences, je reviendrai a Strasbourg par Arbois, en prenant congé jusqu'au IER décembre.</p>
-        <p>A CHAPPUIS.</p>
-        <p>Strasbourg, 15 août 1850.</p>
-        <p>M. Laurent est beaucoup regretté 3, et on est ici très mécontent du Préfet à cette occasion.</p>
-        <p>On devait envoyer M. Laurent à Grenoble; mais il f réclamé à cause de l'éloignement de Paris. On l'envoie a</p>
-        <p>Châteauroux, évidemment par mauvais vouloir de le contenter-. Il demande sa retraite, mais on ne peut pas ou on ne veut pas la lui donner.</p>
-        <p>M. Monzeilher quitte aussi Toulouse, d'après ce qu'il écrit à M. Laurent, pour des niaiseries. En revanche, M. Michelle, catholique, est nommé à l'École normale. Une seule place est vacante au Conseil supérieur permanent; on y niet un abbé; c'est naturel : nous sommes gouvernés par les Légitimistes, et ces derniers ont toujours marché avec le clergé.</p>
-        <p>A CHAPPUIS.</p>
-        <p>Strasbourg, 19 août 1850.</p>
-        <p>M. Dumas vient à Strasbourg avec le Président de la République. Le Ministre [de l'Instruction publique] 1 a Parfaitement reçu M. Laurent et lui promet une prompte réparation. Il a eu les mains liées par M. Baroche 2 à qui le réfet a dénoncé M. Laurent. Tout le monde ici regrette lrifiniment M. Laurent, qui n'a pas l'ombre d'un tort, sinon d'avoir répondu dignement à une lettre insolente du Préfet.</p>
-        <p>Le Préfet appelle cela maintenant « avoir voulu se mettre a sa hauteur en politique ». Le Ministre attend une lettre d'excuses de M. Zévort 3 Pour le replacer. Mais M. Zévort n'écrira pas et attendra un autre ministre.</p>
-        <p>A CHAPPUIS.</p>
-        <p>St-Pryvé-St-Mesmin 4, 2 octobre 1850.</p>
-        <p>- J'ai présenté lundi dernier mon travail de cette année à</p>
-        <p>« 3. Charles Zévort, inspecteur d'Académie, avait épousé une fille de k- Laurent. Il était donc beau-frère de Mœe Pasteur. J'</p>
-        <p>l'Institut1. J'en ai lu un long extrait, puis j'ai fait une exposition de vive voix relative à des détails cristallographiques. Cette exposition qui m'avait été demandée après ma lecture et qui n'est point dans les habitudes de l'Académie, faite avec l'entrain que j'ai chaque fois que je parle de toutes ces choses, a été suivie avec la plus grande attention. Heureusement pour moi les membres les plus influents de l'Académie assistaient à la séance. M. Dumas, presque en face de moi et que je regardais plus particulièrement, m'a indiqué, par un signe de tête approbatif, qu'il comprenait et qu'il était vivement intéressé. Invité à aller chez lui le lendemain, il m'a fait compliment. Il m'a dit entre autres choses que je prouvais que, quand en France on voulait faire de la cristallographie, on en sait faire et que, - si je persévérais, comme il en avait l'assurance, je ferais école. M. Biot, qui est pour moi d'une bienveillance que je ne puis dire, est venu après ma lecture me trouver et m'a dit : « C'est aussi bien que ça puisse être. » Il fera le 14 octobre son rapport sur mon travail 2. Il prétend que j'exploite une Californie.</p>
-        <p>Au 10 décembre, j'aurai la croix; c'est tout confidentiel.</p>
-        <p>Ne t'exalte pas la valeur de mon travail de cette année; c'est une suite honorable des précédents. Néanmoins, par la manière dont il a été présenté lundi, il me posera peutêtre mieux que ceux des années précédentes dans l'opinion des savants.</p>
-        <p>recherches de cristallographie sur les relations existant entre la forme des cristaux, leur composition chimique et leur action sur la lumière polarisée.</p>
-        <p>A CHAPPUIS.</p>
-        <p>[Strasbourg, 25 novembre 1850.] Ma pauvre sœur Joséphine est morte il y a dix jours 1.</p>
-        <p>Depuis plusieurs mois déjà elle n'était plus pour nous. Mais ces malheurs sont toujours terribles et mon pauvre père est désolé. Pour lui maintenant je verrais avec plaisir qu'on m'envoyât à Besançon.</p>
-        <p>J'ai un travail remarquable en bonne voie et plusieurs notes importantes. Chaque jour de plus en plus j'acquiers ta conviction que j'ai les premières preuves d'une loi de la Nature et des plus fécondes, dans les travaux que j'ai Publiés. Plus j'avance et plus cette loi se précise et s'agrandit. Pourquoi n'avons-noùs pas suivi la même carrière?</p>
-        <p>A CHAPPUIS.</p>
-        <p>[Strasbourg, décembre 1850.]</p>
-        <p>C'est M. Malaguti qui * désirerait venir * à Strasbourg et qui avait engagé M. Balard à me dire de venir à Besançon le cas échéant. Je suis assuré de rester à Strasbourg, d'y être nommé lors même que M. Malaguti se présenterait en concurrence, surtout parce que je suis ici assez bien posé pour etre assuré d'être présenté en première ligne par la Faculté et le Conseil académique.</p>
-        <p>M. Persoz va être enfin nommé à Paris. On créera prochainement une chaire de chimie appliquée à la teinture au Conservatoire des Arts et Métiers.</p>
-        <p>1 M. Malaguti désirerait Strasbourg parce qu'il cumulerait les deux places que j'occupe en ce moment.</p>
-        <p>Je vais prochainement être déchargé de l'École de pharmacie pour avoir plus de temps à donner à mes travaux.</p>
-        <p>I- Joséphine Pasteur mourut à Arbois, le 15 novembre 1850.</p>
-        <p>Je devais être décoré; mais M. Biot s'y est opposé.</p>
-        <p>M. Dumas, ignorant l'opinion de M. Biot, et voulant que cet honneur me fût donné en partie par celui-là même qui, depuis trois ans, me conduit par la main, a demandé à M. Biot qu'il fît une proposition par écrit. M. Biot n'a pas consenti dans ce qu'il croit être l'intérêt véritable de mon avenir scientifique. C'est une idée fixe et je la respecte de tout mon cœur.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>J'ai appris ces détails de M. Laurent, en ce moment à Paris, qui a vu M. Biot. C'est ce matin que j'ai reçu cette lettre.</signature>
             </name>
           </signed>
         </closer>

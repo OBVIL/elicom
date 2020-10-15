@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Vienne, jeudi matin 30 septembre 1852." resp="">Vienne, jeudi matin 30 septembre 1852.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-30" >jeudi matin 30 septembre 1852.</date>
+          <placeName>Vienne</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -68,11 +69,12 @@
         <p>Adieu. Porte-toi bien ainsi que nos chers enfants que j'embrasse avec toi de tout mon cœur. Y compris toute la famille. Adieu.</p>
         <p>Tout à toi.</p>
         <p>L. PASTEUR.</p>
+        <p>P.-S. — Encore remis mon voyage à la mer. Et tu n'auras pas de souvenir de Venise. Je devais t'y acheter soit une dentelle soit plutôt un objet en corail.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>P.-S. — Encore remis mon voyage à la mer. Et tu n'auras pas de souvenir de Venise. Je devais t'y acheter soit une dentelle soit plutôt un objet en corail.</signature>
+              
             </name>
           </signed>
         </closer>

@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Besançon, Ier mars 1842." resp="">Besançon, Ier mars 1842.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-03-01" >1er mars 1842.</date>
+          <placeName>Besançon</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -65,16 +67,19 @@
         <p>v ne travaille pas du tout à me rendre malade. Je travail beaucoup moins que l'année dernière; car je me couche de bonne heure, et me lève tard, à 5 1/2 avec les élèves, L'année prochaine encore, si par hasard j'étais celuse,. Je crois que le travail marcherait tout seul. Tout cela vient surtout de la différence du professeur que nous avons a présent avec celui de l'année dernière.</p>
         <p>Je Vous embrasse tous.</p>
         <p>PASTEUR.</p>
-        <p>poAllez-y avec précaution dans ce remède pour Emilie.</p>
-        <p>lui Ur le bain, il ne peut sans doute pas faire de mal; mais lui re la tête [ici la lettre est déchirée] humide c'est autre Vous verrez d'ailleurs après votre essai. Cela sonnera bien du mal. J'ai promis à Joséphine que</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>nous irions la voir à Pâques 1. Ça sera facile, pour moi du moins. Nous reparlerons de cela. Virginie, tu devrais bien écrire quelquefois à Joséphine; embrasse pour moi notre Emilie. Je me porte à merveille.</signature>
             </name>
           </signed>
         </closer>
+        <postscript>
+          <p>Allez-y avec précaution dans ce remède pour Emilie.</p>
+          <p>lui Ur le bain, il ne peut sans doute pas faire de mal; mais lui re la tête [ici la lettre est déchirée] humide c'est autre Vous verrez d'ailleurs après votre essai. Cela sonnera bien du mal. J'ai promis à Joséphine que</p>
+          <p> nous irions la voir à Pâques 1. Ça sera facile, pour moi du moins. Nous reparlerons de cela. Virginie, tu devrais bien écrire quelquefois à Joséphine; embrasse pour moi notre Emilie. Je me porte à merveille.
+          </p>
+        </postscript>
       </div>
     </body>
   </text>

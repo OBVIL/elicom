@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, II novembre 1843." resp="">Paris, II novembre 1843.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1843-11-11" >11 novembre 1843</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -50,7 +52,7 @@
       <div type="letter">
         <opener>
           <dateline>
-            <date>Paris, II novembre 1843.</date>
+            <date>Paris, 11 novembre 1843.</date>
           </dateline>
           <salute/>
         </opener>
@@ -67,293 +69,22 @@
         <p>, Il y a après cela des cours, gratuits comme tout le reste, d ) allemand et d'anglais. Je suivrai le cours d'anglais, ou Peut-être l'un et l'autre [ici la lettre est déchirée]; parce que si je veux apprendre l'allemand je trouverai plus facilement un professeur de cette langue qu'un professeur d'anglais.</p>
         <p>Je viens de vous dire ce que nous faisions la première année. Mais dans la deuxième année les cours changent, et ils changent encore dans la troisième. On suit d'autres cours à la Sorbonne et on a aussi à l'Ecole d'autres processeurs.</p>
         <p>A l'Ecole pour la chimie nous avons un professeur qui bst un des meilleurs chimistes manipulateurs. A la Sorbonne le professeur de chimie est M. Dumas, le premier , es chimistes français. Pour les mathématiques nous avons 1 Ecole M. Duhamel, membre de l'Institut 2. A la Sorbonne nous avons M. Lefébure, examinateur pour l'Ecole Polytechnique. M. Duhamel est aussi professeur à l'Ecole Polytechnique.</p>
-        <p>1* Adrien de Jussieu (1797-1853), botaniste, professeur au Muséum.</p>
-        <p>1- Jean-Marie-Constant Duhamel (1797-1872), mathématicien.</p>
         <p>Je ne sais si je vous ai dit que, il y a quelques jours, nous avons eu une séance du Ministre de l'Instruction Publique, M. Villemain. Il y avait aussi la plupart des professeurs de Paris et le conseil royal de l'Instruction Publique, et aussi des personnes étrangères. On lut alors un compte rendu du travail de chaque élève, des succès ou des échecs de l'École au. concours d'Agrégation.</p>
         <p>M. Dubois a fait un discours, M. Villemain aussi; il a vraiment une voix de bœuf. Je suis sûr qu'en plein air il se ferait entendre à mille personnes. Ce qu'il a dit c'était de grandes phrases comme toujours, mais ça ne signifiait rien du tout ou pas grand'chose. Le discours de M. Dubois était très bien, au dire de tous les élèves. Je vous ai dit que l'on parlait du travail de tous les anciens élèves [ici la lettre est déchirée].</p>
         <p>Chez M. Barbet je fais une conférence de physique tous les jeudis pendant deux heures. J'ai commencé jeudi dernier. — Je suis allé déjà deux fois chez M. Barbier sans le trouver.</p>
         <p>Adieu, mes chers parens, je vous embrasse tous de bon cœur.</p>
         <p>L. PASTEUR.</p>
-        <p>Je souhaite à papa un bon voyage et une bonne foire.</p>
-        <p>Que mes sœurs m'écrivent au moins pour me dire si elles sont contentes.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, le 18 novembre 1843.</p>
-        <p>Mon cher Louis, J'ai un peu tardé à répondre à ta dernière lettre mais j'ai [su] que tu n'avais pas encore reçu celle que j'ai remise à Guillemin où tes sœurs te disent qu'elles sont très contentes des objets que tu leur as envoyés.</p>
-        <p>La foire de Besançon a été assez passable pour moi, bien que j'aie vendu moins cher que les précédentes. Il y a une baisse assez forte sur nos articles et sur tout le commerce en général, cela provient de la mauvaise récolte en vin.</p>
-        <p>Les détails que tu me donnes sur la façon que vous êtes dirigés dans vos études me font plaisir; tout m'y paraît ordonné de manière à y faire des sujets distingués. Honneur à ceux qui ont fondé cette école.</p>
-        <p>, J'ai appris avec bien du plaisir l'opinion que le Ministre a émise sur Chappuis, et n'en ai pas été le moins du monde surPris, dis-lui bien des choses pour moi.</p>
-        <p>Je suis content de te voir donner des leçons chez M. Barbet. Il en a si bien agi avec nous, que je tenais beaucoup à te voir à même de lui prouver ta reconnaissance. Sois donc toujours très complaisant pour lui. Non seulement tu le dois Pour toi, mais tu le dois aussi pour d'autres. Cela l'engagera f se conduire ainsi qu'il l'a fait pour toi envers quelques jeunes gens studieux qui peut-être sans lui auraient leur aveIr compromis. Puis un de nos premiers devoirs est de n'être Jamais ingrat.</p>
-        <p>Je compte bien que tu prends tous les soins possibles dé ta santé, que tu prends pour ne pas fatiguer ta vue les précautions que tu crois les meilleures. Tu es dans une position à te procurer sur ce tout ce que l'on peut acquérir de mieux.</p>
-        <p>Je désire que tu demandes à ton professeur de chimie ou au préparateur quelles sont les leçons sur la tannerie données à l'Ecole centrale, si elles sont imprimées tu te les procureras et me les feras parvenir. Cela ne peut que m'être très utile, car là tout ce qui y est enseigné doit y être basé sur l'expérIence.</p>
-        <p>Je présume bien que tu n'abandonnes pas les mathématiques pour la physique. Je vois d'après ta lettre que ces divers cours sont également suivis. Sans vouloir contrarier ta aÇon de voir, je te verrais avec plus de satisfaction sortir pour es mathématiques, attendu que c'est plus lucratif et que quand on le peut on a selon moi tort de refuser de l'argent Car quand il est bien acquis, s'il ne fait le bonheur, il l'empêche enore bien moins.</p>
-        <p>Puis à mérite égal, le plus savant, le mieux considéré, sera</p>
-        <p>celui qui aura la bourse la mieux garnie, ainsi va le monde, n'en pas tenir compte est à mon avis (et c'est celui de bien d'autres) une grande sottise.</p>
-        <p>L'Empereur disait à un savant distingué, qui se tenait à l'écart et se contentait de la science : Sachez, Monsieur, que dans ce monde il faut de l'argent, beaucoup d'argent,ou aux yeux de la foule le mérite est bien affaibli.</p>
-        <p>Dieu m'est témoin pourtant que je ne suis pas ambitieux, mais je n'en suis pas moins convaincu que les paroles que je te cite sont on ne peut plus justes et qu'elles font la base du bonheur de la vie domestique.</p>
-        <p>Monsieur Romanet a lu ta lettre à ses élèves, a fait de toi un brillant éloge en leur recommandant de se proposer un but élevé ainsi que tu l'as fait.</p>
-        <p>Vous avez dû voir à votre École un jeune étudiant, le fils P. de Besançon. Cette ville lui donne six cents francs par an, pour étudier à Paris. Il fait ses classes sans jamais avoir été au collège, il se livre à la géologie et entreprend d'y venir professeur. Sa tâche est rude mais il ne s'en épouvante pas.</p>
-        <p>Leyritz le connaît, il le voit quelquefois. Tu as dû le voir ici très jeune chez Coco Beschet qui est son oncle. Je me suis promené un jour avec lui, il m'a_beaucoup parlé de la vie des étudiants de Paris. Il en est beaucoup dont c'est la faute s'ils n'en sortent pas savants 1; les parents n'ont pas besoin de faire comme je fais, de leur recommander de ne pas trop travailler.</p>
-        <p>Nous t'embrassons bien tous. Porte-toi bien. Écris-nous souvent.</p>
-        <p>Ton père, , PASTEUR.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, 5 décembre 1843.</p>
-        <p>Mon cher Louis.</p>
-        <p>Nous avons reçu ta dernière lettre il y a trois jours. Rien ne pressant d'y répondre, j'ai attendu à aujourd'hui dimanche.</p>
-        <p>Si je l'avais écrite ce matin, je l'aurais remise à Jules, que voilà encore une fois sur la route de Paris. Il vient de partir, et à l'insu de ses parents.</p>
-        <p>Tu m'as écrit une longue lettre, pour me prouver que la Physique était mieux dans tes goûts que les mathématiques, ] y consens, mais sans être bien convaincu. A la dernière foire je me suis trouvé au café assez près de ton professeur de Besançon, il m'a paru tout le temps très gai, et pas du tout surchargé du fardeau de la science, il n'en est pas ainsi de M. Carré c'est vrai, mais ne serait-ce pas aussi un peu sa faute, l'isolement où cet homme s'est tenu y est je crois pour plus que les problèmes. Car en fait quand on sait, la leçon n'est plus qu'une routine, qui ne peut je crois influer en rien Sur le moral de l'individu. Plus nous avançons plus cette science devient importante, portes-y ton attention, avant de rien décider, puis je crois que tu m'as dit que la première année vous ne faisiez que des mathématiques et chimie. Ainsi tu as la fin de cette année à voir avant de prendre un part¿. Dans une affaire aussi importante il faut y voir à deux fois avant de se décider. Il me semble que tu as lieu d'être grandement satisfit du chemin que tu as parcouru en mathématiques, plus j'y Pense moi plus j'en suis surpris, car au fait, arrivé à BesanÇOn que savais-tu? rien ou à peu près. Prenons Leyritz, demande-lui à cette époque où il en était, il avait sur toi trois à quatre ans d'avance, et cela avec de bons professeurs.</p>
-        <p>u devrais être bien fier d'être parvenu au point où tu es Parvenu, peut-être pas un dans ton école en a autant fait en SI Peu de temps.</p>
-        <p>Il ne faudrait pourtant pas conclure de tout ceci que je ne Serais pas très flatté de te voir professeur de physique car il</p>
-        <p>n'en est rien, seulement j'en suis que l'une est plus lucrative que l'autre, à cause des répétitions.</p>
-        <p>Je te dirai que M. Briot a demandé la place de professeur de physique à la Faculté de Besançon. Si son frère ne s'est pas trompé la place, m'a-t-il dit, ne rapporte que 1.500 f. et non 5.000 comme tu le penses, il ne la prend que pour avoir du temps à lui afin de travailler pour la science; je ne comprends pas les frais des examens, il n'en a rien dit.</p>
-        <p>Si tu as besoin d'argent écris-nous, on t'en enverra, tu as eu bien des petites emplettes à faire, tu sais que nous ne voulons pas que tu te prives de rien.</p>
-        <p>Je comprends que vous avez bien de l'ouvrage, néanmoins je t'engage à te distraire de tes calculs autant que faire se peut, soit par des lectures amusantes, ou tous autres amusements en votre pouvoir et je recommande à ton ami Chappuis de partager ces récréations, vous en avez tous besoin, la santé avant tout.</p>
-        <p>Dis à Chappuis que j'ai mis en bouteilles du 34 acheté tout exprès pour boire à l'honneur de l'École normale, et cela pour les premières vacances. Il y a de l'esprit au fond de ces cent litres, plus que dans tous les livres de philosophie du monde.</p>
-        <p>Mais pour des formules de mathématiques je crois qu'il n'y en a pas. Dis-lui bien que nous boirons la première bouteille avec lui. Soyez toujours de bons amis.</p>
-        <p>La petite 1 a fait hier une sache pour mettre de l'écorce, elle est faite à pouvoir servir et sans qu'on y ait touché. Elle va très bien. iT ous nous portons tous bien. La Fifine 2 va à l'école chez Mlle Dosmann, mais la science ne lui casse pas la tête.</p>
-        <p>Tu prends je crois toutes les précautions possibles pour ne pas fatiguer ta vue et ménager ta, santé.</p>
-        <p>Nous t'embrassons bien tous.</p>
-        <p>Ton père, PASTEUR.</p>
-        <p>Je vois avec plaisir que tu es content de ce que tu fais chez M. Barbet et je suis bien content de te voir suivre le cours de</p>
-        <p>physique de M. Pouillet1 car si tu es destiné à devenir professeur de cette science tu fais bien de suivre les cours d'un savant aussi distingué, cela ne pourra que t'être très profitable.</p>
-        <p>Le fils de M. Petitjean est mort hier. Je n'ai pas encore vu M. Carré depuis ta dernière lettre, mais quelques jours avant 3e 1 avais vu, il m'avait chargé de te dire bien des choses, et IIl'avait dit que ton chemin était fait.</p>
-        <p>Je t'embrasse.</p>
-        <p>Ne sors jamais avec personne' sans Chappuis.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, le 19 décembre 1843.</p>
-        <p>Mon cher Louis, Je te remets dans cette lettre 100 francs sur Paris payables 26 prochain. Je t'engage à user de ces fonds avec réserve attendu que cette année nous sommes très mal payés. La re.colte du vin, qui est la seule du pays pour faire.de l'argent, ayant totalement manqué, les cordonniers sont on ne peut Phis misérables, nous avons même avec plusieurs de l'argent blen aventuré.</p>
-        <p>Ce que je ne puis comprendre est que surchargé d'ouvrage comme tu l'es déjà à l'École, tu veuilles encore t'en imposer e 1 autre, tu sais combien ta santé nous préoccupe à cause de On immodération dans le travail et tu viens sur ce nous écrire ne lettre de trois pages pour nous dire quoi? que tu ne veux Pas arrêter que tu n'aies altéré ta santé. Ne t'es-tu déjà pas assez fait de mal à la vue, par ton travail de nuit 2? Parvenu</p>
-        <p>j*'Claude Pouillet, physicien, né à Cuzance (Doubs) en 1791, mort à p ati s en 1868. Il avait la chaire de physique de la Sorbonne. Jean-Joseph 11 fondait le plus grand espoir sur son appui pour la carrière de fikls parce qu'il était Franc-Comtois.</p>
-        <p>U D: Jean,-Joseph Pasteur, à la même époque, écrivait à Chappuis : to tes bien à Louis de ne pas tant travailler. Il n'est pas bon d'avoir ton]. ""rs l'esprit tendu. Ce n'est pas le moyen de réussir, c'est le moyen de compromettre sa santé. Il 1</p>
-        <p>.où tu es, tu devrais être tout joyeux, ton ambition devrait être mille fois satisfaite 1, ta position est faite au sortir de l'École, à peine âgé de 23 ans une place de trois mille francs t'attend et entourée de considération bien méritée; pour la millième fois je te le répète, c'est une bonne santé qu'il te faut, conserve la donc par tous les moyens en ton pouvoir.</p>
-        <p>Hier soir j'ouvre un livre. J'y lis ce conseil donné par un auteur célèbre aux jeunes étudiants : « Travaillez avec modération, car un travail excessif brise les meilleurs esprits, comme une culture trop exigeante épuise le sol le plus productif.</p>
-        <p>Amusez-vous même souvent, car les exercices du corps sont nécessaires à votre âge et tout ce qui délasse la pensée d'un travail, suspendu à propos, la rend plus capable de le reprendre sans effort. »</p>
-        <p>Que peux-tu opposer à des maximes aussi sages? médite-les, je t'en prie, puis tiens-toi à ton ouvrage de l'École. Quand une fois tu seras placé, tu auras du temps à toi, alors tu chercheras à te grandir dans la science, rien ne sera plus louable que cette ambition, mais à présent, laisse rouler la boule tout doucement, crois-moi bien, tu n'en arriveras que plus vite à ton but.</p>
-        <p>Ajourne le projet de cet appareil. De telles idées, je les ai eues, j'en suis bon juge, ne servent qu'à préoccuper l'esprit, ce qui ne peut que te distraire de tes études, et te nuire beaucoup, la prudence tout au moins exige de consulter des personnes expertes en pareille matière, enfin tu as vingt raisons pour une pour remettre ce projet à un temps plus opportunTu ne me dis pas si tu suis le cours de physique de M. Pouillet, si tu lui as écrit ou parlé, cela doit se faire, tu lui dois cela. Quand bien même il ne te répondrait pas il ne faudrait pas t'en offenser, c'est ce qu'il fait à peu près à tous, attendu, dit-il, qu'il est dans l'impossibilité d'en agir mieux, à cause de son travail.</p>
-        <p>Virginie a toujours ses maux d'estomac, mais elle a néanmoins très bon appétit, les autres se portent tous bien et t'engagent tous à faire de même. Nous aimerions mieux te voir</p>
-        <p>tous les dimanches dîner au Palais Royal à 2 francs par tête avec ton ami Chappuis et quelques autres amis que te voir contre un tableau, quand bien même ce serait pour y faire des mathématiques, malgré toute ma prédilection pour cette science. J'ai lu dans [mot illisible] sa loi naturelle. Il commence par ces maximes : Instruis-toi, conserve-toi, modèretoi- Fais en sorte de te souvenir des deux dernières.</p>
-        <p>Jules [Vercel] n'est pas revenu, sans doute qu'il t'a revu.</p>
-        <p>Altin [Vercel] croit qu'il restera pour finir un tableau qu'il a commencé. Tu vois ces deux camarades qui avec un bon cœur accablent de chagrin leurs parents; l'oisiveté les perd. Sans fortune te voilà arrivé à une position cent fois plus belle que a leur, encore une fois écoute la voix de la prudence, ton che111111 est fait, je t'invite à prendre un peu plus en considération ms avis, persuadé que je suis que tu ne t'en trouveras que 1111 eux. Nous t'embrassons, nous attendons de tes nouvelles sous quelques jours. Je t'embrasse.</p>
-        <p>PASTEUR.</p>
-        <p>1844 -</p>
-        <p>Jean-Joseph Pasteur ne cesse de donner des conseils à son fils, élève de l'École normale.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, 22 janvier 1844.</p>
-        <p>Mon cher Louis, Il ne faut pas rester aussi longtemps sans nous donner de tes nouvelles, écris-nous tous les quinze jours, prends le dimanche pour le faire et nous aurons ta lettre le mardi. Je me porte bien : voilà ce que nous te demandons. Suis mes conseils pour ta santé, ne te préoccupe pas trop "de tes études, varie-les le plus qu'il t'est possible, tu t'en porteras mieux et tu n'en avanceras peut-être que davantage.</p>
-        <p>Tu sauras que Pillot le professeur est devenu sourd. Il a demandé un congé, il doit se retirer chez les parents de sa femme si déjà il n'y est pas, c'est bien malheureux.</p>
-        <p>Croiras-tu que le fils Jacquot est ruiné, lui que tu as connu si riche, il a répondu pour son père qui par conséquent est ruiné aussi et qui vient de se sauver en Suisse. Son grand-père Jacquot qui a répondu aussi pour son fils est aussi totalement</p>
-        <p>ruiné. Leur inventaire porte quatre cent mille francs pro' priétés, tout cela est entièrement perdu. Ils doivent six cet mille francs. Nul doute que Chappuis les connaît. Tu le vois, le talent est préférable à la fortune, car il y a tant de circons' tances dans la vie qui peuvent la faire perdre.</p>
-        <p>Jules [Vercel] est arrivé vendredi soir, il a bien fait pour s~ mère, qui ne faisait que pleurer, mais pour lui je crois qu serait aussi bien à Paris qu'ici, là au moins il se serait trouVe,</p>
-        <p>souvent avec des jeunes gens studieux comme vous l'êtes tous, votre exemple ne peut avoir que des effets salutaires. Ici que peut faire un jeune homme oisif, rien de bien. Je suis toujours, quand je les1 vois, à penser combien l'idée de l'instruction a été heureuse et pour toi et pour nous.</p>
-        <p>Croirais-tu qu'un jeune homme du collège m'a dit qu'il pensait que M. Carré travaillait pour sortir d'ici, sans doute Pour l'agrégation, attendu qu'il n'a que ce moyen d'en sortir pour avancer. Je désire, si cela est, qu'il réussisse, d'un bon cœur.</p>
-        <p>Nous avons ces jours derniers tué un cochon, cela a donné de l'ouvrage à la Virginie, sans quoi elle aurait fait ce que tu dis dans ta lettre, elle t'en parlera dans la première.</p>
-        <p>Parle-nous toujours de tes études, ce que tu fais chez M. Barbet, si tu vas encore au cours de M. Pouillet, puis si tu ne négliges pas les mathématiques, si une science ne gêne Pas l'autre; je ne le pense pas, loin de là, cela doit s'entr'aider : Car je crois qu'il en est de l'intelligence comme des forces Physiques qui croissent par l'exercice, mais pour l'un et autre il ne faut pas faire d'abus.</p>
-        <p>Quand vous sortez, rentrez de bonne heure, ne restez jamais dans ces mauvaises rues de Paris de nuit. L'hiver elles sont toujours dangereuses, ne sors autant que faire se peut qu'avec Chappuis.</p>
-        <p>Nous nous portons tous bien, porte-toi bien aussi, nous t embrassons bien tous.</p>
-        <p>Je t'embrasse. Ton père, PASTEUR.</p>
-        <p>Jules a remis la petite croix de la Virginie. Tes sœurs éco0luisent ce qu'elles peuvent, aussitôt leur bourse un peu rosse elles te l'enverront. N'oublie pas que tu as de bien bonnes sœurs. Elles étaient bien impatientes de recevoir ta dernière lettre, elles comptaient les jours : voilà 18 jours, Louis a jamais tant tardé, n'est-il au moins pas malade. C'est un grand bonheur pour moi de voir l'attachement que vous vous Portez, puissiez-vous toujours être ainsi. Dieu veuille que quoi</p>
-        <p>qu'il arrive, vous n'ayez jamais qu'une même bourse. Néanmoins ménage" ton argent le plus que possible. Jamais on a été plus mal payé que nous le sommes en ce moment. Mais le printemps va venir, cela ira sans doute un peu mieux.</p>
-        <p>Porte toi bien, prends toutes les précautions nécessaires à ta santé.</p>
-        <p>M. Dumont me dit qu'il est question de faire de l'éclairage au moyen de l'électricité, qu'un appareil placé au haut d'un clocher éclairerait toute une ville. Celle-ci en serait une d'invention, mais je crois que nous ne la tenons pas encore.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Jeudi 6 mars 1844.</p>
-        <p>Mon cher Louis, Nous avons reçu ta lettre dimanche dernier, par laquelle tu nous apprends ta visite à M. Pouillet. Cette démarche ne peut qu'avoir pour toi un bon résultat, attendu qu'elle t'a fait connaître et nul doute qu'au sortir de l'École il ne soit d'une grande utilité.</p>
-        <p>Mais je dois t'avouer que si pour faire cette démarche tu avais pris conseil de moi, tu ne l'aurais pas faite, me basant sur ce qu'assez d'ouvrage pour toi est taillé dans ce qui est fait, sans aller au delà. D'abord finissons-en avec les études, puis après, poussons plus loin si nous en avons la force; si ce n'est un devoir, c'est une vertu.</p>
-        <p>Dans l'occasion je remercierai de nouveau M. Gerbet de sa recommandation à M. Poufllet. Je prévois que cela ne peut que te devenir très avantageux, mais n'y recours que dans des cas extraordinaires car je tiens de M. Gerbet que M. Pouillet est très économe de son temps.</p>
-        <p>J'ai vu avec bien du plaisir que tu avais remonté d'un rang en mathématiques, cela prouve bien pour toi, mais que ton ambition (qui d'ailleurs est on ne peut plus louable) ne te fasse pas tomber dans des excès de travail qui pourraient influer sur ta santé. Voilà ce que je ne puis cesser de te recorn mander.</p>
-        <p>L'aîné des Dugour se marie avec une demoiselle de Senans.</p>
-        <p>On dit qu'il fait un mariage riche, voilà du positif, ce qui est selon moi plus sage et bien plus facile à trouver que des découvertes en physique.</p>
-        <p>J'ai lu dans un journal [que] Henri Mondeux 1 voyage à Boulogne où il se faisait proposer des questions. Un individu lui demande combien faisait 3 fois 4. Mondeux lui répond : 3 fois 4 et votre personne au bout, cela fait 120. Tu comprends que les rieurs ne furent pas du côté du plaisant. Je crois que cette réponse faite instantanément vaut à Mondeux la solution de ses problèmes les plus difficiles.</p>
-        <p>La loi sur l'enseignement va se discuter au premier jour.</p>
-        <p>Si les Jésuites ont la faculté d'enseigner ils vous donneront bien de la besogne pour les rivaliser.</p>
-        <p>Nous travaillons pour la foire de Pâques. Je craignais d'êtie alade, mais ce n'a rien été, je travaille depuis plusieurs jours et cela va très bien.</p>
-        <p>Altin a tué un sanglier de près de 300, mais roide il lui a 11118 ses deux coups de fusil, tu penses s'il était content.</p>
-        <p>d Les jeunes gens d'Arbois viennent de tirer 2 comme l'an * dernier, ils ont été bien peu heureux.</p>
-        <p>Nous t'enverrons de l'argent après la première foire qui est huit jours après Pâques. Nous pensons- que tu pourras aller jusque-là.</p>
-        <p>t Nous nous portons tous très bien, porte-toi bien aussi. Va toujours avec ton ami Chappuis dîner le jeudi et le dimanche; après un peu de distraction on doit retourner aux études avec Puis de plaisir, puis amuse-toi aux récréations avec les autres.</p>
-        <p>Out est fait pour toi. Une bonne santé, pour le reste prends conseil de La Fontaine, je voudrais te voir souvent ses fables ei1 mains, rien n'est plus fait pour faire connaître la vie telle qu'elle est.</p>
-        <p>Nous t'embrassons tous d'un bon cœur.</p>
-        <p>Porte-toi bien.</p>
-        <p>PASTEUR.</p>
-        <p>Si pourtant tu avais besoin avant Pâques, tu le dirais.</p>
-        <p>tion. Henri Mondeux (1826-1862), fils d'un paysan, dépourvu d'instruction, aVait une prodigieuse facilité pour les calculs. U donnait des séances dans les principales villes de France.</p>
-        <p>urer au sort pour la conscription.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, 23 mai 1844.</p>
-        <p>Mon cher Louis, J'arrive de la foire de Besançon, elle a été pour nous aussi bonne qu'il a été possible, bien que pour les autres elle ait été très mauvaise et il y a sur les marchandises confectionnées une baisse considérable, sans que les écorces et les peaux du boucher l'aient éprouvée. Ceux qui dans notre état sont engagés dans de grandes affaires se ressentiront de cette campagne.</p>
-        <p>Quand on parle aux autres métiers, on voit que c'est pis encore. Reconnais-toi très heureux de ce que je t'ai sorti de mon état, bien qu'encore une fois il est peut-être un des meilleurs. C'est la grande concurrence qui va toujours croissant qui réduit les métiers à rien.</p>
-        <p>Nous avons reçu ta lettre la veille de mon départ pour Besançon. J'ai rencontré le Proviseur, il m'a demandé ce que tu faisais, et m'a chargé de te dire que dans deux ans il t'attend, mais il te recommande de n'en dire mot pour raisons à lui connues.</p>
-        <p>La tante Chamecin est morte, ses enfants perdent une mère bien-aimée et qui méritait de l'être, elle a su faire une bien bonne maison, la fortune d'une famille. Comme la moralité des enfants dépend bien plus de la femme que du mari.</p>
-        <p>Victoire Bourgeois vient de se marier avec un M. Renaud marchand de vin à Champagnole. Elle a fait un bon choix et j'en suis content, elle le méritait. Celle-ci aussi fera une bonne ménagère, première qualité à chercher dans une femme, plus difficile à rencontrer qu'on ne le pense, car en général elles sont étourdies et légères, toujours disposées à chercher le bonheur où elles ne le rencontrent jamais. Hors l'intérieur de la famille, il n'y a pour la femme que dépit, souvent de la honte. Je crois déjà te l'avoir assez dit, le choix d'une femme exige une grande prudence, ce n'est pas petite chose qu'un tel marché. S'il y avait des prêtres pour démarier, tous les mariés, ou peu s'en faut, s'accordent à dire qu'ils auraient une grande vogue. Si ces prêtres avaient seulement cinq francs</p>
-        <p>par acte, la place serait plus lucrative que celle d'un archevêque.</p>
-        <p>La révision a eu lieu hier. On est allé au N° 74 : Loriot avait 66, il est pris. Le fils Lanquetin a eu 2, on croyait l'exempter mais il est bon. J'en suis fâché pour lui et pour ses parents qui sont dans l'impossibilité de le racheter et qui n'ayant que cet enfant sont désolés.</p>
-        <p>Voici deux traits de courage extraordinaire dans deux enfants dont j'ai été de l'un le triste spectateur.</p>
-        <p>J'ai acheté l'écorce de la commune de Pretin cette année.</p>
-        <p>J'ai pris mes voituriers à Ivory village situé à 1/2 heure de la forêt, il y a aujourd'hui 15 jours. Je vais pour faire lier de l'écorce. Arrivé près du bois je trouve mes voituriers qui en sortaient. Le maire d'Ivory qui était chargé de la conduite de mon écorce se' trouvait là avec ses domestiques, puis deux de ses neveux qu'il avait pris ce jour-là, n'ayant pas assez de Voitures; il était II heures 1 /2. Il me dit : vous allez venir dîner chez nous. J'accepte d'autant plus volontiers qu'il pleuvaIt. Il invite son beau-frère à dîner avec nous (le père des neveux qui étaient avec ses domestiques à l'écorce). A peine sommes-nous à table qu'on crie : M. le maire, sortez vite, On dit qu'il est arrivé un malheur à vos voituriers. Aussitôt ftoys la porte nous voyons dans la plaine un groupe de monde qUI s'avance contre le village, nous courons, que trouvonsnous? un des neveux assis sur un cheval avec les deux jambes fracturées, une n'est autre chose qu'un lambeau de chairs et 01 os broyés. Le père se met à pousser les hauts cris. Ce pauvre enfant qui jusque-là n'avait encore versé une larme lui dit : Inon pauvre papa, je t'en prie va-t'en, ne pleure pas. Moi et le maire nous sommes emparés de lui pour le conduire dans une maison voisine. On a couru aux médecins à Salins, s sont venus, ils ont déclaré l'amputation d'une jambe nécessaire, le lendemain elle a été faite. A peine s'il a poussé un ri ou deux, il a demandé avec instance à voir son pied avant ; l'amputer, ce que les médecins ont refusé, mais ce qu'ils ont pu lui refuser a été sa curiosité de voir les instruments ont on venait de se servir et qu'on lui a remis après être nettoyés, il les a tous tenus l'un après l'autre. Je n'étais préSent à l'amputation qui n'a eu lieu, comme je te dis, que le</p>
-        <p>lendemain matin. Je tiens ce fait du maire et [de] deux personnes qui l'ont tenu. Samedi matin son frère était chez nous, il est en pleine convalescence. Ce malheur est certes très grand. Mais deux de ses oncles, dont un, le maire, n'ont pas d'enfants; ils sont très bien; ils lui ont assuré son existence, ce qui a bien adouci les chagrins du père et de la mère.</p>
-        <p>Voici dans un trait semblable quelque chose de plus extraordinaire. Il y a environ un mois un jeune homme est à l'hôpital pour un mal dans une jambe, les médecins décident l'amputation à la cuisse. L'enfant s'y oppose. M. Bergeret 1 lui présente 5 francs pour y consentir, il accepte. L'amputation se fait. Sa mère est aussi malade à'l'hôpital, le malheur de son enfant empire sa maladie, elle meurt sept jours après.</p>
-        <p>Ce jeune homme en a connaissance. Déjà il avait des béquilles près.son lit, mais seulement par consolation le jugeant encore bien incapable de s'en servir; il épie le moment qu'on doit emporter sa pauvre mère, s'habille pour la suivre, les sœurs font d'inutiles efforts pour le retenir, il rejoint le convoi au milieu de Faramand 2, va jusqu'au cimetière et revient à son lit. En rentrant à l'hôpital, il offre au prêtre qui vient d'accompagner sa mère les 5 fr. qu'il a reçus pour se laisser couper la cuisse. Tenez, lui dit-il, vous direz des messes pour ma maman.</p>
-        <p>Je livre ce trait aux méditations de ton ami Chappuis; quoi de plus consolant qu'une religion qui persuade à ce malheureux enfant que les prières de ce prêtre rendront sa pauvre mère heureuse pour l'éternité. N'ôtez jamais la foi à celui qui a le bonheur de l'avoir, le plus heureux est celui qui croit le mieux. Ce jeune homme est d'ici, on vient de le placer à la salle d'asile de Poligny.</p>
-        <p>Alfred est toujours très mal, la conduite qu'il a tenue ne pouvait guère avoir un autre résultat, il en convient lui-même.</p>
-        <p>Vous avez eu un avocat puissant, membre de l'Université, dans M. Cousin. Si le clergé obtient peu, c'est bien à lui que vous le devez. Que de fois il s'est appuyé de l'autorité de l'Empereur. Un jour à son conseil, parlant de l'Université qu'il venait de créer, il dit : L'Université doit faire comme le</p>
-        <p>monde, marcher sans bruit. Il me tarde de voir cette loi 1 rendue.</p>
-        <p>Quand tu auras besoin d'argent tu en auras. Ne sors pas de nuit dans tes mauvaises rues de Paris. Quand vous irez voir des fabriques où il y a des machines. ne vous approchez Jamais des cylindres. La moindre partie d'habit engagée Suffit pour entraîner un homme.</p>
-        <p>Nous t'embrassons tous.</p>
-        <p>PASTEUR.</p>
-        <p>Je t'enverrai l'adresse de M. Goudot cordonnier à Paris, 11 me doit de l'argent, c'est un brave garçon, il ne refusera Pas de te faire la chaussure que tu lui demanderas, il travaille Pour le général Bachelu 2 quand il est à Paris. C'est un des ondarnnés politiques d'ici, il est peu aisé, il m'a fait dire qu 11 avait intention de faire son possible pour payer.</p>
-        <p>Ecris-nous de dimanche en huit, tous les quinze jours. Tu es resté un mois [sans écrire], cela nous a donné de l'ennui, dPUis huit à dix jours nous arrêtions le facteur. Prends les Plus grands soins de ta santé. Je t'embrasse. Porte-toi bien.</p>
-        <p>Alhn et Jules te disent bien des choses, plus ils avancent P us ils disent qu'ils s'ennuient. Ils regrettent beaucoup les udes. Jules dit souvent : si je m'étais au moins fait soldat je serais officier, et il le serait en effet, sa conduite, sa fortune 1 auraient donné cela facilement. Parle-moi toujours de vos oCpations, de ton ami3, ceux qui t'aiment je les aime aussi, 1SI sont faits les pères. Voici quelques jours qu'il fait mauaIS temps. Aujourd'hui il n'a pas plu. Il tarde bien à tes Urs que les vacances arrivent.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, 26 juin 1844.</p>
-        <p>Mon cher Louis, &amp; k. Je viens de recevoir ta lettre. Ainsi qu'à toi il nous tarde len de voir arriver les vacances, nous sentons le besoin que</p>
-        <p>o l'enseignement.</p>
-        <p>dépuoert Bachelu, général de l'Empire, blessé à Waterloo, plus tard déPllté de Dole (1837). Il naquit en 1777 à Dole et mourut à Paris en 1849.</p>
-        <p>1 C i ,--</p>
-        <p>- -appuis.</p>
-        <p>vous devez avoir de repos. Tu fais bien de prendre des bains souvent, cela rafraîchit, mais je te recommande de ne jamais en prendre à la rivière, où il vient d'arriver à Paris de grands malheurs. Ne regarde pas à la dépense que tes bains peuvent t'occasionner, ne les fais pas trop chauds, prends-les toujours à jeun, ou longtemps après avoir mangé.</p>
-        <p>Il est probable que la loi sur l'enseignement ne passera pas cette année, la fin de la session est trop près, en tout cas vous avez de puissants avocats, mais vous avez contre vous de puissants adversaires. Aussi je ne sais, mais je ne vous crois pas très sûrs du succès [mots illisibles]. Écoute-moi, je t'ai déjà donné pour avis de laisser de côté toute manifestation extérieure sur ce sujet, suis ce conseil, crois-moi.</p>
-        <p>Les Jésuites sont connus de tous, leur nom donné à quelqu'un est une insulte grave. Ils sont les ennemis eux et leurs adhérents de nos institutions, personne ne l'ignore, le gouvernement les connaît mieux que nous encore, il est néanmoins présumable que nous les aurons, c'est l'opinion générale.</p>
-        <p>Si vous lisez le Siècle vous avez vu il y a quelques jours une manifestation contre eux où ils sont peints tels qu'ils sont.</p>
-        <p>Les Suisses demandent leur expulsion, cet acte des Suisses tombe très à propos pour vous, nul doute que nos orateurs vont en tirer parti.</p>
-        <p>Je te demande de prendre sur ce nouveau procédé de tannage Vauquelin les renseignements les plus précis que tu m'apporteras. Je te ferai comprendre aux vacances ce que je t'ai dit sur la tannerie. Autre chose est dans un cuir de celui tanné pour la semelle et de celui tanné pour huile.</p>
-        <p>Du cuir tanné en peu de temps peut être bon à un usage et non à l'autre. Nous nous étendrons là-dessus ici.</p>
-        <p>J'ai depuis quelques jours la vie d'un jeune trappiste d'Aiglepierre 1, mort au Val Ste Marie l'an passé. Tu as été à l'école avec lui, à ce que m'a dit son père. Tu verras dans ce jeune homme les idées mystiques poussées au plus haut point d'exaltation. Dans ce sens c'était un être parfait, cela fait mal à lire. Si ton ami Chappuis nous vient voir aux vacances, ce couvent de trappistes n'est qu'à 5 lieues de Salins. Je ifle</p>
-        <p>Propose de vous y conduire, ils sont 40, il y a parmi eux un colonel du génie puis aussi un capitaine, le colonel qui fait souvent les affaires de dehors de la maison était à Aiglepierre dernièrement; il a couché chez le père du jeune homme dont Ie te parle; il a fait toutes les campagnes de l'Empire, il a 77 ans, se porte très bien, se dit plus heureux que jamais il lie l'ait été. Il faut voir la vie et la nourriture de ces pauvres cénobites pour y croire, vous le dire n'est rien. Il faut y aller, il y va une foule de gens comme il faut les visiter, nous ferons e voyage dans un jour si nous voulons.</p>
-        <p>Tu es sans doute bien fatigué mon ami de tes études. Altin t Jules qui sont aujourd'hui plus que jamais des flâneurs ans toute l'étendue du mot sont dix mille fois, et je ne dis Pas assez, plus fatigués de la flânerie que tu ne l'es de tes etudes. Après tu auras la science, eux la satiété, le pire des n;aux, déjà si cela n'est pas fait. Quelle triste chose que de arnuer tous les jours, dit Jules, on ne s'amuse jamais. Altin , : ]e vais au café avec l'assurance de m'ennuyer. [Ici la éttre. est déchirée]. Avec de la fortune, il faut à l'homme un at» faut que quelque chose le force au mouvement, ou c'est unM machine qui se rouille qui bientôt n'est plus qu'un rebut.</p>
-        <p>1 odère-toi pourtant dans tes études autant que possible, a santé avant tout.. Pour te laver la tête mets quelques tes d'eau de Cologne dans de l'eau, cela prévient les rnaux de tête, puis cela fortifie la vue.</p>
-        <p>il Alfred est toujours le même, la dernière fois que je le vis me dit de te dire bien des choses.</p>
-        <p>au Atin et Jules qui s'informent toujours de toi te disent aUSSI bien des choses et te regardent très heureux d'avoir OtnUé tes études, ils voudraient pour tout au monde avoir suivi tes conseils. Le père est loin d'être pour eux ce que tu as il se met dans des colères terribles. Nous nous portons tous bien.</p>
-        <p>PASTEUR.</p>
-        <p>Je Pars pour Besançon samedi en huit. A mon retour j'aurai Unettre de toi. Encore une fois, ne te mêle pas dans les tofestations que l'École fera contre les Jésuites. Occupetoi e ton affaire, laisse couler l'eau.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, 2 août 1844.</p>
-        <p>Mon cher Louis, Comme tu nous annonces dans ta dernière une lettre vers la fin de cette semaine, je voulais attendre, mais le malheureux événement arrivé dans la soirée du' 29 juillet à Paris ne me le permet pas. Écris-nous de suite, mon bon ami, pour nous faire connaître qu'il ne t'est rien arrivé de fâcheux, dis-nous si tu te trouvais sur les lieux.</p>
-        <p>Je me souviens que dans ma dernière lettre je te disais d'éviter ces grandes réunions, où il arrive si souvent des accidents, nous sommes dans l'inquiétude, écris-nous deux mots.</p>
-        <p>Je sais d'après ce que tu nous dis que vous n'avez pas un instant à vous, aussi dis-nous seulement je me porte bien,</p>
-        <p>rien autre.</p>
-        <p>Tu nous dis : J'espère que nous serons tous reçus. Reçu à quoi? je ne te comprends pas du tout. Je t'ai entendu dire qu'à la fin de la deuxième année vous passiez un examen pour la licence, est-ce de cet examen que tu veux parler, le passe-t-on à présent à la fin de la première année?</p>
-        <p>Dieu veuille mon ami que tu réussisses bien, je l'espèr et le souhaite à vous tous, vous le méritez bien, nul emplOI je crois n'est mieux acquis que celui de l'élève qui sort de votre École.</p>
-        <p>Il faut espérer que la loi sur l'enseignement sera telle que votre position n'aura pas à en souffrir. J'ai lu le rapport de M. Thiers. Je crois qu'il a défait tout ce que les [mot illisible avaient fait. Si le gouvernement connaissait bien l'opinion qu'on a sur les Jésuites jamais ces gens-là ne rentreraient dans l'enseignement. Nous verrons cela l'an prochain. Cette loi aura fort à faire pour passer. Tant mieux pour vous. Soye convaincus que vous n'auriez pas grande besogne si vous les aviez pour concurrents, c'est le bas prix du pensionnat 011 ils vous prendraient.</p>
-        <p>Nous t'enverrons de l'argent aussitôt que tu nous feras</p>
-        <p>connaître ton départ, nous désirons tes vacances plus que tOI. Tes sœurs t'attendent avec la plus vive impatience.</p>
-        <p>Donne le bonjour à ton ami Chappuis à qui je souhaite aussi de ne pas s'être trouvé compromis dans cet accident.</p>
-        <p>b Porte-toi bien, nous nous portons tous très bien, nous t'embrassons bien tous.</p>
-        <p>Ton père, PASTEUR.</p>
-        <p>A CHAPPUIS.</p>
-        <p>Arbois, 12 septembre 1844.</p>
-        <p>J'ai fait de Paris à Arbois un triste voyage.</p>
-        <p>De Paris à Montereau tout va bien. A Montereau, • Patache; à Sens, idem; à Joigny, idem. A Auxerre pas de VOlure pour Dijon, ni le jour de mon arrivée, ni le lendealn, ni après; enfin pas du tout. Plus qu'un seul moyen e partir, et encore par hasard et par bonheur. Je pars Pour Troyes dans la nuit par le courrier des dépêches. Le rndemain à 10 heures, encore par bonheur, je pars de r°yes et j'arrive à Dijon à 3 heures du matin. J'y ai dormi J squ'à dix heures. Reparti à 3 heures* de l'après-midi, je l?lS arrivé à 9 heures du soir à Dole, et le lendemain dans apres-dîner à Arbois.</p>
-        <p>A Arbois, je suis tombé malade.</p>
-        <p>Mon père a bien raison de dire : « La santé avant tout ».</p>
-        <p>;</p>
-        <p>A CHAPPUIS.</p>
-        <p>Arbois, 4 octobre 1844.</p>
-        <p>J'ai à te faire voir bien des choses : la source du Lizon 1 tn e nous ne connaissons ni l'un ni l'autre, et une route le agrllfique qui se construit à Arbois, tout le long et sur le Sornrnet des montagnes opposées à celles de la Châte-</p>
-        <p>laine 1; il paraît qu'il n'y a rien au-dessus des points de vue qu'offre la route et des travaux qu'on y exécute.</p>
-        <p>En outre, si tu viens me voir, je te promets de te conduire à Poligny pour faire faire ton portrait au daguerréotype par un amateur, mais qui fait bien mieux que tous les daguerréotypeurs ordinaires. Il y a des portraits que tu confondrais avec ceux de Sabatier. Il a eu la complaisance de me faire mon portrait, en trois grandeurs différentes, par un temps défavorable il est vrai, cependant cela ressemble. Si tu viens, tu choisiras l'un des trois.</p>
-        <p>A CHAPPUIS.</p>
-        <p>Arbois, 12 octobre 1844.</p>
-        <p>Je suis allé avec mon père voir à Marnoz le Proviseur du Collège de Besançon, M. Répécaud. Il m'a dit que M. Darlay 2 voyait le temps de sa retraite arriver dans deux ans et qu'il voulait la prendre. Il a ajouté que, si je voulais..Je l'ai remercié et en nous quittant il m'a dit : « Rappelezvous ma promesse. » Je pense bien à présent, d'après cette promesse et la coïncidence heureuse de la retraite de M. Darlay avec mon entrée dans l'enseignement, être nommé a Besançon.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, 11 24 novembre 1844- ; Mon cher Louis, Je désire que tu sois aussi content de ton rang que je le suis.</p>
-        <p>Vous avez beaucoup d'ouvrage, me dis-tu, ne t'en impose</p>
-        <p>pas plus, ne t'occupe que de ce qu'il te faut pour la licence.</p>
-        <p>Avant de penser aux épaulettes du capitaine, pensons à celles du sous-lieutenant.</p>
-        <p>Mue Bersot est morte mardi dernier. Après sa longue malade cela te surprendra peu, mais ce qui doit surprendre dans cette jeune personne c'est qu'elle est morte dans une absence otale d'idées religieuses, malgré les plus grandes obsessions elle n'a pas voulu se confesser. Elle est morte avec toute sa onnaissance. Sa fin a été on ne peut plus pénible pour toutes es personnes qui la voyaient.</p>
-        <p>t' Quand j'aurai le temps, dans la première lettre que je enverrai j'écrirai deux mots à ma cousine, je suis bien aise que tu l'aies trouvée dans une position d'aisance, cela ne me Surprend pas qu'elle ait fait des économies, elle a toujours Passé pour un modèle de sagesse.</p>
-        <p>carrière 1 m'avait parlé de la lettre qu'il t'avait écrite.</p>
-        <p>L , ayant vu je lui ai dit que tu lui répondrais à loisir, il m'a lt que rien ne pressait, seulement il craignait que cette lettre e te soit pas parvenue, pensant n'avoir pas bien mis l'adresse.</p>
-        <p>Ji te dit bien des choses.</p>
-        <p>1 J'ai vu avec plaisir ton contentement du passage de M. Baard 2 l, 1. 1 t lard à l'Institut, cela me prouve ta reconnaissance pour tes 1 tu as dû trouver que c'était un bien rude saut à faire- Tu as vu que le mérite seul ne suffit pas, là aussi il f. aut des amis.</p>
-        <p>d Astu fait nettoyer ton paletot, si cela n'est pas fait fais-le de suite car nous voilà dans les froids. Si ton gilet de laine ne 1 se mettre sous tes habits, achètes-en un plus mince, un léger tricot, cela te coûtera 4 à 5 francs.</p>
-        <p>'Îieiis-toi toujours les pieds chauds, cela préserve des maux tête.</p>
-        <p>l! J'ai vu Guillemin hier, il attend tous les jours sa lettre.</p>
-        <p>jjJ eS\ à souhaiter que le gouvernement leur fasse grâce à toi s, le vœu est général.</p>
-        <p>2' ¿?e camarade de Pasteur à Arbois.</p>
-        <p>J:i'a.htonin-Jérôme Balard (1802-1876), chimiste, professeur à la Facuue - des sciences et maître de conférences à l'École normale.</p>
-        <p>Encore une fois après mille, n'acquiers pas de la science au dépens de ta santé, ne sors jamais de nuit.</p>
-        <p>Si tu as besoin d'un manteau nous t'en achèterons un, mais je crois qu'un bon paletot vaut mieux et est plus commode, si le tien retenu ne convenait pas je t'en achèterais un, tu le feras savoir.</p>
-        <p>Nous nous portons tous très bien, porte-toi bien aussi.</p>
-        <p>Nous t'embrassons.</p>
-        <p>PASTEUR.</p>
-        <p>Nous n'avons pas encore vu la neige, voici quelque temps qu'il fait très beau temps.</p>
-        <p>Pense à envoyer de suite ton paletot à nettoyer et à acheter un gilet de tricot mince pour mettre sur ta chemise, dans le cas où le tien ne pourrait se mettre.</p>
-        <p>Mets des bas de laine tout l'hiver, puis tes souliers chauds à l'École.</p>
-        <p>* Prends toutes les précautions possibles pour ne pas fatiguer ta vue à la lumière, prends des conseils de l'opticien sur cela-</p>
-        <p>1</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, 23 décembre 1844.</p>
-        <p>Mon cher Louis,</p>
-        <p>Mardi, Henri Mondeux ce célèbre calculateur était ici. J&gt;aî assisté à la séance qu'il a donnée, chacun l'a admiré, pour mol je n'ai rien vu de ma vie d'aussi intéressant, il a eu beaucoup de problèmes à résoudre, et il les a tous résolus avec une intelligence qui tient du prodige.</p>
-        <p>Il a 17 ans, sa physionomie est douce et pleine d'expression elle est aussi très calme, mais quand il opère elle prend ule tension qui fait mal à voir, aussitôt le résultat trouvé elle redevient ce qu'elle était avant et cela comme par enchante ment.</p>
-        <p>Il calcule assez haut mais si vite que cela fait l'effet 0 roulement d'un tambour. Le problème résolu, il annonce e ( ?</p>
-        <p>résultat. 2 ou 3 fois il s'est trompé, alors il a recommencé et toujours il a trouvé juste.</p>
-        <p>Le dernier problème qu'il a fait était de M. Lorençot le ^arin, c'était de trouver le plus grand commun diviseur de 3 forts nombres, il a trouvé [les] 3. M. Lorençot lui a observé qu'il s'est trompé, il répond : Non Monsieur c'est vous qui vous trompez, vous avez sans doute trouvé 93, mais 93 ne divise exactement que les 2 premiers nombres et non le 3e, et cela était. M. Lorençot lui a dit : oh vous êtes admirable.</p>
-        <p>J'ai lu sur les journaux et je crois que tu m'as dit aussi qu Il ne suivait pas de méthode, qu'il ne pouvait pas même rendre compte comme il opérait; il n'en est rien car à chaque Problème il a répété son opération telle qu'il venait de la faire, et cela très lentement de façon à pouvoir la suivre la plume a la main.</p>
-        <p>l' Il est accompagné par deux messieurs. L'un M. Jacob, l'autre est un ancien élève de l'École polytechnique. Un lui lt les problèmes et prend note des solutions que Mondeux a employées.</p>
-        <p>1 Sa méthode et les solutions de 4.000 problèmes qu'il a résous est sous presse. Après la séance ils ont proposé d'y souscrire, personne ne l'a fait, le lendemain au matin je suis allé son auberge pour le faire mais il était parti. Cet ouvrage ser, annoncé dans les journaux, et à vos écoles, ainsi aussitôt qu Il paraîtra tu pourras te le procurer.</p>
-        <p>Je crois que pour tous les problèmes qu'on lui propose, il tSI.t à l'instant la solution la plus simple et la plus courte, tio * beaucoup de soustractions et un grand usage des fracIOns.</p>
-        <p>11: Il se préoccupe si peu de ce qu'on va lui demander que • failli ayant amené son petit garçon à la séance il s'est Usé à lui causer jusqu'à ce qu'elle commence, sa tête est ne Vraie machine à calcul.</p>
-        <p>le Tu as VU cet Italien. Quand tu verras celui-ci tu pourras les comparer, je crois qu'il n'y avait personne à la séance qui ait Vu le premier. Tréhand et Vuillame étaient les seuls du CO lège, je ne te dirai pas ce que je pense de M. Carré de n'y pr or pas assisté. Si tu le désires je pourrai t'envoyer quelques lèmes qu'il a résolus.</p>
-        <p>Pour ton paletot tu as très bien fait de le faire faire, il ira sans doute mieux que de l'acheter tout fait. Je pense que ton vieux est réparé et que tu le mets dans les occasions où tu peux ménager l'autre.</p>
-        <p>Prends toujours les plus grands soins de ta santé, ne travaille que ce qui est nécessaire pour tes cours, car la première des choses est de ménager sa santé.</p>
-        <p>Nous nous portons tous très bien, la petite 1 est réellement mieux, elle nous dit des choses journellement qui sont très justes et qui sont fines comme tout.</p>
-        <p>La Fifine continue et cela va assez bien, elle commence à y prendre plus d'attention qu'elle ne faisait. Si elle continue jusqu'à ton retour à la maison, elle saura son arithmétique mieux peut-être que tu ne le penses.</p>
-        <p>Nous t'embrassons bien tous, porte-toi bien.</p>
-        <p>Ton père, PASTEUR.</p>
-        <p>1845</p>
-        <p>Pasteur se prépare à la licence ès sciences et à l'agrégation de Physique.</p>
-        <p>JEAN- J OSEPH PASTEUR A SON FILS.</p>
-        <p>Arbois, 2 janvier 1845.</p>
-        <p>Mon cher Louis, Que j'aime à te voir pénétré de si beaux sentiments pour soeurs, je me complais à croire que rien jamais ne te pourra uanger envers elles, oui tu seras leur soutien et cette idée 111 9, déjà adouci bien des ennuis.</p>
-        <p>p Inutile est de te dire combien elles sont bonnes pour toi.</p>
-        <p>ersonne n'en est plus convaincu, je le sais, néanmoins je veux te dire ce qui s'est passé hier ici. Le facteur arrive à 11 heures oUse les jours, hier il n'est venu qu'à 2 heures, quiconque Serait venu chez nous dans cet intervalle aurait pensé en les oyant qu'il nous était arrivé quelque malheur. Un frère peut avoir d'ausa bonnes sœurs, mais non des meilleures.</p>
-        <p>f Nous t'envoyons 60 francs, ménage cet argent autant que lre se pourra car notre métier devient toujours de plus en Plus pénible, Salins nous fait ici une concurrence vraiment Inutenable, fort heureux que notre métier a les foires.</p>
-        <p>1 La Fifine m'a promis hier qu'elle ferait tout pour mériter les éloges que tu lui donnes, il faut convenir que déjà elle a fait Preuve de quelque volonté, espérons qu'elle tiendra parole.</p>
-        <p>Unt à moi je ne céderai pas, j'ai assez à me repentir de n'en aVOIr pas agi ainsi depuis 10 ans, mais autant que faire se Purra j'y remédierai, je te le promets.</p>
-        <p>Je t'ai dit je crois que nous recommencerions l'arithmétique, que nous la suivrions avec méthode, c'est ce que nous faisons, nous sommes aux fractions et je puis tedire qu'elle commence à comprendre, tu peux même dans ta première lettre envoyer un problème sur les fractions, elle le fera, alors tu jugeras.Je demanderai au fils Tréhand quelques-uns des problèmes donnés à Mondeux, puis les solutions que ce calculateur aura employées, je présume qu'il aura pu en retenir quelques-unes.</p>
-        <p>Il n'est bruit [à] Arbois que du mariage de l'ingénieur Parandier avec la fille d'un maître de forges, qui donne 20 mille francs de rentes, puis 100 mille francs à la famille Parandier voulant, dit le beau-père, que les frères et sœurs du mari de sa fille aient aussi une position convenable.</p>
-        <p>Parle-nous de votre ouvrage, si cela marche bien, si rien ne t'embarrasse dans les études difficiles que vous avez à voir, tu comprends cette curiosité de ma part. Je m'occupe de sciences aussi; si je te disais la nuit que je pense aux fractions, que j'ai passé deux jours sans comprendre un problème, que j'ai trouvé après très simple, tu te dirais : Quand il s'agit d'apprendre pour faire le maître ce n'est pas peu de chose.</p>
-        <p>Nous nous portons très bien, porte-toi bien aussi, reçois les vœux que toute la famille te fait pour ton parfait bonheur.</p>
-        <p>Nous t'embrassons tous du plus profond du cœur.</p>
-        <p>Ton père, PASTEUR.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.P.</p>
-        <p>Arbois, le 6 février 1845.</p>
-        <p>Mon-cher Louis, J'arrive de la foire de Besançon. Bien que le temps était très mauvais, elle a été assez bonne. Le fils Briot m'a dit que son frère était dangereusement malade à Orléans. Son père qui n'était pas venu à la foire y est arrivé lundi afin de l'y remplacer pour le faire partir près de son frère. S'il a de bonnes nouvelles à son retour, il passera à l'École te voir, tu l'accueil-</p>
-        <p>eras de ton mieux. Je désire d'un bien grand cœur qu'il trouve son frère rétabli, ils sont on ne peut plus affectés de cette maladie qui est une fièvre typhoïde. Prends donc tous BS' soins possibles de ta santé, ne vaudrait-il pas [mieux] pour not avoir moins de science et ne pas s'être épuisé, comme il a fait par un travail excessif.</p>
-        <p>Hors la licence qui est de rigueur, ne fais des autres parties {e c: qui peut ne pas te fatiguer. L'agrégation viendra assez bot, sinon la Ire ce sera la 2e année ou la 3e, qu'importe, une onne santé au sortir de l'École voilà où il te faut viser.</p>
-        <p>V M. Viennet que j'ai vu me charge de te dire mille choses.</p>
-        <p>aubourg aussi, ainsi que Jules et Altin, chose qu'ils recomandent à toutes les lettres. Altin sait le jour que tu écris et e manque jamais de venir demander [des nouvelles]. A la fote on nous en demande aussi de Chappuis à qui tu donneras le k bonjour pour moi, soyez toujours de bons amis.</p>
-        <p>ia dernière lettre aura je l'espère pour effet- de forcer la une a s'appliquer un peu mieux, elle comprend plus vite que moi mais elle ne veut pas comme elle dit se casser la tète, néanmoins je promets que cela ira de façon que tu seras Ontent d'elle aux vacances prochaines.</p>
-        <p>d As-tu vu en chimie les gypses? Tu me diras oui ou non, alors là.s rna première lettre je te dirai ce que je désirerais savoir essus, mais ce sont de ces choses qui ne pressent pas.</p>
-        <p>d On m'a. dit qu'on faisait à présent avec de la vieille écorce de bon engrais, en mettant un lit de terre, un lit d'écorce en Un tas- J'essaierai cela.</p>
-        <p>ta t fait depuis samedi dernier très froid, nous avons pourpr Peu de neige. S'il fait aussi froid chez vous prends des Précautions contre le rhume, à la moindre indisposition que tu Ur^S prends des pastilles de jujube ou simplement de la fac' d orge, il ne faut jamais le laisser prendre, il est très fecil avec de légères précautions de s'en préserver.</p>
-        <p>je reds aussi toutes les précautions possibles pour ta vue, je c°ls toujours que des verres un peu bleus feraient mieux que des blancs, tu dois ici être bon juge car je crois que .vous dev Gz avoir vu cela en physique.</p>
-        <p>S'OC nous de ce que vous faites, de vos professeurs, s'ils cUpent beaucoup de vous.</p>
-        <p>J'ai lu hier sur un journal une lettre de M. Michelet professeur au collège de France, je crois, où il fait des reproches à un élève de l'École normale qui aurait écrit contre lui quelque chose, une réfutation d'un ouvrage. Vous devez savoir cela.</p>
-        <p>Trois Jésuites de Dôle ont fait ces jours derniers mission à Mesnay 1 où ils ont eu un succès on ne peut plus complet, tous les hommes du village leur ont fait la conduite jusqu'au mont de la Bergère 2. Arrivés là, ils se sont tous embrassés.</p>
-        <p>Tout ce qu'il y a c'est que ces Jésuites sont des hommes dévoués à leur cause, dès les 4 heures du matin à 11 heures du soir ils ne quittaient pas l'église deux heures de tempsQuand ils ont [eu] fini ils étaient épuisés. M. Carré y a fait ses dévotions. Je le crois bien sincèrement religieux.</p>
-        <p>Quand tu auras besoin d'argent dis-le nous. Allez-vous, toujours dîner les jeudis avec Chappuis? faites-le puis les dimanches encore, vous ne pouvez qu'y gagner, ces distractions ne peuvent qu'être favorables à la santé.</p>
-        <p>Nous t'embrassons bien tous, nous nous portons tous bien si ce n'est la Virginie qui a de temps à autre ses battements de cœur mais pas plus que tu les as vus.</p>
-        <p>Je t'embrasse PASTEUR.</p>
-        <p>JEAN-JOSEPH PASTEUR A SON FILS.</p>
-        <p>Dimanche 23 février 1845.</p>
-        <p>Mon cher Louis, Nous avons aussi le dégel, mais dès hier seulement car depui le 3 février jusqu'à ce jour nous avons eu un froid qui a ét* souvent à 120. Les jours de dégel que tu nous annonces à Paris, ici il neigeait. 1 On craignait beaucoup pour nos vignes, on pense aujotff' d'hui qu'elles ont peu de mal.</p>
-        <p>Jamais Arbois n'avait vu une plus belle mission que celle qui vient de se faire à Mesnay prêchée par trois Jésuites, le nombte des personnes qui ont suivi les exercices de cette inis'</p>
-        <p>sion passe ce que l'on pourrait en croire sans l'avoir vu. Tenez Pour dit qu'ils ont plus d'influence que vous ne le pensez.</p>
-        <p>Mais par contre les bals du carnaval d'Arbois ont été ce qu'on n'avait jamais vu à Arbois; les costumes étaient très bnllants, à faire venir les étoffes de Paris. Jules et Altin qui sont venus nous voir en tenue étaient on ne peut mieux. Les eipmes dont plus d'une avait suivi les exercices des missionnaIres sortaient du bal au jour, mais pour beaucoup ainsi elles Sont faites : aujourd'hui à Dieu, demain au diable. Dire la annière qu'elles sont le plus disposées à suivre n'est pas chose embarrassante.</p>
-        <p>Si les bals étaient beaux, ce n'était rien auprès du Carnaval.</p>
-        <p>est M. Courtois qui en a fait les frais, voici comment. Les chasseurs ont tué 5 sangliers, deux d'une seule chasse. M. de Chavanne emmène toujours chez lui le gibier tué, là il fait la Part à chaque chasseur. M. Courtois un des plus anciens chasseurs est chargé par M. de Chavanne de remettre à chacun des chasseurs sa portion, qui toutes sont étiquetées par une esse avec un nom. On le soupçonnait d'y rogner quelquefois, CI on s'en est assuré et la part qu'il s'en est allouée a passé Oute prévision, de façon que [quand] M. de Chavanne après cop a dit à chaque chasseur ce qu'il lui avait envoyé, il est "rrivé que chacun a dit : Je n'ai pas reçu cela ou moins. Ce qUI a valu à M. Courtois les honneurs du mannequin qui a été P oinené et illuminé à [ne pouvoir] ramasser une épingle dans s rues. Par un froid de 12 degrés, il y avait 3 mille personnes Il heures du soir sur le champ de Mars, marchant dans un fled de neige, puis des pièces de vers, des chansons, il y en a tous les jours des nouvelles, mais toi qui connais le pays tu ceIas Peu surpris, il n'y a qu'Arbois je crois en France où Cela Peut se voir poussé avec un tel excès.</p>
-        <p>je Tu nous dis mon bon ami : Je ne me marierai de longtemps, to,prendrai une de mes sœurs avec moi. Je le souhaite pour Pas et surtout pour elles, car elles n'envient l'une et l'autre ce Un plus grand bonheur; te servir, soigner ta santé, là est p qu elles désirent toutes deux. Tu es tout, absolument tout r elles on peut avoir d'aussi bonnes sœurs, mais de meilleures Ie ne le pense pas. Je n'en excepte pas même notre pauvre le qui ne passe pas un seul jour sans parler de son Louis.</p>
-        <p>Je t'envoie cent francs, ménage cet argent le plus que possible, mais sans te priver de distractions qui vous sont nécessaires, les études sérieuses auxquelles vous vous appliquez demandent quelques moments de répit. Je dirai au directeur que ton ami Chappuis se porte bien, donne-lui le bonjour.</p>
-        <p>Nous nous portons bien, porte-toi bien aussi, nous t'embrassons tous de bon cœur.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Ton père, PASTEUR.</signature>
             </name>
           </signed>
         </closer>
+        <postscript>
+        <p>Je souhaite à papa un bon voyage et une bonne foire.</p>
+        <p>Que mes sœurs m'écrivent au moins pour me dire si elles sont contentes.</p>
+        </postscript>
       </div>
     </body>
   </text>

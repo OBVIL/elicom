@@ -26,8 +26,9 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Arbois, Ier janvier 1849." resp="">Arbois, Ier janvier 1849.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1849-01-01" >Ier janvier 1849.</date>
+          <placeName>Arbois</placeName>
         </correspAction>
         <correspAction type="received">
           <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="Arbois, Ier janvier 1849."/>
       </creation>
       <langUsage>
         <language ident="fre"/>

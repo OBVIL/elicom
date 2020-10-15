@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Août 1853.] • Mon cher papa, Je suis comme toi très heureux de cette belle lettre de M. Biot 2 qui ajoute en effet un nouveau prix à l'honneur que j'ai reçu. J'ai été hier pour le remercier de ta part; mais il était sorti. Je vais y retourner." resp="">[Août 1853.] • Mon cher papa, Je suis comme toi très heureux de cette belle lettre de M. Biot 2 qui ajoute en effet un nouveau prix à l'honneur que j'ai reçu. J'ai été hier pour le remercier de ta part; mais il était sorti. Je vais y retourner.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-08">[Août 1853.]</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +38,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="[Août 1853.] • Mon cher papa, Je suis comme toi très heureux de cette belle lettre de M. Biot 2 qui ajoute en effet un nouveau prix à l'honneur que j'ai reçu. J'ai été hier pour le remercier de ta part; mais il était sorti. Je vais y retourner."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -65,7 +64,6 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>9</signature>
             </name>
           </signed>
         </closer>

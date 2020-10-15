@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Besançon, 23 janvier 1842." resp="">Besançon, 23 janvier 1842.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-01-23">23 janvier 1842.</date>
+          <placeName>Besançon</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A CHAPPUIS 1. (...-...)">A CHAPPUIS 1.</persName>
+          <persName key="Chappuis, Charles (1822-1895)">A CHAPPUIS</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -63,11 +64,12 @@
         <p>leçons. Et puisque Verner et lui ont été si complaisants pour moi dis leur que je crois leur demander encore quelque chose à la fin de l'année, des questions d'examen, s'ils en possèdent, surtout celles de M. Comte.</p>
         <p>Tu te rappelles de ces jours de l'année dernière où je ne répondais rien quand on me parlait, où j'étais triste comme un bonnet de nuit. Aujourd'hui j'ai été tel, et cela m'arrive malheureusement très souvent cette année. Je n'ai plus qu'un seul plaisir, c'est de recevoir des lettres soit de toi soit de mes parents. Aussi, mon cher, écris-moi souvent.</p>
         <p>Ne pense plus à moi pour Paris; c'était écrit que nous ne devions nous y retrouver qu'après une année d'absence.</p>
+        <p>Oh! que tes lettres soient toujours très longues.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Oh! que tes lettres soient toujours très longues.</signature>
+              
             </name>
           </signed>
         </closer>

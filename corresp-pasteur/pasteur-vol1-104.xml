@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, ler décembre 1854." resp="">Paris, ler décembre 1854.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-12-01">1er décembre 1854.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -65,12 +66,12 @@
         <p>le courant de décembre. Mais comme nous serons campés un peu provisoirement jusqu'en avril, Jeanne ira passer cet intervalle à Orléans chez sa grand'mère.</p>
         <p>Adieu. Je t'embrasse de tout mon cœur avec Virginie et ses enfants et son mari, sans oublier notre vieille grand' mère.</p>
         <p>L. PASTEUR.</p>
-        <p>PASTEUR DOYEN DE LA FACULTÉ DES SCIENCES DE LILLE 1854-1857</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Pasteur s'installe dans ses nouvelles fonctions à Lille.</signature>
+              
             </name>
           </signed>
         </closer>

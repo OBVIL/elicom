@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="29 décembre 1851." resp="">29 décembre 1851.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1851-12-29" >29 décembre 1851.</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -66,25 +66,11 @@
         <p>Nous sommes loin d'élever le petit garçon aussi facilement que Jeanne. Il est très souvent dérangé : mais je crois que quand il aura 3 ou 4 mois cela ira beaucoup mieux. Du reste il profite; il engraisse et il n'a pas mauvais teint.</p>
         <p>Adieu, mon cher papa. Je t'embrasse de tout mon cœur en te souhaitant une bonne année, ce qui est presque synonyme pour moi de bonne santé.</p>
         <p>L. PASTEUR.</p>
-        <p>Pasteur en 1852</p>
-        <p>1852 r</p>
-        <p>C'est cette année que Pasteur fit son célèbre voyage en Allemagne et en Autriche à la recherche de l'acide racémique.</p>
-        <p>A CHAPPUIS.</p>
-        <p>[Strasbourg, début février 1852].</p>
-        <p>Je viens de recevoir, il y a quelques jours, une belle lettre de M. Dumas, que je vais te transcrire. Il faut que tu saches que M. Regnault avait parlé de moi à M. Biot comme d'un candidat possible à une place de membre correspondant de -l'Institut dans la section de physique générale, que M. Biot avait répondu que j'aurais tort de m'éloigner de la. section de chimie. J'ai donc écrit à M. Dumas pour lui faire connaître l'opinion de ces messieurs, et en même temps je lui ai parlé de ma position, si M. Persoz revenait ici. Je ne voudrais pas être envoyé dans une ville trop éloignée de Paris.</p>
-        <p>Voici cette flatteuse lettre de M. Dumas :</p>
-        <p>« Mon cher Collègue, « J'ai attendu la présentation de la section de physique « pour vous répondre. J'étais décidé à suivre MM. Biot et « Regnault dans leur marche; mais je me félicite de les (( avoir trouvés de mon avis.</p>
-        <p>« L'Université ne vous gâte pas, c'est vrai. Vous-même</p>
-        <p>« avez eu, tort de vous obstiner à rester à Strasbourg, quand « il serait si aisé de vous donner une situation fixe ailleurs; « mais tout cela ne justifie pas vos inquiétudes et votre « défiance. Croyez-vous donc que nous soyons insensibles « à la gloire que vos travaux répandent sur la chimie fran« çaise et sur l'Ecole dont vous sortez?</p>
-        <p>« Le jour même de mon entrée au ministère 1, je deman« dais la croix pour vous. J'aurais eu à vous la donner de « ma main une satisfaction que vous n'imaginez pas. D'où « est venu le retard ou l'obstacle? Je l'ignore. Mais ce que « je sais, c'est que vous me faites bondir, quand vous me « parlez dans votre lettre de la nécessité de laisser la place « libre en chimie à ceux que vous citez, un ou deux excep« tés. Quelle opinion avez-vous donc de notre jugement?</p>
-        <p>« Quand il y aura une place vacante, vous serez présenté, « soutenu et nommé. Il ne s'agit plus ici des inquiétudes « que vous pouvez concevoir; il s'agit de la justice et des « grands intérêts de la science; nous saurons les faire pré« valoir. Quant à ces inquiétudes, je les comprends, mais « ne vous les exagérez pas. Le moment venu, on trouvera « bien moyen de faire ce que veulent les intérêts de la « science dont vous êtes l'un des plus fermes appuis et l'une « des plus glorieuses espérances.</p>
-        <p>« Tout à vous de cœur ».</p>
-        <p>Je suis très heureux de te dire, après lecture de cette lettre, que j'aurai des observations nouvelles fort curieuses à présenter à la fin de l'année à l'Académie 2.</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Cette lettre m'a surpris. Tu sais que j'attache beaucoup d'importance à mes recherches; mais j'étais loin de penser qu'elles portaient avec elles un témoignage d'une aussi entière et si haute approbation.</signature>
             </name>
           </signed>
         </closer>

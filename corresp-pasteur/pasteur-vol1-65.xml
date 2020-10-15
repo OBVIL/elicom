@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="7 septembre 1852." resp="">7 septembre 1852.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-07">7 septembre 1852.</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE,</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -68,32 +68,12 @@
         <p>Je te répète que c'est seulement pour n'avoir obligation "î11 a toi. M. Laurent ne pourrait pas en ce moment me donIler 500 fr. sans les demander à son frère ou à M. Danicourt 2 ou à Mme Zévort 3 et cela m'ennuie qu'il prenne cette peinea Pour moi. Voilà tout. Si je ne t'avais pas entendu dire qlle tu avais de l'argent en dépôt chez M. Marchand je ne ,e le demanderais pas. Tu n'as pas besoin d'ailleurs de dire * M. Marchand que c'est pour moi que tu reprends ces 300 fr. pour un mois ou deux.</p>
         <p>Adieu. Porte-toi bien. Je t'embrasse de bon cœur.</p>
         <p>L. PASTEUR.</p>
-        <p>18 J. Émilie Pasteur devait mourir quelques mois plus tard, le 17 mars 18 53, à Voiteur, au couvent des Ursulines.</p>
-        <p>• eau-frère de M. Laurent.</p>
-        <p>J..t'ille de M. Laurent.</p>
-        <p>et M. Laurent avait une fille mariée à Pasteur, une autre mariée à M. Loir, et llne autre mariée à M. Zévort.</p>
-        <p>Mme PASTEUR A SON BEAU-PÈRE.</p>
-        <p>Paris, II septembre 1852.</p>
-        <p>Mon cher père, Louis est parti pour son voyage depuis jeudi matin mais il ne l'a pas entrepris sans le conseil de M. Biot qui l'a approuvé.</p>
-        <p>Avant son départ il avait aussi reçu une réponse favorable du fabricant qui s'engageait à lui donner tous les renseignements qu'il désire savoir sur sa fabrication d'acide racémique.</p>
-        <p>M. Dumas, que Louis a vu la veille de son départ, doit pendant son absence lui faire obtenir les fonds nécessaires pour le remboursement des avances que nous avons été forcés de faire. Voilà le plus ennuyeux de cette affaire, car nous ne</p>
-        <p>savons pas quand et comment on nous rendra ce que nousmêmes nous avons emprunté à Mme Zévort. Mais la parole de M. Dumas est là; et nous ferait-elle défaut que M. Biot ne nous abandonnerait pas.</p>
-        <p>Tout ce que je désire c'est que Louis réussisse.</p>
-        <p>M. Dumas le chargera peut-être pendant ce voyage d'une mission qui aurait pour objet de lui faire visiter tous les labo-</p>
-        <p>ratoires allemands et tous les établissements scientifiques d'une partie de l'Allemagne pour les comparer à ceux qUI existent en France et pour en prendre au besoin ce qu'ils auraient de bien.</p>
-        <p>Encore autre chose dont M. Dumas lui a parlé et qui va vous faire grand plaisir. Il lui a proposé le titre de Professeur à la Faculté de Dijon avec celui qu'il a déjà comme ProfeSseur de physique au lycée. Louis ne s'est pas décidé tout de suite parce qu'il a demandé à remplir les deux chaires de M. Persoz à Strasbourg ce qui vaudrait encore mieux. MaIs M. Persoz ne retournera-t-il pas à Strasbourg? C'est encore ce que personne ne sait et peut-être devrions-nous plutôt dès à présent renoncer à Strasbourg qui pourrait encore nous échapper, même n'ayant plus affaire à M. Persoz. Louis doit répondre d'Allemagne à M. Dumas et lui donner l'ordre de ses préférences. Il doit avant tout demander Strasbourg, sinoIl il accepterait Dijon.</p>
-        <p>Jeanne a été un peu malade pendant ces derniers jours.</p>
-        <p>Elle va beaucoup mieux mais elle grogne encore toute la journée. Son petit frère va assez bien et est toujours bien gai.</p>
-        <p>Adieu, mon cher père, je vous embrasse de tout mon cœur, avec Virginie.</p>
-        <p>MARIE.</p>
-        <p>Voici la copie de la dernière lettre de M. Biot à l'occasion de ce voyage : Je vous félicite de votre succès en Saxe et à Paris. L'intervention personnelle de M. Dumas vaut mieux qu'une plus haute intervention, pour une dépense si minime. Elle vaut mieux aussi que la mienne par ses conséquences. M. Dtimas ayant décidé l'exécution de l'entreprise, il sera naturellement Porté à la soutenir de son crédit, qui est grand, tandis que le mien est nul; et l'intérêt honorable qu'il aura mis à la rendre Possible lui inspirera la volonté d'en faire valoir les résultats, pe qui ne peut que vous être profitable. A travers quelques lndécisions momentanées, vous êtes arrivé au but; et c'est le cas d'appliquer le proverbe anglais : ail is well, that ends well : tout est bien qui finit bien. Vous paraissez avoir agi avec prudence, en vous réfugiant dans la nécessité d'une consultation amicale, avant de vous laisser entraîner dans une démarche, qui, si elle n'eût pas réussi, aurait tout arrêté. Il n'est pas bon de recourir à de si grands moyens, pour obtenir ce qu'il est facile d'avoir, sans importunité, par des voies plus simples.</p>
-        <p>Je suis charmé pour M. Dumas et pour vous qu'il l'ait senti; qu'ir ait pris de lui-même dans cette circonstance l'initiative qui convient si bien à sa position.</p>
-        <p>Recevez et faites agréer à Madame Pasteur les vœux que Ie forme pour le bon succès de votre voyage. Je ne vous sépare Pas l'un de l'autre dans l'affection que je vous porte, et elle doit jouir de votre réussite autant que vous.</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Votre ami, J.-B. BIOT.</signature>
+              
             </name>
           </signed>
         </closer>

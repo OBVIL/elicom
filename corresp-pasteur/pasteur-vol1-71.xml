@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Vienne, 27 septembre 1852." resp="">Vienne, 27 septembre 1852.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-27" >27 septembre 1852.</date>
+          <placeName>Vienne</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -90,12 +91,11 @@
         <p>Adieu encore. Je t'embrasse de tout mon cœur — avec toute la famille.</p>
         <p>L. PASTEUR.</p>
         <p>Se refusait à obéir aux ordres du Comité de Défense, Kossuth à plusieurs reprises essaya de le briser, sans y réussir. Après la défaite de Temesar, Kossuth se déchargea sur le général Georgey de la capitulation Avenue inévitable.</p>
-        <p>J'ai oublié de te prier de dire à M. Loir1 que j'étais très content.que son travail ait été renvoyé à la même commission que le mien. Je ne pense pas que l'étendue du travail de M. Loir comporte un rapport spécial. Mais il serait possible, facile même je crois, d'obtenir de M. de Senarmont une mention du travail dans son prochain rapport. Je pourrai en parler à M. de Senarmont à mon retour.</p>
+        <p>J'ai oublié de te prier de dire à M. Loir1 que j'étais très content.que son travail ait été renvoyé à la même commission que le mien. Je ne pense pas que l'étendue du travail de M. Loir comporte un rapport spécial. Mais il serait possible, facile même je crois, d'obtenir de M. de Senarmont une mention du travail dans son prochain rapport. Je pourrai en parler à M. de Senarmont à mon retour. Il est fort tard et je ne pourrai mettre ma lettre à la poste que demain matin 28 en allant au laboratoire.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Il est fort tard et je ne pourrai mettre ma lettre à la poste que demain matin 28 en allant au laboratoire.</signature>
             </name>
           </signed>
         </closer>

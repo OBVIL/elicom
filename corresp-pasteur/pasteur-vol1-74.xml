@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Prague, vendredi." resp="">Prague, vendredi.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852" >Prague, vendredi.</date>
+          <placeName>Prague</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -60,11 +61,11 @@
         <p>J'ai reçu tout à l'heure du fils de M. Brosche le fabricant, jeune homme très aimable et tout français par les manières et le ton, de nouvelles adresses de fabriques d'acide tartrique que je visiterai encore. L'une près de Berlin, l'autre près de Magdebourg.</p>
         <p>Adieti. Tout à toi.</p>
         <p>L. PASTEUR.</p>
+        <p>Je pense que j'aurai enfin à Leipsick des nouvelles de toiElles ne m'auront jamais fait autant de plaisir.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Je pense que j'aurai enfin à Leipsick des nouvelles de toiElles ne m'auront jamais fait autant de plaisir.</signature>
             </name>
           </signed>
         </closer>

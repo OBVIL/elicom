@@ -26,8 +26,9 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Strasbourg, 26 décembre 1850." resp="">Strasbourg, 26 décembre 1850.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1850-12-26" > 26 décembre 1850.</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
           <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
@@ -57,16 +58,12 @@
         <p>Monsieur le Ministre, Il y a dix-huit mois j'ai été chargé inopinément du cours de chimie à l'École de pharmacie, lorsque M. Kopp fut nommé Représentant 1. Je n'ai pas cru devoir refuser cette tâche. Mais je souhaiterais beaucoup en être déchargé cette année afin de pouvoir me livrer entièrement à mon cours de la Faculté des sciences et à mes travaux personnels.</p>
         <p>J'ai le bonheur d'être entré dans des voies d'études toutes nouvelles, et tellement fécondes que mes projets de travaux se multiplient à chaque instant. Vous m'obligeriez donc infiniment, M. le Ministre, en bornant mes fonctions à la suppléance de M. Persoz à la Faculté des Sciences.</p>
         <p>J'ai l'honneur d'être, M. le Ministre, avec un profond respect Votre très humble et très dévoué serviteur, L. PASTEUR.</p>
-        <p>1851</p>
-        <p>Pasteur poursuit ses recherches sur la dissymétrie moléculaire. Il affirme que les groupements atomiques ont leurs inverses ossibles, c'est-à-dire qu'à une substance droite (dissymétrique a droite et corrélativement faisant dévier à droite le plan de la lumière polarisée) on peut trouver une substance gauche.</p>
-        <p>Naissance de Jean-Baptiste, second enfant de Pasteur (une fille, Jeanne, était née l'année précédente).</p>
-        <p>A CHAPPUIS.</p>
-        <p>Strasbourg, 15 janvier 1851.</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>■ M. Loir, ancien élève de l'École normale, professeur à 1 Ecole de pharmacie de Strasbourg, avec qui je travaille depuis le commencement de l'année scolaire, demande en Mariage ma belle-sœur, Mlle Amélie Laurent.</signature>
+              
             </name>
           </signed>
         </closer>

@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Metz, 15 août 1854." resp="">Metz, 15 août 1854.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-08-15" >15 août 1854.</date>
+          <placeName>Metz</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -62,7 +63,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>L. PASTEUR.</signature>
+              L. PASTEUR.
             </name>
           </signed>
         </closer>

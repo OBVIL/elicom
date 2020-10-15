@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Octobre 1852.] Mon cher papa," resp="">[Octobre 1852.] Mon cher papa,</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10">[Octobre 1852.]</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -50,11 +50,11 @@
       <div type="letter">
         <opener>
           <dateline>
-            <date>[Octobre 1852.] Mon cher papa,</date>
+            <date>[Octobre 1852.]</date>
           </dateline>
           <salute/>
         </opener>
-        <p>En arrivant à Strasbourg de mon voyage d'Allemagne que tu as blâmé, je crois à tort, j'ai reçu une lettre de Marie qui m'apprenait que nous restions à Strasbourg où je vais être- nommé titulaire d'ici à deux mois au plus. Marie me Ii même que dans huit jours au plus tard cela sera fini.</p>
+        <p>Mon cher papa,En arrivant à Strasbourg de mon voyage d'Allemagne que tu as blâmé, je crois à tort, j'ai reçu une lettre de Marie qui m'apprenait que nous restions à Strasbourg où je vais être- nommé titulaire d'ici à deux mois au plus. Marie me Ii même que dans huit jours au plus tard cela sera fini.</p>
         <p>Marie est arrivée ce matin avec nos deux enfants. Nous Sommes à l'hôtel; mais j'ai loué un logement et en trois Ou quatre jours nous serons installés.</p>
         <p>Je devais être chargé par arrêté ministériel d'aller en Allemagne (ce qui m'aurait fait repartir ces jours-ci) pour observer les principales universités de ce pays. Cette mÊSIon ne peut avoir lieu au moins en ce moment. J'en suis content. Ce voyage m'aurait fatigué et dérangé à la veille de la rentrée.</p>
         <p>M. Biot doit proposer à l'Académie dans la séance de lundi prochain de voter pour moi et afin que-je puisse</p>
@@ -65,15 +65,10 @@
         <p>Je t'embrasse de tout cœur et je souhaite que ces quelques lignes te trouvent en bonne santé. Je t'écrirai plus longuement dès que je serai installé et hors des embarras de notre emménagement.</p>
         <p>Donne de nos nouvelles 4à Virginie et embrasse-la pour nous avec ses enfants.</p>
         <p>L. PASTEUR.</p>
-        <p>A J.-B. DUMAS.</p>
-        <p>Strasbourg, 21 octobre 1852.</p>
-        <p>Monsieur, Je ne veux pas tarder d'un instant à vous exprimer n'a profonde reconnaissance pour la marque si honorable d'ln"- térêt que vous venez encore de me donner et que j'apprends par une lettre de M. Biot. A voir sa lettre, la manière dont ilfjne signale l'empressement que vous avez mis à appuyr la demande que vous voulez bien adresser à l'Académie en faveur de mes recherches sur l'acide racémique, j'estime que mon vénérable mentor 1 est presque aussi heureux que moi de votre bienveillante affection. Que de remerciements</p>
-        <p>ne vous devais-je pas déjà, Monsieur, pour la vive sollicitude que vous avez prise de notre position! Je vous avoue, Monsieur, que me trouvant tout à fait indigne de tant de bontés, j'éprouve toujours à un nouveau témoignage d'intérêt de votre part la crainte de ne pouvoir y répondre par les résultats de mon travail. Je n'aurais aucune ardeur à cultiver cette belle science qui a fait votre gloire que vous rn'en donneriez à l'excès. Je travaillerai autant qu'il me Sera humainement possible de le faire, et, que je réussisse Ou non à vous remercier de cette manière, soyez assuré, Monsieur, que dans tous les cas je n'oublierai jamais vos bienfaits et que je serai toujours avec le plus profond respect votre serviteur le plus dévoué et le plus reconnaissant.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>L. PASTEUR.</signature>
             </name>
           </signed>
         </closer>

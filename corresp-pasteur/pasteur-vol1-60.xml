@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Strasbourg, juin 1852.] Mon cher papa, Ainsi que je te l'ai dit dans ma dernière lettre 2 j'ai communiqué il y a peu de jours à M. Biot le résumé de mes recherches de cette année 3. M. Biot m'a répondu immédia&quot; tement la lettre que Marie va te transcrire 4. Tu y verras que le vénérable doyen de l'Institut est fort content de11101, ce qui m'a fait un vif plaisir." resp="">[Strasbourg, juin 1852.] Mon cher papa, Ainsi que je te l'ai dit dans ma dernière lettre 2 j'ai communiqué il y a peu de jours à M. Biot le résumé de mes recherches de cette année 3. M. Biot m'a répondu immédia" tement la lettre que Marie va te transcrire 4. Tu y verras que le vénérable doyen de l'Institut est fort content de11101, ce qui m'a fait un vif plaisir.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-06">juin 1852</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -50,27 +51,19 @@
       <div type="letter">
         <opener>
           <dateline>
-            <date>[Strasbourg, juin 1852.] Mon cher papa, Ainsi que je te l'ai dit dans ma dernière lettre 2 j'ai communiqué il y a peu de jours à M. Biot le résumé de mes recherches de cette année 3. M. Biot m'a répondu immédia" tement la lettre que Marie va te transcrire 4. Tu y verras que le vénérable doyen de l'Institut est fort content de11101, ce qui m'a fait un vif plaisir.</date>
+            <date>[Strasbourg, juin 1852.]</date>
           </dateline>
           <salute/>
         </opener>
-        <p>Mais tu remarqueras surtout la dernière phrase qui est une allusion évidente à M. Regnault et la cause de l'Ecole Polytechnique n'est peut-être pas encore perdue.</p>
+        <p> Mon cher papa, Ainsi que je te l'ai dit dans ma dernière lettre 2 j'ai communiqué il y a peu de jours à M. Biot le résumé de mes recherches de cette année 3. M. Biot m'a répondu immédia" tement la lettre que Marie va te transcrire 4. Tu y verras que le vénérable doyen de l'Institut est fort content de11101, ce qui m'a fait un vif plaisir.Mais tu remarqueras surtout la dernière phrase qui est une allusion évidente à M. Regnault et la cause de l'Ecole Polytechnique n'est peut-être pas encore perdue.</p>
         <p>Enfin tu y verras qu'il est nécessaire ou tout au moins convenable que je me rende à Paris du 15 juillet au 15 août.</p>
         <p>Je compte partir du 25 juillet au 3 ou 4 août. Arrange-toi donc pour venir avant le 15 juillet. Tu vois aussi par là que j'aurai nécessairement la croix au 15 août. J'en suis content Pour toi et pour Marie, car pour moi-même je n'y tiens que fort peu. En tout cas n'en parle à personne.</p>
-        <p>J.-B. BIOT A PASTEUR.</p>
-        <p>Auxerre, le 22 juin 1852.</p>
-        <p>Mon cher ami, Quoique je ne sois pas à Paris, je reçois exactement ce qu'on m'y adresse. On vient de me remettre tout à l'heure votre lettre du 19 courant et le résumé de vos recherches qui l'acCompagnait. Je ne veux pas tarder un moment à vous féliciter de tant de beaux résultats auxquels vous êtes parvenu. Ils ne Sont pas seulement du même ordre de valeur que ceux par lesquels vous avez commencé à vous signaler; mais, comme Cela est immanquable lorsqu'on suit avec continuité une nouvelle veine de recherches, ils étendent et généralisent au delà de toute espérance ceux que vous aviez déjà découverts, de manière à montrer que ces premiers-là, tout curieux qu'ils devaient paraître, n'étaient que des points isolés dans un Vaste champ scientifique jusqu'alors inaperçu. Quelqu'un a eu bien raison de dire de vous : « S'il continue d'explorer cette « mine avec l'habileté persévérante dont il a déjà fait preuve, (( nous pouvons déjà lui prédire que ce qu'il a déjà trouvé (( n'est que le commencement de ce qu'il trouvera. » Vous aVez pleinement justifié la prédiction. Je reste ici jusqu'au 12 juillet. J'irai ensuite à Paris où je séjournerai jusqu'au 15 août, après quoi je reviendrai à Auxerre jusqu'à la fin de Septembre ou les premiers jours d'octobre. Ces arrangements semblent déjà devoir me rendre présent à Paris quand vous</p>
-        <p>aurez la liberté d'y venir. Mais, dans tous les cas, rien ne m'empêchera de m'y transporter au besoin; et je veux y être quand vous présenterez vos nouveaux travaux à l'Académie. Vous y trouverez aussi M. de Senarmont, qui est en ce moment a Vichy, mais qui sera de retour alors, et même plus tôt. Ainsi vous ne manquerez pas de personnes disposées à vous bien recevoir. Vous ne me dites rien de votre santé et de celle de votre famille. Votre silence à cet égard me fait présumer que tout va bien.</p>
-        <p>Quant aux accidents qui proviennent, ou qui dépendent du caprice des hommes, ayez encore pendant quelque temps le courage de les dédaigner. Ne vous en troublez point, et poursuivez infatigablement votre grande carrière. La récompense est au bout, d'autant plus certaine et moins contestable, qu'elle aura été méritée par des titres plus éclatants. Le temps n'est pas loin où ceux qui peuvent vous servir avec efficacité trouveront, pour eux-mêmes, autant d'honneur à le faire que d'embarras et de honte à ne le faire pas.</p>
-        <p>Votre affectionné, J.-B. BIOT.</p>
-        <p>A CHAPPUIS.</p>
-        <p>[Strasbourg, juin ou juillet 1852.] Une partie des belles espérances que j'avais conçues, il y a quelques mois, dans mes recherches, se trouve réalisée.</p>
-        <p>J'ai pour cette année deux beaux mémoires1 dont leS résultats sont fort curieux et pleins d'avenir.</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Rien de nouveau sur l'affaire de l'Ecole polytechnique-</signature>
+              
             </name>
           </signed>
         </closer>

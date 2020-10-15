@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Lille, le 30 décembre 1854." resp="">Lille, le 30 décembre 1854.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-12-30">le 30 décembre 1854.</date>
+          <placeName>Lille</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE ET A SA SŒUR VIRGINIE. (...-...)">A SON PÈRE ET A SA SŒUR VIRGINIE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE ET A SA SŒUR VIRGINIE.</persName>
+          <persName key="Pasteur, Virginie (1818-1880) ">A SON PÈRE ET A SA SŒUR VIRGINIE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -65,12 +67,10 @@
         <p>Papa leur en donnera comme venant de nous et cela leur fera autant de plaisir. Je préfère mettre 60 fr. pour eux à la caisse d'épargne. Ils seront certainement plus heureux quand ils seront grands et qu'ils songeront à s'établir de trouver chacun une petite somme à la caisse d'épargne.</p>
         <p>Adieu. Je t'embrasse bien et de tout mon cœur.</p>
         <p>Ton frère, L. PASTEUR.</p>
-        <p>I855</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Pasteur organise avec ardeur la Faculté des sciences de Lille.</signature>
             </name>
           </signed>
         </closer>

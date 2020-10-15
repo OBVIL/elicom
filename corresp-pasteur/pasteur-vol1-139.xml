@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, 6 mars 1857." resp="">Paris, 6 mars 1857.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-06">6 mars 1857.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. - (...-...)">A Mme PASTEUR. -</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -62,11 +63,12 @@
         <p>L. PASTEUR.</p>
         <p>Je viens d'assister à une leçon de Rigault1 au Collège de France. La salle est trop petite. On se bat à la porte. Je</p>
         <p>suis sorti de là ravi et tout joyeux pour l'Université d'un pareil succès. On ne saurait rien y ajouter, rien y désirer.</p>
+        <p>Quel honneur pour l'Université! un professeur d'un lycée de Paris qui débute ainsi au Collège de France. Et puis ce qu'il y a de plus remarquable, c'est le but du cours, c'est le fond, les tendances. Je le préférerais à M. St Marc Girardin 1 que je n'ai entendu cependant que quand il était arrivé à l'apogée de son talent. Et Rigault débute!
+        </p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Quel honneur pour l'Université! un professeur d'un lycée de Paris qui débute ainsi au Collège de France. Et puis ce qu'il y a de plus remarquable, c'est le but du cours, c'est le fond, les tendances. Je le préférerais à M. St Marc Girardin 1 que je n'ai entendu cependant que quand il était arrivé à l'apogée de son talent. Et Rigault débute!</signature>
             </name>
           </signed>
         </closer>

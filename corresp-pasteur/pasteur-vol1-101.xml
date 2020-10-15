@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Probablement septembre 1854.] Mon cher papa, ..J'attendais toujours pour t'écrire qu'il y eût quelque nouvelle à te donner. Mais rien n'est encore fait, bien qu'il soit plus sûr que jamais que je vais à Lille, à tel point que j'ai déjà été voir le nouveau local et que je dois voir le ministre demain soir pour lui donner des renseignements sur ce que j'ai vu et sur les modifications que je demande aux distributions." resp="">[Probablement septembre 1854.] Mon cher papa, ..J'attendais toujours pour t'écrire qu'il y eût quelque nouvelle à te donner. Mais rien n'est encore fait, bien qu'il soit plus sûr que jamais que je vais à Lille, à tel point que j'ai déjà été voir le nouveau local et que je dois voir le ministre demain soir pour lui donner des renseignements sur ce que j'ai vu et sur les modifications que je demande aux distributions.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-09">[Probablement septembre 1854.]</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="[Probablement septembre 1854.] Mon cher papa, ..J'attendais toujours pour t'écrire qu'il y eût quelque nouvelle à te donner. Mais rien n'est encore fait, bien qu'il soit plus sûr que jamais que je vais à Lille, à tel point que j'ai déjà été voir le nouveau local et que je dois voir le ministre demain soir pour lui donner des renseignements sur ce que j'ai vu et sur les modifications que je demande aux distributions."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -50,11 +50,11 @@
       <div type="letter">
         <opener>
           <dateline>
-            <date>[Probablement septembre 1854.] Mon cher papa, ..J'attendais toujours pour t'écrire qu'il y eût quelque nouvelle à te donner. Mais rien n'est encore fait, bien qu'il soit plus sûr que jamais que je vais à Lille, à tel point que j'ai déjà été voir le nouveau local et que je dois voir le ministre demain soir pour lui donner des renseignements sur ce que j'ai vu et sur les modifications que je demande aux distributions.</date>
+            <date>[Probablement septembre 1854.]</date>
           </dateline>
           <salute/>
         </opener>
-        <p>Je t'écrirai après-demain jeudi pour te dire si le ministre m'a donné quelque ordre particulier.</p>
+        <p>Mon cher papa, ..J'attendais toujours pour t'écrire qu'il y eût quelque nouvelle à te donner. Mais rien n'est encore fait, bien qu'il soit plus sûr que jamais que je vais à Lille, à tel point que j'ai déjà été voir le nouveau local et que je dois voir le ministre demain soir pour lui donner des renseignements sur ce que j'ai vu et sur les modifications que je demande aux distributions.Je t'écrirai après-demain jeudi pour te dire si le ministre m'a donné quelque ordre particulier.</p>
         <p>Je te félicite bien de tes cures. Il faut avouer que tu as été bien inspiré de songer à la vraie cause de la maladie de la petite.</p>
         <p>Madeleine toujours redemandée par ses parents part ce soir après l'arrivée d'une autre bonne que nous allons recevoir d'Orléans ce matin même.</p>
         <p>Je ne sais si nous serons logés à Lille. J'ai fait une demande en règle au maire que j'ai vu plusieurs fois pendant mon séjour. Il m'a prévenu des objections nombreuses qui seraient faites. En tout cas c'est au conseil municipal de</p>
@@ -69,11 +69,12 @@
         <p>M. Zévort, professeur, rue Chanaleilles, nO 7.</p>
         <p>Cette fois il ne faudra pas payer le port à Arbois. On le paiera à Paris mais avertis-nous encore du jour de l'expédition, et autant que possible du jour de l'arrivée à Paris.</p>
         <p>Du reste je te remets ici un petit papier que tu donneras à M. Beschet et où il y a toutes les instructions précédentes.</p>
+        <p>Dans les 12 bouteilles de vin de diverses sortes pour la 2e caisse il pourra y avoir du vin extra tel que du vin de paille 1 en demi-bouteilles. Nota. — Prenons chacun l'habitude d'affranchir nos lettres à l'avenir 2. C'est inutile d'agir autrement. Nous en serons plus riches au bout de l'année.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Dans les 12 bouteilles de vin de diverses sortes pour la 2e caisse il pourra y avoir du vin extra tel que du vin de paille 1 en demi-bouteilles. Nota. — Prenons chacun l'habitude d'affranchir nos lettres à l'avenir 2. C'est inutile d'agir autrement. Nous en serons plus riches au bout de l'année.</signature>
+             
             </name>
           </signed>
         </closer>

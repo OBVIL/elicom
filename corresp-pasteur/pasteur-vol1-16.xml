@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Besançon, 29 novembre 1841." resp="">Besançon, 29 novembre 1841.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-11-29" >29 novembre 1841.</date>
+          <placeName>Besançon</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -59,16 +61,20 @@
         <p>Pour la dernière foire tu aurais bien pu me venir voir à une autre heure qu'à celle de la classe; tu devais bien penser qu'à huit heures nous entrons au cours. J'avais une lettre à te donner que j'écrivais à Virginie. Je l'ai fait Porter chez M. Jourdant, mais tu n'y es pas retourné et on ma renvoyé ma lettre seulement hier.</p>
         <p>Ecnvez-moi le plus tôt que vous pourrez.</p>
         <p>PASTEUR Louis.</p>
-        <p>Et pensez à mon cahier.</p>
-        <p>Ma chère Virginie, d Dans cette lettre dont je parle plus haut je te demandais e m'écrire quels morceaux de musique tu désirerais que J le acheté. Je voulais t'en envoyer pour la dernière foire, S ] avais peur de choisir des morceaux trop difficiles ou qUI ne conviendraient pas. Tu demanderas à Mlle AntOIe ce que je pourrais prendre. Elle t'indiquera ceux qu'elle voudra. Je les [trouverai] facilement à Besançon.</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>leu, ma chère Virginie, je [t'écrirai plus] au long une autre fois.</signature>
+             
             </name>
           </signed>
         </closer>
+        <postscript>
+          <p>Et pensez à mon cahier.</p>
+          <p>Ma chère Virginie, d Dans cette lettre dont je parle plus haut je te demandais e m'écrire quels morceaux de musique tu désirerais que J le acheté. Je voulais t'en envoyer pour la dernière foire, S ] avais peur de choisir des morceaux trop difficiles ou qUI ne conviendraient pas. Tu demanderas à Mlle AntOIe ce que je pourrais prendre. Elle t'indiquera ceux qu'elle voudra. Je les [trouverai] facilement à Besançon.</p>
+          <p>leu, ma chère Virginie, je [t'écrirai plus] au long une autre fois.</p>
+        </postscript>
       </div>
     </body>
   </text>

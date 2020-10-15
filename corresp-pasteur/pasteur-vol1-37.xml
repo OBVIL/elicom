@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, 27 février 1843." resp="">Paris, 27 février 1843.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1843-02-27" >27 février 1843.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -94,24 +96,13 @@
         <p>Monsieur, Un engagement décennal ne peut être valablement contracté envers l'Université qu'avant le tirage au sort pour le recrutement de l'année.</p>
         <p>- Cette formalité n'ayant pas été remplie en temps utile, je regrette de n'avoir aucun moyen de régulariser votre position et de vous dispenser du service militaire.</p>
         <p>Pasteur cependant fut exempté.</p>
-        <p>PASTEUR ÉLÈVE A L'ÉCOLE NORMALE 1843-1846</p>
-        <p>Pasteur lui reçu quatrième au concours d'admission à l'École normale. Les lettres à ses parents depuis la fin de 1843 jusqu'en 1848 n'ont pu être retrouvées. Mais par des lettres à des amis et par celles de son père on peut continuer à suivre pas à pas sa vie.</p>
-        <p>M. BARBET A PASTEUR.</p>
-        <p>Institution Barbet.</p>
-        <p>Paris, le 21 septembre 1843.</p>
-        <p>Mon cher Pasteur, à. J'accepte avec plaisir l'offre que vous me faites de donner * nia maison quelques-uns des moments de loisir que vous aUrez pendant votre séjour à l'École normale 1. Ce sera d'ailleurs le moyen d'avoir avec vous des rapports plus fréquents et plus intimes dont nous nous trouverons bien l'un et l'autre.</p>
-        <p>A CHAPPUIS.</p>
-        <p>Paris, 13 octobre 1843.</p>
-        <p>Je suis arrivé depuis mercredi soir à Paris; je suis logé e St Hyacinthe 27; mais dimanche je vais loger à l'Ecole.</p>
-        <p>M Vacherot m'a dit qu'on le pouvait faire : « je vous y Autorise. oui ».</p>
-        <p>Je t'attends, comme tu penses, avec impatience. Je crois qll aUX sciences il y aura, après le deuxième examen, des cpK angements et beaucoup dans la liste d'admissibilité.</p>
-        <p>OUr moi je ne souhaite que conserver mon rang.</p>
-        <p>de t. Pateur, pour remercier M. Barbet de l'avoir exempté de ses frais PenPnslon, lui avait proposé de donner des répétitions aux élèves de la SIon.</p>
+        
+       
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>J'aurai le jeudi, à la pension Barbet, une leçon de physique de deux heures (6 h. à 8.)</signature>
+              
             </name>
           </signed>
         </closer>

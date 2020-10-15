@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Août 1852.] Mon cher papa, Mon travail a été parfaitement accueilli. Je puis te dire même qu'il a fait sensation parmi les savants. On m'en a fait beaucoup de compliments, excepté quelques personnes qui trouvent probablement que je commence à compter un peu trop. Ainsi croirais-tu que le lendemain j'ai vu un chimiste, professeur à Paris, qui, je le savais d'autre part, était venu à la séance dans le seul but d'entendre ma lecture, croirais-tu que ce chimiste ne m'en a pas dit le plus petit mot. Alors je me suis rappelé ce que la veille même m'avait dit M. Biot : A l'Institut quand un confrère fait une communication et que personne ne lui en parle ultérieurement, c'est que ce qu'il a trouvé est bon. S'ils y reviennent et surtout par critique c'est que c'est très bonM. de Senarmont fera le rapport1. Il est en ce moment a Vichy. Les autres commissaires sont MM. Dumas et BiotQuant à ma position je ne sais toujours rien. M. Dumas a dit que ma position telle qu'elle est actuellement à Strasbourg allait cesser. Et il a parlé deux fois à M. Biot en termes tels que M. Biot est persuadé qu'il a en vue quelque chose pour moi mais qu'il ne peut encore en parler." resp="">[Août 1852.] Mon cher papa, Mon travail a été parfaitement accueilli. Je puis te dire même qu'il a fait sensation parmi les savants. On m'en a fait beaucoup de compliments, excepté quelques personnes qui trouvent probablement que je commence à compter un peu trop. Ainsi croirais-tu que le lendemain j'ai vu un chimiste, professeur à Paris, qui, je le savais d'autre part, était venu à la séance dans le seul but d'entendre ma lecture, croirais-tu que ce chimiste ne m'en a pas dit le plus petit mot. Alors je me suis rappelé ce que la veille même m'avait dit M. Biot : A l'Institut quand un confrère fait une communication et que personne ne lui en parle ultérieurement, c'est que ce qu'il a trouvé est bon. S'ils y reviennent et surtout par critique c'est que c'est très bonM. de Senarmont fera le rapport1. Il est en ce moment a Vichy. Les autres commissaires sont MM. Dumas et BiotQuant à ma position je ne sais toujours rien. M. Dumas a dit que ma position telle qu'elle est actuellement à Strasbourg allait cesser. Et il a parlé deux fois à M. Biot en termes tels que M. Biot est persuadé qu'il a en vue quelque chose pour moi mais qu'il ne peut encore en parler.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-08">août 1852</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +38,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="[Août 1852.] Mon cher papa, Mon travail a été parfaitement accueilli. Je puis te dire même qu'il a fait sensation parmi les savants. On m'en a fait beaucoup de compliments, excepté quelques personnes qui trouvent probablement que je commence à compter un peu trop. Ainsi croirais-tu que le lendemain j'ai vu un chimiste, professeur à Paris, qui, je le savais d'autre part, était venu à la séance dans le seul but d'entendre ma lecture, croirais-tu que ce chimiste ne m'en a pas dit le plus petit mot. Alors je me suis rappelé ce que la veille même m'avait dit M. Biot : A l'Institut quand un confrère fait une communication et que personne ne lui en parle ultérieurement, c'est que ce qu'il a trouvé est bon. S'ils y reviennent et surtout par critique c'est que c'est très bonM. de Senarmont fera le rapport1. Il est en ce moment a Vichy. Les autres commissaires sont MM. Dumas et BiotQuant à ma position je ne sais toujours rien. M. Dumas a dit que ma position telle qu'elle est actuellement à Strasbourg allait cesser. Et il a parlé deux fois à M. Biot en termes tels que M. Biot est persuadé qu'il a en vue quelque chose pour moi mais qu'il ne peut encore en parler."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -64,7 +63,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>L. PASTEUR.</signature>
+              L. PASTEUR.
             </name>
           </signed>
         </closer>

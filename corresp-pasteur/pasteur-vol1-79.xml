@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[9 Octobre 1852.] Ma chère Marie, p Tu me crois donc bien absurde. Comment peux-tu supbfser qu j'aie commis l'imprudence de quitter Strasbourg en Persuadé que j'étais et que je devais être que tu" resp="">[9 Octobre 1852.] Ma chère Marie, p Tu me crois donc bien absurde. Comment peux-tu supbfser qu j'aie commis l'imprudence de quitter Strasbourg en Persuadé que j'étais et que je devais être que tu</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10-09" >[9 Octobre 1852.]</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +38,7 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="[9 Octobre 1852.] Ma chère Marie, p Tu me crois donc bien absurde. Comment peux-tu supbfser qu j'aie commis l'imprudence de quitter Strasbourg en Persuadé que j'étais et que je devais être que tu"/>
+        
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -50,11 +50,11 @@
       <div type="letter">
         <opener>
           <dateline>
-            <date>[9 Octobre 1852.] Ma chère Marie, p Tu me crois donc bien absurde. Comment peux-tu supbfser qu j'aie commis l'imprudence de quitter Strasbourg en Persuadé que j'étais et que je devais être que tu</date>
+            <date>[9 Octobre 1852.]</date>
           </dateline>
           <salute/>
         </opener>
-        <p>!. Belle-mère de Pasteur.</p>
+        <p>  Ma chère Marie, p Tu me crois donc bien absurde. Comment peux-tu supbfser qu j'aie commis l'imprudence de quitter Strasbourg en Persuadé que j'étais et que je devais être que tuBelle-mère de Pasteur.</p>
         <p>2 Tl de Pasteur.</p>
         <p>s agit probablement de ses petits-enfants.</p>
         <p>serais ici ce matin. Car enfin que me disait ta lettre d'hier: que tu étais prête à partir si je le trouvais convenable. Or je t'y invite par ma lettre. Il fallait donc partir.</p>
@@ -76,7 +76,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>L. PASTEUR.</signature>
+           L. PASTEUR.
             </name>
           </signed>
         </closer>

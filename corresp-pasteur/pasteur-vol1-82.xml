@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="- 31 décembre 1852." resp="">- 31 décembre 1852.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-12-31" >31 décembre 1852.</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -65,18 +65,10 @@
         <p>Je n'envoie à Virginie pour ses enfants que de petites robes pareilles à celles de Jeanne et de Baptiste et des bonbons. Mais j'ai mis en outre pour ses deux enfants une petite somme à la caisse d'épargne.</p>
         <p>1853</p>
         <p>Pasteur transforme l'acide tartrique en acide racémique. — Il est nommé Chevalier de l'ordre impérial de la Légion d'Honneur. — Naissance d'un 3e enfant, Cécile — Pasteur se laisse entraîner par son imagination à des recherches sur les influences dissymétriques d'ordre cosmique : « Il faut être un peu fou, écrit-il à son père, pour entreprendre ce que j'ai entrepris. »</p>
-        <p>A M. KESTNER.</p>
-        <p>Strasbourg, 9 février 1853.</p>
-        <p>Monsieur, J'ai attendu pour répondre à votre dernière et aimable lettre d'avoir reçu des exemplaires extraits des comptes rendus de l'Académie relatifs à nos communications sur l'acide racémique Le lendemain du jour où vous avez eu la bonté de me faire part de vos importants résultats sur les tartres de Saintonge et de Toscane, M. Biot m'a écrit de lui adresser au plus tôt un récit de mon voyage en Allemagne.</p>
-        <p>C'est aussi ce même jour, comme vous le verrez dans ma note, que M. Redtenbacher, professeur à Vienne, m'a donné aeis que M. Seybel avait obtenu tout récemment plusieurs kilogr. d'acide racémique.</p>
-        <p>Vous me ferez infiniment plaisir en me donnant des nouvelles de vos expériences sur les tartres de Montpellier et de Châlons s/S; et soyez assuré du vif intérêt que l'Académie - prendra à toutes vos communications. Car M. Biot m'a dit tout le plaisir que chacun avait eu en revoyant votre curieux acide. Malheureusement M. Arago 1 a laissé glisser dans le compte-rendu une faute d'impression fâcheuse. Mon nom est substitué par erreur au vôtre à la fin de ma note p. 10.</p>
-        <p>Vous recevrez en même temps cette lettre et un exemplaire des notes [de l'Académie des sciences]. J'en adresse un également à M. Gundelach. Si vous en désirez d'autres, je vous les enverrai avec plaisir.</p>
-        <p>Recevez, Monsieur, je vous prie, les sentiments de respectueuse estime de Votre très humble serviteur, , L. PASTEUR. *</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>1</signature>
             </name>
           </signed>
         </closer>

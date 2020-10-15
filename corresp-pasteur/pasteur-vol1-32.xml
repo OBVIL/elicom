@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Besançon, 17 août 1842." resp="">Besançon, 17 août 1842.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-08-17" >17 août 1842.</date>
+          <placeName>Besançon</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -68,16 +70,14 @@
         <p>La distribution des prix se fait à Besançon le 22, lundi prochain. Chappuis est content de son examen de l'Ecole normale; il arrivera à la fin de ce mois. Vous saurez alors si je suis ou non reçu admissible. D'après cela je verrai si je dois aller ou non à Dijon pour l'examen de l'Ecole poly" technique.</p>
         <p>Adieu, je vous embrasse.</p>
         <p>L. PASTEUR.</p>
-        <p>Joséphine ne m'a pas écrit depuis un temps infini. Dites" lui de le faire sitôt qu'elle sera de retour. Vous savez que je reste ici jusqu'au mois d'octobre.</p>
-        <p>PASTEUR, A PARIS, CANDIDAT A L'ÉCOLE NORMALE 1842-1843</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Pasteur, parti pour Paris avec son ami Chappuis, est à la pension Barbet, préparant le concours de l'Ecole normale. Il suit les cours du collège Saint-Louis et va à la Sorbonne entendre les leçons de chimie de J.-B. Dumas.</signature>
             </name>
           </signed>
         </closer>
+        <postscript><p>Joséphine ne m'a pas écrit depuis un temps infini. Dites" lui de le faire sitôt qu'elle sera de retour. Vous savez que je reste ici jusqu'au mois d'octobre.</p></postscript>
       </div>
     </body>
   </text>

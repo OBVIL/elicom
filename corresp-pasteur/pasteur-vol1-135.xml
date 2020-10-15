@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Lille, 19 novembre 1856." resp="">Lille, 19 novembre 1856.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-11-19">19 novembre 1856.</date>
+          <placeName>Lille</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="Au MINISTRE DE L'INSTITUTION PUBLIQUE ET DES CULTES (...-...)">Au MINISTRE DE L'INSTITUTION PUBLIQUE ET DES CULTES</persName>
+          <persName key="">Au MINISTRE DE L'INSTITUTION PUBLIQUE ET DES CULTES</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -59,40 +60,10 @@
         <p>Je suis avec le plus profond respect Monsieur le Ministre de Votre Excellence le très humble et très dévoué serviteur</p>
         <p>L. PASTEUR, Doyen et professeur à la Faculté des Sciences de Lille 1.</p>
         <p>s</p>
-        <p>A M. LE PRÉSIDENT DE L'ACADÉMIE DES SCIENCES.</p>
-        <p>Lille, 20 novembre 1856.</p>
-        <p>Monsieur le Président, J'ai l'honneur de prier l'Académie de vouloir bien me comprendre parmi les candidats à la place vacante dans la Section de Minéralogie et de Géologie.</p>
-        <p>Je suis avec le plus profond respect, Monsieur le Président, votre très humble et très dévoué serviteur.</p>
-        <p>L. PASTEUR, Doyen et professeur de la Faculté des Sciences de Lille 1.</p>
-        <p>A J.-B. BIOT.</p>
-        <p>Lille, le 26 novembre 1856.</p>
-        <p>Monsieur, Je viens de faire remettre franco à la poste et à votre adresse un paquet contenant la notice de mes travaux 2. Je vous serais fort obligé de l'examiner et de me donner votre avis sur le fond comme sur la forme. Dans le cas où vous l'accepteriez sans qu'il y ait à la revoir, ce que je n'espère pas, et afin de gagner du temps, je vous prierais de la faire porter chez M. Bailleul à qui je vais écrire immédiatement pour lui demander qu'il veuille bien la faire imprimer le</p>
-        <p>plus vite possible. Il est je crois à désirer que cette notice soit distribuée avant le lundi 8 décembre. Si M. Bailleul veut bien, elle pourra l'être le samedi 6 décembre ou au plus tard le dimanche 7.</p>
-        <p>Mon sort est dans cette notice. Je sens que toutes les considérations de résidence, d'âge, de relations, de position. me sont défavorables. Je ne puis compter que sur la discussion des titres et l'appui des hommes éminents que vous avez entraînés à votre suite. En rédigeant cette notice j'ai eu plusieurs fois une très grande confiance dans le succès de la cause que vous avez bien voulu prendre en mains.</p>
-        <p>Présentés ainsi dans leur ensemble et dans leur suite, les résultats de mes recherches m'ont paru d'une originalité et d'une nouveauté dont je n'avais pas eu encore aussi bien la conscience.</p>
-        <p>Mme PASTEUR A SON BEAU-PÈRE.</p>
-        <p>Lille, 10 décembre 1856.</p>
-        <p>Mon cher père, Il nous tarde de savoir où vous en êtes avec votre carrière 1 D'après votre dernière lettre nous espérions que vous en auriez bientôt de bons résultats à nous annoncer. Quant à nous, nous vivons toujours fort tranquillement en attendant.</p>
-        <p>l'issue de notre grande affaire. Nous ne savons si nous devons désirer beaucoup sa réussite car si elle a lieu, il faudra absolument quitter Lille, où nous sommes si bien, pour aller à Paris, avec ou sans place, tout d'abord. Cette perspective n'est pas fort attrayante, mais il n'y avait pas à hésiter en présence de l'honneur de cette candidature et Louis a dû avant de la poser devant l'Académie faire accepter sa démission au ministre, dans le cas où il serait élu. Voilà où nous en sommes.</p>
-        <p>Nous avons reçu ces jours derniers le prix de la Société</p>
-        <p>Royale de Londres 1. On nous a envoyé 1750 francs sur un banquier de Lille, en nous annonçant que la médaille nous serait remise par une personne qui s'en chargerait en venant en France. Cette bonne aubaine nous met au niveau de nos affaires, au-dessus même, mais nous hésitons encore à placer d'une manière ou d'une autre quelque valeur, pensant que nous pouvons avoir besoin de toutes nos ressources dans un temps peu éloigné. Le jardin de M. de Broissia2 est-il toujours à vendre?</p>
-        <p>Nous allons tous bien, père, mère et enfants.</p>
-        <p>Louis continue à travailler avec ardeur. Il est plongé maintenant dans le jus de betteraves jusqu'au cou. Il passe ses journées dans une fabrique d'alcool 3. Il vous a dit sans doute qu'il ne faisait plus qu'une leçon par semaine, ce qui lui donne beaucoup de temps, il en use et abuse, je vous assure.</p>
-        <p>Louis a dû aussi pour sa candidature faire une notice de ses travaux pour être distribuée aux membres de l'Académie.</p>
-        <p>Voici ce que M. Biot lui a écrit hier à propos de cela : « Votre rédaction est excellente et M. de Senarmont dit qu'il n'y a pas un mot à y ajouter. Quelque résultat que puisse amener le hasard du scrutin, le résumé concentré de vos travaux constitue un ensemble très fort, et qui vous fera beaucoup d'honneur. J'ai pensé que vous seriez bien aise de connaître cette expression bien arrêtée de nos sentiments, qui seront sans doute partagés par tous ceux qui s'intéressent réellement à la science. » Vous voyez, mon cher père, qu'il faut que ce soit bien beau pour que M. Biot se prononce de cette manière.</p>
-        <p>Nous en sommes enchantés.</p>
-        <p>Adieu, mon cher père, nous vous embrassons bien tendrement avec Virginie, son mari et ses enfants.</p>
-        <p>Votre fille bien dévouée, MARIE.</p>
-        <p>Je reçois votre lettre au moment où j'allais mettre celle-ci à la poste. Louis ne vous a-t-il pas écrit pendant son dernier voyage à Paris il y a 15 jours? Je n'en sais rien. Il est si occupé de ses travaux qu'il ne pense pas assez à ce qu'il a à faire. En ce moment il est encore à sa fabrique. Il reviendra à la nuit.</p>
-        <p>A CHAPPUIS..</p>
-        <p>Lille, 23 décembre 1856.</p>
-        <p>J'attends pour aller à Paris faire les visites d'usage un avis de l'un des membres de l'Académie qui ont bien voulu me mettre en avant comme candidat. Je ne fais rien et ne puis rien faire pour moi-même à cette distance. Serai-je invité à partir avant le Ier janvier? Je l'ignore. Pourtant je ne le crois pas. Je ne pense pas que cette affaire soit réglée avant la seconde quinzaine de janvier. Si tu en apprenais quelques bavardages, tu me ferais plaisir de m'en écrire. Je sais les nouvelles graves et de quelque portée pour le résultat final, mais je ne sais rien des cancans.</p>
-        <p>Je t'enverrai prochainement un exemplaire de la notice de mes travaux, résumé succinct que chaque candidat doit adresser à tous les membres de l'Académie avant l'élection.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Il faut que tu saches bien que je n'ai eu de cette candidature aucune idée avant que l'on me prie de venir à Paris pour m'en entretenir avec quelques personnes qui me portent intérêt. Je n'aurais point osé me mettre sur les rangs pour un tel honneur et encore moins le solliciter dans une direction d'études qui n'est pas la mienne propre. Mais du moment où plusieurs membres très éminents m'engageaient à me présenter et y voyaient pour moi des chances de succès, je n'ai pas hésité un instant, et je me suis mis immédiatement en demeure de satisfaire à la question de résidence.</signature>
             </name>
           </signed>
         </closer>

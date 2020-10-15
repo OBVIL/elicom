@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Lille, le 29 mars 1855." resp="">Lille, le 29 mars 1855.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-03-29"> le 29 mars 1855.</date>
+          <placeName>Lille</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="Au RECTEUR DE L'ACADÉMIE DE DOUAI. (...-...)">Au RECTEUR DE L'ACADÉMIE DE DOUAI.</persName>
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE DOUAI.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -70,7 +71,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>Le doyen de la Faculté des sciences, Louis PASTEUR.</signature>
+              Le doyen de la Faculté des sciences, Louis PASTEUR.
             </name>
           </signed>
         </closer>

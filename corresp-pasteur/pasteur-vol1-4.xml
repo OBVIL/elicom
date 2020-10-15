@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Besançon, let novembre 1840." resp="">Besançon, let novembre 1840.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-11-01" > 1er novembre 1840.</date>
+          <placeName>Besançon</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -73,15 +75,19 @@
         <p>Qu'il mette aussi deux boutons pour les bretelles. Quand papa viendra il m'apportera les bretelles que j'ai achetées et qui sont dans le buffet de ma chambre, sur un petit rayon. Si vous le voulez, vous mettrez dans ma boîte des noisettes-umais ça n'est nullement nécessaire.</p>
         <p>Je vous embrasse. Adieu.</p>
         <p>PASTEUR Louis.</p>
-        <p>Vous m'enverrez, sitôt que vous le pourrez, mes châssis.</p>
+       
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Vous en ferez faire encore un de plus. Il y en aura quatre de la même grandeur que les trois autres. Je les ferai coller chez M. Renault. Ça vaudra mieux. Envoyez-les moi au plus tôt. Nous sortirons bientôt, je crois.</signature>
             </name>
           </signed>
         </closer>
+        <postscript>
+          <p>Vous m'enverrez, sitôt que vous le pourrez, mes châssis.</p>
+          <p>              Vous en ferez faire encore un de plus. Il y en aura quatre de la même grandeur que les trois autres. Je les ferai coller chez M. Renault. Ça vaudra mieux. Envoyez-les moi au plus tôt. Nous sortirons bientôt, je crois.
+          </p>
+        </postscript>
       </div>
     </body>
   </text>

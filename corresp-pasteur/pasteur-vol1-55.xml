@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Strasbourg, 8 novembre 1851.] Ma chère Virginie, Voilà encore un nouvèau chagrin dont notre cher père et nous n'avions guère besoin. Emilie est si forte, si robuste que je pense qu'elle se relèvera facilement de cet accident, Falgré la gravité que sa maladie paraît avoir d'après la ettre que je viens de recevoir de papa." resp="">[Strasbourg, 8 novembre 1851.] Ma chère Virginie, Voilà encore un nouvèau chagrin dont notre cher père et nous n'avions guère besoin. Emilie est si forte, si robuste que je pense qu'elle se relèvera facilement de cet accident, Falgré la gravité que sa maladie paraît avoir d'après la ettre que je viens de recevoir de papa.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1851-11-08">8 novembre 1851</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SA SŒUR VIRGINIE. (...-...)">A SA SŒUR VIRGINIE.</persName>
+          <persName key="Pasteur, Virginie(...-...)">A SA SŒUR VIRGINIE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +39,7 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="[Strasbourg, 8 novembre 1851.] Ma chère Virginie, Voilà encore un nouvèau chagrin dont notre cher père et nous n'avions guère besoin. Emilie est si forte, si robuste que je pense qu'elle se relèvera facilement de cet accident, Falgré la gravité que sa maladie paraît avoir d'après la ettre que je viens de recevoir de papa."/>
+        
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -63,7 +64,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>L. PASTEUR.</signature>
+              L. PASTEUR.
             </name>
           </signed>
         </closer>

@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Strasbourg, Ier octobre 1853.] Mon cher papa, Marie est accouchée ce matin d'une fille 2. Toutes deux, mère et enfant, se portent très bien à" resp="">[Strasbourg, Ier octobre 1853.] Mon cher papa, Marie est accouchée ce matin d'une fille 2. Toutes deux, mère et enfant, se portent très bien à</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-10-01">Ier octobre 1853</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="[Strasbourg, Ier octobre 1853.] Mon cher papa, Marie est accouchée ce matin d'une fille 2. Toutes deux, mère et enfant, se portent très bien à"/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -57,20 +57,11 @@
         <p>l'heure où je t'écris. Marie a beaucoup souffert, mais peu de temps.</p>
         <p>Adieu. Je t'embrasse de bon cœur ainsi que Virginie.</p>
         <p>L. PASTEUR.</p>
-        <p>Mme PASTEUR A SON BEAU-PÈRE.</p>
-        <p>Strasbourg, 10 novembre 1853.</p>
-        <p>Mon cher père, Nous avons reçu votre dernière lettre il y a huit jours et nous voyons avec plaisir que malgré tous vos accidents vous vous portez tous bien. Nous espérons aussi que vos yeux dont vous ne nous parlez pas ne vous font plus souffrir. Ici nous allons bien maintenant, mais la semaine dernière j'ai eu, à la suite d'une imprudence dont je ne me souviens nullement, un grand mal au sein qui m'a occasionné une violente fièvre accompagnée d'un mal de tête affreux. J'ai gardé le lit pendant 24 heures et dès le lendemain j'étais beaucoup mieux.</p>
-        <p>Aujourd'hui il n'y paraîtrait plus si je n'avais la figure remplie de boutons. Nos enfants vont parfaitement mais notre petit Baptiste devient de plus en plus sale, ce qui contrarie surtout son père qui en prend soin la nuit. Nous n'avons pas encore pu l'accoutumer à ne pas pisser au lit et de ce temps-ci c'est un grave inconvénient parce qu'il se refroidit et qu'ensuite il tousse. Nous n'épargnons pas cependant les corrections, niais rien n'y fait.</p>
-        <p>Louis vous a dit combien nous avons trouvé bon votre dernier vin. Nous n'en avons pas encore eu d'aussi bon et je vous en remercie beaucoup. Aussitôt que je pourrai sans danger m'occuper de mon ménage, nous le ferons goûter aux amis Bertin et Chappuis.</p>
-        <p>Maintenant j'ai recours à vous pour me faire faire une commission à Arbois. Nous payons ici le bon fromage de Gruyère I franc la livre et comme nous en faisons une grande consommation je trouve que c'est un peu cher. Je voudrais donc que Vous ayez la complaisance de m'en faire acheter un tout entier</p>
-        <p>d'une cinquantaine de livres. Pour nous seuls cette provision serait peut-être un peu grande, mais je compte partager avec maman et Mme Loir. Je crois d'après ce que vous m'avez dit que la livre ne doit pas coûter plus de 55 à 60 centimes à Arbois. Ajoutez le port : rendu à Strasbourg ce fromage ne nous reviendra pas à plus de 75 c.</p>
-        <p>Louis a recommencé ses leçons depuis mardi dernier. Il va bien, mais il se préoccupe toujours un peu trop de ses expériences. Vous savez que celles qu'il entreprend cette année doivent nous donner si elles réussissent un Newton ou un Galilée 1.</p>
-        <p>Adieu, mon cher père, je vous embrasse de tout mon cœur ainsi que toute la famille et je vous souhaite à tous une bonne santé.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>MARIE.</signature>
+              
             </name>
           </signed>
         </closer>

@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Prague, le vendredi IER octobre.." resp="">Prague, le vendredi IER octobre..</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-10-01" >le vendredi IER octobre.</date>
+          <placeName>Prague</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="Prague, le vendredi IER octobre.."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -65,11 +65,11 @@
         <p>Je serai à Leipsick demain. — A demain seulement donc.</p>
         <p>Adieu, ma chère Marie. Je t'embrasse avec nos chers enfants de tout cœur ainsi que la famille entière.</p>
         <p>L. PASTEUR.</p>
+        <p>J'ai appris à Vienne la suppression de l'Institut de Versailles.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>J'ai appris à Vienne la suppression de l'Institut de Versailles.</signature>
             </name>
           </signed>
         </closer>

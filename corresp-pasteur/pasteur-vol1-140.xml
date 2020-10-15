@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, 7 mars 1857." resp="">Paris, 7 mars 1857.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-07">7 mars 1857</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -59,11 +60,11 @@
         <p>Je vous embrasse bien.</p>
         <p>Tout à toi.</p>
         <p>L. PASTEUR.</p>
+        <p>Depuis lundi dernier il y a eu lieu de concevoir de nouveau quelque espoir. Je t'écrirai mardi ou mercredi.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Depuis lundi dernier il y a eu lieu de concevoir de nouveau quelque espoir. Je t'écrirai mardi ou mercredi.</signature>
             </name>
           </signed>
         </closer>

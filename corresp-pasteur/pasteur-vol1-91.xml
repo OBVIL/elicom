@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Fin décembre 1853.] Mon cher papa, Comme je suis tout à fait de ton avis lorsque tu vantes le prix d'une bonne santé je suis très heureux en t'adressant aujourd'hui mes vœux de bonne année de songer que dans nos deux familles tout le monde se porte très bien." resp="">[Fin décembre 1853.] Mon cher papa, Comme je suis tout à fait de ton avis lorsque tu vantes le prix d'une bonne santé je suis très heureux en t'adressant aujourd'hui mes vœux de bonne année de songer que dans nos deux familles tout le monde se porte très bien.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-12">[Fin décembre 1853.]</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -62,7 +62,6 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>1854 Pasteur est nommé professeur de chimie à la nouvelle Faculté des sciences de Lille et doyen de cette Faculté.</signature>
             </name>
           </signed>
         </closer>

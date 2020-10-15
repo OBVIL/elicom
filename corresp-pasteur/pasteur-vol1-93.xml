@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Probablement mars 1854.] Mon cher papa, Nous avons reçu les deux lettres que tu nous as adressées à Paris. Je ne m'explique pas les craintes que tu as d'un" resp="">[Probablement mars 1854.] Mon cher papa, Nous avons reçu les deux lettres que tu nous as adressées à Paris. Je ne m'explique pas les craintes que tu as d'un</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-03">[Probablement mars 1854.]</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -61,12 +61,11 @@
         <p>Nous ne t'écrirons pas tous les deux jours. Ce serait inutile. Mais je t'écrirai, moi ou Marie, au moins une fois par semaine.</p>
         <p>Adieu. Embrasse bien Virginie et ses enfants pour nous.</p>
         <p>L. PASTEUR.</p>
-        <p>Marie t'écrira la prochaine fois. Elle est encore si mal organisée dans ce logement provisoire qu'elle est toujours</p>
+        <p>Marie t'écrira la prochaine fois. Elle est encore si mal organisée dans ce logement provisoire qu'elle est toujours occupée à ranger et à soigner les petits enfants jusque vers une heure après midi au moins.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>occupée à ranger et à soigner les petits enfants jusque vers une heure après midi au moins.</signature>
             </name>
           </signed>
         </closer>

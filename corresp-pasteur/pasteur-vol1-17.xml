@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Besançon, le 18 décembre 1841." resp="">Besançon, le 18 décembre 1841.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-12-18">le 18 décembre 1841.</date>
+          <placeName>Besançon</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -69,7 +71,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>1842 Pasteur prépare l'École normale et l'École polytechnique. Il hésite entre les deux Écoles. Le 13 août 1842 il passe l'examen du baccalauréat ès sciences mathématiques. Le 26 août il est admissible à l'École normale, mais son rang ne le satisfaisant pas, il donne sa démission.</signature>
+              
             </name>
           </signed>
         </closer>

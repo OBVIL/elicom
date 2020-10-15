@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Freiberg, le 23 septembre 1852." resp="">Freiberg, le 23 septembre 1852.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-23" >23 septembre 1852.</date>
+          <placeName>Freiberg</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -79,12 +80,11 @@
         <p>L. PASTEUR.</p>
         <p>Embrasse pour moi toute la famille et dis à Mme Laurent qUe le petit calepin m'est très souvent utile.</p>
         <p>Je t'écrirai à temps pour que tu me dises soit à Marseille, OIt à Strasbourg si notre position est arrêtée et ce que je dois faire : m'arrêter à Dijon, à Strasbourg ou aller .oit à Paris. Adieu encore. Je me porte bien. Dis bien à Pl' Biot la manière dont j'ai été reçu. Cela lui fera grand Plaisir et dis-lui que j'ai vu déjà MM. Erdmann, Hankel, aumann à Leipsick, Breithaupt, Reich à Freiberg. Je</p>
-        <p>n'ai trouvé aucun Français à Freiberg. M. Le Play, ingénieur des mines de l'Ecole de Paris 1, avait quitté Freiberg la veille de mon arrivée.</p>
+        <p>n'ai trouvé aucun Français à Freiberg. M. Le Play, ingénieur des mines de l'Ecole de Paris 1, avait quitté Freiberg la veille de mon arrivée. M. Erdmann m'adressera à Venise hôtel Danieli les lettres qu'il recevra pour moi jusqu'au 26 septembre. Il conservera les autres jusqu'à nouvel ordre.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>M. Erdmann m'adressera à Venise hôtel Danieli les lettres qu'il recevra pour moi jusqu'au 26 septembre. Il conservera les autres jusqu'à nouvel ordre.</signature>
             </name>
           </signed>
         </closer>

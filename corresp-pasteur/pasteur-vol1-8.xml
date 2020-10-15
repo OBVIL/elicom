@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Besançon, 20 janvier 1841." resp="">Besançon, 20 janvier 1841.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1841-01-20">20 janvier 1841.</date>
+          <placeName>Besançon</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -73,16 +75,18 @@
         <p>x Eh bien, tout en riant, je vous dirai, à toi, Virginie, et a toi, Joséphine, que vous devriez, comme je vous le répète continuellement, vous exercer à écrire et à écrire beaucoup; et pour cela un moyen très facile serait de m'écrire vousInemes et longuement. Que le papa vous dise ce qu'il a à apprendre et qu'en veillant, le soir, vous me l'écriviez.</p>
         <p>Que craignez-vous? Quand même vous feriez des fautes : je ne veux pas vous en faire un crime : au moins je pourrais Vous donner quelques conseils là-dessus, vous reprendre, Vous aider. Sans cela que voulez-vous que je fasse? Ainsi il vous faut nécessairement m'écrire; ça n'empêchera pas Joséphine de m'envoyer l'œil qu'elle m'a promis 1. Adieu, mes sœurs et mes chers parens. Je vous embrasse tous, aInSI que ma chère Emilie que je remercie aussi de ses lettres : si elles ne sont pas très expressives et pas très intelligibles, au moins sont-elles plus longues que les vôtres; SI 1 exécution n'y est pas, l'intention y est et c'est beaucoup. Le bonjour à ma grand-maman.</p>
         <p>PASTEUR.</p>
-        <p>p.-S. — Je vais vous apprendre une nouvelle encore secrète, mais qui quand elle se sera répandue causera le Plus grand scandale; c'est l'expulsion (qui aura lieu bienot) de notre aumônier. Cet homme, connu depuis très longtemps par tous les élèves internes du collège, ne l'était vilement dans la ville, son talent de prédicateur, son hypoft. sie principalement le faisaient admettre dans les meilUres familles de Besançon. Accablé de dettes, tenant dans le collège une conduite infâme, son froc couvrait tout : vous oudriez peut-être savoir quels étaient donc les crimes, car 1 taut les appeler ainsi, de cet homme; mais malheureuseent ce sont des choses qu'on n'ose dire. Plus tard vous</p>
-        <p>les saurez sans doute, car ça fera du bruit. J'ai toujours été persuadé que je ne sortirais pas du collège sans voir cet homme chassé honteusement. C'est malheureux, bien malheureux que la religion ait de pareils ministres, et c'est peut-être plus malheureux encore qu'un pareil homme ait été à la tête d'un collège pendant dix ans. Tenez cela secret : tout n'est pas encore connu. Quant à moi soyez sûrs que je ne divulguerai rien. Vous entendrez dire qu'il est sorti du collège parce que son talent de prédicateur lui a donné l'intention de se faire missionnaire.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>L. P.</signature>
+              L. P.
             </name>
           </signed>
         </closer>
+        <postscript>
+          <p>p.-S. — Je vais vous apprendre une nouvelle encore secrète, mais qui quand elle se sera répandue causera le Plus grand scandale; c'est l'expulsion (qui aura lieu bienot) de notre aumônier. Cet homme, connu depuis très longtemps par tous les élèves internes du collège, ne l'était vilement dans la ville, son talent de prédicateur, son hypoft. sie principalement le faisaient admettre dans les meilUres familles de Besançon. Accablé de dettes, tenant dans le collège une conduite infâme, son froc couvrait tout : vous oudriez peut-être savoir quels étaient donc les crimes, car 1 taut les appeler ainsi, de cet homme; mais malheureuseent ce sont des choses qu'on n'ose dire. Plus tard vous</p>
+        <p>les saurez sans doute, car ça fera du bruit. J'ai toujours été persuadé que je ne sortirais pas du collège sans voir cet homme chassé honteusement. C'est malheureux, bien malheureux que la religion ait de pareils ministres, et c'est peut-être plus malheureux encore qu'un pareil homme ait été à la tête d'un collège pendant dix ans. Tenez cela secret : tout n'est pas encore connu. Quant à moi soyez sûrs que je ne divulguerai rien. Vous entendrez dire qu'il est sorti du collège parce que son talent de prédicateur lui a donné l'intention de se faire missionnaire.</p>
+        </postscript>
       </div>
     </body>
   </text>

@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Besançon, 26 janvier 1840. 1 Mes chers parens, I Je voulais vous écrire plus tôt pour vous demander si vous auriez désiré que f apprisse la musique vocale avec, les autres élèves. C'est un cours gratuit et où tous les élèves doivent aller. Mais comme j'ai pensé que ça me ferait perdre du temps j'ai mieux aimé n'y pas aller; M. le Proviseur me l'a permis ainsi qu'à tous les pensionnaires philosophes." resp="">Besançon, 26 janvier 1840. 1 Mes chers parens, I Je voulais vous écrire plus tôt pour vous demander si vous auriez désiré que f apprisse la musique vocale avec, les autres élèves. C'est un cours gratuit et où tous les élèves doivent aller. Mais comme j'ai pensé que ça me ferait perdre du temps j'ai mieux aimé n'y pas aller; M. le Proviseur me l'a permis ainsi qu'à tous les pensionnaires philosophes.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1840-01-26">26 janvier 1840</date>
+          <placeName>Besançon</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +40,7 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="Besançon, 26 janvier 1840. 1 Mes chers parens, I Je voulais vous écrire plus tôt pour vous demander si vous auriez désiré que f apprisse la musique vocale avec, les autres élèves. C'est un cours gratuit et où tous les élèves doivent aller. Mais comme j'ai pensé que ça me ferait perdre du temps j'ai mieux aimé n'y pas aller; M. le Proviseur me l'a permis ainsi qu'à tous les pensionnaires philosophes."/>
+        <date when="1840-01-26"/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -71,7 +73,6 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>y</signature>
             </name>
           </signed>
         </closer>

@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, 4 mars 1857." resp="">Paris, 4 mars 1857.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1857-03-04">4 mars 1857.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -60,11 +61,11 @@
         <p>Mais l'inconnu est encore dans ce que feront les partisans des géologues lundi prochain.</p>
         <p>Adieu. Tout à toi.</p>
         <p>L. PASTEUR.</p>
+        <p>Et Jeanne? Tu me laisses sans nouvelles.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Et Jeanne? Tu me laisses sans nouvelles.</signature>
             </name>
           </signed>
         </closer>

@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Hôtel de l'Europe." resp="">Hôtel de l'Europe.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-06-05">mercredi matin [5 juin 1855]</date>
+          <placeName>Douai</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -64,7 +65,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>Tout à toi, L. PASTEUR.</signature>
+              Tout à toi, L. PASTEUR.
             </name>
           </signed>
         </closer>

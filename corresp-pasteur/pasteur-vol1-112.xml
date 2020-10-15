@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Lille, le jeudi 6 juin 1855." resp="">Lille, le jeudi 6 juin 1855.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-06-06">le jeudi 6 juin 1855.</date>
+          <placeName>Lille</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR]. (...-...)">A Mme PASTEUR].</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -61,11 +62,12 @@
         <p>Adieu. Je t'embrasse de tout cœur.</p>
         <p>Tout à toi, L. PASTEUR.</p>
         <p>Reviens le plus tôt possible et ne manque pas d'aller au moins deux fois à l'Exposition 3.</p>
+        <p>au Presbytère, Saint-Pryvé-Saint-Mesmin, près d'Orléans.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>au Presbytère, Saint-Pryvé-Saint-Mesmin, près d'Orléans.</signature>
+              
             </name>
           </signed>
         </closer>

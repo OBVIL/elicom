@@ -26,11 +26,11 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Samedi 31 mars." resp="">Samedi 31 mars.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1849-03-31">Samedi 31 mars.</date>
         </correspAction>
         <correspAction type="received">
-          <persName key="A MADEMOISELLE MARIE LAURENT. (...-...)">A MADEMOISELLE MARIE LAURENT.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A MADEMOISELLE MARIE LAURENT.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -62,7 +62,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>Adieu. Votre meilleur ami, Louis PASTEUR.</signature>
+              Adieu. Votre meilleur ami, Louis PASTEUR.
             </name>
           </signed>
         </closer>

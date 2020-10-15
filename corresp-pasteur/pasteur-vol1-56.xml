@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Strasbourg, 8 novembre 1851.] Mon cher papa, J'ai une nouvelle à t'apprendre, et heureusement elle est bonne. Marie est accouchée très heureusement d'un garçon ce matin à 4 h. du matin. Marie et son fils se portent parfaitement, et Marie a souffert très peu de temps. Nous sommes bien satisfaits d'avoir un garçon." resp="">[Strasbourg, 8 novembre 1851.] Mon cher papa, J'ai une nouvelle à t'apprendre, et heureusement elle est bonne. Marie est accouchée très heureusement d'un garçon ce matin à 4 h. du matin. Marie et son fils se portent parfaitement, et Marie a souffert très peu de temps. Nous sommes bien satisfaits d'avoir un garçon.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1851-11-08" >8 novrembre 1851</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="[Strasbourg, 8 novembre 1851.] Mon cher papa, J'ai une nouvelle à t'apprendre, et heureusement elle est bonne. Marie est accouchée très heureusement d'un garçon ce matin à 4 h. du matin. Marie et son fils se portent parfaitement, et Marie a souffert très peu de temps. Nous sommes bien satisfaits d'avoir un garçon."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -50,46 +50,20 @@
       <div type="letter">
         <opener>
           <dateline>
-            <date>[Strasbourg, 8 novembre 1851.] Mon cher papa, J'ai une nouvelle à t'apprendre, et heureusement elle est bonne. Marie est accouchée très heureusement d'un garçon ce matin à 4 h. du matin. Marie et son fils se portent parfaitement, et Marie a souffert très peu de temps. Nous sommes bien satisfaits d'avoir un garçon.</date>
+            <date>[Strasbourg, 8 novembre 1851.]</date>
           </dateline>
           <salute/>
         </opener>
+        <p> Mon cher papa, J'ai une nouvelle à t'apprendre, et heureusement elle est bonne. Marie est accouchée très heureusement d'un garçon ce matin à 4 h. du matin. Marie et son fils se portent parfaitement, et Marie a souffert très peu de temps. Nous sommes bien satisfaits d'avoir un garçon.</p>
         <p>J'attends une nouvelle lettre de toi avec bien de l'impatience.</p>
         <p>Je suis bien heureux de te savoir bien portant. Embrasse bien Virginie pour moi.</p>
         <p>Adieu mon cher papa. Je t'embrasse bien.</p>
         <p>L. PASTEUR.</p>
-        <p>A CHAPPUIS.</p>
-        <p>Strasbourg, 12 décembre 1851.</p>
-        <p>Les nouvelles que j'avais à te donner devaient se suivre à court intervalle, et j'attendais de les connaître dans leurs détails pour t'en faire part. En réalité elles ont été éloignées, et elles embrassent aujourd'hui un temps fort longM. Persoz a battu M. Lesieur et M. Thenard. Ces messieurs ne voulaient qu'une chose, son retour ou sa démis" sion. Je m'accommodais très bien de cette alternative, d'au-</p>
-        <p>tant que je comptais que M. Persoz préférerait donner sa démission. Mais M. Persoz s'est fait malade avec bons certificats de médecins et force a été de lui donner un congé.</p>
-        <p>Restait la question du traitement. Un absurde décret de Cavaignac 1 veut que le suppléant n'ait jamais plus de la Moitié du traitement du professeur titulaire, J'ai demandé que ce décret fût annulé ou modifié. Le Ministre m'a répondu avec politesse que malgré mes titres incontestables, il ne pouvait déroger à ces dispositions et qu'il m'en exprimait tous ses regrets. Je pouvais demander que la chaire de Besançon fût déclarée vacante. Mais M. Persoz n a qu'un congé de six mois, arraché plutôt qu'obtenu.</p>
-        <p>Tout me retient ici d'ailleurs : mon laboratoire, notre installation, nos connaissances. Je reste donc et je regarde Besançon comme une planche de salut au cas où ce Monsieur reviendrait. Sa conduite est bien sévèrement blâmée à Paris par tout le monde.</p>
-        <p>L'affaire Persoz a été de très près suivie par l'accouchement très heureux de ma chère Marie qui m'a donné, à otre grand plaisir, un fils du nom de Jean-Baptiste Lucien.</p>
-        <p>J. B. Biot a bien voulu accepter d'en être le parrain.</p>
-        <p>Enfin, mon cher ami, est venu le rapport sur mon dernier travail2, dont j'ai depuis hier seulement des exemplaires à Part. Tu y verras l'importance de mes dernières recherches.</p>
-        <p>^°n plan d'études es. tracé d'ailleurs pour l'année qui va s ouvrir. J'espère même le voir s'agrandir prochainement e la manière la plus heureuse.</p>
-        <p>Je crois déjà t'avoir dit que je touchais à des mystères et que le voile qui les couvre va diminuant de plus en plus.</p>
-        <p>USSI les nuits me paraissent trop longues. Cependant je I1.e me plains pas. Je prépare mes leçons facilement et j'ai CInq jours pleins à consacrer par semaine au laboratoire.</p>
-        <p>ï. Décret signé par Cavaignac alors qu'il était président du conseil des lSes, chef du pouvoir exécutif (1848).</p>
-        <p>&lt;1 '- voir XEuvres de Pasteur, t. I, p. 445-459 : Rapport sur un mémoire J37 M. L. Pasteur, relatif aux acides aspartique et malique. Le rapporteur, Biot, écrit : « La série de recherches, si neuves et si fécondes, que M. Pasteur poursuit depuis quatre ans. ont été faites avec le triple cont urs de la cristallographie, de la chimie et de l'optique moléculaire.</p>
-        <p>Là se trouve le principe de la réussite, et c'en était aussi la condition. »</p>
-        <p>Je suis souvent grondé par ma bonne Marie que je console en lui disant que je la mène à la postérité.</p>
-        <p>Si cela peut t'intéresser, je suis très partisan du coup d'Etat.</p>
-        <p>Mme PASTEUR A SON BEAU-PÈRE.</p>
-        <p>29 décembre 1851.</p>
-        <p>Mon cher père, Depuis que je ne vous ai écrit je vous ai fait grand-père pour la seconde fois, et fort heureusement pour nous, grandpère d'un petit garçon que nous désirions beaucoup ayant déjà la fille. Maintenant que nous n'avons plus rien à souhaiter, j'espère que nous nous en tiendrons là le plus longtemps possible. Vous avez tort de supposer que Louis commence à s'ennuyer des cris de ses deux enfants. C'est un père de famille, modèle, qui tout en travaillant beaucoup trouve encore le moyen de consacrer chaque jour un instant à bercer son nouveau-né et à prendre soin de sa fille si je ne peux pas le faire.</p>
-        <p>Jusqu'à présent notre pauvre petit garçon n'a pas été très bien portant. Il a eu depuis sa naissance une diarrhée continuelle que tous les remèdes n'ont pas pu encore faire céderIl va cependant mieux en ce moment et nous espérons qu'à force de soins et de précautions nous le ferons arriver jusqu'au printemps qui seul, je crois, pourra le débarrasser complètement.</p>
-        <p>Je le nourris ainsi que je l'ai fait pour Jeanne, mais cette fois-ci j'ai beaucoup moins de lait que la première. Je crois m'être trop fatiguée en nourrissant Jeanne plus d'une année.</p>
-        <p>Encore un 10 décembre passé et rien de nouveau. NouS devions cependant nous attendre à quelque chose et il a fallu les événements politiques pour venir détruire toutes nos espe rances. Nous avons vu dans les journaux qu'un professeur venait d'être décoré. Peut-être attend-on l'époque du jour de l'an pour faire d'autres nominations. Dans tous les cas, cela ne nous empêche pas de dormir.</p>
-        <p>Louis vous a dit combien M. Biot avait été généreux envers</p>
-        <p>nous à l'occasion de son parrainage. Nous étions déjà trop heureux qu'il eût bien voulu accepter d'être parrain et nous étions bien loin de nous attendre à tant de belles choses. J'ai déjà mis la robe qu'il m'a envoyée. Je l'avais fait faire pour 1 étrenner le 10 décembre 1 et malheureusement ce jour-là s'est Passé sans rien apporter.</p>
-        <p>Ne viendrez-vous pas nous voir cette année-ci, maintenant que vous êtes tout à fait libre 2. Pour moi, malgré tout le plaiIr que j'aurais à aller vous embrasser, je crois qu'il m'est impossible de songer à me faire suivre de nos deux enfants, aussi remettrai-je le voyage d'Arbois à un peu plus tard. En étendant je vous embrasse de tout mon cœur en vous enVoyant tous mes vœux de bonne année.</p>
-        <p>J'embrasse aussi Virginie.</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Votre fille dévouée, MARIE.</signature>
             </name>
           </signed>
         </closer>

@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Lille, le 26 janvier 1855." resp="">Lille, le 26 janvier 1855.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-01-26">le 26 janvier 1855.</date>
+          <placeName>Lille</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="Au RECTEUR DE L'ACADÉMIE DE DOUAI 1. (...-...)">Au RECTEUR DE L'ACADÉMIE DE DOUAI 1.</persName>
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE DOUAI 1.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -65,7 +66,6 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>Calcul différentiel et intégral.. 20 12 9 Mécanique appliquée. 76 96 Physique. 139 150 196 173 Histoire naturelle. 75 120 139 133 Chimie 150 170 203 233</signature>
             </name>
           </signed>
         </closer>

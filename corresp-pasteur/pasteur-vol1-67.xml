@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Leipsick, mercredi 15 septembre 1852." resp="">Leipsick, mercredi 15 septembre 1852.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-15" >mercredi 15 septembre 1852.</date>
+          <placeName>Leipsick</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -72,12 +73,11 @@
         <p>L. PASTEUR.</p>
         <p>Embrasse plusieurs fois nos chers enfants. Je les vois d'ici.</p>
         <p>Mes amitiés et mes embrassements à toute la famille.</p>
-        <p>Il me reste en ce moment 316 fr. Je paye à l'hôtel chaque repas après l'avoir pris. Je dois donc seulement ma chambre — aussi quelques produits chimiques que je n'ai pas trouvés au laboratoire; environ 12 fr. Reste 300 fr.</p>
+        <p>Il me reste en ce moment 316 fr. Je paye à l'hôtel chaque repas après l'avoir pris. Je dois donc seulement ma chambre — aussi quelques produits chimiques que je n'ai pas trouvés au laboratoire; environ 12 fr. Reste 300 fr. J'écrirai à M. Biot dès que j'aurai quelques résultats importants. La journée a été bonne, et dans deux ou trois jours tu recevras sans doute une lettre satisfaisante. — Écris à mon père que je me porte bien et donne-moi de ses nouvelles. — Je pense que je lui écrirai bientôt.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>J'écrirai à M. Biot dès que j'aurai quelques résultats importants. La journée a été bonne, et dans deux ou trois jours tu recevras sans doute une lettre satisfaisante. — Écris à mon père que je me porte bien et donne-moi de ses nouvelles. — Je pense que je lui écrirai bientôt.</signature>
             </name>
           </signed>
         </closer>

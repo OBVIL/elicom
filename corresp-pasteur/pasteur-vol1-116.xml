@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Lille, 17 juin 1855.] Ma chère Marie, Il y a déjà quelque témps que je n'ai reçu de tes nouvelles. Es-tu encore à Orléans? N'y es-tu pas? Je l'ignore, parce que je ne sais pas au juste si tu as différé ton voyage d'Orléans à Paris. J'espère en tout cas te revoir bientôt et il me tarde de nous voir rentrés dans le train ordinaire de notre ménage. Je ne crois avoir rien de bien nouveau à t'apprendre. Nous allons bien malgré la pluie, le vent et le froid. J'ai fait faire du feu ce matin dans mon laboratoire." resp="">[Lille, 17 juin 1855.] Ma chère Marie, Il y a déjà quelque témps que je n'ai reçu de tes nouvelles. Es-tu encore à Orléans? N'y es-tu pas? Je l'ignore, parce que je ne sais pas au juste si tu as différé ton voyage d'Orléans à Paris. J'espère en tout cas te revoir bientôt et il me tarde de nous voir rentrés dans le train ordinaire de notre ménage. Je ne crois avoir rien de bien nouveau à t'apprendre. Nous allons bien malgré la pluie, le vent et le froid. J'ai fait faire du feu ce matin dans mon laboratoire.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-06-17">17 juin 1855.</date>
+          <placeName>Lille</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR. (...-...)">A Mme PASTEUR.</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -50,11 +51,11 @@
       <div type="letter">
         <opener>
           <dateline>
-            <date>[Lille, 17 juin 1855.] Ma chère Marie, Il y a déjà quelque témps que je n'ai reçu de tes nouvelles. Es-tu encore à Orléans? N'y es-tu pas? Je l'ignore, parce que je ne sais pas au juste si tu as différé ton voyage d'Orléans à Paris. J'espère en tout cas te revoir bientôt et il me tarde de nous voir rentrés dans le train ordinaire de notre ménage. Je ne crois avoir rien de bien nouveau à t'apprendre. Nous allons bien malgré la pluie, le vent et le froid. J'ai fait faire du feu ce matin dans mon laboratoire.</date>
+            <date>[Lille, 17 juin 1855.]</date>
           </dateline>
           <salute/>
         </opener>
-        <p>Aussi la fête de Lille est fort triste.</p>
+        <p> Ma chère Marie, Il y a déjà quelque témps que je n'ai reçu de tes nouvelles. Es-tu encore à Orléans? N'y es-tu pas? Je l'ignore, parce que je ne sais pas au juste si tu as différé ton voyage d'Orléans à Paris. J'espère en tout cas te revoir bientôt et il me tarde de nous voir rentrés dans le train ordinaire de notre ménage. Je ne crois avoir rien de bien nouveau à t'apprendre. Nous allons bien malgré la pluie, le vent et le froid. J'ai fait faire du feu ce matin dans mon laboratoire.. Aussi la fête de Lille est fort triste.</p>
         <p>On a commencé à peindre toutes les portes dans notre logement et je crois qu'il n'y aura plus aucune place humide quand cela sera terminé, de sorte que tout de suite on pourrait poser les papiers.</p>
         <p>A l'instant même on m'apporte ta lettre dans laquelle tu me dis de t'écrire rue St Sébastien 43 2, que tu y seras lundi à 3 heures après midi. Je vais donc mettre l'adresse à cette</p>
         <p>lettre en conséquence. Je t'attendrai jeudi ou mercredi; mais n'oublie pas de m'écrire affn que je puisse aller à ta rencontre et reviens de jour comme tu me le dis.</p>
@@ -69,7 +70,6 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>;</signature>
             </name>
           </signed>
         </closer>

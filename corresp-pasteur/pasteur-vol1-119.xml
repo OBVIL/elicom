@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, 24 septembre 1855." resp="">Paris, 24 septembre 1855.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-09-24">24 septembre 1855.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -63,20 +64,11 @@
         <p>Je connaissais donc son échec à l'agrégation. Mais c'est un concours où il est bien rare d'arriver du premier coup.</p>
         <p>Adieu. Je t'embrasse de bon cœur avec Virginie, ses enfants et son mari.</p>
         <p>L. PASTEUR.</p>
-        <p>Mme PASTEUR A SON BEAU-PÈRE.</p>
-        <p>Lille, 7 octobre 1855.</p>
-        <p>Mon cher père, Nous sommes tous de retour depuis huit jours et je vous assure que la présence de Louis ici n'est pas de trop. Vous ne vous imaginez pas tout ce qu'il a fait et tout ce qu'il a encore à faire exécuter avant la rentrée de la Faculté. Vous avez été peut-être un peu contrarié de ne point le voir à Arbois; mais il me semble qu'il a pris le parti le plus sage en n'y allant pas. Il venait de passer plusieurs jours avec vous à Paris, et le temps qu'il aurait pu vous consacrer, après les examens de l'agrégation, n'aurait pas été suffisant pour compenser les frais du voyage. Il a néanmoins beaucoup regretté de ne pas</p>
-        <p>aller vous embrasser encore avec Virginie et ses enfants. Nous nous promettons pour l'année prochaine un long séj our près de vous et un joli voyage en votre compagnie à travers les montagnes de la Suisse.</p>
-        <p>Nos enfants sont revenus de la campagne avec une santé que nous ne leur avons jamais vue. Les voilà maintenant enfermés pour une année dans l'atmosphère enfumée de Lille.</p>
-        <p>Nous nous décidons à mettre Jeanne à l'école. Ce sera un bon débarras pour moi. Les deux autres vont être confiés à une seconde fille qui entre demain à notre service. De cette façon, vous ne craindrez pas d'être trop étourdi quand vous viendrez.</p>
-        <p>Vous devez être en pleines vendanges maintenant. Vos</p>
-        <p>x. Pasteur était descendu à l'Hôtel de l'Empereur Joseph II, rue de Tournon, en face du Sénat. Voir p. 245, note 1.</p>
-        <p>vignes sont-elles belles? Je vous souhaite belle récolte et vous embrasse bien tendrement avec Virginie, son mari et ses enfants.</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>MARIE.</signature>
             </name>
           </signed>
         </closer>

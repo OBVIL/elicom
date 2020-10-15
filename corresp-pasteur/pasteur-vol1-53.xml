@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Strasbourg, 16 juillet 1851." resp="">Strasbourg, 16 juillet 1851.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1851-07-16"> 16 juillet 1851.</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="Au DOCTEUR GODÉLIER 1. (...-...)">Au DOCTEUR GODÉLIER 1.</persName>
+          <persName key="">Au DOCTEUR GODÉLIER</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -68,7 +69,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>Votre tout dévoué, L. PASTEUR.</signature>
+              Votre tout dévoué, L. PASTEUR.
             </name>
           </signed>
         </closer>

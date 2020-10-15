@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, 9 décembre 1842." resp="">Paris, 9 décembre 1842.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-12-09" >9 décembre 1842.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -71,12 +73,11 @@
         <p>- Voilà ce que je fais, mes chers parens, dans cette ville de Paris si belle et si laide sous tous les rapports. Ici, plus que partout ailleurs, se choquent, se croisent la vertu et le vice, la probité et la mauvaise foi, la fortune et la misère, le talent et l'ignorance. Mais quand on a du sang sous les ongles, on y reste le cœur simple et droit comme en un endroit tout autre. Y change qui n'a pas de volonté.</p>
         <p>Je vous embrasse tous de bon cœur.</p>
         <p>L. PASTEUR.</p>
-        <p>1843</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Pasteur expose la vie qu'il mène à Paris.</signature>
+              
             </name>
           </signed>
         </closer>

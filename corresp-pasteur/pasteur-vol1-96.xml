@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, 23 mai 1854." resp="">Paris, 23 mai 1854.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1854-05-23">23 mai 1854.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -62,14 +63,10 @@
         <p>C'est alors une affaire d'amour-propre pure et simple. Je sais très bien que ce titre peut être fort utile à un chef de famille dans telle occasion donnée, et par exemple ici pour M. Malaguti. Mais pour moi en ce moment je ne vois pas qu'il puisse me servir. Et si plus tard je devais en avoir besoin, bien des occasions se présenteront à moi pour l'obtenir.</p>
         <p>Adieu. Ecris-nous. Je t'embrasse ainsi que Marie, toi, Virginie et ses enfants de tout mon cœur.</p>
         <p>L. PASTEUR.</p>
-        <p>A CHAPPUIS.</p>
-        <p>Paris, 22 juillet 1854.</p>
-        <p>J'ai présenté dernièrement à l'Académie un travail qui a été très bien accueilli1. J'ai terminé hier des essais qui ont réussi et qui me donnent un très beau sujet de travail pour l'an prochain.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>J'espère à l'aide du résultat nouveau auquel je viens d'arriver pouvoir résoudre des questions très importantes dans la direction des études où je me trouve. Je te conterai cela à notre première entrevue.</signature>
             </name>
           </signed>
         </closer>

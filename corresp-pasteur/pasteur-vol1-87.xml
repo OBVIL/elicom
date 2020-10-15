@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Samedi matin 25 septembre 1853." resp="">Samedi matin 25 septembre 1853.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1853-09-25">25 septembre 1853</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="Samedi matin 25 septembre 1853."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -67,7 +67,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>Ton fils très ressemblant, L. PASTEUR.</signature>
+              Ton fils très ressemblant, L. PASTEUR.
             </name>
           </signed>
         </closer>

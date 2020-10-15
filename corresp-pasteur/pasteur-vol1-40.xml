@@ -26,8 +26,9 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, 3 avril 1848." resp="">Paris, 3 avril 1848.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1848-04-03" >Paris, 3 avril 1848.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
           <persName key="Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES. (...-...)">Au MINISTRE DE L'INSTRUCTION PUBLIQUE ET DES CULTES.</persName>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="Paris, 3 avril 1848."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -61,7 +61,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>L. PASTEUR, préparateur de chimie à l'Ecole normale.</signature>
+              L. PASTEUR, préparateur de chimie à l'Ecole normale.
             </name>
           </signed>
         </closer>

@@ -27,10 +27,11 @@
       <correspDesc>
         <correspAction type="sent">
           <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Strasbourg, le Ier novembre 1851." resp="">Strasbourg, le Ier novembre 1851.</date>
+          <date when="1851-11-01">le Ier novembre 1851.</date>
+          <placeName>Strasbourg</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="Au RECTEUR DE L'ACADÉMIE DE STRASBOURG. (...-...)">Au RECTEUR DE L'ACADÉMIE DE STRASBOURG.</persName>
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE STRASBOURG.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -69,7 +70,7 @@
           <salute></salute>
           <signed>
             <name>
-              <signature>Je suis avec respect, M. le recteur votre très humble et très dévoué serviteur, L. PASTEUR.</signature>
+              Je suis avec respect, M. le recteur votre très humble et très dévoué serviteur, L. PASTEUR.
             </name>
           </signed>
         </closer>

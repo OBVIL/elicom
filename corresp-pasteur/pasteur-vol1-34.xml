@@ -26,11 +26,13 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Paris, 23 octobre 1842." resp="">Paris, 23 octobre 1842.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1842-10-23" >23 octobre 1842.</date>
+          <placeName>Paris</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SES PARENTS. (...-...)">A SES PARENTS.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SES PARENTS.</persName>
+          <persName key="Roqui, Jeanne-Etiennette (1793-1848)">A SES PARENTS.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -71,16 +73,21 @@
         <p>Chappuis vous dit bien des choses et vous écrira dans quelque temps. Je l'ai vu constamment tous les jours derniers plutôt deux fois qu'une.</p>
         <p>Je vous embrasse tous de bon cœur.</p>
         <p>L. PASTEUR.</p>
-        <p>P.-S. — N'oubliez pas de me dire comment est à présent Emilie, si elle parle beaucoup, si elle a maigri.</p>
-        <p>Vous devez voir que je n'ai pas cette année la maladie du pays 2. Ce matin j'ai pris un bain; ça m'est facile, nous avons notre chambre dans un établissement de bains. Les élèves avec qui je reste sont très bons garçons.</p>
+        
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Bien des choses à Jules [Vercel] et dites-lui qu'Altin a parfaitement accueilli sa dernière lettre, que j'ai lue et qui était pleine de bons conseils donnés avec douceur'et bonté.</signature>
             </name>
           </signed>
         </closer>
+        <postscript>
+          <p>P.-S. — N'oubliez pas de me dire comment est à présent Emilie, si elle parle beaucoup, si elle a maigri.</p>
+          <p>Vous devez voir que je n'ai pas cette année la maladie du pays 2. Ce matin j'ai pris un bain; ça m'est facile, nous avons notre chambre dans un établissement de bains. Les élèves avec qui je reste sont très bons garçons.</p>
+          <p>Bien des choses à Jules [Vercel] et dites-lui qu'Altin a parfaitement accueilli sa dernière lettre, que j'ai lue et qui était pleine de bons conseils donnés avec douceur'et bonté.</p>
+          
+        </postscript>
       </div>
     </body>
   </text>

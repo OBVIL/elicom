@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Leipsick, dimanche soir 12 septembre 1852." resp="">Leipsick, dimanche soir 12 septembre 1852.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1852-09-12" > dimanche soir 12 septembre 1852.</date>
+          <placeName>Leipsick</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A Mme PASTEUR (...-...)">A Mme PASTEUR</persName>
+          <persName key="Pasteur, Marie (1826-1910)">A Mme PASTEUR</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -80,18 +81,12 @@
         <p>très volontiers Dijon avec un cours de chimie de deux leçons au plus par semaine au lycée et au moins 1.500 fr. Et que je tiens à ce que cela soit décidé ainsi au plus tôt; mais qu'il sera bon qu'il ne nomme pas immédiatement (si cela devenait possible) à la Faculté de Strasbourg [un successeur] a cause de nos meubles; ou du moins qu'il soit bien entendu que mon successeur quel qu'il soit ne pourra disposer du laboratoire qu'à partir du IER novembre environ ou du 15 octobre si je suis de retour à ce moment. Accepte franchement cette position. Elle est très convenable et dis-lui que je compte sur son appui pour un laboratoire.</p>
         <p>M. Laurent aura la complaisance de t'accompagner à Bellevue 1. - Dis bien que dans le cas où je ne pourrais avoir les deux places de Strasbourg j'accepte très volontiers et avec reconnaissance les deux positions de Dijon. Qu'enfin si je ne puis avoir qu'une chaire de Faculté c'est à Stras- bourg que je m'attache avant tout.</p>
         <p>Tout à toi. &gt; * L. PASTEUR.</p>
-        <p>Leipsick, lundi matin [13 septembre 1852].</p>
-        <p>Je viens d'aller voir M. le Professeur Erdmann 2 qui a mis avec une grande complaisance son magnifique laboratoire à ma disposition.</p>
-        <p>Je m'y rends à l'instant avec mes produits.</p>
-        <p>Adresse ainsi la lettre chargée que tu m'enverras : M. Erdmann, professeur de Chimie à l'Université de Leipsick (pour remettre à M. Pasteur). M. Erdmann se chargera du reste. C'est plus sûr ainsi parce que je ne pense pas que ta réponse puisse me parvenir à l'hôtel de Bavière. Je serai déjà parti pour Vienne. Donne aussi à M. Dumas mon adresse de cette manière.</p>
-        <p>Mon père a-t-il écrit?</p>
-        <p>L. PASTEUR.</p>
-        <p>Ceci est la deuxième lettre que j'annonçais hier soir.</p>
+        
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>N'aie jamais d'inquiétude sur moi. Je t'avertirais de toute circonstance extraordinaire immédiatement.</signature>
+              
             </name>
           </signed>
         </closer>

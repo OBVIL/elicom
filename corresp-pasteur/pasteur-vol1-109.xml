@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="Lille, 12 février 1855." resp="">Lille, 12 février 1855.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1855-02-12">12 février 1855.</date>
+          <placeName>Lille</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="Au RECTEUR DE L'ACADÉMIE DE DOUAI. (...-...)">Au RECTEUR DE L'ACADÉMIE DE DOUAI.</persName>
+          <persName key="">Au RECTEUR DE L'ACADÉMIE DE DOUAI.</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -61,20 +62,10 @@
         <p>A mon avis donc, Monsieur le Recteur, il n'y a pas à s'occuper en ce moment de l'enseignement appliqué à la Faculté de Lille. D'une part, nous n'avons pas les éléments que cette création exigerait; d'autre part, c'est assez de nouveauté pour cette ville, tout entière aux affaires, que l'enseignement naissant d'une Faculté des sciences. Nous serons tout-puissants quand nos laboratoires seront remplis d'élèves. Que ce soit là en ce moment le but de nos efforts.</p>
         <p>Veuillez agréer, etc.</p>
         <p>Louis PASTEUR.</p>
-        <p>AU Dr GODÉLIER.</p>
-        <p>• Lille, le 26 février 1855.</p>
-        <p>Mon cher Monsieur Godélier, Notre Faculté ne va pas mal. J'ai environ 250 auditeurs.</p>
-        <p>Je donne beaucoup de soin à mes leçons et tous mes collègues font de même.</p>
-        <p>Grâce à la libéralité de la Ville, qui a dû pourvoir aux premiers frais d'installation, rien ne nous manque, et ce sera</p>
-        <p>plaisir que de travailler ici dès que notre local sera entièrement terminé. Aussi je désire beaucoup passer à Lille de longues années. Je ne saurais trouver nulle part autant d'avantages de toutes sortes. Depuis un mois déjà j'ai pu reprendre mes études favorites et j'espère avoir quelque nouveauté pour l'Académie à la fin de l'année.</p>
-        <p>Nos enfants se portent à merveille. Le changement d'air leur a évidemment servi beaucoup. Nous avons aussi de bonnes nouvelles de notre grosse Jeanne qui est toujours à Orléans. J'attends de vous et des vôtres, par Félix, d'aussi bonnes nouvelles. Surtout ne faites pas comme notre hardi Empereur. N'allez pas en Crimée 1. Tantôt on y comptera bien des douleurs.</p>
-        <p>Adieu. Mille choses aimables pour Mme Pasteur et moi à Mme Godélier. Embrassez pour nous Cécile, Edmée et Paul qui est maintenant un grand garçon désireux de faire son chemin.</p>
-        <p>Tout à vous.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>L. PASTEUR.</signature>
             </name>
           </signed>
         </closer>

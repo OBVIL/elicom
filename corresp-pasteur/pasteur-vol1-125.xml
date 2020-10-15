@@ -26,11 +26,12 @@
     <profileDesc>
       <correspDesc>
         <correspAction type="sent">
-          <persName key="Pasteur, Louis (...-...)">Louis Pasteur</persName>
-          <date when="[Lille, 29 janvier 1856.] Mon cher papa, Nous sommes tous ici mal portants. Tout le monde est enrhumé. C'est Marie qui se porte le mieux. Mais les trois enfants gardent la chambre et moi je suis aussi fortement enrhumé du cerveau. Tout cela passera bien vite. Il n'y a que Jeanne qui a une maladie incompréhensible. Tu sais qu'elle a été très mal pendant trois semaines. Elle a pris un vermifuge et elle a été mieux après avoir rendu trois vers." resp="">[Lille, 29 janvier 1856.] Mon cher papa, Nous sommes tous ici mal portants. Tout le monde est enrhumé. C'est Marie qui se porte le mieux. Mais les trois enfants gardent la chambre et moi je suis aussi fortement enrhumé du cerveau. Tout cela passera bien vite. Il n'y a que Jeanne qui a une maladie incompréhensible. Tu sais qu'elle a été très mal pendant trois semaines. Elle a pris un vermifuge et elle a été mieux après avoir rendu trois vers.</date>
+          <persName key="Pasteur, Louis (1822-1895)">Louis Pasteur</persName>
+          <date when="1856-01-29">29 janvier 1856.</date>
+          <placeName>Lille</placeName>
         </correspAction>
         <correspAction type="received">
-          <persName key="A SON PÈRE. (...-...)">A SON PÈRE.</persName>
+          <persName key="Pasteur, Jean-Joseph (1791-1865)">A SON PÈRE</persName>
         </correspAction>
         <correspContext>
           <ref type="prev" target="foo.xml"/>
@@ -38,7 +39,6 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="[Lille, 29 janvier 1856.] Mon cher papa, Nous sommes tous ici mal portants. Tout le monde est enrhumé. C'est Marie qui se porte le mieux. Mais les trois enfants gardent la chambre et moi je suis aussi fortement enrhumé du cerveau. Tout cela passera bien vite. Il n'y a que Jeanne qui a une maladie incompréhensible. Tu sais qu'elle a été très mal pendant trois semaines. Elle a pris un vermifuge et elle a été mieux après avoir rendu trois vers."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -73,17 +73,10 @@
         <p>M. Biot va très bien et travaille toujours beaucoup.</p>
         <p>J'ai plusieurs travaux en train dont je suis assez content.</p>
         <p>foi en elles. Il avait donné à son fils un petit manuel médical, édité par Raspail.</p>
-        <p>Mme PASTEUR A SON BEAU-PÈRE.</p>
-        <p>Lille, 22 février 1856.</p>
-        <p>Mon cher père, Jeanne est en ce moment tout à fait remise. Elle reprend sa belle mine en même temps que son appétit et sa turbulence.</p>
-        <p>Sous ce dernier rapport son frère et sa sœur ne lui cèdent en rien, ils sont tous les trois des diables déchaînés. Heureusement pour nous que Jeanne nous prive de sa présence pendant plusieurs heures par jour. Autrement on n'y pourrait pas tenir.</p>
-        <p>Je vous envoie sous ce pli un billet de 100 f., ce qui réduit à 180 f. la somme que nous vous devons encore. Accusez-nous réception de ce billet ainsi que de celui que nous vous avons adressé il y a quelque temps. Ne vous pressez pas de nous envoyer du vin, nous en possédons encore 60 litres environ d'ordinaire, c'est plus qu'il nous en faut pour un mois ou six semaines. D'après ce que vous nous dites, il paraît que pour notre coup d'essai nous n'avons pas été heureux dans l'acquisition de ce vin nouveau. Vous devriez au moins ne pas vous moquer de nous car c'est votre affaire plutôt que la nôtre.</p>
-        <p>Dans tous les cas le mal n'est pas grand et nous nous en consolons facilement. Vous ne nous avez pas encore donné la note du vin fin que vous avez acheté pour nous chez M. Beschet au mois de novembre. Nous vous en tiendrons compte quand nous l'aurons. Louis est bien portant en ce moment après avoir été enrhumé long-temps. Il se garantit du froid aux pieds avec les sabots que vous lui avez confectionnés vousmême il y a quelques années. Il engraisse beaucoup et ses habits deviennent tous trop étroits. C'est vous dire assez que sa santé est excellente comme la mienne. Je souhaite que vous vous portiez également bien ainsi que Virginie, son mari et ses enfants et je vous embrasse de tout cœur.</p>
         <closer>
           <salute></salute>
           <signed>
             <name>
-              <signature>Votre fille dévouée, MARIE.</signature>
             </name>
           </signed>
         </closer>
