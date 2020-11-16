@@ -6,7 +6,7 @@
 Extraction des fichiers par Lucie Slavik.
 Correction des fichiers par Camille Koskas et Lucie Slavik.
 
-### Ce qui a été fait
+### Ce qui a été fait
 
 - Sand, volume 1
 - Larmartine, volume 1
