@@ -27,7 +27,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <persName key="Barbet, Jean-François (1799-1880)">Barbet</persName>
-                    <date when="1943-09-21">21 septembre 1843.</date>
+                    <date when="1843-09-21">21 septembre 1843.</date>
                     <placeName>Institution Barbet, Paris</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -39,7 +39,7 @@
                 </correspContext>
             </correspDesc>
             <creation>
-                <date when="Paris, 27 février 1843."/>
+              <date when="1843-09-21"/>
             </creation>
             <langUsage>
                 <language ident="fre"/>

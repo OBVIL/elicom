@@ -37,7 +37,7 @@
           <persName key="Proudhon, Pierre-Joseph (1809-1865)"
             ref="https://data.bnf.fr/fr/11920705/pierre-joseph_proudhon/">Pierre-Joseph
             Proudhon</persName>
-          <date when="17 août 1839." resp="">17 août 1839.</date>
+          <date when="1839-08-17">17 août 1839.</date>
         </correspAction>
         <correspAction type="received">
           <persName key="SUR UNE PAGE D'ALBUM (...-...)">SUR UNE PAGE D'ALBUM</persName>
@@ -48,7 +48,7 @@
         </correspContext>
       </correspDesc>
       <creation>
-        <date when="17 août 1839."/>
+        <date when="1839-08-17"/>
       </creation>
       <langUsage>
         <language ident="fre"/>

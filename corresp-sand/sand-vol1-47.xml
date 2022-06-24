@@ -27,18 +27,9 @@
       <correspDesc>
         <correspAction type="sent">
           <persName key="George Sand (...-...)">George Sand</persName>
-          <date when="J'ai regret d'avoir manqué votre précédente représentation, j'hais trop malade. J'ai chargé madame Decerf de jte prendre vingt billets à votre loterie. J'y aurais coopéré par quelque ouvrage si j'avais eu plus de temps et de santé." resp="">J'ai regret d'avoir manqué votre précédente représentation, j'hais trop malade. J'ai chargé madame Decerf de jte prendre vingt billets à votre loterie. J'y aurais coopéré par quelque ouvrage si j'avais eu plus de temps et de santé.</date>
         </correspAction>
-        <correspAction type="received">
-          <persName key="Nohant.avrHiSSi. (...-...)">Nohant.avrHiSSi.</persName>
-        </correspAction>
-        <correspContext>
-          <ref type="prev" target="foo.xml"/>
-          <ref type="next" target="bar.xml"/>
-        </correspContext>
       </correspDesc>
       <creation>
-        <date when="J'ai regret d'avoir manqué votre précédente représentation, j'hais trop malade. J'ai chargé madame Decerf de jte prendre vingt billets à votre loterie. J'y aurais coopéré par quelque ouvrage si j'avais eu plus de temps et de santé."/>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -48,21 +39,9 @@
   <text>
     <body>
       <div type="letter">
-        <opener>
-          <dateline>
-            <date>J'ai regret d'avoir manqué votre précédente représentation, j'hais trop malade. J'ai chargé madame Decerf de jte prendre vingt billets à votre loterie. J'y aurais coopéré par quelque ouvrage si j'avais eu plus de temps et de santé.</date>
-          </dateline>
-          <salute/>
-        </opener>
+        <p>J'ai regret d'avoir manqué votre précédente représentation, j'hais trop malade. J'ai chargé madame Decerf de jte prendre vingt billets à votre loterie. J'y aurais coopéré par quelque ouvrage si j'avais eu plus de temps et de santé.</p>
         <p>Votre mère m'a dit que toutes ces comédies vous fatiguaient beaucoup. Prenez garde, ne vous faites pas, comme moi, vieux avant le temps.</p>
-        <closer>
-          <salute></salute>
-          <signed>
-            <name>
-              <signature>Bonsoir, mon camarade; je vous embrasse de tout mon cœur. Avez-vous des nouvelles d'Alphonse ? personne ne m'en donne, ni lui non plus.</signature>
-            </name>
-          </signed>
-        </closer>
+        <p>Bonsoir, mon camarade; je vous embrasse de tout mon cœur. Avez-vous des nouvelles d'Alphonse ? personne ne m'en donne, ni lui non plus.</p>
       </div>
     </body>
   </text>

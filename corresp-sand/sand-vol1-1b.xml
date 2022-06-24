@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -63,10 +62,9 @@
                 <closer>
                     <salute>Adieu, mon petit père. Nous vous embrassons et sommes vos bons amis.</salute>
                     <signed>
-                        <name>
-                            LES DEUX CASIMIRS~.</signature>
-                        </name>
+                        <name>LES DEUX CASIMIRS~.</name>
                     </signed>
+                </closer>
             </div>
         </body>
     </text>

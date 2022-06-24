@@ -27,7 +27,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName key="George Sand (...-...)">George Sand</persName>
-          <date when="1829-08_01" >1er août 1829.</date>
+          <date when="1829-08-01">1er août 1829.</date>
           <placeName>Nohant</placeName>
         </correspAction>
         <correspAction type="received">
